@@ -1,3 +1,3 @@
-# caesarea-data
-Repository for Caesarea-Maritima.org TEI data. 
+# majlis-data
+Repository for majlis TEI data. 
 
