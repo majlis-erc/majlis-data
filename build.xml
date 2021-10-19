@@ -2,7 +2,7 @@
 <project default="xar" name="majlis-data">
     <xmlproperty file="expath-pkg.xml"/>
     <property name="project.version" value="${package(version)}"/>
-    <property name="project.app" value="caesarea-data"/>
+    <property name="project.app" value="majlis-data"/>
     <property name="build.dir" value="build"/>
     <target name="xar">
         <mkdir dir="${build.dir}"/>
