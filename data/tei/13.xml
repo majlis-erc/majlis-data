@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:srophe="https://srophe.app"
+     xmlns:saxon="http://saxon.sf.net/"
+     xmlns:functx="http://www.functx.com"
+     xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="en">Abū l-Ḥasan ʿAlī b. Sulaymān</title>
+            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+            <sponsor ref="https://www.uni-muenchen.de">
+               <orgName>Ludwig Maximilian University of Munich</orgName>
+                        (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)
+                    </sponsor>
+            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+               <orgName>Institute of Near and Middle Eastern Studies</orgName>
+                        (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)
+                    </sponsor>
+            <funder ref="https://erc.europa.eu/">
+               <orgName>ERC: European Research Council</orgName>
+                        (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)
+                    </funder>
+            <principal ref="#rvollandt">Ronny Vollandt</principal>
+            <editor xml:id="rvollandt"
+                    role="general"
+                    ref="                          https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+            <editor xml:id="gschwarb"
+                    role="contributor"
+                    ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+            <editor xml:id="ngibson"
+                    role="contributor"
+                    ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+            <editor xml:id="mmoliere"
+                    role="contributor"
+                    ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+            <editor role="creator" ref="#ngibson">Nathan P. Gibson</editor>
+            <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+            <respStmt>
+               <resp>Original tabular architecture and XSLT script by</resp>
+               <name type="person" ref="#ngibson">Nathan P. Gibson</name>
+            </respStmt>
+            <respStmt>
+               <resp>Conversion into TEI-XML format by</resp>
+               <name type="person" ref="#mmoliere">Maximilian de Molière</name>
+            </respStmt>
+            <respStmt>
+               <resp>Original data architecture of TEI person records for Srophé by</resp>
+               <name type="person"
+                     ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
+            </respStmt>
+            <respStmt>
+               <resp>Srophé app design and development by</resp>
+               <name type="person"
+                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.6.0-dev"/>
+         </editionStmt>
+         <publicationStmt>
+            <authority>
+               <ref target="https://majlis.net">Majlis.net</ref>
+            </authority>
+            <idno type="URI">https://majlis.net/person/13/tei</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0)
+                                License.</p>
+               </licence>
+            </availability>
+            <date>2021-10-23+02:00</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This record created following the Syriaca.org guidelines. Documentation
+                        available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+            <interpretation>
+               <p>Approximate dates described in terms of centuries or partial centuries
+                            have been interpreted as documented in <ref target="http://syriaca.org/documentation/dates.html">Syriaca.org
+                                Dates</ref>.</p>
+            </interpretation>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="syriaca-headword">
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and
+                                disambiguation. These names have been created according to the
+                                Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+               </category>
+               <category xml:id="syriaca-anglicized">
+                  <catDesc>An anglicized version of a name, included to facilitate
+                                searching.</catDesc>
+               </category>
+               <category xml:id="ektobe-headword">
+                  <catDesc>The name used by e-Ktobe as a standardized name form.</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy>
+               <category xml:id="syriaca-author">
+                  <catDesc>A person who is relevant to the Guide to Syriac
+                                Authors</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="ar">Arabic</language>
+            <language ident="he">Hebrew</language>
+            <language ident="fr">French</language>
+            <language ident="de">German</language>
+            <language ident="la">Latin</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft"/>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="person-13">
+               <persName xml:id="name13-1"
+                         xml:lang="en"
+                         srophe-tags="#syriaca-headword"
+                         source="#bib13-1"
+                         resp="#mmoliere">Abū l-Ḥasan ʿAlī b. Sulaymān</persName>
+               <persName xml:id="name13-2"
+                         type="alternate"
+                         xml:lang="en"
+                         source="#bib13-2"
+                         resp="#mmoliere">al-Muqaddasī</persName>
+               <persName xml:id="name13-3" xml:lang="ar" srophe-tags="#syriaca-headword">أبو الحسن علي بن سليمان</persName>
+               <note xml:id="abstract-en-13"
+                     xml:lang="en"
+                     type="abstract"
+                     source="#bib13-1">Abū l-Ḥasan ʿAlī b. Sulaymān</note>
+               <idno type="URI">https://majlis.net/person/13</idno>
+               <state xml:lang="en"
+                      type="occupation"
+                      role="author"
+                      source="#bib13-1"
+                      resp="#mmoliere">
+                  <desc>author</desc>
+               </state>
+               <change xml:id="change-1"
+                       who="http://majlis.net/documentation/editors.xml#mmoliere"
+                       n="0.2"
+                       when="2021-10-21+02:00">CREATED: person from spreadsheet https://docs.google.com/spreadsheets/d/1qB4m5KgbYJNMEFvtnhqB1maWcyWmk72SLd2Lev4ReOE/edit#gid=1488304675. The canonical record is currently in the spreadsheet. Changes should be made there. THIS FILE SHOULD NOT BE MANUALLY EDITED!</change>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
