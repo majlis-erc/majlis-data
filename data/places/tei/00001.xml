@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="en">Test Place page</title>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.1-dev"/>
+         </editionStmt>
+         <publicationStmt>
+            <authority>
+               <ref target="https://majlis.net">MAJLIS.net</ref>
+            </authority>
+            <idno type="URI">https://majlis.net/place/00001/tei</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+               </licence>
+            </availability>
+            <date/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This record created following the Syriaca.org guidelines. Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+            <interpretation>
+               <p>Approximate dates described in terms of centuries or partial centuries have been interpreted as documented in <ref target="http://syriaca.org/documentation/dates.html">Syriaca.org Dates</ref>.</p>
+            </interpretation>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="syriaca-headword">
+                  <catDesc>The name used by Syriaca.org for document titles, citation, and disambiguation. These names have been created according to
+                     the Syriac.org guidelines for headwords: <ref>http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="he">Hebrew</language>
+            <language ident="ar">Arabic</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft"/>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place type="settlement">
+               <placeName xmlns:srophe="https://srophe.app" xml:lang="en" srophe:tags="#syriaca-headword">Testing Github integration. </placeName>
+               <placeName xml:lang="ar"/>
+               <placeName xml:lang="he"/>
+               <desc type="abstract" xml:lang="en">
+                        <quote/>
+                    </desc>
+               <location>
+                  <geo/>
+                  <settlement/>
+                  <region/>
+               </location>
+               <state type="existence"/>
+               <idno type="URI">https://majlis.net/place/$$$/tei</idno>
+               <idno type="URI">https://geo-kima.org/Places/Details?id=</idno>
+               <idno type="URI">https://www.geonames.org/</idno>
+               <idno type="URI">https://d-nb.info/gnd/</idno>
+               <idno type="URI">http://viaf.org/viaf/</idno>
+               <idno type="URI">https://www.wikidata.org/wiki/</idno>
+               <bibl>
+                  <author/>
+                  <title xml:lang="en"/>
+                  <citedRange unit="p"/>
+                  <ptr/>
+               </bibl>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
