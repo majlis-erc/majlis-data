@@ -49,7 +49,7 @@
                         <country/>
                         <settlement/>
                         <repository/>
-                        <idno/>
+                        <idno>MS 888</idno>
                         <altIdentifier>
                             <idno type="IMHM"/>
                         </altIdentifier>
@@ -65,15 +65,11 @@
                         <summary/>
                         <msItem>
                             <locus/>
-                            <title xml:lang="he"/>
-                            <title xml:lang="ar"/>
+                            
+                            <title xml:lang="ar" ref="99">Bible Comm</title>
                             <title xml:lang="en"/>
                             <author>
-                                <persName>
-                                    <forename/>
-                                    <surname/>
-                                    <addName/>
-                                </persName>
+                                <persName ref="https://majlis.net/person/1">Yešuʿah ben Yehuda</persName>
                             </author>
                             <textLang/>
                             <rubric>
@@ -235,7 +231,7 @@
                             <origDate/>
                             <origPlace/>
                             <locus/>
-                            <persName/>
+                            <persName ref="https://majlis.net/person/1">Yešuʿah ben Yehuda</persName>
                             <q/>
                             <p/>
                         </origin>
