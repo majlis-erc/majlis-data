@@ -62,7 +62,7 @@
                         <msName/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Test summary Change!</summary>
+                        <summary>Test summary</summary>
                         <msItem>
                             <locus target="44">44</locus>
                             <title xml:lang="he" ref="222">Test title</title>
