@@ -64,12 +64,12 @@
                     <msContents>
                         <summary>Test summary</summary>
                         <msItem>
-                            <locus/>
+                            <locus target="44">44</locus>
                             <title xml:lang="he" ref="222">Test title</title>
                             <title xml:lang="ar"/>
                             <title xml:lang="en"/>
                             <author ref="333">
-                                <persName>                                                                                                                                            Test author</persName>
+                                <persName>Test author</persName>
                             </author>
                             <textLang/>
                             <rubric>
