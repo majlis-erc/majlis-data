@@ -229,7 +229,7 @@
                     </xsl:when>
                     <!-- if record is complete and has a URI, puts it in the $directory folder -->
                     <xsl:when test="New_URI != ''">
-                        <xsl:value-of select="concat($directory, $record-id, '.xml')"/>
+                        <xsl:value-of select="concat($directory, 'person-', $record-id, '.xml')"/>
                     </xsl:when>
                     <!-- if record doesn't have a URI, puts it in 'unresolved' folder inside the $directory  -->
                     <xsl:otherwise>
