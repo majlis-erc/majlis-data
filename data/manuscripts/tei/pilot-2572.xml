@@ -265,52 +265,6 @@
                         </msContents>
                         <physDesc>
                             <objectDesc form="fragment">
-                                <supportDesc>
-                                    <support>
-                                        <p/>
-                                        <material/>
-                                        <p/>
-                                        <watermark/>
-                                        <p/>
-                                        <locus/>
-                                        <p/>
-                                        <origPlace/>
-                                        <origDate/>
-                                    </support>
-                                    <extent>
-                                        <measure unit="leaf"/>
-                                        <dimensions type="leaves">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <depth unit="mm"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation/>
-                                    <collation>
-                                        <p/>
-                                        <formula/>
-                                        <catchwords/>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <summary/>
-                                    <layout>
-                                        <p/>
-                                        <dimensions type="written">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <dim unit="mm" type="intercolumn"/>
-                                        </dimensions>
-                                        <note>
-                                            <p/>
-                                            <locus/>
-                                            <p/>
-                                        </note>
-                                        <ab type="ruling"/>
-                                        <ab type="pricking"/>
-                                    </layout>
-                                </layoutDesc>
                             </objectDesc>
                             <handDesc>
                                 <summary/>
@@ -328,51 +282,7 @@
                                     <p/>
                                 </handNote>
                             </handDesc>
-                            <additions>
-                                <p/>
-                                <list>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                </list>
-                            </additions>
                         </physDesc>
-                        <history>
-                            <summary/>
-                            <origin>
-                                <origDate/>
-                                <origPlace/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <p/>
-                            </origin>
-                            <provenance>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </provenance>
-                            <acquisition>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </acquisition>
-                        </history>
                     </msPart>
                     <msPart>
                         <msIdentifier>
@@ -431,52 +341,6 @@
                         </msContents>
                         <physDesc>
                             <objectDesc form="fragment">
-                                <supportDesc>
-                                    <support>
-                                        <p/>
-                                        <material/>
-                                        <p/>
-                                        <watermark/>
-                                        <p/>
-                                        <locus/>
-                                        <p/>
-                                        <origPlace/>
-                                        <origDate/>
-                                    </support>
-                                    <extent>
-                                        <measure unit="leaf"/>
-                                        <dimensions type="leaves">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <depth unit="mm"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation/>
-                                    <collation>
-                                        <p/>
-                                        <formula/>
-                                        <catchwords/>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <summary/>
-                                    <layout>
-                                        <p/>
-                                        <dimensions type="written">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <dim unit="mm" type="intercolumn"/>
-                                        </dimensions>
-                                        <note>
-                                            <p/>
-                                            <locus/>
-                                            <p/>
-                                        </note>
-                                        <ab type="ruling"/>
-                                        <ab type="pricking"/>
-                                    </layout>
-                                </layoutDesc>
                             </objectDesc>
                             <handDesc>
                                 <summary/>
@@ -494,51 +358,7 @@
                                     <p/>
                                 </handNote>
                             </handDesc>
-                            <additions>
-                                <p/>
-                                <list>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                </list>
-                            </additions>
                         </physDesc>
-                        <history>
-                            <summary/>
-                            <origin>
-                                <origDate/>
-                                <origPlace/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <p/>
-                            </origin>
-                            <provenance>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </provenance>
-                            <acquisition>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </acquisition>
-                        </history>
                     </msPart>
                     <msPart>
                         <msIdentifier>
@@ -597,52 +417,6 @@
                         </msContents>
                         <physDesc>
                             <objectDesc form="fragment">
-                                <supportDesc>
-                                    <support>
-                                        <p/>
-                                        <material/>
-                                        <p/>
-                                        <watermark/>
-                                        <p/>
-                                        <locus/>
-                                        <p/>
-                                        <origPlace/>
-                                        <origDate/>
-                                    </support>
-                                    <extent>
-                                        <measure unit="leaf"/>
-                                        <dimensions type="leaves">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <depth unit="mm"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation/>
-                                    <collation>
-                                        <p/>
-                                        <formula/>
-                                        <catchwords/>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <summary/>
-                                    <layout>
-                                        <p/>
-                                        <dimensions type="written">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <dim unit="mm" type="intercolumn"/>
-                                        </dimensions>
-                                        <note>
-                                            <p/>
-                                            <locus/>
-                                            <p/>
-                                        </note>
-                                        <ab type="ruling"/>
-                                        <ab type="pricking"/>
-                                    </layout>
-                                </layoutDesc>
                             </objectDesc>
                             <handDesc>
                                 <summary/>
@@ -660,51 +434,7 @@
                                     <p/>
                                 </handNote>
                             </handDesc>
-                            <additions>
-                                <p/>
-                                <list>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                </list>
-                            </additions>
                         </physDesc>
-                        <history>
-                            <summary/>
-                            <origin>
-                                <origDate/>
-                                <origPlace/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <p/>
-                            </origin>
-                            <provenance>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </provenance>
-                            <acquisition>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </acquisition>
-                        </history>
                     </msPart>
                     <msPart>
                         <msIdentifier>
@@ -763,52 +493,6 @@
                         </msContents>
                         <physDesc>
                             <objectDesc form="fragment">
-                                <supportDesc>
-                                    <support>
-                                        <p/>
-                                        <material/>
-                                        <p/>
-                                        <watermark/>
-                                        <p/>
-                                        <locus/>
-                                        <p/>
-                                        <origPlace/>
-                                        <origDate/>
-                                    </support>
-                                    <extent>
-                                        <measure unit="leaf"/>
-                                        <dimensions type="leaves">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <depth unit="mm"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation/>
-                                    <collation>
-                                        <p/>
-                                        <formula/>
-                                        <catchwords/>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <summary/>
-                                    <layout>
-                                        <p/>
-                                        <dimensions type="written">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <dim unit="mm" type="intercolumn"/>
-                                        </dimensions>
-                                        <note>
-                                            <p/>
-                                            <locus/>
-                                            <p/>
-                                        </note>
-                                        <ab type="ruling"/>
-                                        <ab type="pricking"/>
-                                    </layout>
-                                </layoutDesc>
                             </objectDesc>
                             <handDesc>
                                 <summary/>
@@ -826,51 +510,7 @@
                                     <p/>
                                 </handNote>
                             </handDesc>
-                            <additions>
-                                <p/>
-                                <list>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                </list>
-                            </additions>
                         </physDesc>
-                        <history>
-                            <summary/>
-                            <origin>
-                                <origDate/>
-                                <origPlace/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <p/>
-                            </origin>
-                            <provenance>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </provenance>
-                            <acquisition>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </acquisition>
-                        </history>
                     </msPart>
                     <msPart>
                         <msIdentifier>
@@ -929,52 +569,6 @@
                         </msContents>
                         <physDesc>
                             <objectDesc form="fragment">
-                                <supportDesc>
-                                    <support>
-                                        <p/>
-                                        <material/>
-                                        <p/>
-                                        <watermark/>
-                                        <p/>
-                                        <locus/>
-                                        <p/>
-                                        <origPlace/>
-                                        <origDate/>
-                                    </support>
-                                    <extent>
-                                        <measure unit="leaf"/>
-                                        <dimensions type="leaves">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <depth unit="mm"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation/>
-                                    <collation>
-                                        <p/>
-                                        <formula/>
-                                        <catchwords/>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <summary/>
-                                    <layout>
-                                        <p/>
-                                        <dimensions type="written">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <dim unit="mm" type="intercolumn"/>
-                                        </dimensions>
-                                        <note>
-                                            <p/>
-                                            <locus/>
-                                            <p/>
-                                        </note>
-                                        <ab type="ruling"/>
-                                        <ab type="pricking"/>
-                                    </layout>
-                                </layoutDesc>
                             </objectDesc>
                             <handDesc>
                                 <summary/>
@@ -992,51 +586,7 @@
                                     <p/>
                                 </handNote>
                             </handDesc>
-                            <additions>
-                                <p/>
-                                <list>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                </list>
-                            </additions>
                         </physDesc>
-                        <history>
-                            <summary/>
-                            <origin>
-                                <origDate/>
-                                <origPlace/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <p/>
-                            </origin>
-                            <provenance>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </provenance>
-                            <acquisition>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </acquisition>
-                        </history>
                     </msPart>
                     <msPart>
                         <msIdentifier>
@@ -1095,52 +645,6 @@
                         </msContents>
                         <physDesc>
                             <objectDesc form="fragment">
-                                <supportDesc>
-                                    <support>
-                                        <p/>
-                                        <material/>
-                                        <p/>
-                                        <watermark/>
-                                        <p/>
-                                        <locus/>
-                                        <p/>
-                                        <origPlace/>
-                                        <origDate/>
-                                    </support>
-                                    <extent>
-                                        <measure unit="leaf"/>
-                                        <dimensions type="leaves">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <depth unit="mm"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation/>
-                                    <collation>
-                                        <p/>
-                                        <formula/>
-                                        <catchwords/>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <summary/>
-                                    <layout>
-                                        <p/>
-                                        <dimensions type="written">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <dim unit="mm" type="intercolumn"/>
-                                        </dimensions>
-                                        <note>
-                                            <p/>
-                                            <locus/>
-                                            <p/>
-                                        </note>
-                                        <ab type="ruling"/>
-                                        <ab type="pricking"/>
-                                    </layout>
-                                </layoutDesc>
                             </objectDesc>
                             <handDesc>
                                 <summary/>
@@ -1158,217 +662,7 @@
                                     <p/>
                                 </handNote>
                             </handDesc>
-                            <additions>
-                                <p/>
-                                <list>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                </list>
-                            </additions>
                         </physDesc>
-                        <history>
-                            <summary/>
-                            <origin>
-                                <origDate/>
-                                <origPlace/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <p/>
-                            </origin>
-                            <provenance>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </provenance>
-                            <acquisition>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </acquisition>
-                        </history>
-                    </msPart>
-                    <msPart>
-                        <msIdentifier>
-                            <country/>
-                            <settlement/>
-                            <institution/>
-                            <repository/>
-                            <idno/>
-                            <msName>VII.</msName>
-                            <altIdentifier type="IMHM">
-                                <idno/>
-                            </altIdentifier>
-                            <altIdentifier type="SfarData">
-                                <idno/>
-                            </altIdentifier>
-                            <altIdentifier type="Ktiv">
-                                <idno/>
-                            </altIdentifier>
-                        </msIdentifier>
-                        <msContents>
-                            <summary/>
-                            <msItem xml:id="$$$">
-                                <locus/>
-                                <title xml:lang="he"/>
-                                <title xml:lang="ar"/>
-                                <title xml:lang="en"/>
-                                <author>
-                                    <persName>
-                                    </persName>
-                                </author>
-                                <textLang/>
-                                <rubric>
-                                    <locus/>
-                                    <q/>
-                                </rubric>
-                                <incipit>
-                                    <locus/>
-                                    <q/>
-                                </incipit>
-                                <explicit>
-                                    <locus/>
-                                    <q/>
-                                </explicit>
-                                <finalRubric>
-                                    <locus/>
-                                    <q/>
-                                </finalRubric>
-                                <colophon>
-                                    <locus/>
-                                    <q/>
-                                </colophon>
-                                <note>
-                                    <p/>
-                                </note>
-                            </msItem>
-                        </msContents>
-                        <physDesc>
-                            <objectDesc form="fragment">
-                                <supportDesc>
-                                    <support>
-                                        <p/>
-                                        <material/>
-                                        <p/>
-                                        <watermark/>
-                                        <p/>
-                                        <locus/>
-                                        <p/>
-                                        <origPlace/>
-                                        <origDate/>
-                                    </support>
-                                    <extent>
-                                        <measure unit="leaf"/>
-                                        <dimensions type="leaves">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <depth unit="mm"/>
-                                        </dimensions>
-                                    </extent>
-                                    <foliation/>
-                                    <collation>
-                                        <p/>
-                                        <formula/>
-                                        <catchwords/>
-                                    </collation>
-                                    <condition/>
-                                </supportDesc>
-                                <layoutDesc>
-                                    <summary/>
-                                    <layout>
-                                        <p/>
-                                        <dimensions type="written">
-                                            <height unit="mm"/>
-                                            <width unit="mm"/>
-                                            <dim unit="mm" type="intercolumn"/>
-                                        </dimensions>
-                                        <note>
-                                            <p/>
-                                            <locus/>
-                                            <p/>
-                                        </note>
-                                        <ab type="ruling"/>
-                                        <ab type="pricking"/>
-                                    </layout>
-                                </layoutDesc>
-                            </objectDesc>
-                            <handDesc>
-                                <summary/>
-                                <handNote>
-                                    <p/>
-                                    <persName/>
-                                    <p/>
-                                    <placeName/>
-                                    <p/>
-                                    <metamark/>
-                                    <p/>
-                                    <locus/>
-                                    <p/>
-                                    <origDate/>
-                                    <p/>
-                                </handNote>
-                            </handDesc>
-                            <additions>
-                                <p/>
-                                <list>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                    <item>
-                                        <p/>
-                                        <locus/>
-                                        <desc type="comment"/>
-                                    </item>
-                                </list>
-                            </additions>
-                        </physDesc>
-                        <history>
-                            <summary/>
-                            <origin>
-                                <origDate/>
-                                <origPlace/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <p/>
-                            </origin>
-                            <provenance>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </provenance>
-                            <acquisition>
-                                <date/>
-                                <placeName/>
-                                <locus/>
-                                <persName/>
-                                <q/>
-                                <stamp/>
-                                <p/>
-                            </acquisition>
-                        </history>
                     </msPart>
                 </msDesc>
             </listBibl>
