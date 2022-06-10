@@ -33,7 +33,7 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
+                </respStmt><editor role="creator">Gregor Schwarb</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -192,14 +192,16 @@
                             <q/>
                             <p/>
                         </origin>
-                        <provenance><p>The different parts of the MS once belonged to a Karaite synagogue. Thus on fol. </p>
+                        <provenance>
+                            <p>The different parts of the MS once belonged to a Karaite synagogue. Thus on fol. </p>
                             
                             
                             <locus from="1a">1a:</locus>
                             
                             <q xml:lang="en">קדש על עדת בני מקרא </q>
                             
-                            <p>and an Arabic entry to a similar purport on fol. </p><locus from="20a">20a.</locus>
+                            <p>and an Arabic entry to a similar purport on fol. </p>
+                            <locus from="20a">20a.</locus>
                         </provenance>
                         <acquisition>
                             <date/>
