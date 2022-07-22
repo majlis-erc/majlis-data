@@ -33,7 +33,7 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
+                </respStmt><editor role="creator">Gregor Schwarb</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -88,7 +88,9 @@
                                     <locus/>
                                     <p/>
                                     
-                                    <origPlace/><origDate/><p>The collection of fragment consists of </p>
+                                    <origPlace/>
+                                    <origDate/>
+                                    <p>The collection of fragment consists of </p>
                                 </support>
                                 <extent>
                                     <measure unit="leaf">118</measure>
@@ -191,13 +193,15 @@
                             <p/>
                         </origin>
                         <provenance>
-                            <date/>
-                            <placeName/>
-                            <locus/>
-                            <persName/>
-                            <q/>
-                            <stamp/>
-                            <p/>
+                            <p>The different parts of the MS once belonged to a Karaite synagogue. Thus on fol. </p>
+                            
+                            
+                            <locus from="1a">1a:</locus>
+                            
+                            <q xml:lang="en">קדש על עדת בני מקרא </q>
+                            
+                            <p>and an Arabic entry to a similar purport on fol. </p>
+                            <locus from="20a">20a.</locus>
                         </provenance>
                         <acquisition>
                             <date/>
@@ -261,7 +265,11 @@
                                 <note>
                                     <p/>
                                 </note>
-                            </msItem><msItem><locus target="12b">12b</locus><title>Polemical text</title></msItem>
+                            </msItem>
+                            <msItem>
+                                <locus target="12b">12b</locus>
+                                <title>Polemical text</title>
+                            </msItem>
                         </msContents>
                         <physDesc>
                             <objectDesc form="fragment">
@@ -305,15 +313,12 @@
                         <msContents>
                             <summary/>
                             <msItem xml:id="$$$">
-                                <locus/>
-                                <title xml:lang="he"/>
+                                <locus from="13a" to="13b">13a-13b</locus>
+                                <title xml:lang="en">A piece (still in the same hand) …</title>
                                 <title xml:lang="ar"/>
                                 <title xml:lang="en"/>
-                                <author>
-                                    <persName>
-                                    </persName>
-                                </author>
-                                <textLang/>
+                                
+                                <textLang mainLang="ar">Arabic</textLang>
                                 <rubric>
                                     <locus/>
                                     <q/>
@@ -381,15 +386,15 @@
                         <msContents>
                             <summary/>
                             <msItem xml:id="$$$">
-                                <locus/>
-                                <title xml:lang="he"/>
-                                <title xml:lang="ar"/>
-                                <title xml:lang="en"/>
+                                <locus from="14a" to="17a">14a-17a</locus>
+                                
+                                
+                                <title xml:lang="en">A piece written down from a quotation …</title>
                                 <author>
                                     <persName>
                                     </persName>
                                 </author>
-                                <textLang/>
+                                <textLang to="ar">Arabic</textLang>
                                 <rubric>
                                     <locus/>
                                     <q/>
@@ -457,13 +462,12 @@
                         <msContents>
                             <summary/>
                             <msItem xml:id="$$$">
-                                <locus/>
+                                <locus from="20a" to="67b">20a-67b</locus>
                                 <title xml:lang="he"/>
                                 <title xml:lang="ar"/>
-                                <title xml:lang="en"/>
+                                <title xml:lang="en">Extracts</title>
                                 <author>
-                                    <persName>
-                                    </persName>
+                                    <persName ref="https://majlis.net/person/14">Abū ʾl-Faḍl Sahl ibn al-Faḍl al-Tustarī</persName>
                                 </author>
                                 <textLang/>
                                 <rubric>
@@ -533,10 +537,10 @@
                         <msContents>
                             <summary/>
                             <msItem xml:id="$$$">
-                                <locus/>
+                                <locus from="68b" to="108b">68b-108b</locus>
                                 <title xml:lang="he"/>
                                 <title xml:lang="ar"/>
-                                <title xml:lang="en"/>
+                                <title xml:lang="en">A treatise …</title>
                                 <author>
                                     <persName>
                                     </persName>
@@ -609,13 +613,12 @@
                         <msContents>
                             <summary/>
                             <msItem xml:id="$$$">
-                                <locus/>
+                                <locus from="109a">109a</locus>
                                 <title xml:lang="he"/>
                                 <title xml:lang="ar"/>
-                                <title xml:lang="en"/>
+                                <title xml:lang="en">A work …</title>
                                 <author>
-                                    <persName>
-                                    </persName>
+                                    <persName ref="https://majlis.net/person/8">Yūsuf al-Baṣīr</persName>
                                 </author>
                                 <textLang/>
                                 <rubric>
