@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Budapest, Hungarian Academy of Sciences, MS Kaufmann A 459</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+                    München</orgName>) </sponsor>
+                <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
+                        Osten</orgName>) </sponsor>
+                <funder ref="https://erc.europa.eu/">
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                <principal ref="#rvollandt">Ronny Vollandt</principal>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+                    <persName>Ronny Vollandt</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+                    <persName>Gregor Schwarb</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+                    <persName>Nathan P. Gibson</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+                    <persName>Maximilian de Molière</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt><editor role="creator">mmoliere</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+                </authority>
+                <idno type="URI">https://jalit.org/manuscript/B459/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                    </licence>
+                </availability>
+                <date>$$$</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
+            <change who="#mmoliere">CREATED: Converted Zotero Data to TEI-File</change><change who="#guest" when="2022-09-14T14:40:32.595Z">Record created by manuForma, editor: guest</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic/>
+    </facsimile>
+    <text>
+        <body>
+            <listBibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>Hungarian Academy of Sciences</institution>
+                        
+                        <idno>MS Kaufmann A 459</idno>
+                        
+                        <altIdentifier type="IMHM">
+                            <idno>F 12592</idno>
+                        </altIdentifier>
+                        
+                        <altIdentifier type="Ktiv">
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                        <msItem xml:id="$$$">
+                            <locus/>
+                            <title xml:lang="he"/>
+                            <title xml:lang="ar"/>
+                            <title xml:lang="en"/>
+                            <author>
+                                <persName>
+                                </persName>
+                            </author>
+                            <textLang/>
+                            <rubric>
+                                <locus/>
+                                <q/>
+                            </rubric>
+                            <incipit>
+                                <locus/>
+                                <q/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <q/>
+                            </explicit>
+                            <finalRubric>
+                                <locus/>
+                                <q/>
+                            </finalRubric>
+                            <colophon>
+                                <locus/>
+                                <q/>
+                            </colophon>
+                            <note>
+                                <p/>
+                            </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="single">
+                            <supportDesc>
+                                <support>
+                                    
+                                    <material key="paper">Paper</material>
+                                    <p>manuscript. </p>
+                                    <watermark>The same  watermark is found throughout the manuscript: a coat of arms containing a single fleur-de-lys, the shield is crowned and has three bands, below the shield are the two letters “LB”. (59 ✕ 108 mm).</watermark>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                </support>
+                                <extent>
+                                    <measure unit="leaf">208</measure>
+                                    <dimensions type="leaves">
+                                        <height unit="mm">308</height>
+                                        <width unit="mm">198</width>
+                                        <depth unit="mm">23</depth>
+                                    </dimensions>
+                                </extent>
+                                <foliation rendition="original">Hebrew (dark brown ink): 17-19 31-33 36-47 49-58 61-63 65-82 84-85 (1) 142 86-129 131-134 130 (reversed) 139 (1).  - 51 is cut in top half.</foliation>
+                                <foliation rendition="modern">Arabic (pencil): 1-208.</foliation><collation>
+                                    <p/>
+                                    <formula/>
+                                    
+                                </collation>
+                                <condition key="deficient"> The text block is attached to the cover with white tape. The first quire is ripped open between pages 8 and 9. The writing material has been damaged throughout by damp, sometimes affecting the readability of the text, esp. 175-176. Some pages are torn or cut, e.g. 1-1, 41-42, 157-158. The edges are creased and warped. On some pages ripped section have been fixed using transparent tape, e.g. 4, 5, 149, or paper, eg. 206. In some parts, the manuscript is damaged by worms, e.g. 159-194. The end of the text is missing (catchword on last page).</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <summary>No fixed text layout. </summary>
+                                
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc hands="5">
+                            
+                            <handNote script="sephardi" mode="cursive" quality="current" medium="black">
+                                <p>Sephardic–Italian semi–cursive and cursive script in various hands from the seventeenth century. Some of the letters are written by </p>
+                                <persName>Moses Zacuto </persName>
+                                <p>himself.</p>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            </handNote>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding>
+                                
+                                <dimensions type="binding">
+                                    <height unit="mm">314</height>
+                                    <width unit="mm">212</width>
+                                    <depth unit="mm">28-34</depth>
+                                    
+                                </dimensions>
+                                
+                                
+                                
+                                
+                                
+                                <decoNote>
+                                    
+                                    <material key="cardboard">Cardboard</material><p> with </p><material key="paper"> marbled and green paper.</material>
+                                </decoNote>
+                                <condition>
+                                    <p>The binding is heavily damaged: the cardboard is exposed and most of the marbled paper is gone. The spine has been reinforced with black tape.</p>
+                                </condition>
+                            </binding>
+                        </bindingDesc>
+                        <additions>
+                            <p/>
+                            <list>
+                                <item>
+                                    <p/>
+                                    <locus/>
+                                    <desc type="comment"/>
+                                </item>
+                                <item>
+                                    <p/>
+                                    <locus/>
+                                    <desc type="comment"/>
+                                </item>
+                            </list>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <summary/>
+                        <origin>
+                            <origDate/>
+                            <origPlace/>
+                            <locus/>
+                            <persName/>
+                            <q/>
+                            <p/>
+                        </origin>
+                        <provenance>
+                            <date/>
+                            <placeName/>
+                            <locus/>
+                            <persName/>
+                            <q/>
+                            <stamp/>
+                            <p/>
+                        </provenance>
+                        <acquisition>
+                            <date/>
+                            <placeName/>
+                            <locus/>
+                            <persName/>
+                            <q/>
+                            <stamp/>
+                            <p/>
+                        </acquisition>
+                    </history>
+                </msDesc>
+                <additional>
+                    <listBibl>
+                        <bibl>
+                            <author>
+                                <forename/>
+                                <surname/>
+                            </author>
+                            <title/>
+                            <editor>
+                                <forename/>
+                                <surname/>
+                            </editor>
+                            <date/>
+                            <pubPlace/>
+                            <publisher/>
+                            <series/>
+                            <biblScope/>
+                            <citedRange unit="p"/>
+                            <ptr/>
+                        </bibl>
+                    </listBibl>
+                </additional>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
