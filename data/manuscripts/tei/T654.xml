@@ -79,13 +79,13 @@
                     </msIdentifier>
                     <msContents>
                         <summary/>
-                        <msItem class="bibleCommentary">
-                            <locus>678</locus>
-                            <title xml:lang="he">פרוש ויקרא</title>
-                            <title xml:lang="ar"/>
-                            <title xml:lang="en"/>
+                        <msItem>
+                            
+                            <locus/><title xml:lang="he">פרוש ויקרא</title>
+                            
+                            <title/><title xml:lang="en"/>
                             <author>
-                                <persName>ישועה בן יהודה</persName>
+                                <persName ref="https://majlis.net/person/1">Yešuʿa ben Yehuda</persName>
                             </author>
                             <rubric>
                                 <locus/>
