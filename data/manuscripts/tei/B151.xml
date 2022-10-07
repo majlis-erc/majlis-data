@@ -123,19 +123,19 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <summary/>
-                            <handNote>
-                                <p/>
-                                <persName/>
-                                <p/>
-                                <placeName/>
-                                <p/>
-                                <metamark/>
-                                <p/>
-                                <locus/>
-                                <p/>
-                                <origDate/>
-                                <p/>
+                            
+                            <handNote xml:id="01" script="italian" mode="cursive" quality="current">
+                                <p>Italian scripts in various hands; </p>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <origDate notAfter="1700" notBefore="1601">seventeenth to seventeenth century.</origDate>
+                                
                             </handNote>
                         </handDesc>
                         <bindingDesc>
