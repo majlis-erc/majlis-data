@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">British Library, Or. 2494 – Test – und zurück!</title>
+                <title level="a" xml:lang="en">British Library, Or. 2494</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
                     World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
@@ -64,18 +64,18 @@
             <listBibl>
                 <msDesc>
                     <msIdentifier>
-                        <country>England</country>
-                        <settlement>London</settlement>
+                        
+                        <country>England</country><settlement>London</settlement>
                         <institution>British Library</institution>
                         <repository/>
                         <idno>Or. 2494</idno>
                         <msName/>
+                        
                         <altIdentifier type="SfarData">
                             <idno>Cat. Margoliouth no. 318 (I:243–5)</idno>
-                        </altIdentifier>
-                        <altIdentifier type="Ktiv">
+                        </altIdentifier><altIdentifier type="Ktiv">
                             <idno>http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2494_fs001r</idno>
-                        </altIdentifier>
+                        </altIdentifier><altIdentifier><note/><idno/></altIdentifier>
                     </msIdentifier>
                     <msContents>
                         <summary/>
