@@ -85,7 +85,7 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Exodus 1:1-8:5, Hebrew text in Arabic characters</summary>
+                        <summary>Exodus 1:1-8:5, Hebrew text in Arabic characters with the Hebrew vowelpoints and accents, and ornamental designs in gold and colours</summary>
                         <msItem xml:id="$$$">
                             <locus>from 3v to 21v </locus>
                             <title xml:lang="he">שמות</title>
@@ -117,47 +117,49 @@
                                 <q/>
                             </colophon>
                             <note>
-                                <p>what kind of information belongs here.</p>
+                                <p>what kind of information belongs here?</p>
                             </note>
                         </msItem>
                     </msContents>
-                    <physDesc>
+                    <physDesc><accMat><p>Specimen-pages of Or. 2540, with a short description, have been
+published in facsimile by the Palaeographical Society in plates xcvii. and xcviii. of their
+Oriental series.</p></accMat>
                         <objectDesc form="single">
                             <supportDesc>
                                 <support>
-                                    <p/>
-                                    <material/>
-                                    <p/>
+                                    <p>what kind of information should be added here? Characterization/type of paper?</p>
+                                    <material>Paper</material>
+                                    <p>what kind of information should be added here? Characterization/type of paper? Explain attributes cert, key, n, type</p>
                                     <watermark/>
-                                    <p/>
+                                    <p>Description of watermark. Explain attributes (ana, ...)</p>
                                     <locus/>
                                     <p/>
-                                    <origPlace/>
-                                    <origDate/>
+                                    <origPlace>Jerusalem?</origPlace>
+                                    <origDate>10th century</origDate>
                                 </support>
                                 <extent>
                                     <measure unit="leaf"/>
                                     <dimensions type="leaves">
-                                        <height unit="mm"/>
-                                        <width unit="mm"/>
-                                        <depth unit="mm"/>
+                                        <height unit="mm">235</height>
+                                        <width unit="mm">175</width>
+                                        <depth unit="mm">1</depth>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Modern foliation in Arabic numerals in pencil</foliation>
                                 <collation>
-                                    <p/>
-                                    <formula/>
-                                    <catchwords/>
+                                    <p>Indeterminable</p>
+                                    <formula>The quires consisted apparently of ten leaves each, but there are no signatures.</formula>
+                                    <catchwords>no catchwords/signatures</catchwords>
                                 </collation>
-                                <condition/>
+                                <condition><p>Excepting a few leaves, especially ff. 7-9, which are partially stained, and ff. 2 and 7, part of the margin of which is cut away, and many small holes, the manuscript was, at the time of purchase and when the photograph was taken, in a good state of preservation. It has, however, suffered at the hands of the binder, the attempt to mend the small holes occurring on almost every leaf having resulted in rendering the writing in many places less distinct in the original than it is in the facsimile.</p></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary/>
-                                <layout>
+                                <summary>1 column. Ruled lines. 7 to 10 lines per page. Parashat Ṿa-era is marked by فرس' in gold in the margin. The punctuation is provided in red ink and the accents in green ink.</summary>
+                                <layout><note/>
                                     <p/>
                                     <dimensions type="written">
-                                        <height unit="mm"/>
-                                        <width unit="mm"/>
+                                        <height unit="mm">165</height>
+                                        <width unit="mm">125</width>
                                         <dim unit="mm" type="intercolumn"/>
                                     </dimensions>
                                     <note>
@@ -171,7 +173,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <summary/>
+                            <summary>see detailed description by Hoerning, pp. 1-20</summary>
                             <handNote>
                                 <p/>
                                 <persName/>
@@ -188,7 +190,7 @@
                         </handDesc>
                         <bindingDesc>
                             <binding>
-                                <p/>
+                                <p>BM/BL in-house binding (late 19th c.).</p>
                                 <dimensions type="binding">
                                     <height unit="mm"/>
                                     <width unit="mm"/>
@@ -226,10 +228,12 @@
                         </additions>
                     </physDesc>
                     <history>
-                        <summary/>
+                        <summary>Probably produced in late 10th/early 11th c. Jerusalem. Presumably transferred to Cairo towards end of 11th c. 
+Acquired around 1880 by Moses Wilhelm Shapira (bookseller) (b. 1830, d. 1884), an antiquities dealer of Jerusalem.
+Purchased by the British Museum from Shapira on 8 July 1882: inscribed, back flyleaf (ix)v. Date: 1882-07-08.</summary>
                         <origin>
-                            <origDate/>
-                            <origPlace/>
+                            <origDate>950-1050</origDate>
+                            <origPlace>Jerusalem?</origPlace>
                             <locus/>
                             <persName/>
                             <q/>
@@ -245,9 +249,9 @@
                             <p/>
                         </provenance>
                         <acquisition>
-                            <date/>
-                            <placeName/>
-                            <locus/>
+                            <date>08/07/1882</date>
+                            <placeName>London</placeName>
+                            <locus>fol. (ix)v</locus>
                             <persName/>
                             <q/>
                             <stamp/>
