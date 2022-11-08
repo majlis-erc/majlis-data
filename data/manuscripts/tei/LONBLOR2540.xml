@@ -75,7 +75,8 @@
                             <idno>F 6306</idno>
                         </altIdentifier>
                         <altIdentifier type="SfarData">
-                            <idno/><note/>
+                            <idno/>
+                            <note/>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
                             <idno>990001204920205171</idno>
@@ -84,27 +85,27 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Exodus 1:1-8:5, Hebrew text in Arabic characters</summary>
                         <msItem xml:id="$$$">
-                            <locus/>
-                            <title xml:lang="he"/>
-                            <title xml:lang="ar"/>
-                            <title xml:lang="en"/>
+                            <locus>from 3v to 21v </locus>
+                            <title xml:lang="he">שמות</title>
+                            <title xml:lang="ar">الخروج</title>
+                            <title xml:lang="en">Exodus</title>
                             <author>
                                 <persName>
                                 </persName>
                             </author>
-                            <textLang/>
+                            <textLang>Hebrew</textLang>
                             <rubric>
                                 <locus/>
                                 <q/>
                             </rubric>
                             <incipit>
-                                <locus/>
+                                <locus>3v</locus>
                                 <q/>
                             </incipit>
                             <explicit>
-                                <locus/>
+                                <locus>21v</locus>
                                 <q/>
                             </explicit>
                             <finalRubric>
@@ -116,7 +117,7 @@
                                 <q/>
                             </colophon>
                             <note>
-                                <p/>
+                                <p>what kind of information belongs here.</p>
                             </note>
                         </msItem>
                     </msContents>
