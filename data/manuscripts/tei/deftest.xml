@@ -52,7 +52,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere">CREATED: Converted Zotero Data to TEI-File</change><change who="#guest" when="2022-11-09T13:46:06.899Z">Record created by manuForma, editor: guest</change>
+            <change who="#mmoliere">CREATED: Converted Zotero Data to TEI-File</change>
+            <change who="#guest" when="2022-11-09T13:46:06.899Z">Record created by manuForma, editor: guest</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -117,7 +118,7 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="multiple">
+                        <objectDesc form="single">
                             <supportDesc>
                                 <support>
                                     <p/>
