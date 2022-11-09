@@ -121,9 +121,12 @@
                             </note>
                         </msItem>
                     </msContents>
-                    <physDesc><accMat><p>Specimen-pages of Or. 2540, with a short description, have been
+                    <physDesc>
+                        <accMat>
+                            <p>Specimen-pages of Or. 2540, with a short description, have been
 published in facsimile by the Palaeographical Society in plates xcvii. and xcviii. of their
-Oriental series.</p></accMat>
+Oriental series.</p>
+                        </accMat>
                         <objectDesc form="single">
                             <supportDesc>
                                 <support>
@@ -151,11 +154,14 @@ Oriental series.</p></accMat>
                                     <formula>The quires consisted apparently of ten leaves each, but there are no signatures.</formula>
                                     <catchwords>no catchwords/signatures</catchwords>
                                 </collation>
-                                <condition><p>Excepting a few leaves, especially ff. 7-9, which are partially stained, and ff. 2 and 7, part of the margin of which is cut away, and many small holes, the manuscript was, at the time of purchase and when the photograph was taken, in a good state of preservation. It has, however, suffered at the hands of the binder, the attempt to mend the small holes occurring on almost every leaf having resulted in rendering the writing in many places less distinct in the original than it is in the facsimile.</p></condition>
+                                <condition>
+                                    <p>Excepting a few leaves, especially ff. 7-9, which are partially stained, and ff. 2 and 7, part of the margin of which is cut away, and many small holes, the manuscript was, at the time of purchase and when the photograph was taken, in a good state of preservation. It has, however, suffered at the hands of the binder, the attempt to mend the small holes occurring on almost every leaf having resulted in rendering the writing in many places less distinct in the original than it is in the facsimile.</p>
+                                </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>1 column. Ruled lines. 7 to 10 lines per page. Parashat Ṿa-era is marked by فرس' in gold in the margin. The punctuation is provided in red ink and the accents in green ink.</summary>
-                                <layout><note/>
+                                <layout>
+                                    <note/>
                                     <p/>
                                     <dimensions type="written">
                                         <height unit="mm">165</height>
@@ -173,7 +179,7 @@ Oriental series.</p></accMat>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <summary>see detailed description by Hoerning, pp. 1-20</summary>
+                            <summary>see detailed description by R. Hoerning, British Museum Karaite MSS, pp. 1-20</summary>
                             <handNote>
                                 <p/>
                                 <persName/>
