@@ -52,11 +52,46 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere">CREATED: Converted Zotero Data to TEI-File</change><change who="#guest" when="2022-11-02T13:27:59.382Z">Record created by manuForma, editor: guest</change>
+            <change who="#mmoliere">CREATED: Converted Zotero Data to TEI-File</change>
+            <change who="#guest" when="2022-11-02T13:27:59.382Z">Record created by manuForma, editor: guest</change>
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
+        <body><ab>
+      <idno>3</idno>
+      <listRelation>
+         <relation>
+            <desc>
+               <gloss>Block 3</gloss>
+               <persName/>
+               <placeName/>
+               <date/>
+               <objectName/>
+            </desc>
+         </relation>
+      </listRelation>
+      <bibl>
+         <citedRange/>
+         <ptr/>
+      </bibl>
+   </ab><ab>
+      <idno>2</idno>
+      <listRelation>
+         <relation>
+            <desc>
+               <gloss>Block 2</gloss>
+               <persName/>
+               <placeName/>
+               <date/>
+               <objectName/>
+            </desc>
+         </relation>
+      </listRelation>
+      <bibl>
+         <citedRange/>
+         <ptr/>
+      </bibl>
+   </ab>
             <ab type="factoid" subtype="relation" xml:id="factoid-1" resp="mmoliere">
                 <idno type="URI">1</idno>
                 <listRelation>
@@ -64,7 +99,9 @@
                         <desc>
                             
                             <persName ref="1">Mickey </persName>
-                            <gloss> and </gloss><persName ref="2">Goofey </persName><gloss> are friends.</gloss>
+                            <gloss> and </gloss>
+                            <persName ref="2">Goofey </persName>
+                            <gloss> are friends.</gloss>
                             
                             
                             
