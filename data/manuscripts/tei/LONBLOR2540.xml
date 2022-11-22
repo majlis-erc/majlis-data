@@ -87,7 +87,7 @@
                     <msContents>
                         <summary>Exodus 1:1-8:5, Hebrew text in Arabic characters with the Hebrew vowelpoints and accents, and ornamental designs in gold and colours</summary>
                         <msItem xml:id="$$$">
-                            <locus>from 3v to 21v </locus>
+                            <locus from="3v" to="21v"/>
                             <title xml:lang="he">שמות</title>
                             <title xml:lang="ar">الخروج</title>
                             <title xml:lang="en">Exodus</title>
