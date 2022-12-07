@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">British Library, Or. 2540</title>
+                <title level="a" xml:lang="en">Definition Test</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -17,7 +17,7 @@
                     <persName>Ronny Vollandt</persName>
                     <date from="2021">2021-present</date>
                 </editor>
-                <editor xml:id="gschwarb" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://isni.org/isni/0000000062210952                         https://viaf.org/viaf/90488472">
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                     <persName>Gregor Schwarb</persName>
                     <date from="2021">2021-present</date>
                 </editor>
@@ -29,18 +29,17 @@
                     <persName>Maximilian de Molière</persName>
                     <date from="2021">2021-present</date>
                 </editor>
-                <editor role="creator" ref="#gschwarb">Gregor Schwarb</editor>
+                <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator">Jasper Bernhofer</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
                 </authority>
-                <idno type="URI">https://jalit.org/manuscript/LONBLOR2540/tei</idno>
+                <idno type="URI">https://jalit.org/manuscript/deftest/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
@@ -54,7 +53,7 @@
         </fileDesc>
         <revisionDesc status="unpublished">
             <change who="#mmoliere">CREATED: Converted Zotero Data to TEI-File</change>
-            <change who="#guest" when="2022-10-31T10:39:44.625Z">Record created by manuForma, editor: guest</change>
+            <change who="#guest" when="2022-11-09T13:46:06.899Z">Record created by manuForma, editor: guest</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -65,47 +64,44 @@
             <listBibl>
                 <msDesc>
                     <msIdentifier>
-                        <country>England</country>
-                        <settlement>London</settlement>
-                        <institution>British Library</institution>
-                        <repository/>
-                        <idno>Or. 2540</idno>
+                        <country/>
+                        <settlement/>
+                        <institution/>
+                        <collection/>
+                        <idno/>
                         <msName/>
                         <altIdentifier type="IMHM">
-                            <idno>F 6306</idno>
+                            <idno/>
                         </altIdentifier>
                         <altIdentifier type="SfarData">
                             <idno/>
-                            <note/>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno>990001204920205171</idno>
-                            <note/>
-                            
+                            <idno/>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Exodus 1:1-8:5, Hebrew text in Arabic characters with the Hebrew vowelpoints and accents, and ornamental designs in gold and colours</summary>
-                        <msItem xml:id="$$$">
-                            <locus from="3v" to="21v"/>
-                            <title xml:lang="he">שמות</title>
-                            <title xml:lang="ar">الخروج</title>
-                            <title xml:lang="en">Exodus</title>
+                        <summary/>
+                        <msItem>
+                            <locus/>
+                            <title xml:lang="he"/>
+                            <title xml:lang="ar"/>
+                            <title xml:lang="en"/>
                             <author>
                                 <persName>
                                 </persName>
                             </author>
-                            <textLang>Hebrew</textLang>
+                            <textLang/>
                             <rubric>
                                 <locus/>
                                 <q/>
                             </rubric>
                             <incipit>
-                                <locus>3v</locus>
+                                <locus/>
                                 <q/>
                             </incipit>
                             <explicit>
-                                <locus>21v</locus>
+                                <locus/>
                                 <q/>
                             </explicit>
                             <finalRubric>
@@ -117,55 +113,50 @@
                                 <q/>
                             </colophon>
                             <note>
-                                <p>what kind of information belongs here?</p>
+                                <p/>
                             </note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <accMat>
-                            <p>Specimen-pages of Or. 2540, with a short description, have been
-published in facsimile by the Palaeographical Society in plates xcvii. and xcviii. of their
-Oriental series.</p>
-                        </accMat>
                         <objectDesc form="single">
                             <supportDesc>
                                 <support>
-                                    <p>what kind of information should be added here? Characterization/type of paper?</p>
-                                    <material>Paper</material>
-                                    <p>what kind of information should be added here? Characterization/type of paper? Explain attributes cert, key, n, type</p>
+                                    <p/>
+                                    <material/>
+                                    <p/>
                                     <watermark/>
-                                    <p>Description of watermark. Explain attributes (ana, ...)</p>
+                                    <p/>
                                     <locus/>
                                     <p/>
-                                    <origPlace>Jerusalem?</origPlace>
-                                    <origDate>10th century</origDate>
+                                    <origPlace/>
+                                    <origDate/>
                                 </support>
                                 <extent>
                                     <measure unit="leaf"/>
                                     <dimensions type="leaves">
-                                        <height unit="mm">235</height>
-                                        <width unit="mm">175</width>
-                                        <depth unit="mm">1</depth>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                        <depth unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Modern foliation in Arabic numerals in pencil</foliation>
+                                <foliation/>
                                 <collation>
-                                    <p>Indeterminable</p>
-                                    <formula>The quires consisted apparently of ten leaves each, but there are no signatures.</formula>
-                                    <catchwords>no catchwords/signatures</catchwords>
+                                    <p/>
+                                    <formula/>
+                                    <catchwords/>
                                 </collation>
                                 <condition>
-                                    <p>Excepting a few leaves, especially ff. 7-9, which are partially stained, and ff. 2 and 7, part of the margin of which is cut away, and many small holes, the manuscript was, at the time of purchase and when the photograph was taken, in a good state of preservation. It has, however, suffered at the hands of the binder, the attempt to mend the small holes occurring on almost every leaf having resulted in rendering the writing in many places less distinct in the original than it is in the facsimile.</p>
+                                    <p/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary>1 column. Ruled lines. 7 to 10 lines per page. Parashat Ṿa-era is marked by فرس' in gold in the margin. The punctuation is provided in red ink and the accents in green ink.</summary>
+                                <summary/>
                                 <layout>
-                                    <note/>
+                                    <locus/>
                                     <p/>
                                     <dimensions type="written">
-                                        <height unit="mm">165</height>
-                                        <width unit="mm">125</width>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
                                         <dim unit="mm" type="intercolumn"/>
                                     </dimensions>
                                     <note>
@@ -179,7 +170,7 @@ Oriental series.</p>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <summary>see detailed description by R. Hoerning, British Museum Karaite MSS, pp. 1-20</summary>
+                            <summary/>
                             <handNote>
                                 <p/>
                                 <persName/>
@@ -194,29 +185,6 @@ Oriental series.</p>
                                 <p/>
                             </handNote>
                         </handDesc>
-                        <bindingDesc>
-                            <binding>
-                                <p>BM/BL in-house binding (late 19th c.).</p>
-                                <dimensions type="binding">
-                                    <height unit="mm"/>
-                                    <width unit="mm"/>
-                                    <depth unit="mm"/>
-                                    <p/>
-                                </dimensions>
-                                <p/>
-                                <origPlace/>
-                                <p/>
-                                <origDate/>
-                                <p/>
-                                <decoNote>
-                                    <p/>
-                                    <material/>
-                                </decoNote>
-                                <condition>
-                                    <p/>
-                                </condition>
-                            </binding>
-                        </bindingDesc>
                         <additions>
                             <p/>
                             <list>
@@ -232,20 +200,42 @@ Oriental series.</p>
                                 </item>
                             </list>
                         </additions>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                                <decoNote>
+                                    <p/>
+                                    <material/>
+                                </decoNote>
+                                <condition>
+                                    <p/>
+                                    <dimensions type="binding">
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                        <depth unit="mm"/>
+                                    </dimensions>
+                                </condition>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <p/>
+                            <persName/>
+                            <q/>
+                        </accMat>
                     </physDesc>
                     <history>
-                        <summary>Probably produced in late 10th/early 11th c. Jerusalem. Presumably transferred to Cairo towards end of 11th c. 
-Acquired around 1880 by Moses Wilhelm Shapira (bookseller) (b. 1830, d. 1884), an antiquities dealer of Jerusalem.
-Purchased by the British Museum from Shapira on 8 July 1882: inscribed, back flyleaf (ix)v. Date: 1882-07-08.</summary>
+                        <summary/>
                         <origin>
-                            <origDate>950-1050</origDate>
-                            <origPlace>Jerusalem?</origPlace>
+                            <p/>
+                            <origDate/>
+                            <origPlace/>
                             <locus/>
                             <persName/>
                             <q/>
                             <p/>
                         </origin>
                         <provenance>
+                            <p/>
                             <date/>
                             <placeName/>
                             <locus/>
@@ -255,38 +245,39 @@ Purchased by the British Museum from Shapira on 8 July 1882: inscribed, back fly
                             <p/>
                         </provenance>
                         <acquisition>
-                            <date>08/07/1882</date>
-                            <placeName>London</placeName>
-                            <locus>fol. (ix)v</locus>
+                            <p/>
+                            <date/>
+                            <placeName/>
+                            <locus/>
                             <persName/>
                             <q/>
                             <stamp/>
                             <p/>
                         </acquisition>
                     </history>
+                    <additional>
+                        <listBibl>
+                            <bibl>
+                                <author>
+                                    <forename/>
+                                    <surname/>
+                                </author>
+                                <title/>
+                                <editor>
+                                    <forename/>
+                                    <surname/>
+                                </editor>
+                                <date/>
+                                <pubPlace/>
+                                <publisher/>
+                                <series/>
+                                <biblScope/>
+                                <citedRange unit="p"/>
+                                <ptr/>
+                            </bibl>
+                        </listBibl>
+                    </additional>
                 </msDesc>
-                <additional>
-                    <listBibl>
-                        <bibl>
-                            <author>
-                                <forename/>
-                                <surname/>
-                            </author>
-                            <title/>
-                            <editor>
-                                <forename/>
-                                <surname/>
-                            </editor>
-                            <date/>
-                            <pubPlace/>
-                            <publisher/>
-                            <series/>
-                            <biblScope/>
-                            <citedRange unit="p"/>
-                            <ptr/>
-                        </bibl>
-                    </listBibl>
-                </additional>
             </listBibl>
         </body>
     </text>
