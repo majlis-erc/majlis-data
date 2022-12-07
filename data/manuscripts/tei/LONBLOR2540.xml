@@ -29,7 +29,7 @@
                     <persName>Maximilian de Molière</persName>
                     <date from="2021">2021-present</date>
                 </editor>
-                <editor role="creator" ref="#mmoliere">Gregor Schwarb</editor>
+                <editor role="creator" ref="#gschwarb">Gregor Schwarb</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
