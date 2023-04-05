@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:z="http://www.zotero.org/namespaces/export#"
+     xmlns:bib="http://purl.org/net/biblio#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:srophe="https://srophe.app"
+     xmlns:saxon="http://saxon.sf.net/"
+     xmlns:functx="http://www.functx.com">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="en">Yevr.-Arab. I 4508</title>
+            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+            <sponsor ref="https://www.uni-muenchen.de">
+               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+                                        München</orgName>) </sponsor>
+            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
+                                        Osten</orgName>) </sponsor>
+            <funder ref="https://erc.europa.eu/">
+               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+            <principal ref="#rvollandt">Ronny Vollandt</principal>
+            <editor xml:id="rvollandt"
+                    role="general"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+               <persName>Ronny Vollandt</persName>
+               <date from="2021">2021-present</date>
+            </editor>
+            <editor xml:id="gschwarb"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+               <persName>Gregor Schwarb</persName>
+               <date from="2021">2021-present</date>
+            </editor>
+            <editor xml:id="ngibson"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+               <persName>Nathan P. Gibson</persName>
+               <date from="2021">2021-present</date>
+            </editor>
+            <editor xml:id="mmoliere"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+               <persName>Maximilian de Molière</persName>
+               <date from="2021">2021-present</date>
+            </editor>
+            <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+            <respStmt>
+               <resp>Srophé app design and development by</resp>
+               <name type="person"
+                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+            </authority>
+            <idno type="URI">https://jalit.org/manuscript/1/tei</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+               </licence>
+            </availability>
+            <date>2022-06-09T10:51:21.955+02:00</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2022-06-09+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <msDesc>
+               <msIdentifier>
+                  <country>Russia</country>
+                  <settlement>St. Petersburg</settlement>
+                  <institution>National Library of Russia</institution>
+                  <repository/>
+                  <idno>Yevr.-Arab. I 4508</idno>
+                  <msName/>
+                  <altIdentifier type="IMHM">
+                     <idno>F 58205</idno>
+                  </altIdentifier>
+                  <altIdentifier type="SfarData">
+                     <idno>https://sfardata.nli.org.il/#/manuscript/ZR065</idno>
+                  </altIdentifier>
+                  <altIdentifier type="Ktiv">
+                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001562190205171</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem xml:id="$$$" class="">
+                     <locus from="" to=""/>
+                     <title xml:lang="he" ref="">פרוש ארוך לויקרא</title>
+                     <title xml:lang="ar" ref=""/>
+                     <title xml:lang="en" ref=""/>
+                     <author ref="">
+                        <persName>דוד בן בעז הנשיא</persName>
+                     </author>
+                     <textLang mainLang="ar" otherLangs="">Arabic</textLang>
+                     <rubric xml:lang="">
+                        <locus from="" to=""/>
+                        <q/>
+                     </rubric>
+                     <incipit xml:lang="">
+                        <locus from="" to=""/>
+                        <q/>
+                     </incipit>
+                     <explicit xml:lang="">
+                        <locus from="" to=""/>
+                        <q/>
+                     </explicit>
+                     <finalRubric xml:lang="">
+                        <locus from="" to=""/>
+                        <q/>
+                     </finalRubric>
+                     <colophon xml:lang="">
+                        <locus from="" to=""/>
+                        <q/>
+                     </colophon>
+                     <note>
+                        <p/>
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="single">
+                     <supportDesc>
+                        <support>
+                           <p/>
+                           <material key=""/>
+                           <p/>
+                           <watermark/>
+                           <p/>
+                           <locus target=""/>
+                           <p/>
+                           <origPlace ref=""/>
+                           <origDate when="" from="" to=""/>
+                        </support>
+                        <extent>
+                           <measure unit="leaf">339 fols.</measure>
+                           <dimensions type="leaves">
+                              <height unit="mm"/>
+                              <width unit="mm"/>
+                              <depth unit="mm"/>
+                           </dimensions>
+                        </extent>
+                        <foliation rendition=""/>
+                        <collation>
+                           <p/>
+                           <formula ref=""/>
+                           <catchwords/>
+                        </collation>
+                        <condition key=""/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <summary/>
+                        <layout columns="" writtenLines="">
+                           <p/>
+                           <dimensions type="written">
+                              <height unit="mm"/>
+                              <width unit="mm"/>
+                              <dim unit="mm" type="intercolumn"/>
+                           </dimensions>
+                           <note>
+                              <p/>
+                              <locus target=""/>
+                              <p/>
+                           </note>
+                           <ab type="ruling"/>
+                           <ab type="pricking"/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="">
+                     <summary/>
+                     <handNote xml:id=""
+                               scope=""
+                               script=""
+                               mode=""
+                               quality=""
+                               medium="">
+                        <p/>
+                        <persName ref="" role=""/>
+                        <p/>
+                        <placeName ref=""/>
+                        <p/>
+                        <metamark function=""/>
+                        <p/>
+                        <locus from="" to=""/>
+                        <p/>
+                        <origDate when="" notAfter="" notBefore=""/>
+                        <p/>
+                     </handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <binding contemporary="">
+                        <p/>
+                        <dimensions type="binding">
+                           <height unit="mm"/>
+                           <width unit="mm"/>
+                           <depth unit="mm"/>
+                           <p/>
+                        </dimensions>
+                        <p/>
+                        <origPlace ref=""/>
+                        <p/>
+                        <origDate when="" from="" to=""/>
+                        <p/>
+                        <decoNote type="">
+                           <p/>
+                           <material key=""/>
+                        </decoNote>
+                        <condition key="">
+                           <p/>
+                        </condition>
+                     </binding>
+                  </bindingDesc>
+                  <additions>
+                     <p/>
+                     <list>
+                        <item>
+                           <p/>
+                           <locus target=""/>
+                           <desc type="comment"/>
+                        </item>
+                        <item>
+                           <p/>
+                           <locus target=""/>
+                           <desc type="comment"/>
+                        </item>
+                     </list>
+                  </additions>
+               </physDesc>
+               <history>
+                  <summary/>
+                  <origin>
+                     <origDate xmlns="" notBefore="" notAfter="" when="">1026-1095</origDate>
+                     <origPlace ref=""/>
+                     <locus target=""/>
+                     <persName ref="" role="scribe">יצחק בן יפתח הכהן</persName>
+                     <q xml:lang=""/>
+                     <p/>
+                  </origin>
+                  <provenance>
+                     <date notBefore="" notAfter="" when=""/>
+                     <placeName ref=""/>
+                     <locus target=""/>
+                     <persName ref="" role="owner">סעאדה בן שמואל</persName>
+                     <q xml:lang=""/>
+                     <stamp/>
+                     <p/>
+                  </provenance>
+                  <acquisition>
+                     <date notBefore="" notAfter="" when=""/>
+                     <placeName ref=""/>
+                     <locus target=""/>
+                     <persName ref="" role=""/>
+                     <q xml:lang=""/>
+                     <stamp/>
+                     <p/>
+                  </acquisition>
+               </history>
+            </msDesc>
+         </listBibl>
+      </body>
+   </text>
+</TEI>
