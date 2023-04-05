@@ -16,7 +16,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">London, British Library, Or. 02552.1</title>
+            <title level="a" xml:lang="en">Paris, Bibliothèque nationale de France, Ms. hebr. 581</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
                                     World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -69,34 +69,27 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-03-08T10:52:43.343+01:00</date>
+            <date>2023-04-05T17:34:50.063+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-03-08+01:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-04-05+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic source="holdingInstitution"
-               url="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2552_fs001r"/>
-   </facsimile>
    <text>
       <body>
          <listBibl>
             <msDesc>
                <msIdentifier>
-                  <country>Great Britain</country>
-                  <settlement>London</settlement>
-                  <repository>British Library</repository>
-                  <collection>Or.</collection>
-                  <idno>02552.1</idno>
+                  <country>France</country>
+                  <settlement>Paris</settlement>
+                  <repository>Bibliothèque nationale de France</repository>
+                  <collection>Hébr.</collection>
+                  <idno>581</idno>
                   <msName/>
-                  <altIdentifier type="catalog">
-                     <idno>Cat. Margoliouth no. 299 (I:222f.)</idno>
-                  </altIdentifier>
                   <altIdentifier type="Ktiv">
                      <idno/>
                   </altIdentifier>
@@ -111,10 +104,12 @@
                   <summary/>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="">פרוש על איוב</title>
+                     <title xml:lang="" ref="">ספר המצוות</title>
                      <author ref="">
-                        <persName>Yefet ben ʿElī</persName>
+                        <persName/>
                      </author>
+                     <textLang mainLang="ar" otherLangs="">Arabic</textLang>
+                     <docDate when=""/>
                      <rubric xml:lang="" type="">
                         <locus from="" to=""/>
                         <q/>
@@ -131,10 +126,6 @@
                         <locus from="" to=""/>
                         <q/>
                      </finalRubric>
-                     <colophon xml:lang="">
-                        <locus from="" to=""/>
-                        <q/>
-                     </colophon>
                      <note>
                         <p/>
                      </note>
@@ -146,7 +137,8 @@
                         <support>
                            <material key=""/>
                            <p/>
-                           <locus target=""/>
+                           <origDate when="" notAfter="" notBefore=""/>
+                           <origPlace ref=""/>
                         </support>
                         <extent>
                            <measure unit="leaf"/>
@@ -168,6 +160,7 @@
                         <summary/>
                         <layout columns="" writtenLines="">
                            <p/>
+                           <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -175,7 +168,7 @@
                            </dimensions>
                            <note>
                               <p/>
-                              <locus target=""/>
+                              <locus from="" to=""/>
                               <p/>
                            </note>
                            <ab type="ruling"/>
@@ -192,7 +185,6 @@
                                rendition=""
                                medium="">
                         <p/>
-                        <persName ref="" role=""/>
                         <p/>
                         <placeName ref=""/>
                         <p/>
@@ -200,7 +192,7 @@
                         <p/>
                         <locus from="" to=""/>
                         <p/>
-                        <origDate when="" notAfter="" notBefore=""/>
+                        <origDate xmlns="" notBefore="" notAfter="" when="">1500-1700</origDate>
                         <p/>
                      </handNote>
                   </handDesc>
@@ -214,12 +206,12 @@
                         <item>
                            <p/>
                            <locus target=""/>
-                           <desc type="comment"/>
+                           <quote xml:lang="" type=""/>
                         </item>
                         <item>
                            <p/>
                            <locus target=""/>
-                           <desc type="comment"/>
+                           <quote xml:lang="" type=""/>
                         </item>
                      </list>
                   </additions>
@@ -248,13 +240,6 @@
                </physDesc>
                <history>
                   <summary/>
-                  <origin>
-                     <origDate xmlns="" notBefore="" notAfter="" when="">early 11th c.</origDate>
-                     <origPlace ref=""/>
-                     <locus target=""/>
-                     <q xml:lang=""/>
-                     <p/>
-                  </origin>
                   <provenance>
                      <date notBefore="" notAfter="" when=""/>
                      <placeName ref=""/>
