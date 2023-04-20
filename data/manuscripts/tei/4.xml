@@ -54,6 +54,13 @@
             </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
             <respStmt>
+               <resp>manuForma app design and development by</resp>
+               <name type="person"
+                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person"
+                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+            </respStmt>
+            <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person"
                      ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
@@ -69,14 +76,14 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-04-05T17:34:50.063+02:00</date>
+            <date>2023-04-20T09:15:04.692+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-04-05+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-04-20+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -149,19 +156,25 @@
                            <dimensions type="leaves">
                               <height unit="mm"/>
                               <width unit="mm"/>
-                              <depth unit="mm"/>
                            </dimensions>
                         </extent>
                         <foliation rendition=""/>
                         <collation>
                            <p/>
-                           <formula ref=""/>
+                           <formula/>
+                           <unit/>
                            <catchwords/>
+                           <p/>
                         </collation>
-                        <condition key=""/>
+                        <condition>
+                           <p/>
+                           <ab type="writing" rend=""/>
+                        </condition>
                      </supportDesc>
                      <layoutDesc>
-                        <summary/>
+                        <summary>
+                           <desc/>
+                        </summary>
                         <layout columns="" writtenLines="">
                            <p/>
                            <locus from="" to=""/>
@@ -170,13 +183,11 @@
                               <width unit="mm"/>
                               <dim unit="mm" type="intercolumn"/>
                            </dimensions>
-                           <note>
-                              <p/>
-                              <locus from="" to=""/>
-                              <p/>
-                           </note>
+                           <metamark function="justification"/>
+                           <p/>
                            <ab type="ruling"/>
                            <ab type="pricking"/>
+                           <p/>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
@@ -200,12 +211,19 @@
                         <p/>
                      </handNote>
                   </handDesc>
+                  <scriptDesc>
+                     <scriptNote xml:id="" xml:lang="" script="" rend="" style="">
+                        <p/>
+                     </scriptNote>
+                  </scriptDesc>
                   <decoDesc>
                      <summary/>
-                     <decoNote type=""/>
+                     <decoNote>
+                        <desc/>
+                        <p/>
+                     </decoNote>
                   </decoDesc>
                   <additions>
-                     <p/>
                      <list>
                         <item>
                            <p/>
