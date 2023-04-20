@@ -76,7 +76,7 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-04-20T09:15:04.692+02:00</date>
+            <date>2023-04-20T21:40:49.381+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -218,20 +218,23 @@
                   <additions>
                      <list>
                         <item>
+                           <objectType/>
                            <p/>
                            <locus target=""/>
-                           <quote xml:lang="" type=""/>
+                           <quote xml:lang=""/>
                         </item>
                         <item>
+                           <objectType/>
                            <p/>
                            <locus target=""/>
-                           <quote xml:lang="" type=""/>
+                           <quote xml:lang=""/>
                         </item>
                      </list>
                   </additions>
                   <bindingDesc>
                      <binding>
                         <decoNote type="">
+                           <objectType/>
                            <p/>
                            <origPlace ref=""/>
                            <p/>
