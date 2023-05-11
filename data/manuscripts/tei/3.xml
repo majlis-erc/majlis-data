@@ -76,7 +76,7 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-05-11T21:16:22.112+02:00</date>
+            <date>2023-05-11T22:11:13.188+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -146,11 +146,11 @@
                   </msItem>
                </msContents>
                <physDesc>
+                  <ab type="codicologicalDefinition"
+                      subtype="single"
+                      style="codex"
+                      rend=""/>
                   <objectDesc>
-                     <ab type="codicologicalDefinition"
-                         subtype="single"
-                         style="codex"
-                         rend=""/>
                      <supportDesc>
                         <support>
                            <material/>
