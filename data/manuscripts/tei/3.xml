@@ -76,14 +76,14 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-04-20T21:40:49.381+02:00</date>
+            <date>2023-05-11T21:16:22.112+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-04-20+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-05-11+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -146,10 +146,14 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc form="single">
+                  <objectDesc>
+                     <ab type="codicologicalDefinition"
+                         subtype="single"
+                         style="codex"
+                         rend=""/>
                      <supportDesc>
                         <support>
-                           <material key=""/>
+                           <material/>
                            <p/>
                            <origDate when="" notAfter="" notBefore=""/>
                            <origPlace ref=""/>
@@ -196,12 +200,7 @@
                   </objectDesc>
                   <handDesc hands="">
                      <summary/>
-                     <handNote xml:id=""
-                               scope=""
-                               script=""
-                               style=""
-                               rendition=""
-                               medium="">
+                     <handNote xml:id="" scope="" medium="">
                         <p/>
                         <p/>
                         <placeName ref=""/>
@@ -215,7 +214,7 @@
                      </handNote>
                   </handDesc>
                   <scriptDesc>
-                     <scriptNote xml:id="" xml:lang="" script="" rend="" style="">
+                     <scriptNote xml:lang="" script="" rend="" style="">
                         <p/>
                      </scriptNote>
                   </scriptDesc>
@@ -244,13 +243,13 @@
                   </additions>
                   <bindingDesc>
                      <binding>
-                        <decoNote type="">
+                        <decoNote type="binding">
                            <objectType/>
                            <p/>
                            <origPlace ref=""/>
                            <p/>
                            <origDate when="" from="" to=""/>
-                           <material key=""/>
+                           <material/>
                            <dimensions type="binding">
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -260,10 +259,19 @@
                         <condition key=""/>
                      </binding>
                   </bindingDesc>
-                  <accMat resp="">
-                     <p/>
-                     <persName key=""/>
-                     <q xml:lang=""/>
+                  <accMat>
+                     <list>
+                        <item resp="">
+                           <p/>
+                           <persName role="author"/>
+                           <quote xml:lang=""/>
+                           <bibl>
+                              <title/>
+                              <citedRange unit="p"/>
+                              <ptr target=""/>
+                           </bibl>
+                        </item>
+                     </list>
                   </accMat>
                </physDesc>
                <history>
@@ -272,7 +280,7 @@
                      <date notBefore="" notAfter="" when=""/>
                      <placeName ref=""/>
                      <locus target=""/>
-                     <q xml:lang=""/>
+                     <quote xml:lang=""/>
                      <stamp/>
                      <p/>
                   </provenance>
@@ -281,7 +289,7 @@
                      <placeName ref=""/>
                      <locus target=""/>
                      <persName ref="" role=""/>
-                     <q xml:lang=""/>
+                     <quote xml:lang=""/>
                      <stamp/>
                      <p/>
                   </acquisition>
@@ -289,20 +297,7 @@
                <additional>
                   <listBibl>
                      <bibl xml:id="">
-                        <author>
-                           <forename/>
-                           <surname/>
-                        </author>
-                        <title xml:lang="" level=""/>
-                        <editor>
-                           <forename/>
-                           <surname/>
-                        </editor>
-                        <date/>
-                        <pubPlace/>
-                        <publisher/>
-                        <series/>
-                        <biblScope from="" to="" unit=""/>
+                        <title/>
                         <citedRange unit="p"/>
                         <ptr target=""/>
                      </bibl>
