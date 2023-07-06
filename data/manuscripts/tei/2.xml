@@ -88,9 +88,39 @@
                      <idno/>
                   </altIdentifier>
                </msIdentifier>
-               <msContents>
+               <msContents><msItem xml:id="item-11">
+      <locus/>
+      <title/>
+      <author>
+         <persName>
+            <forename/>
+            <surname/>
+            <addName/>
+         </persName>
+      </author>
+      <textLang/>
+      <rubric>
+         <locus/>
+         <quote/>
+      </rubric>
+      <incipit>
+         <locus/>
+         <quote/>
+      </incipit>
+      <explicit>
+         <locus/>
+         <quote/>
+      </explicit>
+      <finalRubric>
+         <locus/>
+         <quote/>
+      </finalRubric>
+      <note>
+         <p/>
+      </note>
+   </msItem>
                   <summary/>
-                  <msItem xml:id="item-11">
+                  <msItem xml:id="item-12">
                      <locus/>
                      <title>אלמרשד (כרך 2)</title>
                      <author>
@@ -120,12 +150,12 @@
                </msContents>
                <physDesc>
                   <ab>
-    <objectType rend="Square" style="Scroll">Single manuscript</objectType>
+    <objectType>Single manuscript</objectType>
     <listBibl>
-        <bibl>
-            <idno type="Manuscript-join"/>
+        <bibl><citedRange/>
+            <idno type="Manuscript-join">hfghfg</idno>
             <citedRange unit="Folios"/>
-            <ptr/>
+            
         </bibl>
     </listBibl>
 </ab>
@@ -253,7 +283,16 @@
                      </list>
                   </accMat>
                </physDesc>
-               <history>
+               <history><provenance>
+      <date/>
+      <p/>
+      <quote/>
+      <locus/>
+      <persName/>
+      <signatures/>
+      <stamp/>
+      <placeName/>
+   </provenance>
                   <summary/>
                   <provenance>
                      <date/>
