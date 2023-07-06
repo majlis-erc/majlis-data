@@ -119,12 +119,21 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <ab type="codicologicalDefinition" subtype="single" style="codex"/>
+                  <ab>
+    <objectType rend="Square" style="Scroll">Single manuscript</objectType>
+    <listBibl>
+        <bibl>
+            <idno type="Manuscript-join"/>
+            <citedRange unit="Folios"/>
+            <ptr/>
+        </bibl>
+    </listBibl>
+</ab>
                   <objectDesc>
                      <supportDesc>
                         <support>
-                           <material>Wood</material>
-                           <p>This is a test!</p>
+                           <material>Cotton</material>
+                           <p>Ein Test, ein neuer Test!</p>
                            <origDate/>
                            <origPlace/>
                         </support>
