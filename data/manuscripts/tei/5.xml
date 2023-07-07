@@ -16,7 +16,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Paris, Bibliothèque nationale de France, Ms. hebr. 581</title>
+            <title level="a" xml:lang="en">London, British Library, Oriental 2572.1</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
                                     World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -76,36 +76,42 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-05-11T22:11:13.188+02:00</date>
+            <date>2023-07-07T11:09:11.266+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-05-11+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <graphic source="Ktiv"
-               url="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid-1"/>
+      <graphic source="holdingInstitution"
+               url="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2572_fs001r"/>
    </facsimile>
    <text>
       <body>
          <listBibl>
             <msDesc>
                <msIdentifier>
-                  <country>France</country>
-                  <settlement>Paris</settlement>
-                  <repository>Bibliothèque Nationale de France</repository>
-                  <collection>Hébr.</collection>
-                  <idno>581</idno>
+                  <country>Great Britain</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Oriental</collection>
+                  <idno>2572.1</idno>
                   <msName/>
+                  <altIdentifier type="catalog">
+                     <idno>Cat. Margoliouth no. 896 (III:199–202)</idno>
+                  </altIdentifier>
                   <altIdentifier type="Ktiv">
                      <idno/>
                   </altIdentifier>
-                  <altIdentifier type="FGP">
-                     <idno/>
+                  <altIdentifier type="IMHM">
+                     <idno>F 6343</idno>
+                  </altIdentifier>
+                  <altIdentifier type="mainShelfmark">
+                     <idno>London, British Library, Oriental 2572</idno>
                   </altIdentifier>
                   <altIdentifier type="old">
                      <idno/>
@@ -115,12 +121,10 @@
                   <summary/>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="">ספר המצוות</title>
+                     <title xml:lang="" ref="">מאמרים פילוסופיים</title>
                      <author ref="">
-                        <persName>Yefet b. Dawid b. Ṣaġīr</persName>
+                        <persName>Abū l-Ḥasan ʿAlī b. Sulaymān</persName>
                      </author>
-                     <textLang mainLang="ar" otherLangs="">Arabic</textLang>
-                     <docDate when=""/>
                      <rubric xml:lang="" type="">
                         <locus from="" to=""/>
                         <q/>
@@ -143,10 +147,16 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <ab type="codicologicalDefinition"
-                      subtype="single"
-                      style="codex"
-                      rend=""/>
+                  <ab type="codicologicalDefinition">
+                     <objectType rend="" style=""/>
+                     <listBibl>
+                        <bibl>
+                           <idno/>
+                           <citedRange unit="folios"/>
+                           <ptr target=""/>
+                        </bibl>
+                     </listBibl>
+                  </ab>
                   <objectDesc>
                      <supportDesc>
                         <support>
@@ -206,7 +216,7 @@
                         <p/>
                         <locus from="" to=""/>
                         <p/>
-                        <origDate xmlns="" notBefore="" notAfter="" when="">1500-1700</origDate>
+                        <origDate xmlns="" notBefore="" notAfter="" when="">1072/3; 1093</origDate>
                         <p/>
                      </handNote>
                   </handDesc>

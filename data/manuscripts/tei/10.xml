@@ -16,7 +16,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">London, British Library, Oriental 2572.7</title>
+            <title level="a" xml:lang="en">London, British Library, Oriental 2572.3</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
                                     World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -70,7 +70,7 @@
             <authority>
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/manuscript/6/tei</idno>
+            <idno type="URI">https://jalit.org/manuscript/10/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
@@ -99,7 +99,7 @@
                   <settlement>London</settlement>
                   <repository>British Library</repository>
                   <collection>Oriental</collection>
-                  <idno>2572.7</idno>
+                  <idno>2572.3</idno>
                   <msName/>
                   <altIdentifier type="catalog">
                      <idno>Cat. Margoliouth no. 896 (III:199–202)</idno>
@@ -121,10 +121,7 @@
                   <summary/>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="">כתאב אלשכוך</title>
-                     <author ref="">
-                        <persName>Yosef ha-Roʾe</persName>
-                     </author>
+                     <title xml:lang="" ref="">A piece</title>
                      <rubric xml:lang="" type="">
                         <locus from="" to=""/>
                         <q/>
