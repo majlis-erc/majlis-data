@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:vcard="http://nwalsh.com/rdf/vCard#"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:z="http://www.zotero.org/namespaces/export#"
-     xmlns:bib="http://purl.org/net/biblio#"
-     xmlns:dcterms="http://purl.org/dc/terms/"
-     xmlns:foaf="http://xmlns.com/foaf/0.1/"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:srophe="https://srophe.app"
-     xmlns:saxon="http://saxon.sf.net/"
-     xmlns:functx="http://www.functx.com">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -28,42 +14,31 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt"
-                    role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                <persName>Ronny Vollandt</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
-            <editor xml:id="gschwarb"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                <persName>Gregor Schwarb</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
-            <editor xml:id="ngibson"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                <persName>Nathan P. Gibson</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
-            <editor xml:id="mmoliere"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+            <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                <persName>Maximilian de Molière</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -86,20 +61,19 @@
          <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic source="holdingInstitution"
-               url="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2523_fs001r"/>
+   <facsimile><graphic/>
+      
    </facsimile>
    <text>
       <body>
          <listBibl>
-            <msDesc>
+            <msDesc xml:id="ms-2">
                <msIdentifier>
                   <country>Great Britain</country>
                   <settlement>London</settlement>
                   <repository>British Library</repository>
                   <collection>Oriental</collection>
-                  <idno>2523</idno>
+                  <idno>2523.1</idno>
                   <msName/>
                   <altIdentifier type="catalog">
                      <idno>Cat. Margoliouth no. 1098 (III:512f.)</idno>
@@ -122,26 +96,26 @@
                </msIdentifier>
                <msContents>
                   <summary/>
-                  <msItem xml:id="" class="">
-                     <locus from="" to=""/>
-                     <title xml:lang="" ref="">אלרד עלי אלסאמרה̈ / אביב</title>
-                     <author ref="">
+                  <msItem xml:id="item-11">
+                     <locus/>
+                     <title>אלרד עלי אלסאמרה̈ / אביב</title>
+                     <author>
                         <persName>Yešuʿa ben Yehuda</persName>
                      </author>
-                     <rubric xml:lang="" type="">
-                        <locus from="" to=""/>
+                     <rubric>
+                        <locus/>
                         <q/>
                      </rubric>
-                     <incipit xml:lang="">
-                        <locus from="" to=""/>
+                     <incipit>
+                        <locus/>
                         <q/>
                      </incipit>
-                     <explicit xml:lang="">
-                        <locus from="" to=""/>
+                     <explicit>
+                        <locus/>
                         <q/>
                      </explicit>
-                     <finalRubric xml:lang="">
-                        <locus from="" to=""/>
+                     <finalRubric>
+                        <locus/>
                         <q/>
                      </finalRubric>
                      <note>
@@ -151,12 +125,12 @@
                </msContents>
                <physDesc>
                   <ab type="codicologicalDefinition">
-                     <objectType rend="" style=""/>
+                     <objectType/>
                      <listBibl>
                         <bibl>
                            <idno/>
                            <citedRange unit="folios"/>
-                           <ptr target=""/>
+                           <ptr/>
                         </bibl>
                      </listBibl>
                   </ab>
@@ -165,8 +139,8 @@
                         <support>
                            <material/>
                            <p/>
-                           <origDate when="" notAfter="" notBefore=""/>
-                           <origPlace ref=""/>
+                           <origDate/>
+                           <origPlace/>
                         </support>
                         <extent>
                            <measure unit="leaf"/>
@@ -175,7 +149,7 @@
                               <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation rendition=""/>
+                        <foliation/>
                         <collation>
                            <p/>
                            <formula/>
@@ -185,16 +159,16 @@
                         </collation>
                         <condition>
                            <p/>
-                           <ab type="writing" rend=""/>
+                           <ab type="writing"/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
                         </summary>
-                        <layout columns="" writtenLines="">
+                        <layout xml:id="layout-1111">
                            <p/>
-                           <locus from="" to=""/>
+                           <locus/>
                            <dimensions type="written">
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -208,22 +182,22 @@
                         </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <handDesc hands="">
+                  <handDesc>
                      <summary/>
-                     <handNote xml:id="" scope="" medium="">
+                     <handNote xml:id="hand-111">
                         <p/>
                         <p/>
-                        <placeName ref=""/>
+                        <placeName/>
                         <p/>
-                        <metamark function=""/>
+                        <metamark/>
                         <p/>
-                        <locus from="" to=""/>
+                        <locus/>
                         <p/>
                         <p/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
-                     <scriptNote xml:lang="" script="" rend="" style="">
+                     <scriptNote>
                         <p/>
                      </scriptNote>
                   </scriptDesc>
@@ -236,17 +210,17 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item>
+                        <item xml:id="add-1111">
                            <objectType/>
                            <p/>
-                           <locus target=""/>
-                           <quote xml:lang=""/>
+                           <locus/>
+                           <quote/>
                         </item>
-                        <item>
+                        <item xml:id="add-1112">
                            <objectType/>
                            <p/>
-                           <locus target=""/>
-                           <quote xml:lang=""/>
+                           <locus/>
+                           <quote/>
                         </item>
                      </list>
                   </additions>
@@ -255,9 +229,9 @@
                         <decoNote type="binding">
                            <objectType/>
                            <p/>
-                           <origPlace ref=""/>
+                           <origPlace/>
                            <p/>
-                           <origDate when="" from="" to=""/>
+                           <origDate/>
                            <material/>
                            <dimensions type="binding">
                               <height unit="mm"/>
@@ -265,19 +239,19 @@
                               <depth unit="mm"/>
                            </dimensions>
                         </decoNote>
-                        <condition key=""/>
+                        <condition/>
                      </binding>
                   </bindingDesc>
                   <accMat>
                      <list>
-                        <item resp="">
+                        <item>
                            <p/>
                            <persName role="author"/>
-                           <quote xml:lang=""/>
+                           <quote/>
                            <bibl>
                               <title/>
                               <citedRange unit="p"/>
-                              <ptr target=""/>
+                              <ptr/>
                            </bibl>
                         </item>
                      </list>
@@ -286,29 +260,29 @@
                <history>
                   <summary/>
                   <provenance>
-                     <date notBefore="" notAfter="" when=""/>
-                     <placeName ref=""/>
-                     <locus target=""/>
-                     <quote xml:lang=""/>
+                     <date/>
+                     <placeName/>
+                     <locus/>
+                     <quote/>
                      <stamp/>
                      <p/>
                   </provenance>
                   <acquisition>
-                     <date notBefore="" notAfter="" when=""/>
-                     <placeName ref=""/>
-                     <locus target=""/>
-                     <persName ref="" role=""/>
-                     <quote xml:lang=""/>
+                     <date/>
+                     <placeName/>
+                     <locus/>
+                     <persName/>
+                     <quote/>
                      <stamp/>
                      <p/>
                   </acquisition>
                </history>
                <additional>
                   <listBibl>
-                     <bibl xml:id="">
+                     <bibl xml:id="bibl-111">
                         <title/>
                         <citedRange unit="p"/>
-                        <ptr target=""/>
+                        <ptr/>
                      </bibl>
                   </listBibl>
                </additional>
