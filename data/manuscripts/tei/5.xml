@@ -62,7 +62,7 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <graphic source="holdingInstitution" url="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2572_fs001r"/>
+      <graphic source="Ktiv" url="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001220180205171"/>
    </facsimile>
    <text>
       <body>
@@ -74,18 +74,18 @@
                   <repository>British Library</repository>
                   <collection>Oriental</collection>
                   <idno>2572.1</idno>
-                  <msName>Github and ExistDB Test</msName>
+                  <msName/>
                   <altIdentifier type="catalog">
                      <idno>Cat. Margoliouth no. 896 (III:199–202)</idno>
                   </altIdentifier>
                   <altIdentifier type="Ktiv">
-                     <idno/>
+                     <idno>990001220180205171</idno>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
                      <idno>F 6343</idno>
                   </altIdentifier>
                   <altIdentifier type="mainShelfmark">
-                     <idno>London, British Library, Oriental 2572</idno>
+                     <idno>London, British Library, Or. 2572</idno>
                   </altIdentifier>
                   <altIdentifier type="old">
                      <idno/>
