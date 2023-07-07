@@ -2,15 +2,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I </title>
-            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
-                                    World</title>
+            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 3950</title>
+            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                                        München</orgName>) </sponsor>
+               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
             <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und
-                                        Mittleren Osten</orgName>) </sponsor>
+               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
