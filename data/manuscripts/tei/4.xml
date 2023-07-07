@@ -16,7 +16,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr. II C </title>
+            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I </title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
                                     World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -76,19 +76,19 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-05-11T22:11:13.188+02:00</date>
+            <date>2023-07-07T11:09:11.266+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-05-11+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <graphic source="Ktiv"
-               url="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001589330205171-1"/>
+               url="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001535200205171-1"/>
    </facsimile>
    <text>
       <body>
@@ -98,14 +98,14 @@
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
                   <repository>National Library of Russia</repository>
-                  <collection>Yevr. II C</collection>
-                  <idno>541</idno>
+                  <collection>Yevr.-Arab. I</collection>
+                  <idno>1681</idno>
                   <msName/>
                   <altIdentifier type="Ktiv">
-                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001589330205171</idno>
+                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001535200205171</idno>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
-                     <idno>F 70371</idno>
+                     <idno>F 55080</idno>
                   </altIdentifier>
                   <altIdentifier type="FGP">
                      <idno/>
@@ -118,9 +118,8 @@
                   <summary/>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="">תרגום ערבי לתורה (ויקרא א-ב)</title>
+                     <title xml:lang="" ref="">חבור בפילוסופיה נגד שומרונים</title>
                      <textLang mainLang="ar" otherLangs="">Arabic</textLang>
-                     <docDate when=""/>
                      <rubric xml:lang="" type="">
                         <locus from="" to=""/>
                         <q/>
@@ -143,10 +142,16 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <ab type="codicologicalDefinition"
-                      subtype="single"
-                      style="codex"
-                      rend=""/>
+                  <ab type="codicologicalDefinition">
+                     <objectType rend="" style=""/>
+                     <listBibl>
+                        <bibl>
+                           <idno/>
+                           <citedRange unit="folios"/>
+                           <ptr target=""/>
+                        </bibl>
+                     </listBibl>
+                  </ab>
                   <objectDesc>
                      <supportDesc>
                         <support>
@@ -206,7 +211,7 @@
                         <p/>
                         <locus from="" to=""/>
                         <p/>
-                        <origDate xmlns="" notBefore="" notAfter="" when=""/>
+                        <origDate xmlns="" notBefore="" notAfter="" when="">1000-1200?</origDate>
                         <p/>
                      </handNote>
                   </handDesc>

@@ -16,7 +16,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">London, British Library, Oriental 2502</title>
+            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I </title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
                                     World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -76,36 +76,39 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-05-11T22:11:13.188+02:00</date>
+            <date>2023-07-07T11:09:11.266+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-05-11+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <graphic source="holdingInstitution"
-               url="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2502_fs001r"/>
+      <graphic source="Ktiv"
+               url="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001116990205171-1"/>
    </facsimile>
    <text>
       <body>
          <listBibl>
             <msDesc>
                <msIdentifier>
-                  <country>Great Britain</country>
-                  <settlement>London</settlement>
-                  <repository>British Library</repository>
-                  <collection>Oriental</collection>
-                  <idno>2502</idno>
+                  <country>Russia</country>
+                  <settlement>St. Petersburg</settlement>
+                  <repository>National Library of Russia</repository>
+                  <collection>Yevr.-Arab. I</collection>
+                  <idno>3950</idno>
                   <msName/>
-                  <altIdentifier type="catalog">
-                     <idno>Cat. Margoliouth no. 281 (I:209f.)</idno>
+                  <altIdentifier type="SfarData">
+                     <idno>https://sfardata.nli.org.il/#/manuscript/0R368</idno>
                   </altIdentifier>
                   <altIdentifier type="Ktiv">
-                     <idno/>
+                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001116990205171</idno>
+                  </altIdentifier>
+                  <altIdentifier type="IMHM">
+                     <idno>F 56977 , PH 5180</idno>
                   </altIdentifier>
                   <altIdentifier type="FGP">
                      <idno/>
@@ -118,12 +121,14 @@
                   <summary/>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="">פרוש ישעיהו</title>
+                     <title xml:lang="" ref="">קובץ קראי - מקאלה̈ פי אלעריות</title>
                      <author ref="">
-                        <persName>Yefet ben ʿElī</persName>
+                        <persName>Yašar ben Ḥesed ben Yašar</persName>
                      </author>
-                     <textLang mainLang="ar" otherLangs="">Judeo-Arabic</textLang>
-                     <docDate when=""/>
+                     <author ref="">
+                        <persName>Abū l-Ḥasan ʿAlī b. Sulaymān</persName>
+                     </author>
+                     <textLang mainLang="ar" otherLangs="">Arabic</textLang>
                      <rubric xml:lang="" type="">
                         <locus from="" to=""/>
                         <q/>
@@ -146,10 +151,16 @@
                   </msItem>
                </msContents>
                <physDesc>
-                  <ab type="codicologicalDefinition"
-                      subtype="single"
-                      style="codex"
-                      rend=""/>
+                  <ab type="codicologicalDefinition">
+                     <objectType rend="" style=""/>
+                     <listBibl>
+                        <bibl>
+                           <idno/>
+                           <citedRange unit="folios"/>
+                           <ptr target=""/>
+                        </bibl>
+                     </listBibl>
+                  </ab>
                   <objectDesc>
                      <supportDesc>
                         <support>
@@ -209,7 +220,7 @@
                         <p/>
                         <locus from="" to=""/>
                         <p/>
-                        <origDate xmlns="" notBefore="" notAfter="" when="">1500</origDate>
+                        <origDate xmlns="" notBefore="" notAfter="" when="">1096</origDate>
                         <p/>
                      </handNote>
                   </handDesc>
