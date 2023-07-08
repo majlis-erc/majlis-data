@@ -97,7 +97,7 @@
                      <locus from="109r" to="118v"/>
                      <title xml:lang="ar">الكلام في الشكوك والاستظهار</title>
                      <author>
-                        <persName>Yosef ha-Roʾe</persName>
+                        <persName><addName/><surname/><forename/>Yosef ha-Roʾe</persName>
                      </author>
                      <rubric xml:lang="ar">
                         <locus>109r</locus>
