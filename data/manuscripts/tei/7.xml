@@ -94,17 +94,19 @@
                <msContents>
                   <summary>Unidentified Muʿtazilī treatise on ṣifāt, ṣifāt al-fiʿl, ṣifāt al-kalām</summary>
                   <msItem xml:id="item-11">
-                     <locus from="68v" to="108v"/>
+                     <locus from="68v" to="108v">68v–108v</locus>
                      <title>Treatise on ṣifāt</title>
                      <rubric>
                         <locus/>
                         <q/>
                      </rubric>
-                     <incipit xml:lang="ar"><quote>فصل [...]ان  ليس للكلام بكونه امرا وخبرا ونهيا الى غير ذلك صفة وما يتصل بذلك</quote>
+                     <incipit xml:lang="ar">
+                                <quote>فصل [...]ان  ليس للكلام بكونه امرا وخبرا ونهيا الى غير ذلك صفة وما يتصل بذلك</quote>
                         <locus>68v</locus>
                         <q/>
                      </incipit>
-                     <explicit><quote>يجوز ان يكون متجددا حالا فحالا لان هذا هو القول [...]</quote>
+                     <explicit>
+                                <quote>يجوز ان يكون متجددا حالا فحالا لان هذا هو القول [...]</quote>
                         <locus>108v</locus>
                         <q/>
                      </explicit>
