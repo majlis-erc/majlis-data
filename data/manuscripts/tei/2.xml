@@ -93,29 +93,23 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Refutation by a Qaraite author, probably Yešuʿa ben Yehuda, of Kitāb al-Qibla by the Samaritan scholar Abū l-Ḥasan al-Ṣūrī. Points of contention are the chosen place, the permanent location of the sanctuary and the status of Jewish prophets after Moses.</summary>
                   <msItem xml:id="item-11">
-                     <locus/>
-                     <title>אלרד עלי אלסאמרה̈ / אביב</title>
+                     <locus>1r-46v</locus>
+                     <title>אלרד עלי אלסאמרה̈</title>
                      <author>
-                        <persName>Yešuʿa ben Yehuda</persName>
+                        <persName ref="https://jalit.org/person/1">Yešuʿa ben Yehuda</persName>
                      </author>
-                     <rubric>
-                        <locus/>
-                        <q/>
-                     </rubric>
-                     <incipit>
-                        <locus/>
+                     
+                     <incipit><quote>הדא אלזמאן מע ארתפאע אלקרינה</quote>
+                        <locus>1r</locus>
                         <q/>
                      </incipit>
-                     <explicit>
-                        <locus/>
+                     <explicit><quote>והו חצול אלגלוס ואלאסתקראר פי אלארץ̇</quote>
+                        <locus>46v</locus>
                         <q/>
                      </explicit>
-                     <finalRubric>
-                        <locus/>
-                        <q/>
-                     </finalRubric>
+                     
                      <note>
                         <p/>
                      </note>
@@ -135,44 +129,44 @@
                   <objectDesc>
                      <supportDesc>
                         <support>
-                           <material/>
+                           <material>Paper</material>
                            <p/>
-                           <origDate/>
-                           <origPlace/>
+                           
+                           
                         </support>
                         <extent>
-                           <measure unit="leaf"/>
+                           <measure unit="leaf">46</measure>
                            <dimensions type="leaves">
-                              <height unit="mm"/>
-                              <width unit="mm"/>
+                              <height unit="mm">200</height>
+                              <width unit="mm">140</width>
                            </dimensions>
                         </extent>
-                        <foliation/>
+                        <foliation rendition="modern">modern Arabic numerals added in pencil</foliation>
                         <collation>
-                           <p/>
-                           <formula/>
+                           <p>The fragment consists of five quinion quires. The first quire lacks its outer two bifolios. Accordingly, fol. 1 was the third folio of the first quire. Fol. 27r has quire number of quire no. 4.</p>
+                           <formula>quinion</formula>
                            <unit/>
                            <catchwords/>
                            <p/>
                         </collation>
                         <condition>
-                           <p/>
+                           <p>overall in good condition. Some pages are damaged and/or stained. Many pages are worm-eaten. Occasionally, wormholes impair the legibility of the text.</p>
                            <ab type="writing"/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
-                           <desc/>
+                           <desc>Text on recto and verso</desc>
                         </summary>
                         <layout xml:id="layout-1111">
                            <p/>
-                           <locus/>
+                           <locus>1r -46v</locus>
                            <dimensions type="written">
-                              <height unit="mm"/>
-                              <width unit="mm"/>
+                              <height unit="mm">160</height>
+                              <width unit="mm">105</width>
                               <dim unit="mm" type="intercolumn"/>
                            </dimensions>
-                           <metamark function="justification"/>
+                           <metamark function="justification">Left-hand margin is not even</metamark>
                            <p/>
                            <ab type="ruling"/>
                            <ab type="pricking"/>
@@ -202,7 +196,7 @@
                   <decoDesc>
                      <summary/>
                      <decoNote>
-                        <desc/>
+                        <desc>Spaces between paragraphs</desc>
                         <p/>
                      </decoNote>
                   </decoDesc>
