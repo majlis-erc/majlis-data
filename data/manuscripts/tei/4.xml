@@ -55,7 +55,9 @@
          <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile><graphic/><graphic source="Ktiv" url="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001535200205171"/>
+   <facsimile>
+        
+        <graphic source="Ktiv" url="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001535200205171"/>
       
    </facsimile>
    <text>
