@@ -15,10 +15,7 @@
                <persName>Ronny Vollandt</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
-            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
-               <persName>Gregor Schwarb</persName>
-               <date from="2021" to="2026">2021-2026</date>
-            </editor>
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">               Gregor Schwarb               2021-2026            </editor>
             <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                <persName>Nathan P. Gibson</persName>
                <date from="2021" to="2026">2021-2026</date>
@@ -58,8 +55,8 @@
          <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic source="Ktiv" url="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001535200205171-1"/>
+   <facsimile><graphic/><graphic source="Ktiv" url="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001535200205171"/>
+      
    </facsimile>
    <text>
       <body>
