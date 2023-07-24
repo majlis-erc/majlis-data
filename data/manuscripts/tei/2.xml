@@ -55,7 +55,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#gschwarb" when="2023-08-24"/><change who="#gschwarb" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -80,7 +80,7 @@
                      <idno/>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
-                     <idno>F 6303</idno>
+                     <idno>F 06303</idno>
                   </altIdentifier>
                   <altIdentifier type="FGP">
                      <idno/>
@@ -101,11 +101,13 @@
                         <persName ref="https://jalit.org/person/1">Yešuʿa ben Yehuda</persName>
                      </author>
                      
-                     <incipit><quote>הדא אלזמאן מע ארתפאע אלקרינה</quote>
+                     <incipit>
+                                <quote>הדא אלזמאן מע ארתפאע אלקרינה</quote>
                         <locus>1r</locus>
                         <q/>
                      </incipit>
-                     <explicit><quote>והו חצול אלגלוס ואלאסתקראר פי אלארץ̇</quote>
+                     <explicit>
+                                <quote>והו חצול אלגלוס ואלאסתקראר פי אלארץ̇</quote>
                         <locus>46v</locus>
                         <q/>
                      </explicit>
