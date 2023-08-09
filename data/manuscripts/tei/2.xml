@@ -55,7 +55,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#gschwarb" when="2023-08-24"/><change who="#gschwarb" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-07-07+02:00">TEST: submission and attributes</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -76,25 +76,27 @@
                   <altIdentifier type="catalog">
                      <idno>Cat. Margoliouth no. 1098 (III:512f.)</idno>
                   </altIdentifier>
-                  <altIdentifier type="Ktiv">
-                     <idno/>
-                  </altIdentifier>
                   <altIdentifier type="IMHM">
-                     <idno>F 06303</idno>
-                  </altIdentifier>
-                  <altIdentifier type="FGP">
-                     <idno/>
-                  </altIdentifier>
-                  <altIdentifier type="old">
-                     <idno/>
-                  </altIdentifier>
-                  <altIdentifier type="mainShelfmark">
-                     <idno/>
+                     <idno>F 6303</idno>
                   </altIdentifier>
                </msIdentifier>
-               <msContents>
+               <msContents><msItem class="mishnaCommentary" xml:id="item-11">
+      <locus from="1" to="100"/>
+      <title cert="" ref="" xml:lang=""/>
+      <author cert="" ref=""/>
+      <textLang mainLang="" otherLangs=""/>
+      <incipit>
+         <locus from="" to=""/>
+         <quote/>
+      </incipit>
+      <explicit>
+         <locus from="" to=""/>
+         <quote/>
+      </explicit>
+      <note/>
+   </msItem>
                   <summary>Refutation by a Qaraite author, probably Yešuʿa ben Yehuda, of Kitāb al-Qibla by the Samaritan scholar Abū l-Ḥasan al-Ṣūrī. Points of contention are the chosen place, the permanent location of the sanctuary and the status of Jewish prophets after Moses.</summary>
-                  <msItem xml:id="item-11">
+                  <msItem xml:id="item-12">
                      <locus>1r-46v</locus>
                      <title>אלרד עלי אלסאמרה̈</title>
                      <author>
@@ -129,6 +131,13 @@
                      </listBibl>
                   </ab>
                   <objectDesc>
+                  <ab>
+                                <listBibl>
+                                    <bibl type="" source="">
+                                        <ptr target=""/>
+                                    </bibl>
+                                </listBibl>
+                            </ab>
                      <supportDesc>
                         <support>
                            <material>Paper</material>
