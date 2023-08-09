@@ -55,7 +55,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-07-07+02:00">TEST: submission and attributes</change>
+         <change who="#mmoliere" when="2023-07-07+02:00">TEST 2: submission and attributes 2</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -80,7 +80,8 @@
                      <idno>F 6303</idno>
                   </altIdentifier>
                </msIdentifier>
-               <msContents><msItem class="mishnaCommentary" xml:id="item-11">
+               <msContents>
+                        <msItem class="mishnaCommentary" xml:id="item-11">
       <locus from="1" to="100"/>
       <title cert="" ref="" xml:lang=""/>
       <author cert="" ref=""/>
@@ -205,7 +206,7 @@
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
-                     <summary/>
+                     <summary>test</summary>
                      <decoNote>
                         <desc>Spaces between paragraphs</desc>
                         <p/>
