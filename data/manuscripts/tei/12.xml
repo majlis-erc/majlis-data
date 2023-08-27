@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">London, British Library, Oriental 2572.6</title>
+            <title level="a" xml:lang="en">London, British Library, Oriental 2572.2</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
                                     World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -60,7 +60,7 @@
             <authority>
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/manuscript/8/tei</idno>
+            <idno type="URI">https://jalit.org/manuscript/12/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
@@ -85,7 +85,7 @@
                   <settlement>London</settlement>
                   <repository>British Library</repository>
                   <collection>Oriental</collection>
-                  <idno>2572.6</idno>
+                  <idno>2572.2</idno>
                   <msName/>
                   <altIdentifier type="catalog">
                      <idno>Cat. Margoliouth no. 896 (III:199–202)</idno>
@@ -104,19 +104,19 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Unidentified Muʿtazilī treatise on ṣifāt, ṣifāt al-fiʿl, ṣifāt al-kalām</summary>
+                  <summary/>
                   <msItem xml:id="" class="">
-                     <locus from="68v" to="108v"/>
-                     <title xml:lang="" ref="" cert="">Treatise</title>
+                     <locus from="" to=""/>
+                     <title xml:lang="" ref="" cert="">וכוח נגד המוסלמים</title>
                      <author ref=""/>
                      <textLang mainLang="" otherLangs=""/>
                      <incipit>
-                        <locus from="68v"/>
-                        <quote>فصل [...]ان  ليس للكلام بكونه امرا وخبرا ونهيا الى غير ذلك صفة وما يتصل بذلك</quote>
+                        <locus from="" to=""/>
+                        <quote/>
                      </incipit>
                      <explicit>
-                        <locus from="108v"/>
-                        <quote>يجوز ان يكون متجددا حالا فحالا لان هذا هو القول</quote>
+                        <locus from="" to=""/>
+                        <quote/>
                      </explicit>
                      <note/>
                   </msItem>
@@ -139,18 +139,18 @@
                            <note/>
                         </support>
                         <extent>
-                           <measure unit="folio">41</measure>
+                           <measure unit="folio"/>
                            <dimensions>
-                              <height unit="mm">135</height>
-                              <width unit="mm">85</width>
+                              <height unit="mm"/>
+                              <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation style="" rendition="">Arabic numerals</foliation>
+                        <foliation style="" rendition=""/>
                         <collation>
                            <formula/>
                            <unit/>
-                           <catchwords>No marking</catchwords>
-                           <note>Quires and quire structure have been destroyed during the restoration process at the British Museum.</note>
+                           <catchwords/>
+                           <note/>
                         </collation>
                         <condition>
                            <note/>

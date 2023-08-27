@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:vcard="http://nwalsh.com/rdf/vCard#"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:z="http://www.zotero.org/namespaces/export#"
-     xmlns:bib="http://purl.org/net/biblio#"
-     xmlns:dcterms="http://purl.org/dc/terms/"
-     xmlns:foaf="http://xmlns.com/foaf/0.1/"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:srophe="https://srophe.app"
-     xmlns:saxon="http://saxon.sf.net/"
-     xmlns:functx="http://www.functx.com">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">London, British Library, Oriental 2572.3</title>
+            <title level="a" xml:lang="en">London, British Library, Oriental 2572.4</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
                                     World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -44,7 +32,7 @@
                     role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                <persName>Nathan P. Gibson</persName>
-               <date from="2021" to="2026">2021-2026</date>
+               <date from="2021" to="2023">2021-2023</date>
             </editor>
             <editor xml:id="mmoliere"
                     role="contributor"
@@ -64,6 +52,8 @@
                <resp>Srophé app design and development by</resp>
                <name type="person"
                      ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person"
+                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -76,20 +66,16 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-07-07T11:09:11.266+02:00</date>
+            <date>2023-08-27T10:37:16.807+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-08-27+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic source="holdingInstitution"
-               url="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2572_fs001r"/>
-   </facsimile>
    <text>
       <body>
          <listBibl>
@@ -99,7 +85,7 @@
                   <settlement>London</settlement>
                   <repository>British Library</repository>
                   <collection>Oriental</collection>
-                  <idno>2572.3</idno>
+                  <idno>2572.4</idno>
                   <msName/>
                   <altIdentifier type="catalog">
                      <idno>Cat. Margoliouth no. 896 (III:199–202)</idno>
@@ -121,34 +107,26 @@
                   <summary/>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="">A piece</title>
-                     <rubric xml:lang="" type="">
+                     <title xml:lang="" ref="" cert="">A piece</title>
+                     <author ref="">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
+                     <textLang mainLang="" otherLangs=""/>
+                     <incipit>
                         <locus from="" to=""/>
-                        <q/>
-                     </rubric>
-                     <incipit xml:lang="">
-                        <locus from="" to=""/>
-                        <q/>
+                        <quote/>
                      </incipit>
-                     <explicit xml:lang="">
+                     <explicit>
                         <locus from="" to=""/>
-                        <q/>
+                        <quote/>
                      </explicit>
-                     <finalRubric xml:lang="">
-                        <locus from="" to=""/>
-                        <q/>
-                     </finalRubric>
-                     <note>
-                        <p/>
-                     </note>
+                     <note/>
                   </msItem>
                </msContents>
                <physDesc>
-                  <ab type="codicologicalDefinition">
-                     <objectType rend="" style=""/>
+                  <ab type="codicological-definition">
+                     <objectType rend="" style="codex">Single manuscript</objectType>
                      <listBibl>
                         <bibl>
-                           <idno/>
+                           <idno type="manuscript-join"/>
                            <citedRange unit="folios"/>
                            <ptr target=""/>
                         </bibl>
@@ -158,102 +136,87 @@
                      <supportDesc>
                         <support>
                            <material/>
-                           <p/>
-                           <origDate when="" notAfter="" notBefore=""/>
-                           <origPlace ref=""/>
+                           <note/>
                         </support>
                         <extent>
-                           <measure unit="leaf"/>
-                           <dimensions type="leaves">
+                           <measure unit="folio"/>
+                           <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation rendition=""/>
+                        <foliation style="" rendition=""/>
                         <collation>
-                           <p/>
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <p/>
+                           <note/>
                         </collation>
                         <condition>
-                           <p/>
+                           <note/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
+                           <note/>
                         </summary>
-                        <layout columns="" writtenLines="">
-                           <p/>
+                        <layout writtenLines="" columns="">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
                               <width unit="mm"/>
-                              <dim unit="mm" type="intercolumn"/>
                            </dimensions>
                            <metamark function="justification"/>
-                           <p/>
                            <ab type="ruling"/>
                            <ab type="pricking"/>
-                           <p/>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc hands="">
                      <summary/>
-                     <handNote xml:id="" scope="" medium="">
-                        <p/>
-                        <p/>
-                        <placeName ref=""/>
-                        <p/>
-                        <metamark function=""/>
-                        <p/>
+                     <handNote medium="">
                         <locus from="" to=""/>
-                        <p/>
-                        <p/>
+                        <persName ref="" role=""/>
+                        <placeName ref=""/>
+                        <metamark function=""/>
+                        <origDate/>
+                        <note/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
                      <scriptNote xml:lang="" script="" rend="" style="">
-                        <p/>
+                        <note/>
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
                      <summary/>
                      <decoNote>
                         <desc/>
-                        <p/>
+                        <note/>
                      </decoNote>
                   </decoDesc>
                   <additions>
                      <list>
-                        <item>
+                        <item xml:id="">
                            <objectType/>
-                           <p/>
-                           <locus target=""/>
-                           <quote xml:lang=""/>
-                        </item>
-                        <item>
-                           <objectType/>
-                           <p/>
-                           <locus target=""/>
-                           <quote xml:lang=""/>
+                           <persName ref="" role="mentioned"/>
+                           <locus from="" to=""/>
+                           <quote rend="" xml:lang=""/>
+                           <note/>
                         </item>
                      </list>
                   </additions>
                   <bindingDesc>
                      <binding>
-                        <decoNote type="binding">
+                        <decoNote>
                            <objectType/>
-                           <p/>
                            <origPlace ref=""/>
-                           <p/>
-                           <origDate when="" from="" to=""/>
+                           <origDate/>
                            <material/>
-                           <dimensions type="binding">
+                           <note/>
+                           <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
                               <depth unit="mm"/>
@@ -264,9 +227,9 @@
                   </bindingDesc>
                   <accMat>
                      <list>
-                        <item resp="">
-                           <p/>
-                           <persName role="author"/>
+                        <item>
+                           <note/>
+                           <persName/>
                            <quote xml:lang=""/>
                            <bibl>
                               <title/>
@@ -280,26 +243,36 @@
                <history>
                   <summary/>
                   <provenance>
-                     <date notBefore="" notAfter="" when=""/>
+                     <date/>
                      <placeName ref=""/>
-                     <locus target=""/>
+                     <locus from="" to=""/>
+                     <persName role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <p/>
+                     <note/>
                   </provenance>
                   <acquisition>
-                     <date notBefore="" notAfter="" when=""/>
+                     <date/>
                      <placeName ref=""/>
-                     <locus target=""/>
+                     <locus from="" to=""/>
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <p/>
+                     <note/>
                   </acquisition>
                </history>
                <additional>
+                  <surrogates>
+                     <listBibl>
+                        <bibl>
+                           <title>Digital image online</title>
+                           <publisher>British Library</publisher>
+                           <ptr target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2572_fs001r"/>
+                        </bibl>
+                     </listBibl>
+                  </surrogates>
                   <listBibl>
-                     <bibl xml:id="">
+                     <bibl>
                         <title/>
                         <citedRange unit="p"/>
                         <ptr target=""/>

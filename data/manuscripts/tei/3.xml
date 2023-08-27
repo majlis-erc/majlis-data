@@ -1,41 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 3950</title>
-            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 1681</title>
+            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
+                                    World</title>
             <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+                                        München</orgName>) </sponsor>
             <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und
+                                        Mittleren Osten</orgName>) </sponsor>
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+            <editor xml:id="rvollandt"
+                    role="general"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                <persName>Ronny Vollandt</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
-            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+            <editor xml:id="gschwarb"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                <persName>Gregor Schwarb</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
-            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+            <editor xml:id="ngibson"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                <persName>Nathan P. Gibson</persName>
-               <date from="2021" to="2026">2021-2026</date>
+               <date from="2021" to="2023">2021-2023</date>
             </editor>
-            <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+            <editor xml:id="mmoliere"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                <persName>Maximilian de Molière</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person"
+                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person"
+                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person"
+                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person"
+                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -48,38 +66,32 @@
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-07-07T11:09:11.266+02:00</date>
+            <date>2023-08-27T10:37:16.807+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-07-07+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-08-27+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <graphic source="Ktiv" url="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001116990205171-1"/>
-   </facsimile>
    <text>
       <body>
          <listBibl>
-            <msDesc xml:id="ms-3">
+            <msDesc>
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
                   <repository>National Library of Russia</repository>
-                  <collection>Yevr-Arab I</collection>
-                  <idno>3950</idno>
+                  <collection>Yevr.-Arab. I</collection>
+                  <idno>1681</idno>
                   <msName/>
-                  <altIdentifier type="SfarData">
-                     <idno>https://sfardata.nli.org.il/#/manuscript/0R368</idno>
-                  </altIdentifier>
                   <altIdentifier type="Ktiv">
-                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001116990205171</idno>
+                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001535200205171</idno>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
-                     <idno>F 56977 , PH 5180</idno>
+                     <idno>F 55080</idno>
                   </altIdentifier>
                   <altIdentifier type="FGP">
                      <idno/>
@@ -90,45 +102,30 @@
                </msIdentifier>
                <msContents>
                   <summary/>
-                  <msItem xml:id="item-11">
-                     <locus/>
-                     <title>קובץ קראי - מקאלה̈ פי אלעריות</title>
-                     <author>
-                        <persName>Yašar ben Ḥesed ben Yašar</persName>
-                     </author>
-                     <author>
-                        <persName>Abū l-Ḥasan ʿAlī b. Sulaymān</persName>
-                     </author>
-                     <textLang mainLang="ar">Arabic</textLang>
-                     <rubric>
-                        <locus/>
-                        <q/>
-                     </rubric>
+                  <msItem xml:id="" class="">
+                     <locus from="" to=""/>
+                     <title xml:lang="" ref="" cert="">חבור בפילוסופיה נגד שומרונים</title>
+                     <author ref=""/>
+                     <textLang mainLang="ar" otherLangs=""/>
                      <incipit>
-                        <locus/>
-                        <q/>
+                        <locus from="" to=""/>
+                        <quote/>
                      </incipit>
                      <explicit>
-                        <locus/>
-                        <q/>
+                        <locus from="" to=""/>
+                        <quote/>
                      </explicit>
-                     <finalRubric>
-                        <locus/>
-                        <q/>
-                     </finalRubric>
-                     <note>
-                        <p/>
-                     </note>
+                     <note/>
                   </msItem>
                </msContents>
                <physDesc>
-                  <ab type="codicologicalDefinition">
-                     <objectType/>
+                  <ab type="codicological-definition">
+                     <objectType rend="" style="codex">Single manuscript</objectType>
                      <listBibl>
                         <bibl>
-                           <idno/>
+                           <idno type="manuscript-join"/>
                            <citedRange unit="folios"/>
-                           <ptr/>
+                           <ptr target=""/>
                         </bibl>
                      </listBibl>
                   </ab>
@@ -136,121 +133,105 @@
                      <supportDesc>
                         <support>
                            <material/>
-                           <p/>
-                           <origDate/>
-                           <origPlace/>
+                           <note/>
                         </support>
                         <extent>
-                           <measure unit="leaf"/>
-                           <dimensions type="leaves">
+                           <measure unit="folio"/>
+                           <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation/>
+                        <foliation style="" rendition=""/>
                         <collation>
-                           <p/>
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <p/>
+                           <note/>
                         </collation>
                         <condition>
-                           <p/>
-                           <ab type="writing"/>
+                           <note/>
+                           <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
+                           <note/>
                         </summary>
-                        <layout xml:id="layout-1111">
-                           <p/>
-                           <locus/>
+                        <layout writtenLines="" columns="">
+                           <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
                               <width unit="mm"/>
-                              <dim unit="mm" type="intercolumn"/>
                            </dimensions>
                            <metamark function="justification"/>
-                           <p/>
                            <ab type="ruling"/>
                            <ab type="pricking"/>
-                           <p/>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <handDesc>
+                  <handDesc hands="">
                      <summary/>
-                     <handNote xml:id="hand-111">
-                        <p/>
-                        <p/>
-                        <placeName/>
-                        <p/>
-                        <metamark/>
-                        <p/>
-                        <locus/>
-                        <p/>
-                        <origDate>1096</origDate>
-                        <p/>
+                     <handNote medium="">
+                        <locus from="" to=""/>
+                        <persName ref="" role=""/>
+                        <placeName ref=""/>
+                        <metamark function=""/>
+                        <origDate>1000-1200?</origDate>
+                        <note/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
-                     <scriptNote>
-                        <p/>
+                     <scriptNote xml:lang="" script="" rend="" style="">
+                        <note/>
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
                      <summary/>
                      <decoNote>
                         <desc/>
-                        <p/>
+                        <note/>
                      </decoNote>
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="add-1111">
+                        <item xml:id="">
                            <objectType/>
-                           <p/>
-                           <locus/>
-                           <quote/>
-                        </item>
-                        <item xml:id="add-1112">
-                           <objectType/>
-                           <p/>
-                           <locus/>
-                           <quote/>
+                           <persName ref="" role="mentioned"/>
+                           <locus from="" to=""/>
+                           <quote rend="" xml:lang=""/>
+                           <note/>
                         </item>
                      </list>
                   </additions>
                   <bindingDesc>
                      <binding>
-                        <decoNote type="binding">
+                        <decoNote>
                            <objectType/>
-                           <p/>
-                           <origPlace/>
-                           <p/>
+                           <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <dimensions type="binding">
+                           <note/>
+                           <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
                               <depth unit="mm"/>
                            </dimensions>
                         </decoNote>
-                        <condition/>
+                        <condition key=""/>
                      </binding>
                   </bindingDesc>
                   <accMat>
                      <list>
                         <item>
-                           <p/>
-                           <persName role="author"/>
-                           <quote/>
+                           <note/>
+                           <persName/>
+                           <quote xml:lang=""/>
                            <bibl>
                               <title/>
                               <citedRange unit="p"/>
-                              <ptr/>
+                              <ptr target=""/>
                            </bibl>
                         </item>
                      </list>
@@ -260,28 +241,38 @@
                   <summary/>
                   <provenance>
                      <date/>
-                     <placeName/>
-                     <locus/>
-                     <quote/>
+                     <placeName ref=""/>
+                     <locus from="" to=""/>
+                     <persName role=""/>
+                     <quote xml:lang=""/>
                      <stamp/>
-                     <p/>
+                     <note/>
                   </provenance>
                   <acquisition>
                      <date/>
-                     <placeName/>
-                     <locus/>
-                     <persName/>
-                     <quote/>
+                     <placeName ref=""/>
+                     <locus from="" to=""/>
+                     <persName ref="" role=""/>
+                     <quote xml:lang=""/>
                      <stamp/>
-                     <p/>
+                     <note/>
                   </acquisition>
                </history>
                <additional>
+                  <surrogates>
+                     <listBibl>
+                        <bibl>
+                           <title>Digital image online</title>
+                           <publisher>National Library of Israel</publisher>
+                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001535200205171-1"/>
+                        </bibl>
+                     </listBibl>
+                  </surrogates>
                   <listBibl>
-                     <bibl xml:id="bibl-111">
+                     <bibl>
                         <title/>
                         <citedRange unit="p"/>
-                        <ptr/>
+                        <ptr target=""/>
                      </bibl>
                   </listBibl>
                </additional>
