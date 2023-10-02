@@ -33,7 +33,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref="">admin</editor>
+                </respStmt>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref="">admin</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -51,7 +52,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2023-10-02T12:39:06.102Z">Added title to file.</change><change who="#" when=""/>
+            <change who="#admin" when="2023-10-02T13:55:11.033Z">Added title.</change><change who="#admin" when="2023-10-02T12:39:06.102Z">Created record from Word-File.</change>
+            <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -149,7 +151,9 @@
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc><summary>Four different hands (scribe A, B, C, and D) can be distinguished. There are multiple colophons ranging from Ramaḍān 992 to Muḥarram 993 AH, which correspond to the period between September 1584 and January 1585 CE. The anonymous introduction and the Pentateuch (fols 1r-86r) constitute the first. Blank folios, change of quire and hands (scribe C to B), and the smaller number of bifolia in the last quire, clearly suggest a caesura. The second encompasses the Historical Books (fols 86v-195v). In distinction to the first, it is homogenetic and was copied entirely by scribe B. A change of hands (scribe B to A = Faḍlallāh) and quires sets the boundaries with the ensuing block. The third block, thus, ranges from the book of Ezra (fol 196r) to the end of the Prophets (390v). It falls into three sub-sections: Ezra to Job (196r- 232r), Psalms (232v-267v), and the Prophets (268r-390v). These are only indicated by blank folios, yet the change of hands and quires does not coincide with their boundaries. The block was written by scribe A and C, and transits into the following with blank folios, a change of hands and quires. The last quire has a smaller number of folios, which in addition marks a caesura. The last block, copied exclusively by Faḍlallāh, comprises the Sapiental Books, 2 and 5 Maccabees.  A number of blank folios (fols 424v-429r) divide it into two sub-sections. </summary><handNote medium="" xml:id="hand-111">
+                        <handDesc>
+                            <summary>Four different hands (scribe A, B, C, and D) can be distinguished. There are multiple colophons ranging from Ramaḍān 992 to Muḥarram 993 AH, which correspond to the period between September 1584 and January 1585 CE. The anonymous introduction and the Pentateuch (fols 1r-86r) constitute the first. Blank folios, change of quire and hands (scribe C to B), and the smaller number of bifolia in the last quire, clearly suggest a caesura. The second encompasses the Historical Books (fols 86v-195v). In distinction to the first, it is homogenetic and was copied entirely by scribe B. A change of hands (scribe B to A = Faḍlallāh) and quires sets the boundaries with the ensuing block. The third block, thus, ranges from the book of Ezra (fol 196r) to the end of the Prophets (390v). It falls into three sub-sections: Ezra to Job (196r- 232r), Psalms (232v-267v), and the Prophets (268r-390v). These are only indicated by blank folios, yet the change of hands and quires does not coincide with their boundaries. The block was written by scribe A and C, and transits into the following with blank folios, a change of hands and quires. The last quire has a smaller number of folios, which in addition marks a caesura. The last block, copied exclusively by Faḍlallāh, comprises the Sapiental Books, 2 and 5 Maccabees.  A number of blank folios (fols 424v-429r) divide it into two sub-sections. </summary>
+                            <handNote medium="" xml:id="hand-111">
       <locus from="" to=""/>
       <persName ref="" role=""/>
       <placeName ref=""/>
@@ -180,98 +184,112 @@
                             </decoNote>
                         </decoDesc>
                         <additions>
-                            <list><item xml:id="add-1111">
+                            <list>
+                                <item xml:id="add-1111">
       <objectType>Colophon</objectType>
       <locus from="387v"/>
       
       <quote rend="" xml:lang="ar">fī mustahall dhī al-ḥijja al-ḥarām min shuhūr sanat 992</quote>
       <ab type="translation">on the first night of Dhū al-Ḥijja of year 992</ab>
       <note>scribe C; 3 Dec 1584</note>
-   </item><item xml:id="add-1112">
+   </item>
+                                <item xml:id="add-1112">
       <objectType>Colophon</objectType>
       <locus from="386r"/>
       
       <quote rend="" xml:lang="ar">fī mustahall dhī al-ḥijja al-ḥarām min shuhūr sanat ithnayn wa-tisʿīna wa- tisʿamiʾa</quote>
       <ab type="translation">on the first night of Dhū al-Ḥijja of year 992</ab>
       <note>scribe C; 3 Dec 1584</note>
-   </item><item xml:id="add-1113">
+   </item>
+                                <item xml:id="add-1113">
       <objectType>Colophon</objectType>
       <locus from="381r"/>
       
       <quote rend="" xml:lang="ar">fī khāmis wa-l-ʿashrīn min shahr dhī al- qaʿda al-ḥarām min shuhūr sanat 992</quote>
       <ab type="translation">on the 25th of the sacred Dhū al-Qaʿda of year 992</ab>
       <note>scribe C; 28 Nov 1584</note>
-   </item><item xml:id="add-1114">
+   </item>
+                                <item xml:id="add-1114">
       <objectType>Colophon</objectType>
       <locus from="377v"/>
       
       <quote rend="" xml:lang="ar">fī tāsiʿ ʿashr dhī al-qaʿda al-ḥarām min shuhūr sanat ithnayn wa-tisʿīna wa- tisʿamiʾa</quote>
       <ab type="translation">on the 19th of the sacred Dhū al-Qaʿda of year 992</ab>
       <note>scribe C; 21 Nov 1584</note>
-   </item><item xml:id="add-1115">
+   </item>
+                                <item xml:id="add-1115">
       <objectType>Colophon</objectType>
       <locus from="376r"/>
       
       <quote rend="" xml:lang="ar">fī laylat al-khamīs tāsiʿ ʿashr dhī al-qaʿda min shuhūr sanat 992</quote>
       <ab type="translation">n the night of Thursday, 19th of Dhū al-Qaʿda of year 992</ab>
       <note>scribe C; 21 Nov 1584</note>
-   </item><item xml:id="add-1116">
+   </item>
+                                <item xml:id="add-1116">
       <objectType>Colophon</objectType>
       <locus from="367r"/>
       
       <quote rend="" xml:lang="ar">fī sābiʿ ʿashr dhī al-qaʿda min shuhūr sanat 992</quote>
       <ab type="translation">on the 17th of Dhū al-Qaʿda of year 992</ab>
       <note>scribe C; 11 Nov 1584</note>
-   </item><item xml:id="add-1117">
+   </item>
+                                <item xml:id="add-1117">
       <objectType>Colophon</objectType>
       <locus from="364r"/>
       
       <quote rend="" xml:lang="ar">fī sādis ʿashr shahr dhī al-qaʿda min shuhūr sanat 992</quote>
       <ab type="translation">on the 16th of Dhū al-Qaʿda of year 992</ab>
       <note>scribe C; 18 Nov 1584</note>
-   </item><item xml:id="add-1118">
+   </item>
+                                <item xml:id="add-1118">
       <objectType>Colophon</objectType>
       <locus from="345v"/>
       
       <quote rend="" xml:lang="ar">fī awal dhī al-qaʿda min shuhūr sanat 992</quote>
       <ab type="">on the first of Dhū al-Qaʿda of year 992</ab>
       <note>scribe C; 11 Nov 1584</note>
-   </item><item xml:id="add-1119">
+   </item>
+                                <item xml:id="add-1119">
       <objectType>Colophon</objectType>
       <locus from="321r"/>
       
       <quote rend="" xml:lang="ar">fī sābiʿ ʿashr shahr ramaḍān al-muʿaẓẓam al-qudra wa-dhālika min shuhūr sanat 992</quote>
       <ab type="translation">on the 17th of the omnipotent Ramaḍān of year 992</ab>
       <note>scribe C; 22 Sept 1584</note>
-   </item><item xml:id="add-11110">
+   </item>
+                                <item xml:id="add-11110">
       <objectType>Colophon</objectType>
       <locus from="292r"/>
       
       <quote rend="" xml:lang="ar">fī yawm al-jumʿa sādis ʿashr shahr ramaḍān al-muʿaẓẓam al-qudra min sanat 992 </quote>
       <ab type="translation">on the Friday, 16th of the omnipotent Ramaḍān of year 992</ab>
       <note>scribe C; 21 Sept 1584</note>
-   </item><item xml:id="add-11111">
+   </item>
+                                <item xml:id="add-11111">
       <objectType>Colophon</objectType>
       <locus from="213v"/>
       
       <quote rend="" xml:lang="ar">fī sanat alf wa-thalāthmiʾa l-il-shuhadāʾ</quote>
       <ab type="translation">in the year 1300 AM</ab>
       <note>scribe A; 1584</note>
-   </item><item xml:id="add-11112">
+   </item>
+                                <item xml:id="add-11112">
       <objectType>Colophon</objectType>
       <locus from="135v"/>
       
       <quote rend="" xml:lang="ar">fī al-yawm al-aḥad al-mubārak thāmin ʿashr shahr allāh al-ḥarām iftitāḥ ʿām sanat 993 </quote>
       <ab type="translation">on the blessed Sunday, 18th of the sacred al-Muḥarram, beginning of year 993</ab>
       <note>scribe B; 19 Jan 1585</note>
-   </item><item xml:id="add-11113">
+   </item>
+                                <item xml:id="add-11113">
       <objectType>Colophon</objectType>
       <locus from="122v"/>
       
       <quote rend="" xml:lang="ar">yawm al-thulāthā al-mubārak rābiʿ ʿashr shahr allāh al-ḥarām iftitāḥ ʿām sanat 993 </quote>
       <ab type="translation">on the blessed Tuesday, 14th of the sacred al-Muḥarram, beginning of year 993</ab>
       <note>scribe B; 15 Jan 1585</note>
-   </item><item xml:id="add-11114">
+   </item>
+                                <item xml:id="add-11114">
       <objectType>Colophon</objectType>
       <locus from="107r"/>
       
