@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en"/>
+                <title level="a" xml:lang="en">Paris, BNF, Ar. 1</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -51,7 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2023-10-02T12:39:06.102Z">Created record from Word-File.</change><change who="#" when=""/>
+            <change who="#admin" when="2023-10-02T12:39:06.102Z">Added title to file.</change><change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
