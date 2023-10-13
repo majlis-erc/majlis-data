@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Sinai, MS Ar. 2</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+                    München</orgName>) </sponsor>
+                <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
+                        Osten</orgName>) </sponsor>
+                <funder ref="https://erc.europa.eu/">
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                <principal ref="#rvollandt">Ronny Vollandt</principal>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+                    <persName>Ronny Vollandt</persName>
+                    <date from="2021" to="2026">2021-2026</date>
+                </editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+                    <persName>Gregor Schwarb</persName>
+                    <date from="2021" to="2026">2021-2026</date>
+                </editor>
+                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+                    <persName>Nathan P. Gibson</persName>
+                    <date from="2021" to="2026">2021-2026</date>
+                </editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+                    <persName>Maximilian de Molière</persName>
+                    <date from="2021" to="2026">2021-2026</date>
+                </editor>
+                <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt><editor role="creator" ref="">admin</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+                </authority>
+                <idno type="URI">https://jalit.org/manuscript/SinaiAr2/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
+            <change who="#admin" when="2023-10-13T12:01:28.303Z">Created from existing notes.</change><change who="#" when=""/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <msDesc xml:id="ms-SinaiAr2">
+                    <msIdentifier>
+                        <country>Egypt</country>
+                        <settlement/>
+                        <repository/>
+                        <collection/>
+                        <idno>Sinai, MS Ar. 2</idno>
+                        <altIdentifier type="SfarData">
+                            <idno/>
+                        </altIdentifier>
+                        <altIdentifier type="Ktiv">
+                            <idno/>
+                        </altIdentifier>
+                        <altIdentifier type="FGP">
+                            <idno/>
+                        </altIdentifier>
+                        <altIdentifier type="old">
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <msContents><msItem class="bible" xml:id="item-11">
+                            <locus from="2r" to="81r"/>
+                            <title xml:lang="en" ref="" cert="high">Genesis</title>
+                            <author ref="" cert=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem><msItem class="bible" xml:id="item-12">
+      <locus from="81v" to="141r"/>
+      <title cert="high" ref="" xml:lang="en">Exodus</title>
+      <author cert="" ref=""/>
+      <textLang mainLang="ar" otherLangs=""/>
+      <incipit>
+         <locus from="" to=""/>
+         <quote/>
+      </incipit>
+      <explicit>
+         <locus from="" to=""/>
+         <quote/>
+      </explicit>
+      <note/>
+   </msItem>
+                        <msItem class="bible" xml:id="item-13">
+      <locus from="141v" to="178v"/>
+      <title cert="high" ref="" xml:lang="en">Leviticus</title>
+      <author cert="" ref=""/>
+      <textLang mainLang="ar" otherLangs=""/>
+      <incipit>
+         <locus from="" to=""/>
+         <quote/>
+      </incipit>
+      <explicit>
+         <locus from="" to=""/>
+         <quote/>
+      </explicit>
+      <note/>
+   </msItem><msItem class="bible" xml:id="item-14">
+      <locus from="179r" to="216v"/>
+      <title cert="high" ref="" xml:lang="he-Latn">Numbers</title>
+      <author cert="" ref=""/>
+      <textLang mainLang="ar" otherLangs=""/>
+      <incipit>
+         <locus from="" to=""/>
+         <quote/>
+      </incipit>
+      <explicit>
+         <locus from="" to=""/>
+         <quote/>
+      </explicit>
+      <note/>
+   </msItem><msItem class="bible" xml:id="item-15">
+      <locus from="216v" to="246v"/>
+      <title cert="high" ref="" xml:lang="en">Deuteronomy</title>
+      <author cert="" ref=""/>
+      <textLang mainLang="ar" otherLangs=""/>
+      <incipit>
+         <locus from="" to=""/>
+         <quote/>
+      </incipit>
+      <explicit>
+         <locus from="" to=""/>
+         <quote/>
+      </explicit>
+      <note/>
+   </msItem><msItem class="bible" xml:id="item-16">
+      <locus from="247r" to="266v"/>
+      <title cert="high" ref="" xml:lang="en">Daniel</title>
+      <author cert="" ref=""/>
+      <textLang mainLang="ar" otherLangs=""/>
+      <incipit>
+         <locus from="" to=""/>
+         <quote/>
+      </incipit>
+      <explicit>
+         <locus from="" to=""/>
+         <quote/>
+      </explicit>
+      <note/>
+   </msItem><summary/>
+                        
+                    </msContents>
+                    <physDesc>
+                        <ab type="codicological-definition">
+                            <objectType rend="" style="codex">Single manuscript</objectType>
+                            <listBibl>
+                                <bibl>
+                                    <idno type="manuscript-join"/>
+                                    <citedRange unit="folios"/>
+                                    <ptr target=""/>
+                                </bibl>
+                            </listBibl>
+                        </ab>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material>Paper</material>
+                                    <note>brownish Oriental</note>
+                                </support>
+                                <extent>
+                                    <measure unit="folio">266</measure>
+                                    <dimensions>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation style="" rendition=""/>
+                                <collation>
+                                    <formula>5</formula>
+                                    <unit/>
+                                    <catchwords>Signatures at the end of quires</catchwords><catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note>ordered by ornamented rūmī numerals; Georgian letters in the Nushkuri script are used to number the opening and closing folios of each quire</note>
+                                </collation>
+                                <condition>
+                                    <note>several subsequent folios are missing</note>
+                                    <ab type="writing" rend=""/>
+                                </condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <summary>
+                                    <desc/>
+                                    <note>justification by means of elongating letters and splitting words; evidently unruled, because the mise-en-page and number of lines vary; </note>
+                                </summary>
+                                <layout writtenLines="15 23" columns="" xml:id="layout-1111"><locus from="1" to="266"/><metamark function="justification">Other</metamark><metamark function="justification">Extended letters</metamark>
+                                    
+                                    <dimensions type="written">
+                                        <height unit="mm">270</height>
+                                        <width unit="mm">160</width>
+                                    </dimensions>
+                                    
+                                    
+                                    <ab type="ruling">No ruling</ab>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary/>
+                            <handNote medium="" xml:id="hand-111">
+                                <locus from="" to=""/>
+                                <persName ref="" role=""/>
+                                <placeName ref=""/>
+                                <metamark function=""/>
+                                <origDate when="939/40"/>
+                                <note/>
+                            </handNote>
+                        </handDesc>
+                        <scriptDesc>
+                            <scriptNote xml:lang="" script="" style="" rend="">
+                                <note/>
+                            </scriptNote>
+                        </scriptDesc>
+                        <decoDesc>
+                            <summary/>
+                            <decoNote>
+                                <desc/>
+                                <note/>
+                            </decoNote>
+                        </decoDesc>
+                        <additions>
+                            <list>
+                                <item xml:id="add-1111">
+      <objectType>Ownership statements</objectType>
+      <locus from="1r"/>
+      <persName ref="" role="mentioned">Solomon, Bishop of the holy Mt Sinai</persName>
+      <quote rend="Arab" xml:lang="ar">بسم الاب والابن وروح القدس اليه (!) واحد يقول الخاطي صلمون المسما اسقف جبل لله المقدس طور سينا المعروف باالطوري (!) المقدس اني اشترات (!) هذا المصحف من دمشق من رجل الموضع وبدراهمه وحبسته على طور سينا حرسه لله على انه يكون في المواسطة يقرا فيه كل من اراد القراة من الابا القديسين صلاواتهم (!) معنا امين. وانا اسل (!) كل من يقرا فيه منجل حب السيد المسيح ان يدعو لي انا المسكين بمغفرة الخطايا واقول ايضا ان كل من باع هذا المصحف وعان على اخراجه من طور سينا من اسقف او قسيس او شماس او راهب او علماني فيكون محروم بكلمة لله مفروز من الاب الابن ومن نعمة روح القدس وتكون خط يه مع يوظي (!) اسقريوط او مع الدين قالوا دمه علينا وعلى اولادنا ويحل لله له ما حل بداثان واب يروم واهل قورح ويحل لله له ما حل بسدوم وعمرا وكتب الخاطي المسكين صلمون بخطه الخميس لثلثة بقين من شهر المحرم سنة اثنين وسبعين وثل[ثماية]</quote>
+      <ab type="translation">In the name of the Father, the Son, and the Holy Spirit, the one God. The sinner Solomon (Arab. Ṣalmūn), Bishop of the holy Mountain of God, Mount Sinai, known as al-ṭūrī al-muqaddas, says: I acquired this codex at Damascus from a local man for its value in dirham and bequeathed it to [the monastery of] Mount Sinai—may it be guarded by God!—, on condition that it be kept in the muwāsaṭa so that everybody who desires may read in it [the accounts] of the Holy Fathers, their prayers upon us, Amen! For the love of the Lord Messiah, I ask whoever reads in it to pray for my humble self that I be forgiven my sins. I declare that whoever sells this codex or assists in removing it from Mount Sinai—whether bishop, priest, deacon, monk, or layman—shall be excommunicated by the word of God and separated from the Father, the Son, and the Holy Spirit. His life shall be as that of Judah Iscariot and of those who say “His blood is upon us, and upon our children!” (Matt 27:25). God shall inflict on him what he inflicted on Dathan, Abiram and the company of Korah. God shall inflict on him what he inflicted on Sodom and Gomorrah. This was written by the sinner Solomon in his own handwriting on Thursday, 3 days before the end of the month Muḥarram in the year 372 AH (982 CE).”</ab>
+      <note>The manuscript opens with a lengthy acquisition note written on fol. 1r, which had been left blank by the original scribe.</note>
+   </item><item xml:id="add-1112">
+                                    <objectType>Reader’s formula</objectType>
+                                    
+                                    <locus from="246v"/>
+                                    <quote rend="Arab" xml:lang="ar">كمل السفر الخامس من التوراة بعون الله وقوته وكتب في ثمان وعشرين وثلثماية رحم الله من كتب وقرى [عليه؟]</quote>
+                                    <ab type="translation">The fifth book of the Torah has been completed, written in 328 AH. May God have mercy on the one who wrote it and on whoever it is read out to!</ab>
+                                    <note/>
+                                </item>
+                            </list>
+                        </additions>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote>
+                                    <objectType/>
+                                    <origPlace ref=""/>
+                                    <origDate/>
+                                    <material/>
+                                    <note/>
+                                    <dimensions>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                        <depth unit="mm"/>
+                                    </dimensions>
+                                </decoNote>
+                                <condition key=""/>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <list>
+                                <item>
+                                    <note/>
+                                    <persName/>
+                                    <quote xml:lang=""/>
+                                    <bibl>
+                                        <title/>
+                                        <citedRange unit="p"/>
+                                        <ptr target=""/>
+                                    </bibl>
+                                </item>
+                            </list>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <summary/>
+                        <provenance>
+                            <date/>
+                            <placeName ref=""/>
+                            <locus from="" to=""/>
+                            <persName ref="" role=""/>
+                            <quote xml:lang=""/>
+                            <stamp/>
+                            <note/>
+                        </provenance>
+                        <acquisition>
+                            <date/>
+                            <placeName ref=""/>
+                            <locus from="" to=""/>
+                            <persName ref="" role=""/>
+                            <quote xml:lang=""/>
+                            <stamp/>
+                            <note/>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <surrogates>
+                            <listBibl>
+                                <bibl>
+                                    <title/>
+                                    <publisher/>
+                                    <ptr target=""/>
+                                </bibl>
+                            </listBibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl xml:id="bibl-111">
+                                <title/>
+                                <citedRange unit="p"/>
+                                <ptr target=""/>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
