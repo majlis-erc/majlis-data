@@ -34,6 +34,7 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
+                <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref="">admin</editor><editor role="creator" ref="">admin</editor>
             </titleStmt>
             <publicationStmt>
@@ -52,7 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2023-10-02T13:55:11.033Z">Added title.</change><change who="#admin" when="2023-10-02T12:39:06.102Z">Created record from Word-File.</change>
+            <change who="#admin" when="2023-10-02T15:25:40.284Z">Corrected typo.</change><change who="#admin" when="2023-10-02T13:55:11.033Z">Added title.</change>
+            <change who="#admin" when="2023-10-02T12:39:06.102Z">Created record from Word-File.</change>
             <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
@@ -222,7 +224,7 @@
       <locus from="376r"/>
       
       <quote rend="" xml:lang="ar">fī laylat al-khamīs tāsiʿ ʿashr dhī al-qaʿda min shuhūr sanat 992</quote>
-      <ab type="translation">n the night of Thursday, 19th of Dhū al-Qaʿda of year 992</ab>
+      <ab type="translation">on the night of Thursday, 19th of Dhū al-Qaʿda of year 992</ab>
       <note>scribe C; 21 Nov 1584</note>
    </item>
                                 <item xml:id="add-1116">
