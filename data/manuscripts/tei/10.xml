@@ -35,12 +35,51 @@
                <date from="2021" to="2023">2021-2023</date>
             </editor>
             <editor xml:id="mmoliere"
-                    role="contributor"
+                    role="contributor creator"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                <persName>Maximilian de Molière</persName>
                <date from="2021" to="2026">2021-2026</date>
             </editor>
-            <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+            <editor xml:id="lgzella"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+               <persName>Lea Gzella</persName>
+               <date from="2022" to="2023">2022-2023</date>
+            </editor>
+            <editor xml:id="plakteikina"
+                    role="contributor"
+                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+               <persName>Polina Lakteikina</persName>
+               <date from="2022" to="2023">2022-2023</date>
+            </editor>
+            <editor xml:id="mboehm" role="contributor">
+               <persName>Maurizio Boehm</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="lporalla"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+               <persName>Lea Poralla</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="nurbiczek"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+               <persName>Nadine Urbiczek</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="ptarras"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+               <persName>Peter Tarras</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="lfroschmeier"
+                    role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+               <persName>Lukas Froschmeier</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
                <name type="person"
@@ -60,20 +99,20 @@
             <authority>
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/manuscript/10/tei</idno>
+            <idno type="URI">https://jalit.org/manuscript/5/</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-08-27T10:37:16.807+02:00</date>
+            <date>2023-10-24T22:29:27.695+02:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-08-27+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#mmoliere" when="2023-10-24+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -87,20 +126,11 @@
                   <collection>Oriental</collection>
                   <idno>2572.4</idno>
                   <msName/>
-                  <altIdentifier type="catalog">
-                     <idno>Cat. Margoliouth no. 896 (III:199–202)</idno>
-                  </altIdentifier>
                   <altIdentifier type="Ktiv">
                      <idno/>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
                      <idno>F 6343</idno>
-                  </altIdentifier>
-                  <altIdentifier type="mainShelfmark">
-                     <idno>London, British Library, Oriental 2572</idno>
-                  </altIdentifier>
-                  <altIdentifier type="old">
-                     <idno/>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
@@ -108,15 +138,15 @@
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">A piece</title>
-                     <author ref="">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
+                     <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                      <textLang mainLang="" otherLangs=""/>
                      <incipit>
                         <locus from="" to=""/>
-                        <quote/>
+                        <quote xml:lang=""/>
                      </incipit>
                      <explicit>
                         <locus from="" to=""/>
-                        <quote/>
+                        <quote xml:lang=""/>
                      </explicit>
                      <note/>
                   </msItem>
@@ -135,7 +165,7 @@
                   <objectDesc>
                      <supportDesc>
                         <support>
-                           <material/>
+                           <material>Paper</material>
                            <note/>
                         </support>
                         <extent>
@@ -186,7 +216,7 @@
                      </handNote>
                   </handDesc>
                   <scriptDesc>
-                     <scriptNote xml:lang="" script="" rend="" style="">
+                     <scriptNote xml:lang="ar" script="" rend="" style="">
                         <note/>
                      </scriptNote>
                   </scriptDesc>
@@ -258,7 +288,7 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note/>
+                     <note>Note on Shapira collection …</note>
                   </acquisition>
                </history>
                <additional>
@@ -272,6 +302,11 @@
                      </listBibl>
                   </surrogates>
                   <listBibl>
+                     <bibl>
+                        <title>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum</title>
+                        <citedRange unit="p">no. 896 (III:199–202)</citedRange>
+                        <ptr target="https://jalit.org/bibl/W3ZI8VB4/"/>
+                     </bibl>
                      <bibl>
                         <title/>
                         <citedRange unit="p"/>
