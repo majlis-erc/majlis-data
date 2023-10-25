@@ -132,7 +132,9 @@
                   <altIdentifier type="IMHM">
                      <idno>F 6343</idno>
                   </altIdentifier>
-               </msIdentifier>
+                  <altIdentifier type="main-shelfmark">
+                     <idno>London, British Library, Oriental 2572</idno>
+                  </altIdentifier>               </msIdentifier>
                <msContents>
                   <summary/>
                   <msItem xml:id="" class="">
