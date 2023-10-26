@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="en">London, British Library, Oriental 2572.1</title>
+            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate
+                                    World</title>
+            <sponsor ref="https://www.uni-muenchen.de">
+               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+                                        München</orgName>) </sponsor>
+            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und
+                                        Mittleren Osten</orgName>) </sponsor>
+            <funder ref="https://erc.europa.eu/">
+               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+            <principal ref="#rvollandt">Ronny Vollandt</principal>
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+               <persName>Ronny Vollandt</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+               <persName>Gregor Schwarb</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+               <persName>Nathan P. Gibson</persName>
+               <date from="2021" to="2023">2021-2023</date>
+            </editor>
+            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+               <persName>Maximilian de Molière</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+               <persName>Lea Gzella</persName>
+               <date from="2022" to="2023">2022-2023</date>
+            </editor>
+            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+               <persName>Polina Lakteikina</persName>
+               <date from="2022" to="2023">2022-2023</date>
+            </editor>
+            <editor xml:id="mboehm" role="contributor">
+               <persName>Maurizio Boehm</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+               <persName>Lea Poralla</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+               <persName>Nadine Urbiczek</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+               <persName>Peter Tarras</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+               <persName>Lukas Froschmeier</persName>
+               <date from="2021" to="2026">2021-2026</date>
+            </editor>
+            <respStmt>
+               <resp>manuForma app design and development by</resp>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+            </respStmt>
+            <respStmt>
+               <resp>Srophé app design and development by</resp>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+            </respStmt><editor role="creator" ref=""/>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+            </authority>
+            <idno type="URI">https://jalit.org/manuscript/1/</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/3.0/">
+                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+               </licence>
+            </availability>
+            <date>2023-10-24T22:29:27.695+02:00</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2023-10-26T07:09:38.633Z">Added bibliographical entry.</change><change who="#mmoliere" when="2023-10-24+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl>
+            <msDesc xml:id="ms-">
+               <msIdentifier>
+                  <country>Great Britain</country>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <collection>Oriental</collection>
+                  <idno>2572.1</idno>
+                  <msName/>
+                  <altIdentifier type="Ktiv">
+                     <idno/>
+                  </altIdentifier>
+                  <altIdentifier type="IMHM">
+                     <idno>F 6343</idno>
+                  </altIdentifier>
+                  <altIdentifier type="main-shelfmark">
+                     <idno>London, British Library, Oriental 2572</idno>
+                  </altIdentifier>               </msIdentifier>
+               <msContents><msItem class="" xml:id="item-11">
+      <locus from="1r" to="55v"/>
+      <title cert="" ref="" xml:lang=""/>
+      <author cert="" ref=""/>
+      <textLang mainLang="" otherLangs=""/>
+      <incipit>
+         <locus from="" to=""/>
+         <quote/>
+      </incipit>
+      <explicit>
+         <locus from="" to=""/>
+         <quote/>
+      </explicit>
+      <note/>
+   </msItem>
+                  <summary/>
+                  <msItem class="" xml:id="item-12">
+                     <locus from="" to=""/>
+                     <title xml:lang="" ref="" cert="">מאמרים פילוסופיים</title>
+                     <author ref="https://jalit.org/person/14">Abū l-Ḥasan ʿAlī b. Sulaymān</author>
+                     <textLang mainLang="" otherLangs=""/>
+                     <incipit>
+                        <locus from="" to=""/>
+                        <quote xml:lang=""/>
+                     </incipit>
+                     <explicit>
+                        <locus from="" to=""/>
+                        <quote xml:lang=""/>
+                     </explicit>
+                     <note/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <ab type="codicological-definition">
+                     <objectType rend="" style="codex">Single manuscript</objectType>
+                     <listBibl>
+                        <bibl>
+                           <idno type="manuscript-join"/>
+                           <citedRange unit="folios"/>
+                           <ptr target=""/>
+                        </bibl>
+                     </listBibl>
+                  </ab>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <material>Paper</material>
+                           <note/>
+                        </support>
+                        <extent>
+                           <measure unit="folio"/>
+                           <dimensions>
+                              <height unit="mm"/>
+                              <width unit="mm"/>
+                           </dimensions>
+                        </extent>
+                        <foliation style="" rendition=""/>
+                        <collation>
+                           <formula/>
+                           <unit/>
+                           <catchwords/>
+                           <note/>
+                        </collation>
+                        <condition>
+                           <note/>
+                           <ab type="writing" rend=""/>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <summary>
+                           <desc/>
+                           <note/>
+                        </summary>
+                        <layout writtenLines="" columns="" xml:id="layout-1111">
+                           <locus from="" to=""/>
+                           <dimensions type="written">
+                              <height unit="mm"/>
+                              <width unit="mm"/>
+                           </dimensions>
+                           <metamark function="justification"/>
+                           <ab type="ruling"/>
+                           <ab type="pricking"/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="">
+                     <summary/>
+                     <handNote medium="" xml:id="hand-111">
+                        <locus from="" to=""/>
+                        <persName ref="" role=""/>
+                        <placeName ref=""/>
+                        <metamark function=""/>
+                        <origDate>1072/3; 1093</origDate>
+                        <note/>
+                     </handNote>
+                  </handDesc>
+                  <scriptDesc>
+                     <scriptNote xml:lang="ar" script="" rend="" style="">
+                        <note/>
+                     </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <summary/>
+                     <decoNote>
+                        <desc/>
+                        <note/>
+                     </decoNote>
+                  </decoDesc>
+                  <additions>
+                     <list><item xml:id="add-1111">
+      <objectType/>
+      <locus from="" to=""/>
+      <persName ref="" role=""/><persName ref="" role=""/>
+      <quote rend="Hebr" xml:lang=""/>
+      <ab type=""/>
+      <note/>
+   </item><item xml:id="add-1112">
+      <objectType/>
+      <locus from="" to=""/>
+      <persName ref="" role=""/>
+      <quote rend="" xml:lang=""/>
+      <ab type=""/>
+      <note/>
+   </item>
+                        <item xml:id="add-1113">
+                           <objectType/>
+                           <persName ref="" role="mentioned"/>
+                           <locus from="" to=""/>
+                           <quote rend="" xml:lang=""/>
+                           <note/>
+                        </item>
+                     </list>
+                  </additions>
+                  <bindingDesc>
+                     <binding>
+                        <decoNote>
+                           <objectType/>
+                           <origPlace ref=""/>
+                           <origDate/>
+                           <material/>
+                           <note/>
+                           <dimensions>
+                              <height unit="mm"/>
+                              <width unit="mm"/>
+                              <depth unit="mm"/>
+                           </dimensions>
+                        </decoNote>
+                        <condition key=""/>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
+                     <list><item>
+      <quote xml:lang=""/>
+      <persName ref=""/>
+      <note/>
+      
+   </item>
+                        <item>
+                           <note/>
+                           <persName/>
+                           <quote xml:lang=""/>
+                           <bibl>
+                              <title ref="https://majlis.net/bibl/FM6G5JZV">Exegesis' Methods of the Bible in the Dictionary of the Karaite David Ben Abraham Alfāsī, "Kitāb Jāmi' al-Alfāż" / דרכי הפרשנות למקרא במילונו של הקראי דוד בן אברהם אלפאסי, "כתאב ג'אמע אלאלפאט'"</title>
+                              <citedRange unit="p"/>
+                              <ptr target=""/>
+                           </bibl>
+                        </item>
+                     </list>
+                  </accMat>
+               </physDesc>
+               <history>
+                  <summary/>
+                  <provenance>
+                     <date/>
+                     <placeName ref=""/>
+                     <locus from="" to=""/>
+                     <persName role=""/>
+                     <quote xml:lang=""/>
+                     <stamp/>
+                     <note/>
+                  </provenance>
+                  <acquisition>
+                     <date/>
+                     <placeName ref=""/>
+                     <locus from="" to=""/>
+                     <persName ref="" role=""/>
+                     <quote xml:lang=""/>
+                     <stamp/>
+                     <note>Note on Shapira collection …</note>
+                  </acquisition>
+               </history>
+               <additional>
+                  <surrogates>
+                     <listBibl>
+                        <bibl>
+                           <title>Digital image online</title>
+                           <publisher>British Library</publisher>
+                           <ptr target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2572_fs001r"/>
+                        </bibl>
+                     </listBibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl xml:id="bibl-111">
+                        <title>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum</title>
+                        <citedRange unit="p">no. 896 (III:199–202)</citedRange>
+                        <ptr target="https://jalit.org/bibl/W3ZI8VB4/"/>
+                     </bibl>
+                     <bibl xml:id="bibl-112">
+                        <title/>
+                        <citedRange unit="p"/>
+                        <ptr target=""/>
+                     </bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </listBibl>
+      </body>
+   </text>
+</TEI>
