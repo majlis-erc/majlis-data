@@ -33,7 +33,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref="">admin</editor>
+                </respStmt>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -51,7 +52,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2023-10-13T16:12:42.556Z">Created entry from existing notes.</change><change who="#" when=""/>
+            <change who="#nurbiczek" when="2023-10-26T08:26:12.970Z">Author added</change><change who="#admin" when="2023-10-13T16:12:42.556Z">Created entry from existing notes.</change>
+            <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -74,7 +76,8 @@
                         
                         <msName/>
                     </msIdentifier>
-                    <msContents><msItem class="" xml:id="item-11">
+                    <msContents>
+                        <msItem class="" xml:id="item-11">
       <locus from="1r" to="9v"/>
       <title cert="" ref="" xml:lang="">Introduction</title>
       <author cert="" ref=""/>
@@ -88,7 +91,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-12">
+   </msItem>
+                        <msItem class="" xml:id="item-12">
       <locus from="10v" to="18v"/>
       <title cert="" ref="" xml:lang="">Introduction to Genesis</title>
       <author cert="" ref=""/>
@@ -102,7 +106,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-13">
+   </msItem>
+                        <msItem class="" xml:id="item-13">
       <locus from="19v" to="30r"/>
       <title cert="" ref="" xml:lang="">summary of chapters</title>
       <author cert="" ref=""/>
@@ -116,7 +121,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-14">
+   </msItem>
+                        <msItem class="" xml:id="item-14">
       <locus from="30v" to="115v"/>
       <title cert="" ref="" xml:lang="">translation</title>
       <author cert="" ref=""/>
@@ -130,7 +136,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-15">
+   </msItem>
+                        <msItem class="" xml:id="item-15">
       <locus from="116v" to="118r"/>
       <title cert="" ref="" xml:lang="">introduction to Exodus</title>
       <author cert="" ref=""/>
@@ -144,7 +151,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-16">
+   </msItem>
+                        <msItem class="" xml:id="item-16">
       <locus from="118r" to="123v"/>
       <title cert="" ref="" xml:lang="">summary of chapters</title>
       <author cert="" ref=""/>
@@ -158,7 +166,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-17">
+   </msItem>
+                        <msItem class="" xml:id="item-17">
       <locus from="124v" to="199v"/>
       <title cert="" ref="" xml:lang="">translation</title>
       <author cert="" ref=""/>
@@ -172,7 +181,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-18">
+   </msItem>
+                        <msItem class="" xml:id="item-18">
       <locus from="200r" to="201v"/>
       <title cert="" ref="" xml:lang="">introduction to Leviticus</title>
       <author cert="" ref=""/>
@@ -186,7 +196,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-19">
+   </msItem>
+                        <msItem class="" xml:id="item-19">
       <locus from="201v" to="206r"/>
       <title cert="" ref="" xml:lang="">summary of chapters</title>
       <author cert="" ref=""/>
@@ -200,7 +211,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-110">
+   </msItem>
+                        <msItem class="" xml:id="item-110">
       <locus from="206v" to="254r"/>
       <title cert="" ref="" xml:lang="">translation</title>
       <author cert="" ref=""/>
@@ -214,7 +226,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-111">
+   </msItem>
+                        <msItem class="" xml:id="item-111">
       <locus from="254v" to="260v"/>
       <title cert="" ref="" xml:lang="">summary of chapters for Numbers</title>
       <author cert="" ref=""/>
@@ -228,7 +241,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-112">
+   </msItem>
+                        <msItem class="" xml:id="item-112">
       <locus from="261v" to="331v"/>
       <title cert="" ref="" xml:lang="">translation</title>
       <author cert="" ref=""/>
@@ -242,7 +256,8 @@
          <quote/>
       </explicit>
       <note/>
-   </msItem><msItem class="" xml:id="item-113">
+   </msItem>
+                        <msItem class="" xml:id="item-113">
       <locus from="332v" to="337r"/>
       <title cert="" ref="" xml:lang="">summary of chapters for Deuteronomy</title>
       <author cert="" ref=""/>
@@ -383,7 +398,7 @@
                             <list>
                                 <item>
                                     <note/>
-                                    <persName/>
+                                    <persName ref="https://majlis.net/person/10">ʿAbd Allāh</persName>
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
