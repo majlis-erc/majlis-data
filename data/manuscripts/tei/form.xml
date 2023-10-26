@@ -67,7 +67,8 @@
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
-            </respStmt><editor role="creator" ref=""/>
+            </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -86,7 +87,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2023-10-26T07:09:38.633Z">Added bibliographical entry.</change><change who="#mmoliere" when="2023-10-24+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
+         <change who="#lfroschmeier" when="2023-10-26T08:09:26.376Z">Added author.</change><change who="#mmoliere" when="2023-10-26T07:09:38.633Z">Added bibliographical entry.</change>
+            <change who="#mmoliere" when="2023-10-24+02:00">CREATED: Converted Zotero Data to TEI-File using XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -109,7 +111,8 @@
                   <altIdentifier type="main-shelfmark">
                      <idno>London, British Library, Oriental 2572</idno>
                   </altIdentifier>               </msIdentifier>
-               <msContents><msItem class="" xml:id="item-11">
+               <msContents>
+                        <msItem class="" xml:id="item-11">
       <locus from="1r" to="55v"/>
       <title cert="" ref="" xml:lang=""/>
       <author cert="" ref=""/>
@@ -218,14 +221,17 @@
                      </decoNote>
                   </decoDesc>
                   <additions>
-                     <list><item xml:id="add-1111">
+                     <list>
+                                <item xml:id="add-1111">
       <objectType/>
       <locus from="" to=""/>
-      <persName ref="" role=""/><persName ref="" role=""/>
+      <persName ref="" role=""/>
+                                    <persName ref="" role=""/>
       <quote rend="Hebr" xml:lang=""/>
       <ab type=""/>
       <note/>
-   </item><item xml:id="add-1112">
+   </item>
+                                <item xml:id="add-1112">
       <objectType/>
       <locus from="" to=""/>
       <persName ref="" role=""/>
@@ -260,9 +266,10 @@
                      </binding>
                   </bindingDesc>
                   <accMat>
-                     <list><item>
+                     <list>
+                                <item>
       <quote xml:lang=""/>
-      <persName ref=""/>
+      <persName ref="https://majlis.net/person/6">David ben Boʿaz</persName>
       <note/>
       
    </item>
