@@ -5,24 +5,34 @@
       <fileDesc>
          <titleStmt>
             <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 3847</title>
-            <title level="m" xml:lang="en">Judeo-Arabic Bible Exegesis and Translations in the Firkovitch Manuscript Collections</title>
+            <title level="m" xml:lang="en">Judeo-Arabic Bible Exegesis and
+                                        Translations in the Firkovitch Manuscript
+                                        Collections</title>
             <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+               <orgName>Ludwig Maximilian University of Munich</orgName>
+                                            (<orgName xml:lang="de">Ludwig-Maximilians-Universität
                                             München</orgName>)</sponsor>
             <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und
-                                            Mittleren Osten</orgName>)</sponsor>
+               <orgName>Institute of Near and Middle Eastern
+                                            Studies</orgName> (<orgName xml:lang="de">Institut für
+                                            den Nahen und Mittleren Osten</orgName>)</sponsor>
             <sponsor ref="https://en.huji.ac.il/en">
-               <orgName>The Hebrew University of Jerusalem</orgName> (<orgName xml:lang="he">האוניברסיטה העברית
+               <orgName>The Hebrew University of Jerusalem</orgName>
+                                            (<orgName xml:lang="he">האוניברסיטה העברית
                                             בירושלים</orgName>)</sponsor>
             <sponsor ref="https://en.arabic-lang.huji.ac.il/">
-               <orgName>Department of Arabic Language and Literature</orgName> (<orgName xml:lang="he">החוג לשפה וספרות
-                                            ערבית</orgName>)</sponsor>
+               <orgName>Department of Arabic Language and
+                                            Literature</orgName> (<orgName xml:lang="he">החוג לשפה
+                                            וספרות ערבית</orgName>)</sponsor>
             <funder ref="https://www.bmbf.de/">
-               <orgName>Federal German Ministry for Education and Research</orgName> (<orgName xml:lang="de"> Bundesministerium für
-                                            Bildung und Forschung</orgName>)</funder>
+               <orgName>Federal German Ministry for Education and
+                                            Research</orgName> (<orgName xml:lang="de">
+                                            Bundesministerium für Bildung und
+                                        Forschung</orgName>)</funder>
             <funder ref="https://www.minerva.mpg.de/arches/programme-information">
-               <orgName>Award for Research Cooperation and Highest Excellence in Science (ARCHES) – Minerva Stiftung</orgName>
+               <orgName>Award for Research Cooperation and Highest
+                                            Excellence in Science (ARCHES) – Minerva
+                                            Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
             <editor xml:id="mgoldstein"
@@ -38,31 +48,31 @@
                     role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
             <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
-            <editor xml:id="mmoliere"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
          </titleStmt>
          <publicationStmt>
             <authority>
-               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+               <ref target="https://jalit.org">jalit.org – Jewish-Arabic
+                                        Literature</ref>
             </authority>
             <idno type="URI">https://jalit.org/manuscript/ARCHES-102/</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                  <p>Distributed under a Creative Commons Attribution 4.0
+                                            International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-07T10:49:53.659+01:00</date>
+            <date>2023-11-22</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#eporat" when="2021-3-11">Cataloged the manuscript into a Word-File.</change>
-         <change who="#lgzella" when="2022-10-1">Translated Harkavy heritage data.</change>
-         <change who="#lgzella" when="2022-10-1">Transcribed Harkavy heritage data.</change>
-         <change who="#mmoliere" when="2023-11-7">Converted Zotero and Word data into TEI-File.</change>
+         <change who="#eporat" when="2021-03-11">Cataloged the manuscript into a Word-File.</change>
+         <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
+         <change who="#lgzella" when="2022-10-01">Transcribed Harkavy heritage data.</change>
+         <change who="#mmoliere" when="2023-11-22">Converted
+                                Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -72,10 +82,10 @@
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
-                  <repository>National Library of Russia</repository>
+                  <repository>National Library of
+                    Russia</repository>
                   <collection>Yevr.-Arab. I</collection>
                   <idno>3847</idno>
-                  <msName/>
                   <altIdentifier type="Ktiv">
                      <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001556060205171</idno>
                   </altIdentifier>
@@ -84,15 +94,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>מקצוע ראשי: כתות קראים. מקרא פרשנות. כתובים. איוב (יפת בן עלי)
-        שנת חיבור: המחצית השנייה של המאה העשירית
-        תוכן: פירוש לח:13-מ:23
+                  <summary>
+        יום תחית המתים (1א); אלדניא (=העולם הזה; 1ב); אלמקרא (=המקרא; 2ב); אלרבונין (=הרבנים; 2ב); גיחון (2א); בלד כוראסאן (=ארץ כ'וראסאן; 2א); אצחאב אלרצד (=אנשי העיון, המעיינים; 3ב) 
+        התוכן מקביל למהדורת Arik Sadan לפירוש יפת לאיוב, עמודים 660-618. 
+        פירוש לח:13-מ:23 
         </summary>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="" cert="">פירוש איוב</title>
                      <title xml:lang="" ref="" cert="">פרוש כתובים (איוב)</title>
-                     <author ref="">יפת בן עלי</author>
                      <author ref="https://jalit.org/person/4">Yefet ben ʿElī</author>
                      <textLang mainLang="ar" otherLangs=""/>
                      <incipit>
@@ -103,7 +112,8 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note>מובאות: </note>
+                     <note>
+        </note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -121,10 +131,10 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note>32-29 שורות. הדפים קרועים ומוכתמים. השלמות של הסופר. מילוי גרפי של שורות. ציטוט חלקֵי פסוקים בתרגום: מילה-ארבע מילים. לעיתים חלקי פסוקים אלה מנוקדים ניקוד טברני ובגדכפת רפות בהם מסומנות בקו קצר מעליהן. ניקוד טברני של מילים מהפסוקים, המתבארות בפירוש. ניקוד טברני של מובאות מקראיות. חילוף סגול בפתח: "לַשַׂכְוִי" (איוב לח:36: "לַשֶּׂכְוִי"; 3א); "עַבְרוֹת" (איוב מ:11: "עֶבְרוֹת"; 6ב). ניקוד טברני של מילים ערביות. ניקוד דיאקריטי: האותיות כ'א"א, ד'א"ל, גי"ן, פא"א מסומנות לעיתים בקו קצר מעליהן. האותיות תא"א, דא"ל מסומנות לעיתים בנקודה בתוכן. אמאלות: "אִלהַוֵא" (4ב); "בִדִּדּ" (6ב); "עַלֵי חִדּק" (3א). </note>
+                           <note>32-29 שורות. הדפים קרועים ומוכתמים. השלמות של הסופר. מילוי גרפי של שורות. ציטוט חלקֵי פסוקים בתרגום: מילה-ארבע מילים. לעיתים חלקי פסוקים אלה מנוקדים ניקוד טברני ובגדכפת רפות בהם מסומנות בקו קצר מעליהן. ניקוד טברני של מילים מהפסוקים, המתבארות בפירוש. ניקוד טברני של מובאות מקראיות. חילוף סגול בפתח: "לַשַׂכְוִי" (איוב לח:36: "לַשֶּׂכְוִי"; 3א); "עַבְרוֹת" (איוב מ:11: "עֶבְרוֹת"; 6ב). ניקוד טברני של מילים ערביות. ניקוד דיאקריטי: האותיות כ'א"א, ד'א"ל, גי"ן, פא"א מסומנות לעיתים בקו קצר מעליהן. האותיות תא"א, דא"ל מסומנות לעיתים בנקודה בתוכן. אמאלות: "אִלהַוֵא" (4ב); "בִדִּדּ" (6ב); "עַלֵי חִדּק" (3א).  </note>
                         </support>
                         <extent>
-                           <measure unit="folio">7</measure>
+                           <measure unit="folio">7 </measure>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -160,21 +170,19 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc hands="">
-                     <summary>מזרחית מרובעת</summary>
+                     <summary/>
                      <handNote medium="">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
-                        <placeName ref=""/>
                         <metamark function=""/>
-                        <origDate/>
                         <origDate/>
                         <note/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
                      <scriptNote xml:lang="" script="" rend="" style="">
-                        <note/>
+                        <note>מזרחית מרובעת </note>
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
@@ -190,8 +198,9 @@
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote rend="" xml:lang="">קולופון:</quote>
-                           <note/>
+                           <quote rend="" xml:lang=""/>
+                           <note>
+        </note>
                         </item>
                      </list>
                   </additions>
@@ -215,33 +224,44 @@
                   <accMat>
                      <list>
                         <item>
-                           <note>The St. Petersburg librarian Avraham Harkavy compiled a description of this manuscript in his card catalog which is presented here in an English translation.</note>
+                           <note>The St. Petersburg librarian Avraham Harkavy compiled a description of
+                        this manuscript in his card catalog which is presented here in an English
+                        translation.</note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="en">
-p. 4
-N. 3847 (304)
-From a commentary on the Book of Job
-II + 7 folios
-N. 3847 (304)
-7 folios from a commentary on the Book of Job
-Damaged
-corresponds to p. 2
-LG
+p. 4 
+N. 3847 (304) 
+From a commentary on the Book of Job 
+II + 7 folios 
+N. 3847 (304) 
+7 folios from a commentary on the Book of Job 
+Damaged 
+corresponds to p. 2 
 </quote>
+                           <bibl>
+                              <title/>
+                              <citedRange unit="p"/>
+                              <ptr target=""/>
+                           </bibl>
                         </item>
                         <item>
-                           <note>The St. Petersburg librarian Avraham Harkavy compiled a description of this manuscript in his card catalog which is presented here.</note>
+                           <note>The St. Petersburg librarian Avraham Harkavy compiled a description of
+                        this manuscript in his card catalog which is presented here.</note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="ru">
-p. 4
-N. 3847 (304)
-Изъ коммент. на кн. Jова
-II + 7 л.
-N. 3847 (304)
-7 л. изъ коммент. на кн. Jова
-поврежд.
-LG
+p. 4 
+N. 3847 (304) 
+Изъ коммент. на кн. Jова 
+II + 7 л. 
+N. 3847 (304) 
+7 л. изъ коммент. на кн. Jова 
+поврежд. 
 </quote>
+                           <bibl>
+                              <title/>
+                              <citedRange unit="p"/>
+                              <ptr target=""/>
+                           </bibl>
                         </item>
                         <item>
                            <note/>
@@ -282,7 +302,8 @@ LG
                      <listBibl>
                         <bibl>
                            <title>Digital image online</title>
-                           <publisher>National Library of Israel</publisher>
+                           <publisher>National Library of
+                        Israel</publisher>
                            <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001556060205171-1"/>
                         </bibl>
                      </listBibl>
