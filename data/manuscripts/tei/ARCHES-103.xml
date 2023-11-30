@@ -61,7 +61,7 @@
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-22</date>
+            <date>2023-11-30</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          <change who="#eporat" when="2020-01-16">Cataloged the manuscript into a Word-File.</change>
          <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#plakteikina" when="2022-10-01">Transcribed Harkavy heritage data.</change>
-         <change who="#mmoliere" when="2023-11-22">Converted
+         <change who="#mmoliere" when="2023-11-30">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -87,16 +87,15 @@
                   <collection>Yevr.-Arab. I</collection>
                   <idno>4038</idno>
                   <altIdentifier type="Ktiv">
-                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001557680205171</idno>
+                     <idno>PNX_MANUSCRIPTS990001557680205171</idno>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
                      <idno>F 57665</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>
-        אלדהריה (=כת שהאמינה בנצחיות העולם; 4א); אלנצארי (=הנוצרים; 5ב); אלרבאניין (=הרבנים; 6א)  
-        פירוש ל:20-1 
+                  <summary>תוכן: פירוש ל:20-1
+        מוזכר: אלדהריה (=כת שהאמינה בנצחיות העולם; 4א); אלנצארי (=הנוצרים; 5ב); אלרבאניין (=הרבנים; 6א)
         </summary>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
@@ -111,7 +110,7 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note> </note>
+                     <note>כותר כפי שמופיע: </note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -197,8 +196,7 @@
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
                            <quote rend="" xml:lang=""/>
-                           <note>
-        </note>
+                           <note/>
                         </item>
                      </list>
                   </additions>
@@ -313,6 +311,10 @@ I
                      </listBibl>
                   </surrogates>
                   <listBibl>
+                     <bibl>
+                        <title>Ktiv</title>
+                        <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001557680205171"/>
+                     </bibl>
                      <bibl>
                         <title/>
                         <citedRange unit="p"/>

@@ -61,7 +61,7 @@
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-22</date>
+            <date>2023-11-30</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          <change who="#eporat" when="2021-02-21">Cataloged the manuscript into a Word-File.</change>
          <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#plakteikina" when="2022-10-01">Transcribed Harkavy heritage data.</change>
-         <change who="#mmoliere" when="2023-11-22">Converted
+         <change who="#mmoliere" when="2023-11-30">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -87,16 +87,16 @@
                   <collection>Yevr.-Arab. I</collection>
                   <idno>3833</idno>
                   <altIdentifier type="Ktiv">
-                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001555920205171</idno>
+                     <idno>PNX_MANUSCRIPTS990001555920205171</idno>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
                      <idno>F 57914</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>בני נֹח (16ב); נֹחַ (47א); אהל סדום (=אנשי סדום; 47א) 
-        ההשלמות והמחיקות הרבות מלמדות שכתב היד הוא אוטוגרף. אפשר שזהו אחד מהאוטוגרפים של עלי בן סולימן. 
-        תרגום ו:19-ט:11 (דפים 8-1); תרגום יג:9-כד:23 (דפים 56-9) 
+                  <summary>תוכן: תרגום ו:19-ט:11 (דפים 8-1); תרגום יג:9-כד:23 (דפים 56-9)
+        מוזכר: בני נֹח (16ב); נֹחַ (47א); אהל סדום (=אנשי סדום; 47א)
+        זהוי: ההשלמות והמחיקות הרבות מלמדות שכתב היד הוא אוטוגרף. אפשר שזהו אחד מהאוטוגרפים של עלי בן סולימן.
         </summary>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
@@ -111,8 +111,7 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note>
-        18ב-19א: "לא [י]עשר" (איוב טו:29) ולא ייסר אבדא ואחד מנהם ולא ית'בת מא ימלכה מן אלאת'את' ואלגרץ' ולא ינפד' וינבסט בעד ד'לך פי אלארץ' אקואלהם כמא כאנו. "מִנְלָם" (שם) מקאם מִלָּם מת'ל "נְמִבְזָה" (שמ"א טו:9). </note>
+                     <note>18ב-19א: "לא [י]עשר" (איוב טו:29) ולא ייסר אבדא ואחד מנהם ולא ית'בת מא ימלכה מן אלאת'את' ואלגרץ' ולא ינפד' וינבסט בעד ד'לך פי אלארץ' אקואלהם כמא כאנו. "מִנְלָם" (שם) מקאם מִלָּם מת'ל "נְמִבְזָה" (שמ"א טו:9). </note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -198,8 +197,7 @@
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
                            <quote rend="" xml:lang=""/>
-                           <note>
-        </note>
+                           <note/>
                         </item>
                      </list>
                   </additions>
@@ -308,6 +306,10 @@ N. 3833 (304)
                      </listBibl>
                   </surrogates>
                   <listBibl>
+                     <bibl>
+                        <title>Ktiv</title>
+                        <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001555920205171"/>
+                     </bibl>
                      <bibl>
                         <title/>
                         <citedRange unit="p"/>

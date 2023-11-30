@@ -61,7 +61,7 @@
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-22</date>
+            <date>2023-11-30</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -69,7 +69,7 @@
       </fileDesc>
       <revisionDesc status="unpublished">
          <change who="#eporat" when="2021-01-19">Cataloged the manuscript into a Word-File.</change>
-         <change who="#mmoliere" when="2023-11-22">Converted
+         <change who="#mmoliere" when="2023-11-30">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -85,17 +85,16 @@
                   <collection>Yevr.-Arab. I</collection>
                   <idno>3834</idno>
                   <altIdentifier type="Ktiv">
-                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001555930205171</idno>
+                     <idno>PNX_MANUSCRIPTS990001555930205171</idno>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
                      <idno>F 57611</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>
-        אלעבראנין (=העברים; עמוד א) 
-        התוכן מקביל ל"איוב עם תרגום ופירוש רס"ג", מהדורת הרב יוסף קאפח, ירושלים תשל"ג, עמ' סז-עג. 
-        פירוש ח:18-14 ותרגום ט:25-1  
+                  <summary>תוכן: פירוש ח:18-14 ותרגום ט:25-1 
+        מוזכר: אלעבראנין (=העברים; עמוד א)
+        זהוי: התוכן מקביל ל"איוב עם תרגום ופירוש רס"ג", מהדורת הרב יוסף קאפח, ירושלים תשל"ג, עמ' סז-עג.
         </summary>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
@@ -110,8 +109,7 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note>
-        </note>
+                     <note/>
                   </msItem>
                </msContents>
                <physDesc>
@@ -197,8 +195,7 @@
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
                            <quote rend="" xml:lang=""/>
-                           <note>
-        </note>
+                           <note/>
                         </item>
                      </list>
                   </additions>
@@ -267,6 +264,10 @@
                      </listBibl>
                   </surrogates>
                   <listBibl>
+                     <bibl>
+                        <title>Ktiv</title>
+                        <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001555930205171"/>
+                     </bibl>
                      <bibl>
                         <title/>
                         <citedRange unit="p"/>

@@ -61,7 +61,7 @@
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-22</date>
+            <date>2023-11-30</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          <change who="#eporat" when="2021-06-10">Cataloged the manuscript into a Word-File.</change>
          <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#plakteikina" when="2022-10-01">Transcribed Harkavy heritage data.</change>
-         <change who="#mmoliere" when="2023-11-22">Converted
+         <change who="#mmoliere" when="2023-11-30">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -87,17 +87,16 @@
                   <collection>Yevr.-Arab. I</collection>
                   <idno>3845</idno>
                   <altIdentifier type="Ktiv">
-                     <idno>https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001556040205171</idno>
+                     <idno>PNX_MANUSCRIPTS990001556040205171</idno>
                   </altIdentifier>
                   <altIdentifier type="IMHM">
                      <idno>F 57920</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>
-        יום אלדין (=יום הדין; 8ב); אלכתאב (המקרא; 10ב); אלמקרא (=המקרא; 14א); אלמדון (עורך המקרא; 17א); אלמסיח (=המשיח, דוד המלך; 17ב); אעאריב (=בדווים; 18ב); גהנם (=גיהינום; 19ב); לשון תרגום (ארמית; 28א); לגה אלתרגום (=לשון התרגום, ארמית; 29א); אלדניא (=העולם הזה; 11א, 13ב, 19ב, 21א, 24ב, 26ב, 30א, 31ב, 32ב); אלאכרה (=העולם הבא; 31ב); אלתוחיד (=אמונת הייחוד; 32ב); אדם על' אלס' (=עליו השלום; 42ב); שם ע' אלס' (=עליו השלום; 42ב); אברהם ע' אלס' (=עליו השלום; 42ב).  
-        Arik Sadan השתמש בכתב היד במהדורתו לפירוש יפת לאיוב 
-        פירוש ה:8-1 (דף 19); פירוש ו:19-10 (דף 18); פירוש ז:21-ט:20 (דפים 24+ 5-2+ 28); פירוש יא:6-יב:22 (דפים 23-20); פירוש יג:20-יד:15 (דפים 42+ 10); פירוש יז:16-10 (דף 9); פירוש כא:23- 34 (דף 8); פירוש כד:22-כז:1 (דפים 25+ 13+ 38); פירוש כז:8-כט:2 (דפים 6+ 27-26+ 7); פירוש כט:16-לד:9 (דפים 39+ 29+ 40+ 37-30+ 14+ 12); סיכום מענה אֱלִיהוּ בפרק לד ופירוש לה:2-לו:21 (דפים 17-15+ 11+ 1); פירוש לז:20-12 (דף 41) 
+                  <summary>תוכן: פירוש ה:8-1 (דף 19); פירוש ו:19-10 (דף 18); פירוש ז:21-ט:20 (דפים 24+ 5-2+ 28); פירוש יא:6-יב:22 (דפים 23-20); פירוש יג:20-יד:15 (דפים 42+ 10); פירוש יז:16-10 (דף 9); פירוש כא:23- 34 (דף 8); פירוש כד:22-כז:1 (דפים 25+ 13+ 38); פירוש כז:8-כט:2 (דפים 6+ 27-26+ 7); פירוש כט:16-לד:9 (דפים 39+ 29+ 40+ 37-30+ 14+ 12); סיכום מענה אֱלִיהוּ בפרק לד ופירוש לה:2-לו:21 (דפים 17-15+ 11+ 1); פירוש לז:20-12 (דף 41)
+        מוזכר: יום אלדין (=יום הדין; 8ב); אלכתאב (המקרא; 10ב); אלמקרא (=המקרא; 14א); אלמדון (עורך המקרא; 17א); אלמסיח (=המשיח, דוד המלך; 17ב); אעאריב (=בדווים; 18ב); גהנם (=גיהינום; 19ב); לשון תרגום (ארמית; 28א); לגה אלתרגום (=לשון התרגום, ארמית; 29א); אלדניא (=העולם הזה; 11א, 13ב, 19ב, 21א, 24ב, 26ב, 30א, 31ב, 32ב); אלאכרה (=העולם הבא; 31ב); אלתוחיד (=אמונת הייחוד; 32ב); אדם על' אלס' (=עליו השלום; 42ב); שם ע' אלס' (=עליו השלום; 42ב); אברהם ע' אלס' (=עליו השלום; 42ב).
+        זהוי: Arik Sadan השתמש בכתב היד במהדורתו לפירוש יפת לאיוב
         </summary>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
@@ -112,7 +111,7 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note>
+                     <note>כותר כפי שמופיע:
         </note>
                   </msItem>
                </msContents>
@@ -199,8 +198,7 @@
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
                            <quote rend="" xml:lang=""/>
-                           <note>
-        </note>
+                           <note/>
                         </item>
                      </list>
                   </additions>
@@ -310,6 +308,10 @@ N. 3845 (304)
                      </listBibl>
                   </surrogates>
                   <listBibl>
+                     <bibl>
+                        <title>Ktiv</title>
+                        <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001556040205171"/>
+                     </bibl>
                      <bibl>
                         <title/>
                         <citedRange unit="p"/>
