@@ -54,14 +54,14 @@
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic
                                         Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/manuscript/ARCHES-108/</idno>
+            <idno type="URI">https://jalit.org/manuscript/ARCHES-108</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-30</date>
+            <date>2023-12-11</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          <change who="#eporat" when="2021-03-07">Cataloged the manuscript into a Word-File.</change>
          <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#plakteikina" when="2022-10-01">Transcribed Harkavy heritage data.</change>
-         <change who="#mmoliere" when="2023-11-30">Converted
+         <change who="#mmoliere" when="2023-12-11">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -94,7 +94,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>תוכן: פירוש לו: 32-לז:16 (דף 2); פירוש לח:41-לט:17 (דף 1)
+                  <summary xml:lang="">תוכן: פירוש לו: 32-לז:16 (דף 2); פירוש לח:41-לט:17 (דף 1)
         מוזכר: לשון משנה (2ב)
         זהוי: תוכן דף 2 מקביל לכתב יד I: 3645, דפים 41+ 38א; תוכן דף 1 מקביל לכתב יד I: 4461, דף 127.
         </summary>
@@ -111,12 +111,13 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note>2ב: "מִפְלְשֵׂי עָב" (איוב לז:16; בכה"י: עי"ן בפתח) תסקימאת אלסחאב מן "פַלֵּס מַעְגַּל רַגְלֶיךָ" (משלי ד:26). ויקאל אוזאן אלסחאב מן "וְשָׁקַל בַּפֶּלֶס" (ישעיהו מ:12). ויקאל מבאסט בג'על אללאם מקאם ריש.    </note>
+                     <note xml:lang="">2ב: "מִפְלְשֵׂי עָב" (איוב לז:16; בכה"י: עי"ן בפתח) תסקימאת אלסחאב מן "פַלֵּס מַעְגַּל רַגְלֶיךָ" (משלי ד:26). ויקאל אוזאן אלסחאב מן "וְשָׁקַל בַּפֶּלֶס" (ישעיהו מ:12). ויקאל מבאסט בג'על אללאם מקאם ריש.   </note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single manuscript</objectType>
+                     <objectType rend="" style="codex">Single
+                                                  manuscript</objectType>
                      <listBibl>
                         <bibl>
                            <idno type="manuscript-join"/>
@@ -129,7 +130,7 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note>19 שורות. הדפים קרועים ומוכתמים. בדף 2 יש שתי השלמות של סופר אחר. מילוי גרפי של שורות. ניקוד טברני של המילים המקראיות, הן מאיוב והן מספרי מקרא אחרים. סימון בגדכפת רפות בקו קצר מעליהן. אבו אלפרג' הרון פירש מבחר מילים מהפסוקים הכלולים בכל דף. הוא תרגם את המילים לערבית וציין את גיזרונן. הביא תרגומים חלופיים אנונימיים.  </note>
+                           <note xml:lang="">19 שורות. הדפים קרועים ומוכתמים. בדף 2 יש שתי השלמות של סופר אחר. מילוי גרפי של שורות. ניקוד טברני של המילים המקראיות, הן מאיוב והן מספרי מקרא אחרים. סימון בגדכפת רפות בקו קצר מעליהן. אבו אלפרג' הרון פירש מבחר מילים מהפסוקים הכלולים בכל דף. הוא תרגם את המילים לערבית וציין את גיזרונן. הביא תרגומים חלופיים אנונימיים. </note>
                         </support>
                         <extent>
                            <measure unit="folio">2 </measure>
@@ -143,19 +144,19 @@
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <note/>
+                           <note xml:lang=""/>
                         </collation>
                         <condition>
-                           <note/>
+                           <note xml:lang=""/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
-                           <note/>
+                           <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="">
+                        <layout writtenLines="" columns="" xml:id="">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -168,26 +169,26 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc hands="">
-                     <summary/>
+                     <summary xml:lang=""/>
                      <handNote medium="">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate/>
-                        <note/>
+                        <note xml:lang=""/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
                      <scriptNote xml:lang="he" script="oriental" rend="" style="square">
-                        <note>מזרחית מרובעת </note>
+                        <note xml:lang="he">מזרחית מרובעת </note>
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
-                     <summary/>
+                     <summary xml:lang=""/>
                      <decoNote>
                         <desc/>
-                        <note/>
+                        <note xml:lang=""/>
                      </decoNote>
                   </decoDesc>
                   <additions>
@@ -196,8 +197,8 @@
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote rend="" xml:lang=""/>
-                           <note/>
+                           <quote xml:lang=""/>
+                           <note xml:lang=""/>
                         </item>
                      </list>
                   </additions>
@@ -208,7 +209,7 @@
                            <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <note/>
+                           <note xml:lang=""/>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -221,22 +222,22 @@
                   <accMat>
                      <list>
                         <item>
-                           <note>The St. Petersburg librarian Avraham Harkavy compiled a description of
-                        this manuscript in his card catalog which is presented here in an English
-                        translation.</note>
+                           <note xml:lang="en">The St. Petersburg librarian Avraham Harkavy compiled a
+                        description of this manuscript in his card catalog which is presented here
+                        in an English translation.</note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="en">
-p. 4 
-N. 3854 (304) 
-2 folios from the Šarḥ al-Alfāẓ on the Book of Job 
-Edge is damaged 
-I 
-p. 5 
-N. 3854 (304) 
-From the Šarḥ al-Alfāẓ on the Book of Job 
-II 
-2 folios 
-corresponds to p. 2 
+p. 4 / 
+N. 3854 (304) / 
+2 folios from the Šarḥ al-Alfāẓ on the Book of Job / 
+Edge is damaged / 
+I / 
+p. 5 / 
+N. 3854 (304) / 
+From the Šarḥ al-Alfāẓ on the Book of Job / 
+II / 
+2 folios / 
+corresponds to p. 2 / 
 </quote>
                            <bibl>
                               <title/>
@@ -245,20 +246,21 @@ corresponds to p. 2
                            </bibl>
                         </item>
                         <item>
-                           <note>The St. Petersburg librarian Avraham Harkavy compiled a description of
-                        this manuscript in his card catalog which is presented here.</note>
+                           <note xml:lang="en">The St. Petersburg librarian Avraham Harkavy compiled a
+                        description of this manuscript in his card catalog which is presented
+                        here.</note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="ru"> 
-p. 4 
-N. 3854 (304) 
-2 л. изъ Шархуль-Алфатъ на Кн. Jова 
-кр. поврежд. 
-I 
-p. 5 
-N. 3854 (304) 
-Изъ Шархуль-Алфатъ на Кн. Jова 
-II 
-2 л. 
+p. 4 / 
+N. 3854 (304) / 
+2 л. изъ Шархуль-Алфатъ на Кн. Jова / 
+кр. поврежд. / 
+I / 
+p. 5 / 
+N. 3854 (304) / 
+Изъ Шархуль-Алфатъ на Кн. Jова / 
+II / 
+2 л. / 
 </quote>
                            <bibl>
                               <title/>
@@ -267,7 +269,7 @@ II
                            </bibl>
                         </item>
                         <item>
-                           <note/>
+                           <note xml:lang=""/>
                            <persName/>
                            <quote xml:lang=""/>
                            <bibl>
@@ -280,7 +282,7 @@ II
                   </accMat>
                </physDesc>
                <history>
-                  <summary/>
+                  <summary xml:lang=""/>
                   <provenance>
                      <date/>
                      <placeName ref=""/>
@@ -288,7 +290,7 @@ II
                      <persName role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note/>
+                     <note xml:lang=""/>
                   </provenance>
                   <acquisition>
                      <date/>
@@ -297,7 +299,7 @@ II
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note>Note on Firkovitch collection …</note>
+                     <note xml:lang="en">Note on Firkovitch collection …</note>
                   </acquisition>
                </history>
                <additional>
@@ -307,7 +309,7 @@ II
                            <title>Digital image online</title>
                            <publisher>National Library of
                         Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001556130205171-1"/>
+                           <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001556130205171"/>
                         </bibl>
                      </listBibl>
                   </surrogates>

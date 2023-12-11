@@ -54,14 +54,14 @@
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic
                                         Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/manuscript/ARCHES-104/</idno>
+            <idno type="URI">https://jalit.org/manuscript/ARCHES-104</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-30</date>
+            <date>2023-12-11</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -69,7 +69,7 @@
       </fileDesc>
       <revisionDesc status="unpublished">
          <change who="#eporat" when="2021-03-11">Cataloged the manuscript into a Word-File.</change>
-         <change who="#mmoliere" when="2023-11-30">Converted
+         <change who="#mmoliere" when="2023-12-11">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -92,7 +92,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>תוכן: פירוש ד:12 (דף 1); פירוש ד:18-ה:11 (דפים 7-2)
+                  <summary xml:lang="">תוכן: פירוש ד:12 (דף 1); פירוש ד:18-ה:11 (דפים 7-2)
         מוזכר: אלדניא (=העולם הזה; 3א, 6א); גֵיהִנָם (5א)
         זהוי: התוכן מקביל למהדורת Arik Sadan לפירוש יפת לאיוב, עמודים 102-91.
         </summary>
@@ -109,12 +109,13 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note/>
+                     <note xml:lang=""/>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single manuscript</objectType>
+                     <objectType rend="" style="codex">Single
+                                                  manuscript</objectType>
                      <listBibl>
                         <bibl>
                            <idno type="manuscript-join"/>
@@ -127,7 +128,7 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note>16 שורות. התוכן קריא לגמרי. הדפים מוכתמים הכתמה קלה. השלמות ומחיקות של הסופר. בגיליון השמאלי של דף 6א יש תיקון צח. יש שומרי דפים. הפסוקים מצוטטים במלואם בתרגום. הם מנוקדים ניקוד טברני. ניקוד טברני של מילים מהפסוקים, המתבארות בפירוש. ניקוד טברני של מובאות מקראיות ושל מילים אחרות. חילופי פתח-סגול: "פֶחֶד" (איוב ד:14: "פַחַד"; 1א); "בַעָפָר" (איוב ד:19: "בֶּעָפָר"; 2א). ניקוד טברני של מילים ערביות. ניקוד דיאקריטי: ג'י"ם מסומנת בנקודה תחתית. גי"ן מסומנת בנקודה עילית. כ'א"א מסומנת בנקודה עילית. ציון נקודה בכ"ף סופית במילים ערביות. נקודתיים מעל תא מרבוטה בשמשהּ נסמך: "וכתרה עט'אמי" (1א), "שערה בדני" (שם). אִמאלות: "שְבִיה באלוִסְוֵאס" (2א); "ואלתֵא ואלהֵא" (שם). ציון תנוין פתחה. ציון שדה בשני קווים קצרים מעל האות.  </note>
+                           <note xml:lang="">16 שורות. התוכן קריא לגמרי. הדפים מוכתמים הכתמה קלה. השלמות ומחיקות של הסופר. בגיליון השמאלי של דף 6א יש תיקון צח. יש שומרי דפים. הפסוקים מצוטטים במלואם בתרגום. הם מנוקדים ניקוד טברני. ניקוד טברני של מילים מהפסוקים, המתבארות בפירוש. ניקוד טברני של מובאות מקראיות ושל מילים אחרות. חילופי פתח-סגול: "פֶחֶד" (איוב ד:14: "פַחַד"; 1א); "בַעָפָר" (איוב ד:19: "בֶּעָפָר"; 2א). ניקוד טברני של מילים ערביות. ניקוד דיאקריטי: ג'י"ם מסומנת בנקודה תחתית. גי"ן מסומנת בנקודה עילית. כ'א"א מסומנת בנקודה עילית. ציון נקודה בכ"ף סופית במילים ערביות. נקודתיים מעל תא מרבוטה בשמשהּ נסמך: "וכתרה עט'אמי" (1א), "שערה בדני" (שם). אִמאלות: "שְבִיה באלוִסְוֵאס" (2א); "ואלתֵא ואלהֵא" (שם). ציון תנוין פתחה. ציון שדה בשני קווים קצרים מעל האות. </note>
                         </support>
                         <extent>
                            <measure unit="folio">7 </measure>
@@ -141,19 +142,19 @@
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <note/>
+                           <note xml:lang=""/>
                         </collation>
                         <condition>
-                           <note/>
+                           <note xml:lang=""/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
-                           <note/>
+                           <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="">
+                        <layout writtenLines="" columns="" xml:id="">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -166,26 +167,26 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc hands="">
-                     <summary/>
+                     <summary xml:lang=""/>
                      <handNote medium="">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate/>
-                        <note/>
+                        <note xml:lang=""/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
                      <scriptNote xml:lang="" script="" rend="" style="">
-                        <note>מזרחית בינונית </note>
+                        <note xml:lang="he">מזרחית בינונית </note>
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
-                     <summary/>
+                     <summary xml:lang=""/>
                      <decoNote>
                         <desc/>
-                        <note/>
+                        <note xml:lang=""/>
                      </decoNote>
                   </decoDesc>
                   <additions>
@@ -194,8 +195,8 @@
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote rend="" xml:lang=""/>
-                           <note/>
+                           <quote xml:lang=""/>
+                           <note xml:lang=""/>
                         </item>
                      </list>
                   </additions>
@@ -206,7 +207,7 @@
                            <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <note/>
+                           <note xml:lang=""/>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -219,7 +220,7 @@
                   <accMat>
                      <list>
                         <item>
-                           <note/>
+                           <note xml:lang=""/>
                            <persName/>
                            <quote xml:lang=""/>
                            <bibl>
@@ -232,7 +233,7 @@
                   </accMat>
                </physDesc>
                <history>
-                  <summary/>
+                  <summary xml:lang=""/>
                   <provenance>
                      <date/>
                      <placeName ref=""/>
@@ -240,7 +241,7 @@
                      <persName role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note/>
+                     <note xml:lang=""/>
                   </provenance>
                   <acquisition>
                      <date/>
@@ -249,7 +250,7 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note>Note on Firkovitch collection …</note>
+                     <note xml:lang="en">Note on Firkovitch collection …</note>
                   </acquisition>
                </history>
                <additional>
@@ -259,7 +260,7 @@
                            <title>Digital image online</title>
                            <publisher>National Library of
                         Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001556050205171-1"/>
+                           <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001556050205171"/>
                         </bibl>
                      </listBibl>
                   </surrogates>

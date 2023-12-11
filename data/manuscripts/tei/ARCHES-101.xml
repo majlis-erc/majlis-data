@@ -54,14 +54,14 @@
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic
                                         Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/manuscript/ARCHES-101/</idno>
+            <idno type="URI">https://jalit.org/manuscript/ARCHES-101</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-30</date>
+            <date>2023-12-11</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -69,7 +69,7 @@
       </fileDesc>
       <revisionDesc status="unpublished">
          <change who="#eporat" when="2021-01-19">Cataloged the manuscript into a Word-File.</change>
-         <change who="#mmoliere" when="2023-11-30">Converted
+         <change who="#mmoliere" when="2023-12-11">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -92,7 +92,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>תוכן: פירוש ח:18-14 ותרגום ט:25-1 
+                  <summary xml:lang="">תוכן: פירוש ח:18-14 ותרגום ט:25-1 
         מוזכר: אלעבראנין (=העברים; עמוד א)
         זהוי: התוכן מקביל ל"איוב עם תרגום ופירוש רס"ג", מהדורת הרב יוסף קאפח, ירושלים תשל"ג, עמ' סז-עג.
         </summary>
@@ -109,12 +109,13 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note/>
+                     <note xml:lang=""/>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single manuscript</objectType>
+                     <objectType rend="" style="codex">Single
+                                                  manuscript</objectType>
                      <listBibl>
                         <bibl>
                            <idno type="manuscript-join"/>
@@ -127,7 +128,7 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note>25 שורות. הדף מוכתם. מעט מהתוכן חסר בשל קרע בחלק התחתון של הדף. מחיקות אחדות של הסופר. מילוי גרפי של שורה. בגיליון השמאלי של עמוד א, בשורה בה מתחיל פרק ט, כתובה קו"ף. היא מקושטת. ציטוט ראשי הפסוקים בתרגום.    </note>
+                           <note xml:lang="">25 שורות. הדף מוכתם. מעט מהתוכן חסר בשל קרע בחלק התחתון של הדף. מחיקות אחדות של הסופר. מילוי גרפי של שורה. בגיליון השמאלי של עמוד א, בשורה בה מתחיל פרק ט, כתובה קו"ף. היא מקושטת. ציטוט ראשי הפסוקים בתרגום.    </note>
                         </support>
                         <extent>
                            <measure unit="folio">1 </measure>
@@ -141,19 +142,19 @@
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <note/>
+                           <note xml:lang=""/>
                         </collation>
                         <condition>
-                           <note/>
+                           <note xml:lang=""/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
-                           <note/>
+                           <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="">
+                        <layout writtenLines="" columns="" xml:id="">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -166,26 +167,26 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc hands="">
-                     <summary/>
+                     <summary xml:lang=""/>
                      <handNote medium="">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate/>
-                        <note/>
+                        <note xml:lang=""/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
                      <scriptNote xml:lang="" script="" rend="" style="">
-                        <note>מזרחית מרובעת </note>
+                        <note xml:lang="he">מזרחית מרובעת </note>
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
-                     <summary/>
+                     <summary xml:lang=""/>
                      <decoNote>
                         <desc/>
-                        <note/>
+                        <note xml:lang=""/>
                      </decoNote>
                   </decoDesc>
                   <additions>
@@ -194,8 +195,8 @@
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote rend="" xml:lang=""/>
-                           <note/>
+                           <quote xml:lang=""/>
+                           <note xml:lang=""/>
                         </item>
                      </list>
                   </additions>
@@ -206,7 +207,7 @@
                            <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <note/>
+                           <note xml:lang=""/>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -219,7 +220,7 @@
                   <accMat>
                      <list>
                         <item>
-                           <note/>
+                           <note xml:lang=""/>
                            <persName/>
                            <quote xml:lang=""/>
                            <bibl>
@@ -232,7 +233,7 @@
                   </accMat>
                </physDesc>
                <history>
-                  <summary/>
+                  <summary xml:lang=""/>
                   <provenance>
                      <date/>
                      <placeName ref=""/>
@@ -240,7 +241,7 @@
                      <persName role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note/>
+                     <note xml:lang=""/>
                   </provenance>
                   <acquisition>
                      <date/>
@@ -249,7 +250,7 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note>Note on Firkovitch collection …</note>
+                     <note xml:lang="en">Note on Firkovitch collection …</note>
                   </acquisition>
                </history>
                <additional>
@@ -259,7 +260,7 @@
                            <title>Digital image online</title>
                            <publisher>National Library of
                         Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001555930205171-1"/>
+                           <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001555930205171"/>
                         </bibl>
                      </listBibl>
                   </surrogates>

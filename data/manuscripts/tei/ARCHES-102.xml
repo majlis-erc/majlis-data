@@ -54,14 +54,14 @@
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic
                                         Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/manuscript/ARCHES-102/</idno>
+            <idno type="URI">https://jalit.org/manuscript/ARCHES-102</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2023-11-30</date>
+            <date>2023-12-11</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          <change who="#eporat" when="2021-03-11">Cataloged the manuscript into a Word-File.</change>
          <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#lgzella" when="2022-10-01">Transcribed Harkavy heritage data.</change>
-         <change who="#mmoliere" when="2023-11-30">Converted
+         <change who="#mmoliere" when="2023-12-11">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -94,7 +94,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>תוכן: פירוש לח:13-מ:23
+                  <summary xml:lang="">תוכן: פירוש לח:13-מ:23
         מוזכר: יום תחית המתים (1א); אלדניא (=העולם הזה; 1ב); אלמקרא (=המקרא; 2ב); אלרבונין (=הרבנים; 2ב); גיחון (2א); בלד כוראסאן (=ארץ כ'וראסאן; 2א); אצחאב אלרצד (=אנשי העיון, המעיינים; 3ב)
         זהוי: התוכן מקביל למהדורת Arik Sadan לפירוש יפת לאיוב, עמודים 660-618.
         </summary>
@@ -111,13 +111,13 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note>כותר כפי שמופיע:
-        </note>
+                     <note xml:lang=""/>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single manuscript</objectType>
+                     <objectType rend="" style="codex">Single
+                                                  manuscript</objectType>
                      <listBibl>
                         <bibl>
                            <idno type="manuscript-join"/>
@@ -130,7 +130,7 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note>32-29 שורות. הדפים קרועים ומוכתמים. השלמות של הסופר. מילוי גרפי של שורות. ציטוט חלקֵי פסוקים בתרגום: מילה-ארבע מילים. לעיתים חלקי פסוקים אלה מנוקדים ניקוד טברני ובגדכפת רפות בהם מסומנות בקו קצר מעליהן. ניקוד טברני של מילים מהפסוקים, המתבארות בפירוש. ניקוד טברני של מובאות מקראיות. חילוף סגול בפתח: "לַשַׂכְוִי" (איוב לח:36: "לַשֶּׂכְוִי"; 3א); "עַבְרוֹת" (איוב מ:11: "עֶבְרוֹת"; 6ב). ניקוד טברני של מילים ערביות. ניקוד דיאקריטי: האותיות כ'א"א, ד'א"ל, גי"ן, פא"א מסומנות לעיתים בקו קצר מעליהן. האותיות תא"א, דא"ל מסומנות לעיתים בנקודה בתוכן. אמאלות: "אִלהַוֵא" (4ב); "בִדִּדּ" (6ב); "עַלֵי חִדּק" (3א).  </note>
+                           <note xml:lang="">32-29 שורות. הדפים קרועים ומוכתמים. השלמות של הסופר. מילוי גרפי של שורות. ציטוט חלקֵי פסוקים בתרגום: מילה-ארבע מילים. לעיתים חלקי פסוקים אלה מנוקדים ניקוד טברני ובגדכפת רפות בהם מסומנות בקו קצר מעליהן. ניקוד טברני של מילים מהפסוקים, המתבארות בפירוש. ניקוד טברני של מובאות מקראיות. חילוף סגול בפתח: "לַשַׂכְוִי" (איוב לח:36: "לַשֶּׂכְוִי"; 3א); "עַבְרוֹת" (איוב מ:11: "עֶבְרוֹת"; 6ב). ניקוד טברני של מילים ערביות. ניקוד דיאקריטי: האותיות כ'א"א, ד'א"ל, גי"ן, פא"א מסומנות לעיתים בקו קצר מעליהן. האותיות תא"א, דא"ל מסומנות לעיתים בנקודה בתוכן. אמאלות: "אִלהַוֵא" (4ב); "בִדִּדּ" (6ב); "עַלֵי חִדּק" (3א). </note>
                         </support>
                         <extent>
                            <measure unit="folio">7 </measure>
@@ -144,19 +144,19 @@
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <note/>
+                           <note xml:lang=""/>
                         </collation>
                         <condition>
-                           <note/>
+                           <note xml:lang=""/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
-                           <note/>
+                           <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="">
+                        <layout writtenLines="" columns="" xml:id="">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -169,26 +169,26 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc hands="">
-                     <summary/>
+                     <summary xml:lang=""/>
                      <handNote medium="">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate/>
-                        <note/>
+                        <note xml:lang=""/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
                      <scriptNote xml:lang="" script="" rend="" style="">
-                        <note>מזרחית מרובעת </note>
+                        <note xml:lang="he">מזרחית מרובעת </note>
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
-                     <summary/>
+                     <summary xml:lang=""/>
                      <decoNote>
                         <desc/>
-                        <note/>
+                        <note xml:lang=""/>
                      </decoNote>
                   </decoDesc>
                   <additions>
@@ -197,8 +197,8 @@
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote rend="" xml:lang=""/>
-                           <note/>
+                           <quote xml:lang=""/>
+                           <note xml:lang=""/>
                         </item>
                      </list>
                   </additions>
@@ -209,7 +209,7 @@
                            <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <note/>
+                           <note xml:lang=""/>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -222,19 +222,19 @@
                   <accMat>
                      <list>
                         <item>
-                           <note>The St. Petersburg librarian Avraham Harkavy compiled a description of
-                        this manuscript in his card catalog which is presented here in an English
-                        translation.</note>
+                           <note xml:lang="en">The St. Petersburg librarian Avraham Harkavy compiled a
+                        description of this manuscript in his card catalog which is presented here
+                        in an English translation.</note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="en">
-p. 4 
-N. 3847 (304) 
-From a commentary on the Book of Job 
-II + 7 folios 
-N. 3847 (304) 
-7 folios from a commentary on the Book of Job 
-Damaged 
-corresponds to p. 2 
+p. 4 / 
+N. 3847 (304) / 
+From a commentary on the Book of Job / 
+II + 7 folios / 
+N. 3847 (304) / 
+7 folios from a commentary on the Book of Job / 
+Damaged / 
+corresponds to p. 2 / 
 </quote>
                            <bibl>
                               <title/>
@@ -243,17 +243,18 @@ corresponds to p. 2
                            </bibl>
                         </item>
                         <item>
-                           <note>The St. Petersburg librarian Avraham Harkavy compiled a description of
-                        this manuscript in his card catalog which is presented here.</note>
+                           <note xml:lang="en">The St. Petersburg librarian Avraham Harkavy compiled a
+                        description of this manuscript in his card catalog which is presented
+                        here.</note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="ru">
-p. 4 
-N. 3847 (304) 
-Изъ коммент. на кн. Jова 
-II + 7 л. 
-N. 3847 (304) 
-7 л. изъ коммент. на кн. Jова 
-поврежд. 
+p. 4 / 
+N. 3847 (304) / 
+Изъ коммент. на кн. Jова / 
+II + 7 л. / 
+N. 3847 (304) / 
+7 л. изъ коммент. на кн. Jова / 
+поврежд. / 
 </quote>
                            <bibl>
                               <title/>
@@ -262,7 +263,7 @@ N. 3847 (304)
                            </bibl>
                         </item>
                         <item>
-                           <note/>
+                           <note xml:lang=""/>
                            <persName/>
                            <quote xml:lang=""/>
                            <bibl>
@@ -275,7 +276,7 @@ N. 3847 (304)
                   </accMat>
                </physDesc>
                <history>
-                  <summary/>
+                  <summary xml:lang=""/>
                   <provenance>
                      <date/>
                      <placeName ref=""/>
@@ -283,7 +284,7 @@ N. 3847 (304)
                      <persName role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note/>
+                     <note xml:lang=""/>
                   </provenance>
                   <acquisition>
                      <date/>
@@ -292,7 +293,7 @@ N. 3847 (304)
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note>Note on Firkovitch collection …</note>
+                     <note xml:lang="en">Note on Firkovitch collection …</note>
                   </acquisition>
                </history>
                <additional>
@@ -302,7 +303,7 @@ N. 3847 (304)
                            <title>Digital image online</title>
                            <publisher>National Library of
                         Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docidPNX_MANUSCRIPTS990001556060205171-1"/>
+                           <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001556060205171"/>
                         </bibl>
                      </listBibl>
                   </surrogates>
