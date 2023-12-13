@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -35,19 +33,11 @@
                                             Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein"
-                    role="general"
-                    ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt"
-                    role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat"
-                    role="contributor"
-                    ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Ephraim ben Porat</editor>
-            <editor xml:id="dsklare"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Ephraim ben Porat</editor>
+            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref="">admin</editor>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -68,7 +58,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#eporat" when="2021-04-28">Cataloged the manuscript into a Word-File.</change>
+         <change who="#admin" when="2023-12-13T17:23:27.338Z">Test</change><change who="#eporat" when="2021-04-28">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-11">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -76,7 +66,7 @@
    <text>
       <body>
          <listBibl>
-            <msDesc>
+            <msDesc xml:id="ms-ARCHES-109">
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
@@ -96,7 +86,7 @@
         מוזכר: אלמדוון (עורך המקרא; 6א, 7א, 13א, 190א, 269ב, 291ב); אלכתאב (המקרא; 6ב, 90ב, 92א, 332ב); לשון תורה (12א); לשון תרגום (12א); גֵיהִנָּם (24א, 141ב, 178ב, 229א, 233ב); אלדניא (=העולם הזה; 27א, 62א, 62ב, 79ב, 93ב, 94ב, 115ב, 122ב, 179א, 180ב, 201א, 207א, 224א, 258ב, 273ב, 277ב, 286ב, 299ב, 326ב, 331ב); אלמִקְרָא (=המקרא; 30א, 194א, 250א, 303א, 326ב); סיד אלבשר משה (=בחיר הבריות, משה; 33ב); לגה אלתרג'ום (=לשון התרגום, ארמית; 50א, 200א, 217ב); דאר אלאכרה (=העולם הבא; 54ב); יום הדין (94א, 150ב); יום אלמות (=יום המוות; 94ב); ספרי נביאים (131ב); דאר אלאכרה (=העולם הבא; 131ב, 137א, 148א, 151א, 169ב, 258ב); אלדהריה (=המאמינים בנצחיות העולם; 159א); אלבחר אלכביר (=הים הגדול; 187א); אלמשיח (=המשיח; 212א); אלמוחדין (=המונותאיסטים; 266ב); אפלאטון וארסטאטליס (אפלטון ואריסטו; 293א); אלבחר אלמחיט (=הים המקיף; 295א); יום תחית המֵתִים (297ב); גיחון (302א); בלד כۥראסאן (=ארץ כ'וראסאן; 302א); אלרִבוֹנִין (=הרבנים; 303א); אצחאב אלרצד (=בעלי העיון, המעיינים; 305ב); אהל אלרצד (=אנשי העיון, המעיינים; 306ב); אלתורה (=התורה; 333א).
         זהוי: Arik Sadan השתמש בכתב היד במהדורתו לפירוש יפת לאיוב.
         </summary>
-                  <msItem xml:id="" class="">
+                  <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">פרוש איוב</title>
                      <author ref="https://jalit.org/person/4">Yefet ben ʿElī</author>
@@ -156,7 +146,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="">
+                        <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -170,7 +160,7 @@
                   </objectDesc>
                   <handDesc hands="">
                      <summary xml:lang=""/>
-                     <handNote medium="">
+                     <handNote medium="" xml:id="hand-111">
                         <locus from="" to=""/>
                         <persName ref="" role="">מוסי בן עָלֶם </persName>
                         <placeName ref=""/>
@@ -193,21 +183,24 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="">
+                        <item xml:id="add-1111">
                            <objectType>Colophon</objectType>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote xml:lang="">"וכאן אלפראג מן נסכה יום אלארבעא כאמס עשרין איָר סנה אלף וסבע מאיה תסעה וסבעין מואפק שהור אלערב ש' שואל ס' ב' וסבעין ותמאן מאיה א' א' ע' ק'. וכתבה מוסי בן עלם ושלום ע' י' לנפסה נפעה אללה" (340א). </quote>
+                           <quote xml:lang="he">"וכאן אלפראג מן נסכה יום אלארבעא כאמס עשרין איָר סנה אלף וסבע מאיה תסעה וסבעין מואפק שהור אלערב 
+ש' שואל ס' ב' וסבעין ותמאן מאיה א' א' ע' ק'. וכתבה מוסי בן עלם ושלום ע' י' לנפסה נפעה אללה" (340א). </quote>
                            <note xml:lang=""/>
                         </item>
-                        <item xml:id="">
+                        <item xml:id="add-1112">
                            <objectType>Colophon</objectType>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote xml:lang=""> "ממא אסתנסכה לנפסה אלעבד אלפקיר אלי אללה תע' משה הכ' בן מר' ור' וע' רא' אלעזר הכ' בן כ'ג'ק' משה הכ' בן כ'ג'ק' ישעיהו הכ' בן כ'ג'ק' עוזיאל הכ' בן כ'ג'ק' חנניה הכ' בן כ'ג'ק' הש' המ' הַנִכָר בְבֶן עָלֶם הצ' הח' מ' ור' ישעיהו הכ' המל' יקים ע' והיתה נפש אד' צ' ב' ה' א' י' אל' יבוא ש' י' ע' מ'. נפע אללה בה כאתבה ונסלה ואלה ודריתה ואלקאר פיה ואלמרחם עלי מצנפה ועלי מיתי יש' מקט' ועד גדו' יקים עלי' מק' שכ' יחיו מיתיך יחינו מיו' ברוך יוי לעו' אמן ואמן" (340ב). </quote>
+                           <quote xml:lang="he"> "ממא אסתנסכה לנפסה אלעבד אלפקיר אלי אללה תע' משה הכ' בן מר' ור' וע' רא' אלעזר הכ' 
+
+בן כ'ג'ק' משה הכ' בן כ'ג'ק' ישעיהו הכ' בן כ'ג'ק' עוזיאל הכ' בן כ'ג'ק' חנניה הכ' בן כ'ג'ק' הש' המ' הַנִכָר בְבֶן עָלֶם הצ' הח' מ' ור' ישעיהו הכ' המל' יקים ע' והיתה נפש אד' צ' ב' ה' א' י' אל' יבוא ש' י' ע' מ'. נפע אללה בה כאתבה ונסלה ואלה ודריתה ואלקאר פיה ואלמרחם עלי מצנפה ועלי מיתי יש' מקט' ועד גדו' יקים עלי' מק' שכ' יחיו מיתיך יחינו מיו' ברוך יוי לעו' אמן ואמן" (340ב). </quote>
                            <note xml:lang=""/>
                         </item>
-                        <item xml:id="">
+                        <item xml:id="add-1113">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
@@ -281,15 +274,15 @@
                      </listBibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>
+                     <bibl xml:id="bibl-111">
                         <title>SfarData</title>
                         <ptr target="https://sfardata.nli.org.il/#/manuscript/0R191"/>
                      </bibl>
-                     <bibl>
+                     <bibl xml:id="bibl-112">
                         <title>Ktiv</title>
                         <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID="/>
                      </bibl>
-                     <bibl>
+                     <bibl xml:id="bibl-113">
                         <title/>
                         <citedRange unit="p"/>
                         <ptr target=""/>
