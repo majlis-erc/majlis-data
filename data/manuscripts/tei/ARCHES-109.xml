@@ -37,7 +37,8 @@
             <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
             <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Ephraim ben Porat</editor>
             <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref="">admin</editor>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref="">admin</editor>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -58,7 +59,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#admin" when="2023-12-13T17:23:27.338Z">Test</change><change who="#eporat" when="2021-04-28">Cataloged the manuscript into a Word-File.</change>
+         <change who="#admin" when="2023-12-13T20:16:43.898Z">Test</change><change who="#admin" when="2023-12-13T17:23:27.338Z">Test</change>
+            <change who="#eporat" when="2021-04-28">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-11">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -189,7 +191,8 @@
                            <locus from="" to=""/>
                            <quote xml:lang="he">"וכאן אלפראג מן נסכה יום אלארבעא כאמס עשרין איָר סנה אלף וסבע מאיה תסעה וסבעין מואפק שהור אלערב 
 ש' שואל ס' ב' וסבעין ותמאן מאיה א' א' ע' ק'. וכתבה מוסי בן עלם ושלום ע' י' לנפסה נפעה אללה" (340א). </quote>
-                           <note xml:lang=""/>
+                           <note xml:lang=""><p xmlns="">Test 1<emph>Test 2</emph></p>
+<p xmlns="">Test 1B<emph>Test 2B</emph></p></note>
                         </item>
                         <item xml:id="add-1112">
                            <objectType>Colophon</objectType>
