@@ -31,7 +31,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/404/tei</idno>
+                <idno type="URI">http://syriaca.org/404</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported
@@ -78,7 +78,7 @@
         </profileDesc>
         <revisionDesc status="draft">
             <change who="http://syriaca.org/documentation/editors.xml#ngiboson" n="1.0" when="2016-04-27+02:00">CREATED: 404 error page</change>
-        </revisionDesc>
+        <change who="mmoliere" when="2024-01-25">Updated URL to new domain name.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
