@@ -139,12 +139,6 @@
                   <altIdentifier type="Ktiv">
                      <idno/>
                   </altIdentifier>
-                  <bibl>
-                     <title>George Margoliouth. Catalogue of the Hebrew and Samaritan Manuscripts in
-                        the British Museum.</title>
-                     <citedRange unit="p">no. 896 (III:199–202)</citedRange>
-                     <ptr target="https://jalit.org/bibl/W3ZI8VB4"/>
-                  </bibl>
                   <altIdentifier type="IMHM">
                      <idno>F 6343</idno>
                   </altIdentifier>
@@ -348,6 +342,12 @@
                      </listBibl>
                   </surrogates>
                   <listBibl>
+                     <bibl>
+                        <title>George Margoliouth. Catalogue of the Hebrew and Samaritan Manuscripts in
+                        the British Museum.</title>
+                        <citedRange unit="p">no. 896 (III:199–202)</citedRange>
+                        <ptr target="https://jalit.org/bibl/W3ZI8VB4"/>
+                     </bibl>
                      <bibl>
                         <title>Ktiv</title>
                         <ptr target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2572_fs001r"/>

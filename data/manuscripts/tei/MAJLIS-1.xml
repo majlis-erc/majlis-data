@@ -366,12 +366,12 @@
                   </surrogates>
                   <listBibl>
                      <bibl>
-                        <title>SfarData</title>
-                        <ptr target="https://sfardata.nli.org.il/#/manuscript/ZR061"/>
-                     </bibl>
-                     <bibl>
                         <title>Ktiv</title>
                         <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001383960205171"/>
+                     </bibl>
+                     <bibl>
+                        <title>SfarData</title>
+                        <ptr target="https://sfardata.nli.org.il/#/manuscript/ZR061"/>
                      </bibl>
                   </listBibl>
                </additional>
