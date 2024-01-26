@@ -115,15 +115,15 @@
                                             International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2024-01-12</date>
+            <date>2024-01-26</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-01-12">Converted
-                                Zotero and Word data into TEI-File.</change>
+         <change who="#mmoliere" when="2024-01-26">Converted
+                                Zotero data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -145,7 +145,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he"/>
+                  <summary xml:lang=""/>
                   <msItem xml:id="" class="">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">תעודות אישיות ושטרות: שטר אירוסין</title>
@@ -159,7 +159,7 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="he"/>
+                     <note xml:lang=""/>
                   </msItem>
                </msContents>
                <physDesc>
@@ -178,10 +178,10 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note xml:lang="he"/>
+                           <note xml:lang=""/>
                         </support>
                         <extent>
-                           <measure unit="folio"/>
+                           <measure unit="folio">4 fols.</measure>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -220,6 +220,7 @@
                      <summary xml:lang=""/>
                      <handNote medium="">
                         <locus from="" to=""/>
+                        <persName ref="" role=""/>
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate>1200-1400?</origDate>
@@ -245,7 +246,7 @@
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
                            <quote xml:lang=""/>
-                           <note xml:lang="he"/>
+                           <note xml:lang=""/>
                         </item>
                      </list>
                   </additions>
@@ -299,7 +300,7 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang="en">The manuscripts of the First Firkovitch Collection (now
+                     <note xml:lang="en"> The manuscripts of the First Firkovitch Collection (now
                         known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovitch
                         (1787–1874) on the Crimean Peninsula, in the Caucasus, and during his first
                         trip to the Near East in 1830. This collection contains 830 manuscripts, 277
@@ -323,7 +324,7 @@
                         including Hebrew, Arabic, Judeo-Arabic, and Samaritan manuscripts. The
                         majority of the collection appears to have originated from the Qaraite
                         synagogue in Cairo. The Hebrew manuscripts of the Second Firkovitch
-                        Collection are divided into several separate collections. RNL Yevr. II A:
+                        Collection are divided into several separate collections: RNL Yevr. II A:
                         Contains Hebrew works of law, exegesis, grammar and philology, theology,
                         documents, etc. This collection contains 2,947 manuscripts. These include
                         896 bibliographical items (including different texts found in a single
@@ -341,7 +342,7 @@
                         Second Firkovitch Collection are divided into two series: RNL Yevr.-Arab. I
                         (previously known as II Firk. Yevr.-Arab., First Series): Contains 4,933
                         items (although only 4,924 are on microfilm at the Institute for Microfilmed
-                        Hebrew Manuscripts). RNL Yevr.-Arab. II (previously known as II Firk.
+                        Hebrew Manuscripts). RNL Yevr.Arab. II (previously known as II Firk.
                         Yevr.-Arab., New Series): Contains 3,430 items. RNL Arab.-Yevr.: Contains
                         382 manuscripts of Jewish texts in Arabic characters. RNL Firk. Arab.:
                         Contains 656 items of mostly Muslim texts and documents in Arabic
