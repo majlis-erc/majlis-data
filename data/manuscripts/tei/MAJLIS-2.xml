@@ -372,12 +372,12 @@
                         <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                      </bibl>
                      <bibl>
-                        <title>SfarData</title>
-                        <ptr target="https://sfardata.nli.org.il/#/manuscript/0R368"/>
-                     </bibl>
-                     <bibl>
                         <title>Ktiv</title>
                         <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001116990205171"/>
+                     </bibl>
+                     <bibl>
+                        <title>SfarData</title>
+                        <ptr target="https://sfardata.nli.org.il/#/manuscript/0R368"/>
                      </bibl>
                   </listBibl>
                </additional>
