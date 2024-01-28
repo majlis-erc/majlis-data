@@ -133,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-01-28T09:56:17.097Z">Yevr.-Arab. I 247 (2)</change><change who="#eporat" when="2021-04-20">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-01-28T09:56:17.097Z">Yevr.-Arab. I 247 (3)</change><change who="#eporat" when="2021-04-20">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -275,11 +275,11 @@
                            <note xml:lang=""/>
                         </item>
                         <item xml:id="add-1113">
-                           <objectType/>
+                           <objectType>Contract – Sale</objectType>
                            <persName ref="" role="mentioned"/>
-                           <locus from="" to=""/>
+                           <locus from="229r"/>
                            <quote xml:lang=""/>
-                           <note xml:lang="he">כתובות בעלים: "אנתקל בחכם אלביע אלצחיח אלשרעי מן מלך ע' אללטיף א' אלחרירי אלי מלךּ אלמו' אלסני ע' אלרחים אלרייס במלג' אנצאף כבאר עלי יד עבד אלכאפי אלהלים פי תאריך כ"ו תאני עשר שהר אדר סנה" (229א; השנה אינה מצוינת).
+                           <note xml:lang="ar-Hebr">אנתקל בחכם אלביע אלצחיח אלשרעי מן מלך ע' אללטיף א' אלחרירי אלי מלךּ אלמו' אלסני ע' אלרחים אלרייס במלג' אנצאף כבאר עלי יד עבד אלכאפי אלהלים פי תאריךׄ‎ כ"ו ת̇אני עשר שהר אד̇ר סנה̈.
         </note>
                         </item>
                      </list>
