@@ -133,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-01-28T09:56:17.097Z">Yevr.-Arab. I 247</change><change who="#eporat" when="2021-04-20">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-01-28T09:56:17.097Z">Yevr.-Arab. I 247 (2)</change><change who="#eporat" when="2021-04-20">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -271,7 +271,7 @@
                            <objectType>Ownership statements</objectType>
                            <persName ref="" role="mentioned"/>
                            <locus from="229v"/>
-                           <quote xml:lang="">                     מלך אחקר אלעבאד ע' אלעזיז אבן פירוז.</quote>
+                           <quote xml:lang="ar">                     מלך אחקר אלעבאד ע' אלעזיז אבן פירוז.</quote>
                            <note xml:lang=""/>
                         </item>
                         <item xml:id="add-1113">
