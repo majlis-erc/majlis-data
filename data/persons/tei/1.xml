@@ -3,41 +3,43 @@
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Yešuʿa ben Yehuda</title>
-                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
+                    Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName>
-                    (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)
-                </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName
+                        xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName>
-                    (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)
-                </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName
+                        xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName>
-                    (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)
-                </funder>
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de"
+                        >Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general" ref="                          https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-                <editor xml:id="gschwarb" role="contributor" ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
-                <editor xml:id="ngibson" role="contributor" ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
-                <editor xml:id="mmoliere" role="contributor" ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
-                <editor role="creator" ref="#ngibson">Nathan P. Gibson</editor>
+                <editor xml:id="rvollandt" role="general"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+                    <persName>Ronny Vollandt</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="gschwarb" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+                    <persName>Gregor Schwarb</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="ngibson" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+                    <persName>Nathan P. Gibson</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="mmoliere" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+                    <persName>Maximilian de Molière</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
                 <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
                 <respStmt>
-                    <resp>Original tabular architecture and XSLT script by</resp>
-                    <name type="person" ref="#ngibson">Nathan P. Gibson</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Conversion into TEI-XML format by</resp>
-                    <name type="person" ref="#mmoliere">Maximilian de Molière</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Original data architecture of TEI person records for Srophé by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
-                </respStmt>
-                <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
+                        >Winona Salesky</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -45,13 +47,13 @@
             </editionStmt>
             <publicationStmt>
                 <authority>
-                    <ref target="https://majlis.net">Majlis.net</ref>
+                    <ref target="https://jalit.org">jalit.org</ref>
                 </authority>
-                <idno type="URI">https://majlis.net/person/1/tei</idno>
+                <idno type="URI">https://jalit.org/person/1</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0)
-                            License.</p>
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
+                            4.0) License.</p>
                     </licence>
                 </availability>
                 <date>2021-10-23+02:00</date>
@@ -62,11 +64,13 @@
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This record created following the Syriaca.org guidelines. Documentation
-                    available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
+                <p>This record created following the Syriaca.org guidelines. Documentation available
+                    at: <ref target="http://syriaca.org/documentation"
+                        >http://syriaca.org/documentation</ref>.</p>
                 <interpretation>
-                    <p>Approximate dates described in terms of centuries or partial centuries
-                        have been interpreted as documented in <ref target="http://syriaca.org/documentation/dates.html">Syriaca.org
+                    <p>Approximate dates described in terms of centuries or partial centuries have
+                        been interpreted as documented in <ref
+                            target="http://syriaca.org/documentation/dates.html">Syriaca.org
                             Dates</ref>.</p>
                 </interpretation>
             </editorialDecl>
@@ -75,7 +79,9 @@
                     <category xml:id="syriaca-headword">
                         <catDesc>The name used by Syriaca.org for document titles, citation, and
                             disambiguation. These names have been created according to the
-                            Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
+                            Syriac.org guidelines for headwords: <ref
+                                target="http://syriaca.org/documentation/headwords.html"
+                                >http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
                     </category>
                     <category xml:id="syriaca-anglicized">
                         <catDesc>An anglicized version of a name, included to facilitate
@@ -87,8 +93,7 @@
                 </taxonomy>
                 <taxonomy>
                     <category xml:id="syriaca-author">
-                        <catDesc>A person who is relevant to the Guide to Syriac
-                            Authors</catDesc>
+                        <catDesc>A person who is relevant to the Guide to Syriac Authors</catDesc>
                     </category>
                 </taxonomy>
             </classDecl>
@@ -103,107 +108,116 @@
                 <language ident="la">Latin</language>
             </langUsage>
         </profileDesc>
-        <revisionDesc status="draft"/>
+        <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+        </revisionDesc>
     </teiHeader>
-<text>
-    <body>
-        <listPerson>
-            <person xml:id="person-1" role="author">
-                
-                <!--The headwords-->
-                <persName xml:id="name1-1" xml:lang="he-Latn" srophe-tags="#majlis-headword" source="Test" resp="#nurbiczek">Yešuʿah ben Yehuda</persName>
-                <persName xml:id="name1-2" xml:lang="ar-Latn" srophe-tags="#majlis-headword" source="Test" resp="#nurbiczek">Abū ʾl-Faraj Furqān ibn Asad</persName>
-                
-                <!--Attested and alternate names – we only provide references to the sources, but the names are not subdivided.-->
-                <persName xml:id="name1-3" type="attested" xml:lang="he" source="Test" resp="#nurbiczek">Test</persName>
-                <persName xml:id="name1-4" type="attested" xml:lang="ar" source="Test" resp="#nurbiczek">Test</persName>
-                <persName xml:id="name1-5" type="attested" xml:lang="ar" source="Test" resp="#nurbiczek">Test</persName>
-                <persName xml:id="name1-6" type="alternate" xml:lang="he" source="Test" resp="#nurbiczek">Test</persName>
-                <persName xml:id="name1-7" type="alternate" xml:lang="he" source="Test" resp="#nurbiczek">Test</persName>
-                
-                <!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="person-1" role="author">
+
+                    <!--The headwords-->
+                    <persName xml:id="name1-1" xml:lang="he-Latn" type="#majlis-headword" source="">
+                        <name>Yešuʿah ben Yehuda</name>
+                    </persName>
+                    <persName xml:id="name1-2" xml:lang="ar-Latn" type="#majlis-headword" source="">
+                        <name>Abū ʾl-Faraj Furqān ibn Asad</name>
+                    </persName>
+
+                    <!--Attested and alternate names – we only provide references to the sources, but the names are not subdivided.-->
+                    <persName xml:id="name1-3" type="attested" xml:lang="he" source=""
+                        ><name/></persName>
+                    <persName xml:id="name1-4" type="attested" xml:lang="ar" source=""
+                        ><name/></persName>
+                    <persName xml:id="name1-5" type="attested" xml:lang="ar" source=""
+                        ><name/></persName>
+
+                    <!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
                     Both names are given in the original scripts and then supplemented with transliterations.-->
-                <persName xml:id="name1-8" type="canon" xml:lang="ar" source="Test" resp="#nurbiczek">
-                    <addName xml:id="sh-ar" type="shuhra">المعلم الفاضل</addName>
-                    <addName xml:id="is-ar" type="ism">فرقان</addName>
-                    <addName xml:id="na-ar" type="nasab">بن أسد</addName>
-                    <addName xml:id="ni-ar" type="nisbah">القرطبي</addName>
-                    <addName xml:id="ku-ar" type="kunya">أبو الفرج</addName>
-                    <addName xml:id="la-ar" type="laqab">العلامة</addName>
-                </persName>
-                <persName xml:id="name1-9" type="canon" xml:lang="ar-Hebr" source="Test" resp="#nurbiczek">
-                    <addName ref="#sh-ar" type="shuhra">אלצ̇ריר</addName>
-                    <addName ref="#is-ar" type="ism">פרקאן</addName>
-                    <addName ref="#na-ar" type="nasab">אבן אסד</addName>
-                    <addName ref="#ni-ar" type="nisbah">אלקרטבי</addName>
-                    <addName ref="#ku-ar" type="kunya">אבו אלחסן</addName>
-                    
-                </persName>
-                <persName corresp="#name1-10" type="canon" xml:lang="ar-Latn" resp="#nurbiczek">
-                    <addName ref="#sh-ar" type="shuhra">al-Ḍarīr</addName>
-                    <addName ref="#is-ar" type="ism">Furqān</addName>
-                    <addName ref="#na-ar" type="nasab">Ibn Sulaymān</addName>
-                    <addName ref="#ni-ar" type="nisbah">al-Qurṭubī</addName>
-                    <addName ref="#ku-ar" type="kunya">Abū ’l-Ḥasan</addName>
-                    <addName ref="#la-ar" type="laqab">ʿIzz al-Dīn, al-Manṭiqī</addName>
-                </persName>
-                
-                <persName xml:id="name1-11" type="canon" xml:lang="he" source="Test" resp="#nurbiczek">
-                    <forename xml:id="fn-he">ישועה</forename>                
-                    <addName xml:id="pa-he" type="patronym">בן יהודה</addName>
-                    <addName xml:id="ep-he" type="epithet">החסיד</addName>
-                    <addName xml:id="ac-he" type="acronym">פ"פ</addName>
-                    <addName xml:id="sh-he" type="shuhra">בן יזדאד הכהן</addName>
-                </persName>
-                <persName xml:id="name1-12" type="canon" xml:lang="he-Latn" source="Test" resp="#nurbiczek">
-                    <forename ref="#fn-he" xml:lang="he-Latn">Yešuʿa</forename>
-                    <addName ref="#a-he" type="patronym">ben Yehuda</addName>
-                    <addName ref="#ep-he" type="epithet">he-ḥasīd</addName>
-                    <addName ref="#ac-he" type="acronym">Rasag, Rambam</addName>
-                    <addName ref="#sh-he" type="shuhra">ben Izdad ha-Kohen</addName>
-                </persName>
-                
-                <!--Additional biographical information-->
-                <birth source="#bibl1-1">
-                    <date notBefore="1001" notAfter="1010">1001-1010</date>
-                    <placeName>Jerusalem</placeName>
-                </birth>
-                <death source="#bibl1-1">
-                    <date notBefore="1070" notAfter="1099"/>
-                    <placeName/>
-                </death>
-                <floruit from="1030" to="1060" source="#bibl1-1"/>
-                <sex value="m" source="#bibl1-1">male</sex>
-                <faith source="#bibl1-1">Judaism</faith>
-                <occupation type="scholar" source="#bibl1-1">scholar</occupation>
-                <residence source="#bibl1-1">
-                    <placeName>Jerusalem </placeName>
-                </residence>
-                <bibl xml:id="bibl1-1">                    512                                    </bibl>
-                <bibl xml:id="bibl1-2">
-                    <citedRange unit="page">512</citedRange>
-                    <ptr target="DGZ7QBIS"/>
+                    <persName xml:id="name1-8" type="canon" xml:lang="ar" source="">
+                        <addName xml:id="sh-ar" type="shuhra">المعلم الفاضل</addName>
+                        <addName xml:id="is-ar" type="ism">فرقان</addName>
+                        <addName xml:id="na-ar" type="nasab">بن أسد</addName>
+                        <addName xml:id="ni-ar" type="nisbah">القرطبي</addName>
+                        <addName xml:id="ku-ar" type="kunya">أبو الفرج</addName>
+                        <addName xml:id="la-ar" type="laqab">العلامة</addName>
+                    </persName>
+                    <persName xml:id="name1-9" type="canon" xml:lang="ar-Hebr" source="">
+                        <addName ref="#sh-ar" type="shuhra">אלצ̇ריר</addName>
+                        <addName ref="#is-ar" type="ism">פרקאן</addName>
+                        <addName ref="#na-ar" type="nasab">אבן אסד</addName>
+                        <addName ref="#ni-ar" type="nisbah">אלקרטבי</addName>
+                        <addName ref="#ku-ar" type="kunya">אבו אלחסן</addName>
+
+                    </persName>
+                    <persName corresp="#name1-10" type="canon" xml:lang="ar-Latn" source="">
+                        <addName ref="#sh-ar" type="shuhra">al-Ḍarīr</addName>
+                        <addName ref="#is-ar" type="ism">Furqān</addName>
+                        <addName ref="#na-ar" type="nasab">Ibn Sulaymān</addName>
+                        <addName ref="#ni-ar" type="nisbah">al-Qurṭubī</addName>
+                        <addName ref="#ku-ar" type="kunya">Abū ’l-Ḥasan</addName>
+                        <addName ref="#la-ar" type="laqab">ʿIzz al-Dīn, al-Manṭiqī</addName>
+                    </persName>
+
+                    <persName xml:id="name1-11" type="canon" xml:lang="he" source="">
+                        <forename xml:id="fn-he">ישועה</forename>
+                        <addName xml:id="pa-he" type="patronym">בן יהודה</addName>
+                        <addName xml:id="ep-he" type="epithet">החסיד</addName>
+                        <addName xml:id="ac-he" type="acronym">פ"פ</addName>
+                        <addName xml:id="sh-he" type="shuhra">בן יזדאד הכהן</addName>
+                    </persName>
+                    <persName xml:id="name1-12" type="canon" xml:lang="he-Latn" source="">
+                        <forename ref="#fn-he" xml:lang="he-Latn">Yešuʿa</forename>
+                        <addName ref="#a-he" type="patronym">ben Yehuda</addName>
+                        <addName ref="#ep-he" type="epithet">he-ḥasīd</addName>
+                        <addName ref="#ac-he" type="acronym">Rasag, Rambam</addName>
+                        <addName ref="#sh-he" type="shuhra">ben Izdad ha-Kohen</addName>
+                    </persName>
+                    <birth source="">
+                        <date notBefore="1001" notAfter="1010">1001-1010</date>
+                        <placeName ref="" cert="" source="">Jerusalem</placeName>
+                    </birth>
+                    <death source="">
+                        <date notBefore="1070" notAfter="1099"/>
+                        <placeName ref="" cert="" source=""/>
+                    </death>
+                    <floruit from="1030" to="1060" source=""/>
+                    <sex  cert="" source="">Male</sex>
+                    <faith source="">Judaism</faith>
+                    <occupation type="scholar" source="">scholar</occupation>
+                    <residence>
+                        <placeName ref="" cert="" source="">Jerusalem </placeName>
+                    </residence>
+                    <bibl xml:id="">
+                        <title/>
+                        <citedRange unit="p"/>
+                        <ptr target=""/>
+                    </bibl>
+                    <idno type="URI" subtype="isni"/>
+                    <idno type="URI" subtype="viaf"/>
+                    <idno type="URI" subtype="wiki"/>
+                    <idno type="URI" subtype="gnd"/>
+                    <idno type="URI" subtype="merhav"/>
+                    <idno type="URI" subtype="rambi"/>
+                    <idno type="URI" subtype="imhm"/>
+                    <idno type="URI" subtype="ktiv"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+    <standOff>
+        <list>
+            <item>
+                <note/>
+                <persName/>
+                <quote xml:lang=""/>
+                <bibl>
+                    <title/>
+                    <citedRange unit="p"/>
+                    <ptr target=""/>
                 </bibl>
-                <bibl xml:id="bibl1-3">
-                    <citedRange unit="page">512</citedRange>
-                    <ptr target="N3PGD4XS"/>
-                </bibl>
-                <idno type="URI">https://majlis.net/person/1</idno>
-                <idno type="URI" subtype="isni" resp="#nurbiczek">512</idno>
-                <idno type="URI" subtype="viaf" resp="#nurbiczek">512</idno>
-                <idno type="URI" subtype="wiki" resp="#nurbiczek">512</idno>
-                <idno type="URI" subtype="gnd" resp="#nurbiczek">512</idno>
-                <idno type="URI" subtype="merhav" resp="#nurbiczek">512</idno>
-                <idno type="URI" subtype="rambi" resp="#nurbiczek">512</idno>
-                <idno type="URI" subtype="imhm" resp="#nurbiczek">512</idno>
-                <idno type="URI" subtype="ktiv" resp="#nurbiczek">512</idno>
-            </person>
-            <listRelation>
-                <relation name="bm:husbandOf" active="person-1" passive="person-2" source="bibl1-3">
-                    <desc>description of this relation </desc>
-                </relation>
-            </listRelation>
-        </listPerson>
-    </body>
-</text>
+            </item>
+        </list>
+    </standOff>
 </TEI>
