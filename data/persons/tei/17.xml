@@ -1,123 +1,170 @@
-<?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app" xmlns:functx="http://www.functx.com" xmlns:saxon="http://saxon.sf.net/" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="a" xml:lang="en">Abraham al-Harzilānī</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName>
-                        (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)
-                    </sponsor>
+               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+                  München</orgName>) </sponsor>
             <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern Studies</orgName>
-                        (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)
-                    </sponsor>
+               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
+                  Osten</orgName>) </sponsor>
             <funder ref="https://erc.europa.eu/">
-               <orgName>ERC: European Research Council</orgName>
-                        (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)
-                    </funder>
+               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general" ref="                          https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="gschwarb" role="contributor" ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
-            <editor xml:id="ngibson" role="contributor" ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
-            <editor xml:id="mmoliere" role="contributor" ref="                         https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
-            <editor role="creator" ref="#ngibson">Nathan P. Gibson</editor>
+            <editor xml:id="rvollandt" role="general"
+               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
+               ><persName>Ronny Vollandt</persName>
+               <date from="2021" to="2026">2021-2026</date></editor>
+            <editor xml:id="gschwarb" role="contributor"
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
+               ><persName>Gregor Schwarb</persName>
+               <date from="2021" to="2026">2021-2026</date></editor>
+            <editor xml:id="ngibson" role="contributor"
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
+               ><persName>Nathan P. Gibson</persName>
+               <date from="2021" to="2026">2021-2026</date></editor>
+            <editor xml:id="mmoliere" role="contributor"
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
+               ><persName>Maximilian de Molière</persName>
+               <date from="2021" to="2026">2021-2026</date></editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-            <respStmt>
-               <resp>Original tabular architecture and XSLT script by</resp>
-               <name type="person" ref="#ngibson">Nathan P. Gibson</name>
-            </respStmt>
-            <respStmt>
-               <resp>Conversion into TEI-XML format by</resp>
-               <name type="person" ref="#mmoliere">Maximilian de Molière</name>
-            </respStmt>
-            <respStmt>
-               <resp>Original data architecture of TEI person records for Srophé by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
-            </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
             </respStmt>
          </titleStmt>
-         <editionStmt>
-            <edition n="0.6.0-dev"/>
-         </editionStmt>
          <publicationStmt>
             <authority>
-               <ref target="https://majlis.net">Majlis.net</ref>
+               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
             </authority>
-            <idno type="URI">https://majlis.net/person/17/tei</idno>
+            <idno type="URI">https://jalit.org/person/17</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0)
-                                License.</p>
+                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                </licence>
             </availability>
-            <date>2021-10-23+02:00</date>
+            <date>2021-10-23</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <editorialDecl>
-            <p>This record created following the Syriaca.org guidelines. Documentation
-                        available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
-            <interpretation>
-               <p>Approximate dates described in terms of centuries or partial centuries
-                            have been interpreted as documented in <ref target="http://syriaca.org/documentation/dates.html">Syriaca.org
-                                Dates</ref>.</p>
-            </interpretation>
-         </editorialDecl>
-         <classDecl>
-            <taxonomy>
-               <category xml:id="syriaca-headword">
-                  <catDesc>The name used by Syriaca.org for document titles, citation, and
-                                disambiguation. These names have been created according to the
-                                Syriac.org guidelines for headwords: <ref target="http://syriaca.org/documentation/headwords.html">http://syriaca.org/documentation/headwords.html</ref>.</catDesc>
-               </category>
-               <category xml:id="syriaca-anglicized">
-                  <catDesc>An anglicized version of a name, included to facilitate
-                                searching.</catDesc>
-               </category>
-               <category xml:id="ektobe-headword">
-                  <catDesc>The name used by e-Ktobe as a standardized name form.</catDesc>
-               </category>
-            </taxonomy>
-            <taxonomy>
-               <category xml:id="syriaca-author">
-                  <catDesc>A person who is relevant to the Guide to Syriac
-                                Authors</catDesc>
-               </category>
-            </taxonomy>
-         </classDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="en">English</language>
-            <language ident="ar">Arabic</language>
-            <language ident="he">Hebrew</language>
-            <language ident="fr">French</language>
-            <language ident="de">German</language>
-            <language ident="la">Latin</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="draft"/>
+      <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPerson>
-            <person xml:id="person-17">
-               <persName xml:id="name17-1" xml:lang="en" srophe-tags="#syriaca-headword" source="#bib17-1" resp="#mmoliere">Abraham al-Harzilānī</persName>
-               <note xml:id="abstract-en-17" xml:lang="en" type="abstract" source="#bib17-1">Abraham al-Harzilānī</note>
-               <idno type="URI">https://majlis.net/person/17</idno>
-               <state xml:lang="en" type="occupation" role="author" source="#bib17-1" resp="#mmoliere">
-                  <desc>author</desc>
-               </state>
-               <change xml:id="change-1" who="http://majlis.net/documentation/editors.xml#mmoliere" n="0.2" when="2021-10-21+02:00">CREATED: person from spreadsheet https://docs.google.com/spreadsheets/d/1qB4m5KgbYJNMEFvtnhqB1maWcyWmk72SLd2Lev4ReOE/edit#gid=1488304675. The canonical record is currently in the spreadsheet. Changes should be made there. THIS FILE SHOULD NOT BE MANUALLY EDITED!</change>
+            <person>
+               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
+                  source="">
+                  <name/>
+               </persName>
+               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
+                  source="">
+                  <name>Abraham al-Harzilānī</name>
+               </persName>
+               <persName xml:id="" type="attested" xml:lang="he" source="">
+                  <name/>
+               </persName>
+               <persName xml:id="" type="attested" xml:lang="ar" source="">
+                  <name/>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="he" source="">
+                  <name/>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="he" source="">
+                  <name/>
+               </persName>
+               <persName xml:id="" type="canon" xml:lang="ar" source="">
+                  <addName xml:id="sh-ar" type="shuhra"/>
+                  <addName xml:id="is-ar" type="ism"/>
+                  <addName xml:id="na-ar" type="nasab"/>
+                  <addName xml:id="ni-ar" type="nisbah"/>
+                  <addName xml:id="ku-ar" type="kunya"/>
+                  <addName xml:id="la-ar" type="laqab"/>
+               </persName>
+               <persName xml:id="" type="canon" xml:lang="ar-Hebr" source="">
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
+               </persName>
+               <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
+                  >
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
+               </persName>
+               <persName xml:id="" type="canon" xml:lang="he" source="">
+                  <forename xml:id="fn-he"/>
+                  <addName xml:id="pa-he" type="patronym"/>
+                  <addName xml:id="ep-he" type="epithet"/>
+                  <addName xml:id="ac-he" type="acronym"/>
+                  <addName xml:id="sh-he" type="shuhra"/>
+               </persName>
+               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn"
+                  source="">
+                  <forename ref="#fn-he" xml:lang="he-Latn"/>
+                  <addName ref="#pa-he" type="patronym"/>
+                  <addName ref="#ep-he" type="epithet"/>
+                  <addName ref="#ac-he" type="acronym"/>
+                  <addName ref="#sh-he" type="shuhra"/>
+               </persName>
+               <birth>
+                  <date cert="" source=""/>
+                  <placeName ref="" cert="" source=""/>
+               </birth>
+               <death>
+                  <date cert="" source=""/>
+                  <placeName ref="" cert="" source=""/>
+               </death>
+               <floruit cert="" source=""/>
+               <sex cert="" source=""/>
+               <faith cert="" source=""/>
+               <occupation type="" cert="" source=""/>
+               <residence>
+                  <placeName ref="" cert="" source=""/>
+               </residence>
+               <bibl xml:id="">
+                  <title/>
+                  <citedRange unit="p"/>
+                  <ptr target=""/>
+               </bibl>
+               <idno type="URI" subtype="isni"/>
+               <idno type="URI" subtype="viaf"/>
+               <idno type="URI" subtype="wiki"/>
+               <idno type="URI" subtype="gnd"/>
+               <idno type="URI" subtype="merhav"/>
+               <idno type="URI" subtype="rambi"/>
+               <idno type="URI" subtype="imhm"/>
+               <idno type="URI" subtype="ktiv"/>
             </person>
          </listPerson>
       </body>
    </text>
+   <standOff>
+      <list>
+         <item>
+            <note/>
+            <persName/>
+            <quote xml:lang=""/>
+            <bibl>
+               <title/>
+               <citedRange unit="p"/>
+               <ptr target=""/>
+            </bibl>
+         </item>
+      </list>
+   </standOff>
 </TEI>
