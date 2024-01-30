@@ -129,7 +129,10 @@
                   <date cert="" source=""/>
                   <placeName ref="" cert="" source=""/>
                </death>
-               <floruit cert="" source=""/>
+               <floruit>
+    <date cert="" source=""/>
+    <placeName ref="" cert="" source=""/>
+</floruit>
                <sex cert="" source=""/>
                <faith cert="" source=""/>
                <occupation type="" cert="" source=""/>
