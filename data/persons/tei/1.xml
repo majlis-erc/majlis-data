@@ -110,7 +110,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2024-01-29T09:50:08.776Z">small fixes</change>
+            <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -179,6 +179,33 @@
                         <addName ref="#ac-he" type="acronym"></addName>
                         <addName ref="#sh-he" type="shuhra">ben Izdad ha-Kohen</addName>
                     </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Abū al-Faraj Furqān ibn Asad</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Abu Alfarag' Farḳan ibn Asad</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Jeshua ben Judah</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Yeshuʻah ben Yehudah</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>אבו אלפרג פרקאן אבן אסד</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>ישועה בן יהודה</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>ישועה בן יהודה (הקראי)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>ישועה המלמד</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="isni">
+                        <name>Abū ’l-Faraj Furqān ibn al-Asad</name>
+                    </persName>
                     <birth>
                         <date>1001-1010</date>
                         <placeName ref="" cert="" source="">Jerusalem</placeName>
@@ -202,9 +229,8 @@
                         <title/>
                         <ptr target=""/>
                     </bibl>
-                    <idno type="URI" subtype="isni"/>
-                    <idno type="URI" subtype="viaf"/>
-                    <idno type="URI" subtype="wiki"/>
+                    <idno type="URI" subtype="isni">https://isni.org/isni/0000000044338338</idno>
+                    <idno type="URI" subtype="viaf">http://viaf.org/viaf/58767269</idno>                    <idno type="URI" subtype="wiki"/>
                     <idno type="URI" subtype="gnd"/>
                     <idno type="URI" subtype="merhav"/>
                     <idno type="URI" subtype="rambi"/>

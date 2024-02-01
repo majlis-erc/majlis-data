@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Abū Saʿīd Levi ben Yefet ben ʿElī</title>
+            <title level="a" xml:lang="en">Levi ben Yefet ben ʿElī</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -54,6 +54,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -63,20 +64,32 @@
             <person>
                <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                   source="">
-                  <name/>
+                  <name>Levi ben Yefet ben ʿElī</name>
                </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                   source="">
                   <name>Abū Saʿīd Levi ben Yefet ben ʿElī</name>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Abu Saʻid</name>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="ar" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Batsri, Laṿi bin al-Ḥasan</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Haleṿi, Leṿi ben Yefet</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Levi ben Japhet</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Leṿi ben Yefet (ha-Leṿi)</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                  <name>לוי בן יפת (החוי)</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="ar" source="isni">
+                  <name>لاوي بن يافث</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="he" source="">
                   <name/>
@@ -145,8 +158,8 @@
                   <ptr target=""/>
                </bibl>
                <idno type="URI" subtype="isni">https://isni.org/isni/000000006695019X</idno>
-               <idno type="URI" subtype="viaf"/>
-               <idno type="URI" subtype="wiki"/>
+               <idno type="URI" subtype="viaf">https://viaf.org/viaf/61220050/</idno>
+               <idno type="URI" subtype="wiki">https://www.wikidata.org/wiki/Q3237215</idno>
                <idno type="URI" subtype="gnd"/>
                <idno type="URI" subtype="merhav"/>
                <idno type="URI" subtype="rambi"/>
