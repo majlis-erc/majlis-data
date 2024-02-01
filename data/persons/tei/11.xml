@@ -54,6 +54,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -75,11 +76,23 @@
                <persName xml:id="" type="attested" xml:lang="ar" source="">
                   <name/>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Tobia ben Moses (ha-Abel)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Tobias ben Moses (ha-Avel)</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Ṭoviyah ben Mosheh (ha-Avel)</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>בן משה, טוביה</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>טוביה בן משה</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>טוביה בן משה (האבל)</name>
                </persName>
                <persName xml:id="" type="canon" xml:lang="ar" source="">
                   <addName xml:id="sh-ar" type="shuhra"/>
@@ -145,7 +158,7 @@
                   <ptr target=""/>
                </bibl>
                <idno type="URI" subtype="isni">https://isni.org/isni/0000000066935221</idno>
-               <idno type="URI" subtype="viaf"/>
+               <idno type="URI" subtype="viaf">http://viaf.org/viaf/79546326http://viaf.org/viaf/79546326</idno>
                <idno type="URI" subtype="wiki"/>
                <idno type="URI" subtype="gnd"/>
                <idno type="URI" subtype="merhav"/>

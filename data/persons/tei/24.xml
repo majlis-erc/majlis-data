@@ -54,6 +54,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -69,17 +70,17 @@
                   source="">
                   <name/>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Alfasi, David ben Abraham</name>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="ar" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Abū Sulaimān Dāʾūd ibn Ibrāhīm al-Fāsī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Al-Fāsī, David Ben Abraham</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>David ben Abraham Al-Fāsī</name>
                </persName>
                <persName xml:id="" type="canon" xml:lang="ar" source="">
                   <addName xml:id="sh-ar" type="shuhra"/>
@@ -145,7 +146,7 @@
                   <ptr target=""/>
                </bibl>
                <idno type="URI" subtype="isni"/>
-               <idno type="URI" subtype="viaf"/>
+               <idno type="URI" subtype="viaf">http://viaf.org/viaf/193042426</idno>
                <idno type="URI" subtype="wiki"/>
                <idno type="URI" subtype="gnd"/>
                <idno type="URI" subtype="merhav"/>

@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Abū ’l-Faraj Hārūn ibn al-Faraj</title>
+            <title level="a" xml:lang="en">Aaron b. Jeshua</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -54,6 +54,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -69,13 +70,112 @@
                   source="">
                   <name>Abū ’l-Faraj Hārūn ibn al-Faraj</name>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="he" source="">
-                  <name/>
-               </persName>
-               <persName xml:id="" type="attested" xml:lang="ar" source="">
-                  <name/>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="">
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Aaron b. Jeshuʿa</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Aaron ben Jeshua</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Aaron de Jérusalem (grammairien)</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Aaron of Jerusalem</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abū al-Faraǧ</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abū al-Faraǧ Hārūn</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abū al-Faraǧ Hārūn b. al-Faraǧ</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abū al-Faraǧ Hārūn ibn al-Faraǧ</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abū al-Faraj</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abū al-Faraj Hārūn</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abū al-Faraj Hārūn ibn al-Faraj</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>'Abū al-Faraj Hārūn ibn al-Faraj (11 в.)</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abu al-Faraj Harun of Jerusalem</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abū l-Faradsch Hārūn ibn Faradsch (karäischer Gelehrter)</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Abu'l-Farag Harun ibn-al-Farag (11 в.)</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Harūn</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Hārūn, Abū al-Faraǧ</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Hārūn, Abū al-Faraj</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Ibn al-Faraǧ, Abū al-Faraǧ Hārūn</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Ibn al-Faraj, Abū al-Faraj Hārūn</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Jerusalemite</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>The Jerusalemite (pseudonym)</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>ʾAbiy ʾalParag' Harwn ʾibn ʾalParag'</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>ʾAbw ʾalParag' Harwn ibn alParag'</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>ʾAharon ben Yhwšuʿa</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>ʾAharon ben Yšwʿah</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>ʾAharwn ben Yšwʿah</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>Абу-ль-Фарадж Гарун ибн аль-Фарадж (11 в.)</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>אבו אל-פרג' הרון אבן אל-פרג'</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>אבו אלפר הרון אבן אלפרג</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>אבו אלפרג' הרון</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>אבו אלפרג' הרון אבן אלפרג'</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>אבי אלפרג' הרון אבן אלפרג'</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>אהרון בן ישועה</name>
+                  </persName>
+                  <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                     <name>אהרן בן ישועה</name>
+                  </persName>
+               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="isni">
                   <name>Abū Hārūn al-Maqdisī</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="he" source="">
@@ -145,8 +245,8 @@
                   <ptr target=""/>
                </bibl>
                <idno type="URI" subtype="isni">https://isni.org/isni/0000000117603092</idno>
-               <idno type="URI" subtype="viaf"/>
-               <idno type="URI" subtype="wiki"/>
+               <idno type="URI" subtype="viaf">https://viaf.org/viaf/42891349</idno>
+               <idno type="URI" subtype="wiki">https://www.wikidata.org/wiki/Q16830276</idno>
                <idno type="URI" subtype="gnd"/>
                <idno type="URI" subtype="merhav"/>
                <idno type="URI" subtype="rambi"/>

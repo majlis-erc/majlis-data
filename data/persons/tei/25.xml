@@ -54,6 +54,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -69,16 +70,52 @@
                   source="">
                   <name>Yūsuf ibn Nūḥ</name>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Abu Jakub Josef ben Noah</name>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="ar" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Abu Yaqub Yusuf ibn Nuh</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="">
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>A̕bū Yaʿqūb Yūsuf ibn Nūḥ</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Ben Noaḥ, Joseph</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Ibn Nuh, Abu Yaqub Yusuf</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Ibn Nūḥ, ʾAbū Yaʿqūb Yūsuf</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Josef ben Noah</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Joseph Ben-Noah</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Nuh, Abu Yaqub Yusuf ibn</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>Yūsuf ibn Nūḥ</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>ʼAbū Yaʻqūb Yūsuf ibn Bakhtawaih</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>ʼAbū Yaʻqūb Yūsuf ibn Bakhtawi</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>ʼAbū Yaʻqūb Yūsuf ibn Nūḥ</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                  <name>ʾAbū Yaʿqūb Yūsuf b. Nūḥ</name>
+               </persName>
+               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="isni">
                   <name>Abū Yaʿqūb, Ibn Bakhtawayh</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar" source="">
+               <persName xml:id="" type="alternate" xml:lang="ar" source="isni">
                   <name>يوسف بن
                      نوح</name>
                </persName>
