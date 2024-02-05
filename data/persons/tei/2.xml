@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Ašer b. Yiḥiʾel</title>
+                <title level="a" xml:lang="en">Salmon ben Yerūḥam</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -31,7 +31,38 @@
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                     ><persName>Maximilian de Molière</persName>
                     <date from="2021" to="2026">2021-2026</date></editor>
-                <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+                    <persName>Nadine Urbiczek</persName>
+                    <date from="2021" to="2026">2021-2026</date>
+                </editor>
+                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+                    <persName>Peter Tarras</persName>
+                    <date from="2021" to="2026">2021-2026</date>
+                </editor>
+                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
+                    <persName>Annabelle Fuchs</persName>
+                    <date from="2023">2023-</date>
+                </editor>
+                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+                    <persName>Lea Gzella</persName>
+                    <date from="2022" to="2023">2022-2023</date>
+                </editor>
+                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+                    <persName>Polina Lakteikina</persName>
+                    <date from="2022" to="2023">2022-2023</date>
+                </editor>
+                <editor xml:id="rboehm" role="contributor">
+                    <persName>Maurizio Boehm</persName>
+                    <date from="2021">2021-</date>
+                </editor>
+                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+                    <persName>Lea Poralla</persName>
+                    <date from="2021">2021-</date>
+                </editor>
+                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+                    <persName>Lukas Froschmeier</persName>
+                    <date from="2021">2021-</date>
+                </editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
@@ -47,14 +78,14 @@
                         <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                     </licence>
                 </availability>
-                <date>2021-10-23</date>
+                <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+            <change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -63,11 +94,209 @@
                 <person>
                     <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                         source="">
-                        <name>Ašer b. Yiḥiʾel</name>
+                        <name>Salmon ben Yerūḥam</name>
                     </persName>
                     <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                         source="">
                         <name/>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salmon ben Yeroḥam, active 10th century</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="he" source="viaf">
+                        <name>סלמון בן ירחם, קראי</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salmon ben Yeruham 9..-9.</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salmôn Ben-Yerôḥām ca. 10. Jh.</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salmon ben Jeroham, 900-talet</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salomon ben Yeroham, 091.-....</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salmon ben Jeruham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salomon ben Yeroham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salmon, ben Yeruham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salmon Ben Jeroham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Ben Yeruham, Salmon</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
+                        <name>Salmon ben Yeroı̀Æam, sec. X</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Ben Jeroham, Salmon</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Ben-Yerôḥām, Salmôn</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Jeroham, Salmon ben</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Sālāmôn ben Yĕrûham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salman (ben Jěrocham)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salman ben Yerouḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salmon Ben Jeroham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salmon ben Jeroham (the Karaite)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salmon ben Jerucham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salmon ben Jeruham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salmon ben Jeruhim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salmôn Ben-Yerôḥām</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salmon Ben Yeruham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salmon Ben Yeruhim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salomon Ben-Jěrocham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salomon ben Jerucham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salomon ben Jeruḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salomon ben Yeroham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Salomon ben Yerouḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Šlomoh ben Yerwḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Solomon ben Jeroḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Solomon ben Jeroham (Karaite rabbi)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Solomon Ben Jeruham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Sulaim ibn Ruhaim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Sulaym Ibn-Ruḥaym</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Suleim ibn Ruḥaim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Sulejman Ibn Ruchaim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
+                        <name>Yeroḥam, Salmon ben</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                        <name>סולימאן בן רוחים</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                        <name>סלימאן בן ירוחם</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                        <name>סלמון בן ירוחים</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                        <name>סלמון בן ירוחם</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                        <name>סלמון בן ירוחם (קראי)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                        <name>סלמון בן ירחם (קראי)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                        <name>שלמון בן ירוחם</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salmôn Ben-Yerôḥām</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salman ben Yeruḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salomon Ben-Jěrocham (Jüd. Lex.)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salman, ben Jěrocham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salmon Ben Yeruham (Vorlage)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Sulaym Ibn-Ruḥaym (Enc. Judaica, Vw.)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salmon, ben Yeruhim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salmon, ben Yer̄uḥim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Ben-Yerôḥām, Salmôn</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Sālāmôn ben Yĕrûham (Vorlage)</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salmon Ben-Jeroham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salmon ben Jerucham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salomon ben Jerucham</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Šelomo ben Yeruḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Solomon ben Yeruhim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Sulaim ibn Ruḥaim</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salomon ben Yeroḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>Salman ben Yerouḥam</name>
+                    </persName>
+                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
+                        <name>BenYeruham, Salmon</name>
                     </persName>
                     <persName xml:id="" type="attested" xml:lang="he" source="">
                         <name/>
@@ -97,7 +326,7 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
+                    <persName xml:id="" type="canon" xml:lang="ar-Latn"
                         >
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
@@ -106,17 +335,20 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="he" source="">
+                    <persName xml:id="" xml:lang="he" source="">
                         <forename xml:id="fn-he"/>
                         <addName xml:id="pa-he" type="patronym"/>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn"
+                    <persName xml:id="" type="canon" xml:lang="he-Latn"
                         source="">
-                        <forename ref="#fn-he" xml:lang="he-Latn">Ašer</forename>
-                        <addName ref="#pa-he" type="patronym">ben Yiḥiʾel</addName>
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
                         <date cert="" source=""/>
@@ -127,9 +359,9 @@
                         <placeName ref="" cert="" source=""/>
                     </death>
                     <floruit>
-    <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
-</floruit>
+                        <date cert="" source=""/>
+                        <placeName ref="" cert="" source=""/>
+                    </floruit>
                     <sex cert="" source=""/>
                     <faith cert="" source=""/>
                     <occupation type="" cert="" source=""/>
@@ -141,10 +373,10 @@
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
-                    <idno type="URI" subtype="isni"/>
-                    <idno type="URI" subtype="viaf"/>
+                    <idno type="URI" subtype="isni">https://isni.org/isni/0000000120128149</idno>
+                    <idno type="URI" subtype="viaf">http://viaf.org/viaf/21406867</idno>
                     <idno type="URI" subtype="wiki"/>
-                    <idno type="URI" subtype="gnd"/>
+                    <idno type="URI" subtype="gnd">https://d-nb.info/gnd/119346893</idno>
                     <idno type="URI" subtype="merhav"/>
                     <idno type="URI" subtype="rambi"/>
                     <idno type="URI" subtype="imhm"/>

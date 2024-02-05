@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Yūsuf ibn Nūḥ</title>
+            <title level="a" xml:lang="en">David al-Fāsī</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -64,60 +64,23 @@
             <person>
                <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                   source="">
-                  <name/>
+                  <name>David al-Fāsī</name>
                </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                   source="">
-                  <name>Yūsuf ibn Nūḥ</name>
+                  <name/>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Abu Jakub Josef ben Noah</name>
+                  <name>Alfasi, David ben Abraham</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Abu Yaqub Yusuf ibn Nuh</name>
+                  <name>Abū Sulaimān Dāʾūd ibn Ibrāhīm al-Fāsī</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>A̕bū Yaʿqūb Yūsuf ibn Nūḥ</name>
+                  <name>Al-Fāsī, David Ben Abraham</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Ben Noaḥ, Joseph</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Ibn Nuh, Abu Yaqub Yusuf</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Ibn Nūḥ, ʾAbū Yaʿqūb Yūsuf</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Josef ben Noah</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Joseph Ben-Noah</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Nuh, Abu Yaqub Yusuf ibn</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yūsuf ibn Nūḥ</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>ʼAbū Yaʻqūb Yūsuf ibn Bakhtawaih</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>ʼAbū Yaʻqūb Yūsuf ibn Bakhtawi</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>ʼAbū Yaʻqūb Yūsuf ibn Nūḥ</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>ʾAbū Yaʿqūb Yūsuf b. Nūḥ</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="isni">
-                  <name>Abū Yaʿqūb, Ibn Bakhtawayh</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar" source="isni">
-                  <name>يوسف بن
-                     نوح</name>
+                  <name>David ben Abraham Al-Fāsī</name>
                </persName>
                <persName xml:id="" type="canon" xml:lang="ar" source="">
                   <addName xml:id="sh-ar" type="shuhra"/>
@@ -169,7 +132,7 @@
                </death>
                <floruit>
     <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
+                  <placeName ref="" cert="" source="">al-Ramla</placeName>
 </floruit>
                <sex cert="" source=""/>
                <faith cert="" source=""/>
@@ -182,8 +145,8 @@
                   <citedRange unit="p"/>
                   <ptr target=""/>
                </bibl>
-               <idno type="URI" subtype="isni">https://isni.org/isni/000000011663660X</idno>
-               <idno type="URI" subtype="viaf"/>
+               <idno type="URI" subtype="isni"/>
+               <idno type="URI" subtype="viaf">http://viaf.org/viaf/193042426</idno>
                <idno type="URI" subtype="wiki"/>
                <idno type="URI" subtype="gnd"/>
                <idno type="URI" subtype="merhav"/>

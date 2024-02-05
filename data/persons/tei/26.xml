@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Sahl ben Maṣliaḥ</title>
+                <title level="a" xml:lang="en">Abū al-Ṭayyib Šalom</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -72,7 +72,7 @@
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
                 </authority>
-                <idno type="URI">https://jalit.org/person/3</idno>
+                <idno type="URI">https://jalit.org/person/26</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
@@ -94,11 +94,11 @@
                 <person>
                     <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                         source="">
-                        <name>Sahl ben Maṣliaḥ</name>
+                        <name/>
                     </persName>
                     <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                         source="">
-                        <name/>
+                        <name>Abū al-Ṭayyib Šalom</name>
                     </persName>
                     <persName xml:id="" type="attested" xml:lang="he" source="">
                         <name/>
@@ -107,16 +107,7 @@
                         <name/>
                     </persName>
                     <persName xml:id="" type="alternate" xml:lang="he" source="">
-                        <name>Abū al-Sarī</name>
-                    </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
-                        <name>סהל בן מצליח</name>
-                    </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
-                        <name>Sahl ben Matsliaḥ</name>
-                    </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="viaf">
-                        <name>Sahl ben Matzliah</name>
+                        <name/>
                     </persName>
                     <persName xml:id="" type="alternate" xml:lang="he" source="">
                         <name/>
@@ -162,16 +153,16 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="" source="wiki">910</date>
-                        <placeName ref="" cert="" source="wiki">Jerusalem</placeName>
+                        <date cert="" source=""/>
+                        <placeName ref="" cert="" source=""/>
                     </birth>
                     <death>
-                        <date cert="" source="wiki">990</date>
+                        <date cert="" source=""/>
                         <placeName ref="" cert="" source=""/>
                     </death>
                     <floruit>
                         <date cert="" source=""/>
-                        <placeName ref="" cert="" source=""/>
+                        <placeName ref="" cert="" source="">Ramla</placeName>
                     </floruit>
                     <sex cert="" source=""/>
                     <faith cert="" source=""/>
@@ -185,8 +176,8 @@
                         <ptr target=""/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
-                    <idno type="URI" subtype="viaf">http://viaf.org/viaf/55146461439227730139</idno>
-                    <idno type="URI" subtype="wiki">https://www.wikidata.org/wiki/Q2911011</idno>
+                    <idno type="URI" subtype="viaf"/>
+                    <idno type="URI" subtype="wiki"/>
                     <idno type="URI" subtype="gnd"/>
                     <idno type="URI" subtype="merhav"/>
                     <idno type="URI" subtype="rambi"/>

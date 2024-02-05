@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Ḥananyah ben Yaʿqōv</title>
+            <title level="a" xml:lang="en">ʿAlī ben Avraham al-Ṭawīl</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -41,7 +41,7 @@
             <authority>
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/person/16</idno>
+            <idno type="URI">https://jalit.org/person/15</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
@@ -63,11 +63,11 @@
             <person>
                <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                   source="">
-                  <name>Ḥananyah ben Yaʿqōv</name>
+                  <name/>
                </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                   source="">
-                  <name/>
+                  <name>ʿAlī ben Avraham al-Ṭawīl</name>
                </persName>
                <persName xml:id="" type="attested" xml:lang="he" source="">
                   <name/>
@@ -131,7 +131,7 @@
                </death>
                <floruit>
     <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
+                  <placeName ref="" cert="" source="">al-Ramla</placeName>
 </floruit>
                <sex cert="" source=""/>
                <faith cert="" source=""/>

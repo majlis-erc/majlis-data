@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Samuel ben Asher b. Manṣūr</title>
+            <title level="a" xml:lang="en">Yūsuf b. Ṣabatiyyā(?)</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -63,11 +63,11 @@
             <person>
                <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                   source="">
-                  <name>Samuel ben Asher b. Manṣūr</name>
+                  <name/>
                </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                   source="">
-                  <name>Abū l-Ṭayyib al-Jabalī</name>
+                  <name>Yūsuf b. Ṣabatiyyā(?)</name>
                </persName>
                <persName xml:id="" type="attested" xml:lang="he" source="">
                   <name/>
