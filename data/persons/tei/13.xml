@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Abū l-Ḥasan ʿAlī b. Sulaymān</title>
+            <title level="a" xml:lang="en">Ibn al-Tarās</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -67,7 +67,7 @@
                </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                   source="">
-                  <name>Abū l-Ḥasan ʿAlī b. Sulaymān</name>
+                  <name>Ibn al-Tarās</name>
                </persName>
                <persName xml:id="" type="attested" xml:lang="he" source="">
                   <name/>
@@ -75,12 +75,11 @@
                <persName xml:id="" type="attested" xml:lang="ar" source="">
                   <name/>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="">
-                  <name>al-Muqaddasī</name>
+               <persName xml:id="" type="alternate" xml:lang="he" source="">
+                  <name/>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar" source="">
-                  <name>أبو الحسن
-                     علي بن سليمان</name>
+               <persName xml:id="" type="alternate" xml:lang="he" source="">
+                  <name/>
                </persName>
                <persName xml:id="" type="canon" xml:lang="ar" source="">
                   <addName xml:id="sh-ar" type="shuhra"/>
@@ -145,7 +144,8 @@
                   <citedRange unit="p"/>
                   <ptr target=""/>
                </bibl>
-               <idno type="URI" subtype="isni"/>
+               <idno type="URI" subtype="isni"></idno>
+               <idno type="URI" subtype="other">https://onomasticon.irht.cnrs.fr/en/entry/id/4116</idno>
                <idno type="URI" subtype="viaf"/>
                <idno type="URI" subtype="wiki"/>
                <idno type="URI" subtype="gnd"/>

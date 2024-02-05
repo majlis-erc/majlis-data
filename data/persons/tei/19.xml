@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Yūsuf b. Ṣabatīyā(?)</title>
+            <title level="a" xml:lang="en">ʿAlī b. Yūsuf Samiyayh/Samiyya</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -67,7 +67,7 @@
                </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                   source="">
-                  <name>Yūsuf b. Ṣabatīyā(?)</name>
+                  <name>ʿAlī b. Yūsuf Samiyayh/Samiyya</name>
                </persName>
                <persName xml:id="" type="attested" xml:lang="he" source="">
                   <name/>

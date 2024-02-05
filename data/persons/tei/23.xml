@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Yisraʾel ben Daniel</title>
+            <title level="a" xml:lang="en">ʿAzaryā b. Ṣāliḥ</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -61,11 +61,11 @@
       <body>
          <listPerson>
             <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
-                  source="">
-                  <name>Yisraʾel ben Daniel</name>
-               </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
+                  source="">
+                  <name>ʿAzaryā b. Ṣāliḥ</name>
+               </persName>
+               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                   source="">
                   <name/>
                </persName>

@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Abū ʾl-Faḍl Sahl ibn al-Faḍl al-Tustarī</title>
+            <title level="a" xml:lang="en">Abū l-Ḥasan ʿAlī b. Sulaymān</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -54,7 +54,6 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -64,24 +63,24 @@
             <person>
                <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                   source="">
-                  <name>Jashar ben Ḥesed ben Jashar</name>
+                  <name/>
                </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                   source="">
-                  <name>Abū ʾl-Faḍl Sahl ibn al-Faḍl
-                     al-Tustarī</name>
+                  <name>Abū l-Ḥasan ʿAlī b. Sulaymān</name>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="he" source="isni">
+               <persName xml:id="" type="attested" xml:lang="he" source="">
                   <name/>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="ar" source="isni">
+               <persName xml:id="" type="attested" xml:lang="ar" source="">
                   <name/>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he" source="isni">
-                  <name>אלתסתרי, סהל בן פצ'ל</name>
+               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="">
+                  <name>al-Muqaddasī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he-Latn" source="isni">
-                  <name>Tustari, sahl ben Fats'l</name>
+               <persName xml:id="" type="alternate" xml:lang="ar" source="">
+                  <name>أبو الحسن
+                     علي بن سليمان</name>
                </persName>
                <persName xml:id="" type="canon" xml:lang="ar" source="">
                   <addName xml:id="sh-ar" type="shuhra"/>
@@ -133,7 +132,7 @@
                </death>
                <floruit>
     <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
+                  <placeName ref="" cert="" source="">Palestine</placeName>
 </floruit>
                <sex cert="" source=""/>
                <faith cert="" source=""/>
@@ -147,7 +146,7 @@
                   <ptr target=""/>
                </bibl>
                <idno type="URI" subtype="isni"/>
-               <idno type="URI" subtype="viaf">http://viaf.org/viaf/82146461459227730116</idno>
+               <idno type="URI" subtype="viaf"/>
                <idno type="URI" subtype="wiki"/>
                <idno type="URI" subtype="gnd"/>
                <idno type="URI" subtype="merhav"/>

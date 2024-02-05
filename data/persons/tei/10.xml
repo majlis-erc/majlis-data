@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">ʿAbd Allāh</title>
+            <title level="a" xml:lang="en">Levi ben Yefet ben ʿElī</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -64,41 +64,35 @@
             <person>
                <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
                   source="">
-                  <name>Yeshuʿah ben Yehuda</name>
+                  <name>Levi ben Yefet ben ʿElī</name>
                </persName>
                <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
                   source="">
-                  <name>ʿAbd Allāh</name>
+                  <name>Abū Saʿīd Levi ben Yefet ben ʿElī</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Abū al-Faraj Furqān ibn Asad</name>
+                  <name>Abu Saʻid</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Abu Alfarag' Farḳan ibn Asad</name>
+                  <name>Batsri, Laṿi bin al-Ḥasan</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Jeshua ben Judah</name>
+                  <name>Haleṿi, Leṿi ben Yefet</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yeshuʻah ben Yehudah</name>
+                  <name>Levi ben Japhet</name>
                </persName>
                <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>אבו אלפרג פרקאן אבן אסד</name>
+                  <name>Leṿi ben Yefet (ha-Leṿi)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>ישועה בן יהודה</name>
+               <persName xml:id="" type="alternate" xml:lang="he" source="isni">
+                  <name>לוי בן יפת (החוי)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>ישועה בן יהודה (הקראי)</name>
+               <persName xml:id="" type="alternate" xml:lang="ar" source="isni">
+                  <name>لاوي بن يافث</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>ישועה המלמד</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="isni">
-                  <name>Abū ’l-Faraj Furqān ibn al-Asad</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="he" source="">
-                  <name/>
+               <persName xml:id="" type="alternate" xml:lang="" source="">
+                  <name>al-Muʿallim Abū Saʿīd</name>
                </persName>
                <persName xml:id="" type="canon" xml:lang="ar" source="">
                   <addName xml:id="sh-ar" type="shuhra"/>
@@ -163,9 +157,9 @@
                   <citedRange unit="p"/>
                   <ptr target=""/>
                </bibl>
-               <idno type="URI" subtype="isni">https://isni.org/isni/0000000044338338</idno>
-               <idno type="URI" subtype="viaf">http://viaf.org/viaf/58767269</idno>
-               <idno type="URI" subtype="wiki"/>
+               <idno type="URI" subtype="isni">https://isni.org/isni/000000006695019X</idno>
+               <idno type="URI" subtype="viaf">https://viaf.org/viaf/61220050/</idno>
+               <idno type="URI" subtype="wiki">https://www.wikidata.org/wiki/Q3237215</idno>
                <idno type="URI" subtype="gnd"/>
                <idno type="URI" subtype="merhav"/>
                <idno type="URI" subtype="rambi"/>
