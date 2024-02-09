@@ -43,9 +43,6 @@
                 </respStmt>
                 <editor role="creator" ref="">admin</editor>
             </titleStmt>
-            <editionStmt>
-                <edition n="0.6.0-dev"/>
-            </editionStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org</ref>
@@ -97,10 +94,10 @@
                 <person role="author" xml:id="person-1">
 
                     <!--The headwords-->
-                    <persName xml:lang="he-Latn" type="#majlis-headword" xml:id="name-1">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
                         <name>Yešuʿah ben Yehuda</name>
                     </persName>
-                    <persName xml:lang="ar-Latn" type="#majlis-headword" xml:id="name-2">
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
                         <name>Abū l-Faraǧ Furqān b. Asad</name>
                     </persName>
 
