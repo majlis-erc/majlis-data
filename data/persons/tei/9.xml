@@ -62,194 +62,191 @@
       <body>
          <listPerson>
             <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
-                  source="">
-                  <name>Yosef ha-Roʾeh</name>
+               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
+                  <name source="">Yosef ha-Roʾeh</name>
                </persName>
-               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
-                  source="">
-                  <name>Yūsuf al-Baṣīr</name>
+               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
+                  <name source="">Yūsuf al-Baṣīr</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="">
-                  <name>Abū Yaʿqūb "al-Ḍarīr"</name>
+               <persName xml:id="" type="alternate" xml:lang="ar-Latn">
+                  <name source="">Abū Yaʿqūb "al-Ḍarīr"</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="">
-                  <name>[al-Šayḫ/Šayḫunā] Abū Yaʿqūb</name>
+               <persName xml:id="" type="alternate" xml:lang="ar-Latn">
+                  <name source="">[al-Šayḫ/Šayḫunā] Abū Yaʿqūb</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Abu Yaʻḳub (al-Baṣīr)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Abu Yaʻḳub (al-Baṣīr)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Abu Yaʿkūb (al-Baṣir)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Abu Yaʿkūb (al-Baṣir)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>al-Basir, Joseph</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">al-Basir, Joseph</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Al-Baṣīr, Yūsuf</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Al-Baṣīr, Yūsuf</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>al-Baszīr, Juszuf</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">al-Baszīr, Juszuf</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Albatsir, Yosef</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Albatsir, Yosef</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣir, Abu Yaʻḳub al-</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣir, Abu Yaʻḳub al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣīr, Abu Yaʿkūb</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣīr, Abu Yaʿkūb</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣīr, Abū Yaʿqūb Yūsuf ibn Ibrahīm al-</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣīr, Abū Yaʿqūb Yūsuf ibn Ibrahīm al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Basir, Joseph Ben Abraham ha-Kohen ha-Ro'eh al-</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Basir, Joseph Ben Abraham ha-Kohen ha-Ro'eh al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣīr, Joseph Ben Abraham Ha-Kohen Ha-Ro'eth al-</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣīr, Joseph Ben Abraham Ha-Kohen Ha-Ro'eth al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣīr, Joseph ben Abraham (ha-Kohen ha-Roʾeh)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣīr, Joseph ben Abraham (ha-Kohen ha-Roʾeh)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣīr, Joseph Ben Abraham ha-Kohen ha-Roʾeh al-</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣīr, Joseph Ben Abraham ha-Kohen ha-Roʾeh al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣīr, Jūsuf</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣīr, Jūsuf</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣīr, Yūsuf</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣīr, Yūsuf</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baṣīr, Yūsuf al-</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baṣīr, Yūsuf al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Baszīr, Juszuf al-</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Baszīr, Juszuf al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Ha-Kohen, Yosef ben Avraham (ha-Roʾeh)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Ha-Kohen, Yosef ben Avraham (ha-Roʾeh)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Hakohen, Yosef ben Avraham (ha-Roʼeh)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Hakohen, Yosef ben Avraham (ha-Roʼeh)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Hakohen, Yosef ben Avraham (ha-Roʾeh)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Hakohen, Yosef ben Avraham (ha-Roʾeh)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Joseph Al Basir</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Joseph Al Basir</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Joseph (Ben Abraham)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Joseph (Ben Abraham)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Joseph ben Abraham (ha-Kohen ha-Roʼeh)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Joseph ben Abraham (ha-Kohen ha-Roʼeh)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Joseph ben Abraham (ha-Kohen ha-Roʾeh)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Joseph ben Abraham (ha-Kohen ha-Roʾeh)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Joseph Ben Abraham Ha-Roeh</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Joseph Ben Abraham Ha-Roeh</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Joseph Ha-Roeh</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Joseph Ha-Roeh</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Jusuf Al-Basir</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Jusuf Al-Basir</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Juszuf Al-Baszir</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Juszuf Al-Baszir</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Roʼeh, Joseph ben Abraham (ha-Kohen ha-)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Roʼeh, Joseph ben Abraham (ha-Kohen ha-)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Roʾeh, Joseph ben Abraham (ha-Kohen)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Roʾeh, Joseph ben Abraham (ha-Kohen)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yosef ben Avraham (ha-Kohen ha-Roʾeh)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Yosef ben Avraham (ha-Kohen ha-Roʾeh)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yosef ben Avraham ha-Roe</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Yosef ben Avraham ha-Roe</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yosef ben Avraham (ha-Roʼeh ha-Kohen)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Yosef ben Avraham (ha-Roʼeh ha-Kohen)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yôsef ha-Rô'e</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Yôsef ha-Rô'e</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yôsēf hā-Rôʾe</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Yôsēf hā-Rôʾe</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yusuf Al-Basir</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Yusuf Al-Basir</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>Yūsuf ibn Ibrāhīm al-Baṣīr</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">Yūsuf ibn Ibrāhīm al-Baṣīr</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>אלבציר, יוסף</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">אלבציר, יוסף</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>בשיר, יוסף בן אברהם (הכהן הרואה)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">בשיר, יוסף בן אברהם (הכהן הרואה)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>יוסף אלבציר</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">יוסף אלבציר</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>יוסף בן אברהם (הכהן הרואה)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">יוסף בן אברהם (הכהן הרואה)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>יוסף בן אברהם (הרואה)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">יוסף בן אברהם (הרואה)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>יוסף בן אברהם (הרואה, הכהן)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">יוסף בן אברהם (הרואה, הכהן)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>יוסף בן אברהם הרואה (הרואה הכהן)</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">יוסף בן אברהם הרואה (הרואה הכהן)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                  <name>يوسف البصير</name>
+               <persName xml:id="" type="alternate" xml:lang="">
+                  <name source="#isni">يوسف البصير</name>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar" source="">
-                  <addName xml:id="sh-ar" type="shuhra"/>
-                  <addName xml:id="is-ar" type="ism"/>
-                  <addName xml:id="na-ar" type="nasab"/>
-                  <addName xml:id="ni-ar" type="nisbah"/>
-                  <addName xml:id="ku-ar" type="kunya"/>
-                  <addName xml:id="la-ar" type="laqab"/>
+               <persName xml:id="" type="canon" xml:lang="ar">
+                  <addName source="" xml:id="sh-ar" type="shuhra"/>
+                  <addName source="" xml:id="is-ar" type="ism"/>
+                  <addName source="" xml:id="na-ar" type="nasab"/>
+                  <addName source="" xml:id="ni-ar" type="nisbah"/>
+                  <addName source="" xml:id="ku-ar" type="kunya"/>
+                  <addName source="" xml:id="la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar-Hebr" source="">
-                  <addName ref="#sh-ar" type="shuhra"/>
-                  <addName ref="#is-ar" type="ism"/>
-                  <addName ref="#na-ar" type="nasab"/>
-                  <addName ref="#ni-ar" type="nisbah"/>
-                  <addName ref="#ku-ar" type="kunya"/>
-                  <addName ref="#la-ar" type="laqab"/>
+               <persName xml:id="" type="canon" xml:lang="ar-Hebr">
+                  <addName source="" ref="#sh-ar" type="shuhra"/>
+                  <addName source="" ref="#is-ar" type="ism"/>
+                  <addName source="" ref="#na-ar" type="nasab"/>
+                  <addName source="" ref="#ni-ar" type="nisbah"/>
+                  <addName source="" ref="#ku-ar" type="kunya"/>
+                  <addName source="" ref="#la-ar" type="laqab"/>
                </persName>
                <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
                   >
-                  <addName ref="#sh-ar" type="shuhra"/>
-                  <addName ref="#is-ar" type="ism"/>
-                  <addName ref="#na-ar" type="nasab"/>
-                  <addName ref="#ni-ar" type="nisbah"/>
-                  <addName ref="#ku-ar" type="kunya"/>
-                  <addName ref="#la-ar" type="laqab"/>
+                  <addName source="" ref="#sh-ar" type="shuhra"/>
+                  <addName source="" ref="#is-ar" type="ism"/>
+                  <addName source="" ref="#na-ar" type="nasab"/>
+                  <addName source="" ref="#ni-ar" type="nisbah"/>
+                  <addName source="" ref="#ku-ar" type="kunya"/>
+                  <addName source="" ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="he" source="">
-                  <forename xml:id="fn-he"/>
-                  <addName xml:id="pa-he" type="patronym"/>
-                  <addName xml:id="ep-he" type="epithet"/>
-                  <addName xml:id="ac-he" type="acronym"/>
-                  <addName xml:id="sh-he" type="shuhra"/>
+               <persName xml:id="" type="canon" xml:lang="he">
+                  <forename source="" xml:id="fn-he"/>
+                  <addName source="" xml:id="pa-he" type="patronym"/>
+                  <addName source="" xml:id="ep-he" type="epithet"/>
+                  <addName source="" xml:id="ac-he" type="acronym"/>
+                  <addName source="" xml:id="sh-he" type="shuhra"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn"
-                  source="">
-                  <forename ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName ref="#pa-he" type="patronym"/>
-                  <addName ref="#ep-he" type="epithet"/>
-                  <addName ref="#ac-he" type="acronym"/>
-                  <addName ref="#sh-he" type="shuhra"/>
+               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn">
+                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
+                  <addName source="" ref="#pa-he" type="patronym"/>
+                  <addName source="" ref="#ep-he" type="epithet"/>
+                  <addName source="" ref="#ac-he" type="acronym"/>
+                  <addName source="" ref="#sh-he" type="shuhra"/>
                </persName>
                <birth>
                   <date cert="" source=""/>

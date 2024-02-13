@@ -92,173 +92,170 @@
         <body>
             <listPerson>
                 <person>
-                    <persName xml:id="" xml:lang="he-Latn" type="majlis-headword"
-                        source="">
-                        <name>Daniʾel al-Qūmisī</name>
+                    <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
+                        <name source="">Daniʾel al-Qūmisī</name>
                     </persName>
-                    <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword"
-                        source="">
-                        <name/>
+                    <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
+                        <name source=""/>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniyel ben Mosheh, al-Ḳumisi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniyel ben Mosheh, al-Ḳumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel ben Moses al-Qūmisī</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel ben Moses al-Qūmisī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel ben Moses Hakumisi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel ben Moses Hakumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Dānīʾēl Ben-Moše al-Qūmīsī</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Dānīʾēl Ben-Moše al-Qūmīsī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel b. Moses al-Kumisi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel b. Moses al-Kumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel al-Qūmisī</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel al-Qūmisī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniyel al-Ḳumisi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniyel al-Ḳumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel al-Ḳumissi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel al-Ḳumissi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel Al-Ḳumissi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel Al-Ḳumissi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel ben Mose el-Kumasi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel ben Mose el-Kumasi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel ben Moses Alkumisi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel ben Moses Alkumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniʾēl Ben-Moše al-Qūmisī</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniʾēl Ben-Moše al-Qūmisī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniyyel Ben Moshe Al-Qumisi</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniyyel Ben Moshe Al-Qumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel ben Moses, al-Damagani</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel ben Moses, al-Damagani</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel ben Moses</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel ben Moses</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Daniel b. Moses</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Daniel b. Moses</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Al-Ḳumisi, Daniyel</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Al-Ḳumisi, Daniyel</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Al-Qumisi, Daniel</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Al-Qumisi, Daniel</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Al-Qûmisî, Dānîʾēl</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Al-Qûmisî, Dānîʾēl</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Ḳumisi, Daniyel ben Mosheh</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Ḳumisi, Daniyel ben Mosheh</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Qumisi, Daniel ben Moses al-</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Qumisi, Daniel ben Moses al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Qûmisî, Dānîʾēl Ben-Mōše al-</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Qûmisî, Dānîʾēl Ben-Mōše al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Qumisi, Daniel al-</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Qumisi, Daniel al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Qûmisî, Dānîʾēl al-</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Qûmisî, Dānîʾēl al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Qūmisī, Daniel al-</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Qūmisī, Daniel al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Ḳumisi, Daniyel</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Ḳumisi, Daniyel</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Ḳumisi, Daniel al-</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Ḳumisi, Daniel al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="dnb">
-                        <name>Elkumsi, Daniel</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#gnd">Elkumsi, Daniel</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he" source="dnb">
-                        <name>דניאל, קומסי</name>
+                    <persName xml:id="" type="alternate" xml:lang="he">
+                        <name source="#gnd">דניאל, קומסי</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he" source="dnb">
-                        <name>דניאל, הקומסי</name>
+                    <persName xml:id="" type="alternate" xml:lang="he">
+                        <name source="#gnd">דניאל, הקומסי</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he" source="dnb">
-                        <name>דניאל הקומסי</name>
+                    <persName xml:id="" type="alternate" xml:lang="he">
+                        <name source="#gnd">דניאל הקומסי</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he" source="dnb">
-                        <name>דניאל בן משה הקומסי</name>
+                    <persName xml:id="" type="alternate" xml:lang="he">
+                        <name source="#gnd">דניאל בן משה הקומסי</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he" source="dnb">
-                        <name>הקומסי, דניאל בן משה</name>
+                    <persName xml:id="" type="alternate" xml:lang="he">
+                        <name source="#gnd">הקומסי, דניאל בן משה</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he" source="dnb">
-                        <name>הקומסי, דניאל</name>
+                    <persName xml:id="" type="alternate" xml:lang="he">
+                        <name source="#gnd">הקומסי, דניאל</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he" source="dnb">
-                        <name>-קומסי, דניאל בן משה ה </name>
+                    <persName xml:id="" type="alternate" xml:lang="he">
+                        <name source="#gnd">-קומסי, דניאל בן משה ה </name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he" source="dnb">
-                        <name>-קומסי, דניאל ה</name>
+                    <persName xml:id="" type="alternate" xml:lang="he">
+                        <name source="#gnd">-קומסי, דניאל ה</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="ar" source="dnb">
-                        <name>Daniyel ben Mosheh al-Ḳumisi 870-910</name>
+                    <persName xml:id="" type="alternate" xml:lang="ar">
+                        <name source="#gnd">Daniyel ben Mosheh al-Ḳumisi 870-910</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he-Latn" source="">
-                        <name>al-Dāmaġānī</name>
+                    <persName xml:id="" type="alternate" xml:lang="he-Latn">
+                        <name source="">al-Dāmaġānī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he-Latn" source="viaf">
-                        <name>Ḳūmissi, Daniel al-</name>
+                    <persName xml:id="" type="alternate" xml:lang="he-Latn">
+                        <name source="#viaf">Ḳūmissi, Daniel al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he-Latn" source="viaf">
-                        <name>Qūmisī, Danīʾel ʾal-</name>
+                    <persName xml:id="" type="alternate" xml:lang="he-Latn">
+                        <name source="#viaf">Qūmisī, Danīʾel ʾal-</name>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar" source="">
-                        <addName xml:id="sh-ar" type="shuhra"/>
-                        <addName xml:id="is-ar" type="ism"/>
-                        <addName xml:id="na-ar" type="nasab"/>
-                        <addName xml:id="ni-ar" type="nisbah"/>
-                        <addName xml:id="ku-ar" type="kunya"/>
-                        <addName xml:id="la-ar" type="laqab"/>
+                    <persName xml:id="" type="canon" xml:lang="ar">
+                        <addName source="" xml:id="sh-ar" type="shuhra"/>
+                        <addName source="" xml:id="is-ar" type="ism"/>
+                        <addName source="" xml:id="na-ar" type="nasab"/>
+                        <addName source="" xml:id="ni-ar" type="nisbah"/>
+                        <addName source="" xml:id="ku-ar" type="kunya"/>
+                        <addName source="" xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar-Hebr" source="">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
-                        <addName ref="#la-ar" type="laqab"/>
+                    <persName xml:id="" type="canon" xml:lang="ar-Hebr">
+                        <addName source="" ref="#sh-ar" type="shuhra"/>
+                        <addName source="" ref="#is-ar" type="ism"/>
+                        <addName source="" ref="#na-ar" type="nasab"/>
+                        <addName source="" ref="#ni-ar" type="nisbah"/>
+                        <addName source="" ref="#ku-ar" type="kunya"/>
+                        <addName source="" ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:id="" type="canon" xml:lang="ar-Latn"
                         >
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
-                        <addName ref="#la-ar" type="laqab"/>
+                        <addName source="" ref="#sh-ar" type="shuhra"/>
+                        <addName source="" ref="#is-ar" type="ism"/>
+                        <addName source="" ref="#na-ar" type="nasab"/>
+                        <addName source="" ref="#ni-ar" type="nisbah"/>
+                        <addName source="" ref="#ku-ar" type="kunya"/>
+                        <addName source="" ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" xml:lang="he" source="">
-                        <forename xml:id="fn-he"/>
-                        <addName xml:id="pa-he" type="patronym"/>
-                        <addName xml:id="ep-he" type="epithet"/>
-                        <addName xml:id="ac-he" type="acronym"/>
-                        <addName xml:id="sh-he" type="shuhra"/>
+                    <persName xml:id="" xml:lang="he">
+                        <forename source="" xml:id="fn-he"/>
+                        <addName source="" xml:id="pa-he" type="patronym"/>
+                        <addName source="" xml:id="ep-he" type="epithet"/>
+                        <addName source="" xml:id="ac-he" type="acronym"/>
+                        <addName source="" xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="he-Latn"
-                        source="">
-                        <forename ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName ref="#pa-he" type="patronym"/>
-                        <addName ref="#ep-he" type="epithet"/>
-                        <addName ref="#ac-he" type="acronym"/>
-                        <addName ref="#sh-he" type="shuhra"/>
+                    <persName xml:id="" type="canon" xml:lang="he-Latn">
+                        <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName source="" ref="#pa-he" type="patronym"/>
+                        <addName source="" ref="#ep-he" type="epithet"/>
+                        <addName source="" ref="#ac-he" type="acronym"/>
+                        <addName source="" ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
                         <date cert="" source="dnb">870</date>
