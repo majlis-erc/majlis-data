@@ -6,42 +6,34 @@
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName
-                        xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName
-                        xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de"
-                        >Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                     <persName>Ronny Vollandt</persName>
                     <date from="2021">2021-present</date>
                 </editor>
-                <editor xml:id="gschwarb" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                     <persName>Gregor Schwarb</persName>
                     <date from="2021">2021-present</date>
                 </editor>
-                <editor xml:id="ngibson" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                     <persName>Nathan P. Gibson</persName>
                     <date from="2021">2021-present</date>
                 </editor>
-                <editor xml:id="mmoliere" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                     <persName>Maximilian de Molière</persName>
                     <date from="2021">2021-present</date>
                 </editor>
                 <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
-                        >Winona Salesky</name>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -63,12 +55,10 @@
         <encodingDesc>
             <editorialDecl>
                 <p>This record created following the Syriaca.org guidelines. Documentation available
-                    at: <ref target="http://syriaca.org/documentation"
-                        >http://syriaca.org/documentation</ref>.</p>
+                    at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
                 <interpretation>
                     <p>Approximate dates described in terms of centuries or partial centuries have
-                        been interpreted as documented in <ref
-                            target="http://syriaca.org/documentation/dates.html">Syriaca.org
+                        been interpreted as documented in <ref target="http://syriaca.org/documentation/dates.html">Syriaca.org
                             Dates</ref>.</p>
                 </interpretation>
             </editorialDecl>
@@ -84,14 +74,14 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
+            <change who="#mmoliere" when="2024-02-13T20:05:07.242Z">Testing source feature</change><change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listPerson>
-                <person role="author" xml:id="person-1">
+                <person role="author" xml:id="person-11">
 
                     <!--The headwords-->
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
@@ -143,46 +133,46 @@
                         <forename source="" xml:id="fn-he">ישועה</forename>
                         <addName source="" xml:id="pa-he" type="patronym">בן יהודה</addName>
                         <addName source="" xml:id="ep-he" type="epithet">החסיד</addName>
-                        <addName source="" xml:id="ac-he" type="acronym"></addName>
+                        <addName source="" xml:id="ac-he" type="acronym"/>
                         <addName source="" xml:id="sh-he" type="shuhra">בן יזדאד הכהן</addName>
                     </persName>
                     <persName type="canon" xml:lang="he-Latn" xml:id="name-10">
                         <forename source="" ref="#fn-he" xml:lang="he-Latn">Yešuʿa</forename>
                         <addName source="" ref="#a-he" type="patronym">ben Yehuda</addName>
                         <addName source="" ref="#ep-he" type="epithet">he-ḥasīd</addName>
-                        <addName source="" ref="#ac-he" type="acronym"></addName>
+                        <addName source="" ref="#ac-he" type="acronym"/>
                         <addName source="" ref="#sh-he" type="shuhra">ben Izdad ha-Kohen</addName>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-11">
                         <name source="#isni">Abū al-Faraj Furqān ibn Asad</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-12">
                         <name source="#isni">Abu Alfarag' Farḳan ibn Asad</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-13">
                         <name source="#isni">Jeshua ben Judah</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-14">
                         <name source="#isni">Yeshuʻah ben Yehudah</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-15">
                         <name source="#isni">אבו אלפרג פרקאן אבן אסד</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-16">
                         <name source="#isni">ישועה בן יהודה</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-17">
                         <name source="#isni">ישועה בן יהודה (הקראי)</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-18">
                         <name source="#isni">ישועה המלמד</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="ar-Latn">
+                    <persName type="alternate" xml:lang="ar-Latn" xml:id="name-19">
                         <name source="#isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
                     </persName>
                     <birth>
-                        <date>1001-1010</date>
-                        <placeName ref="" cert="" source="">Jerusalem</placeName>
+                        <date source="majlis-netbiblZBPDVTMI">1001-1010</date>
+                        <placeName ref="" cert="" source="majlis-netbiblZBPDVTMI">Jerusalem</placeName>
                     </birth>
                     <death source="">
                         <date>1070–1099</date>
@@ -193,15 +183,20 @@
                         <placeName ref="" cert="" source=""/>
                     </floruit>
                     <sex cert="" source="">Male</sex>
-                    <faith source="">Judaism</faith>
+                    <faith source="majlis-netbiblZBPDVTMI">Judaism</faith>
                     <occupation source="">scholar</occupation>
                     <residence>
-                        <placeName ref="" cert="" source="">Jerusalem</placeName>
+                        <placeName ref="" cert="" source="majlis-netbiblZBPDVTMI">Jerusalem</placeName>
                     </residence>
-                    <bibl xml:id="">
-                        <idno/>
-                        <title/>
-                        <ptr target=""/>
+                    <bibl xml:id="majlis-netbiblZBPDVTMI">
+                        
+                        <title type="citation">Yeshua ben Yehuda, in Enciclopedia Judaica Castellana
+        (México: Editorial Enciclopedia Judaica Castellana, 1951 1948).</title>
+                        <ptr target="https://majlis.net/bibl/ZBPDVTMI"/>
+                    </bibl><bibl xml:id="jalit-orgbiblBDQGF3G3">
+                        
+                        <title type="citation">Jeschuʿa ben Jehuda, Studien über Jeschuʿa ben Jehuda, ed. Martin Schreiner, Bericht über die Lehranstalt für die Wissenschaft des Judentums in Berlin 18 (Berlin: Itzkowski, 1900).</title>
+                        <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
                     </bibl>
                     <idno type="URI" subtype="isni">https://isni.org/isni/0000000044338338</idno>
                     <idno type="URI" subtype="viaf">http://viaf.org/viaf/58767269</idno>                    <idno type="URI" subtype="wiki"/>
