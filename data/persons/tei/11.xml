@@ -95,90 +95,90 @@
 
                     <!--The headwords-->
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
-                        <name>Yešuʿah ben Yehuda</name>
+                        <name source="">Yešuʿah ben Yehuda</name>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Abū l-Faraǧ Furqān b. Asad</name>
+                        <name source="">Abū l-Faraǧ Furqān b. Asad</name>
                     </persName>
 
                     <!--Attested and alternate names – we only provide references to the sources, but the names are not subdivided.-->
                     <persName type="attested" xml:lang="he" xml:id="name-3">
-                        <name/>
+                        <name source=""/>
                     </persName>
                     <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name/>
+                        <name source=""/>
                     </persName>
                     <persName type="attested" xml:lang="ar" xml:id="name-5">
-                        <name/>
+                        <name source=""/>
                     </persName>
 
                     <!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
                     Both names are given in the original scripts and then supplemented with transliterations.-->
                     <persName type="canon" xml:lang="ar" xml:id="name-6">
-                        <addName xml:id="sh-ar" type="shuhra">المعلم الفاضل</addName>
-                        <addName xml:id="is-ar" type="ism">فرقان</addName>
-                        <addName xml:id="na-ar" type="nasab">بن أسد</addName>
-                        <addName xml:id="ni-ar" type="nisbah">القرطبي</addName>
-                        <addName xml:id="ku-ar" type="kunya">أبو الفرج</addName>
-                        <addName xml:id="la-ar" type="laqab">العلامة</addName>
+                        <addName source="" xml:id="sh-ar" type="shuhra">المعلم الفاضل</addName>
+                        <addName source="" xml:id="is-ar" type="ism">فرقان</addName>
+                        <addName source="" xml:id="na-ar" type="nasab">بن أسد</addName>
+                        <addName source="" xml:id="ni-ar" type="nisbah">القرطبي</addName>
+                        <addName source="" xml:id="ku-ar" type="kunya">أبو الفرج</addName>
+                        <addName source="" xml:id="la-ar" type="laqab">العلامة</addName>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-7">
-                        <addName ref="#sh-ar" type="shuhra">אלצ̇ריר</addName>
-                        <addName ref="#is-ar" type="ism">פרקאן</addName>
-                        <addName ref="#na-ar" type="nasab">אבן אסד</addName>
-                        <addName ref="#ni-ar" type="nisbah">אלקרטבי</addName>
-                        <addName ref="#ku-ar" type="kunya">אבו אלחסן</addName>
+                        <addName source="" ref="#sh-ar" type="shuhra">אלצ̇ריר</addName>
+                        <addName source="" ref="#is-ar" type="ism">פרקאן</addName>
+                        <addName source="" ref="#na-ar" type="nasab">אבן אסד</addName>
+                        <addName source="" ref="#ni-ar" type="nisbah">אלקרטבי</addName>
+                        <addName source="" ref="#ku-ar" type="kunya">אבו אלחסן</addName>
 
                     </persName>
                     <persName corresp="#name1-10" type="canon" xml:lang="ar-Latn" xml:id="name-8">
-                        <addName ref="#sh-ar" type="shuhra">al-Ḍarīr</addName>
-                        <addName ref="#is-ar" type="ism">Furqān</addName>
-                        <addName ref="#na-ar" type="nasab">Ibn Sulaymān</addName>
-                        <addName ref="#ni-ar" type="nisbah">al-Qurṭubī</addName>
-                        <addName ref="#ku-ar" type="kunya">Abū ’l-Ḥasan</addName>
-                        <addName ref="#la-ar" type="laqab">ʿIzz al-Dīn, al-Manṭiqī</addName>
+                        <addName source="" ref="#sh-ar" type="shuhra">al-Ḍarīr</addName>
+                        <addName source="" ref="#is-ar" type="ism">Furqān</addName>
+                        <addName source="" ref="#na-ar" type="nasab">Ibn Sulaymān</addName>
+                        <addName source="" ref="#ni-ar" type="nisbah">al-Qurṭubī</addName>
+                        <addName source="" ref="#ku-ar" type="kunya">Abū ’l-Ḥasan</addName>
+                        <addName source="" ref="#la-ar" type="laqab">ʿIzz al-Dīn, al-Manṭiqī</addName>
                     </persName>
 
                     <persName type="canon" xml:lang="he" xml:id="name-9">
-                        <forename xml:id="fn-he">ישועה</forename>
-                        <addName xml:id="pa-he" type="patronym">בן יהודה</addName>
-                        <addName xml:id="ep-he" type="epithet">החסיד</addName>
-                        <addName xml:id="ac-he" type="acronym"></addName>
-                        <addName xml:id="sh-he" type="shuhra">בן יזדאד הכהן</addName>
+                        <forename source="" xml:id="fn-he">ישועה</forename>
+                        <addName source="" xml:id="pa-he" type="patronym">בן יהודה</addName>
+                        <addName source="" xml:id="ep-he" type="epithet">החסיד</addName>
+                        <addName source="" xml:id="ac-he" type="acronym"></addName>
+                        <addName source="" xml:id="sh-he" type="shuhra">בן יזדאד הכהן</addName>
                     </persName>
                     <persName type="canon" xml:lang="he-Latn" xml:id="name-10">
-                        <forename ref="#fn-he" xml:lang="he-Latn">Yešuʿa</forename>
-                        <addName ref="#a-he" type="patronym">ben Yehuda</addName>
-                        <addName ref="#ep-he" type="epithet">he-ḥasīd</addName>
-                        <addName ref="#ac-he" type="acronym"></addName>
-                        <addName ref="#sh-he" type="shuhra">ben Izdad ha-Kohen</addName>
+                        <forename source="" ref="#fn-he" xml:lang="he-Latn">Yešuʿa</forename>
+                        <addName source="" ref="#a-he" type="patronym">ben Yehuda</addName>
+                        <addName source="" ref="#ep-he" type="epithet">he-ḥasīd</addName>
+                        <addName source="" ref="#ac-he" type="acronym"></addName>
+                        <addName source="" ref="#sh-he" type="shuhra">ben Izdad ha-Kohen</addName>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                        <name>Abū al-Faraj Furqān ibn Asad</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#isni">Abū al-Faraj Furqān ibn Asad</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                        <name>Abu Alfarag' Farḳan ibn Asad</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#isni">Abu Alfarag' Farḳan ibn Asad</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                        <name>Jeshua ben Judah</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#isni">Jeshua ben Judah</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                        <name>Yeshuʻah ben Yehudah</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#isni">Yeshuʻah ben Yehudah</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                        <name>אבו אלפרג פרקאן אבן אסד</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#isni">אבו אלפרג פרקאן אבן אסד</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                        <name>ישועה בן יהודה</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#isni">ישועה בן יהודה</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                        <name>ישועה בן יהודה (הקראי)</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#isni">ישועה בן יהודה (הקראי)</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="" source="isni">
-                        <name>ישועה המלמד</name>
+                    <persName xml:id="" type="alternate" xml:lang="">
+                        <name source="#isni">ישועה המלמד</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="ar-Latn" source="isni">
-                        <name>Abū ’l-Faraj Furqān ibn al-Asad</name>
+                    <persName xml:id="" type="alternate" xml:lang="ar-Latn">
+                        <name source="#isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
                     </persName>
                     <birth>
                         <date>1001-1010</date>
