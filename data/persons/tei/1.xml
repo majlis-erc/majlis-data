@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -15,21 +13,13 @@
                 <funder ref="https://erc.europa.eu/">
                     <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-                    >Ronny Vollandt
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
                     </editor>
-                <editor xml:id="gschwarb" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-                    >Gregor Schwarb
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                     </editor>
-                <editor xml:id="ngibson" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-                    >Nathan P. Gibson
+                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
                     </editor>
-                <editor xml:id="mmoliere" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-                    >Maximilian de Molière
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                     </editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
                     Nadine Urbiczek
@@ -66,7 +56,7 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
+                </respStmt><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -85,140 +75,140 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
+            <change who="#mmoliere" when="2024-03-04T08:41:25.828Z">testing source references</change><change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listPerson>
-                <person>
-                    <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
+                <person xml:id="person-1">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
                         <name source="">Daniʾel al-Qūmisī</name>
                     </persName>
-                    <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
                         <name source=""/>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-3">
                         <name source="#gnd">Daniyel ben Mosheh, al-Ḳumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-4">
                         <name source="#gnd">Daniel ben Moses al-Qūmisī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-5">
                         <name source="#gnd">Daniel ben Moses Hakumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-6">
                         <name source="#gnd">Dānīʾēl Ben-Moše al-Qūmīsī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-7">
                         <name source="#gnd">Daniel b. Moses al-Kumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-8">
                         <name source="#gnd">Daniel al-Qūmisī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-9">
                         <name source="#gnd">Daniyel al-Ḳumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-10">
                         <name source="#gnd">Daniel al-Ḳumissi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-11">
                         <name source="#gnd">Daniel Al-Ḳumissi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-12">
                         <name source="#gnd">Daniel ben Mose el-Kumasi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-13">
                         <name source="#gnd">Daniel ben Moses Alkumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-14">
                         <name source="#gnd">Daniʾēl Ben-Moše al-Qūmisī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-15">
                         <name source="#gnd">Daniyyel Ben Moshe Al-Qumisi</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-16">
                         <name source="#gnd">Daniel ben Moses, al-Damagani</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-17">
                         <name source="#gnd">Daniel ben Moses</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-18">
                         <name source="#gnd">Daniel b. Moses</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-19">
                         <name source="#gnd">Al-Ḳumisi, Daniyel</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-20">
                         <name source="#gnd">Al-Qumisi, Daniel</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-21">
                         <name source="#gnd">Al-Qûmisî, Dānîʾēl</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-22">
                         <name source="#gnd">Ḳumisi, Daniyel ben Mosheh</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-23">
                         <name source="#gnd">Qumisi, Daniel ben Moses al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-24">
                         <name source="#gnd">Qûmisî, Dānîʾēl Ben-Mōše al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-25">
                         <name source="#gnd">Qumisi, Daniel al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-26">
                         <name source="#gnd">Qûmisî, Dānîʾēl al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-27">
                         <name source="#gnd">Qūmisī, Daniel al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-28">
                         <name source="#gnd">Ḳumisi, Daniyel</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-29">
                         <name source="#gnd">Ḳumisi, Daniel al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-30">
                         <name source="#gnd">Elkumsi, Daniel</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
+                    <persName type="alternate" xml:lang="he" xml:id="name-31">
                         <name source="#gnd">דניאל, קומסי</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
+                    <persName type="alternate" xml:lang="he" xml:id="name-32">
                         <name source="#gnd">דניאל, הקומסי</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
+                    <persName type="alternate" xml:lang="he" xml:id="name-33">
                         <name source="#gnd">דניאל הקומסי</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
+                    <persName type="alternate" xml:lang="he" xml:id="name-34">
                         <name source="#gnd">דניאל בן משה הקומסי</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
+                    <persName type="alternate" xml:lang="he" xml:id="name-35">
                         <name source="#gnd">הקומסי, דניאל בן משה</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
+                    <persName type="alternate" xml:lang="he" xml:id="name-36">
                         <name source="#gnd">הקומסי, דניאל</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
+                    <persName type="alternate" xml:lang="he" xml:id="name-37">
                         <name source="#gnd">-קומסי, דניאל בן משה ה </name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
+                    <persName type="alternate" xml:lang="he" xml:id="name-38">
                         <name source="#gnd">-קומסי, דניאל ה</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="ar">
+                    <persName type="alternate" xml:lang="ar" xml:id="name-39">
                         <name source="#gnd">Daniyel ben Mosheh al-Ḳumisi 870-910</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he-Latn">
+                    <persName type="alternate" xml:lang="he-Latn" xml:id="name-40">
                         <name source="">al-Dāmaġānī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he-Latn">
+                    <persName type="alternate" xml:lang="he-Latn" xml:id="name-41">
                         <name source="#viaf">Ḳūmissi, Daniel al-</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he-Latn">
+                    <persName type="alternate" xml:lang="he-Latn" xml:id="name-42">
                         <name source="#viaf">Qūmisī, Danīʾel ʾal-</name>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar">
+                    <persName type="canon" xml:lang="ar" xml:id="name-43">
                         <addName source="" xml:id="sh-ar" type="shuhra"/>
                         <addName source="" xml:id="is-ar" type="ism"/>
                         <addName source="" xml:id="na-ar" type="nasab"/>
@@ -226,7 +216,7 @@
                         <addName source="" xml:id="ku-ar" type="kunya"/>
                         <addName source="" xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar-Hebr">
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-44">
                         <addName source="" ref="#sh-ar" type="shuhra"/>
                         <addName source="" ref="#is-ar" type="ism"/>
                         <addName source="" ref="#na-ar" type="nasab"/>
@@ -234,8 +224,7 @@
                         <addName source="" ref="#ku-ar" type="kunya"/>
                         <addName source="" ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar-Latn"
-                        >
+                    <persName type="canon" xml:lang="ar-Latn" xml:id="name-45">
                         <addName source="" ref="#sh-ar" type="shuhra"/>
                         <addName source="" ref="#is-ar" type="ism"/>
                         <addName source="" ref="#na-ar" type="nasab"/>
@@ -243,14 +232,14 @@
                         <addName source="" ref="#ku-ar" type="kunya"/>
                         <addName source="" ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" xml:lang="he">
+                    <persName xml:lang="he" xml:id="name-46">
                         <forename source="" xml:id="fn-he"/>
                         <addName source="" xml:id="pa-he" type="patronym"/>
                         <addName source="" xml:id="ep-he" type="epithet"/>
                         <addName source="" xml:id="ac-he" type="acronym"/>
                         <addName source="" xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="he-Latn">
+                    <persName type="canon" xml:lang="he-Latn" xml:id="name-47">
                         <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
                         <addName source="" ref="#pa-he" type="patronym"/>
                         <addName source="" ref="#ep-he" type="epithet"/>
@@ -269,16 +258,16 @@
                         <date cert="" source=""/>
                         <placeName ref="" cert="" source="dnb">Jerusalem</placeName>
                     </floruit>
-                    <sex cert="" source=""/>
+                    <sex cert="high" source="jalit-orgbiblH2RX9HNC">Male</sex>
                     <faith cert="" source=""/>
                     <occupation type="" cert="" source=""/>
                     <residence>
                         <placeName ref="" cert="" source=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+                    <bibl xml:id="jalit-orgbiblH2RX9HNC">
+                        <idno>Daniel Ben Moses Al-Qūmisī,</idno>
+                        <title type="citation">Daniel Ben Moses Al-Qūmisī, in Encyclopaedia Judaica (Jerusalem: Keter, 1972 1971).</title>
+                        <ptr target="https://jalit.org/bibl/H2RX9HNC"/>
                     </bibl>
                     <idno type="URI" subtype="isni">https://isni.org/isni/0000000393588642</idno>
                     <idno type="URI" subtype="viaf">http://viaf.org/viaf/287929366</idno>
