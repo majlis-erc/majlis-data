@@ -1,4 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"><change who="#" when=""/>
+    <change who="#" when=""/>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,7 +28,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref="">admin</editor>
+                </respStmt>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref="">admin</editor>
             </titleStmt>
             <editionStmt>
                 <edition n="0.1-dev"/>
@@ -82,19 +84,20 @@
                 <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-1">כתאב אלתוריה</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-2">Kitāb al-Tawriya</title>
                 <title xml:lang="he" xml:id="title-3">ספר הראיון</title>
-                <title type="" xml:lang="en" xml:id="title-4">Book of Covert Ambiguity / Book of Concealment</title><author ref="https://jalit.org/person/11">
+                <title type="" xml:lang="en" xml:id="title-4">Book of Covert Ambiguity / Book of Concealment</title>
+                <author ref="https://jalit.org/person/11">
                     <persName ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</persName>
                 </author>
                 
                 <textLang mainLang="" otherLangs="" source=""/>
-                <incipit xml:lang="" source=""/>
-                <explicit xml:lang="" source=""/>
+                <incipit xml:lang="en" source="majlis-netbiblZBPDVTMI">This is a quote for testing our websites!</incipit>
+                <explicit xml:lang="he" source="majlis-netbiblZBPDVTMI">זוהי הצעת מחיר לבדיקת אתרי האינטרנט שלנו!</explicit>
                 <quote xml:lang="" type="" source=""/>
                 <date source=""/>
                 <note type="manuscript">
                     <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
+                        <title>MS Test City, Or. 1234</title>
+                        <citedRange unit="folio">33-66</citedRange>
                         <ptr target=""/>
                     </bibl>
                 </note>
@@ -105,11 +108,12 @@
                         <ptr target=""/>
                     </bibl>
                 </note>
-                <bibl xml:id="">
-                    <title/>
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+                <bibl xml:id="majlis-netbiblZBPDVTMI">
+                        <idno>Yeshua ben Yehuda,</idno>
+                        <title type="citation">Yeshua ben Yehuda, in Enciclopedia Judaica Castellana
+        (México: Editorial Enciclopedia Judaica Castellana, 1951 1948).</title>
+                        <ptr target="https://majlis.net/bibl/ZBPDVTMI"/>
+                    </bibl>
             </bibl>
         </body>
     </text>
