@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -35,19 +33,11 @@
                                             Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein"
-                    role="general"
-                    ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt"
-                    role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat"
-                    role="contributor"
-                    ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
-            <editor xml:id="dsklare"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
+            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
@@ -65,56 +55,39 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+            <editor role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                Ronny Vollandt
                
             </editor>
-            <editor xml:id="gschwarb"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                Gregor Schwarb
                
             </editor>
-            <editor xml:id="ngibson"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                Nathan P. Gibson
                
             </editor>
-            <editor xml:id="mmoliere"
-                    role="contributor creator"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                Maximilian de Molière
                
             </editor>
-            <editor xml:id="nurbiczek"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
                Nadine Urbiczek
                
             </editor>
-            <editor xml:id="ptarras"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
                Peter Tarras
                
             </editor>
-            <editor xml:id="afuchs"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
+            <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
                Annabelle Fuchs
                
             </editor>
-            <editor xml:id="lgzella"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
                Lea Gzella
                
             </editor>
-            <editor xml:id="plakteikina"
-                    role="contributor"
-                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
                Polina Lakteikina
                
             </editor>
@@ -122,31 +95,23 @@
                Maurizio Boehm
                
             </editor>
-            <editor xml:id="lporalla"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
                Lea Poralla
                
             </editor>
-            <editor xml:id="lfroschmeier"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
                Lukas Froschmeier
                
             </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -168,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#eporat" when="2020-05-14">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-04-13T10:53:32.366Z">Yevr.-Arab. I 1454 (1)</change><change who="#eporat" when="2020-05-14">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -176,7 +141,7 @@
    <text>
       <body>
          <listBibl>
-            <msDesc>
+            <msDesc xml:id="ms-85">
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
@@ -192,11 +157,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he">תוכן: פירוש ז:12-4 (דף 85); פירוש ח:8-טו:4 (דפים 3-1+ 49-48+ 6-4); פירוש טז:7-יט:12 (דפים 136+ 46+ 10-7+ 47+ 137+ 68); פירוש כ:10-כא:13 (דף 11); פירוש כב:16-כה:8 (דפים 15-12); פירוש כו:1-כז:4 (דף 16); פירוש כח:2-לב:4 (דפים 20-17 +104-103); פירוש לב:4-לו:3 (דפים 23-21+ 95); פירוש לו:12-מה:1 (דפים 82+ 52+ 115+ 113-112+ 116+ 53+ 81+ 135+ 105+ 96+ 26); פירוש מז:10-מט:13 (דפים 27 +97+ 36); פירוש נה:23-נח:4 (דפים 24+ 89+ 57); פירוש נח:11-ס:2 (דפים 34-33); פירוש ס:10-סב:2 (דפים 60+ 56); פירוש סב:8-סג:4 (דפים 79+ 37); פירוש סד:6-סח:16 (דפים 101-98+ 40+ 42+ 35); פירוש סח:26-21 (דף 54); פירוש סח:31-סט:23 (דפים 92+ 94+ 93); פירוש עא:17-2 (דף 55); פירוש עב:5-עו:2 (דפים 102+ 80+ 74-69+ 32); פירוש עז:8-פג:11 (דפים 87+ 111-106+ 88+ 86); פירוש פד:7-פז:5 (דפים 64-62); פירוש פט:3- 48 (דפים 67-65+ 29); פירוש צ:1- 11 (דפים 90+ 58); פירוש צא:2-צג:5 (דפים 78-77); פירוש צד:11-צט:9 (דפים 59+ 91+ 45+ 30+ 75); פירוש קא:3-קד:2 (דפים 38+ 44-43+ 39); פירוש קד:8- קה:4 (דפים 76+ 31); פירוש קה:28-קו:48 (דפים 117+ 50); פירוש קז:22-1 (דף 83); פירוש קט:10-קיג:9 (דפים 84+ 51+ 25+ 61+ 119); פירוש קטו:7-קיט:18 (דפים 118+ 124-120); פירוש קיט:28- 176 (דפים 134-125+ 138); פירוש קכא:4-קלג:1 (דפים 147-140+ 139); פירוש קלו:5-קלט:20 (דפים 152-151+ 149-148+ 154-153); פירוש קלט:24-קמא:5 (דפים 114+ 28); פירוש קמג:1-קמד:15 (דפים 150+ 155); פירוש קמז:5-קמח:4 (דף 156)     
-        מוזכר: אלמשנה (=המשנה; 4א); מרואן בן ג'נאח ר' אל' (רבי יונה אבן ג'נאח; 105א); אלתרג'ום (ארמית; 37א, 54א, 111א); קסטנטינה (בכה"י: קסנטינה; קוסטנטינופול; 60ב); ישמעאל (96א); אלבוֹגֵד (ישו; שם); טיטוס (152ב).  
-        זהוי: אופיו המעובד של הפירוש ניכּר בהקבלת נוסחו לנוסח הבא בכתב יד I: 3674. כתב היד הזה כולל חלק גדול מפירוש עלי בן סולימן לתהלים.  
-        </summary>
-                  <msItem xml:id="" class="">
+                  <summary xml:lang="he">תוכן: פירוש ז:12-4 (דף 85); פירוש ח:8-טו:4 (דפים 3-1+ 49-48+ 6-4); פירוש טז:7-יט:12 (דפים 136+ 46+ 10-7+ 47+ 137+ 68); פירוש כ:10-כא:13 (דף 11); פירוש כב:16-כה:8 (דפים 15-12); פירוש כו:1-כז:4 (דף 16); פירוש כח:2-לב:4 (דפים 20-17 +104-103); פירוש לב:4-לו:3 (דפים 23-21+ 95); פירוש לו:12-מה:1 (דפים 82+ 52+ 115+ 113-112+ 116+ 53+ 81+ 135+ 105+ 96+ 26); פירוש מז:10-מט:13 (דפים 27 +97+ 36); פירוש נה:23-נח:4 (דפים 24+ 89+ 57); פירוש נח:11-ס:2 (דפים 34-33); פירוש ס:10-סב:2 (דפים 60+ 56); פירוש סב:8-סג:4 (דפים 79+ 37); פירוש סד:6-סח:16 (דפים 101-98+ 40+ 42+ 35); פירוש סח:26-21 (דף 54); פירוש סח:31-סט:23 (דפים 92+ 94+ 93); פירוש עא:17-2 (דף 55); פירוש עב:5-עו:2 (דפים 102+ 80+ 74-69+ 32); פירוש עז:8-פג:11 (דפים 87+ 111-106+ 88+ 86); פירוש פד:7-פז:5 (דפים 64-62); פירוש פט:3- 48 (דפים 67-65+ 29); פירוש צ:1- 11 (דפים 90+ 58); פירוש צא:2-צג:5 (דפים 78-77); פירוש צד:11-צט:9 (דפים 59+ 91+ 45+ 30+ 75); פירוש קא:3-קד:2 (דפים 38+ 44-43+ 39); פירוש קד:8- קה:4 (דפים 76+ 31); פירוש קה:28-קו:48 (דפים 117+ 50); פירוש קז:22-1 (דף 83); פירוש קט:10-קיג:9 (דפים 84+ 51+ 25+ 61+ 119); פירוש קטו:7-קיט:18 (דפים 118+ 124-120); פירוש קיט:28- 176 (דפים 134-125+ 138); פירוש קכא:4-קלג:1 (דפים 147-140+ 139); פירוש קלו:5-קלט:20 (דפים 152-151+ 149-148+ 154-153); פירוש קלט:24-קמא:5 (דפים 114+ 28); פירוש קמג:1-קמד:15 (דפים 150+ 155); פירוש קמז:5-קמח:4 (דף 156).     
+מוזכר: אלמשנה (=המשנה; 4א); מרואן בן ג'נאח ר' אל' (רבי יונה אבן ג'נאח; 105א); אלתרג'ום (ארמית; 37א, 54א, 111א); קסטנטינה (בכה"י: קסנטינה; קוסטנטינופול; 60ב); ישמעאל (96א); אלבוֹגֵד (ישו; שם); טיטוס (152ב).
+סלמון (סלמון בן ירוחם; בגיליון הדפים 74ב, 101ב).
+זהוי: אופיו המעובד של הפירוש ניכּר בהקבלת נוסחו לנוסח הבא בכתב יד I: 3674. כתב היד הזה כולל חלק גדול מפירוש עלי בן סולימן לתהלים.</summary>
+                  <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">פרוש כתובים (תהלים)</title>
                      <author ref=""/>
@@ -209,12 +174,12 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="he">62א: "כִּי טוב יום" (תהלים פד:11) אן כוני יומא פי צחון ביתךּ כיר לי מן אלף יום פי סואהא וקד אכתרת אלאנקראץ' פי בית אללה ען טול אלמקאם ואלסכני פי כיאם אהל אלטלאח. ישתק "מִדוּר" (שם) מן אלסכני מן "ידורָן ציפרי שמיָא" (דניאל ד:9). ו"הסתופף" (תהלים פד:11) אנקראץ' מן "פֶן תִסָּפוּ" (במדבר טז:26). וקיל אלתסכף מן "סף הבית" (מל"א יד:17) יעני אלמקאם פי עתבה באב אלקדס.   96א-ב: "שפטני אלהים וריבה ריבי" (תהלים מג:1) אלפצל אלאול עלי ישמעאל והדא עלי אלבוֹגֵד (ישו) וקיל אדום. "שלח אורךָ" (שם שם:3) אֵלִיָהוּ אלדי ירשד ויניר לי אלסביל אלי אלחק. "ואמתךָ" (שם) וחקךּ אלמשיח אלדי ינצר דינךּ אלחק. וקיל "אורךָ" פרג' ישראל ואקבאלהם. "ואמתךָ" תחקיק ג'מיע מא ועדהם ובשרהם בה.   49א-ב: "למנצח על השמינית מזמור לדוד" (תהלים יב:1): הדא אלמזמור עלי זמאן ישמעאל. "הושיעה ה'" (שם שם:2) פרג' ענא יא רב מן אעדאינא פאנה לם יבק פיהם מתפצ'ל ולא מן יא מן יאמר במערוף ולא תקה וצאחב אמאנה. וקיל תפצ'ל עלינא יא רב באלפרג' ואן כנא לא נסתחקה (בכה"י: תסתחקה) אד קד פני אלאפאצ'ל ואלאכיאר מנא ואנעדם אלתקאת וקיל אצחאב אלאמאנאת ויכון "פַסּוּ" (שם) מקאם אָפְסוּ. וקיל אנקרצ'וא מקאם "סָפוּ תַמוּ"  (שם עג:19) מתל שׂלמה ושׂמלה וישתק מן "יחדו יָסוּפוּ נאם ה'" (ישעיהו סו:17). וקד קיל פי "כי גמר חסיד" (תהלים יב:2) אן תמם אלעדו אדיתה פי אלחסיד ויכון "גָמַר" מתעדיא מתל גומר, אומר, ומנה "לָאֵל גּוֹמֵר עָלָי" (שם נז:3).       93א: "מוזר" (תהלים סט:9) חתי אכותי פי אלמדהב ואלנסב (כלומר הרבנים) קד צרת ענדהם לתבאתי עלי נץ אלתורה מג'תנבא גריבא למא חצל ביננא מן אלכלאף.  134א: "צִמְּתַתְנִי" (שם קיט:139) ולקד קמעתני אלגירה לך יא רב ודלך אן אעדאי אלמכאלפין לי פי כתיר מן אלפראיץ' (כלומר הרבנים) קד נסוא אקאוילךּ אלמנצוצה וגפלוא ענהא..."צָעִיר" (שם שם:141) ואנא ענדהם חקיר ומזדרי לאג'ל תבאתי עלי נצוץ אלתורָה: ומעד לך פמא אנסי ולא אתרךּ שריעתךּ. 138א: "שׂרים רדפוני חנם ומדברך פחד לבי" (שם שם:161) קאל ואעדאי פהם רוסא ענד קומהם והם יכלבוני באטלא בלא דנב ואנא פלא אפזע אלא מנך יא רב ולא אקבל אלא מן נצוצך לא מן קולהם.   38ב: "כִי יעטף" (שם קב:1) יתצ'ור עטשא אלי אמרין א' עלם אלפראיץ' עלי חקיקתהא במג'י מורה צדק וארשאדה לנא אלי דלךּ ואלתאני טלב אלחג' אלי בית אללה עז וג'ל כק' "צמאה נפשי" וגומר (שם מב:3). 135ב: וקיל בל הדה אלאיאיל תעג' לאנהא תג'י פי זמאן אלציף אלי גדראן אלמא אלתי עאדתהא אן תכון מלא פי זמאן אלשתא פתג'דהא קד נצ'בת פתתלהף ותעג' עטשא. וכדלךּ ישראל ילתמסון אלעלום וביאן אלגואמץ' מן אלתורה אלממתל דלךּ באלמא כקו' "הוי כל צמא לכו למים" (ישעיהו נה:1) פלא יג'דון שיא מן דלךּ פיעג'ון אלי אללה עז וג'ל טאלבין מֹרֶה צֶדֶק (פירוש תהלים מב:2: "כאיל תערג על אפיקי מים כן נפשי תערג אליך אלהים").  4א: פסר "בַעֲלִיל" (תהלים יב:7) פי אלרובאס מן אלקרינה (=ההקשר).</note>
+                     <note xml:lang="ar-Hebr">62א: "כִּי טוב יום" (תהלים פד:11) אן כוני יומא פי צחון ביתךּ כיר לי מן אלף יום פי סואהא וקד אכׄתרת אלאנקראץׄ פי בית אללה ען טול אלמקאם ואלסכני פי כיאם אהל אלטלאח. ישתק "מִדוּר" (שם) מן אלסכני מן "ידורָן ציפרי שמיָא" (דניאל ד:9). ו"הסתופף" (תהלים פד:11) אנקראץׄ מן "פֶן תִסָּפוּ" (במדבר טז:26). וקיל אלתסכף מן "סף הבית" (מל"א יד:17) יעני אלמקאם פי עתבה̈ באב אלקדס.   96א-ב: "שפטני אלהים וריבה ריבי" (תהלים מג:1) אלפצל אלאול עלי ישמעאל והדׄא עלי אלבוֹגֵד (ישו) וקיל אדום. "שלח אורךָ" (שם שם:3) אֵלִיָהוּ אלדׄי ירשד ויניר לי אלסביל אלי אלחק. "ואמתךָ" (שם) וחקךּ אלמשיח אלדׄי ינצר דינךּ אלחק. וקיל "אורךָ" פרגׄ ישראל ואקבאלהם. "ואמתךָ" תחקיק גׄמיע מא ועדהם ובשרהם בה.   49א-ב: "למנצח על השמינית מזמור לדוד" (תהלים יב:1): הדׄא אלמזמור עלי זמאן ישמעאל. "הושיעה ה'" (שם שם:2) פרגׄ ענא יא רב מן אעדאינא פאנה לם יבק פיהם מתפצׄל ולא מן יא מן יאמר במערוף ולא תקה̈ וצאחב אמאנה̈. וקיל תפצׄל עלינא יא רב באלפרגׄ ואן כנא לא נסתחקה (בכה"י: תסתחקה) אדׄ קד פני אלאפאצׄל ואלאכׄיאר מנא ואנעדם אלתׄקאת וקיל אצחאב אלאמאנאת ויכון "פַסּוּ" (שם) מקאם אָפְסוּ. וקיל אנקרצׄוא מקאם "סָפוּ תַמוּ"  (שם עג:19) מתׄל שׂלמה ושׂמלה וישתק מן "יחדו יָסוּפוּ נאם ה'" (ישעיהו סו:17). וקד קיל פי "כי גמר חסיד" (תהלים יב:2) אן תמם אלעדו אדיתה פי אלחסיד ויכון "גָמַר" מתעדיא מתׄל גומר, אומר, ומנה "לָאֵל גּוֹמֵר עָלָי" (שם נז:3).       93א: "מוזר" (תהלים סט:9) חתי אכׄותי פי אלמדׄהב ואלנסב (כלומר הרבנים) קד צרת ענדהם לתבאתי עלי נץ אלתורה̈ מגׄתנבא גריבא למא חצל ביננא מן אלכׄלאף.  134א: "צִמְּתַתְנִי" (שם קיט:139) ולקד קמעתני אלגירה̈ לך יא רב ודׄלך אן אעדאי אלמכׄאלפין לי פי כתׄיר מן אלפראיץׄ (כלומר הרבנים) קד נסוא אקאוילךּ אלמנצוצה̈ וגׄפלוא ענהא..."צָעִיר" (שם שם:141) ואנא ענדהם חקיר ומזדרי לאגׄל תבאתי עלי נצוץ אלתורָה̈: ומעד לך פמא אנסי ולא אתרךּ שריעתךּ. 138א: "שׂרים רדפוני חנם ומדברך פחד לבי" (שם שם:161) קאל ואעדאי פהם רוסא ענד קומהם והם יכלבוני באטלא בלא דנב ואנא פלא אפזע אלא מנך יא רב ולא אקבל אלא מן נצוצך לא מן קולהם.   38ב: "כִי יעטף" (שם קב:1) יתצ'ור עטשא אלי אמרין א' עלם אלפראיץ' עלי חקיקתהא במג'י מורה צדק וארשאדה לנא אלי דלךּ ואלתאני טלב אלחג' אלי בית אללה עז וג'ל כק' "צמאה נפשי" וגומר (שם מב:3). 135ב: וקיל בל הדה אלאיאיל תעג' לאנהא תג'י פי זמאן אלציף אלי גדראן אלמא אלתי עאדתהא אן תכון מלא פי זמאן אלשתא פתג'דהא קד נצ'בת פתתלהף ותעג' עטשא. וכדלךּ ישראל ילתמסון אלעלום וביאן אלגואמץ' מן אלתורה אלממתל דלךּ באלמא כקו' "הוי כל צמא לכו למים" (ישעיהו נה:1) פלא יג'דון שיא מן דלךּ פיעג'ון אלי אללה עז וג'ל טאלבין מֹרֶה צֶדֶק (פירוש תהלים מב:2: "כאיל תערג על אפיקי מים כן נפשי תערג אליך אלהים").  4א: פסר "בַעֲלִיל" (תהלים יב:7) פי אלרובאס מן אלקרינה (=ההקשר).</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single
+                     <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
                      <listBibl>
                         <bibl>
@@ -256,7 +221,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="">
+                        <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -270,7 +235,7 @@
                   </objectDesc>
                   <handDesc hands="">
                      <summary xml:lang=""/>
-                     <handNote medium="">
+                     <handNote medium="" xml:id="hand-111">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
@@ -293,7 +258,7 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="">
+                        <item xml:id="add-1111">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
