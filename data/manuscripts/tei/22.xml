@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -35,19 +33,11 @@
                                             Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein"
-                    role="general"
-                    ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt"
-                    role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat"
-                    role="contributor"
-                    ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
-            <editor xml:id="dsklare"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
+            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
@@ -65,56 +55,39 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+            <editor role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                Ronny Vollandt
                
             </editor>
-            <editor xml:id="gschwarb"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                Gregor Schwarb
                
             </editor>
-            <editor xml:id="ngibson"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                Nathan P. Gibson
                
             </editor>
-            <editor xml:id="mmoliere"
-                    role="contributor creator"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                Maximilian de Molière
                
             </editor>
-            <editor xml:id="nurbiczek"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
                Nadine Urbiczek
                
             </editor>
-            <editor xml:id="ptarras"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
                Peter Tarras
                
             </editor>
-            <editor xml:id="afuchs"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
+            <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
                Annabelle Fuchs
                
             </editor>
-            <editor xml:id="lgzella"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
                Lea Gzella
                
             </editor>
-            <editor xml:id="plakteikina"
-                    role="contributor"
-                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
                Polina Lakteikina
                
             </editor>
@@ -122,31 +95,23 @@
                Maurizio Boehm
                
             </editor>
-            <editor xml:id="lporalla"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
                Lea Poralla
                
             </editor>
-            <editor xml:id="lfroschmeier"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
                Lukas Froschmeier
                
             </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -168,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#eporat" when="2020-05-10">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-04-13T10:35:17.047Z">Yevr.-Arab. I 1453</change><change who="#eporat" when="2020-05-10">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -176,7 +141,7 @@
    <text>
       <body>
          <listBibl>
-            <msDesc>
+            <msDesc xml:id="ms-22">
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
@@ -192,11 +157,10 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he">תוכן: פירוש יד:7-יח:30 (דפים 10-1); פירוש כב:8-לה:15 (דפים 32-11); פירוש לה:25-מ:3 (דפים 41-33); פירוש עב:16-עח:34 (דפים 70-42); פירוש עח:46-פ:11 (דפים 78-71); פירוש פ:16-פב:6 (דפים 80-79+ 83-82); פירוש פג:10-פד:7 (דפים 85-84+ 81); פירוש פה:5-פח:5 (דפים 91-86) 
-        מוזכר: אלאואיל (=ראשונים, כלומר חז"ל; 1ב, 26ב, 38ב, 48א, 52ב, 65א ); אלערב (=הערבים; 1ב, 19א, 35ב, 42א); אלמפסר (=הפרשן, רבי סעדיה גאון; 1ב, 10ב, 35א, 36ב, 39א, 40ב, 44א, 45א, 57א, 59א, 60א, 61ב, 62א, 75ב, 81ב, 85א, 86א); אלסריאני (=ארמית; 8ב, 38ב, 59א, 74ב); אלערבי (=ערבית; 9א, 22ב, 26ב, 45א, 88א); אללגה אלעבראניה (=עברית; 14ב); אבו אלוליד (רבי יונה אבן ג'נאח; 37א, 62א, 75ב); אלתרגום (תרגום אונקלוס; 41ב); אלעבראניין (=העברים; 42ב, 75ב); אלמשנה (=המשנה; 44ב); ר' משה בן גקטלה (רבי משה אבן ג'יקטילה; 53ב, 64א, 74א, 79ב); אלחכמים (חז"ל; 67ב); אלדרש (מדרש; 71א).     
-        זהוי: אבן בלעם גזר את הפועל "ינוֹן" (תהלים עב:17) מהשם "נין ונכד" (ישעיהו יד:22) (דף 42א). כך עשה גם בספרו "כתאב אלאפעאל אלמשתקה מן אלאסמא", מהד' שרגא אברמסון, עמ' 171. על המילה "נינם" (תהלים עד:8) כתב אבן בלעם: "ויגוז כונה פעל מקתצ'ב מן אסם..." (דפים 51ב-52א). הצירוף "פעל מקתצ'ב" בא גם ב"כתאב אלאפעאל אלמשתקה מן אלאסמא", עמ' 163: "'כי יחסלנו הארבה' (דברים כח:38) הו פעל מקתצ'ב מן חסיל". ראו גם המובאה להלן.
-        </summary>
-                  <msItem xml:id="" class="">
+                  <summary xml:lang="he">תוכן: פירוש יד:7-יח:30 (דפים 10-1); פירוש כב:8-לה:15 (דפים 32-11); פירוש לה:25-מ:3 (דפים 41-33); פירוש עב:16-עח:34 (דפים 70-42); פירוש עח:46-פ:11 (דפים 78-71); פירוש פ:16-פב:6 (דפים 80-79+ 83-82); פירוש פג:10-פד:7 (דפים 85-84+ 81); פירוש פה:5-פח:5 (דפים 91-86).
+מוזכר: אלאואיל (=ראשונים, כלומר חז"ל; 1ב, 26ב, 38ב, 48א, 52ב, 65א ); אלערב (=הערבים; 1ב, 19א, 35ב, 42א); אלמפסר (=הפרשן, רבי סעדיה גאון; 1ב, 10ב, 35א, 36ב, 39א, 40ב, 44א, 45א, 57א, 59א, 60א, 61ב, 62א, 75ב, 81ב, 85א, 86א); אלסריאני (=ארמית; 8ב, 38ב, 59א, 74ב); אלערבי (=ערבית; 9א, 22ב, 26ב, 45א, 88א); אללגה אלעבראניה (=עברית; 14ב); אבו אלוליד (רבי יונה אבן ג'נאח; 37א, 62א, 75ב); אלתרגום (תרגום אונקלוס; 41ב); אלעבראניין (=העברים; 42ב, 75ב); אלמשנה (=המשנה; 44ב); ר' משה בן גקטלה (רבי משה אבן ג'יקטילה; 53ב, 64א, 74א, 79ב); אלחכמים (חז"ל; 67ב); אלדרש (מדרש; 71א).     
+זהוי: אבן בלעם גזר את הפועל "ינוֹן" (תהלים עב:17) מהשם "נין ונכד" (ישעיהו יד:22) (דף 42א). כך עשה גם בספרו "כתאב אלאפעאל אלמשתקה מן אלאסמא", מהד' שרגא אברמסון, עמ' 171. על המילה "נינם" (תהלים עד:8) כתב אבן בלעם: "ויגוז כונה פעל מקתצ'ב מן אסם..." (דפים 51ב-52א). הצירוף "פעל מקתצ'ב" בא גם ב"כתאב אלאפעאל אלמשתקה מן אלאסמא", עמ' 163: "'כי יחסלנו הארבה' (דברים כח:38) הו פעל מקתצ'ב מן חסיל". ראו גם המובאה להלן.</summary>
+                  <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">פרוש כתובים (תהלים)</title>
                      <author ref="">Yehūda ben Šmūʾel b. Balʿam</author>
@@ -209,12 +173,12 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="he">40ב: ואלמפסר שרח "אך בצלם" (תהלים לט:7) כיאל. קאל: ומא אלמר אלא כאלכיאל אלדי יסיר ומא יהימון אלא פי הבא. וגעל "יהמיון" (שם) מן אלהימאן. ואלאקרב אנה יריד בה גמע אלמאל אלכתיר לאנא ראינאהם יסמו אלמאל המון כק' "טוב מעט לצדיק מהמון רשעים רבים" (שם לז:16) פיכון "יהמיון" פעל מקתצ'ב מנה ולהדא אתבעה בקולה "יצבור ולא ידע מי אֹספם" (שם לט:7).   28א: "למיחלים לחסדו" (תהלים לג:18) אללאם מקאם הא אלתעריף כאנה קאל המיחלים לחסדו מתל "אשר למלך נשען על ידו" (מל"ב ז:2) אלא אן יכון אלתקדיר ולמיחלים לחסדו.</note>
+                     <note xml:lang="ar-Hebr">40ב: ואלמפסר שרח "אך בצלם" (תהלים לט:7) כיאל. קאל: ומא אלמר אלא כאלכיאל אלדׄי יסיר ומא יהימון אלא פי הבא. וגׄעל "יהמיון" (שם) מן אלהימאן. ואלאקרב אנה יריד בה גׄמע אלמאל אלכתׄיר לאנא ראינאהם יסמו אלמאל המון כק' "טוב מעט לצדיק מהמון רשעים רבים" (שם לז:16) פיכון "יהמיון" פעל מקתצׄב מנה ולהדׄא אתבעה בקולה "יצבור ולא ידע מי אֹספם" (שם לט:7).   28א: "למיחלים לחסדו" (תהלים לג:18) אללאם מקאם הא אלתעריף כאנה קאל המיחלים לחסדו מתׄל "אשר למלך נשען על ידו" (מל"ב ז:2) אלא אן יכון אלתקדיר ולמיחלים לחסדו.</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single
+                     <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
                      <listBibl>
                         <bibl>
@@ -228,7 +192,7 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note xml:lang="he">19-13 שורות. חלק מהתוכן חסר בשל קרעים, חלקו דהה וחלקו מוכתם. השלמות ומחיקות של הסופר.  כותרות המזמורים כתובות בכתיבה מזרחית מרובעת. גם הכותרת "אלמג'לّה אלתאלתה" (דף 42ב) כתובה בכתיבה מזרחית מרובעת. ניקוד ערבי ספורדי. ניקוד טברני של חלק מהמילים הנידונות ושל מילים מקראיות אחרות. ניקוד טברני של צורות דקדוקיות. בדפים הבאים יש מספרי קונטרסים: 23א: ז'; 51א: ט"ו; 61א: ט"ז; 79א: י"ח. אבן בלעם דן דיון לשוני במבחר מילים מפסוקי המזמורים. הוא שילב בפירושו מאמרים של חז"ל, והשווה לארמית וערבית. הביא מדברי קודמיו: רבי סעדיה גאון, רבי יונה אבן ג'נאח ורבי משה אבן ג'יקטילה.   </note>
+                           <note xml:lang="he">19-13 שורות. חלק מהתוכן חסר בשל קרעים, חלקו דהה וחלקו מוכתם. השלמות ומחיקות של הסופר.  כותרות המזמורים כתובות בכתיבה מזרחית מרובעת. גם הכותרת "אלמג'לّה אלתאלתה" (דף 42ב) כתובה בכתיבה מזרחית מרובעת. ניקוד ערבי ספורדי. ניקוד טברני של חלק מהמילים הנידונות ושל מילים מקראיות אחרות. ניקוד טברני של צורות דקדוקיות. בדפים הבאים יש מספרי קונטרסים: 23א: ז'; 51א: ט"ו; 61א: ט"ז; 79א: י"ח. אבן בלעם דן דיון לשוני במבחר מילים מפסוקי המזמורים. הוא שילב בפירושו מאמרים של חז"ל, והשווה לארמית וערבית. הביא מדברי קודמיו: רבי סעדיה גאון, רבי יונה אבן ג'נאח ורבי משה אבן ג'יקטילה.</note>
                         </support>
                         <extent>
                            <measure unit="folio">91</measure>
@@ -254,7 +218,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="">
+                        <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -268,7 +232,7 @@
                   </objectDesc>
                   <handDesc hands="">
                      <summary xml:lang=""/>
-                     <handNote medium="">
+                     <handNote medium="" xml:id="hand-111">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
@@ -291,7 +255,7 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="">
+                        <item xml:id="add-1111">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
