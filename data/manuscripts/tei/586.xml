@@ -46,7 +46,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2024-04-17T03:47:08.733Z">Record number</change><change who="#gschwarb" when="2024-04-16T17:12:21.786Z">Main metadata</change>
+            <change who="#gschwarb" when="2024-04-17T03:47:08.733Z">Reproductions, codicological definition, content description, writing material</change><change who="#gschwarb" when="2024-04-16T17:12:21.786Z">Main metadata</change>
             <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
@@ -60,45 +60,41 @@
                         <repository>National Library of Russia</repository>
                         <collection>Arab.-Yevr.</collection>
                         <idno>13</idno>
-                        <altIdentifier type="SfarData">
-                            <idno/>
+                        <altIdentifier type="IMHM">
+                            <idno>F 63556</idno>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno/>
+                            <idno>990001518000205171</idno>
                         </altIdentifier>
-                        <altIdentifier type="FGP">
-                            <idno/>
-                        </altIdentifier>
-                        <altIdentifier type="old">
-                            <idno/>
-                        </altIdentifier>
+                        
+                        
                         <msName/>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11">
-                            <locus from="" to=""/>
-                            <title xml:lang="" ref="" cert=""/>
-                            <author ref="" cert=""/>
-                            <textLang mainLang="" otherLangs=""/>
+                        <summary xml:lang="en">Fragment of the commentary on Leviticus by David ben Boʿaz</summary>
+                        <msItem class="bibleCommentary" xml:id="item-11">
+                            <locus from="1" to="256"/>
+                            <title xml:lang="ar" ref="" cert="high"/>
+                            <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
+                            <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="1r" to="1r"/>
+                                <quote xml:lang="ar">والقص مختلفي الحكم واما القص فانه</quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang=""/>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="en">fol. 256 ends with commentary on Lev 19:14. Torn sheet.</note>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="" style="codex">Single manuscript</objectType>
+                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl>
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
+                                    <idno type="manuscript-join">Yevr.-Arab. I 3260</idno>
+                                    <citedRange unit="folios">172</citedRange>
                                     <ptr target=""/>
                                 </bibl>
                             </listBibl>
@@ -106,26 +102,26 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material/>
+                                    <material>Paper</material>
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio"/>
+                                    <measure unit="folio">256</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style="foliation" rendition="modern"/>
                                 <collation>
-                                    <formula/>
+                                    <formula>5</formula>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">Quire numbers in Arabic words: ثامنة عشر (9r), تاسعة عشر (20r), رابعة عشر (23r), حادية عشر (95r), ثانية عشر (105r), ثالثة (135r), سابعة (175r)</note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab type="writing" rend=""/>
+                                    <note xml:lang="en">Partly damaged, torn, and worm-eaten</note>
+                                    <ab type="writing" rend="visible"/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -237,10 +233,14 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    <title/>
-                                    <publisher/>
-                                    <ptr target=""/>
-                                </bibl>
+                                    <title>Digital image online</title>
+                                    <publisher>National Library of Israel</publisher>
+                                    <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001518000205171"/>
+                                </bibl><bibl>
+      <title>Microfilm</title>
+      <publisher>National Library of Israel</publisher>
+      <ptr target="F 63556"/>
+   </bibl>
                             </listBibl>
                         </surrogates>
                         <listBibl>
