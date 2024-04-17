@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -35,19 +33,11 @@
                                             Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein"
-                    role="general"
-                    ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt"
-                    role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat"
-                    role="contributor"
-                    ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
-            <editor xml:id="dsklare"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
+            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
@@ -65,56 +55,39 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+            <editor role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                Ronny Vollandt
                
             </editor>
-            <editor xml:id="gschwarb"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                Gregor Schwarb
                
             </editor>
-            <editor xml:id="ngibson"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                Nathan P. Gibson
                
             </editor>
-            <editor xml:id="mmoliere"
-                    role="contributor creator"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                Maximilian de Molière
                
             </editor>
-            <editor xml:id="nurbiczek"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
                Nadine Urbiczek
                
             </editor>
-            <editor xml:id="ptarras"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
                Peter Tarras
                
             </editor>
-            <editor xml:id="afuchs"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
+            <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
                Annabelle Fuchs
                
             </editor>
-            <editor xml:id="lgzella"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
                Lea Gzella
                
             </editor>
-            <editor xml:id="plakteikina"
-                    role="contributor"
-                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
                Polina Lakteikina
                
             </editor>
@@ -122,31 +95,23 @@
                Maurizio Boehm
                
             </editor>
-            <editor xml:id="lporalla"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
                Lea Poralla
                
             </editor>
-            <editor xml:id="lfroschmeier"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
                Lukas Froschmeier
                
             </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -168,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#eporat" when="2022-04-04">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-04-17T09:42:35.895Z">Yevr.-Arab. I 3229</change><change who="#eporat" when="2022-04-04">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -176,7 +141,7 @@
    <text>
       <body>
          <listBibl>
-            <msDesc>
+            <msDesc xml:id="ms-3">
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
@@ -193,10 +158,9 @@
                </msIdentifier>
                <msContents>
                   <summary xml:lang="he"> תוכן: פירוש א:4-1 (דפים 4-1); פירוש א:11-9 (דפים 15+ 5); פירוש א: 11 (דפים 11-8); פירוש א:14-12 (דפים 6+ 13); פירוש א:14 (דפים 12+ 14+ 7); פירוש א:17-15 (דף 16); פירוש א:21-ב:19 (דפים 26-17); פירוש ג:11-6 (דפים 28-27); פירוש ג:22-ד:9 (דפים 30-29); פירוש ה:24-1 (דף 37); פירוש ו:20-16 (דף 31); פירוש ז:22-ט:3 (דפים 32+ 36+ 34-33+ 35+ 34a); פירוש ט:15- 20 (דף 38); פירוש ט:24-י:2 (דף 39); פירוש י:19-יא:3 (דפים 41-40); פירוש יא:10-7 (דף 42); פירוש יב:13-יג:7 (דף 43); פירוש יד:17-9 (דף 44); פירוש טו:16-13 (דף 45); פירוש טז:13-8 (דף 47); פירוש יז:20-יח:1 (דף 46); פירוש יח:12-יט:2 (דפים 54-48); פירוש יט:15-11 (דף 55); פירוש כג:2-כד:1 (דפים 58-56); פירוש יט:27-כב:12 (דפים 68-59+ 74+ 72-69); פירוש כד:14-3 (דפים 76-75); פירוש כה:16-7 (דף 77); פירוש כה:31 (דף 73); פירוש כו:33-כז:45 (דפים 82-78).
-        מוזכר: לגה אלערב (=לשון הערבים, ערבית; 2א, 41א-ב); אלערבי (=ערבית; 2ב, 4ב, 16א, 32ב, 63א); אלערביה (=ערבית; 42א); אלעבראני (=עברית; 2א, 23ב, 72א); אלכתאב (=המקרא; 5ב, 41א, 43ב); אבואב אלרחמה (=שער הרחמים; 44ב); אלקדס (ירושלים; 44ב); אלעראק (בבל; 44א); אלשאם (ארץ ישראל; 44א, 45ב, 51ב, 52א); אלתוחיד (=הייחוד, מונותאיזם; 44ב); אלדניא (=העולם הזה; 45ב, 57א); ארץ ישראל (40א, 69ב); אלכתאב אלמשתמל עלי אללגה (=הספר הכולל את הלשון העברית; ספר הדקדוק של אבו אלפרג' הרון; 32א); אלמשורר (=המשורר, דוד המלך; 15ב, 34aא); אלהנד (=הודו; 56ב); חראן (חרן; 51ב, 62א); בית שני (82ב); אלתרג'ום (=התרגום, ארמית; 68ב); הר המוריה (69א, 71א); אהל אללגה (=אנשי הלשון, דובריה); בלאד אלערב (=ארצות ערב; 42א); אבו יוסף אלקרקסאני ( בשוליים התחתונים של 23ב; השגה של סופר שני על הבא בַפנים).
-        זהוי: חלק מהתוכן מקביל לכתב יד I: 1754. כתב היד הזה כולל חלקים מקיצור אבו אלפרג' הרון לפירוש יוסף אבן נוח לחומשים בראשית-שמות. דוגמה: "'ויהי כל הארץ' (בראשית יא:1) קו' 'שפה אחת' (שם) יעני לגה וא[חדה] כאן לג'מיע אלנאס דלך אלוקת אמא עבראניה או אעג'מיה או גירהמא. [ו]קו' 'ודברים אחדים' (שם) בעד קו' 'שפה אחת' יעני מע כון לגתהם ואחדה כאן איצ'א כלאמהם ואח[ד] אי מ[ת]פק גיר מכתלף אד קד יכון לגה קום ואח[ד]ה וכלאמהם בהא מכתלפא כלגה אלערב מתלא אלתי לא יואפק כלאם כל בטן מנהם אלבטן אלאכר אמא לאתפאק אחד אלבטנין עלי אלפאט' מכצוצה מן אללגה לם יתפק עליהא אלבטן אלאכר או לטריקה להם פי אלכטאב מן אטאלה ואיג'אז פי נפס אללפט' לא פי אלמעני ויקאל פי אלכל מתכלם בלגה אלערב פכדלך כאנת חאל דור הפלגה קבל אן יבדד[ה]ם עז וג'ל" (דף 41). תוכן זה זהה לבא בכתב יד I: 1754, עמודים 240ב-241א.
-        </summary>
-                  <msItem xml:id="" class="">
+מוזכר: לגה אלערב (=לשון הערבים, ערבית; 2א, 41א-ב); אלערבי (=ערבית; 2ב, 4ב, 16א, 32ב, 63א); אלערביה (=ערבית; 42א); אלעבראני (=עברית; 2א, 23ב, 72א); אלכתאב (=המקרא; 5ב, 41א, 43ב); אבואב אלרחמה (=שער הרחמים; 44ב); אלקדס (ירושלים; 44ב); אלעראק (בבל; 44א); אלשאם (ארץ ישראל; 44א, 45ב, 51ב, 52א); אלתוחיד (=הייחוד, מונותאיזם; 44ב); אלדניא (=העולם הזה; 45ב, 57א); ארץ ישראל (40א, 69ב); אלכתאב אלמשתמל עלי אללגה (=הספר הכולל את הלשון העברית; ספר הדקדוק של אבו אלפרג' הרון; 32א); אלמשורר (=המשורר, דוד המלך; 15ב, 34aא); אלהנד (=הודו; 56ב); חראן (חרן; 51ב, 62א); בית שני (82ב); אלתרג'ום (=התרגום, ארמית; 68ב); הר המוריה (69א, 71א); אהל אללגה (=אנשי הלשון, דובריה); בלאד אלערב (=ארצות ערב; 42א); אבו יוסף אלקרקסאני ( בשוליים התחתונים של 23ב; השגה של סופר שני על הבא בַפנים).
+זהוי: חלק מהתוכן מקביל לכתב יד I: 1754. כתב היד הזה כולל חלקים מקיצור אבו אלפרג' הרון לפירוש יוסף אבן נוח לחומשים בראשית-שמות. דוגמה: "'ויהי כל הארץ' (בראשית יא:1) קו' 'שפה אחת' (שם) יעני לגה וא[חדה] כאן לג'מיע אלנאס דלך אלוקת אמא עבראניה או אעג'מיה או גירהמא. [ו]קו' 'ודברים אחדים' (שם) בעד קו' 'שפה אחת' יעני מע כון לגתהם ואחדה כאן איצ'א כלאמהם ואח[ד] אי מ[ת]פק גיר מכתלף אד קד יכון לגה קום ואח[ד]ה וכלאמהם בהא מכתלפא כלגה אלערב מתלא אלתי לא יואפק כלאם כל בטן מנהם אלבטן אלאכר אמא לאתפאק אחד אלבטנין עלי אלפאט' מכצוצה מן אללגה לם יתפק עליהא אלבטן אלאכר או לטריקה להם פי אלכטאב מן אטאלה ואיג'אז פי נפס אללפט' לא פי אלמעני ויקאל פי אלכל מתכלם בלגה אלערב פכדלך כאנת חאל דור הפלגה קבל אן יבדד[ה]ם עז וג'ל" (דף 41). תוכן זה זהה לבא בכתב יד I: 1754, עמודים 240ב-241א.</summary>
+                  <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">תלכ̇יץ תפסיר אבן נוח</title>
                      <author ref="">Aharon ben Yešuʿa</author>
@@ -209,12 +173,12 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="he">32: ולא ימתנע אן יכון דלך ("וַיִּמַח את כל היקום...וַיִּמָּחוּ מן הארץ" [בראשית ז:23]) מן באב מטאועה אלמפעול לפאעלה מתל "יסרתני ואוסר" (ירמיהו לא:17) ואשבאהה כמא מצ'י שרחה פי באבה פי אלג'זו אלסאדס מן אלכתאב אלמשתמל עלי אללגה יעני מחאהם פאמתחו כמא קאל פי אלערבי דפעהם פאנדפעו ומא ג'רי מג'ראה.   67ב-68א: וקו' "הרחק כמטחוי קשת" (בראשית כא:16) תקדירה כמטחוה המטרה לפני הקשת ומענאה כבעד אלברג'אס ען אלראמי ען אלקוס והו לפט' ג'מע ואלואו מן אצלה ואמרה טַחֵו בוזן נַחֵם יג'י אסם אלפאעל מנה מְטַחֵו מתל "מנחם" (איכה א:2) ואלג'מע אלגיר מצ'אף מְטַחַוֵים מתל "מאין אבקש מנחמים" (נחום ג:7) וענד אלאצ'אפה ג'א "כִמְטַחַוֵי קשת" מתל "מְנַחַמֵי עמל" (איוב טז:2) פחצלת לגה אלתטיין עלי צ'רבין אחדהמא אלואו מן אצלה מתל הדא אלמוצ'ע ואלאכר בגיר ואו מתל "וטח את הבית" (ויקרא יד:42), "ואחרי הטוח" (ויקרא יד:43), "טחי תפל" (יחזקאל יג:11), "טחו להם תפל" (יחזקאל כב:28) ואשבאה דלך ודלך מתל לגה אלסלו אלתי בעצ'הא בגיר ואו אצלא מתל "שלו כל בגדי בגד" (ירמיהו יב:1), "ישליו אהלים" (איוב יב:6), "ישליו אהביך" (תהלים קכב:6) ובעצ'הא בואו אצלי נחו "שָׁלו בָה" (יחזקאל כג:42), "לא שלותי" (איוב ג:26), "שלוה בארמנותיך" (תהלים קכב:7) ואמתאל דלך כתיר.  </note>
+                     <note xml:lang="ar-Hebr">32: ולא ימתנע אן יכון דׄלך ("וַיִּמַח את כל היקום...וַיִּמָּחוּ מן הארץ" [בראשית ז:23]) מן באב מטאועה̈ אלמפעול לפאעלה מתׄל "יסרתני ואוסר" (ירמיהו לא:17) ואשבאהה כמא מצׄי שרחה פי באבה פי אלגׄזו אלסאדס מן אלכתאב אלמשתמל עלי אללגה̈ יעני מחאהם פאמתחו כמא קאל פי אלערבי דפעהם פאנדפעו ומא גׄרי מגׄראה̈.   67ב-68א: וקו' "הרחק כמטחוי קשת" (בראשית כא:16) תקדירה̈ כמטחוה המטרה לפני הקשת ומענאה̈ כבעד אלברגׄאס ען אלראמי ען אלקוס והו לפטׄ גׄמע ואלואו מן אצלה ואמרה טַחֵו בוזן נַחֵם יגׄי אסם אלפאעל מנה מְטַחֵו מתׄל "מנחם" (איכה א:2) ואלגׄמע אלגיר מצׄאף מְטַחַוֵים מתׄל "מאין אבקש מנחמים" (נחום ג:7) וענד אלאצׄאפה̈ גׄא "כִמְטַחַוֵי קשת" מתׄל "מְנַחַמֵי עמל" (איוב טז:2) פחצלת לגה̈ אלתטיין עלי צׄרבין אחדהמא אלואו מן אצלה מתׄל הדׄא אלמוצׄע ואלאכׄר בגיר ואו מתׄל "וטח את הבית" (ויקרא יד:42), "ואחרי הטוח" (ויקרא יד:43), "טחי תפל" (יחזקאל יג:11), "טחו להם תפל" (יחזקאל כב:28) ואשבאה דׄלך ודׄלך מתׄל לגה̈ אלסלו אלתי בעצׄהא בגיר ואו אצלא מתׄל "שלו כל בגדי בגד" (ירמיהו יב:1), "ישליו אהלים" (איוב יב:6), "ישליו אהביך" (תהלים קכב:6) ובעצׄהא בואו אצלי נחו "שָׁלו בָה" (יחזקאל כג:42), "לא שלותי" (איוב ג:26), "שלוה בארמנותיך" (תהלים קכב:7) ואמתׄאל דׄלך כתׄיר.  </note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single
+                     <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
                      <listBibl>
                         <bibl>
@@ -228,9 +192,7 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note xml:lang="he">23-19 שורות. בדפים 34a, 38 מספר השורות אינו מלא בשל קרעים. חלק מהתוכן חסר בשל קרעים, חלקו מוכתם וחלקו דהה. בחלק מהדפים יש קפלים, כגון דפים 12, 55, 73, 78-75. בשל כך חסר לעיתים תוכן. השלמות ומחיקות של הסופר. בגיליון הימני של עמוד 19ב באה השלמה של סופר שני. הסופר הזה תיקן בגיליון הימני של עמוד 20ב מילה בַפנים. מילוי גרפי של שורות. בדפים 26, 66 יש שומרי דפים. ב46ב באה הכותרת: "וירא אליו ייי באלוני" (בראשית יח:1). היא כתובה בכתיבה מזרחית מרובעת. ניקוד דיאקריטי: ג'י"ם מסומנת לעיתים בנקודה עילית. כ'א"א מסומנת בקו עילי קצר (78ב). גי"ן מסומנת בקו עילי קצר (30ב). ניקוד ערבי ספורדי. ניקוד טברני של מילים מהפסוקים המפורשים, של מובאות מקראיות ומילים אחרות. בגדכפת רפות מסומנות לעיתים בקו עילי קצר (19ב; 27א; 45א; 63א). ניקוד טברני של מילים ערביות. בעמודים 20ב, 22ב ובדף 23 העיר הסופר השני בגיליון על הבא בַפנים. עמוד 20ב, שוליים תחתונים: "אקול הדא עלי מדהבנא אנמא הו פי צבא הארץ אעני אלשהואת, וכאן יג'ב עלי אלשיך רצ'י אללה ענה אן יכצץ פי הדא אלמכאן ליסלם כלאמה מן אעתראץ' אלמשגבין"; (הדברים מוסבים על פירוש בראשית ב:1). עמוד 22ב, גיליון ימני: "אקול אן הדא אלקול ליס מסתחסן מן אלשיך ר'א'ע' לאן פצ'ילתה אכבר בדלך ולסנא מעתרצ'ין עליה בל דאכרון מא תעלמנאה מן טריקתה פאקול אן אחסן אלאקואל פיה אנה אעלאמא לנא בתסאויהמא ענד אלבארי ג'ל תנאוה פי חאל כלקתהמא אי אנה כלקהמא ג'מיעא בלא מאדה ומן לא מאדה בל באלקול"; (הדברים מוסבים על פירוש בראשית ב:4). עמוד 23א, גיליון שמאלי: "אכתאר בעץ' פצ'לא אלמפסרין אן יכון הדא מן באב מושך עצמו ומושך אחרים פיכון תקדירה ענדה ולא אד לאנה מעטוף עלי 'כי לא המטיר' (בראשית ב:5)"; (הדברים מוסבים על פירוש בראשית ב:6). עמוד 23ב, שוליים תחתונים: "אקול כאלף אלשיך ההנא מדהב אלשיך אלאמאם אלפאצ'ל אבו יוסף אלקרקסאני פי אמר אלנשמה ואלרוח ואלנפש לאן אלשיך אבו יוסף ר'א'ע' מדהבה אג'רי עלי קאנון אלחכמה מן הדא אלקול אד הדא אמיל אלי מדהב אלאטבא מנה אלי מדהב אלחכמא ע   אלמת..ע.."; (הדברים מוסבים על פירוש בראשית ב:7). אבן נוח ציטט את ראשי הפסוקים, אחר כך פירש את תוכנם המלא. לרוב לא תרגם את הפסוקים. בסיום עמוד 11ב בא תרגום בראשית א:12; בעמוד 13ב בא תרגום בראשית א:15-14. הציג לעיתים שאלות ("מסלה") והשיב עליהן (29א; 46ב; 65ב; 66ב). שילב בפירושו ענייני לשון. הביא פירושים אנונימיים.
-                
-         </note>
+                           <note xml:lang="he">23-19 שורות. בדפים 34a, 38 מספר השורות אינו מלא בשל קרעים. חלק מהתוכן חסר בשל קרעים, חלקו מוכתם וחלקו דהה. בחלק מהדפים יש קפלים, כגון דפים 12, 55, 73, 78-75. בשל כך חסר לעיתים תוכן. השלמות ומחיקות של הסופר. בגיליון הימני של עמוד 19ב באה השלמה של סופר שני. הסופר הזה תיקן בגיליון הימני של עמוד 20ב מילה בַפנים. מילוי גרפי של שורות. בדפים 26, 66 יש שומרי דפים. ב46ב באה הכותרת: "וירא אליו ייי באלוני" (בראשית יח:1). היא כתובה בכתיבה מזרחית מרובעת. ניקוד דיאקריטי: ג'י"ם מסומנת לעיתים בנקודה עילית. כ'א"א מסומנת בקו עילי קצר (78ב). גי"ן מסומנת בקו עילי קצר (30ב). ניקוד ערבי ספורדי. ניקוד טברני של מילים מהפסוקים המפורשים, של מובאות מקראיות ומילים אחרות. בגדכפת רפות מסומנות לעיתים בקו עילי קצר (19ב; 27א; 45א; 63א). ניקוד טברני של מילים ערביות. בעמודים 20ב, 22ב ובדף 23 העיר הסופר השני בגיליון על הבא בַפנים. עמוד 20ב, שוליים תחתונים: "אקול הדא עלי מדהבנא אנמא הו פי צבא הארץ אעני אלשהואת, וכאן יג'ב עלי אלשיך רצ'י אללה ענה אן יכצץ פי הדא אלמכאן ליסלם כלאמה מן אעתראץ' אלמשגבין"; (הדברים מוסבים על פירוש בראשית ב:1). עמוד 22ב, גיליון ימני: "אקול אן הדא אלקול ליס מסתחסן מן אלשיך ר'א'ע' לאן פצ'ילתה אכבר בדלך ולסנא מעתרצ'ין עליה בל דאכרון מא תעלמנאה מן טריקתה פאקול אן אחסן אלאקואל פיה אנה אעלאמא לנא בתסאויהמא ענד אלבארי ג'ל תנאוה פי חאל כלקתהמא אי אנה כלקהמא ג'מיעא בלא מאדה ומן לא מאדה בל באלקול"; (הדברים מוסבים על פירוש בראשית ב:4). עמוד 23א, גיליון שמאלי: "אכתאר בעץ' פצ'לא אלמפסרין אן יכון הדא מן באב מושך עצמו ומושך אחרים פיכון תקדירה ענדה ולא אד לאנה מעטוף עלי 'כי לא המטיר' (בראשית ב:5)"; (הדברים מוסבים על פירוש בראשית ב:6). עמוד 23ב, שוליים תחתונים: "אקול כאלף אלשיך ההנא מדהב אלשיך אלאמאם אלפאצ'ל אבו יוסף אלקרקסאני פי אמר אלנשמה ואלרוח ואלנפש לאן אלשיך אבו יוסף ר'א'ע' מדהבה אג'רי עלי קאנון אלחכמה מן הדא אלקול אד הדא אמיל אלי מדהב אלאטבא מנה אלי מדהב אלחכמא ע   אלמת..ע.."; (הדברים מוסבים על פירוש בראשית ב:7). אבן נוח ציטט את ראשי הפסוקים, אחר כך פירש את תוכנם המלא. לרוב לא תרגם את הפסוקים. בסיום עמוד 11ב בא תרגום בראשית א:12; בעמוד 13ב בא תרגום בראשית א:15-14. הציג לעיתים שאלות ("מסלה") והשיב עליהן (29א; 46ב; 65ב; 66ב). שילב בפירושו ענייני לשון. הביא פירושים אנונימיים.</note>
                         </support>
                         <extent>
                            <measure unit="folio">82</measure>
@@ -256,7 +218,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="">
+                        <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -270,7 +232,7 @@
                   </objectDesc>
                   <handDesc hands="">
                      <summary xml:lang=""/>
-                     <handNote medium="">
+                     <handNote medium="" xml:id="hand-111">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
@@ -293,7 +255,7 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="">
+                        <item xml:id="add-1111">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
