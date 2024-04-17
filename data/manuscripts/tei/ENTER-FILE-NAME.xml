@@ -45,7 +45,6 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2024-04-16T17:12:21.786Z">Main metadata</change><change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -56,8 +55,6 @@
                         <country>Russia</country>
                         <settlement>St Petersburg</settlement>
                         <repository>National Library of Russia</repository>
-                        <collection>Arab.-Yevr.</collection>
-                        <idno>13</idno>
                         <altIdentifier type="SfarData">
                             <idno/>
                         </altIdentifier>
