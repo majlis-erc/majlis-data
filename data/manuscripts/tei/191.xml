@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -35,19 +33,11 @@
                                             Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein"
-                    role="general"
-                    ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt"
-                    role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat"
-                    role="contributor"
-                    ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
-            <editor xml:id="dsklare"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
+            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
@@ -65,56 +55,39 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+            <editor role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                Ronny Vollandt
                
             </editor>
-            <editor xml:id="gschwarb"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                Gregor Schwarb
                
             </editor>
-            <editor xml:id="ngibson"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                Nathan P. Gibson
                
             </editor>
-            <editor xml:id="mmoliere"
-                    role="contributor creator"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                Maximilian de Molière
                
             </editor>
-            <editor xml:id="nurbiczek"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
                Nadine Urbiczek
                
             </editor>
-            <editor xml:id="ptarras"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
                Peter Tarras
                
             </editor>
-            <editor xml:id="afuchs"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
+            <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
                Annabelle Fuchs
                
             </editor>
-            <editor xml:id="lgzella"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
                Lea Gzella
                
             </editor>
-            <editor xml:id="plakteikina"
-                    role="contributor"
-                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
                Polina Lakteikina
                
             </editor>
@@ -122,31 +95,23 @@
                Maurizio Boehm
                
             </editor>
-            <editor xml:id="lporalla"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
                Lea Poralla
                
             </editor>
-            <editor xml:id="lfroschmeier"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
                Lukas Froschmeier
                
             </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -168,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#eporat" when="2020-01-05">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-04-20T14:15:59.268Z">Yevr.-Arab. I 3786 </change><change who="#eporat" when="2020-01-05">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -176,7 +141,7 @@
    <text>
       <body>
          <listBibl>
-            <msDesc>
+            <msDesc xml:id="ms-191">
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
@@ -192,10 +157,9 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he">תוכן: פירוש א:7-1 (דף 1); פירוש א:22- 33 ותרגום ב:4-1 (דף 38); פירוש ב:1-ג:15 ותרגום ג:33-19 (דפים 99-98+ 4+ 24+ 7+ 76+ 88); פירוש ד:18-ה:11 (דפים 45+ 43+ 100); פירוש ה:19-ו:11 ותרגום ו:19-12 (דפים 87+ 33-32); פירוש יב:10-יד:13 (דפים 65-64+ 25+ 35+ 85+ 28+ 42+ 97+ 61+ 58+ 57+ 59+ 104); פירוש יד:22-טו:18 (דפים 71+ 105+ 17-16+ 120+ 51); פירוש טו:23-טז:4 (דפים 78+ 49+ 73); פירוש טז:7- 33 (דפים 77+ 15-14+ 123+ 80+ 9); פירוש יז:12-יח:15 (דפים 5+ 41+ 54-52+ 60+ 8); פירוש יח:19- 24 (דפים 119+ 31); פירוש יט:9-3 (דפים 103-102); פירוש יט:14-11 (דף 6); פירוש יט:17-כ:7 (דפים 34+ 13-11+ 10); פירוש כ:15- 24 (דפים 21+ 92+ 118); פירוש כ:29-כא:7 (דפים 75+ 55); פירוש כא:11- 22 (דפים 79+ 56+ 122); פירוש כא:31-כב:4 (דף 27); פירוש כב:7-כג:22 (דפים 44+ 90+ 84+ 26+ 29+ 121+ 83-82+ 20); פירוש כג:29-כו:7 (דפים 30+ 126+ 124+ 3+ 63+ 37+ 91+ 110-106+ 117+ 66+ 125+ 48+ 86); פירוש כו:10-כז:1 (דפים 47-46+ 39+ 81); פירוש כז:11-כח:9 (דפים 116-111+ 18); פירוש כח:11- 23 (דפים 19+ 74+ 62); פירוש כט:12- 23 (דפים 40+ 101+ 89); פירוש ל:1- 15 (דפים 50+ 96-93+ 72); פירוש ל:19-לא:14 (דפים 2+ 36+ 22+ 70-67+ 23).  
-        מוזכר: אהל אלעלם (=חז"ל; 48א)
-        </summary>
-                  <msItem xml:id="" class="">
+                  <summary xml:lang="he">תוכן: פירוש א:7-1 (דף 1); פירוש א:22- 33 ותרגום ב:4-1 (דף 38); פירוש ב:1-ג:15 ותרגום ג:33-19 (דפים 99-98+ 4+ 24+ 7+ 76+ 88); פירוש ד:18-ה:11 (דפים 45+ 43+ 100); פירוש ה:19-ו:11 ותרגום ו:19-12 (דפים 87+ 33-32); פירוש יב:10-יד:13 (דפים 65-64+ 25+ 35+ 85+ 28+ 42+ 97+ 61+ 58+ 57+ 59+ 104); פירוש יד:22-טו:18 (דפים 71+ 105+ 17-16+ 120+ 51); פירוש טו:23-טז:4 (דפים 78+ 49+ 73); פירוש טז:7- 33 (דפים 77+ 15-14+ 123+ 80+ 9); פירוש יז:12-יח:15 (דפים 5+ 41+ 54-52+ 60+ 8); פירוש יח:19- 24 (דפים 119+ 31); פירוש יט:9-3 (דפים 103-102); פירוש יט:14-11 (דף 6); פירוש יט:17-כ:7 (דפים 34+ 13-11+ 10); פירוש כ:15- 24 (דפים 21+ 92+ 118); פירוש כ:29-כא:7 (דפים 75+ 55); פירוש כא:11- 22 (דפים 79+ 56+ 122); פירוש כא:31-כב:4 (דף 27); פירוש כב:7-כג:22 (דפים 44+ 90+ 84+ 26+ 29+ 121+ 83-82+ 20); פירוש כג:29-כו:7 (דפים 30+ 126+ 124+ 3+ 63+ 37+ 91+ 110-106+ 117+ 66+ 125+ 48+ 86); פירוש כו:10-כז:1 (דפים 47-46+ 39+ 81); פירוש כז:11-כח:9 (דפים 116-111+ 18); פירוש כח:11- 23 (דפים 19+ 74+ 62); פירוש כט:12- 23 (דפים 40+ 101+ 89); פירוש ל:1- 15 (דפים 50+ 96-93+ 72); פירוש ל:19-לא:14 (דפים 2+ 36+ 22+ 70-67+ 23).
+מוזכר: אהל אלעלם (=חז"ל; 48א).</summary>
+                  <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">תרגום ופרוש לכתובים (משלי)</title>
                      <author ref="">Yefet ben ʿElī</author>
@@ -208,13 +172,13 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="he">כותר כפי שמופיע:   
-        48א: ופי מתל דלך קאל אהל אלעלם כל מבקש גדולה לעצמו גדולה פורחת ממנו.</note>
+                     <note xml:lang="ar-Hebr">כותר כפי שמופיע:
+        48א: ופי מתׄל דׄלך קאל אהל אלעלם כל מבקש גדולה לעצמו גדולה פורחת ממנו.</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single
+                     <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
                      <listBibl>
                         <bibl>
@@ -229,8 +193,7 @@
                         <support>
                            <material>Paper</material>
                            <note xml:lang="he">13- 21 שורות. מספר השורות בדף 103ב 13. אחרי פירוש יט:9 כתוב בכתיבה מזרחית מרובעת: "לא נאוה" (יט:10). לפני "לא" ואחרי "נאוה" יש קישוטים. אחר כך כתוב: "כמל אלנצף אלאול מן שרח ספר משלי מן כלאם אלשיך אבו עלי אלבצרי נ"ע בעון אללה תע'". לפני המילים "בעון אללה תע'" יש קישוט. המילים "פי שהר" באות כשומר דף. כתב היד מוכתם. חלק מהתוכן חסר בשל קרעים. חלקו דהה. הוספות ומחיקות של הסופר. יש שומרי דפים. מילוי גרפי של שורות. בגיליון באות גרסות קרי. בדפים הבאים יש מספרי קונטרסים: 43א (ג'), 19א (ה'), 63א (ה'), 35א (ח'), 49א (י'). בגיליון השמאלי של דף 110א כתובה סמ"ך לציין תחילת סדר חדש. היא מקושטת. חלק מהפסוקים כתובים בכתיבה מזרחית מרובעת, חלקם כתובים בכתיבה מזרחית בינונית וחלקם בשילוב שתי הכתיבות. חלק מהפסוקים מנוקדים ניקוד טברני מלא, חלקם אינו מנוקד כלל וחלקם מנוקדים ניקוד טברני חלקי. הסופר מציין שַדّה בשתי נקודות מעל האות. הוא מציין תנוין פתחה. בשוליים התחתונים של דף 63א כתוב "אלייהו ידיע צעיר רופה". כתיב שם ה' הרווח בכתב היד הוא יוי. בדף 40א הוא כתוב ייי. פעמים שהסופר כתבוֹ ללא שינוי, כגון בדפים 7ב: "מוסר ה' בני אל תמאס"; בדף 120א: "זבח רשעים תועבת ה'".
-                
-         </note>
+כתב היד מצטרף לכתבי היד הבאים: St. Petersburg, RNL Yevr.-Arab. I: 3781, 3785, 3803, 3805.</note>
                         </support>
                         <extent>
                            <measure unit="folio">126</measure>
@@ -256,7 +219,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="">
+                        <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -270,7 +233,7 @@
                   </objectDesc>
                   <handDesc hands="">
                      <summary xml:lang=""/>
-                     <handNote medium="">
+                     <handNote medium="" xml:id="hand-111">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
@@ -293,21 +256,15 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="">
+                        <item xml:id="add-1111">
                            <objectType>Colophon</objectType>
                            <persName ref="" role="mentioned"/>
-                           <locus from="" to=""/>
-                           <quote xml:lang="">"כמל אלנצף אלאול מן שרח ספר משלי מן כלאם אלשיך אבו עלי אלבצרי נ"ע בעון אללה תע' פי שהר" (דף 103ב).</quote>
+                           <locus from="103v"/>
+                           <quote xml:lang="ar">כמל אלנצף אלאול מן שרח ספר משלי מן כלאם אלשיךׄ‎ אבו עלי אלבצרי נ"ע בעון אללה תע' פי שהר.</quote>
                            <note xml:lang=""/>
                         </item>
-                        <item xml:id="">
-                           <objectType>Colophon</objectType>
-                           <persName ref="" role="mentioned"/>
-                           <locus from="" to=""/>
-                           <quote xml:lang=""> </quote>
-                           <note xml:lang=""/>
-                        </item>
-                        <item xml:id="">
+                        
+                        <item xml:id="add-1112">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
