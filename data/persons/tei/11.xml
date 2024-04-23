@@ -33,6 +33,7 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
+                <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref="">admin</editor><editor role="creator" ref="">admin</editor>
             </titleStmt>
             <publicationStmt>
@@ -74,7 +75,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2024-04-23T15:44:12.651Z">Added MSS references</change><change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
+            <change who="#admin" when="2024-04-23T15:47:50.306Z">Added IDs to MSS references</change><change who="#admin" when="2024-04-23T15:44:12.651Z">Added MSS references</change>
+            <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -188,15 +190,17 @@
                     <residence>
                         <placeName ref="" cert="" source="">Jerusalem</placeName>
                     </residence>
-                    <bibl xml:id="">
+                    <bibl xml:id="jalit-ref1">
       <title>Yevr.-Arab. I 1125</title>
       <ptr target=""/>
       <citedRange unit="folio">18v, ll. 10-11</citedRange>
-   </bibl><bibl xml:id="">
+   </bibl>
+                    <bibl xml:id="jalit-ref2">
       <title>BL, Or. 2493</title>
       <ptr target=""/>
       <citedRange unit="folio">40v, l. 20</citedRange>
-   </bibl><bibl xml:id="">
+   </bibl>
+                    <bibl xml:id="jalit-ref2">
       <title>Yevr.-Arab. I 3910</title>
       <ptr target=""/>
       <citedRange unit="folio">177v, ll. 23-24</citedRange>
