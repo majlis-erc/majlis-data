@@ -34,6 +34,7 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref="">admin</editor><editor role="creator" ref="">admin</editor>
             </titleStmt>
             <publicationStmt>
@@ -75,7 +76,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2024-04-23T15:59:37.290Z">Save</change><change who="#admin" when="2024-04-23T15:44:12.651Z">Added MSS references</change>
+            <change who="#admin" when="2024-04-24T07:02:52.442Z">changed alternate names to attested</change><change who="#admin" when="2024-04-23T15:59:37.290Z">Save</change>
+            <change who="#admin" when="2024-04-23T15:44:12.651Z">Added MSS references</change>
             <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
@@ -94,16 +96,16 @@
                     </persName>
 
                     <!--Attested and alternate names – we only provide references to the sources, but the names are not subdivided.-->
-                    <persName type="alternate" xml:lang="ar" xml:id="name-3">
+                    <persName type="attested" xml:lang="ar" xml:id="name-3">
                         <name source="#name-3">al-Šayḫ Abū l-Faraj Furqān b. Asad</name>
                     </persName>
-                    <persName type="alternate" xml:lang="ar" xml:id="name-4">
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
                         <name source="#jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
                     </persName>
-                    <persName type="alternate" xml:lang="ar-Hebr" xml:id="name-5">
+                    <persName type="attested" xml:lang="ar-Hebr" xml:id="name-5">
                         <name source="#jalit-orgbiblH2RX9HN2">אלשיך אבו אלפרג̇ פרקאן בן אסד</name>
                     </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-6">
+                    <persName type="attested" xml:lang="he" xml:id="name-6">
                         <name source="#jalit-orgbiblH2RX9HN3">פ"פ / פ̇פ̇</name>
                     </persName>
 
