@@ -28,6 +28,7 @@
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
             </respStmt>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
@@ -49,7 +50,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="#gschwarb" when="2024-04-24T04:58:51.667Z">writing material</change><change who="#gschwarb" when="2024-04-23T14:44:50.217Z">Identification; Reproductions; Codicological definition; Content description</change>
+         <change who="#gschwarb" when="2024-04-24T05:15:29.469Z">Text layout</change><change who="#gschwarb" when="2024-04-24T04:58:51.667Z">writing material</change>
+            <change who="#gschwarb" when="2024-04-23T14:44:50.217Z">Identification; Reproductions; Codicological definition; Content description</change>
             <change who="#mmoliere" when="2024-04-19">Converted
                                 Zotero data into TEI-File.</change>
       </revisionDesc>
@@ -131,7 +133,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="layout-1111">
+                        <layout writtenLines="9" columns="1" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -162,8 +164,14 @@
                   <decoDesc>
                      <summary xml:lang=""/>
                      <decoNote>
-                        <desc/>
-                        <note xml:lang=""/>
+                        <desc>Paragraph marks and textual dividers</desc>
+                        <note xml:lang="">القول في العولا (9r) 
+القول في المنحا (12v)
+فصل جامع الكلام في الصاراعث (99v)
+القول في الباهارث (100r)
+القول في السفاحث (100v)
+القول في الصاراعث التي تخص الراس (101v)
+</note>
                      </decoNote>
                   </decoDesc>
                   <additions>
