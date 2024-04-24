@@ -27,7 +27,8 @@
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt><editor role="creator" ref=""/>
+            </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -48,7 +49,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="#gschwarb" when="2024-04-23T14:44:50.217Z">Identification; Reproductions; Codicological definition; Content description</change><change who="#mmoliere" when="2024-04-19">Converted
+         <change who="#gschwarb" when="2024-04-24T04:58:51.667Z">writing material</change><change who="#gschwarb" when="2024-04-23T14:44:50.217Z">Identification; Reproductions; Codicological definition; Content description</change>
+            <change who="#mmoliere" when="2024-04-19">Converted
                                 Zotero data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
@@ -71,7 +73,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="en">Partly consecutive sections (Lev 7; Lev 18-19) from the Commentary on Leviticus by David ben Boʿaz</summary>
+                  <summary xml:lang="en">Partly consecutive sections (Lev 7; Lev 14-21) from the Commentary on Leviticus by David ben Boʿaz</summary>
                   <msItem class="bibleCommentary" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="ar" ref="" cert="high">פרוש התורה (ויקרא)</title>
@@ -112,16 +114,16 @@
                               <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation style="" rendition=""/>
+                        <foliation style="foliation" rendition="modern"/>
                         <collation>
-                           <formula/>
+                           <formula>5</formula>
                            <unit/>
-                           <catchwords/>
-                           <note xml:lang=""/>
+                           <catchwords>Signatures at the beginning of quires</catchwords>
+                           <note xml:lang="ar"> ثامنة عشر (9r), تاسعة عشر (20r), رابعة عشر (23r), خا (31r), حادية عشر (95r), ثانية عشر (105r), ثالثة [عشر] (135r),  سادسة [عشر] (165r), سابعة [عشر] (175r)</note>
                         </collation>
                         <condition>
-                           <note xml:lang=""/>
-                           <ab type="writing" rend=""/>
+                           <note xml:lang="en">most pages are damaged and worm-eaten</note>
+                           <ab type="writing" rend="visible"/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -282,7 +284,8 @@
                            <publisher>National Library of
                         Israel</publisher>
                            <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001518000205171"/>
-                        </bibl><bibl>
+                        </bibl>
+                                <bibl>
       <title>Microfilm</title>
       <publisher>National Library of Israel</publisher>
       <ptr target="F 63556"/>
