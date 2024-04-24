@@ -27,7 +27,8 @@
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt><editor role="creator" ref=""/>
+            </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -48,7 +49,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="#gschwarb" when="2024-04-23T21:09:02.303Z">join</change><change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
+         <change who="#gschwarb" when="2024-04-24T05:26:08.080Z">writing material</change><change who="#gschwarb" when="2024-04-23T21:09:02.303Z">join</change>
+            <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#plakteikina" when="2022-10-01">Transcribed Harkavy heritage data.</change>
          <change who="#mmoliere" when="2024-04-19">Converted
                                 Zotero data into TEI-File.</change>
@@ -114,16 +116,16 @@
                               <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation style="" rendition=""/>
+                        <foliation style="foliation" rendition="modern"/>
                         <collation>
-                           <formula/>
+                           <formula>5</formula>
                            <unit/>
-                           <catchwords/>
-                           <note xml:lang=""/>
+                           <catchwords>Signatures at the beginning of quires</catchwords>
+                           <note xml:lang="ar">ثانية (f. 9r), ثالثة (19r), رابعة (29r), سابعة (59r), ثامنة (69r), تاسعة (79r), عاشرة (91r), خامسة (135r)</note>
                         </collation>
                         <condition>
-                           <note xml:lang=""/>
-                           <ab type="writing" rend=""/>
+                           <note xml:lang="en">most pages damaged and worm-eaten</note>
+                           <ab type="writing" rend="visible"/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
