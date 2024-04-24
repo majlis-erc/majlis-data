@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Abū ’l-Surrī ibn Zīṭā</title>
+            <title level="a" xml:lang="en">Abū l-Surrī b. Zīṭā</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -15,27 +13,19 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-               >Ronny Vollandt
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
                </editor>
-            <editor xml:id="gschwarb" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-               >Gregor Schwarb
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-               >Nathan P. Gibson
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
                </editor>
-            <editor xml:id="mmoliere" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-               >Maximilian de Molière
+            <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt>
+            </respStmt><editor role="creator" ref="">admin</editor>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -54,32 +44,32 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+         <change who="#admin" when="2024-04-24T13:49:10.561Z">updated spelling</change><change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPerson>
-            <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
+            <person xml:id="person-5">
+               <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
                   <name source=""/>
                </persName>
-               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                  <name source="">Abū ’l-Surrī ibn Zīṭā</name>
+               <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                  <name source="">Abū l-Surrī b. Zīṭā</name>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="he">
+               <persName type="attested" xml:lang="he" xml:id="name-3">
                   <name source=""/>
                </persName>
-               <persName xml:id="" type="attested" xml:lang="ar">
+               <persName type="attested" xml:lang="ar" xml:id="name-4">
                   <name source=""/>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he">
+               <persName type="alternate" xml:lang="he" xml:id="name-5">
                   <name source=""/>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he">
+               <persName type="alternate" xml:lang="he" xml:id="name-6">
                   <name source=""/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar">
+               <persName type="canon" xml:lang="ar" xml:id="name-7">
                   <addName source="" xml:id="sh-ar" type="shuhra"/>
                   <addName source="" xml:id="is-ar" type="ism"/>
                   <addName source="" xml:id="na-ar" type="nasab"/>
@@ -87,7 +77,7 @@
                   <addName source="" xml:id="ku-ar" type="kunya"/>
                   <addName source="" xml:id="la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar-Hebr">
+               <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
                   <addName source="" ref="#sh-ar" type="shuhra"/>
                   <addName source="" ref="#is-ar" type="ism"/>
                   <addName source="" ref="#na-ar" type="nasab"/>
@@ -95,8 +85,7 @@
                   <addName source="" ref="#ku-ar" type="kunya"/>
                   <addName source="" ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
-                  >
+               <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
                   <addName source="" ref="#sh-ar" type="shuhra"/>
                   <addName source="" ref="#is-ar" type="ism"/>
                   <addName source="" ref="#na-ar" type="nasab"/>
@@ -104,14 +93,14 @@
                   <addName source="" ref="#ku-ar" type="kunya"/>
                   <addName source="" ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="he">
+               <persName type="canon" xml:lang="he" xml:id="name-10">
                   <forename source="" xml:id="fn-he"/>
                   <addName source="" xml:id="pa-he" type="patronym"/>
                   <addName source="" xml:id="ep-he" type="epithet"/>
                   <addName source="" xml:id="ac-he" type="acronym"/>
                   <addName source="" xml:id="sh-he" type="shuhra"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn">
+               <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
                   <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
                   <addName source="" ref="#pa-he" type="patronym"/>
                   <addName source="" ref="#ep-he" type="epithet"/>
