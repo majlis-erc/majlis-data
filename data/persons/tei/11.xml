@@ -36,7 +36,8 @@
                 <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref="">admin</editor>
-                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
+                <editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -77,7 +78,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-04-24T12:16:13.894Z">Steinschneider heritage data</change><change who="#admin" when="2024-04-24T07:02:52.442Z">changed alternate names to attested</change>
+            <change who="#mmoliere" when="2024-04-29T09:54:23.081Z">Updated bibliography</change><change who="#mmoliere" when="2024-04-24T12:16:13.894Z">Steinschneider heritage data</change>
+            <change who="#admin" when="2024-04-24T07:02:52.442Z">changed alternate names to attested</change>
             <change who="#admin" when="2024-04-23T15:59:37.290Z">Save</change>
             <change who="#admin" when="2024-04-23T15:44:12.651Z">Added MSS references</change>
             <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
@@ -197,21 +199,33 @@
                     <residence>
                         <placeName ref="" cert="" source="">Jerusalem</placeName>
                     </residence>
-                    <bibl xml:id="jalit-orgbiblH2RX9HN1">
-      <title>Yevr.-Arab. I 1125</title>
-      <ptr target="https://jalit.org/bibl/H2RX9HN1"/>
-      <citedRange unit="folio">18v, ll. 10-11</citedRange>
-   </bibl>
                     <bibl xml:id="jalit-orgbiblH2RX9HN2">
       <title>BL, Or. 2493</title>
       <ptr target="https://jalit.org/bibl/H2RX9HN2"/>
       <citedRange unit="folio">40v, l. 20</citedRange>
+   </bibl><bibl xml:id="jalit-orgbiblH2RX9HN1">
+      <title>Yevr.-Arab. I 1125</title>
+      <ptr target="https://jalit.org/bibl/H2RX9HN1"/>
+      <citedRange unit="folio">18v, ll. 10-11</citedRange>
    </bibl>
+                    
                     <bibl xml:id="jalit-orgbiblH2RX9HN3">
       <title>Yevr.-Arab. I 3910</title>
       <ptr target="https://jalit.org/bibl/H2RX9HN3"/>
       <citedRange unit="folio">177v, ll. 23-24</citedRange>
-   </bibl>
+   </bibl><bibl xml:id="jalit-orgbiblXD2YACES">
+                        
+                        <title>Meira Polliack, Yeshuʿah Ben Yehudah, in The Karaite Tradition of Arabic Bible Translation: A Linguistic and Exegetical Study of Karaite Translations of the Pentateuch from the Tenth and Eleventh Centuries C.E. (Leiden: Brill, 1997), 46–53.</title>
+                        <ptr target="https://jalit.org/bibl/XD2YACES"/>
+                    </bibl><bibl xml:id="jalit-orgbiblBDQGF3G3">
+                        
+                        <title>Jeschuʿa ben Jehuda, Studien über Jeschuʿa ben Jehuda, ed. Martin Schreiner, Bericht über die Lehranstalt für die Wissenschaft des Judentums in Berlin 18 (Berlin: Itzkowski, 1900).</title>
+                        <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
+                    </bibl><bibl xml:id="jalit-orgbiblCFE22YHD">
+                        
+                        <title>Ofra Tirosh-Becker, Rabbinic Excerpts in Medieval Karaite Literature -גנזי חז"ל בספרות הקראית בימי הביניים, 2 vols. (Jerusalem: Bialik, 2011).</title>
+                        <ptr target="https://jalit.org/bibl/CFE22YHD"/>
+                    </bibl>
                     <idno type="URI" subtype="isni">https://isni.org/isni/0000000044338338</idno>
                     <idno type="URI" subtype="viaf">http://viaf.org/viaf/58767269</idno>                    <idno type="URI" subtype="wiki"/>
                     <idno type="URI" subtype="gnd"/>
@@ -228,7 +242,7 @@
             <item>
                 <note/>
                 <persName/>
-                <quote xml:lang="">§51. 
+                <quote xml:lang="ge">§51. 
 *Jeschua b. Jehuda, abu'l-Faradj Furkan b. Asad,¹) Karäer, Schüler des Josef b. Abraham (1050-80?), als der grosse „Lehrer" (המלמד, arab. אלמעלם) bezeichnet. Über seine persönlichen Verhältnisse ist nichts Näheres bekannt. Sein Wohnort in Jerusalem beruht auf der unsicheren n. 7.
 
 Schriften: 1) arabische Übersetzung (a) mit Comm., und zwar (b) einem ausführlichen, verfasst 1050, und (c) einem Auszug (מכחצר), nach ibn Hiti angefangen im Rabi' I, 446 (begann 10. Juni 1054), welcher jenen citirt, vielleicht ver- drängte, und nach Marg.'s Vorgang hier zuerst angegeben wird. a) allein, def. (Levit. fehlt ganz), ms. Br. Mus. 93 (Marg. XI, p. 191, Probe arab. und englisch); b) (arab. Schrift, def.), jeder Perikope geht eine מקדמה voran; Vf. verweist auf den ausführlichen (אלמבסוט) und citirt n. 5, ms. Br. Mus. 310-2, Exod. 13, 17-24 (anon. bei Marg., List p. 23), ib. n. 334; Frgm. Exod. u. Num. n. 314, Proben arab. und engl. Jew. Qu. XI, 199; Lev. 24, 10-23 (anon., List p. 27), vielleicht ib. 329 (Cat. p. 258); demselben gehören auch folg. Frgmm.: Num. 1, 1-3, 4, 25-5, 31, Lev. 13, 30-46, Deut. 31, 7-13 n. 2496 (Jew. Qu. p. 202-6); Num. 19, 1 und 23, 16, arab. Schr. n. 316 (ib. p. 206), Levit. 21-24, arab. Schr. n. 315 (ib. p. 207). b) Levit. 11, n. 318,3) worin Radjab 442 erwähnt ist (ib. p. 212); vielleicht Frgm. Exod. ib. n. 332, citirt aber Ali ibn Suleiman ohne Eulogie 4. נכת zu Lv.5 15. In hebr. Übersetzung ist Nichts kritisch festgestellt. Der angebliche Commentar über Genesis, welcher 1854 in Gosloff verloren ging (allein erwähnt bei Gttl. 195 [185], wo lies Pi. A. 71), soll 1088 von „Jeschua b. Ali" verfasst sein, den Firkowitsch zu ms. 588 auch als Vf. von Pseudo-Jefet über Exod. und Levit. angiebt.4) Kein älterer Autor nennt einen J. b. Ali; ob der Commentator bei Mord. 116 (11b) בן רב עלי und Sim. 21b Z. 17 aus einer irrtümlichen Abbreviatur für Jefet entstanden sei (vgl. Mk., Not. s. Aboulw. p. 11), lasse ich dahingestellt. S. folg. n. - 2) Eine compendiöse Erklärung des Dekalogs, wovon Gebot 1-4 in der liebr. Übersetzung des Tobia b. Moses, ms. CL. 26, zuletzt פתרון עשרת הדברים genannt, wo 'פ wohl die hebr. Übersetzung bedeutet, da Ahron b. Elia 'ע' ה citirt, aber für verloren hält. Das Verhältnis dieses Comm. zu dem über Exod. ist noch unsicher. Vf. verweist auf eine andere Erklärung, worin er viele Fragen erwähnt habe בין הביאור ובין הקצור, was ich (HÜb. 243) „zwischen Commentar und Compend. die Mitte haltend" übersetze; es könnte aber auch als „entweder, oder", und in der späteren Bedeutung sowohl, als auch" aufgefasst werden, d. h. abwechselnd. Ob damit ein Comm. über den Dekalog allein, etwa das ebenfalls citirte סי הרעיון5) gemeint und ob darin die Frage von der Gesetzesabrogation (נסך) gehandelt sei, lasse ich dahingestellt sein. Auf den ausführlichen Comm. zum Pentateuch scheint die obige Bezeichnung nicht zu passen. Im Compend. hat er nur Antworten auf Fragen gegeben; HÜb. 943. – 3) (רבה (רבא בראשית  (Grosse Genesis), Homilien über Genesis? wovon nur Perikope 1 u. 2 in hebr. Übersetzung eines Anonymus, wahrscheinlich im Orient, ms. CL. 5 und 412, wichtige an die Thora sich knüpfende Fragen erörtert; HÜb. 944. 4( סי הישר ) nach Jos. 10, 13, Sam. 1, 18?) umfasste alle Gebote (nach Mord. p. 116,=11b) ist jedoch weder im Original noch in Übersetzung erhalten, während eine Abhandlung, wahrscheinlich daraus, als סי העריות, Buch der Inceste (Levit. 18, 6), von einem sonst unbekannten Jakob b. Simon hebräisch in ms. CL. 25¹ u. 4116, Pet. Firk. 614, Rabin., Cat. 1886 n. 36. Der Vf. selbst citirt es im kurzen Pentateuchcomm. als אלגואבאת ואלמסאיל (Antworten und Fragen) über Inceste פי אלעריות, wie man wohl bei Margol. Jew. Qu XI, 194 für „Erwot" emendiren muss; Samuel Maarabi kehrt den Titel um, und Salomo Nasi citirt das „Buch der Antworten über die schwierigen Fragen, betr. der Inceste"; in der Einleitung (CL. p. 191) heisst es „dieses Buch hat man verfasst (תקנו) auf die Weise der zweifelhaften (מסתפקות!) Fragen und deren Beantwortung." Dass diese Abhandlung eine erweiterte sei, ist unbegründet. Margoliouth hat in ms. Br. Mus. Or. 2497 (n. 314, Cat. p. 238) f. 19-26 nachträglich ein Frgm. des arab. Originals entdeckt (Jew. Qu. XI, 213), welches er mit Fürst's Beschreibung (II, 181, Anm. S. 71) vergleicht, ohne zu erkennen, dass Fürst geradezu Kapitelziffern angiebt, wovon in seiner Quelle (CL. 191) keine Spur zu finden ist; unbeachtet blieb auch HÜb. 942; vgl. auch Pozn., Festschr. St. S. 202 A. 4 u. Rev. Ét. XLI, 307. תשובת העקר (5 Antwort über die Materie der Inceste, ein hebr. Schriftchen, dessen Charakter schwer zu bestimmen, da es hauptsächlich ein Auszug aus n. 4 ist; mehrere mss. besitzt Leyden (Cat. p. 197); es ist gedruckt Gosloff 1834 als אגרת התשובה ohne Angabe des Übersetzers oder Bearbeiters, hinter Benjamin Nehawendi, aber nicht in allen Exemplaren vorhanden; ms. Pet. 617, geschrieben von Elia b. Jehuda, nennt als Vf., wenn Firk. nicht gefälscht hat, Jeschua, „b. Ali", jedenfalls un- richtig (s. Anm. 1). – 6) משיבת נפש (Beruhigung der Seele), eine dogmatische und ethische, wahrscheinlich aus dem Arabischen übersetzte Schrift, ms. Par. 670, Pet. Firk. 690, ähnlich den Schriften Josef's b. Abraham, in dessen Anhang nur in der hebr. Übersetz. (CL. 172), nicht im Original (ZDMG. XLII, 650) darauf verwiesen wird, aber bei Elia Baschiatschi als Vf. s. HÜb. 943 . XXVIII. – 7) מרפא לעצם (Genesung für das Gebein), vielleicht aus dem Arabischen übersetzt, ms. Par. 670, Pet. Firk. 686, Rabinow. Cat. 1886 n. 55; der Verf. lebte in Jerusalem; dass es Jesch. sei, hat Pi. nicht bewiesen; HÜb. 460. – 8) eine besondere Frage (מסאלה  מסלה מפרדה), worin von der Bestrafung einer wieder- holt verbotenen Sünde gehandelt wird, citirt J. im grossen Comm. (Jew. Qu. XI, 212, Catal. Brit. Mus. p. 244b), worauf offenbar in den letzten Kapp. von Josef b. Abraham's נעימות (CL. 172) verwiesen wird. Schreiner (ZDMG. XLII, 650) hat gerade diese Stelle des Originals nicht gegeben.
