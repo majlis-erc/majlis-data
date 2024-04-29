@@ -33,6 +33,7 @@
                 <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
@@ -74,7 +75,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-04-29T15:38:00.770Z">update</change><change who="#mmoliere" when="2024-04-29T14:11:34.597Z">update</change>
+            <change who="#mmoliere" when="2024-04-29T17:02:55.238Z">update</change><change who="#mmoliere" when="2024-04-29T15:38:00.770Z">update</change>
+            <change who="#mmoliere" when="2024-04-29T14:11:34.597Z">update</change>
             <change who="#mmoliere" when="2024-04-29T09:54:23.081Z">Updated bibliography</change>
             <change who="#mmoliere" when="2024-04-24T12:16:13.894Z">Steinschneider heritage data</change>
             <change who="#admin" when="2024-04-24T07:02:52.442Z">changed alternate names to attested</change>
@@ -136,12 +138,12 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
 
                     </persName>
                     <persName corresp="#name1-10" type="canon" xml:lang="ar-Latn" xml:id="name-9">
-                        <addName source="" ref="#sh-ar" type="shuhra">al-Ḍarīr</addName>
-                        <addName source="" ref="#is-ar" type="ism">Furqān</addName>
-                        <addName source="" ref="#na-ar" type="nasab">Ibn Sulaymān</addName>
-                        <addName source="" ref="#ni-ar" type="nisbah">al-Qurṭubī</addName>
-                        <addName source="" ref="#ku-ar" type="kunya">Abū ’l-Ḥasan</addName>
-                        <addName source="" ref="#la-ar" type="laqab">ʿIzz al-Dīn, al-Manṭiqī</addName>
+                        <addName source="jalit-orgbiblH2RX9HN2" ref="#sh-ar" type="shuhra">al-Ḍarīr</addName>
+                        <addName source="jalit-orgbiblH2RX9HN2" ref="#is-ar" type="ism">Furqān</addName>
+                        <addName source="jalit-orgbiblH2RX9HN2" ref="#na-ar" type="nasab">Ibn Sulaymān</addName>
+                        <addName source="jalit-orgbiblH2RX9HN2" ref="#ni-ar" type="nisbah">al-Qurṭubī</addName>
+                        <addName source="jalit-orgbiblH2RX9HN2" ref="#ku-ar" type="kunya">Abū ’l-Ḥasan</addName>
+                        <addName source="jalit-orgbiblH2RX9HN2" ref="#la-ar" type="laqab">ʿIzz al-Dīn, al-Manṭiqī</addName>
                     </persName>
 
                     <persName type="canon" xml:lang="he" xml:id="name-10">
@@ -235,6 +237,45 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         
                         <title>Ofra Tirosh-Becker, Rabbinic Excerpts in Medieval Karaite Literature -גנזי חז"ל בספרות הקראית בימי הביניים, 2 vols. (Jerusalem: Bialik, 2011).</title>
                         <ptr target="https://jalit.org/bibl/CFE22YHD"/>
+                    </bibl><bibl xml:id="jalit-orgbiblMS5GR9GJ" type="bibliography">
+                        <title>Joseph al-Basir and Jeshua ben Judah</title>
+                        <ptr target="https://jalit.org/bibl/MS5GR9GJ"/>
+                    </bibl><bibl xml:id="jalit-orgbibl75PTS4B6" type="bibliography">
+                        <title>Yeshu‛a ben Yehudah (11th c.)</title>
+                        <ptr target="https://jalit.org/bibl/75PTS4B6"/>
+                    </bibl><bibl xml:id="jalit-orgbiblGQLFIW96" type="bibliography">
+                        <title>Jeschua ben Jehuda</title>
+                        <ptr target="https://jalit.org/bibl/GQLFIW96"/>
+                    </bibl><bibl xml:id="jalit-orgbiblY7R33F3A" type="bibliography">
+                        <title>Alternate Renderings and Additions in Yeshuʿah ben Yehudah’s Arabic Translation of the Pentateuch</title>
+                        <ptr target="https://jalit.org/bibl/Y7R33F3A"/>
+                    </bibl><bibl xml:id="jalit-orgbiblEFVRVADD" type="bibliography">
+                        <title>The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century</title>
+                        <ptr target="https://jalit.org/bibl/EFVRVADD"/>
+                    </bibl><bibl xml:id="jalit-orgbiblD5AQMZCV" type="bibliography">
+                        <title>Иешуа бен-Иуда</title>
+                        <ptr target="https://jalit.org/bibl/D5AQMZCV"/>
+                    </bibl><bibl xml:id="jalit-orgbiblWJR4LN8T" type="bibliography">
+                        <title>ישועה בן יהודה: לדמותו של חכם קראי ירושלמי במאה הי"א</title>
+                        <ptr target="https://jalit.org/bibl/WJR4LN8T"/>
+                    </bibl><bibl xml:id="jalit-orgbiblB52AZ464" type="bibliography">
+                        <title>ישועה בן יהודה —  לדמותו של חכם קראי ירושלמי במאה הי"א</title>
+                        <ptr target="https://jalit.org/bibl/B52AZ464"/>
+                    </bibl><bibl xml:id="jalit-orgbiblYEL8X7GU" type="bibliography">
+                        <title>הקראי‛ ישועה בן יהודה  מחברו של פירוש לס׳ בראשית שנשתמר בלבוש שומרוני</title>
+                        <ptr target="https://jalit.org/bibl/YEL8X7GU"/>
+                    </bibl><bibl xml:id="jalit-orgbibl6J6F2CHU" type="bibliography">
+                        <title>עיון לשוני במשניות המשוקעות בכתב-יד של פירוש ישועה בן יהודה לויקרא</title>
+                        <ptr target="https://jalit.org/bibl/6J6F2CHU"/>
+                    </bibl><bibl xml:id="jalit-orgbiblU9ZUKMA9" type="bibliography">
+                        <title>ישועה בן יהודה</title>
+                        <ptr target="https://jalit.org/bibl/U9ZUKMA9"/>
+                    </bibl><bibl xml:id="jalit-orgbibl82HDLNZP" type="bibliography">
+                        <title>פירוש קראי על  התורה בלבוש שומרוני</title>
+                        <ptr target="https://jalit.org/bibl/82HDLNZP"/>
+                    </bibl><bibl xml:id="jalit-orgbiblQVH6VF3H" type="bibliography">
+                        <title>הקראי‛ ישועה בן יהודה  מחברו של פירוש לס׳ בראשית שנשתמר בלבוש שומרוני</title>
+                        <ptr target="https://jalit.org/bibl/QVH6VF3H"/>
                     </bibl>
                     <idno type="URI" subtype="isni">https://isni.org/isni/0000000044338338</idno>
                     <idno type="URI" subtype="viaf">http://viaf.org/viaf/58767269</idno>                    <idno type="URI" subtype="wiki"/>
@@ -268,7 +309,7 @@ Quellen: HÜb. 459, 942 u. XXVIII; G. Margoliouth, The writings of Abu'l-Faraj e
 1) Die kürzere Genealogie bei Simcha Is. f. 21 u. Lb. XII ist wohl zunächst von der Recapitulation bei Mord. b. N. K. 9 f. 11b (vgl. K. 6 f. 5) abzuleiten; Firk. zu n. 60 macht Sal. zum 6. Abkömmling von Anan! F. Lazarus, Die Häupter der Vertr. (Brüll, Jahrb. X, 44) setzt Salomo um 1250 an; er kennt nur Pinsker und Graetz.
 
 Quellen: Wolf III n. 1967b = I, III n. 1940; andere s. HÜb. 946, wo lies CL. 234.</quote>
-                <bibl xml:id="jalit-orgbiblKYQS5YIX">
+                <bibl xml:id="jalit-orgbiblKYQS5YIX"><citedRange unit="page">91–94</citedRange>
                         <idno/>
                         <title type="citation">Moritz Steinschneider, Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902).</title>
                         <ptr target="https://jalit.org/bibl/KYQS5YIX"/>
