@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -35,19 +33,11 @@
                                             Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein"
-                    role="general"
-                    ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt"
-                    role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat"
-                    role="contributor"
-                    ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
-            <editor xml:id="dsklare"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
+            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
@@ -65,56 +55,39 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+            <editor role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                Ronny Vollandt
                
             </editor>
-            <editor xml:id="gschwarb"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                Gregor Schwarb
                
             </editor>
-            <editor xml:id="ngibson"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                Nathan P. Gibson
                
             </editor>
-            <editor xml:id="mmoliere"
-                    role="contributor creator"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                Maximilian de Molière
                
             </editor>
-            <editor xml:id="nurbiczek"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
                Nadine Urbiczek
                
             </editor>
-            <editor xml:id="ptarras"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
                Peter Tarras
                
             </editor>
-            <editor xml:id="afuchs"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
+            <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
                Annabelle Fuchs
                
             </editor>
-            <editor xml:id="lgzella"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
                Lea Gzella
                
             </editor>
-            <editor xml:id="plakteikina"
-                    role="contributor"
-                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
                Polina Lakteikina
                
             </editor>
@@ -122,31 +95,23 @@
                Maurizio Boehm
                
             </editor>
-            <editor xml:id="lporalla"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
                Lea Poralla
                
             </editor>
-            <editor xml:id="lfroschmeier"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
                Lukas Froschmeier
                
             </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -168,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#eporat" when="2021-02-23">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-04-29T10:59:33.998Z">Yevr.-Arab. I 3814</change><change who="#eporat" when="2021-02-23">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -176,7 +141,7 @@
    <text>
       <body>
          <listBibl>
-            <msDesc>
+            <msDesc xml:id="ms-79">
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
@@ -192,11 +157,10 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he">תוכן: פירוש כג:10-מב:17
-        מוזכר: אלאכ'רה (=העולם הבא; 1ב, 31ב, 46ב); אלדניא (=העולם הזה; 6ב, 20ב, 29א, 34א, 46ב, 53ב, 56א, 61א, 68א, 81ב, 84א); גֵיהִנָם (6ב, 31ב); אלבחר אלכביר (=הים הגדול; 10ב); אלמקרא (=המקרא; 14א, 42א, 70א, 81ב, 86ב); אלאעראב וסכאן אלברארי (=ערבים נודדים ושוכני מדברות; 16ב); לגה אלתרגום (=לשון התרגום, ארמית; 17א, 26א); אלמשיח (=המשיח; 23א, 73ב); אלמוחדין (=המונותאיסטים; 50א, 63א, 65ב); אלמדוון (עורך המקרא; 52א, 63ב); אפלאטון וארסטטאליס (אפלטון ואריסטו; 64ב); סדר בראשית (מעשה בראשית; 65א); יום תְחָיַת! הַמֵתִים (67א); גיחון (69א); בלד כ'רסאן (=ארץ כ'וראסאן; 69א); אלרבונין (=הרבנים; 70א); אהל אלרצד (=אנשי העיון, המעיינים; 71ב); אלכתאב (המקרא; 84ב, 87ב); בלד אלרום (=ארץ ביזנץ; 74ב); אלבחר אלמחיט (=הים המקיף; 66א).     
-        זהוי: כתב היד מצטרף לכתב יד I: 246. הוא כולל דף. בעמוד א שלו כתוב: "תפסיר אלג'זו אלתאני מן איוב מן כלאם מרי' ורבי' יפת הלוי הַנִּכָּר אבו עלי אלבוצרי תנצב"ה אמן". Arik Sadan השתמש בכתב היד במהדורתו לפירוש יפת לאיוב, עמ' 357- 697.
-        </summary>
-                  <msItem xml:id="" class="">
+                  <summary xml:lang="he">תוכן: פירוש כג:10-מב:17.
+מוזכר: אלאכׄרה̈ (=העולם הבא; 1ב, 31ב, 46ב); אלדניא (=העולם הזה; 6ב, 20ב, 29א, 34א, 46ב, 53ב, 56א, 61א, 68א, 81ב, 84א); גֵיהִנָם (6ב, 31ב); אלבחר אלכביר (=הים הגדול; 10ב); אלמקרא (=המקרא; 14א, 42א, 70א, 81ב, 86ב); אלאעראב וסכאן אלברארי (=ערבים נודדים ושוכני מדברות; 16ב); לגה̈ אלתרגום (=לשון התרגום, ארמית; 17א, 26א); אלמשיח (=המשיח; 23א, 73ב); אלמוחדין (=המונותאיסטים; 50א, 63א, 65ב); אלמדוון (עורך המקרא; 52א, 63ב); אפלאטון וארסטטאליס (אפלטון ואריסטו; 64ב); סדר בראשית (מעשה בראשית; 65א); יום תְחָיַת! הַמֵתִים (67א); גיחון (69א); בלד כׄרסאן (=ארץ כׄוראסאן; 69א); אלרבונין (=הרבנים; 70א); אהל אלרצד (=אנשי העיון, המעיינים; 71ב); אלכתאב (המקרא; 84ב, 87ב); בלד אלרום (=ארץ ביזנץ; 74ב); אלבחר אלמחיט (=הים המקיף; 66א).  
+זהוי: כתב היד מצטרף לכתב יד I: 246. הוא כולל דף. בעמוד א שלו כתוב: "תפסיר אלגׄזו אלתׄאני מן איוב מן כלאם מרי' ורבי' יפת הלוי הַנִּכָּר אבו עלי אלבוצרי תנצב"ה אמן". Arik Sadan השתמש בכתב היד במהדורתו לפירוש יפת לאיוב, עמ' 357- 697.</summary>
+                  <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">פרוש איוב</title>
                      <author ref="">Yefet ben ʿElī</author>
@@ -209,13 +173,12 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="he">כותר כפי שמופיע:   
-        36א-ב: "וַיִשְבְתוּ" (איוב לב:1) ערף אן הדה אלשביתה הו סכות כמא קאל "מֵעֲנוֹת את איוב" (שם). והדא ידל עלי אן אלשביתה תקע עלי אלסכות ולדלך חۥרّם אלכלאם אלדניאיי פי אלסבת לאנה מן ג'מלה אלמלאכות כמ' ק' "וביום השביעי תשבות" (שמות כג:12), ומן הדא אלאצל קאל "ממצוא חפצך ודַבֵּר דבר" (ישעיהו נח:13).   8ב: קו' "ולא יאהיל" (איוב כה:5) ישיר בה אלי כסוף אלקמר מן ג'נס קול איוב עלי בעץ' אלתפאסיר פי "האומר לחרס ולא יזרח" (איוב ט:7). ויג'וז אן יכון איצ'א "ולא יאהיל" יעני מן אֹהֶל יריד בה לא יכון מתל כ'ימה עלי אלעאלם והו וקת בדרה.</note>
+                     <note xml:lang="ar-Hebr">36א-ב: "וַיִשְבְתוּ" (איוב לב:1) ערף אן הדׄה אלשביתה הו סכות כמא קאל "מֵעֲנוֹת את איוב" (שם). והדׄא ידל עלי אן אלשביתה תקע עלי אלסכות ולדׄלך חۥרّם אלכלאם אלדניאיי פי אלסבת לאנה מן גׄמלה̈ אלמלאכות כמ' ק' "וביום השביעי תשבות" (שמות כג:12), ומן הדׄא אלאצל קאל "ממצוא חפצך ודַבֵּר דבר" (ישעיהו נח:13).   8ב: קו' "ולא יאהיל" (איוב כה:5) ישיר בה אלי כסוף אלקמר מן גׄנס קול איוב עלי בעץׄ אלתפאסיר פי "האומר לחרס ולא יזרח" (איוב ט:7). ויגׄוז אן יכון איצׄא "ולא יאהיל" יעני מן אֹהֶל יריד בה לא יכון מתׄל כׄימה̈ עלי אלעאלם והו וקת בדרה.</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single
+                     <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
                      <listBibl>
                         <bibl>
@@ -229,7 +192,7 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note xml:lang="he">23 שורות. בדף 88א יש 18 שורות. דפים 89ב-91ב ריקים. התוכן קריא לגמרי. מעט ממנו מוכתם. השלמות ומחיקות של הסופר. מילוי גרפי של שורות. יש שומרי דפים. בדפים 11א, 21א, 31א, 43א, 53א, 63א, 73א, 83א באים מספרי הקונטרסים: ב', ג', ד', ה', ו', ז', ח', ט'. הסופר השתמש בנוטריקון א"ת (אללה תעאלי=ה' יתעלה). בדפים 8ב-9א באה בגיליון המילה "נץ" בכל שורה שיש בה פסוק חדש. ניקוד דיאקריטי: ג'י"ם מסומנת בנקודה תחתית. גי"ן מסומנת בנקודה עילית. כ'א"א מסומנת בנקודה עילית. נקודה באה בכ"ף סופית במילים ערביות, כגון "אולאיךּ" (3א), "אלפלךּ" (10א), "יתחרךּ" (11א). ניקוד ערבי ספורדי. ציטוט הפסוקים במלואם בתרגום. הם מנוקדים ניקוד טברני. בגדכפת רפות מסומנות לעיתים בקו קצר מעליהן. ניקוד טברני של מילים מהפסוקים המבוארים בפירוש, של מובאות מקראיות ומילים אחרות. חילופי פתח-סגול: "חַלְקָתָם" (כד:18: "חֶלְקָתָם"; 6א), "בַאֲנוֹש" (לב:8: "בֶאֱנוֹשׁ"; 37ב); "כֶתֶר לִי זְעֵיר" (לו:2: "כַּתַר לִי זְעֵיר"; 52א), "מֶה תִפְעַל בוֹ...מֶה תַעֲשֶׂה לוֹ" (לה:6: "מַה תפעל בו...מַה תעשה לו"; 49ב). הסופר שיבש הרבה את לשון הפסוקים. להלן דוגמות אחדות מתוך רבות: "וְעופְרֶת" במקום "וְעַפְרֹת" (כח:6; 16ב), "מְלוֹחַ" במקום "מַלּוּחַ" (ל:4; 25ב), "על שִכְמוֹ" במקום "שִכְמִי" (לא:36; 35ב), "בִסְפֹק ורַב כֹפֶר" במקום "בְסָפֶק וְרָב כֹפֶר" (לו:18; 55ב), "בַטָמוֹן" במקום "בַּטָּמוּן" (מ:13; 76ב. בפירוש ציטט:  "בִטְמוֹן"; 77א). שגיאות נפלו גם בתוכן הערבי: "אנצה...אַקַף..." במקום אנצת...קִף... (תרגום לז:14: "האזינה...עֲמֹד..."; 61ב), "ואג'אב אלאה" במקום אללה (תרגום מ:1: "ויען ה'"; 75א), "אלאלאף" במקום אלאלף (=אל"ף; 82א). בסיימו לפרש את כד:25 פירט יפת את ענייני מענה איוב בפרקים כג-כד: "פאלדי אשתמל עליה הדא אלפצל ג' מעאני..." (7ב-8א). כך עשה לאורך כל הספר. בסיימו לפרש את מב:17 הקביל יפת בין מה שאירע לאיוב למה שאירע ויארע לעם ישראל (דפים 88ב-89א). בפירושו ללד:31 השתמש יפת בכלל הפרשני "מושך עצמו ומושך אחרים": אעלם אן פי 'אֶל אֵל הֶאָמַר (בכתב היד: 'הָאֹמֵר')' מושך עצמו ומושך אחרים" (47ב). בפירושו לכט:2: "מי יתנני כירחי קדם כימי אלוה ישמרני" ציין יפת שלושה דברים, שייחל להם איוב. האחד לשוחח עם ה', כדי שיתבררו אמונתו ומעמדו בעיני ה', ובכך יופרכו דברי הגנאי של המגנים אותו. הדבר השני שה' ישיב אותו למעמדו בעבר, כדי שהבריות ידעו שה' אינו כועס עליו. הדבר השלישי שסיפורו ייכתב בספר לתועלת הבריות. בכל דור ודור יספרוהו ויזכירו את שם איוב לטוב. את הדברים האלה כבר כתב יפת בהקדמתו לפירוש איוב, ושם כתב שה' מילא את שלוש משאלותיו. במספר מקומות הביא יפת תרגומים חלופיים: "...רסול וקיל תרג'מאן" (תרגום "מלאך" [לג:23]; 42א; יש להעיר ש"וקיל" אינה במקומה, כי "תרג'מאן" היא תרגום המילה הבאה: "מליץ"!); "באלצבא וקיל באלנפץ'" (תרגום "בנֹער" [לו:14]; 54א); "ואלפהאד או אלמִרַד ילצקו" (תרגום "ורגבים" [לח:38]; 70ב); "אשכרךּ או אקר לךּ" (תרגום "אודךּ" [מ:14]; 77א); "...נעג'ה ואחדה וקיל נאקה" (תרגום "קשיטה" [מב:11]; 86ב). כתב היד מצטרף לכתב יד I: 246. </note>
+                           <note xml:lang="he">23 שורות. בדף 88א יש 18 שורות. דפים 89ב-91ב ריקים. התוכן קריא לגמרי. מעט ממנו מוכתם. השלמות ומחיקות של הסופר. מילוי גרפי של שורות. יש שומרי דפים. בדפים 11א, 21א, 31א, 43א, 53א, 63א, 73א, 83א באים מספרי הקונטרסים: ב', ג', ד', ה', ו', ז', ח', ט'. הסופר השתמש בנוטריקון א"ת (אללה תעאלי=ה' יתעלה). בדפים 8ב-9א באה בגיליון המילה "נץ" בכל שורה שיש בה פסוק חדש. ניקוד דיאקריטי: ג'י"ם מסומנת בנקודה תחתית. גי"ן מסומנת בנקודה עילית. כ'א"א מסומנת בנקודה עילית. נקודה באה בכ"ף סופית במילים ערביות, כגון "אולאיךּ" (3א), "אלפלךּ" (10א), "יתחרךּ" (11א). ניקוד ערבי ספורדי. ציטוט הפסוקים במלואם בתרגום. הם מנוקדים ניקוד טברני. בגדכפת רפות מסומנות לעיתים בקו קצר מעליהן. ניקוד טברני של מילים מהפסוקים המבוארים בפירוש, של מובאות מקראיות ומילים אחרות. חילופי פתח-סגול: "חַלְקָתָם" (כד:18: "חֶלְקָתָם"; 6א), "בַאֲנוֹש" (לב:8: "בֶאֱנוֹשׁ"; 37ב); "כֶתֶר לִי זְעֵיר" (לו:2: "כַּתַר לִי זְעֵיר"; 52א), "מֶה תִפְעַל בוֹ...מֶה תַעֲשֶׂה לוֹ" (לה:6: "מַה תפעל בו...מַה תעשה לו"; 49ב). הסופר שיבש הרבה את לשון הפסוקים. להלן דוגמות אחדות מתוך רבות: "וְעופְרֶת" במקום "וְעַפְרֹת" (כח:6; 16ב), "מְלוֹחַ" במקום "מַלּוּחַ" (ל:4; 25ב), "על שִכְמוֹ" במקום "שִכְמִי" (לא:36; 35ב), "בִסְפֹק ורַב כֹפֶר" במקום "בְסָפֶק וְרָב כֹפֶר" (לו:18; 55ב), "בַטָמוֹן" במקום "בַּטָּמוּן" (מ:13; 76ב. בפירוש ציטט:  "בִטְמוֹן"; 77א). שגיאות נפלו גם בתוכן הערבי: "אנצה...אַקַף..." במקום אנצת...קִף... (תרגום לז:14: "האזינה...עֲמֹד..."; 61ב), "ואג'אב אלאה" במקום אללה (תרגום מ:1: "ויען ה'"; 75א), "אלאלאף" במקום אלאלף (=אל"ף; 82א). בסיימו לפרש את כד:25 פירט יפת את ענייני מענה איוב בפרקים כג-כד: "פאלדי אשתמל עליה הדא אלפצל ג' מעאני..." (7ב-8א). כך עשה לאורך כל הספר. בסיימו לפרש את מב:17 הקביל יפת בין מה שאירע לאיוב למה שאירע ויארע לעם ישראל (דפים 88ב-89א). בפירושו ללד:31 השתמש יפת בכלל הפרשני "מושך עצמו ומושך אחרים": אעלם אן פי 'אֶל אֵל הֶאָמַר (בכתב היד: 'הָאֹמֵר')' מושך עצמו ומושך אחרים" (47ב). בפירושו לכט:2: "מי יתנני כירחי קדם כימי אלוה ישמרני" ציין יפת שלושה דברים, שייחל להם איוב. האחד לשוחח עם ה', כדי שיתבררו אמונתו ומעמדו בעיני ה', ובכך יופרכו דברי הגנאי של המגנים אותו. הדבר השני שה' ישיב אותו למעמדו בעבר, כדי שהבריות ידעו שה' אינו כועס עליו. הדבר השלישי שסיפורו ייכתב בספר לתועלת הבריות. בכל דור ודור יספרוהו ויזכירו את שם איוב לטוב. את הדברים האלה כבר כתב יפת בהקדמתו לפירוש איוב, ושם כתב שה' מילא את שלוש משאלותיו. במספר מקומות הביא יפת תרגומים חלופיים: "...רסול וקיל תרג'מאן" (תרגום "מלאך" [לג:23]; 42א; יש להעיר ש"וקיל" אינה במקומה, כי "תרג'מאן" היא תרגום המילה הבאה: "מליץ"!); "באלצבא וקיל באלנפץ'" (תרגום "בנֹער" [לו:14]; 54א); "ואלפהאד או אלמִרַד ילצקו" (תרגום "ורגבים" [לח:38]; 70ב); "אשכרךּ או אקר לךּ" (תרגום "אודךּ" [מ:14]; 77א); "...נעג'ה ואחדה וקיל נאקה" (תרגום "קשיטה" [מב:11]; 86ב). כתב היד מצטרף לכתב יד I: 246.</note>
                         </support>
                         <extent>
                            <measure unit="folio">91</measure>
@@ -255,7 +218,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="">
+                        <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -269,7 +232,7 @@
                   </objectDesc>
                   <handDesc hands="">
                      <summary xml:lang=""/>
-                     <handNote medium="">
+                     <handNote medium="" xml:id="hand-111">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
@@ -292,7 +255,7 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="">
+                        <item xml:id="add-1111">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
