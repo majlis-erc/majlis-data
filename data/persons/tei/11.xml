@@ -12,18 +12,12 @@
                 <funder ref="https://erc.europa.eu/">
                     <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
-                    Ronny Vollandt
-                    
-                </editor>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
                 <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                     Gregor Schwarb
                     
                 </editor>
-                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
-                    Nathan P. Gibson
-                    
-                </editor>
+                
                 <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                     Maximilian de Molière
                     
@@ -37,6 +31,7 @@
                 <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
@@ -79,7 +74,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-04-29T14:11:34.597Z">update</change><change who="#mmoliere" when="2024-04-29T09:54:23.081Z">Updated bibliography</change>
+            <change who="#mmoliere" when="2024-04-29T15:38:00.770Z">update</change><change who="#mmoliere" when="2024-04-29T14:11:34.597Z">update</change>
+            <change who="#mmoliere" when="2024-04-29T09:54:23.081Z">Updated bibliography</change>
             <change who="#mmoliere" when="2024-04-24T12:16:13.894Z">Steinschneider heritage data</change>
             <change who="#admin" when="2024-04-24T07:02:52.442Z">changed alternate names to attested</change>
             <change who="#admin" when="2024-04-23T15:59:37.290Z">Save</change>
@@ -91,7 +87,8 @@
     <text>
         <body>
             <listPerson>
-                <person role="author" xml:id="person-11"><note>Yešuʿa ben Yehuda, also known by his Arabic name, Abū l-Faraj Furqān b. Asad, was an eminent Qaraite Jewish legal scholar, exegete, and theologian active in Jerusalem during the second third of the eleventh century. He was educated at the house of study (dār al-ʿilm) established towards the end of the tenth century in the courtyard of Abū Ya‘qūb Yūsuf b. Nūḥ where he studied with the principal teachers of the previous generation, Levi ben Yefet (Abū Saʿīd Lāwī b. Ḥasan al-Baṣrī), Yūsuf al-Baṣīr, and Abū al-Faraj Hārūn b. al-Faraj. During his early career, Yešuʿa acted as personal assistant and close collaborator of his mentor Yūsuf al-Baṣīr with whom he was also linked by close family ties: one of al-Baṣīr’s daughters was a sister-in-law of Yešuʿa’s sister and Yešuʿa’s wife was through her first marriage related to a second daughter of al-Baṣīr. From about the middle of the 11th century, Yešuʿa acted as head of the Qaraite community in Jerusalem. In this role, he maintained close connections with a group of prosperous and powerful patrons in Cairo and cultivated a friendship with successive heads of the Palestinian Yeshiva in Jerusalem. The renown of his teaching sessions attracted students from Qaraite communities in Iran, Iraq, Syria, Palestine, Egypt, the Maghrib, incl. al-Andalus, and Byzantium. As a result, many of his works became widely disseminated already during his lifetime. Students hailing from Byzantium translated a good number of them into Hebrew.
+                <person role="author" xml:id="person-11">
+                    <note>Yešuʿa ben Yehuda, also known by his Arabic name, Abū l-Faraj Furqān b. Asad, was an eminent Qaraite Jewish legal scholar, exegete, and theologian active in Jerusalem during the second third of the eleventh century. He was educated at the house of study (dār al-ʿilm) established towards the end of the tenth century in the courtyard of Abū Ya‘qūb Yūsuf b. Nūḥ where he studied with the principal teachers of the previous generation, Levi ben Yefet (Abū Saʿīd Lāwī b. Ḥasan al-Baṣrī), Yūsuf al-Baṣīr, and Abū al-Faraj Hārūn b. al-Faraj. During his early career, Yešuʿa acted as personal assistant and close collaborator of his mentor Yūsuf al-Baṣīr with whom he was also linked by close family ties: one of al-Baṣīr’s daughters was a sister-in-law of Yešuʿa’s sister and Yešuʿa’s wife was through her first marriage related to a second daughter of al-Baṣīr. From about the middle of the 11th century, Yešuʿa acted as head of the Qaraite community in Jerusalem. In this role, he maintained close connections with a group of prosperous and powerful patrons in Cairo and cultivated a friendship with successive heads of the Palestinian Yeshiva in Jerusalem. The renown of his teaching sessions attracted students from Qaraite communities in Iran, Iraq, Syria, Palestine, Egypt, the Maghrib, incl. al-Andalus, and Byzantium. As a result, many of his works became widely disseminated already during his lifetime. Students hailing from Byzantium translated a good number of them into Hebrew.
 Most of his extensive work remains unedited. In the early 1040s he wrote the Answers to Intricate Questions about Incest (Jawābāt ʿan masāʾil muškila fī l-tarkīb) relating to Gen 2:24 and Lev 18:6–18. This legal treatise, which was directed against earlier Qaraite sages who espoused the catenary theory of incest, comprises an important introduction on concepts of linguistic and hermeneutic theory. These topics were then further elaborated in his Book of Covert Ambiguity (Kitāb al-Tawriya), written in November-December 1046. This latter treatise is mainly modelled on works on legal methodology (uṣūl al-fiqh) written by Muslim proponents of the Muʿtazila. It addresses fundamental epistemological, action-theoretical and linguistic questions underlying scriptural hermeneutics. Prior to its composition, Yešuʿa characterized it as a “Treatise on the prerequisites of scriptural exegesis” (Risāla bi-sharāʾiṭ al-tafsīr). With regard to the book title, it should be noted that tawriya (“covert ambiguity”; “double-entendre”) and tawrāh (“Torah”) are homographs in both Arabic and Hebrew script. As such, the title is a performative pun of the figure of speech which in Arabic rhetorical theory is known as tawriya. The legal part of the Answers served as a blueprint for a voluminous treatise on Qaraite Law which comes in the guise of a “Long Commentary” on Leviticus (al-Tafsīr al-mashrūḥ, al-Tafsīr al-mabsūṭ fī sifr vay-yiqrāʼ). Work on this ambitious project extended over more than a decade, from the mid-1040s and throughout the 1050s. Shortly before the Book of Covert Ambiguity, Yešuʿa wrote his Long Commentary on the Ten Commandments (Tafsīr ʿaseret ha-devarim al-mashrūḥ). In actual fact, this commentary covers Commandments I–IV only and for the greater part deviates from the tafsīr format (niẓām al-tafsīr). Its first part comprises a lemmata-commentary on Exod 19:1–25 and extensive tracts on theological fundamentals (uṣūl al-dīn) based on Exod 20:1–6. The section on vows and oaths (ad Exod 20:6) was later expanded into a separate treatise (Maqāla fī l-aymān wa-l-nuḏūr). The second part consists of quasi-independent treatises on legal terms and concepts related to the Sabbath (Exod 20:7–10), first and foremost melāḵāh, meléḵet ʿavōdāh and beʿur. Subsequently, Yešuʿa arranged an abridged version of the Long Commentary on the Ten Commandments which was in turn adapted and translated into Hebrew by one of his students from Byzantium.
 The so-called “short” commentary on the Torah, which in manuscript extends over more than 3,000 folios, was commissioned in September 1053 by Abū al-Ḥasan Dāʾūd b. ʿImrān b. Levi, a wealthy Qaraite dignitary in Cairo, for the benefit of his son Abū Saʿīd Levī. Work on this commentary began in mid-1054. This influential commentary, whose importance reaches far beyond the boundaries of the Qaraite community, should rightly be regarded as an outstanding monument of medieval Jewish exegesis. Abraham ibn Ezra (1089–1167), for instance, made extensive use of it in his commentaries on the Torah. A sizeable fragment of the commentary on Genesis 1-28 has been preserved in a Samaritan manuscript. Yešuʿa’s commentary is a tripartite continuous verse by verse running commentary consisting of the original Hebrew verse, an Arabic translation, and a commentary which in addition to linguistic analysis and discussions of halakhic matters pays particular attention to “reason-based subjects and theological issues” (umūr ʿaqliyya wa-masāʾil kalāmiyya).
 Being a knowledgeable and well-read champion of Bahshamī Muʿtazilī kalām (named after the school’s eponymous founder, Abū Hāshim al-Jubbāʾī, d. 933), his œuvre represents the apogee of Jewish Muʿtazilism. This entails that an adequate appreciation of his work requires a close acquaintance with works by Muslim and Jewish proponents of this seminal school of thought.
@@ -222,7 +219,8 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
       <ptr target="https://jalit.org/bibl/H2RX9HN3"/>
       <citedRange unit="folio">177v, ll. 23-24</citedRange>
    </bibl>
-                    <bibl xml:id="jalit-orgbiblXD2YACES" type="bibliography"><citedRange unit="page">46–52</citedRange>
+                    <bibl xml:id="jalit-orgbiblXD2YACES" type="bibliography">
+                        <citedRange unit="page">46–52</citedRange>
                         
                         <title>Meira Polliack, Yeshuʿah Ben Yehudah, in The Karaite Tradition of Arabic Bible Translation: A Linguistic and Exegetical Study of Karaite Translations of the Pentateuch from the Tenth and Eleventh Centuries C.E. (Leiden: Brill, 1997), 46–53.</title>
                         <ptr target="https://jalit.org/bibl/XD2YACES"/>
@@ -232,7 +230,8 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         <title>Jeschuʿa ben Jehuda, Studien über Jeschuʿa ben Jehuda, ed. Martin Schreiner, Bericht über die Lehranstalt für die Wissenschaft des Judentums in Berlin 18 (Berlin: Itzkowski, 1900).</title>
                         <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblCFE22YHD" type="bibliography"><citedRange unit="page">150–65</citedRange>
+                    <bibl xml:id="jalit-orgbiblCFE22YHD" type="bibliography">
+                        <citedRange unit="page">150–65</citedRange>
                         
                         <title>Ofra Tirosh-Becker, Rabbinic Excerpts in Medieval Karaite Literature -גנזי חז"ל בספרות הקראית בימי הביניים, 2 vols. (Jerusalem: Bialik, 2011).</title>
                         <ptr target="https://jalit.org/bibl/CFE22YHD"/>
