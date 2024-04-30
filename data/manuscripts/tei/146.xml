@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -35,19 +33,11 @@
                                             Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein"
-                    role="general"
-                    ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt"
-                    role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat"
-                    role="contributor"
-                    ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
-            <editor xml:id="dsklare"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
+            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
@@ -65,56 +55,39 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+            <editor role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                Ronny Vollandt
                
             </editor>
-            <editor xml:id="gschwarb"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                Gregor Schwarb
                
             </editor>
-            <editor xml:id="ngibson"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                Nathan P. Gibson
                
             </editor>
-            <editor xml:id="mmoliere"
-                    role="contributor creator"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                Maximilian de Molière
                
             </editor>
-            <editor xml:id="nurbiczek"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
+            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
                Nadine Urbiczek
                
             </editor>
-            <editor xml:id="ptarras"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
+            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
                Peter Tarras
                
             </editor>
-            <editor xml:id="afuchs"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
+            <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
                Annabelle Fuchs
                
             </editor>
-            <editor xml:id="lgzella"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
+            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
                Lea Gzella
                
             </editor>
-            <editor xml:id="plakteikina"
-                    role="contributor"
-                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
+            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
                Polina Lakteikina
                
             </editor>
@@ -122,31 +95,23 @@
                Maurizio Boehm
                
             </editor>
-            <editor xml:id="lporalla"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
                Lea Poralla
                
             </editor>
-            <editor xml:id="lfroschmeier"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
+            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
                Lukas Froschmeier
                
             </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person"
-                     ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person"
-                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -168,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#eporat" when="2021-07-11">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-04-30T19:38:24.859Z">Yevr.-Arab. I 3844</change><change who="#eporat" when="2021-07-11">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -176,7 +141,7 @@
    <text>
       <body>
          <listBibl>
-            <msDesc>
+            <msDesc xml:id="ms-146">
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
@@ -192,11 +157,10 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he">תוכן: תרגום לח:27-מ:5 ופירוש לח:1-לט:29 (דפים 7-2); פירוש מ:5 ותרגום מ:18-6 (דף 1)
-        מוזכר: אלכתאב (המקרא; 4א, 4ב); אלמפסר לכתאב איוב (=מפרש ספר איוב; 7א); אואילנא על' אלס' (=הראשונים, עליהם השלום; 6א)
-        זהוי: נראה שהמחבר רבני, כי בדף 6א כתב: "וקד קאל אואילנא על' אלס' אנהא אלכליתאן פי קו' 'מי שת בַּטֻּחוֹת חכמה' (איוב לט:36) 'אלו הכליות' (במדבר רבה פרשת נשא, פרשה י)".
-        </summary>
-                  <msItem xml:id="" class="">
+                  <summary xml:lang="he">תוכן: תרגום לח:27-מ:5 ופירוש לח:1-לט:29 (דפים 7-2); פירוש מ:5 ותרגום מ:18-6 (דף 1).
+מוזכר: אלכתאב (המקרא; 4א, 4ב); אלמפסר לכתאב איוב (=מפרש ספר איוב; 7א); אואילנא על' אלס' (=הראשונים, עליהם השלום; 6א).
+זהוי: נראה שהמחבר רבני, כי בדף 6א כתב: "וקד קאל אואילנא על' אלס' אנהא אלכליתאן פי קו' 'מי שת בַּטֻּחוֹת חכמה' (איוב לט:36) 'אלו הכליות' (במדבר רבה פרשת נשא, פרשה י)".</summary>
+                  <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">פרוש כתובים (איוב)</title>
                      <author ref=""/>
@@ -209,12 +173,12 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="he">  6א: ואמא קו' "מי שת בטחות חכמה" (איוב לח:36) פיעני בה אלקלוב אלמחג'ובה והי להא צפאת מן "וטח את הבית" (ויקרא יד:42). וקד קאל אואילנא על' אלס' אנהא אלכליתאן פי קו' "מי שת בטחות חכמה" "אלו הכליות" (במדבר רבה פרשת נשא, פרשה י).    7א-ב: וראית אלמפסר לכתאב איוב יקול אנה למא כאן איוב ממתחנא במא סבק מן אילאמה לם יראג'ע ולו כאן מעאקבא לאג'יב אנה בסבב עקאבה (צ"ל עציאנה) כמא ערץ' פי קו' "ואמרו כל הגוים על מה עשה ייי" וג' (דברים כט:23) פאנה כאן ג'ואבה "על אשר עזבו את ברית ייי" וג' (שם שם:24). וכדלך ערץ' ירמיהו פי קו' "מדוע דרך רשע' צלחה" וג' (ירמיהו יב:1) פאנה אערץ' ענה וקאל לה "כי את רגלים רצת וילאו'" (שם שם:5). פנקול תעאלה! אללה מן דלך...ואמא נחן פנקול אן קול ירמיהו "מדוע דרך רשעים צלחה" לם יך' ליקתצ'י עליה ג'ואבא לכנה אעתבאר מן פעל אללה וכדלך קול איוב "מדוע רשעים יחיו" (איוב כא:7) לאנה קד קאל ירמיהו "קרוב אתה בפיהם ורחוק מכליותיהם" (ירמיהו יב:2) ועאד ידעו עליהם תם אכד פי גיר הדא אלמעני ופיה דכר "כי את רגלים רצת" וכדלך יחתם ויג'זם מן גיר סואל "תם ורשע הוא מכלה" (איוב ט:22) ויתט'לם ויקול "חי אל הסיר משפטי" (איוב כז:2), "על לא חמס בכפי" (איוב טז:17). ואמא מעני קו' "הודיעני על מה תריבני" (איוב י:2) אי אני לם...</note>
+                     <note xml:lang="ar-Hebr">  6א: ואמא קו' "מי שת בטחות חכמה" (איוב לח:36) פיעני בה אלקלוב אלמחגׄובה̈ והי להא צפאת מן "וטח את הבית" (ויקרא יד:42). וקד קאל אואילנא על' אלס' אנהא אלכליתאן פי קו' "מי שת בטחות חכמה" "אלו הכליות" (במדבר רבה פרשת נשא, פרשה י).    7א-ב: וראית אלמפסר לכתאב איוב יקול אנה למא כאן איוב ממתחנא במא סבק מן אילאמה לם יראגׄע ולו כאן מעאקבא לאגׄיב אנה בסבב עקאבה (צ"ל עציאנה) כמא ערץׄ פי קו' "ואמרו כל הגוים על מה עשה ייי" וג' (דברים כט:23) פאנה כאן גׄואבה "על אשר עזבו את ברית ייי" וג' (שם שם:24). וכדׄלך ערץׄ ירמיהו פי קו' "מדוע דרך רשע' צלחה" וג' (ירמיהו יב:1) פאנה אערץׄ ענה וקאל לה "כי את רגלים רצת וילאו'" (שם שם:5). פנקול תעאלה! אללה מן דׄלך...ואמא נחן פנקול אן קול ירמיהו "מדוע דרך רשעים צלחה" לם יך' ליקתצׄי עליה גׄואבא לכנה אעתבאר מן פעל אללה וכדׄלך קול איוב "מדוע רשעים יחיו" (איוב כא:7) לאנה קד קאל ירמיהו "קרוב אתה בפיהם ורחוק מכליותיהם" (ירמיהו יב:2) ועאד ידעו עליהם תם אכׄדׄ פי גיר הדׄא אלמעני ופיה דׄכר "כי את רגלים רצת" וכדׄלך יחתם ויגׄזם מן גיר סואל "תם ורשע הוא מכלה" (איוב ט:22) ויתטׄלם ויקול "חי אל הסיר משפטי" (איוב כז:2), "על לא חמס בכפי" (איוב טז:17). ואמא מעני קו' "הודיעני על מה תריבני" (איוב י:2) אי אני לם...</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single
+                     <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
                      <listBibl>
                         <bibl>
@@ -228,7 +192,7 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note xml:lang="he">23-22 שורות. חלק מהתוכן חסר בשל קרעים, חלקו מוכתם וחלקו דהה. השלמות ומחיקות של הסופר. השלמות של סופר שני. מילוי גרפי של שורות. בדף 1 יש שומר דף. בגיליון הימני של דף 2א כתובה סמ"ך, לציין תחילת סדר חדש (איוב לח:35). היא מקושטת. בגיליון הימני של דף 1ב כתב סופר שני גרסה חלופית לבא בַפנים: "נ"א סרה". בַפנים: "צורה". ציטוט ראשי הפסוקים בתרגום. ראשי פסוקים לח:30- 31 מנוקדים ניקוד טברני (2א). ניקוד טברני של מילים מהפסוקים בפירוש ושל המילה "אֵיפָה" (זכריה ה; 5א). ניקוד טברני של מילה ערבית: "פַלַוּ" (6ב). ניקוד ערבי ספורדי. תנועת צַ'מּה ושַדּה מצויות הרבה. ציון שני קווים קצרים מעל תא מרבוטה במילה המשמשת נסמך. לעיתים ציין הסופר נקודתיים מאוזנות מעל תיבות מקראיות. בסיימו לפרש את איוב לט:29 דן המחבר בשאלת הצדק האלוהי. הביא את דברי "אלמפסר לכתאב איוב" ודחה אותם (ראו המובאה להלן). (המפרש שהוא מביא הוא לא רס"ג ולא יפת בן עלי.) הדיון הזה בא בדף 7א, סוף שורה 15 ואילך. סיומו חסר. אפשר שהוא הקדמה לפירוש איוב מ:2: "הרב עם שדי יסור מוכיח אלוה יעננה".          </note>
+                           <note xml:lang="he">23-22 שורות. חלק מהתוכן חסר בשל קרעים, חלקו מוכתם וחלקו דהה. השלמות ומחיקות של הסופר. השלמות של סופר שני. מילוי גרפי של שורות. בדף 1 יש שומר דף. בגיליון הימני של דף 2א כתובה סמ"ך, לציין תחילת סדר חדש (איוב לח:35). היא מקושטת. בגיליון הימני של דף 1ב כתב סופר שני גרסה חלופית לבא בַפנים: "נ"א סרה". בַפנים: "צורה". ציטוט ראשי הפסוקים בתרגום. ראשי פסוקים לח:30- 31 מנוקדים ניקוד טברני (2א). ניקוד טברני של מילים מהפסוקים בפירוש ושל המילה "אֵיפָה" (זכריה ה; 5א). ניקוד טברני של מילה ערבית: "פַלַוּ" (6ב). ניקוד ערבי ספורדי. תנועת צַ'מּה ושַדּה מצויות הרבה. ציון שני קווים קצרים מעל תא מרבוטה במילה המשמשת נסמך. לעיתים ציין הסופר נקודתיים מאוזנות מעל תיבות מקראיות. בסיימו לפרש את איוב לט:29 דן המחבר בשאלת הצדק האלוהי. הביא את דברי "אלמפסר לכתאב איוב" ודחה אותם (ראו המובאה להלן). (המפרש שהוא מביא הוא לא רס"ג ולא יפת בן עלי.) הדיון הזה בא בדף 7א, סוף שורה 15 ואילך. סיומו חסר. אפשר שהוא הקדמה לפירוש איוב מ:2: "הרב עם שדי יסור מוכיח אלוה יעננה".</note>
                         </support>
                         <extent>
                            <measure unit="folio">7</measure>
@@ -254,7 +218,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="">
+                        <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -268,7 +232,7 @@
                   </objectDesc>
                   <handDesc hands="">
                      <summary xml:lang=""/>
-                     <handNote medium="">
+                     <handNote medium="" xml:id="hand-111">
                         <locus from="" to=""/>
                         <persName ref="" role=""/>
                         <placeName ref=""/>
@@ -291,7 +255,7 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="">
+                        <item xml:id="add-1111">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
