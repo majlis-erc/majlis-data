@@ -35,7 +35,7 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/><editor role="creator" ref="">admin</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -76,7 +76,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-04-30T09:28:38.985Z">update</change><change who="#mmoliere" when="2024-04-29T17:02:55.238Z">update</change>
+            <change who="#admin" when="2024-04-30T09:59:51.247Z">update</change><change who="#mmoliere" when="2024-04-29T17:02:55.238Z">update</change>
             <change who="#mmoliere" when="2024-04-29T15:38:00.770Z">update</change>
             <change who="#mmoliere" when="2024-04-29T14:11:34.597Z">update</change>
             <change who="#mmoliere" when="2024-04-29T09:54:23.081Z">Updated bibliography</change>
@@ -109,7 +109,7 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
 
                     <!--Attested and alternate names – we only provide references to the sources, but the names are not subdivided.-->
                     <persName type="attested" xml:lang="ar" xml:id="name-3">
-                        <name source="">al-Šayḫ Abū l-Faraj Furqān b. Asad</name>
+                        <name source="#name-3">al-Šayḫ Abū l-Faraj Furqān b. Asad</name>
                     </persName>
                     <persName type="attested" xml:lang="ar" xml:id="name-4">
                         <name source="jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
@@ -140,12 +140,12 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
 
                     </persName>
                     <persName corresp="#name1-10" type="canon" xml:lang="ar-Latn" xml:id="name-9">
-                        <addName source="#jalit-orgbiblH2RX9HN2" ref="#sh-ar" type="shuhra">al-Ḍarīr</addName>
-                        <addName source="#jalit-orgbiblH2RX9HN2" ref="#is-ar" type="ism">Furqān</addName>
-                        <addName source="#jalit-orgbiblH2RX9HN2" ref="#na-ar" type="nasab">Ibn Sulaymān</addName>
-                        <addName source="#jalit-orgbiblH2RX9HN2" ref="#ni-ar" type="nisbah">al-Qurṭubī</addName>
-                        <addName source="#jalit-orgbiblH2RX9HN2" ref="#ku-ar" type="kunya">Abū ’l-Ḥasan</addName>
-                        <addName source="#jalit-orgbiblH2RX9HN2" ref="#la-ar" type="laqab">ʿIzz al-Dīn, al-Manṭiqī</addName>
+                        <addName source="" ref="#sh-ar" type="shuhra">al-Ḍarīr</addName>
+                        <addName source="" ref="#is-ar" type="ism">Furqān</addName>
+                        <addName source="" ref="#na-ar" type="nasab">Ibn Sulaymān</addName>
+                        <addName source="" ref="#ni-ar" type="nisbah">al-Qurṭubī</addName>
+                        <addName source="" ref="#ku-ar" type="kunya">Abū ’l-Ḥasan</addName>
+                        <addName source="" ref="#la-ar" type="laqab">ʿIzz al-Dīn, al-Manṭiqī</addName>
                     </persName>
 
                     <persName type="canon" xml:lang="he" xml:id="name-10">
