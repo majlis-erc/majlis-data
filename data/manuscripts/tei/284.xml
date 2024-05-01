@@ -133,7 +133,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-04-30T21:23:38.957Z">Yevr.-Arab. I 3848</change><change who="#eporat" when="2021-03-14">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-04-30T21:23:38.957Z">Yevr.-Arab. I 3848 (1)</change><change who="#eporat" when="2021-03-14">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -260,7 +260,7 @@
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
                            <quote xml:lang=""/>
-                           <note xml:lang="he">כתובות בעלים: "אנתקל אלמלך אלי (ליתא בכתב היד) שלמה בן ר' ישראל בן ר' מימון המערבי נ"ע מן ורתה ר' יצחק בן ר' ישועה מן יד אכיה אלשיך אלספ... נט'" (כתב יד I: 3812 , דף 1א).
+                           <note xml:lang="ar-Hebr">כתובות בעלים: "אנתקל אלמלך אלי (ליתא בכתב היד) שלמה בן ר' ישראל בן ר' מימון המערבי נ"ע מן ורתה ר' יצחק בן ר' ישועה מן יד אכיה אלשיךׄ‎ אלספ... נט'" (כתב יד I: 3812 , דף 1א).
         </note>
                         </item>
                      </list>
