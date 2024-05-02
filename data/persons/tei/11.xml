@@ -37,7 +37,8 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref="">admin</editor>
-                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
+                <editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -78,7 +79,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2024-05-02T07:09:34.094Z">corrections to personal name</change><change who="#admin" when="2024-05-01T16:36:24.591Z">update</change>
+            <change who="#mmoliere" when="2024-05-02T15:09:01.011Z">update</change><change who="#gschwarb" when="2024-05-02T07:09:34.094Z">corrections to personal name</change>
+            <change who="#admin" when="2024-05-01T16:36:24.591Z">update</change>
             <change who="#admin" when="2024-04-30T09:59:51.247Z">update</change>
             <change who="#mmoliere" when="2024-04-29T17:02:55.238Z">update</change>
             <change who="#mmoliere" when="2024-04-29T15:38:00.770Z">update</change>
@@ -116,13 +118,13 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         <name>al-Šayḫ Abū l-Faraj Furqān b. Asad</name>
                     </persName>
                     <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name source="###jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
+                        <name source="####jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
                     </persName>
                     <persName type="attested" xml:lang="ar-Hebr" xml:id="name-5">
-                        <name source="###jalit-orgbiblH2RX9HN3">אלשיך אבו אלפרג̇ פרקאן בן אסד</name>
+                        <name source="####jalit-orgbiblH2RX9HN3">אלשיך אבו אלפרג̇ פרקאן בן אסד</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-6">
-                        <name source="###jalit-orgbiblH2RX9HN2">פ"פ / פ̇פ̇</name>
+                        <name source="####jalit-orgbiblH2RX9HN2">פ"פ / פ̇פ̇</name>
                     </persName>
 
                     <!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
@@ -167,31 +169,31 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-12">
-                        <name source="###isni">Abū l-Faraj Furqān ibn Asad</name>
+                        <name source="####isni">Abū l-Faraj Furqān ibn Asad</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-13">
-                        <name source="###isni">Abu Alfarag' Farḳan ibn Asad</name>
+                        <name source="####isni">Abu Alfarag' Farḳan ibn Asad</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-14">
-                        <name source="###isni">Jeshua ben Judah</name>
+                        <name source="####isni">Jeshua ben Judah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-15">
-                        <name source="###isni">Yeshuʻah ben Yehudah</name>
+                        <name source="####isni">Yeshuʻah ben Yehudah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-16">
-                        <name source="###isni">אבו אלפרג פרקאן אבן אסד</name>
+                        <name source="####isni">אבו אלפרג פרקאן אבן אסד</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-17">
-                        <name source="###isni">ישועה בן יהודה</name>
+                        <name source="####isni">ישועה בן יהודה</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-18">
-                        <name source="###isni">ישועה בן יהודה (הקראי)</name>
+                        <name source="####isni">ישועה בן יהודה (הקראי)</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-19">
-                        <name source="###isni">ישועה המלמד</name>
+                        <name source="####isni">ישועה המלמד</name>
                     </persName>
                     <persName type="alternate" xml:lang="ar-Latn" xml:id="name-20">
-                        <name source="###isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
+                        <name source="####isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
                     </persName>
                     <birth>
                         <date>1001-1010</date>
@@ -212,55 +214,55 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         <placeName ref="" cert="">Jerusalem</placeName>
                     </residence>
                     <bibl xml:id="jalit-orgbiblH2RX9HN2" type="manuscript">
-      <title>BL, Or. 2493</title>
+      <title>London, British Library, Or. 2493</title>
       <ptr target="https://jalit.org/bibl/H2RX9HN2"/>
       <citedRange unit="folio">40v, l. 20</citedRange>
    </bibl>
                     <bibl xml:id="jalit-orgbiblH2RX9HN1" type="manuscript">
-      <title>Yevr.-Arab. I 1125</title>
+      <title>St. Petersburg, Russian National Library, Yevr.-Arab. I 1125</title>
       <ptr target="https://jalit.org/bibl/H2RX9HN1"/>
       <citedRange unit="folio">18v, ll. 10-11</citedRange>
    </bibl>
                     
                     <bibl xml:id="jalit-orgbiblH2RX9HN3" type="manuscript">
-      <title>Yevr.-Arab. I 3910</title>
+      <title>St. Petersburg, Russian National Library, Yevr.-Arab. I 3910</title>
       <ptr target="https://jalit.org/bibl/H2RX9HN3"/>
       <citedRange unit="folio">177v, ll. 23-24</citedRange>
    </bibl>
-                    <bibl xml:id="jalit-orgbiblXD2YACES" type="bibliography">
-                        <citedRange unit="page">46–52</citedRange>
-                        
-                        <title>Meira Polliack, Yeshuʿah Ben Yehudah, in The Karaite Tradition of Arabic Bible Translation: A Linguistic and Exegetical Study of Karaite Translations of the Pentateuch from the Tenth and Eleventh Centuries C.E. (Leiden: Brill, 1997), 46–53.</title>
-                        <ptr target="https://jalit.org/bibl/XD2YACES"/>
+                    <bibl xml:id="jalit-orgbibl75PTS4B6" type="bibliography">
+                        <title>Yeshu‛a ben Yehudah (11th c.)</title>
+                        <ptr target="https://jalit.org/bibl/75PTS4B6"/>
+                    </bibl><bibl xml:id="jalit-orgbiblMS5GR9GJ" type="bibliography">
+                        <title>Joseph al-Basir and Jeshua ben Judah</title>
+                        <ptr target="https://jalit.org/bibl/MS5GR9GJ"/>
+                    </bibl><bibl xml:id="jalit-orgbiblGQLFIW96" type="bibliography">
+                        <title>Jeschua ben Jehuda</title>
+                        <ptr target="https://jalit.org/bibl/GQLFIW96"/>
                     </bibl>
                     <bibl xml:id="jalit-orgbiblBDQGF3G3" type="bibliography">
                         
                         <title>Jeschuʿa ben Jehuda, Studien über Jeschuʿa ben Jehuda, ed. Martin Schreiner, Bericht über die Lehranstalt für die Wissenschaft des Judentums in Berlin 18 (Berlin: Itzkowski, 1900).</title>
                         <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
                     </bibl>
+                    <bibl xml:id="jalit-orgbiblXD2YACES" type="bibliography">
+                        <citedRange unit="page">46–52</citedRange>
+                        
+                        <title>Meira Polliack, Yeshuʿah Ben Yehudah, in The Karaite Tradition of Arabic Bible Translation: A Linguistic and Exegetical Study of Karaite Translations of the Pentateuch from the Tenth and Eleventh Centuries C.E. (Leiden: Brill, 1997), 46–53.</title>
+                        <ptr target="https://jalit.org/bibl/XD2YACES"/>
+                    </bibl>
+                    
+                    
+                    
+                    <bibl xml:id="jalit-orgbiblY7R33F3A" type="bibliography">
+                        <title>Alternate Renderings and Additions in Yeshuʿah ben Yehudah’s Arabic Translation of the Pentateuch</title>
+                        <ptr target="https://jalit.org/bibl/Y7R33F3A"/>
+                    </bibl>
                     <bibl xml:id="jalit-orgbiblCFE22YHD" type="bibliography">
                         <citedRange unit="page">150–65</citedRange>
                         
                         <title>Ofra Tirosh-Becker, Rabbinic Excerpts in Medieval Karaite Literature -גנזי חז"ל בספרות הקראית בימי הביניים, 2 vols. (Jerusalem: Bialik, 2011).</title>
                         <ptr target="https://jalit.org/bibl/CFE22YHD"/>
-                    </bibl>
-                    <bibl xml:id="jalit-orgbiblMS5GR9GJ" type="bibliography">
-                        <title>Joseph al-Basir and Jeshua ben Judah</title>
-                        <ptr target="https://jalit.org/bibl/MS5GR9GJ"/>
-                    </bibl>
-                    <bibl xml:id="jalit-orgbibl75PTS4B6" type="bibliography">
-                        <title>Yeshu‛a ben Yehudah (11th c.)</title>
-                        <ptr target="https://jalit.org/bibl/75PTS4B6"/>
-                    </bibl>
-                    <bibl xml:id="jalit-orgbiblGQLFIW96" type="bibliography">
-                        <title>Jeschua ben Jehuda</title>
-                        <ptr target="https://jalit.org/bibl/GQLFIW96"/>
-                    </bibl>
-                    <bibl xml:id="jalit-orgbiblY7R33F3A" type="bibliography">
-                        <title>Alternate Renderings and Additions in Yeshuʿah ben Yehudah’s Arabic Translation of the Pentateuch</title>
-                        <ptr target="https://jalit.org/bibl/Y7R33F3A"/>
-                    </bibl>
-                    <bibl xml:id="jalit-orgbiblEFVRVADD" type="bibliography">
+                    </bibl><bibl xml:id="jalit-orgbiblEFVRVADD" type="bibliography">
                         <title>The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century</title>
                         <ptr target="https://jalit.org/bibl/EFVRVADD"/>
                     </bibl>
@@ -272,10 +274,7 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         <title>ישועה בן יהודה: לדמותו של חכם קראי ירושלמי במאה הי"א</title>
                         <ptr target="https://jalit.org/bibl/WJR4LN8T"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblB52AZ464" type="bibliography">
-                        <title>ישועה בן יהודה —  לדמותו של חכם קראי ירושלמי במאה הי"א</title>
-                        <ptr target="https://jalit.org/bibl/B52AZ464"/>
-                    </bibl>
+                    
                     <bibl xml:id="jalit-orgbiblYEL8X7GU" type="bibliography">
                         <title>הקראי‛ ישועה בן יהודה  מחברו של פירוש לס׳ בראשית שנשתמר בלבוש שומרוני</title>
                         <ptr target="https://jalit.org/bibl/YEL8X7GU"/>
@@ -371,7 +370,7 @@ Quellen: Wolf III n. 1967b = I, III n. 1940; andere s. HÜb. 946, wo lies CL. 23
                 </quote>
                 <bibl xml:id="jalit-orgbiblKYQS5YI2">
                         <idno/>
-                        <title type="citation">Samuel Abraham Poznański, “Encyclopedia of Qaraites” (Jerusalem, n.d.), סדרה 5: אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive.</title>
+                        <title type="citation">Samuel Abraham Poznański, “Encyclopedia of Qaraites” (Jerusalem, n.d.), סדרה 5: אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC. 4* 1180, https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL990032439840205171/NLI</title>
                         <ptr target="https://jalit.org/bibl/KYQS5YI2"/>
                     </bibl>
             </item>
