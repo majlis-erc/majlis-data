@@ -40,7 +40,8 @@
                 <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref="">admin</editor><editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -81,7 +82,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2024-05-03T06:28:52.158Z">update</change><change who="#gschwarb" when="2024-05-02T07:09:34.094Z">corrections to personal name</change>
+            <change who="#gschwarb" when="2024-05-03T07:37:53.498Z">Reihenfolge der Namenselemente angepasst</change><change who="#admin" when="2024-05-03T06:28:52.158Z">update</change>
+            <change who="#gschwarb" when="2024-05-02T07:09:34.094Z">corrections to personal name</change>
             <change who="#mmoliere" when="2024-04-29T09:54:23.081Z">Updated bibliography</change>
             <change who="#mmoliere" when="2024-04-24T12:16:13.894Z">Steinschneider heritage data</change>
             <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
@@ -109,43 +111,43 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
 
                     <!--Attested and alternate names – we only provide references to the sources, but the names are not subdivided.-->
                     <persName type="attested" xml:lang="ar" xml:id="name-3">
-                        <name>al-Šayḫ Abū l-Faraj Furqān b. Asad</name>
+                        <name>al-Šayḫ Abū l-Faraǧ Furqān b. Asad</name>
                     </persName>
                     <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name source="######jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
+                        <name source="#######jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
                     </persName>
                     <persName type="attested" xml:lang="ar-Hebr" xml:id="name-5">
-                        <name source="######jalit-orgbiblH2RX9HN3">אלשיך אבו אלפרג̇ פרקאן בן אסד</name>
+                        <name source="#######jalit-orgbiblH2RX9HN3">אלשיך אבו אלפרג̇ פרקאן אבן אסד</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-6">
-                        <name source="######jalit-orgbiblH2RX9HN2">פ"פ / פ̇פ̇</name>
+                        <name source="#######jalit-orgbiblH2RX9HN2">פ"פ / פ̇פ̇</name>
                     </persName>
 
                     <!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
                     Both names are given in the original scripts and then supplemented with transliterations.-->
                     <persName type="canon" xml:lang="ar" xml:id="name-7">
-                        <addName xml:id="sh-ar" type="shuhra"/>
-                        <addName xml:id="is-ar" type="ism">فرقان</addName>
+                        
+                        <addName xml:id="la-ar" type="laqab">المعلم الفاضل</addName><addName xml:id="ku-ar" type="kunya">أبو الفرج</addName><addName xml:id="is-ar" type="ism">فرقان</addName>
                         <addName xml:id="na-ar" type="nasab">بن أسد</addName>
-                        <addName xml:id="ni-ar" type="nisbah"/>
-                        <addName xml:id="ku-ar" type="kunya">أبو الفرج</addName>
-                        <addName xml:id="la-ar" type="laqab">المعلم الفاضل</addName>
+                        <addName xml:id="ni-ar" type="nisbah"/><addName xml:id="sh-ar" type="shuhra"/>
+                        
+                        
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism">פרקאן</addName>
+                        
+                        <addName ref="#ku-ar" type="kunya">אבו אלפרג̇</addName><addName ref="#is-ar" type="ism">פרקאן</addName>
                         <addName ref="#na-ar" type="nasab">אבן אסד</addName>
-                        <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya">אבו אלפרג̇</addName>
+                        <addName ref="#ni-ar" type="nisbah"/><addName ref="#sh-ar" type="shuhra"/>
+                        
 
                     </persName>
                     <persName corresp="#name1-10" type="canon" xml:lang="ar-Latn" xml:id="name-9">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism">Furqān</addName>
+                        
+                        <addName ref="#la-ar" type="laqab">al-Muʿallim al-Fāḍil</addName><addName ref="#ku-ar" type="kunya">Abū l-Faraj</addName><addName ref="#is-ar" type="ism">Furqān</addName>
                         <addName ref="#na-ar" type="nasab">b. Asad</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya">Abū l-Faraj</addName>
-                        <addName ref="#la-ar" type="laqab">al-Muʿallim al-Fāḍil</addName>
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        
                     </persName>
 
                     <persName type="canon" xml:lang="he" xml:id="name-10">
@@ -163,31 +165,31 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-12">
-                        <name source="######isni">Abū l-Faraj Furqān ibn Asad</name>
+                        <name source="#######isni">Abū l-Faraj Furqān ibn Asad</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-13">
-                        <name source="######isni">Abu Alfarag' Farḳan ibn Asad</name>
+                        <name source="#######isni">Abu Alfarag' Farḳan ibn Asad</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-14">
-                        <name source="######isni">Jeshua ben Judah</name>
+                        <name source="#######isni">Jeshua ben Judah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-15">
-                        <name source="######isni">Yeshuʻah ben Yehudah</name>
+                        <name source="#######isni">Yeshuʻah ben Yehudah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-16">
-                        <name source="######isni">אבו אלפרג פרקאן אבן אסד</name>
+                        <name source="#######isni">אבו אלפרג פרקאן אבן אסד</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-17">
-                        <name source="######isni">ישועה בן יהודה</name>
+                        <name source="#######isni">ישועה בן יהודה</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-18">
-                        <name source="######isni">ישועה בן יהודה (הקראי)</name>
+                        <name source="#######isni">ישועה בן יהודה (הקראי)</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-19">
-                        <name source="######isni">ישועה המלמד</name>
+                        <name source="#######isni">ישועה המלמד</name>
                     </persName>
                     <persName type="alternate" xml:lang="ar-Latn" xml:id="name-20">
-                        <name source="######isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
+                        <name source="#######isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
                     </persName>
                     <birth>
                         <date>1001-1010</date>
@@ -222,31 +224,40 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
       <title>St. Petersburg, Russian National Library, Yevr.-Arab. I 3910</title>
       <ptr target="https://jalit.org/bibl/H2RX9HN3"/>
       <citedRange unit="folio">177v, ll. 23-24</citedRange>
-   </bibl><bibl xml:id="jalit-orgbibl8FBH9YMV" type="bibliography">
+   </bibl>
+                    <bibl xml:id="jalit-orgbibl8FBH9YMV" type="bibliography">
                         <title>Jeshua ben Judah (Abu al-Faraj Furkan ibn Asad)</title>
                         <ptr target="https://jalit.org/bibl/8FBH9YMV"/>
-                    </bibl><bibl xml:id="jalit-orgbiblQ2PJPKXC" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblQ2PJPKXC" type="bibliography">
                         <title>Selfness and kinship in Medieval Karaite incest laws</title>
                         <ptr target="https://jalit.org/bibl/Q2PJPKXC"/>
-                    </bibl><bibl xml:id="jalit-orgbiblW9JNNQ8E" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblW9JNNQ8E" type="bibliography">
                         <title>Jeshuah ben Judah</title>
                         <ptr target="https://jalit.org/bibl/W9JNNQ8E"/>
-                    </bibl><bibl xml:id="jalit-orgbibl622KX8C5" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbibl622KX8C5" type="bibliography">
                         <title>"Yeshu'ah ben Yehuda"</title>
                         <ptr target="https://jalit.org/bibl/622KX8C5"/>
-                    </bibl><bibl xml:id="jalit-orgbiblK45JWU3B" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblK45JWU3B" type="bibliography">
                         <title>"Yeshuʿah ben Yehudah"</title>
                         <ptr target="https://jalit.org/bibl/K45JWU3B"/>
-                    </bibl><bibl xml:id="jalit-orgbiblWGVP2FVG">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblWGVP2FVG">
                         <title>Yeshuʿa Ben Yehuda</title>
                         <ptr target="https://jalit.org/bibl/WGVP2FVG"/>
-                    </bibl><bibl xml:id="jalit-orgbibl6G7L8RBU" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbibl6G7L8RBU" type="bibliography">
                         <title>Theological Encounters at a Crossroads: An Edition and Translation of Judah Hadassi’s Eshkol ha-kofer, First Commandment, and Studies of the Book’s Judaeo-Arabic and Byzantine Contexts. Karaite Texts and Studies, Volume 11</title>
                         <ptr target="https://jalit.org/bibl/6G7L8RBU"/>
-                    </bibl><bibl xml:id="jalit-orgbiblEEXL93F2">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblEEXL93F2">
                         <title>"Yeshuʿah ben Yehudah"</title>
                         <ptr target="https://jalit.org/bibl/EEXL93F2"/>
-                    </bibl><bibl xml:id="jalit-orgbiblZLNKA88V" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblZLNKA88V" type="bibliography">
                         <title>Controversies on the Creation of Man in Abraham ibn Ezra’s Exegesis</title>
                         <ptr target="https://jalit.org/bibl/ZLNKA88V"/>
                     </bibl>
@@ -258,13 +269,16 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                     <bibl xml:id="jalit-orgbiblGQLFIW96" type="bibliography">
                         <title>Jeschua ben Jehuda</title>
                         <ptr target="https://jalit.org/bibl/GQLFIW96"/>
-                    </bibl><bibl xml:id="jalit-orgbibl5P7VNX5X" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbibl5P7VNX5X" type="bibliography">
                         <title>Jeshua ben Judah</title>
                         <ptr target="https://jalit.org/bibl/5P7VNX5X"/>
-                    </bibl><bibl xml:id="jalit-orgbibl744RKHKK" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbibl744RKHKK" type="bibliography">
                         <title>Jeshua ben Judah</title>
                         <ptr target="https://jalit.org/bibl/744RKHKK"/>
-                    </bibl><bibl xml:id="jalit-orgbiblK9YT8XBW" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblK9YT8XBW" type="bibliography">
                         <title>The Writings of Abu’l-Faraj Furkan ibn Asad</title>
                         <ptr target="https://jalit.org/bibl/K9YT8XBW"/>
                     </bibl>
@@ -286,13 +300,16 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                     <bibl xml:id="jalit-orgbiblEFVRVADD" type="bibliography">
                         <title>The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century</title>
                         <ptr target="https://jalit.org/bibl/EFVRVADD"/>
-                    </bibl><bibl xml:id="jalit-orgbiblVHM2YLU6">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblVHM2YLU6">
                         <title>Allegorical Interpretation of Daniel 12:2</title>
                         <ptr target="https://jalit.org/bibl/VHM2YLU6"/>
-                    </bibl><bibl xml:id="jalit-orgbiblDY3XGNNK" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblDY3XGNNK" type="bibliography">
                         <title>"Yeshu'ah ben Yehudah"</title>
                         <ptr target="https://jalit.org/bibl/DY3XGNNK"/>
-                    </bibl><bibl xml:id="jalit-orgbibl8DBCM74T" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbibl8DBCM74T" type="bibliography">
                         <title>"Yeshu'ah ben Yehuda"</title>
                         <ptr target="https://jalit.org/bibl/8DBCM74T"/>
                     </bibl>
@@ -300,7 +317,8 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         
                         <title>Jeschuʿa ben Jehuda, Studien über Jeschuʿa ben Jehuda, ed. Martin Schreiner, Bericht über die Lehranstalt für die Wissenschaft des Judentums in Berlin 18 (Berlin: Itzkowski, 1900).</title>
                         <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
-                    </bibl><bibl xml:id="jalit-orgbiblXVZRT66U" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblXVZRT66U" type="bibliography">
                         <title>"Yeshuʿah ben Yehudah"</title>
                         <ptr target="https://jalit.org/bibl/XVZRT66U"/>
                     </bibl>
@@ -308,13 +326,16 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                     <bibl xml:id="jalit-orgbibl75PTS4B6" type="bibliography">
                         <title>Yeshu‛a ben Yehudah (11th c.)</title>
                         <ptr target="https://jalit.org/bibl/75PTS4B6"/>
-                    </bibl><bibl xml:id="jalit-orgbiblWQG4HFFA" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblWQG4HFFA" type="bibliography">
                         <title>Le Caraïsmę et ses doctrines</title>
                         <ptr target="https://jalit.org/bibl/WQG4HFFA"/>
-                    </bibl><bibl xml:id="jalit-orgbibl55V5RWFM">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbibl55V5RWFM">
                         <title>"Yeschu'ah ben Yehuda"</title>
                         <ptr target="https://jalit.org/bibl/55V5RWFM"/>
-                    </bibl><bibl xml:id="jalit-orgbiblHJQ9NM6M" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblHJQ9NM6M" type="bibliography">
                         <title>Linguistic study of a rabbinic quotation embedded in a Karaite commentary on Exodus</title>
                         <ptr target="https://jalit.org/bibl/HJQ9NM6M"/>
                     </bibl>
@@ -323,10 +344,12 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                         
                         <title>Ofra Tirosh-Becker, Rabbinic Excerpts in Medieval Karaite Literature -גנזי חז"ל בספרות הקראית בימי הביניים, 2 vols. (Jerusalem: Bialik, 2011).</title>
                         <ptr target="https://jalit.org/bibl/CFE22YHD"/>
-                    </bibl><bibl xml:id="jalit-orgbiblZBPDVTMI" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblZBPDVTMI" type="bibliography">
                         <title>Yeshua ben Yehuda</title>
                         <ptr target="https://jalit.org/bibl/ZBPDVTMI"/>
-                    </bibl><bibl xml:id="jalit-orgbiblSXLXLGW6" type="bibliography">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblSXLXLGW6" type="bibliography">
                         <title>"Yeshuʿah ben Yehudah"</title>
                         <ptr target="https://jalit.org/bibl/SXLXLGW6"/>
                     </bibl>
@@ -342,7 +365,8 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
                     <bibl xml:id="jalit-orgbiblYEL8X7GU" type="bibliography">
                         <title>הקראי‛ ישועה בן יהודה  מחברו של פירוש לס׳ בראשית שנשתמר בלבוש שומרוני</title>
                         <ptr target="https://jalit.org/bibl/YEL8X7GU"/>
-                    </bibl><bibl xml:id="jalit-orgbiblW9J33KHC">
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblW9J33KHC">
                         <title>The Impossibilities in "Bereshit Raba" of Jeshua ben Judah / הנמנעות בחוק האל ב"בראשית רבה" לישועה בן יהודה</title>
                         <ptr target="https://jalit.org/bibl/W9J33KHC"/>
                     </bibl>
