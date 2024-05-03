@@ -134,7 +134,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-05-03T16:28:21.525Z">Yevr.-Arab. I 211 (link test)</change><change who="#rboehm" when="2024-01-18T10:48:19.118Z">Yevr.-Arab. I 211</change>
+         <change who="#rboehm" when="2024-05-03T16:28:21.525Z">Yevr.-Arab. I 211 (join test 2)</change><change who="#rboehm" when="2024-01-18T10:48:19.118Z">Yevr.-Arab. I 211</change>
             <change who="#eporat" when="2020-03-01">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
@@ -183,8 +183,12 @@
                   <ab type="codicological-definition">
                      <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
-                     <listBibl>
-                        <bibl>
+                     <listBibl><bibl>
+      <ptr target=""/>
+      <citedRange unit=""/>
+      <idno type="">Yevr.-Arab. I 280</idno>
+   </bibl>
+                        <bibl><ptr target=""/>
                            
                            <citedRange unit="folios"/>
                            <idno type="manuscript-join">Yevr.-Arab. I 1456</idno><ptr target="https://jalit.org/manuscript/81"/>
