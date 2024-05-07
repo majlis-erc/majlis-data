@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,27 +13,19 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-               >Ronny Vollandt
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
                </editor>
-            <editor xml:id="gschwarb" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-               >Gregor Schwarb
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-               >Nathan P. Gibson
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
                </editor>
-            <editor xml:id="mmoliere" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-               >Maximilian de Molière
+            <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt>
+            </respStmt><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -54,100 +44,99 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
+         <change who="#mmoliere" when="2024-05-07T12:50:54.674Z">Added heritage data</change><change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPerson>
-            <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
-                  <name source="">Levi ben Yefet ben ʿElī</name>
+            <person xml:id="person-10">
+               <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                  <name>Levi ben Yefet ben ʿElī</name>
                </persName>
-               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                  <name source="">Abū Saʿīd Levi ben Yefet ben ʿElī</name>
+               <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                  <name>Abū Saʿīd Levi ben Yefet ben ʿElī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu Saʻid</name>
+               <persName type="alternate" xml:lang="" xml:id="name-3">
+                  <name source="##isni">Abu Saʻid</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Batsri, Laṿi bin al-Ḥasan</name>
+               <persName type="alternate" xml:lang="" xml:id="name-4">
+                  <name source="##isni">Batsri, Laṿi bin al-Ḥasan</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Haleṿi, Leṿi ben Yefet</name>
+               <persName type="alternate" xml:lang="" xml:id="name-5">
+                  <name source="##isni">Haleṿi, Leṿi ben Yefet</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Levi ben Japhet</name>
+               <persName type="alternate" xml:lang="" xml:id="name-6">
+                  <name source="##isni">Levi ben Japhet</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Leṿi ben Yefet (ha-Leṿi)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-7">
+                  <name source="##isni">Leṿi ben Yefet (ha-Leṿi)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he">
-                  <name source="#isni">לוי בן יפת (החוי)</name>
+               <persName type="alternate" xml:lang="he" xml:id="name-8">
+                  <name source="##isni">לוי בן יפת (החוי)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar">
-                  <name source="#isni">لاوي بن يافث</name>
+               <persName type="alternate" xml:lang="ar" xml:id="name-9">
+                  <name source="##isni">لاوي بن يافث</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="">al-Muʿallim Abū Saʿīd</name>
+               <persName type="alternate" xml:lang="" xml:id="name-10">
+                  <name>al-Muʿallim Abū Saʿīd</name>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar">
-                  <addName source="" xml:id="sh-ar" type="shuhra"/>
-                  <addName source="" xml:id="is-ar" type="ism"/>
-                  <addName source="" xml:id="na-ar" type="nasab"/>
-                  <addName source="" xml:id="ni-ar" type="nisbah"/>
-                  <addName source="" xml:id="ku-ar" type="kunya"/>
-                  <addName source="" xml:id="la-ar" type="laqab"/>
+               <persName type="canon" xml:lang="ar" xml:id="name-11">
+                  <addName xml:id="sh-ar" type="shuhra"/>
+                  <addName xml:id="is-ar" type="ism"/>
+                  <addName xml:id="na-ar" type="nasab"/>
+                  <addName xml:id="ni-ar" type="nisbah"/>
+                  <addName xml:id="ku-ar" type="kunya"/>
+                  <addName xml:id="la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar-Hebr">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
+               <persName type="canon" xml:lang="ar-Hebr" xml:id="name-12">
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
-                  >
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
+               <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-13">
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="he">
-                  <forename source="" xml:id="fn-he"/>
-                  <addName source="" xml:id="pa-he" type="patronym"/>
-                  <addName source="" xml:id="ep-he" type="epithet"/>
-                  <addName source="" xml:id="ac-he" type="acronym"/>
-                  <addName source="" xml:id="sh-he" type="shuhra"/>
+               <persName type="canon" xml:lang="he" xml:id="name-14">
+                  <forename xml:id="fn-he"/>
+                  <addName xml:id="pa-he" type="patronym"/>
+                  <addName xml:id="ep-he" type="epithet"/>
+                  <addName xml:id="ac-he" type="acronym"/>
+                  <addName xml:id="sh-he" type="shuhra"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn">
-                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName source="" ref="#pa-he" type="patronym"/>
-                  <addName source="" ref="#ep-he" type="epithet"/>
-                  <addName source="" ref="#ac-he" type="acronym"/>
-                  <addName source="" ref="#sh-he" type="shuhra"/>
+               <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-15">
+                  <forename ref="#fn-he" xml:lang="he-Latn"/>
+                  <addName ref="#pa-he" type="patronym"/>
+                  <addName ref="#ep-he" type="epithet"/>
+                  <addName ref="#ac-he" type="acronym"/>
+                  <addName ref="#sh-he" type="shuhra"/>
                </persName>
                <birth>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
+                  <date cert=""/>
+                  <placeName ref="" cert=""/>
                </birth>
                <death>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
+                  <date cert=""/>
+                  <placeName ref="" cert=""/>
                </death>
                <floruit>
-    <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
+    <date cert=""/>
+    <placeName ref="" cert=""/>
 </floruit>
-               <sex cert="" source=""/>
-               <faith cert="" source=""/>
-               <occupation type="" cert="" source=""/>
+               <sex cert=""/>
+               <faith cert=""/>
+               <occupation type="" cert=""/>
                <residence>
-                  <placeName ref="" cert="" source=""/>
+                  <placeName ref="" cert=""/>
                </residence>
                <bibl xml:id="">
                   <title/>
@@ -171,12 +160,15 @@
          <item>
             <note/>
             <persName/>
-            <quote xml:lang=""/>
-            <bibl>
-               <title/>
-               <citedRange unit="p"/>
-               <ptr target=""/>
-            </bibl>
+            <quote xml:lang="ge">§ 46 *Levi b. Jefet ha-Levi, Karäer, al-Scheikh (der Lehrer) abu (bu-) Sa’id wohl nach einem Sohne, und nur irrtümlich selbst Sa’id genannt; der Beiname „abu Haschim“ beruht auf einer Confusion mit einem Muhammedaner.
+
+Schriften: 1) ס המצוות Buch der Gebote, hebr. von einem Anonymus (?), ms. Bodl. Nb. 857, CL. 22 (beide def.), Pet. Firk. 613. – Im Abschn. über Kalender kommt das J. 1007 vor; das Buch scheint bei Lebzeiten des Vaters begonnen. Ob die Erwähnung des Hai Gaon echt sei, ist fraglich. Der Abschnitt über das Gebet, worin 10 Punkte erörtert werden, wird in ms. Pet. Firk. 761 als  ענין התפלה dem Jefet (§ 44) beigelegt, in Par. 6707, übers. v. Tobia. Dass der Bruder Sa’id das Werk vollendet habe (Benj. 362 n. 2025; Sabb. Nennt zuerst Sa’id), ist unbegründet; vgl. Firk. bei Pi. A. 182 u. danach Grätz V, 416. Dazu gehört wohl der Abschn. Über Gebete   אלקול  פי אלצלואת in arab. Lett. ms. Br. Mus. 3082. Tract. IV: Dekalog, Geldangelegenheiten, Nasiräat etc. ib. 3092, abweichend vom Hebr.; Firk. nennt Simon b. Mordechai als Übersetzer (ist Copist?). Levi neigt zu Erschwerungen. – 2)  מקדמה , Einleitung zu Perikope Debarim, übersetzt von Moses b. Jesaia Firuz, (um 1650?); das einzige bekannte Frgm. ging verloren. – 3) Frgm. Eines kurzen Comm. ( נכת ) zu Propb. Pr., nur Josua 1-11 vorhanden, ms. Br. Mus. 308. – 4) Vielleicht desgl. zu Psalmen, ib. N. 336.
+
+Quellen: Wf. I, III, 13, vgl. I p. 621, I, III, 1759; Ros. Wb. 137 unter Jefet; neuere s. Pol. S. 336, HÜb. 945 u. XXXIII.</quote>
+            <bibl xml:id="jalit-orgbiblSUPSJCT3">
+                        <title> "Levi ben Yefet" Moritz Steinschneider, Levi ben Yefet, in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902), 85–86.</title>
+                        <ptr target="https://jalit.org/bibl/SUPSJCT3"/>
+                    </bibl>
          </item>
       </list>
    </standOff>
