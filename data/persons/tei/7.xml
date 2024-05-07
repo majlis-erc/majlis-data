@@ -25,7 +25,8 @@
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt><editor role="creator" ref="">admin</editor>
+            </respStmt>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -44,7 +45,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#admin" when="2024-04-24T13:49:56.752Z">updated spelling</change><change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
+         <change who="#mmoliere" when="2024-05-07T12:25:35.940Z">Added heritage data</change><change who="#admin" when="2024-04-24T13:49:56.752Z">updated spelling</change>
+            <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -53,115 +55,115 @@
          <listPerson>
             <person xml:id="person-7">
                <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
-                  <name source="">Yosef ben Noaḥ</name>
+                  <name>Yosef ben Noaḥ</name>
                </persName>
                <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                  <name source="">Yūsuf b. Nūḥ</name>
+                  <name>Yūsuf b. Nūḥ</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-3">
-                  <name source="#isni">Abu Jakub Josef ben Noah</name>
+                  <name source="##isni">Abu Jakub Josef ben Noah</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-4">
-                  <name source="#isni">Abu Yaqub Yusuf ibn Nuh</name>
+                  <name source="##isni">Abu Yaqub Yusuf ibn Nuh</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-5">
-                  <name source="#isni">A̕bū Yaʿqūb Yūsuf ibn Nūḥ</name>
+                  <name source="##isni">A̕bū Yaʿqūb Yūsuf ibn Nūḥ</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-6">
-                  <name source="#isni">Ben Noaḥ, Joseph</name>
+                  <name source="##isni">Ben Noaḥ, Joseph</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-7">
-                  <name source="#isni">Ibn Nuh, Abu Yaqub Yusuf</name>
+                  <name source="##isni">Ibn Nuh, Abu Yaqub Yusuf</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-8">
-                  <name source="#isni">Ibn Nūḥ, ʾAbū Yaʿqūb Yūsuf</name>
+                  <name source="##isni">Ibn Nūḥ, ʾAbū Yaʿqūb Yūsuf</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-9">
-                  <name source="#isni">Josef ben Noah</name>
+                  <name source="##isni">Josef ben Noah</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-10">
-                  <name source="#isni">Joseph Ben-Noah</name>
+                  <name source="##isni">Joseph Ben-Noah</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-11">
-                  <name source="#isni">Nuh, Abu Yaqub Yusuf ibn</name>
+                  <name source="##isni">Nuh, Abu Yaqub Yusuf ibn</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-12">
-                  <name source="#isni">Yūsuf ibn Nūḥ</name>
+                  <name source="##isni">Yūsuf ibn Nūḥ</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-13">
-                  <name source="#isni">ʼAbū Yaʻqūb Yūsuf ibn Bakhtawaih</name>
+                  <name source="##isni">ʼAbū Yaʻqūb Yūsuf ibn Bakhtawaih</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-14">
-                  <name source="#isni">ʼAbū Yaʻqūb Yūsuf ibn Bakhtawi</name>
+                  <name source="##isni">ʼAbū Yaʻqūb Yūsuf ibn Bakhtawi</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-15">
-                  <name source="#isni">ʼAbū Yaʻqūb Yūsuf ibn Nūḥ</name>
+                  <name source="##isni">ʼAbū Yaʻqūb Yūsuf ibn Nūḥ</name>
                </persName>
                <persName type="alternate" xml:lang="" xml:id="name-16">
-                  <name source="#isni">ʾAbū Yaʿqūb Yūsuf b. Nūḥ</name>
+                  <name source="##isni">ʾAbū Yaʿqūb Yūsuf b. Nūḥ</name>
                </persName>
                <persName type="alternate" xml:lang="ar-Latn" xml:id="name-17">
-                  <name source="#isni">Abū Yaʿqūb, Ibn Bakhtawayh</name>
+                  <name source="##isni">Abū Yaʿqūb, Ibn Bakhtawayh</name>
                </persName>
                <persName type="alternate" xml:lang="ar" xml:id="name-18">
-                  <name source="#isni">يوسف بن
+                  <name source="##isni">يوسف بن
                      نوح</name>
                </persName>
                <persName type="canon" xml:lang="ar" xml:id="name-19">
-                  <addName source="" xml:id="sh-ar" type="shuhra"/>
-                  <addName source="" xml:id="is-ar" type="ism"/>
-                  <addName source="" xml:id="na-ar" type="nasab"/>
-                  <addName source="" xml:id="ni-ar" type="nisbah"/>
-                  <addName source="" xml:id="ku-ar" type="kunya"/>
-                  <addName source="" xml:id="la-ar" type="laqab"/>
+                  <addName xml:id="sh-ar" type="shuhra"/>
+                  <addName xml:id="is-ar" type="ism"/>
+                  <addName xml:id="na-ar" type="nasab"/>
+                  <addName xml:id="ni-ar" type="nisbah"/>
+                  <addName xml:id="ku-ar" type="kunya"/>
+                  <addName xml:id="la-ar" type="laqab"/>
                </persName>
                <persName type="canon" xml:lang="ar-Hebr" xml:id="name-20">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
                </persName>
                <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-21">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
                </persName>
                <persName type="canon" xml:lang="he" xml:id="name-22">
-                  <forename source="" xml:id="fn-he"/>
-                  <addName source="" xml:id="pa-he" type="patronym"/>
-                  <addName source="" xml:id="ep-he" type="epithet"/>
-                  <addName source="" xml:id="ac-he" type="acronym"/>
-                  <addName source="" xml:id="sh-he" type="shuhra"/>
+                  <forename xml:id="fn-he"/>
+                  <addName xml:id="pa-he" type="patronym"/>
+                  <addName xml:id="ep-he" type="epithet"/>
+                  <addName xml:id="ac-he" type="acronym"/>
+                  <addName xml:id="sh-he" type="shuhra"/>
                </persName>
                <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-23">
-                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName source="" ref="#pa-he" type="patronym"/>
-                  <addName source="" ref="#ep-he" type="epithet"/>
-                  <addName source="" ref="#ac-he" type="acronym"/>
-                  <addName source="" ref="#sh-he" type="shuhra"/>
+                  <forename ref="#fn-he" xml:lang="he-Latn"/>
+                  <addName ref="#pa-he" type="patronym"/>
+                  <addName ref="#ep-he" type="epithet"/>
+                  <addName ref="#ac-he" type="acronym"/>
+                  <addName ref="#sh-he" type="shuhra"/>
                </persName>
                <birth>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
+                  <date cert=""/>
+                  <placeName ref="" cert=""/>
                </birth>
                <death>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
+                  <date cert=""/>
+                  <placeName ref="" cert=""/>
                </death>
                <floruit>
-    <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
+    <date cert=""/>
+    <placeName ref="" cert=""/>
 </floruit>
-               <sex cert="" source=""/>
-               <faith cert="" source=""/>
-               <occupation type="" cert="" source=""/>
+               <sex cert=""/>
+               <faith cert=""/>
+               <occupation type="" cert=""/>
                <residence>
-                  <placeName ref="" cert="" source=""/>
+                  <placeName ref="" cert=""/>
                </residence>
                <bibl xml:id="">
                   <title/>
@@ -185,12 +187,16 @@
          <item>
             <note/>
             <persName/>
-            <quote xml:lang=""/>
-            <bibl>
-               <title/>
-               <citedRange unit="p"/>
-               <ptr target=""/>
-            </bibl>
+            <quote xml:lang="ge">§38. * Josef (abu Ja'kub) b. Noach ha-Ba'sri (הבוצרי) Karäer, angeblich VIII.— IX. Jh., Bruder des Nissi b. N. (§37).1) Schriften: 1) Übersetz. (תפסיר) und Comm. zum Pentat., wovon abu‘l - Faradj Harun einen Auszug (תלכיץ) machte, welcher zur Compilation des Ali b. Suleiman (§180) benutzt ist. Ob in Petersb. neben dem Auszug auch die Compilation sich findet?
+
+1) Bacher’s Identification mit Josef ibn Bakhtawi (§ 49) ist wohl mit Pozn. Als unbegründet anzusehen; ob aber כתאב אלדקדוק  bei Harun ein arab. Werk bezeichne, ist zweifelhaft. In der sog. Traditionskette bei Mord. p. 115 (11b) ist der kurz nach Jakob genannte Josef  הרואה, s. Lb. XII, 742 Anm., wo unser Josef in der Trad. Des Daniel nicht vorkommt.
+
+Quellen: Mord. 115 (11b) als Vf. von המאור, offernbar Confusion mit Kirkisani, bei Sim. Erst 21b; Wf. III p. 414 n. 933 (ist הנצנים, CL. 389, HÜb. 450); Hiti 431, 488; Pi. 25, A. S. 78/4; Gttl. 177; Fst. I, 119 a. 780 ohne Schrift; Hk. In Stade’s Ztschr. f. alttest. W. 1881 S. 156, 158; Poznanski, Rev. Et. XXXIII, 215.
+</quote>
+            <bibl xml:id="jalit-orgbiblL7WYDPC9">
+                        <title>Die arabische Literatur der Juden</title>
+                        <ptr target="https://jalit.org/bibl/L7WYDPC9"/><citedRange unit="page">75–76</citedRange>
+                    </bibl>
          </item>
       </list>
    </standOff>
