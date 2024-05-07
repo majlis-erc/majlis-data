@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,27 +13,19 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-               >Ronny Vollandt
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
                </editor>
-            <editor xml:id="gschwarb" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-               >Gregor Schwarb
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-               >Nathan P. Gibson
+            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
                </editor>
-            <editor xml:id="mmoliere" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-               >Maximilian de Molière
+            <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt>
+            </respStmt><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -54,436 +44,435 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
+         <change who="#mmoliere" when="2024-05-07T12:46:49.282Z">Added heritage data</change><change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <listPerson>
-            <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
-                  <name source="">Yefet ben ʿElī</name>
+            <person xml:id="person-4">
+               <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                  <name>Yefet ben ʿElī</name>
                </persName>
-               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                  <name source="">Abū ʿAlī Ḥasan al-Baṣrī</name>
+               <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                  <name>Abū ʿAlī Ḥasan al-Baṣrī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu Ali al-Hasan ibn al-Lawi al-basri</name>
+               <persName type="alternate" xml:lang="" xml:id="name-3">
+                  <name source="##isni">Abu Ali al-Hasan ibn al-Lawi al-basri</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu Ali al-Ḥasan ibn Ali al-Lāwī al-Baṣrī</name>
+               <persName type="alternate" xml:lang="" xml:id="name-4">
+                  <name source="##isni">Abu Ali al-Ḥasan ibn Ali al-Lāwī al-Baṣrī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abū Alī Ḥasan ibn Alī al-Baṣrī al-Lāwī</name>
+               <persName type="alternate" xml:lang="" xml:id="name-5">
+                  <name source="##isni">Abū Alī Ḥasan ibn Alī al-Baṣrī al-Lāwī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu Ali Hasan ibn Ali al-Basri al-Lawi (10 в.)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-6">
+                  <name source="##isni">Abu Ali Hasan ibn Ali al-Basri al-Lawi (10 в.)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu Ali Hassan ben Ali</name>
+               <persName type="alternate" xml:lang="" xml:id="name-7">
+                  <name source="##isni">Abu Ali Hassan ben Ali</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu Ali Hassan ben Ali (Allevi, Albac̜ri)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-8">
+                  <name source="##isni">Abu Ali Hassan ben Ali (Allevi, Albac̜ri)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu Ali Jephet</name>
+               <persName type="alternate" xml:lang="" xml:id="name-9">
+                  <name source="##isni">Abu Ali Jephet</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu ʻEli Yafet ben ʻEli (Albatsri)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-10">
+                  <name source="##isni">Abu ʻEli Yafet ben ʻEli (Albatsri)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abu ʿAlī al-Ḥasan ibn ʿAlī al-Lāwī al-Baṣrī</name>
+               <persName type="alternate" xml:lang="" xml:id="name-11">
+                  <name source="##isni">Abu ʿAlī al-Ḥasan ibn ʿAlī al-Lāwī al-Baṣrī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Abū ʿAlī Ḥasan ibn ʿAlī al-Lāwī al-Baṣrī</name>
+               <persName type="alternate" xml:lang="" xml:id="name-12">
+                  <name source="##isni">Abū ʿAlī Ḥasan ibn ʿAlī al-Lāwī al-Baṣrī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Ali, Yefet Ben</name>
+               <persName type="alternate" xml:lang="" xml:id="name-13">
+                  <name source="##isni">Ali, Yefet Ben</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Hallewi, Yeffet ibn Ali</name>
+               <persName type="alternate" xml:lang="" xml:id="name-14">
+                  <name source="##isni">Hallewi, Yeffet ibn Ali</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Ḥasan Ibn-ʿAlî al-Baṣrī al-</name>
+               <persName type="alternate" xml:lang="" xml:id="name-15">
+                  <name source="##isni">Ḥasan Ibn-ʿAlî al-Baṣrī al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Ḥasan Ibn-ʿAlī al-Lāwī</name>
+               <persName type="alternate" xml:lang="" xml:id="name-16">
+                  <name source="##isni">Ḥasan Ibn-ʿAlī al-Lāwī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Ḥasan Ibn-ʿAlī al-Lāwī al-Baṣrī, Abū-ʿAlī al-</name>
+               <persName type="alternate" xml:lang="" xml:id="name-17">
+                  <name source="##isni">Ḥasan Ibn-ʿAlī al-Lāwī al-Baṣrī, Abū-ʿAlī al-</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Iephet ben Eli (Karaita)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-18">
+                  <name source="##isni">Iephet ben Eli (Karaita)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Iephet ben Eli (Karaitae)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-19">
+                  <name source="##isni">Iephet ben Eli (Karaitae)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jäfät Ben-ʿĒlī (Al-Baṣrī)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-20">
+                  <name source="##isni">Jäfät Ben-ʿĒlī (Al-Baṣrī)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jafet ben Ali</name>
+               <persName type="alternate" xml:lang="" xml:id="name-21">
+                  <name source="##isni">Jafet ben Ali</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jafet ben Ali ha-Lewi</name>
+               <persName type="alternate" xml:lang="" xml:id="name-22">
+                  <name source="##isni">Jafet ben Ali ha-Lewi</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jafet ben 'Ali hal-Lewi</name>
+               <persName type="alternate" xml:lang="" xml:id="name-23">
+                  <name source="##isni">Jafet ben 'Ali hal-Lewi</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jafet ben Eli</name>
+               <persName type="alternate" xml:lang="" xml:id="name-24">
+                  <name source="##isni">Jafet ben Eli</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jafet ben ʻAlī</name>
+               <persName type="alternate" xml:lang="" xml:id="name-25">
+                  <name source="##isni">Jafet ben ʻAlī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jafet Ben-ʿAlī</name>
+               <persName type="alternate" xml:lang="" xml:id="name-26">
+                  <name source="##isni">Jafet Ben-ʿAlī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jafet Ben-ʿAlî hal-Lēwî</name>
+               <persName type="alternate" xml:lang="" xml:id="name-27">
+                  <name source="##isni">Jafet Ben-ʿAlî hal-Lēwî</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japhet ben Ali (ha-Levi)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-28">
+                  <name source="##isni">Japhet ben Ali (ha-Levi)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japhet ben Ali Ha-levi (10 в.)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-29">
+                  <name source="##isni">Japhet ben Ali Ha-levi (10 в.)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japhet ben Eli Hallevi Habbaçri</name>
+               <persName type="alternate" xml:lang="" xml:id="name-30">
+                  <name source="##isni">Japhet ben Eli Hallevi Habbaçri</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japhet, ben Eli (of Bassora, the Karaite)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-31">
+                  <name source="##isni">Japhet, ben Eli (of Bassora, the Karaite)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japhet ben Eli (the Karaïte)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-32">
+                  <name source="##isni">Japhet ben Eli (the Karaïte)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japhet Ha-Levi</name>
+               <persName type="alternate" xml:lang="" xml:id="name-33">
+                  <name source="##isni">Japhet Ha-Levi</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth ben Ali</name>
+               <persName type="alternate" xml:lang="" xml:id="name-34">
+                  <name source="##isni">Japheth ben Ali</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth ben Ali (ha-L.; 10 в.)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-35">
+                  <name source="##isni">Japheth ben Ali (ha-L.; 10 в.)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth ben Ali (ha-Levi,)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-36">
+                  <name source="##isni">Japheth ben Ali (ha-Levi,)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth ben Ali Ha-levi (10 в.)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-37">
+                  <name source="##isni">Japheth ben Ali Ha-levi (10 в.)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth ben Eli</name>
+               <persName type="alternate" xml:lang="" xml:id="name-38">
+                  <name source="##isni">Japheth ben Eli</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth ben Eli ha-Levi</name>
+               <persName type="alternate" xml:lang="" xml:id="name-39">
+                  <name source="##isni">Japheth ben Eli ha-Levi</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth ben Eli (the Karaïte)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-40">
+                  <name source="##isni">Japheth ben Eli (the Karaïte)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth Ben-ʿAlī</name>
+               <persName type="alternate" xml:lang="" xml:id="name-41">
+                  <name source="##isni">Japheth Ben-ʿAlī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Japheth ben ʿAli ha-Levi</name>
+               <persName type="alternate" xml:lang="" xml:id="name-42">
+                  <name source="##isni">Japheth ben ʿAli ha-Levi</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jefet Ben Ali</name>
+               <persName type="alternate" xml:lang="" xml:id="name-43">
+                  <name source="##isni">Jefet Ben Ali</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Jefet ben Eli</name>
+               <persName type="alternate" xml:lang="" xml:id="name-44">
+                  <name source="##isni">Jefet ben Eli</name>
                </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jefet Ben-ʿAlī</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-45">
+                     <name source="##isni">Jefet Ben-ʿAlī</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jefeth b. Ali</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-46">
+                     <name source="##isni">Jefeth b. Ali</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jephet Ben-Ali</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-47">
+                     <name source="##isni">Jephet Ben-Ali</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jephet ben A︡li Halêvi</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-48">
+                     <name source="##isni">Jephet ben A︡li Halêvi</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jephet Ben-Eli</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-49">
+                     <name source="##isni">Jephet Ben-Eli</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jephet BenʿAlī Halêvi</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-50">
+                     <name source="##isni">Jephet BenʿAlī Halêvi</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jephet Ibn-Ali</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-51">
+                     <name source="##isni">Jephet Ibn-Ali</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jephet Ibn Ali (Karaite)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-52">
+                     <name source="##isni">Jephet Ibn Ali (Karaite)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jephet ibn Ali (the Karaite)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-53">
+                     <name source="##isni">Jephet ibn Ali (the Karaite)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jephet ibn ʿAli, Abou ʿAli</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-54">
+                     <name source="##isni">Jephet ibn ʿAli, Abou ʿAli</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Jepheth Ben-Eli Ha-Baçri</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-55">
+                     <name source="##isni">Jepheth Ben-Eli Ha-Baçri</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yafet ben ʻEli (Albatsri)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-56">
+                     <name source="##isni">Yafet ben ʻEli (Albatsri)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yāfīṯ Ibn-ʿAlī</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-57">
+                     <name source="##isni">Yāfīṯ Ibn-ʿAlī</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yāfith ibn Ali</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-58">
+                     <name source="##isni">Yāfith ibn Ali</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yāfith ibn ʿAlī</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-59">
+                     <name source="##isni">Yāfith ibn ʿAlī</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yafiÿöt Ibn-ÿ°Al¯i al-Baÿòsr¯i</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-60">
+                     <name source="##isni">Yafiÿöt Ibn-ÿ°Al¯i al-Baÿòsr¯i</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yapheth Abou Aly Ibn-Aly</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-61">
+                     <name source="##isni">Yapheth Abou Aly Ibn-Aly</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yapheth Abu Aly (el Basriyi)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-62">
+                     <name source="##isni">Yapheth Abu Aly (el Basriyi)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yapheth Ben Ali Halleví</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-63">
+                     <name source="##isni">Yapheth Ben Ali Halleví</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yapheth ben Heli (Bassorensis)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-64">
+                     <name source="##isni">Yapheth ben Heli (Bassorensis)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yapheth ben Heli Bassorensis Karaitâ</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-65">
+                     <name source="##isni">Yapheth ben Heli Bassorensis Karaitâ</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yapheth ben Heli (Bassorensis, Karaïtae)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-66">
+                     <name source="##isni">Yapheth ben Heli (Bassorensis, Karaïtae)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben `Eli (10 в.)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-67">
+                     <name source="##isni">Yefet ben `Eli (10 в.)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben' Ali</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-68">
+                     <name source="##isni">Yefet ben' Ali</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet Ben-Alî hal-Lēwî</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-69">
+                     <name source="##isni">Yefet Ben-Alî hal-Lēwî</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben Eli</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-70">
+                     <name source="##isni">Yefet ben Eli</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben Eli hal-Lawi</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-71">
+                     <name source="##isni">Yefet ben Eli hal-Lawi</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʼAli al-Lewî</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-72">
+                     <name source="##isni">Yefet ben ʼAli al-Lewî</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʼElî hal Lewî (karaïte)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-73">
+                     <name source="##isni">Yefet ben ʼElî hal Lewî (karaïte)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʾAli al-Lewî</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-74">
+                     <name source="##isni">Yefet ben ʾAli al-Lewî</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʾElî hal Lewî (karaïte)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-75">
+                     <name source="##isni">Yefet ben ʾElî hal Lewî (karaïte)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet Ben-ʿAlī</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-76">
+                     <name source="##isni">Yefet Ben-ʿAlī</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʿAli (ha-Leṿi)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-77">
+                     <name source="##isni">Yefet ben ʿAli (ha-Leṿi)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet Ben-ʿAlî hal-Lēwî</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-78">
+                     <name source="##isni">Yefet Ben-ʿAlî hal-Lēwî</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet Ben-ʿEli</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-79">
+                     <name source="##isni">Yefet Ben-ʿEli</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʿEli (al-Baṣrī)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-80">
+                     <name source="##isni">Yefet ben ʿEli (al-Baṣrī)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʿEli (al-Batsri)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-81">
+                     <name source="##isni">Yefet ben ʿEli (al-Batsri)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʿEli (ha-Leṿi)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-82">
+                     <name source="##isni">Yefet ben ʿEli (ha-Leṿi)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʿeli hal Lewi</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-83">
+                     <name source="##isni">Yefet ben ʿeli hal Lewi</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ben ʿElī (the Karaite)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-84">
+                     <name source="##isni">Yefet ben ʿElī (the Karaite)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet BenʿAlī hal-Lēwī</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-85">
+                     <name source="##isni">Yefet BenʿAlī hal-Lēwī</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefet ibn Ali (Hallewi)</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-86">
+                     <name source="##isni">Yefet ibn Ali (Hallewi)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yefeth ben ʿAli Halevi</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-87">
+                     <name source="##isni">Yefeth ben ʿAli Halevi</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yepet ben ʿEliy Halewiy</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-88">
+                     <name source="##isni">Yepet ben ʿEliy Halewiy</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yepet ben ʿEliy Ḥasan ben ʿEliy</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-89">
+                     <name source="##isni">Yepet ben ʿEliy Ḥasan ben ʿEliy</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yepet ben ʿEliy ʾAlbaṣiyriy</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-90">
+                     <name source="##isni">Yepet ben ʿEliy ʾAlbaṣiyriy</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">Yephet Ben Ali</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-91">
+                     <name source="##isni">Yephet Ben Ali</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">ʾAbiy ʿAliy Ḥasan ʾAlbaṣriy</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-92">
+                     <name source="##isni">ʾAbiy ʿAliy Ḥasan ʾAlbaṣriy</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
-                     <name source="#isni">ʾAlbaṣriy, Yepet ben ʿEliy</name>
+                  <persName type="alternate" xml:lang="" xml:id="name-93">
+                     <name source="##isni">ʾAlbaṣriy, Yepet ben ʿEliy</name>
                   </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">אבו עלי חסן בן עלי אלבצרי</name>
+               <persName type="alternate" xml:lang="" xml:id="name-94">
+                  <name source="##isni">אבו עלי חסן בן עלי אלבצרי</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">אבי עלי חסן אלבצרי</name>
+               <persName type="alternate" xml:lang="" xml:id="name-95">
+                  <name source="##isni">אבי עלי חסן אלבצרי</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">אלבצרי, אבי עלי חסן</name>
+               <persName type="alternate" xml:lang="" xml:id="name-96">
+                  <name source="##isni">אלבצרי, אבי עלי חסן</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">אלבצרי, יפת בן עלי</name>
+               <persName type="alternate" xml:lang="" xml:id="name-97">
+                  <name source="##isni">אלבצרי, יפת בן עלי</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">יפת בן עלי</name>
+               <persName type="alternate" xml:lang="" xml:id="name-98">
+                  <name source="##isni">יפת בן עלי</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">יפת בן עלי אלבצירי</name>
+               <persName type="alternate" xml:lang="" xml:id="name-99">
+                  <name source="##isni">יפת בן עלי אלבצירי</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">יפת בן עלי (הלוי)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-100">
+                  <name source="##isni">יפת בן עלי (הלוי)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">יפת בן עלי (הקראי)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-101">
+                  <name source="##isni">יפת בן עלי (הקראי)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">יפת בן עלי חסן בן עלי</name>
+               <persName type="alternate" xml:lang="" xml:id="name-102">
+                  <name source="##isni">יפת בן עלי חסן בן עלי</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">יפת בן עלי חסן בן עלי (הלוי, מבצרה)</name>
+               <persName type="alternate" xml:lang="" xml:id="name-103">
+                  <name source="##isni">יפת בן עלי חסן בן עלי (הלוי, מבצרה)</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">أبو علي الحسن ابن علي اللاوي البصري</name>
+               <persName type="alternate" xml:lang="" xml:id="name-104">
+                  <name source="##isni">أبو علي الحسن ابن علي اللاوي البصري</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Japheth ben Ali, ha-Levi, active 10th century</name>
+               <persName type="alternate" xml:lang="" xml:id="name-105">
+                  <name source="##viaf">Japheth ben Ali, ha-Levi, active 10th century</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Yefet ben Eli, 09..?-09..?</name>
+               <persName type="alternate" xml:lang="" xml:id="name-106">
+                  <name source="##viaf">Yefet ben Eli, 09..?-09..?</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">يافث بن على اللاوى</name>
+               <persName type="alternate" xml:lang="" xml:id="name-107">
+                  <name source="##viaf">يافث بن على اللاوى</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">יפת בן עלי, הלוי, המאה ה-10</name>
+               <persName type="alternate" xml:lang="" xml:id="name-108">
+                  <name source="##viaf">יפת בן עלי, הלוי, המאה ה-10</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Japheth ben Ali, ha-Levi, 10e s.</name>
+               <persName type="alternate" xml:lang="" xml:id="name-109">
+                  <name source="##viaf">Japheth ben Ali, ha-Levi, 10e s.</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Japheth ben ʿAli ha-Levi</name>
+               <persName type="alternate" xml:lang="" xml:id="name-110">
+                  <name source="##viaf">Japheth ben ʿAli ha-Levi</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Yefet ben ʿEli ha-Leṿi ca. 10. Jh.</name>
+               <persName type="alternate" xml:lang="" xml:id="name-111">
+                  <name source="##viaf">Yefet ben ʿEli ha-Leṿi ca. 10. Jh.</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Japheth ben Ali, ha-Levi, 10th cent.</name>
+               <persName type="alternate" xml:lang="" xml:id="name-112">
+                  <name source="##viaf">Japheth ben Ali, ha-Levi, 10th cent.</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Bazarī, al-Ḥasan b. ʿAlī al-Lāwī al- (Abū ʿAlī al-Ḥasan b. ʿAlī al-Lāwī), 10e eeuw</name>
+               <persName type="alternate" xml:lang="" xml:id="name-113">
+                  <name source="##viaf">Bazarī, al-Ḥasan b. ʿAlī al-Lāwī al- (Abū ʿAlī al-Ḥasan b. ʿAlī al-Lāwī), 10e eeuw</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Jefet ben Ali, činný 10. století</name>
+               <persName type="alternate" xml:lang="" xml:id="name-114">
+                  <name source="##viaf">Jefet ben Ali, činný 10. století</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Japheth ben Eli Ha-Levi, 900-talet</name>
+               <persName type="alternate" xml:lang="" xml:id="name-115">
+                  <name source="##viaf">Japheth ben Eli Ha-Levi, 900-talet</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">يفيت بن علي حاخام عراقي</name>
+               <persName type="alternate" xml:lang="" xml:id="name-116">
+                  <name source="##viaf">يفيت بن علي حاخام عراقي</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Japheth ben Ali, ha-Levi, sec. X</name>
+               <persName type="alternate" xml:lang="" xml:id="name-117">
+                  <name source="##viaf">Japheth ben Ali, ha-Levi, sec. X</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Yefet ben Eli 10 в.</name>
+               <persName type="alternate" xml:lang="" xml:id="name-118">
+                  <name source="##viaf">Yefet ben Eli 10 в.</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Yefet ben Eli, Karaïta, sec. X</name>
+               <persName type="alternate" xml:lang="" xml:id="name-119">
+                  <name source="##viaf">Yefet ben Eli, Karaïta, sec. X</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#viaf">Japheth ben Ali ha-Levi 10ος αι.</name>
+               <persName type="alternate" xml:lang="" xml:id="name-120">
+                  <name source="##viaf">Japheth ben Ali ha-Levi 10ος αι.</name>
                </persName>
-                  <persName xml:id="" type="alternate" xml:lang="he">
-                  <name source=""/>
+                  <persName type="alternate" xml:lang="he" xml:id="name-121">
+                  <name/>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he">
-                  <name source=""/>
+               <persName type="alternate" xml:lang="he" xml:id="name-122">
+                  <name/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar">
-                  <addName source="" xml:id="sh-ar" type="shuhra"/>
-                  <addName source="" xml:id="is-ar" type="ism"/>
-                  <addName source="" xml:id="na-ar" type="nasab"/>
-                  <addName source="" xml:id="ni-ar" type="nisbah"/>
-                  <addName source="" xml:id="ku-ar" type="kunya"/>
-                  <addName source="" xml:id="la-ar" type="laqab"/>
+               <persName type="canon" xml:lang="ar" xml:id="name-123">
+                  <addName xml:id="sh-ar" type="shuhra"/>
+                  <addName xml:id="is-ar" type="ism"/>
+                  <addName xml:id="na-ar" type="nasab"/>
+                  <addName xml:id="ni-ar" type="nisbah"/>
+                  <addName xml:id="ku-ar" type="kunya"/>
+                  <addName xml:id="la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar-Hebr">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
+               <persName type="canon" xml:lang="ar-Hebr" xml:id="name-124">
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
-                  >
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
+               <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-125">
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="he">
-                  <forename source="" xml:id="fn-he"/>
-                  <addName source="" xml:id="pa-he" type="patronym"/>
-                  <addName source="" xml:id="ep-he" type="epithet"/>
-                  <addName source="" xml:id="ac-he" type="acronym"/>
-                  <addName source="" xml:id="sh-he" type="shuhra"/>
+               <persName type="canon" xml:lang="he" xml:id="name-126">
+                  <forename xml:id="fn-he"/>
+                  <addName xml:id="pa-he" type="patronym"/>
+                  <addName xml:id="ep-he" type="epithet"/>
+                  <addName xml:id="ac-he" type="acronym"/>
+                  <addName xml:id="sh-he" type="shuhra"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn">
-                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName source="" ref="#pa-he" type="patronym"/>
-                  <addName source="" ref="#ep-he" type="epithet"/>
-                  <addName source="" ref="#ac-he" type="acronym"/>
-                  <addName source="" ref="#sh-he" type="shuhra"/>
+               <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-127">
+                  <forename ref="#fn-he" xml:lang="he-Latn"/>
+                  <addName ref="#pa-he" type="patronym"/>
+                  <addName ref="#ep-he" type="epithet"/>
+                  <addName ref="#ac-he" type="acronym"/>
+                  <addName ref="#sh-he" type="shuhra"/>
                </persName>
                <birth>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
+                  <date cert=""/>
+                  <placeName ref="" cert=""/>
                </birth>
                <death>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
+                  <date cert=""/>
+                  <placeName ref="" cert=""/>
                </death>
                <floruit>
-    <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
+    <date cert=""/>
+    <placeName ref="" cert=""/>
 </floruit>
-               <sex cert="" source=""/>
-               <faith cert="" source=""/>
-               <occupation type="" cert="" source=""/>
+               <sex cert=""/>
+               <faith cert=""/>
+               <occupation type="" cert=""/>
                <residence>
-                  <placeName ref="" cert="" source=""/>
+                  <placeName ref="" cert=""/>
                </residence>
                <bibl xml:id="">
                   <title/>
@@ -507,12 +496,17 @@
          <item>
             <note/>
             <persName/>
-            <quote xml:lang=""/>
-            <bibl>
-               <title/>
-               <citedRange unit="p"/>
-               <ptr target=""/>
-            </bibl>
+            <quote xml:lang="ge">§ 44 *Jefet ha-Levi, abu (ibn) Ali Hasan b. Ali al-Ba’sri, 1) einer der bedeutendsten Karäer, insbesondere als Exeget, in Jerusalem, um 950-80, 2) also nicht Lehrer des Abraham ibn Esra (CL. 175), wird als „grosser Lehrer“ bezeichnet. Er schrieb wohl nur arabisch, 3) geht aber im Eifer (vielleicht auch aus Vorsicht?) ins Hebräische über. Es haben sich nur Commentare und (eigene?) Übersetzungen zur Bibel oder Citate von solchen erhalten. 4) Man darf wohl annehmen, dass seine Erklärungen sich auch auf alle nicht bezeugten Bücher erstreckten. 5) Die Aufzählung kann hier nicht bis in die Einzelheiten genau sein, es genügt bei jedem Buche, sämtliche betr. Codd. Aufzuzählen. Die bisher genau untersuchten mss. Sind lückenhaft, sehr viele, insbesondere die von Shapira dem Brit. Mus. verkauften, fragmentarisch, mitunter dieselben Fragmente enthaltend. 
+
+Schriften: (Übersetzung und Comm.) Mehreres in Jerusalem, nach Hark., Chad. VI, 3 n. 28, ohne nähere Anhabe; Bl. 199. 1) Pentat., die einzelnen Codd. umfassen meist nur 1 Buch; es giebt aber 2 Recensionen (Verweis. Zu Exod. 34,18 bei Pozn., Jew. Qu. X, 249 n. 3), ms. Br. Mus. 267 (aus Levit. Bei Hirschfeld, Chrest. p. 1009), 255-75, Übersetzung 101, Par. 79 (Übers.), 277-85, Pet. Firk. 562-7. Gen. 1,26 bei Bargès, Ps. p. 181; Gen. 15,3 und Stellen gegen Saadia’s Tamjiz bei Pozn., Jew. Qu. VIII, 691, X, 246. Anon. Exod. In der Krim (Pi. A. 167). Auszug (1351) aus „abu Ali“ u. And., ms. Br. Mus. 334 (Pozn., Aboul-F- 37 = Rev. Ét. XXXIII, 316). Tobia’s Compilation  אוצר נחמד (wovon Levit. Ms. Bodl.) legt Jefet neben David b. Boas zu Grunde. Eine hebr. Übersetzung soll nach Regensburg gekommen sein (nach Mos. Tachau, der im XIII Jh. Schrieb, Oz. N. III, 80 bei KFM., Attrib. 505 zu183): - Pseudo-J. hebr. zu Exod. u. lev., ms. Krim 15=Pet. Firk. 588 (nach Firk. Von „Jeschua b. Ali!“) = CL. 3, wäre, nach Geiger’s Vermutung, von Jakob b. Reuben (Pol. 347). – 2) Megillot, a) Hohl. (edirt zu Dan. 12,9 p. 147, engl. p. 82, falsch zu V. 10 bei Pi. A. 184 [K. 6,2 nennt er Jerus.  מעדן המשכילים bei Bargès, Ps. p. II]; „K. 10,2“ bei Salfeld, S. 128, wo das Abfassungsj. 972 aus Fst. II, 129); ms. Br. Mus. 300-302, 32810 S. 258, Par. 293, Adler 222 (Jew. Qu. XII, 675), ms. Ewald’s, woraus Paul Jung, Über des Kar. Jephet arab. Erklärung d. Hohel., Diss. Gött. s. a. (1866, 38 S.), enthaltend K. I in arab. Lett.; vgl. Bargès, Ps. spec. XXVI; R. Yapheti abou Aly ibn Bassarensis in Cant. canticor. Comm. Arab. ex. . ms. ed. in ling. lat. Transtulit J. J. L. Bargès, Lut. Paris. 1884, gr. 8 (XXVIII, 210 u. 122 arab. Schrift), b) Ruth, ms. BR. Mus. 301, 302, par. 294, c) Threni, zweifelhaft, d) Kohelet, s. unter Salmon, e) Esther, ms. Par. 2952. – 3) Propheten, a) priores, Bodl. 2483, Br. Mus. 277, 278, 279, 327; Josua, Samule, ms. Adler 214, 215; Josua citirt zu Exod. 4,25 (Pi. A. S. 183) – Pseudo-J. hebr. s. unten Proph. min. – 4) Proph. post a) Jesaias, Br. Mus. 279, 282/3, 292, Pet. Firk. 568/9 (Pi. A. S. 169), K. 53 in Neubauer, The Jewish interpreters on Jes. LIII, b) Jerem., Br. In I Rec.? s. A. 2), Br. Mus. 282/3, 286, in der Krim (Pi. A. 167), d)Pr. Minores (meist nur einzelne), ms. Bodl. Nb. 2483, Br. Mus. 287, 289, 3279-10, Pet. Firk. 571, 572, 574. – K. 1-2, 3  hebr. und lat. bei Klas Aug. Toettermann (Anh. Zu: Die Weissag. Hosea’s, Leipz. 1880) S. 89-130 und Zusätze aus ms. Firk 585; das Akrost. Elasar (zu Pr. min.) soll, nach Toett. (S. IV), vom Übersetzer herrühren, wozu kein genügender Grund. Pr. pr. u. min. in CL. 12, Ausz. In 73D, wollte Gg. dem Jakob b. Reuben vindidiren (s. Pol. 347 u. unten Anm. 2); HÜb. 941. – Eine ausführliche hebr. Bearb. Von Hosea, Joel, Amos, Sach. in Frage und Antwort enthält ms. Pet. Firk. 586. – 5) Hagiogr., a) Psalmen (wahrsch. citirt zu Dan. 12,10 p. 148 engl. p. 83 unten), Br. Mus. 290/1, 327, 381, Par. 286-91, Pet. 575/6, Adler 216-8. – R. Jephet b. Heli (so) in lib. Psalmor. Specimen.. et in Lat… L. Bargès, Lut. Par.  1846. Libri Psalmor. etc. versio etc. a. R. Yaphet b. Heli .. arabice concinnata (auch Pi., Fst. (daher “Jerochim”) u Graetz; p. XIII “Codjik” ist  כ ג ק p. 120 =  כבוד גדולת קדושת ). J. teilt die Ps. in 22 Abschnitte (p. XIX Inhaltsang.);  ואל יתעסקו בספרי חכמי in der hebr. Vorr. P. 173 kann nicht auf Evang. U. Koran bezogen werden. Stellen zu Ps. 45, zu 115 hebr. p. 185 u. 187. Der 22. Psalm ins Arab. übersetzt u. erklärt, nach HSS. u. ins Deutsche übers. V. Th. Hofmann, 4. Lübek 1880 (HB. XIII, 103), b) Proverbia, ms. Bl. 199, Br. Mus. 293/4, 3281-9, Par. 292, Per. Firk. 577/8, Adler 219. Jepheti … in Prov. Salom. c. XXX Com. … arab. ed., in latin. Conversus a. Z. Auerbach (Diss.), Bonn 1866 (47 S.); K. 1-3 ed. J. Günzig, Kark., 1898 (mir unzugänglich, *Anz. Von Bacher Rev. Ét. XXXVIII, 151-60, von Pozn., Jew. Qu. XIII, 340) giebt auch Auszüge aus dem Comm. Zu Psalmen u. Hiob, aus Salmon’s Comm. Zu Kohel. 3,21, c) Hiob (citirt zu Daniel 12,2, in 1. Rec. s. Anm. 2), ms. Bodl. Nb. 485, Br. Mus. 299, Pet. Firk. 579, Adler 220. d) Daniel, ms. Bodl. 2494, Br. Mus. 2503, 323, 32828-29, Pet. Firk. 580-2 (העתידות) by Jephet … ed. And translated by D. S. Margoliouth, 4. Oxf. 1889 (XIII, 98 S. u. 152 arab. Lett,; Anecdota Oxoniensia, Semit. Series, vol. I, part. III), angezeigt von Hirschfeld in ZDMG. XLV, 330. Dieses Buch ist jedenfalls eines der letzten, vielleicht nicht vor 988 verf. (Pi. A. S. 182; Margol. Pref.), e) Esra Nehem., f) Chron., Br. Mus. 303. Ausser den Sammlungen Firkowitsch besitzt Pet. Aus der Sammlung Tischendorf unvollst. Klag., Ezech. Jona, Obadia, Pslamen, Spr., Hiob (Jellinek, Mtschr. II, 24 n. 16, vgl. HB. VII, 13). – 6) Eine Widerlegung des Saadia in Bezug auf die Anwendung der Analogie erwähnt er selbst zu Exod. 35, wie auch  Sahl den Jefet unter den Gegnern Saadia’s erwähnt (Pi. S. 20 u. 37, Fst. 125 fingirt  ein „Kitab al-Rudd“ [sic] etc. gegen den kaum verstorbenen Saadia 945, als erste Schrift J.‘s). – 7) ein (liturg.?)  כלאם , ms. Fischl 250.
+
+1) Nicht Sa‘id, a HÜb . 941 A. 260b, Jew. Qu.  X, 534 über die Familie und deren Namen, bisher ungenügend erkannt oder gar verwirrt. Jefet und sein Sohn Levi (s. § 46) werden von späteren Karäern mit dem Muhammedaner Djubbai und dessen Sohn identificirt (Pol.  415). – 2) Die chronologische Reihenfolgen der Schriften bei Fst. II, Anm.  S. 46 n. 100,  ist grösstenteils gewagt. Selbst die wechselseitigen Citate sind für die Abfassungszeit nicht entscheidend, da sie in jüngeren Recensionen oder Copien nachgetragen sein können; so z. B. sind die Citate Hiob und Ezechiel zu Daniel 12,2 nach Pinsker, in. ed. Marg. 139, engl. p. 75, nicht zu finden. 953 /855 der Zerstör. nicht 865, wie LB. XII, 741, wo Salmon als Autor) zu Threni 3, 6; 959 Proph. min. (CL. p. 33, Gg. Oz. n. IV, 25 über hebr. Jakob b. Reuben?), Pol. 347, HÜb 941; zu Num. 24,21 nicht vor 972 (Neubauer S. 16) und s. zu n. 5d. – 3) Hebräisch ist ein „Ordre de la prière“ bekannt,  ענין התפלה  ms. Par. 6707, Pet. Firk. 761, Pi. 88, s. unter Levi § 46; hebr. ist wohl auch ס המצוות (HÜb. 542), im Comm. Pentat. Erwähnt (Nb. S. 15, Bargès, Ps. p. X); zweifelhaft ist  שפה ברורה grammatisch? Pi. 65, Fst. II, 126. – 4) Delitzsch zu Ahron b. E. 315 schreibt Jefet ohne Grund einige bei Hadassi genannte Bücher zu, s. dagegen CL. 49, 180, und daher Pi. A.S. 193, nämlich: 1  קופת הרוכלים (s. Tobia, HÜb. 941); 2.   תמייז , conjicirt  תמהיד , s.  תמייז unter Josef b. Abraham; 3. שער הצדק  (HÜb. 460), s. Anonyma; 4.  זכרון הרחות הנודע ס נעימות ist von Josef b. Abraham (HÜb. 452). -  דר אלמנטום (Pi.184) s. unter Anon. -  אגרון s. unter Anon – 5) Zu Daniel 12,1 Ende(p. 199) verweist er auf die Erklärungen in jedem Buche der Abteilungen der Schrift (תקאסיס אלמקרא), das Wort three (engl. p. 75 Z. 6) war also in Klammer zu setzen; leicht bessere Variante. – 6) N. 2494 nach List p. 23 Jefet zu Gen., nach Catal. 318 p. 242 Anon. zu Lebit.! – ms.326 s. unter Jefet b. David; 335 s. unter Anon II.
+
+Quellen: ältere in HÜb. 941 A. 869b, wo lies: „Pol. 336, so l. S. 415, neuere s. zu den Schriften; s. auch Pozn., Mos. Ibn Chiqu. 48.</quote>
+            <bibl xml:id="jalit-orgbiblL7WYDPC9"><citedRange unit="page">81–84</citedRange>
+                        <title> Die arabische Literatur der Juden Moritz Steinschneider, Die Arabische Literatur Der Juden (Frankfurt am Main: Kauffmann, 1902).</title>
+                        <ptr target="https://jalit.org/bibl/L7WYDPC9"/>
+                    </bibl>
          </item>
       </list>
    </standOff>
