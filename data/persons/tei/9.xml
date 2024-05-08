@@ -23,10 +23,6 @@
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                >Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-               >Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor"
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                >Maximilian de Molière
@@ -54,6 +50,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -266,11 +263,498 @@
                <residence>
                   <placeName ref="" cert="" source=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
-               </bibl>
+                <bibl type="bibliography" xml:id="jalit-orgbibl3PMWAKEL">
+      <title>Abrahams, Israel. “Yusuf al-Basir.” In Chapters on Jewish Literature, 1, (Philadelphia: The Jewish Publication Society of America, 1899), p. 79. http://archive.org/details/abrahamsi1899chap1. </title>
+      <ptr target="https://jalit.org/bibl/3PMWAKEL"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVHAWFBQ3">
+      <title>“Albasir, Yosef ben Abraham ha-Kohen.” Enciclopedia Judaica Castellana, (México: Editorial Enciclopedia Judaica Castellana, 1948), p. 146.</title>
+      <ptr target="https://jalit.org/bibl/VHAWFBQ3"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMREJL3A7">
+      <title>Ankori, Zvi. “Ibn al-Hītī and the Chronology of Joseph al-Basīr the Karaite.” Journal of Jewish Studies 8 (1957): pp. 71-81. doi: https://doi.org/10.18647/297/JJS-1957. </title>
+      <ptr target="https://jalit.org/bibl/MREJL3A7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblJFE3QNAB">
+      <title>Ansari, Hassan, Wilferd Madelung, and Sabine Schmidtke. “Yūsuf al-Baṣīr’s Rebuttal of Abū l-Ḥusayn al-Baṣrī in a Yemeni Zaydī Manuscript of the 7th/13th Century.” In The Yemeni Manuscript Tradition, edited by David Hollenberg, Christoph Rauch , and Sabine Schmidtke. (Leiden: Brill, 2015), pp. 28-65.</title>
+      <ptr target="https://jalit.org/bibl/JFE3QNAB"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblLG2SVRZX">
+      <title>Attias, Jean-Christophe. “Review: Yūsuf al-Baṣīr, Al-Muḥtawī.” The Jewish Quarterly Review 84, no. 1 (1993): p. 81. doi: 10.2307/1454701. </title>
+      <ptr target="https://jalit.org/bibl/LG2SVRZX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblAZ27KCPR">
+      <title>Beer, Peter. “Yusuf al-Basir.” In Geschichte, Lehren und Meinungen aller bestandenen und noch bestehenden religiösen Sekten der Juden und der Geheimlehre oder Cabbalah, 1, (Brünn: J.G. Traßler, 1822), p. 129, 149, 162. https://books.google.de/books?id=35QkSZZ_ycwC. </title>
+      <ptr target="https://jalit.org/bibl/AZ27KCPR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl27PAQEE">
+      <title>Ben-Shammai, Haggai, Haggai. “Karaism.” In The Cambridge History of Judaism: Volume 5: Jews in the Medieval Islamic World, 5, edited by Phillip I. Lieberman. (Cambridge: Cambridge University Press, 2021), pp. 571-605.</title>
+      <ptr target="https://jalit.org/bibl/27PAQEE"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl3K2JXB3K">
+      <title>Ben-Shammai, Haggai. “Kalām in Medieval Jewish Philosophy.” In History of Jewish philosophy, edited by Frank Daniel H., and Oliver Leaman. (New York: Routledge, 1997), pp. 115-148.</title>
+      <ptr target="https://jalit.org/bibl/3K2JXB3K"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblNYDDCPMM">
+      <title>Ben-Shammai, Haggai. “Major trends in Karaite philosophy and polemics in the tenth and eleventh centuries.” In Karaite Judaism: a guide to its history and literary sources, edited by Meira Polliack. (Leiden &amp; Boston: Brill, 2003), pp. 339-362. https://doi.org/10.1163/9789004294264_016. </title>
+      <ptr target="https://jalit.org/bibl/NYDDCPMM"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl66WE8QS">
+      <title>Ben-Shammai, Haggai. “Some Genizah Fragments on the Duty of the Nations to Keep the Mosaic Law.” In Genizah Research After Ninety Years: The Case of Judaeo-Arabic: Papers Read at the Third Congress of the Society for Judaeo-Arabic Studies, edited by Joshua Blau, and Stefan C. Reif. (Cambridge: Cambridge University Press, 1992), pp. 22-30.</title>
+      <ptr target="https://jalit.org/bibl/66WE8QS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblPDIFXNU3">
+      <title>Ben-Shammai, Haggai. “Studies in Karaite atomism.” Jerusalem Studies in Arabic and Islam 6 (1985): pp. 243-298.</title>
+      <ptr target="https://jalit.org/bibl/PDIFXNU3"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblL2VJSNMC">
+      <title>Ben-Shammai, Haggai. “The Karaites.” In The History of Jerusalem: The Early Muslim Period 638–1099, edited by Joshua Prawer, and Haggai Ben-Shammai. (Jerusalem &amp; New York: Yad Izhak Ben-Zvi &amp; New York University Press, 1996), pp. 201-224.</title>
+      <ptr target="https://jalit.org/bibl/L2VJSNMC"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5W5QJCM">
+      <title>Broydé, Isaac. “Joseph ben Abraham ha-Kohen ha-Ro’eh (Abu Ya’kub al-Basir).” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1904), pp. 255-256. https://www.jewishencyclopedia.com/articles/8811-joseph-ben-abraham-ha-kohen-ha-ro-eh. </title>
+      <ptr target="https://jalit.org/bibl/5W5QJCM"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5HHMEZS6">
+      <title>Burger, Izidor. “Júszuf al-Baszír al-kitâb al-muhtavî: című munkájanak VIII fejezete.” (Ph.D, 1918). </title>
+      <ptr target="https://jalit.org/bibl/5HHMEZS6"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQ2FIPEJ5">
+      <title>Bánde, Zoltán. “Júszuf al-Baszîr al-kitâb al-muhtavî: című munkájának XXV, XXVI, XXVII, XXVIII és XXIX.” (Ph.D, 1906). </title>
+      <ptr target="https://jalit.org/bibl/Q2FIPEJ5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblKNRM6QQL">
+      <title>Chiesa, Bruno. “Due note di letteratura caraita.” Henoch 10, no. 3 (1988): pp. 355-376.</title>
+      <ptr target="https://jalit.org/bibl/KNRM6QQL"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl8LIQVX">
+      <title>“De l’universalité de la loi morale selon Yūsuf al-Basīr: traduction et commentaire du Kitāb al-Muḥtawī (chapitres XVIII–XXII).” Revue des études juives 128, no. 2 (1969): pp. 133-201.</title>
+      <ptr target="https://jalit.org/bibl/8LIQVX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVL3G38">
+      <title>Eche, Youssef. “Yusuf al-Basir.” In Les bibliothèques arabes publiques et semi-publiques en Mésopotamie, en Syrie et en Égypte au Moyen Âge, (Damascus: Institut français de Damas, 1967), pp. 67-161.</title>
+      <ptr target="https://jalit.org/bibl/VL3G38"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblM27QY3Z">
+      <title>Fabricius, Johann Andreas. “Yusuf al-Basir.” In Abriß einer allgemeinen Historie der Gelehrsamkeit, 2, (Leipzig: Weidmannsche Buchhandlung, 1752), pp. 701-702. https://books.google.de/books?id=IKXSu_9Y82sC. </title>
+      <ptr target="https://jalit.org/bibl/M27QY3Z"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCJ65I5LJ">
+      <title>Fenton, Paul B. אלפי יהודה Bibliographie de l’oeuvre de Georges Vajda, précédée d’un essai biographique. (Louvain: Peeters, 1991).</title>
+      <ptr target="https://jalit.org/bibl/CJ65I5LJ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblTJ7XVLI7">
+      <title>Frankl, Pinkus Fritz. “Beiträge zur Literaturgeschichte der Karäer.” Bericht über die Lehranstalt für die Wissenschaft des Judenthums in Berlin 5 (1887): pp. 1-20.</title>
+      <ptr target="https://jalit.org/bibl/TJ7XVLI7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblNI5HDGBF">
+      <title>Frankl, Pinkus Fritz. “Die Stellung Joseph al-Baṣīrs in der jüdischen Religionsphilosophie.” Monatsschrift für die Geschichte und Wissenschaft des Judentums 20 (1871): pp. 114-119, 150-157.</title>
+      <ptr target="https://jalit.org/bibl/NI5HDGBF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl6Z7GIJI3">
+      <title>Frankl, Pinkus Fritz. “Ein muʿtazilitischer Kalām aus dem 10 Jahrhundert: als Beitrag zur Geschichte der muslimischen Religionsphilosophie nach handschriftlichen Quellen der Bibliotheken in Leyden und St Petersburg.” Sitzungsberichte der Philosophisch-Historischen Classe der kaiserlichen Akademie der Wissenschaften 71 (1872): pp. 169-224.</title>
+      <ptr target="https://jalit.org/bibl/6Z7GIJI3"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVL5S2MYC">
+      <title>Frankl, Pinkus Fritz. “Zur karäischen Bibliographie (Fortsetzung und Schluss).” Monatsschrift für Geschichte und Wissenschaft des Judentums 21 (N. F. 4), no. 6 (1872): pp. 274-280.</title>
+      <ptr target="https://jalit.org/bibl/VL5S2MYC"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl7S6F5TDN">
+      <title>Fürst, Julius. “Yusuf al-Basir.” In Geschichte des Karäerthums: Bis 900 der gewöhnlichen Zeitrechnung, 1, (Leipzig: Nies'sche Buchdruckerei, 1862), pp. 70; 95; 101; 120-121; 159; 170; 173-174; 181. https://books.google.es/books?id=k_8LAAAAIAAJ&amp;hl. </title>
+      <ptr target="https://jalit.org/bibl/7S6F5TDN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblLDT3MPZ">
+      <title>Fürst, Julius. “Yusuf al-Basir.” In Geschichte des Karäerthums: Von 1575 bis 1865 der gewöhnlichen Zeitrechnung, 3, (Leipzig: Oskar Leiner, 1869), pp. 20; 63-64; 68; 89; 140; 150; 158. https://books.google.es/books?id=O31NAAAAcAAJ&amp;vq. </title>
+      <ptr target="https://jalit.org/bibl/LDT3MPZ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblDK3RHCM">
+      <title>Fürst, Julius. “Yusuf al-Basir.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 50-75 [§34-49]. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl. </title>
+      <ptr target="https://jalit.org/bibl/DK3RHCM"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl6LHXBAX">
+      <title>Gerson, József. “Júszuf al-Baszír аl-kitâb al-muhtavî: című munkája tizenhatodik fejezete.” (Ph.D, 1915). </title>
+      <ptr target="https://jalit.org/bibl/6LHXBAX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblFI8B3WIQ">
+      <title>Goldberger, Andor. “Júszuf al-Baszîr al-kitâb al-muhtavî: című munkájának XXIII fejezete és szemelvények a XIX, XXII, XXIV fejezetekből.” (Ph.D, 1906). </title>
+      <ptr target="https://jalit.org/bibl/FI8B3WIQ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblPRXUDTGN">
+      <title>Goldstein, Miriam. “Yusuf al-Basir.” In Karaite Exegesis in Medieval Jerusalem: The Judeo-Arabic Pentateuch Commentary of Yūsuf Ibn Nūḥ and Abū Al-Faraj Hārūn, (Tübingen: Mohr Siebeck, 2011), pp. 31-34; 42; 55; 61; 139-140.</title>
+      <ptr target="https://jalit.org/bibl/PRXUDTGN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQ3DD23ZJ">
+      <title>Goldziher, Ignác. “Mélanges judéo-arabes.” Revue des études juives 49, no. 98 (1904): pp. 219-230.</title>
+      <ptr target="https://jalit.org/bibl/Q3DD23ZJ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWKC5WAK">
+      <title>Grünfeld, Arnold. “Yusuf al-Basir.” In Die Lehre vom göttlichen Willen bei den jüdischen Religionsphilosophen des Mittelalters von Saadja bis Maimûni, (Münster: Aschendorff, 1909), p. 50. https://archive.org/details/dielehrevomgtt00gr. </title>
+      <ptr target="https://jalit.org/bibl/WKC5WAK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblUIEAKMSV">
+      <title>Hamburger, Jacob. “Yusuf al-Basir.” In Die jüdische Litteratur seit Abschluss des Kanons: Geschichte der rabbinischen Litteratur während des Mittelalters und ihrer Nachblüthe in der neueren Zeit, 2, edited by Jakob Winter, and August Wünsche. (Trier: Sigmund Mayer, 1894), pp. 86-87. https://books.google.de/books?id=Kme8rCRb8tYC. </title>
+      <ptr target="https://jalit.org/bibl/UIEAKMSV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblBTLG2PNH">
+      <title>Harkavy, Abraham. “Handschriftliches aus Petersburg.” Das Jüdische Literaturblatt VII, no. 9 (1878): p. 35.</title>
+      <ptr target="https://jalit.org/bibl/BTLG2PNH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblDMM27SVL">
+      <title>Harkavy, Abraham. “Mittheilungen aus Petersburger Handschriften.” Zeitschrift für die alttestamentliche Wissenschaft 1 (1881): pp. 150-159.</title>
+      <ptr target="https://jalit.org/bibl/DMM27SVL"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQNAQ6XAR">
+      <title>Harkavy, Abraham. “Yusuf al-Basir.” In Studien und Mittheilungen aus der Kaiserlichen Oeffentlichen Bibliothek zu St Petersburg, 3, (Leipzig: Voss' Sortiment (G. Haessel), 1880), pp. 44-46.</title>
+      <ptr target="https://jalit.org/bibl/QNAQ6XAR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQX7FW56V">
+      <title>Horovitz, József. “Júszuf al-Baszîr al-kitâb al-muhtavî: című munkájának XXXIV fejezete Tobia ben Mózes, héber forditásával.” (Ph.D, 1905). </title>
+      <ptr target="https://jalit.org/bibl/QX7FW56V"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMS5GRGJ">
+      <title>Husik, Isaac. “Joseph al-Basir and Jeshua ben Judah.” In A history of mediaeval Jewish philosophy, (New York: Macmillan, 1916), pp. 48-58 [chap. IV.]. https://archive.org/details/ahistorymediaev01husigoog. </title>
+      <ptr target="https://jalit.org/bibl/MS5GRGJ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblAKBSJPC">
+      <title>“Jose ben Abraao ha-Cohen.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 698.</title>
+      <ptr target="https://jalit.org/bibl/AKBSJPC"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblV887PG7">
+      <title>Jost, Isaak Markus. “Yusuf al-Basir.” In Geschichte der Israeliten seit der Zeit der Maccabäer bis auf unsre Tage, 8, (Berlin: Schlesingersche Buch- und Musikhandlung, 1828), pp. 139; 141.</title>
+      <ptr target="https://jalit.org/bibl/V887PG7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZYYQFZI">
+      <title>Klein, Miksa. “Júszuf al-Baszír al-kitâb al-muhtavî: című munkája III fejezetének első része és XIX fejezete.” (Ph.D, 1913). </title>
+      <ptr target="https://jalit.org/bibl/ZYYQFZI"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblF5JBKYD">
+      <title>Klein, Sámuel. “Júszuf al-Baszír al-kitâb al-muhtavî: című munkájának XVII fejezete.” (Ph.D, 1918). </title>
+      <ptr target="https://jalit.org/bibl/F5JBKYD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQQDP3FT">
+      <title>Klein, Ábrahám. “Júszuf al-Baszîr al-kitâb al-muhtavî: című munkájának IV V VI VII fejezetei.” (Ph.D, 1918). </title>
+      <ptr target="https://jalit.org/bibl/QQDP3FT"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblGIVW3FJ3">
+      <title>Krausz, Ignacz. “Júszuf al-Baszîr al-kitâb al-muḥtavî: című munkájának XXX.” (Ph.D, 1911). </title>
+      <ptr target="https://jalit.org/bibl/GIVW3FJ3"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblU7NRQFK">
+      <title>Lasker, Daniel, Johannes Niehoff-Panagiotidis, and David Sklare. “Yusuf al-Basir.” In Theological Encounters at a Crossroads: An Edition and Translation of Judah Hadassi’s Eshkol ha-kofer, First Commandment, and Studies of the Book’s Judaeo-Arabic and Byzantine Contexts, (Leiden: Brill, 2018), pp. 9-10; 13; 15-17.</title>
+      <ptr target="https://jalit.org/bibl/U7NRQFK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblU57WPLUS">
+      <title>Lányi, György. “Júszuf al-Baszîr al-kitâb al-muhtavî: című munkájának XII fejezete.” (Ph.D, 1932). </title>
+      <ptr target="https://jalit.org/bibl/U57WPLUS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblRV7QRBSU">
+      <title>Madelung, Wilferd, and Sabine Schmidtke. “Yūsuf al-Baṣīr’s First Refutation (Naqḍ) of Abu l-Ḥusayn al-Baṣrī’s Theology.” In A common rationality: Muʿtazilism in Islam and Judaism, edited by Camilla Adang, and David E. Sklare. (Würzburg: Ergon Verlag in Kommission, 2007), pp. 229-296. https://albert.ias.edu/handle/20.500.12111/51. </title>
+      <ptr target="https://jalit.org/bibl/RV7QRBSU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQR5RQ2HX">
+      <title>Margoliouth, George. “Ibn al-Hītī’s Arabic Chronicle of Karaite Doctors.” Jewish Quarterly Review 9 (1897): pp. 429-443.</title>
+      <ptr target="https://jalit.org/bibl/QR5RQ2HX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblUUPUDG2Q">
+      <title>Markon, Isaac, and Leon Nemoy. “Basir, Joseph ben Abraham ha-Kohen ha-Ro’eh al-.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 200.</title>
+      <ptr target="https://jalit.org/bibl/UUPUDG2Q"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl3PZS5YUB">
+      <title>Markon, Isaac, and Leon Nemoy. “Basir, Joseph ben Abraham ha-Kohen ha-Ro’eh al-.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 301-302.</title>
+      <ptr target="https://jalit.org/bibl/3PZS5YUB"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblHSQPSLXK">
+      <title>Markon, Isaac. “Albassir, Josef ben Abraham hakohen.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), pp. 189-191.</title>
+      <ptr target="https://jalit.org/bibl/HSQPSLXK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblR5K3INTL">
+      <title>Markon, Isaac. “Josef ben Abraham ha-Kohen ha-Roe (Abu Jakub al-Bassir).” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 324-326.</title>
+      <ptr target="https://jalit.org/bibl/R5K3INTL"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblFLEWHSG7">
+      <title>Miller, Philip E. “Review: Al-Kitāb al-Muḥtawī de Yūsuf al-Başīr: Texte, Traduction et Commentaire by Georges Vajda.” Journal of Jewish Studies 38, no. 2 (1987): pp. 277-278. doi: https://doi.org/10.18647/1366/JJS-1987. </title>
+      <ptr target="https://jalit.org/bibl/FLEWHSG7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblBAWELIQE">
+      <title>Morgenstern, Ernő. “Júszuf al-Baszír al-kitâb al-muhtavî: című munkája harmadik fejezetének második része.” (Ph.D, 1913). </title>
+      <ptr target="https://jalit.org/bibl/BAWELIQE"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZWWYQ62">
+      <title>Munk, Salomon. “Yusuf al-Basir.” In Notice sur Abou'l-Walid Merwan ibn-Djana'h et sur quelques autres grammairiens Hébreux du Xe et du XIe siècle: suivie de l'introduction du Kitab al-Luma' D'ibn-Djana'h en arabe avec une traduction française et des notes, (Paris: Imprimerie Nationale, 1851), pp. 8-. https://books.google.es/books?id=KF8_AQAAMAAJ&amp;vq. </title>
+      <ptr target="https://jalit.org/bibl/ZWWYQ62"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl36857YMV">
+      <title>Nemoy, Leon. “Review: Vajda and Blumenthal's Edition of Al-Kitāb Al-Muḥtawī by Yūsuf Al-Baṣīr and Moreen's Judaeo-Persian Miniatures.” The Jewish Quarterly Review 76, no. 3 (1986): pp. 267-268. doi: 10.2307/1454517. </title>
+      <ptr target="https://jalit.org/bibl/36857YMV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblA6Y56">
+      <title>Neubauer, Adolf. “Yusuf al-Basir.” In Aus der Petersburger Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und der karäischen Literatur, (Leipzig: Oskar Leiner, 1866), pp. 7-9. https://books.google.de/books?id=amJSAAAAcAAJ&amp;newbks. </title>
+      <ptr target="https://jalit.org/bibl/A6Y56"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblI67VF76R">
+      <title>Pinsker, Simḥa. “Mittheilung über einen arabischen Auszug aus dem Werke Chobot ha-Lebabot.” Der Orient: Berichte, Studien und Kritiken für jüdische Geschichte und Literatur 12, no. 28 (1851): pp. 737-749.</title>
+      <ptr target="https://jalit.org/bibl/I67VF76R"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblV6MD2YY">
+      <title>Pinsker, Simḥa. “Yusuf al-Basir.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), p. 194.</title>
+      <ptr target="https://jalit.org/bibl/V6MD2YY"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
+      <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
+      <ptr target="https://jalit.org/bibl/EFVRVADD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVZSARJV2">
+      <title>Poznański, Samuel Abraham. “The Karaite literary opponents of Saadiah Gaon.” In Karaite studies, edited by Philip Birnbaum. (New York: Hermon Press, 1971), pp. 129-234.</title>
+      <ptr target="https://jalit.org/bibl/VZSARJV2"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVIYST26W">
+      <title>Poznański, Samuel. “Die Qirqisâni Handschriften im British Museum.” In Festschrift zum achtzigsten Geburtstage Moritz Steinschneider's, (Leipzig: Otto Harrassowitz, 1896), pp. 195-218. https://books.google.es/books?id=ljgOAQAAIAAJ&amp;hl. </title>
+      <ptr target="https://jalit.org/bibl/VIYST26W"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblDU32VZZQ">
+      <title>Poznański, Samuel. “Zur jüdisch-arabischen Literatur.” Orientalische Literaturzeitung 7 (1904): pp. 257-274, 304-315, 345-359.</title>
+      <ptr target="https://jalit.org/bibl/DU32VZZQ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblUNQBVQ">
+      <title>Poznaṅski, Samuel. “Remarks on 'Early Karaite Critics of the Mishnah'.” The Jewish Quarterly Review 11, no. 2 (1920): pp. 237-257. doi: 10.2307/1451394. </title>
+      <ptr target="https://jalit.org/bibl/UNQBVQ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl8AVF88MF">
+      <title>Péner, Miklós. “Júszuf al-Baszîr al-kitâb al-muhtavî: című munkájának XXXI.” (Ph.D, 1913). </title>
+      <ptr target="https://jalit.org/bibl/8AVF88MF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl56NUV">
+      <title>Rosenberg, Salomon. “Júszuf al-Baszír al-kitâb al-muhtavî: című munkája XVIII és XXXIII fejezetei.” (Ph.D, 1914). </title>
+      <ptr target="https://jalit.org/bibl/56NUV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblNP7KLGQF">
+      <title>Schmidtke, Sabine. “The Karaites’ encounter with the thought of Abū l-Ḥusayn al-Baṣrī (d 436/1044): A survey of the relevant materials in the Firkovitch-collection, St Petersburg.” Arabica 53, no. 1 (2006): pp. 108-142. doi: https://doi.org/10.1163/157005806775143524. </title>
+      <ptr target="https://jalit.org/bibl/NP7KLGQF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblW2PB7NWF">
+      <title>Schmidtke, Sabine. “The Muʿtazilite Movement (III): The Scholastic Phase.” In The Oxford Handbook of Islamic Theology, edited by Sabine Schmidtke. (Oxford: Oxford University Press, 2016), pp. 159-180.</title>
+      <ptr target="https://jalit.org/bibl/W2PB7NWF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblNTE7WRF">
+      <title>Schreiner, Martin. “Yusuf al-Basir.” In Der Kalam in der jüdischen Literatur, (Berlin: H. Itzkowski, 1895), pp. 29-. http://archive.org/details/bub_gb_s7hMAAAAYAAJ. </title>
+      <ptr target="https://jalit.org/bibl/NTE7WRF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWYKRYQ">
+      <title>Schreiner, Martin. “Zur Geschichte der Polemik zwischen Juden und Muhammedanern.” Zeitschrift der Deutschen Morgenländischen Gesellschaft 42, no. 4 (1888): pp. 591-675.</title>
+      <ptr target="https://jalit.org/bibl/WYKRYQ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblU6SFRZJ">
+      <title>Schwarb, Gregor. “Yūsuf al-Baṣīr.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/yusuf-al-basir-COM_0022460. </title>
+      <ptr target="https://jalit.org/bibl/U6SFRZJ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblHIQPMZ2I">
+      <title>Schwarcz, Benjamin. “Júszuf al-Baszîr al-kitâb al-muhtavî: című munkájának XV fejezete.” (Ph.D, 1907). </title>
+      <ptr target="https://jalit.org/bibl/HIQPMZ2I"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5CDDUSG8">
+      <title>Selden, John. “Yusuf al-Basir.” In Uxor Ebraica: seu de nuptiis &amp; divortiis ex iure civili, id est, divino &amp; tamuldico, veterum ebraeorum, libri tres, (London: R. Bishop, 1646), pp. 13; 18-27 [cap. IV.]. https://books.google.es/books?id=wIv9ha3OZ0MC. </title>
+      <ptr target="https://jalit.org/bibl/5CDDUSG8"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblUJSSVGTD">
+      <title>Sklare, David E. “Basir, Yosef ben Avraham (c 980–c 1040).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), pp. 103-104.</title>
+      <ptr target="https://jalit.org/bibl/UJSSVGTD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblTG5DBHE">
+      <title>Sklare, David E. “Responses to Islamic polemics by Jewish Mutakallimūn.” In The Majlis: interreligious encounters in medieval Islam, edited by Hava Lazarus-Yafeh. (Wiesbaden: Harrassowitz, 1999), pp. 137-161.</title>
+      <ptr target="https://jalit.org/bibl/TG5DBHE"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5EEQZHNB">
+      <title>Sklare, David E. “Yūsuf al-Baṣīr: theological aspects of his halakhic works.” In The Jews of medieval Islam, edited by Daniel Frank. (Leiden: Brill, 1995), pp. 249-270.</title>
+      <ptr target="https://jalit.org/bibl/5EEQZHNB"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblV57WIBD7">
+      <title>Sklare, David, and Casım Ekinci. “Yahudi Teolojisinde Mu’tezili Temayüller: Bir Tetkik.” Yakın Doğu Üniversitesi İlahiyat Fakültesi Dergisi 4, no. 2 (2018): pp. 347-380.</title>
+      <ptr target="https://jalit.org/bibl/V57WIBD7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblB7T6BFP7">
+      <title>Sklare, David. “Epistemology in the Service of Polemic: Yūsuf al-Baṣīr’s Kitāb al-Istiʿānah: Text and Translation.” In Polemical and Exegetical Polarities in Medieval Jewish Cultures, edited by Ehud Krinis, Nabih Bashir , Sara Offenberg , and Shalom Sadik. (Berlin &amp; Boston: De Gruyter, 2021), pp. 97-134.</title>
+      <ptr target="https://jalit.org/bibl/B7T6BFP7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWHC6W56">
+      <title>Sklare, David. Judaeo-Arabic manuscripts in the Firkovitch Collections The works of Yusuf al-Basir A sample catalogue, texts and studies - כתבי היד בערבית־יהודית באוספי פירקוביץ׳ חיבורי יוסף אלבציר קטלוג לדוגמה, מקורות ומחקרים. (Jerusalem: Ben-Zvi Institute, Center for the Study of Judaeo-Arabic Culture and Literature, 1997).</title>
+      <ptr target="https://jalit.org/bibl/WHC6W56"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2EQAYCH">
+      <title>Skoss, Solomon Leon. “Albasir, Joseph ben Abraham Hakohen.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), pp. 158-159.</title>
+      <ptr target="https://jalit.org/bibl/2EQAYCH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblS8WFC6QZ">
+      <title>Steinschneider, Moritz. “Jüdische Literatur.” Allgemeine Encyclopädie der Wissenschaften und Künste, edited by Johann Samuel Ersch, and Johann Gottfried Gruber (Leipzig: F. A. Brockhaus, 1850), pp. 357-471. https://gdz.sub.uni-goettingen.de/id/PPN362303401. </title>
+      <ptr target="https://jalit.org/bibl/S8WFC6QZ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblRFMD6Q23">
+      <title>Steinschneider, Moritz. “Yusuf al-Basir.” In Catalogus Codicum Hebraeorum Bibliothecae Academiae Lugduno-Batavae, (Leiden: E. J. Brill, 1858), pp. 165-173, 179-183. https://catalog.hathitrust.org/Record/009015195. </title>
+      <ptr target="https://jalit.org/bibl/RFMD6Q23"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5Z7VPNV">
+      <title>Steinschneider, Moritz. “Yusuf al-Basir.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 89-91, §50. https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033. </title>
+      <ptr target="https://jalit.org/bibl/5Z7VPNV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblYRQ6QTWQ">
+      <title>Steinschneider, Moritz. “Yusuf al-Basir.” In Die hebraeischen Uebersetzungen des Mittelalters und die Juden als Dolmetscher: Ein Beitrag zur Literaturgeschichte des Mittelalters, meist nach handschriftlichen Quellen, (Berlin: Kommissionsverlag des Bibliographischen Bureaus, 1893), pp. 452-457 [§267-268]. http://archive.org/details/diehebraeischen00steigoog. </title>
+      <ptr target="https://jalit.org/bibl/YRQ6QTWQ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblIYBUULZ6">
+      <title>Steinschneider, Moritz. “Yusuf al-Basir.” In Polemische und apologetische Literatur in arabischer Sprache, zwischen Muslimen, Christen und Juden, nebst Anhängen verwandten Inhalts: mit Benutzung handschriftlicher Quellen, (Leipzig: F.A. Brockhaus, 1877), pp. 346-347 [2.]. https://archive.org/details/polemischeundap00steigoog. </title>
+      <ptr target="https://jalit.org/bibl/IYBUULZ6"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblBMP38XUI">
+      <title>“The Book against the People of the Equinox: T-S K663.” Fragment of the Month September 2019 (2019) doi: 10.17863/CAM.63288. </title>
+      <ptr target="https://jalit.org/bibl/BMP38XUI"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblP8MMQNS">
+      <title>Trigland, Jacobus. “Diatribe de secta Karaeorum.” In Trium scriptorum illustrium de tribus ludaeorum sectis Syntagma, edited by Jacobus Trigland. (Delft: Adrian Beman, 1703), pp. 1-191. https://books.google.es/books?id=dTFb4VUJOtIC&amp;hl. </title>
+      <ptr target="https://jalit.org/bibl/P8MMQNS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblHIKJMFVK">
+      <title>Vajda, Georges ed., and David R. Blumenthal eds. Al-Kitāb al-Muḥtawī de Yūsuf al-Baṣīr. (Leiden: Brill, 1985).</title>
+      <ptr target="https://jalit.org/bibl/HIKJMFVK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl7N36ZPFU">
+      <title>Vajda, Georges. “La Philosophie et la Théologie de Joseph ibn Çaddiq.” Archives d'histoire doctrinale et littéraire du Moyen Âge 17 (1949): pp. 93-181.</title>
+      <ptr target="https://jalit.org/bibl/7N36ZPFU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblTGL6JK5A">
+      <title>Vajda, Georges. “La démonstration de l’unité divine d’après Yūsuf al-Basīr.” In Studies in Mysticism and Religion Presented to Gershom G Scholem on his Seventieth Birthday, edited by E. E. Urbach, R. J. Zwi Werblowsky , and Ch. Wirszubski. (Jerusalem: Magnes Press, 1967), pp. 285-315.</title>
+      <ptr target="https://jalit.org/bibl/TGL6JK5A"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblNB2Y63JX">
+      <title>Vajda, Georges. “La parole créée de Dieu d'après le théologien karaïte Yūsuf al-Baṣīr.”  doi: 10.2307/1595271. </title>
+      <ptr target="https://jalit.org/bibl/NB2Y63JX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblYD2CDXK">
+      <title>Vajda, Georges. “La réfutation de la métensomatose d’après le théologien karaïte Yūsuf al-Baṣīr.” In Philomathes: Studies in the Humanities in Memory of Philip Merlan, edited by Robert B. Palmer, and Robert Hamerton-Kelly. (Den Haag: Nijhoff, 1971), pp. 281-290.</title>
+      <ptr target="https://jalit.org/bibl/YD2CDXK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblG5RPHBKS">
+      <title>Vajda, Georges. “La volonté et l’autarcie divines selon Yūsuf al-Baṣīr.” Revue des études juives 140 (1981): pp. 5-99.</title>
+      <ptr target="https://jalit.org/bibl/G5RPHBKS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl8NDTTN8L">
+      <title>Vajda, Georges. “Le problème de l'assistance bienveillante de Dieu, du «mieux» et de la nécessité de la Loi révélée selon Yûsuf al-Basîr Traduction et commentaire du Kitâb al-Muhtawî (chapitres XXXIV-XXXVI).” Revue des études juives 134, no. 3 (1975): pp. 31-74.</title>
+      <ptr target="https://jalit.org/bibl/8NDTTN8L"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZDWG2MMS">
+      <title>Vajda, Georges. “Le problème de la souffrance gratuite selon Yūsuf al-Başīr.” Revue des études juives 131, no. 3 (1972): pp. 269-322.</title>
+      <ptr target="https://jalit.org/bibl/ZDWG2MMS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblEE2KUXAH">
+      <title>Vajda, Georges. “Le problème de la vision de Dieu d’après Yūsuf al-Baṣīr.” In Islamic Philosophy and the Classical Tradition: Essays Presented by his Friends and Pupils to Richard Walzer on his Seventieth Birthday, edited by S. M. Stern, Albert Hourani , and Vivian Brown. (Oxford: Cassirer, 1972), pp. 473-489.</title>
+      <ptr target="https://jalit.org/bibl/EE2KUXAH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblLQX6DFH5">
+      <title>Vajda, Georges. “Les problèmes des sanctions divines, du repentir et questions connexes selon Yūsuf al-Baṣīr; Kitāb al-Muḥtawī (Chapitres XXXVII–XL); Kitāb al-Manṣūrī (Chapitres XXXI– XXXIII).” Revue des études juives 137 (1978): pp. 279–365.</title>
+      <ptr target="https://jalit.org/bibl/LQX6DFH5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblDGISH5UF">
+      <title>Vajda, Georges. “L’examen rationnel, préalable de la foi, dans l’oeuvre du théologien karaïte Yûsuf al-Basîr.” Archives d'histoire doctrinale et littéraire du Moyen Âge 48 (1981): pp. 7-35.</title>
+      <ptr target="https://jalit.org/bibl/DGISH5UF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblYYTAW8P">
+      <title>Vajda, Georges. “Yusuf al-Basir.” In Introduction à la pensée juive du Moyen Âge, (Paris: J. Vrin, 1947), pp. 64-65; 221. https://books.google.es/books?id=rwArAAAAMAAJ&amp;dq. </title>
+      <ptr target="https://jalit.org/bibl/YYTAW8P"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2AHY8CU">
+      <title>Vidro, Nadia. “Aviv barley and calendar diversity among Jews in eleventh-century Palestine.” Journal of Jewish Studies 72, no. 2 (2021): pp. 283-312. doi: https://doi.org/10.18647/3504/jjs-2021. </title>
+      <ptr target="https://jalit.org/bibl/2AHY8CU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl6B63AZTY">
+      <title>Weissenborn, Hermann. “Yusuf al-Basir.” In Zur Geschichte der Einführung der jetzigen Ziffern in Europa durch Gerbert, (Berlin: Mayer &amp; Müller, 1892), pp. 47-53. https://books.google.de/books?id=5jArAAAAYAAJ. </title>
+      <ptr target="https://jalit.org/bibl/6B63AZTY"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQAFHEQEX">
+      <title>Wilke, Carsten. “From Talmud Torah to Oriental Studies: Itineraries of Rabbinical Students in Hungary.” In Modern Jewish Scholarship in Hungary: The ‚Science of Judaism‘ between East and West, edited by Tamás Turán, and Carsten Wilke. (Berlin/Boston: De Gruyter Oldenbourg, 2016), pp. 75-98.</title>
+      <ptr target="https://jalit.org/bibl/QAFHEQEX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVVV5WW2T">
+      <title>Wolf, Johann Christoph. “Yusuf al-Basir.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 564 [n.970]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl. </title>
+      <ptr target="https://jalit.org/bibl/VVV5WW2T"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblYVPKQMAS">
+      <title>Wolf, Johann Christoph. “Yusuf al-Basir.” In Bibliothecæ Hebrææ, III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam, 1727), pp. 377 [n.855]; 425 [n.970]. ttps://books.google.es/books?id=9dW-cp2_N8oC&amp;pg. </title>
+      <ptr target="https://jalit.org/bibl/YVPKQMAS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXVCMTEUQ">
+      <title>Wolf, Johann Christoph. “Yusuf al-Basir.” In Notitia Karaeorum, (Hamburg &amp; Leipzig: Christian Liebezeit, 1714), pp. 25-26; 115; 121. http://archive.org/details/bub_gb_bzXY5TBXpA8C. </title>
+      <ptr target="https://jalit.org/bibl/XVCMTEUQ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl7W2X76RJ">
+      <title>Wolfson, Harry Austryn. “Joseph Ibn Ṣaddiḳ on Divine Attributes.” The Jewish Quarterly Review 55, no. 4 (1965): pp. 277-298. doi: 10.2307/1453446. </title>
+      <ptr target="https://jalit.org/bibl/7W2X76RJ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblT5233GWX">
+      <title>“Yūsuf al-Baṣīr’s first refutation (Naqḍ) of Abu l-Ḥusayn al-Baṣrī’s theology.” In Rational theology in interfaith communication: Abu l-Ḥusayn al-Baṣrī’s Muʿtazilī theology among the Karaites in the Fāṭimid Age, edited by Wilferd Madelung, and Sabine Schmidtke. (Leiden: Brill, 2006), pp. 13-60.</title>
+      <ptr target="https://jalit.org/bibl/T5233GWX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZPU8PRRN">
+      <title>Zawanowska, Marzena. “From Yūsuf al-Baṣīr to Judah Halevi: The Sadduceean Myth of the Origins of Karaism in Medieval Rabbanite Sources Revisited.” The Medieval History Journal 25, no. 2 (2022): pp. 252-291. doi: 10.1177/09719458211013996. </title>
+      <ptr target="https://jalit.org/bibl/ZPU8PRRN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXVVHHLDN">
+      <title>von Abel, Wolfgang Z ed. Das Buch der Unterscheidung [Kitāb al-Tamyīz (Kitāb al-Manṣūrī)]: Judäo-Arabisch Deutsch. (Freiburg: Herder, 2005).</title>
+      <ptr target="https://jalit.org/bibl/XVVHHLDN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblSZ8G58YV">
+      <title>von Abel, Wolfgang Z. “Zum textlichen Verhältnis zwischen Kitāb al-Tamyīz von Yūsuf al-Baṣīr und der hebräischen Übersetzung Sefer Maḥkimat Peti am Beispiel der Schlusskapitel des Ersten Hauptteils.” In A common rationality: Muʿtazilism in Islam and Judaism, edited by Camilla Adang, and David E. Sklare. (Würzburg: Ergon Verlag in Kommission, 2007), pp. 217-228. https://albert.ias.edu/handle/20.500.12111/51. </title>
+      <ptr target="https://jalit.org/bibl/SZ8G58YV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl8U2DA2EN">
+      <title>Бен-Шамай, Хаггай. “Раввинистические тексты и тексты мидраша в комментариях р Саадии Гаона к Писанию: продолжение традиции и нововведения.” Вестник Еврейского университета 30 (2008): pp. 141-198.</title>
+      <ptr target="https://jalit.org/bibl/8U2DA2EN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblS2IFT7LU">
+      <title>Борисов, Андрей Яковлевич. “Заметки о литературном наследии Юсуфа ал-Басира.” </title>
+      <ptr target="https://jalit.org/bibl/S2IFT7LU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXZNJPFM">
+      <title>Бройде, Исаак Давид. “Иосиф бен-Авраам га-Коген га-Рое.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 859-861.</title>
+      <ptr target="https://jalit.org/bibl/XZNJPFM"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl6MXRP7HY">
+      <title>אלגמיל, יוסף ed. ספר מחכימת פתי. (אשדוד: מכון תפארת יוסף לחקר היהדות הקראית, 2004).</title>
+      <ptr target="https://jalit.org/bibl/6MXRP7HY"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl6J5XWN">
+      <title>אלגמיל, יוסף ed. ספר נעימות: הנקרא בערבית ”אלמחתוי“. (אשדוד: מכון תפארת יוסף לחקר היהדות הקראית, 2004).</title>
+      <ptr target="https://jalit.org/bibl/6J5XWN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl27BKVPJU">
+      <title>אלגמיל, יוסף ed. ספר שאלות ותשובות. (אשדוד: מכון תפארת יוסף לחקר היהדות הקראית, 2005).</title>
+      <ptr target="https://jalit.org/bibl/27BKVPJU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2ISTJP">
+      <title>בן-שמאי, חגי. “כתאב אלמחתוי ליוסף אלבציר.” קרית ספר 62 (1988): pp. 426-407.</title>
+      <ptr target="https://jalit.org/bibl/2ISTJP"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWM3NSYJ">
+      <title>בן-שמאי, חגי. “פרקים אבודים מכתאב אלמחתוי ליוסף אלבציר.” In כתבי היד בערבית-יהודית באוספי פירקוביץ' חיבורי יוסף אלבציר קטלוג לדוגמה מקורות ומחקרים, א, edited by דוד סקליר, and חגי בן-שמאי. (ירושלים: מכון בן צבי לחקר קהילות ישראל במזרח, 1997), pp. 126-113.</title>
+      <ptr target="https://jalit.org/bibl/WM3NSYJ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZ7GNRUR">
+      <title>גאטטלאבער, אברהם בער. “יוסף הרואה.” In בקורת לתולדות הקראים, (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), pp. 175-176. https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq. </title>
+      <ptr target="https://jalit.org/bibl/Z7GNRUR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblSH2CGH">
+      <title>וורמברנד, מרדכי. “יוסף בן אברהם אל בציר.” אנציקלופדיה העברית, (ירושלים), pp. 680-679.</title>
+      <ptr target="https://jalit.org/bibl/SH2CGH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblDCFQJPBH">
+      <title>וידה, ז'ורז'. “הגדרות מונחי המתכלמון בכתבי יוסף אלבציר.” דעת 26, no. חורף (1991): pp. 34-5.</title>
+      <ptr target="https://jalit.org/bibl/DCFQJPBH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZGPIRSUN">
+      <title>פרנקל, מרים ed., and חגי בן-שמאי eds. אלוני, נחמיה. הספרייה היהודית בימי הביניים: רשימות ספרים מגניזת קהיר. (ירושלים: מכון בן צבי לחקר קהילות ישראל במזרח, 2006).</title>
+      <ptr target="https://jalit.org/bibl/ZGPIRSUN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblC5YUDXW3">
+      <title>רעוועל, דוב. “יוסף בן אברהם הרואה.” אוצר ישראל, edited by יהודה דוד אייזענשטיין (ניו-יורק1906), pp. 135-134.</title>
+      <ptr target="https://jalit.org/bibl/C5YUDXW3"/>
+   </bibl>
                <idno type="URI" subtype="isni">https://isni.org/isni/0000000096095008</idno>
                <idno type="URI" subtype="viaf">http://viaf.org/viaf/95246510</idno>
                <idno type="URI" subtype="wiki"/>

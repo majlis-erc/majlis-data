@@ -23,10 +23,6 @@
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                >Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-               >Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor"
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                >Maximilian de Molière
@@ -54,6 +50,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -236,10 +233,166 @@
                <residence>
                   <placeName ref="" cert="" source=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               
+               <bibl type="bibliography" xml:id="jalit-orgbibl6P2ZR6JU">
+                  <title>“Abu al-Faraj Harun ibn al-Faraj (Aaron ben Jeshua).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 178.</title>
+                  <ptr target="https://jalit.org/bibl/6P2ZR6JU"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFPDEDU3">
+                  <title>“Абул-Фарадж Гарун бен ал-Фарадж.” Еврейская энциклопедия, (С.-Петербургъ: Брокгауза и Ефрона, 1908), pp. 180-182.</title>
+                  <ptr target="https://jalit.org/bibl/FPDEDU3"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblX6WBNWXY">
+                  <title>Bacher, Wilhelm. “Le Grammairien anonyme de Jérusalem et son livre.” In Revue des études juives, 30, (Paris: Peeters, 1880), pp. 232-256. https://catalog.hathitrust.org/Record/000679454. </title>
+                  <ptr target="https://jalit.org/bibl/X6WBNWXY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblDS6ZI3Y">
+                  <title>Basal, Nasir. “On the presence of the Andalusian Ḥayyūj’s grammatical theory in Abū al-Faraj Hārūn’s al-Kitāb al-Muštamil in the “East”.” Journal of Semitic Studies 67, no. 1 (2022): pp. 169-198. doi: 10.1093/jss/fgab028. </title>
+                  <ptr target="https://jalit.org/bibl/DS6ZI3Y"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblJYUKWEY">
+                  <title>Basal, Nasir. “The glossary Šarḥ al-ʾalfāẓ by Abū al-Faraj Hārūn: David ben Abraham Alfāsī’s dictionary Jāmiʿ al-ʾalfāẓ as a resource.” Jerusalem Studies in Arabic and Islam 51 (2021): pp. 337-376.</title>
+                  <ptr target="https://jalit.org/bibl/JYUKWEY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl85CMUL7">
+                  <title>Basal, Nasir. “The Karaite Tradition of Hebrew Grammatical Thought in Its Classical Form-A Critical Edition and English Translation of by 'Abu l-Faraj Harun ibn al-Faraj.” Arabica 55, no. 1 (2008): pp. 140-146.</title>
+                  <ptr target="https://jalit.org/bibl/85CMUL7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZEH3UL38">
+                  <title>Basal, Nasir. “The concept of hal in the Al-Kitab al-Mustamil of Abu al-Farag Harun in comparison with Ibn al-Sarrag.” Israel Oriental Studies 19 (1999): pp. 391-408.</title>
+                  <ptr target="https://jalit.org/bibl/ZEH3UL38"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblYL658LS3">
+                  <title>Basal, Nasir. “Excerpts from the abridgment (al-Muhtasar) of al-Kitab al-Kafi by Abu al-Farag Harun in Arabic script.” Israel Oriental Studies 17 (1997): pp. 197-225.</title>
+                  <ptr target="https://jalit.org/bibl/YL658LS3"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl3QI6KQV">
+                  <title>Becker, Dan. “A unique semantic classification of the Hebrew verb taken by the Qaraite 'Abu al-Faraj Harun from the Arab grammarian 'Ibn al-Sarraj.” </title>
+                  <ptr target="https://jalit.org/bibl/3QI6KQV"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblCWU2JR3">
+                  <title>Ben-Shammai, Haggai, Haggai. “Abu al-Faraj Harun ibn al-Faraj (Aaron ben Jeshua).” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 334.</title>
+                  <ptr target="https://jalit.org/bibl/CWU2JR3"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblT3F7WDQ">
+                  <title>Eldar, Ilan. “È davvero Yehudah ibn Bal'am l'autore della Hidayat al-qari?” </title>
+                  <ptr target="https://jalit.org/bibl/T3F7WDQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblEPCQZWIM">
+                  <title>Eldar, Ilan. Torat ha-keriah ba-Mikra: sefer Horayat ha-kore u-mishnato ha-leshonit. (Jerusalem: ha-Akademyah la-lashon ha-`Ivrit, 1994).</title>
+                  <ptr target="https://jalit.org/bibl/EPCQZWIM"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblHB8BH5">
+                  <title>Gallego, María Ángeles. “The transmission in medieval manuscripts of Al-Kitab al Kafi by Abu al-Faraj Harun ibn al-Faraj.” In Exegesis and Grammar in Medieval Karaite Texts, (Oxford: Oxford University Press, 2001), pp. 151-178.</title>
+                  <ptr target="https://jalit.org/bibl/HB8BH5"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblW6YN7PXF">
+                  <title>Gallego García, María Ángeles. “Orígenes y evolución del lenguaje según el gramático y exegeta caraíta Abu l-Farag Harun ibn al-Farag.” Sefarad 63, no. 1 (2003): pp. 43-67.</title>
+                  <ptr target="https://jalit.org/bibl/W6YN7PXF"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl3EQ5B8XV">
+                  <title>Goldstein, Miriam. “Arabic Book Culture in the Work of a Jerusalem Karaite: Abu l-Faraj Harun and his Glossary of Difficult Biblical Words.” Zeitschrift der Deutschen Morgenländischen Gesellschaft 164, no. 2 (2014): pp. 345-373.</title>
+                  <ptr target="https://jalit.org/bibl/3EQ5B8XV"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl6T25LWFG">
+                  <title>Goldstein, Miriam. “Abū l-Faraj Hārūn (Jerusalem, 11th c) on majāz, between uṣūl al-naḥw, uṣūl al-fiqh and iʿjāz al-Qurʾān.” Der Islam 90, no. 2 (2013): pp. 376-411. doi: 10.1515/islam-2013-0012. </title>
+                  <ptr target="https://jalit.org/bibl/6T25LWFG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFEPI5G7E">
+                  <title>Goldstein, Miriam. The Pentateuch Exegesis of the Karaites Yusuf ibn Nuh and Abu al-Faraj Harun: An Examination of Method in the Context of the Contemporaneous Literary and Exegetical Approaches of Jews, Christians and Muslims. (Jerusalem: Hebrew University, 2006).</title>
+                  <ptr target="https://jalit.org/bibl/FEPI5G7E"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblJHKC255">
+                  <title>Hirschfeld, Hartwig. “An unknown grammatical work by Abul-Faraj Harun.” Jewish Quarterly Review 13, no. 1 (1922): pp. 1-7.</title>
+                  <ptr target="https://jalit.org/bibl/JHKC255"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZ6G6IVW8">
+                  <title>Hirschfeld, Hartwig. Literary history of Hebrew grammarians and lexicographers. (London: Oxford University Press, 1926).</title>
+                  <ptr target="https://jalit.org/bibl/Z6G6IVW8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZI5B6QAQ">
+                  <title>Howard, Yonathan. “לשון קודש, לשון כשדים, לשון יוונים: רשימת הלשונות במאור עין ומסירתו של דקדוקי המקרא.” מחקרים בלשון: ספר היובל לאהרן ממן יז-יח (2017): pp. 316-301.</title>
+                  <ptr target="https://jalit.org/bibl/ZI5B6QAQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIBW8JVSV">
+                  <title>Khan, Geoffrey. “'Abu al-Faraj Harun and the early Karaite grammatical tradition.” </title>
+                  <ptr target="https://jalit.org/bibl/IBW8JVSV"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblUBIMB8CW">
+                  <title>Khan, Geoffrey. “ʾAbū al-Faraj Hārūn ibn Faraj (Aaron b Jeshua).” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Leiden: Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/abu-al-faraj-harun-ibn-faraj-aaron-b-jeshua-SIM_0000340. </title>
+                  <ptr target="https://jalit.org/bibl/UBIMB8CW"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl8PKLV5BT">
+                  <title>Khan, Geoffrey. “The contribution of the Karaites to the study of the Hebrew language.” In Karaite Judaism: a guide to its history and literary sources, edited by Meira Polliack. (Leiden &amp; Boston: Brill, 2003), pp. 291-318. https://doi.org/10.1163/9789004294264_014. </title>
+                  <ptr target="https://jalit.org/bibl/8PKLV5BT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQMF7LU2">
+                  <title>Khan, Geoffrey ed., María Ángeles Gallego , and Judith Olszowy-Schlanger eds. The Karaite tradition of Hebrew grammatical thought in its classical form: A critical edition and English translation of “al-Kitāb al-Kāfi fī al-Lugha al-ʿIbrāniyya” by ʾAbū al-Faraj Harun ibn al-Faraj. (Leiden: Brill, 2003).</title>
+                  <ptr target="https://jalit.org/bibl/QMF7LU2"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFZFQS53">
+                  <title>Kohler, Kaufmann. “Aaron of Jerusalem.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), p. 13.</title>
+                  <ptr target="https://jalit.org/bibl/FZFQS53"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblPIVUGDVA">
+                  <title>Maman, Aaron. “An Eleventh-Century Karaite Hebrew Grammar.” The Jewish Quarterly Review 101, no. 3 (2011): pp. 466-476.</title>
+                  <ptr target="https://jalit.org/bibl/PIVUGDVA"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblLKDSUAZU">
+                  <title>Maman, Aharon. “Karaite Hebrew grammatical thought State of the art.” In Maimónides y su Época, edited by C. del Valle, S. García-Jalón , and J. Pedro Monferrer. (Madrid: Sociedad Estatal de Conmemoraciones Culturales, 2007), pp. 429-438.</title>
+                  <ptr target="https://jalit.org/bibl/LKDSUAZU"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFR2C7WTI">
+                  <title>Nadler-Akirav, Meirav. “The meaning and translation of the biblical adverb ʿūlay ('perhaps') among medieval Jewish thinker.” The journal of Jewish studies 68, no. 1 (2017): pp. 78-96. doi: https://doi.org/10.18647/3302/JJS-2017. </title>
+                  <ptr target="https://jalit.org/bibl/FR2C7WTI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblGHPGFDIT">
+                  <title>Olszowy-Schlanger, Judith. “The Explanation of Difficult Words by 'Abu al-Faraj Harun ibn al-Faraj.” In Exegesis and Grammar in Medieval Karaite Texts, edited by Geoffrey Khan. (Oxford: Oxford University Press, 2001), pp. 179-194.</title>
+                  <ptr target="https://jalit.org/bibl/GHPGFDIT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl7U32C5R">
+                  <title>Poznanski, Samuel. “Aboul-Faradj Haroun ben Al-Faradj, le grammairien de Jérusalem, et son Mouschtamil (fin).” Revue des études juives 33, no. 66 (1896): pp. 197-218.</title>
+                  <ptr target="https://jalit.org/bibl/7U32C5R"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQBPLG3PA">
+                  <title>Simchoni, Jacob Nafali Hertz. “Abu al-Faradsch Harun ben Alfaradsch.” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 616-619.</title>
+                  <ptr target="https://jalit.org/bibl/QBPLG3PA"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5UBRNVE">
+                  <title>Steinschneider, Moritz. “Abu l-Faraj Harun.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 86-88.</title>
+                  <ptr target="https://jalit.org/bibl/5UBRNVE"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl528X67B6">
+                  <title>Vidro, Nadezhda. “A Newly Reconstructed Karaite Work on Hebrew Grammar.” Journal of Semitic Studies 54, no. 1 (2009): pp. 169-178.</title>
+                  <ptr target="https://jalit.org/bibl/528X67B6"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblV85EUE3M">
+                  <title>אלדר, אילן. “ראשית המילונאות העברית במזרח (במאות העשירית והאחת-עשרה).” </title>
+                  <ptr target="https://jalit.org/bibl/V85EUE3M"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblPLLCKP7P">
+                  <title>באסל, נאסר. “החלק הראשון של אלכתאב אלמשתמל לאבו אלפרג' הרון ותלותו בכתאב אלאצול פי אלנחו לאבו אלסראג'.” לשוננו סא, no. ג (1998): pp. 191-209.</title>
+                  <ptr target="https://jalit.org/bibl/PLLCKP7P"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblP77WFTEQ">
+                  <title>באסל, נאסר. “ערבית-יהודית באותיות ערביות : אלכתאב אלמשתמל לאבו אלפרג' הארון.” </title>
+                  <ptr target="https://jalit.org/bibl/P77WFTEQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblSSNW23C">
+                  <title>באסל, נאסר. “קטע חדש באותיות ערביות מן אלכתאב אלמשתמל לאבו אלפרג' הארון - סוגיית פועל עומד ופועל יוצא.” </title>
+                  <ptr target="https://jalit.org/bibl/SSNW23C"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIHUYSX5J">
+                  <title>ותד, עלי. “ה-תפכים וה-אכתצאר במשנתו הלשונית של דוד בן-אברהם אלפאסי.” </title>
+                  <ptr target="https://jalit.org/bibl/IHUYSX5J"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblMW3HF6D">
+                  <title>ממן, אהרן. “תאוריית העמל במחשבה הדקדוקית של אבו אלפרג' הרון.” </title>
+                  <ptr target="https://jalit.org/bibl/MW3HF6D"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblF6UQTSS">
+                  <title>שוחט, עזריאל. “לתולדות בית הכנסת על קברו של שמואל הנביא.” </title>
+                  <ptr target="https://jalit.org/bibl/F6UQTSS"/>
                </bibl>
                <idno type="URI" subtype="isni">https://isni.org/isni/0000000117603092</idno>
                <idno type="URI" subtype="viaf">https://viaf.org/viaf/42891349</idno>

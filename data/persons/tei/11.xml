@@ -15,12 +15,9 @@
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
                 <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
                     Gregor Schwarb
-                    
                 </editor>
-                
                 <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                     Maximilian de Molière
-                    
                 </editor>
                 <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
                 <respStmt>
@@ -224,167 +221,222 @@ In addition to his major works, Yešuʿa wrote a number of smaller treatises and
       <title>St. Petersburg, Russian National Library, Yevr.-Arab. I 3910</title>
       <ptr target="https://jalit.org/bibl/H2RX9HN3"/>
       <citedRange unit="folio">177v, ll. 23-24</citedRange>
-   </bibl>
-                    <bibl xml:id="jalit-orgbibl8FBH9YMV" type="bibliography">
-                        <title>Jeshua ben Judah (Abu al-Faraj Furkan ibn Asad)</title>
-                        <ptr target="https://jalit.org/bibl/8FBH9YMV"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblQ2PJPKXC" type="bibliography">
-                        <title>Selfness and kinship in Medieval Karaite incest laws</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblHUXJQ6SG">
+                        <title>“Jeshua ben Juda.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 683.</title>
+                        <ptr target="https://jalit.org/bibl/HUXJQ6SG"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8FBHYMV">
+                        <title>Broydé, Isaac. “Jeshua ben Judah (Abu al-Faraj Furkan ibn Asad).” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), pp. 157-158.</title>
+                        <ptr target="https://jalit.org/bibl/8FBHYMV"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQ2PJPKXC">
+                        <title>David, Joseph E. “Selfness and kinship in Medieval Karaite incest laws.” </title>
                         <ptr target="https://jalit.org/bibl/Q2PJPKXC"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblW9JNNQ8E" type="bibliography">
-                        <title>Jeshuah ben Judah</title>
-                        <ptr target="https://jalit.org/bibl/W9JNNQ8E"/>
-                    </bibl>
-                    <bibl xml:id="jalit-orgbibl622KX8C5" type="bibliography">
-                        <title>"Yeshu'ah ben Yehuda"</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl622KX8C5">
+                        <title>Dubrau, Alexander. “Yeshu'ah ben Yehuda.” In Halacha und Gesellschaft: Aspekte religiösen Lebens, (Universitätsverlag Potsdam, 2007), pp. 130-132.</title>
                         <ptr target="https://jalit.org/bibl/622KX8C5"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblK45JWU3B" type="bibliography">
-                        <title>"Yeshuʿah ben Yehudah"</title>
-                        <ptr target="https://jalit.org/bibl/K45JWU3B"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMF5ZIDQ">
+                        <title>Fabricius, Johann Andreas. “Yeshuʿah ben Yehudah.” In Abriß einer allgemeinen Historie der Gelehrsamkeit, 2, (Leipzig: Weidmannsche Buchhandlung, 1752), p. 702. https://books.google.de/books?id=IKXSu_9Y82sC. </title>
+                        <ptr target="https://jalit.org/bibl/MF5ZIDQ"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblWGVP2FVG">
-                        <title>Yeshuʿa Ben Yehuda</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblK5JWU3B">
+                        <title>Fürst, Julius. “Yeshuʿah ben Yehudah.” In Geschichte des Karäerthums bis 900 der gewöhnlichen Zeitrechnung: eine kurze Darstellung seiner Entwickelung, Lehre und Literatur, mit den dazugehörigen Quellennachweisen, 1, (Leipzig: Nies'sche Buchdruckerei, 1862), pp. 79; 119.</title>
+                        <ptr target="https://jalit.org/bibl/K5JWU3B"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWGVP2FVG">
+                        <title>Grossman, Maxine. “Yeshuʿa Ben Yehuda.” The Oxford Dictionary of the Jewish Religion, edited by Adele Berlin (Oxford: Oxford University Press, 2011) http://www.oxfordreference.com/view/10.1093/acref/9780199730049.001.0001/acref-9780199730049-e-3426. </title>
                         <ptr target="https://jalit.org/bibl/WGVP2FVG"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbibl6G7L8RBU" type="bibliography">
-                        <title>Theological Encounters at a Crossroads: An Edition and Translation of Judah Hadassi’s Eshkol ha-kofer, First Commandment, and Studies of the Book’s Judaeo-Arabic and Byzantine Contexts. Karaite Texts and Studies, Volume 11</title>
-                        <ptr target="https://jalit.org/bibl/6G7L8RBU"/>
-                    </bibl>
-                    <bibl xml:id="jalit-orgbiblEEXL93F2">
-                        <title>"Yeshuʿah ben Yehudah"</title>
-                        <ptr target="https://jalit.org/bibl/EEXL93F2"/>
-                    </bibl>
-                    <bibl xml:id="jalit-orgbiblZLNKA88V" type="bibliography">
-                        <title>Controversies on the Creation of Man in Abraham ibn Ezra’s Exegesis</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZLNKA88V">
+                        <title>Gómez Aranda, Mariano. “Controversies on the Creation of Man in Abraham ibn Ezra’s Exegesis.” In Adam and Eve Story in Jewish, Christian and Islamic Perspectives, (Winona Lake, Indiana: Eisenbrauns, 2017) https://digital.csic.es/handle/10261/275330. </title>
                         <ptr target="https://jalit.org/bibl/ZLNKA88V"/>
                     </bibl>
-                    
-                    <bibl xml:id="jalit-orgbiblMS5GR9GJ" type="bibliography">
-                        <title>Joseph al-Basir and Jeshua ben Judah</title>
-                        <ptr target="https://jalit.org/bibl/MS5GR9GJ"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMS5GRGJ">
+                        <title>Husik, Isaac. “Joseph al-Basir and Jeshua ben Judah.” In A history of mediaeval Jewish philosophy, (New York: Macmillan, 1916), pp. 48-58 [chap. IV.]. https://archive.org/details/ahistorymediaev01husigoog. </title>
+                        <ptr target="https://jalit.org/bibl/MS5GRGJ"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblGQLFIW96" type="bibliography">
-                        <title>Jeschua ben Jehuda</title>
-                        <ptr target="https://jalit.org/bibl/GQLFIW96"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWJNNQ8E">
+                        <title>Landmann, Isaac. “Jeshuah ben Judah.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 81.</title>
+                        <ptr target="https://jalit.org/bibl/WJNNQ8E"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbibl5P7VNX5X" type="bibliography">
-                        <title>Jeshua ben Judah</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEEXL3F2">
+                        <title>Löw, Leopold. “Yeshuʿah ben Yehudah.” In המפתח: Praktische Einleitung in die heilige Schrift und Geschichte der Schriftauslegung, ein Lehrbuch für die reifere Jugend, ein Handbuch für Gebildete, (Groß-Kanischa: J. Markbreiter, 1855), pp. 154-156 [§§280-282]. https://mdz-nbn-resolving.de/details:bsb10411668. </title>
+                        <ptr target="https://jalit.org/bibl/EEXL3F2"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKYT8XBW">
+                        <title>Margoliouth, George. “The Writings of Abu’l-Faraj Furkan ibn Asad.” Jewish Quarterly Review 11 (1898): pp. 187-215.</title>
+                        <ptr target="https://jalit.org/bibl/KYT8XBW"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGQLFIW6">
+                        <title>Markon, Isaac. “Jeschua ben Jehuda.” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 42-43.</title>
+                        <ptr target="https://jalit.org/bibl/GQLFIW6"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIDKBLII">
+                        <title>Markon, Isaac. “Jeschua ben Juda.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), pp. 229-230.</title>
+                        <ptr target="https://jalit.org/bibl/IDKBLII"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7Y3GZ3DY">
+                        <title>Markon, Isaak ed. ספר העריות המכונה ספר הישר. (St. Petersburg: יוסף לוריא ושותפו, 1908).</title>
+                        <ptr target="https://jalit.org/bibl/7Y3GZ3DY"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5P7VNX5X">
+                        <title>Nemoy, Leon. “Jeshua ben Judah.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 3-4.</title>
                         <ptr target="https://jalit.org/bibl/5P7VNX5X"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbibl744RKHKK" type="bibliography">
-                        <title>Jeshua ben Judah</title>
-                        <ptr target="https://jalit.org/bibl/744RKHKK"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7RKHKK">
+                        <title>Nemoy, Leon. “Jeshua ben Judah.” Encyclopaedia Judaica, (Detroit: Gale, 2007), pp. 242-243.</title>
+                        <ptr target="https://jalit.org/bibl/7RKHKK"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblK9YT8XBW" type="bibliography">
-                        <title>The Writings of Abu’l-Faraj Furkan ibn Asad</title>
-                        <ptr target="https://jalit.org/bibl/K9YT8XBW"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5VNBZP5">
+                        <title>“Yeshuʿah ben Yehudah.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, (New Haven &amp; London: Yale University Press, 1952), pp. 123-132.</title>
+                        <ptr target="https://jalit.org/bibl/5VNBZP5"/>
                     </bibl>
-                    
-                    
-                    
-                    
-                    
-                    <bibl xml:id="jalit-orgbiblY7R33F3A" type="bibliography">
-                        <title>Alternate Renderings and Additions in Yeshuʿah ben Yehudah’s Arabic Translation of the Pentateuch</title>
-                        <ptr target="https://jalit.org/bibl/Y7R33F3A"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblK7MRD5CF">
+                        <title>Neubauer, Adolf. “Yeshuʿah ben Yehudah.” In Aus der Petersburger Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und der karäischen Literatur, (Leipzig: O. Leiner, 1866), pp. 10; 19-21.</title>
+                        <ptr target="https://jalit.org/bibl/K7MRD5CF"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblXD2YACES" type="bibliography">
-                        <citedRange unit="page">46–52</citedRange>
-                        
-                        <title>Meira Polliack, Yeshuʿah Ben Yehudah, in The Karaite Tradition of Arabic Bible Translation: A Linguistic and Exegetical Study of Karaite Translations of the Pentateuch from the Tenth and Eleventh Centuries C.E. (Leiden: Brill, 1997), 46–53.</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblL3FM2A7">
+                        <title>Polliack, Meira. “Alternate Renderings and Additions in Yeshu ʿah ben Yehudah's Arabic Translation of the Pentateuch.” The Jewish Quarterly Review 84, no. 2/3 (1993): pp. 209-225. doi: 10.2307/1455354. </title>
+                        <ptr target="https://jalit.org/bibl/L3FM2A7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXD2YACES">
+                        <title>Polliack, Meira. “Yeshuʿah ben Yehudah.” In The Karaite tradition of Arabic Bible translation: A linguistic and exegetical study of Karaite translations of the Pentateuch from the tenth and eleventh centuries CE, (Leiden: Brill, 1997), pp. 46-53.</title>
                         <ptr target="https://jalit.org/bibl/XD2YACES"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblEFVRVADD" type="bibliography">
-                        <title>The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
+                        <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
                         <ptr target="https://jalit.org/bibl/EFVRVADD"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblVHM2YLU6">
-                        <title>Allegorical Interpretation of Daniel 12:2</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLXBKIC">
+                        <title>Poznański, Samuel. “The Anti-Karaite Writings of Saadiah Gaon.” The Jewish Quarterly Review 10, no. 2 (1898): pp. 238-276. doi: 10.2307/1450715. </title>
+                        <ptr target="https://jalit.org/bibl/LXBKIC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVHM2YLU6">
+                        <title>Ron, Zvi. “Allegorical Interpretation of Daniel 12:2.” Jewish Bible quarterly 47 (2019): p. 123.</title>
                         <ptr target="https://jalit.org/bibl/VHM2YLU6"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblDY3XGNNK" type="bibliography">
-                        <title>"Yeshu'ah ben Yehudah"</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDY3XGNNK">
+                        <title>Salfeld, Siegmund. “Yeshu'ah ben Yehudah.” In Das Hohelied Salomo's bei den jüdischen Erklärern des Mittelalters, (Berlin: Benzian, 1879), pp. 132-133.</title>
                         <ptr target="https://jalit.org/bibl/DY3XGNNK"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbibl8DBCM74T" type="bibliography">
-                        <title>"Yeshu'ah ben Yehuda"</title>
-                        <ptr target="https://jalit.org/bibl/8DBCM74T"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8DBCM7T">
+                        <title>Sarton, George. “Yeshu'ah ben Yehuda.” In Introduction to the history of science, (Baltimore: Pub. for the Carnegie institution of Washington, by the Williams &amp; Wilkins company, 1927), p. 751. https://catalog.hathitrust.org/Record/006158007. </title>
+                        <ptr target="https://jalit.org/bibl/8DBCM7T"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblBDQGF3G3" type="bibliography">
-                        
-                        <title>Jeschuʿa ben Jehuda, Studien über Jeschuʿa ben Jehuda, ed. Martin Schreiner, Bericht über die Lehranstalt für die Wissenschaft des Judentums in Berlin 18 (Berlin: Itzkowski, 1900).</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBDQGF3G3">
+                        <title>Schreiner, Martin. Studien über Jeschuʿa ben Jehuda. (Berlin: Itzkowski, 1900).</title>
                         <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblXVZRT66U" type="bibliography">
-                        <title>"Yeshuʿah ben Yehudah"</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXVZRT66U">
+                        <title>Selden, John. “Yeshuʿah ben Yehudah.” In Uxor Ebraica: seu de nuptiis &amp; divortiis ex iure civili, id est, divino &amp; tamuldico, veterum ebraeorum, libri tres, (London: R. Bishop, 1646), pp. 13; 28-36 [cap. V.]. https://books.google.es/books?id=wIv9ha3OZ0MC. </title>
                         <ptr target="https://jalit.org/bibl/XVZRT66U"/>
                     </bibl>
-                    
-                    <bibl xml:id="jalit-orgbibl75PTS4B6" type="bibliography">
-                        <title>Yeshu‛a ben Yehudah (11th c.)</title>
-                        <ptr target="https://jalit.org/bibl/75PTS4B6"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWQGHFFA">
+                        <title>Sidersky, D. “Le Caraïsmę et ses doctrines.” Revue de l'histoire des religions 114 (1936): pp. 197-221.</title>
+                        <ptr target="https://jalit.org/bibl/WQGHFFA"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblWQG4HFFA" type="bibliography">
-                        <title>Le Caraïsmę et ses doctrines</title>
-                        <ptr target="https://jalit.org/bibl/WQG4HFFA"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl75PTSB6">
+                        <title>Sklare, David E. “Yeshu‛a ben Yehudah (11th c).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 742.</title>
+                        <ptr target="https://jalit.org/bibl/75PTSB6"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbibl55V5RWFM">
-                        <title>"Yeschu'ah ben Yehuda"</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblS8WFC6QZ">
+                        <title>Steinschneider, Moritz. “Jüdische Literatur.” Allgemeine Encyclopädie der Wissenschaften und Künste, edited by Johann Samuel Ersch, and Johann Gottfried Gruber (Leipzig: F. A. Brockhaus, 1850), pp. 357-471. https://gdz.sub.uni-goettingen.de/id/PPN362303401. </title>
+                        <ptr target="https://jalit.org/bibl/S8WFC6QZ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl55V5RWFM">
+                        <title>Steinschneider, Moritz. “Yeschu'ah ben Yehuda.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 91-94.</title>
                         <ptr target="https://jalit.org/bibl/55V5RWFM"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblHJQ9NM6M" type="bibliography">
-                        <title>Linguistic study of a rabbinic quotation embedded in a Karaite commentary on Exodus</title>
-                        <ptr target="https://jalit.org/bibl/HJQ9NM6M"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTNXFG3BV">
+                        <title>Steinschneider, Moritz. “Yeshuʿah ben Yehudah.” In Die hebraeischen Uebersetzungen des Mittelalters und die Juden als Dolmetscher: Ein Beitrag zur Literaturgeschichte des Mittelalters, meist nach handschriftlichen Quellen, (Berlin: Kommissionsverlag des Bibliographischen Bureaus, 1893), pp. 454-455; 459-460; 942-943. http://archive.org/details/diehebraeischen00steigoog. </title>
+                        <ptr target="https://jalit.org/bibl/TNXFG3BV"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblCFE22YHD" type="bibliography">
-                        <citedRange unit="page">150–65</citedRange>
-                        
-                        <title>Ofra Tirosh-Becker, Rabbinic Excerpts in Medieval Karaite Literature -גנזי חז"ל בספרות הקראית בימי הביניים, 2 vols. (Jerusalem: Bialik, 2011).</title>
-                        <ptr target="https://jalit.org/bibl/CFE22YHD"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblHJQNM6M">
+                        <title>Tirosh-Becker, Ofra. “Linguistic study of a rabbinic quotation embedded in a Karaite commentary on Exodus.” </title>
+                        <ptr target="https://jalit.org/bibl/HJQNM6M"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblZBPDVTMI" type="bibliography">
-                        <title>Yeshua ben Yehuda</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblPKPF6L83">
+                        <title>Tirosh-Becker, Ofra. “Jeshua ben Judah (Abū ʾl-Faraj Furqān ibn Asad).” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/jeshua-ben-judah-abu-l-faraj-furqan-ibn-asad-SIM_0012000. </title>
+                        <ptr target="https://jalit.org/bibl/PKPF6L83"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblC2MNMZ7C">
+                        <title>Vajda, Georges. “Les Etudes De Philosophie Juive Du Moyen Age Depuis La Synthese De Julius Guttmann.” Hebrew Union College Annual 43 (1972): pp. 125-147.</title>
+                        <ptr target="https://jalit.org/bibl/C2MNMZ7C"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZBPDVTMI">
+                        <title>Weinfeld, Eduardo. “Yeshua ben Yehuda.” Enciclopedia Judaica Castellana, (México: Editorial Enciclopedia Judaica Castellana, 1948), p. 531.</title>
                         <ptr target="https://jalit.org/bibl/ZBPDVTMI"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblSXLXLGW6" type="bibliography">
-                        <title>"Yeshuʿah ben Yehudah"</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblSXLXLGW6">
+                        <title>Wolf, Johann Christoph. “Yeshuʿah ben Yehudah.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), pp. 699-700 [n.1293]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl. </title>
                         <ptr target="https://jalit.org/bibl/SXLXLGW6"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblD5AQMZCV" type="bibliography">
-                        <title>Иешуа бен-Иуда</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblD5AQMZCV">
+                        <title>БРОЙДЕ, И. “Иешуа бен-Иуда.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 741-743.</title>
                         <ptr target="https://jalit.org/bibl/D5AQMZCV"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblWJR4LN8T" type="bibliography">
-                        <title>ישועה בן יהודה: לדמותו של חכם קראי ירושלמי במאה הי"א</title>
-                        <ptr target="https://jalit.org/bibl/WJR4LN8T"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFNA7MCX8">
+                        <title>בן שמאי, חגי. “קינה על ציון וירושלים: בשולי ספר אבוד לחכם הקראי ישועה בן יהודה.” </title>
+                        <ptr target="https://jalit.org/bibl/FNA7MCX8"/>
                     </bibl>
-                    
-                    <bibl xml:id="jalit-orgbiblYEL8X7GU" type="bibliography">
-                        <title>הקראי‛ ישועה בן יהודה  מחברו של פירוש לס׳ בראשית שנשתמר בלבוש שומרוני</title>
-                        <ptr target="https://jalit.org/bibl/YEL8X7GU"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZBKKB5UC">
+                        <title>בן-שמאי, חגי. “ישועה בן יהודה: לדמותו של חכם קראי ירושלמי במאה היא.” פעמים 32 (1987): pp. 3-20.</title>
+                        <ptr target="https://jalit.org/bibl/ZBKKB5UC"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblW9J33KHC">
-                        <title>The Impossibilities in "Bereshit Raba" of Jeshua ben Judah / הנמנעות בחוק האל ב"בראשית רבה" לישועה בן יהודה</title>
-                        <ptr target="https://jalit.org/bibl/W9J33KHC"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEWVXDAXS">
+                        <title>גוטלובר, אברהם דב. “Yeshu'ah ben Yehuda.” In בקורת לתולדות הקראים, (ירושלים: קדם, 1865), p. 194.</title>
+                        <ptr target="https://jalit.org/bibl/EWVXDAXS"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbibl6J6F2CHU" type="bibliography">
-                        <title>עיון לשוני במשניות המשוקעות בכתב-יד של פירוש ישועה בן יהודה לויקרא</title>
-                        <ptr target="https://jalit.org/bibl/6J6F2CHU"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblHSZTBH7">
+                        <title>וורמברנד, מרדכי. “ישוע בן יהודה.” אנציקלופדיה העברית, (ירושלים), pp. 444-445.</title>
+                        <ptr target="https://jalit.org/bibl/HSZTBH7"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblU9ZUKMA9" type="bibliography">
-                        <title>ישועה בן יהודה</title>
-                        <ptr target="https://jalit.org/bibl/U9ZUKMA9"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl65TMSIE">
+                        <title>כהנא, מנחם, Menahem Kahana, עפרה תירוש-בקר, and Ofra Tirosh-Becker. “תרומתו של ישועה בן יהודה למחקר המכילתא דר' שמעון בן יוחי ולשונה || Yeshua ben Yehuda’s contribution to the study of the Mekhilta of Rabbi Shimon ben Yoḥai and its language.” תרביץ  || Tarbiz 89, no. 4 (2023): pp. 581-647.</title>
+                        <ptr target="https://jalit.org/bibl/65TMSIE"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbibl82HDLNZP" type="bibliography">
-                        <title>פירוש קראי על  התורה בלבוש שומרוני</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQTKFZGUP">
+                        <title>כהנא, מנחם יצחק. “מובאות חדשות מספרי זוטא דברים.” </title>
+                        <ptr target="https://jalit.org/bibl/QTKFZGUP"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTZ2C7AY">
+                        <title>ליונשטם, אילה, and Ajalah Loewenstamm. “The Karaite Jeshuah ben Jehudah, Author of a Pseudo-Samaritan Commentary on Genesis / הקראי ישועה בן יהודה מחברו של פירוש לס' בראשית שנשתמר בלבוש שומרוני.” תרביץ מא, no. ב (1972): pp. 183-187.</title>
+                        <ptr target="https://jalit.org/bibl/TZ2C7AY"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl82HDLNZP">
+                        <title>ליונשטם, אילה. “פירוש קראי על התורה בלבוש שומרוני.” ספונות ח, no. ספר זכרון – ליצחק בן־צבי: מחקרים ומקורות לתולדות קהילות ישראל במזרח (1964): pp. 165-204.</title>
                         <ptr target="https://jalit.org/bibl/82HDLNZP"/>
                     </bibl>
-                    <bibl xml:id="jalit-orgbiblQVH6VF3H" type="bibliography">
-                        <title>הקראי‛ ישועה בן יהודה  מחברו של פירוש לס׳ בראשית שנשתמר בלבוש שומרוני</title>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQVH6VF3H">
+                        <title>ליונשטם, אילה. “הקראי‛ ישועה בן יהודה  מחברו של פירוש לס׳ בראשית שנשתמר בלבוש שומרוני.” In עיונים בספרות השומרונית ובספרות הקראית: אוסף מאמרים מן העיזבון, edited by הושע בלאו. (Jerusalem: The Academy of the Hebrew Language, 2008), pp. 202-206.</title>
                         <ptr target="https://jalit.org/bibl/QVH6VF3H"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWJ33KHC">
+                        <title>רובין, ישראל נתנאל. “The Impossibilities in Bereshit Raba of Jeshua ben Judah / הנמנעות בחוק האל בבראשית רבה לישועה בן יהודה.” Iyyun: The Jerusalem Philosophical Quarterly / עיון: רבעון פילוסופי ס"ה (2016): pp. 165-201.</title>
+                        <ptr target="https://jalit.org/bibl/WJ33KHC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblUZUKMA">
+                        <title>רעוועל, דוב. “ישועה בן יהודה.” אוצר ישראל, edited by יהודה דוד אייזענשטיין (ניו-יורק1906), pp. 232-233.</title>
+                        <ptr target="https://jalit.org/bibl/UZUKMA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCUWG7HZI">
+                        <title>שלוסברג, אליעזר, Eliezer Schlossberg, יוסף פליישמן, and Joseph Fleishman. “פרשנות קראית קדומה לפרשת מוציא שם רע : קדושתא לשמיני עצרת ליניי || Early Karaite Interpretation to Deuteronomy 22:13-21.” גנזי קדם 11 (2015): pp. 147-248.</title>
+                        <ptr target="https://jalit.org/bibl/CUWG7HZI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblY5LKEH8">
+                        <title>תירוש-בקר, עפרה. “תרגומיהם של המלומדים הקראים יעקוב אלקרקסאני, יוסף אלבציר וישועה בן יהודה לקטעים מן המשנה.” שערי לשון ג (2007): pp. 435-466.</title>
+                        <ptr target="https://jalit.org/bibl/Y5LKEH8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblY3DMVV67">
+                        <title>תירוש-בקר, עפרה. “עיונים ראשונים במובאות מלשון חזל בתוך פירושי התורה של החכם הקראי ישועה בן יהודה.” </title>
+                        <ptr target="https://jalit.org/bibl/Y3DMVV67"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6J6F2CHU">
+                        <title>תירוש-בקר, עפרה. “עיון לשוני במשניות המשוקעות בכתב-יד של פירוש ישועה בן יהודה לויקרא.” מסורות ז (1993): pp. 186-145.</title>
+                        <ptr target="https://jalit.org/bibl/6J6F2CHU"/>
                     </bibl>
                     <idno type="URI" subtype="isni">https://isni.org/isni/0000000044338338</idno>
                     <idno type="URI" subtype="viaf">http://viaf.org/viaf/58767269</idno>                    <idno type="URI" subtype="wiki"/>

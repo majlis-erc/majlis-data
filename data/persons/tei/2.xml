@@ -3,60 +3,54 @@
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Salmon ben Yerūḥam</title>
-                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
+                    Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                        München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName
+                        xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                        Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName
+                        xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de"
+                        >Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
-                    </editor>
-                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
-                    </editor>
-                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
-                    </editor>
-                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
-                    </editor>
-                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
-                    Nadine Urbiczek
-                    
-                </editor>
-                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
-                    Peter Tarras
-                    
-                </editor>
-                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
-                    Annabelle Fuchs
-                    
-                </editor>
-                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
-                    Lea Gzella
-                    
-                </editor>
-                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
-                    Polina Lakteikina
-                    
-                </editor>
-                <editor xml:id="rboehm" role="contributor">
-                    Maurizio Boehm
-                    
-                </editor>
-                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
-                    Lea Poralla
-                    
-                </editor>
-                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
-                    Lukas Froschmeier
-                    
-                </editor>
+                <editor xml:id="rvollandt" role="general"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
+                    >Ronny Vollandt </editor>
+                <editor xml:id="gschwarb" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
+                    >Gregor Schwarb </editor>
+                <editor xml:id="mmoliere" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
+                    >Maximilian de Molière </editor>
+                <editor xml:id="nurbiczek" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html"
+                    > Nadine Urbiczek </editor>
+                <editor xml:id="ptarras" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html"
+                    > Peter Tarras </editor>
+                <editor xml:id="afuchs" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html"
+                    > Annabelle Fuchs </editor>
+                <editor xml:id="lgzella" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html"
+                    > Lea Gzella </editor>
+                <editor xml:id="plakteikina" role="contributor"
+                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3"> Polina Lakteikina </editor>
+                <editor xml:id="rboehm" role="contributor"> Maurizio Boehm </editor>
+                <editor xml:id="lporalla" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html"
+                    > Lea Poralla </editor>
+                <editor xml:id="lfroschmeier" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html"
+                    > Lukas Froschmeier </editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
+                        >Winona Salesky</name>
+                </respStmt>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -65,7 +59,8 @@
                 <idno type="URI">https://jalit.org/person/2</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
+                            4.0) License.</p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
@@ -75,7 +70,9 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-05-07T12:37:04.398Z"> Added heritage data</change><change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-05-07T12:37:04.398Z"> Added heritage data</change>
+            <change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -354,10 +351,571 @@
                     <residence>
                         <placeName ref="" cert=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+
+                    <bibl type="bibliography" xml:id="jalit-orgbiblSYP265XB">
+                        <title>“Karäische Studien II: Salmon ben Jeruchim und Kirkisani.”
+                            Monatsschrift für Geschichte und Wissenschaft des Judentums 82 (1938):
+                            pp. 342-352.</title>
+                        <ptr target="https://jalit.org/bibl/SYP265XB"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8BXS7UK">
+                        <title>“Salomao ben Jeroham.” Biblioteca de cultura judaica, (Rio de
+                            Janeiro: Biblos), p. 1052.</title>
+                        <ptr target="https://jalit.org/bibl/8BXS7UK"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVU38FU8">
+                        <title>“Shlomo ben Yerojam.” Enciclopedia Judaica Castellana, (México:
+                            Editorial Enciclopedia Judaica Castellana, 1948), pp. 598-599.</title>
+                        <ptr target="https://jalit.org/bibl/VU38FU8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl66HYYEDG">
+                        <title>The Faces of the Chariot: Early Jewish Responses to Ezekiel’s Vision.
+                            (Tübingen: J. C. B. Mohr, 1988).</title>
+                        <ptr target="https://jalit.org/bibl/66HYYEDG"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRYZYC8D">
+                        <title>Zeitschrift für hebraeische Bibliographie : Jg X (1906) Frankfurt,
+                            MBerlin / Suche Salmon ben Jeroham. (1906).</title>
+                        <ptr target="https://jalit.org/bibl/RYZYC8D"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2QLMNNQ">
+                        <title>“סלמון בן ירחם.” אנציקלופדיה העברית, (ירושלים), p. 94.</title>
+                        <ptr target="https://jalit.org/bibl/2QLMNNQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQNJ5VC3P">
+                        <title>ספר מלחמות ה׳ ערך וההדיר יוסף אלגמיל. (רמלה: מכון ”תפארת יוסף“ לחקר
+                            .מורשת היהדות הקראית‛, 2004).</title>
+                        <ptr target="https://jalit.org/bibl/QNJ5VC3P"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIM6JKFM">
+                        <title>״וקול התור נשמע בארצנו: פירושי הקראים סלמון בן ירוחם ויפת בן עלי לשיר
+                            השירים. (Tel Aviv: אוניברסיטת בר־אילן, הפקולטה למדעי היהדות, המחלקה
+                            ללימודי ארץ־ישראל, 2001).</title>
+                        <ptr target="https://jalit.org/bibl/IM6JKFM"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIUMZA28">
+                        <title>Abdul-Karim, Mohammed Abdul-Latif. “Commentary of Salmon Ben Yeruham
+                            on Lamentations.” (Ph.D, 1976). </title>
+                        <ptr target="https://jalit.org/bibl/IUMZA28"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6TGA7CC">
+                        <title>Abrahams, Israel. “Salmon ben Jeroham.” In Chapters on Jewish
+                            Literature, 1, (Philadelphia: The Jewish Publication Society of America,
+                            1899), p. 78. http://archive.org/details/abrahamsi1899chap1. </title>
+                        <ptr target="https://jalit.org/bibl/6TGA7CC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblUAXZCRC">
+                        <title>Alobaidi, Joseph ed. Le commentaire des psaumes par le qaraïte Salmon
+                            Ben Yeruham: psaumes 1-10. (Bern: Lang, 1996).</title>
+                        <ptr target="https://jalit.org/bibl/UAXZCRC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQTBTDLDR">
+                        <title>“Salmon ben Yerūḥam.” In The Messiah in Isaiah 53: the commentaries
+                            of Saadia Gaon, Salmon ben Yeruham and Yefet ben Eli on Is 52:13-53:12,
+                            edited by Joseph Alobaidi. (Bern: Lang, 1998), pp. 65-123.</title>
+                        <ptr target="https://jalit.org/bibl/QTBTDLDR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWI2HDJ5E">
+                        <title>Andruss, Jessica. “Salmon ben Yerūḥīm on Lamentations 1:12.” </title>
+                        <ptr target="https://jalit.org/bibl/WI2HDJ5E"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDAYFMPFR">
+                        <title>Andruss, Jessica H. Jewish piety in Islamic Jerusalem: the
+                            Lamentations commentary of Salmon ben Yeruhim. (Oxford: Oxford
+                            University Press, 2023).</title>
+                        <ptr target="https://jalit.org/bibl/DAYFMPFR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5XZY3IF6">
+                        <title>Beattie, Derek Robert George. “Studies in Jewish exegesis of the Book
+                            of Ruth from the ancient version to the mediaeval commentaries.” (Ph.D,
+                            1973). </title>
+                        <ptr target="https://jalit.org/bibl/5XZY3IF6"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVR3BUFJ3">
+                        <title>Beer, Peter. “Salmon ben Jeroham.” In Geschichte, Lehren und
+                            Meinungen aller bestandenen und noch bestehenden religiösen Sekten der
+                            Juden und der Geheimlehre oder Cabbalah, 1, (Brünn: J.G. Traßler, 1822),
+                            pp. 149; 165. https://books.google.de/books?id=35QkSZZ_ycwC. </title>
+                        <ptr target="https://jalit.org/bibl/VR3BUFJ3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6CDJK7X">
+                        <title>Ben Jeroham, Salmon. “From the Book of the Wars of the Lord of Salmon
+                            ben Jeroham: Refutation of Sa‘adiah’s Arguments for the Validity of the
+                            Rabbanite Oral Tradiiton.” </title>
+                        <ptr target="https://jalit.org/bibl/6CDJK7X"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFH7EKLT">
+                        <title>Ben-Shammai, Haggai. “Review of Le commentaire des Psaumes par le
+                            Qaraïte Salmon ben Yeruham: Psaumes 1-10.” The Jewish Quarterly Review
+                            91, no. 3/4 (2001): pp. 438-446. doi: 10.2307/1455559. </title>
+                        <ptr target="https://jalit.org/bibl/FH7EKLT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWKLVQITS">
+                        <title>Ben-Shammai, Haggai. “Jerusalem in Early Medieval Jewish Bible
+                            Exegesis.” In Jerusalem its sanctity and centrality to Judaism
+                            Christianity and Islam, edited by Lee I. Levine. (New York: Continuum,
+                            1999), pp. 447-464.</title>
+                        <ptr target="https://jalit.org/bibl/WKLVQITS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblPMQ2HXP">
+                        <title>Blau, Joshua. “Some instances reflecting the influence of Saadya
+                            Gaon's Bible translation on later Judeo-Arabic writings.” </title>
+                        <ptr target="https://jalit.org/bibl/PMQ2HXP"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJLI37J">
+                        <title>Broydé, Isaac. “Solomon ben Jeroham (Sulaim ibn Ruhaim).” The Jewish
+                            Encyclopaedia, (New York: Funk and Wagnalls, 1901), p. 452.</title>
+                        <ptr target="https://jalit.org/bibl/JLI37J"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJHEVVWI">
+                        <title>“Salmon ben Jeroham.” In Nachrichten von dem Zustande der
+                            Wissenschaften und Künste in den Königlich Dänischen Reichen und
+                            Ländern, 3, edited by Anton Friedrich Büsching. (Kopenhagen &amp;
+                            Leipzig: Johann Benjamin Ackermann, 1757), p. 264.
+                            https://books.google.de/books?id=0gVMAAAAcAAJ. </title>
+                        <ptr target="https://jalit.org/bibl/JHEVVWI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFEB6JUTT">
+                        <title>, , and Israel Davidson. מלחמות ה': כולל טענות הקראי סלמון בן ירוחים
+                            נגד סעדיה גאון. (New York: בית מדרש הרבנים דאמריקה, 1934).</title>
+                        <ptr target="https://jalit.org/bibl/FEB6JUTT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIRWPFQ">
+                        <title>Dukes, Leopold. “Salmon ben Jeroham.” In Literaturhistorische
+                            Mittheilungen ueber die ältesten hebräischen Exegeten, Grammatiker und
+                            Lexicographen, (Stuttgart: Adolph Krabbe, 1844), pp. 27-28; 99-100.
+                            https://books.google.de/books?id=VRYOAAAAIAAJ. </title>
+                        <ptr target="https://jalit.org/bibl/IRWPFQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFL3MDEK">
+                        <title>Fabricius, Johann Andreas. “Salmon ben Jeroham.” In Abriß einer
+                            allgemeinen Historie der Gelehrsamkeit, 2, (Leipzig: Weidmannsche
+                            Buchhandlung, 1752), p. 702.
+                            https://books.google.de/books?id=IKXSu_9Y82sC. </title>
+                        <ptr target="https://jalit.org/bibl/FL3MDEK"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8DQ6FAU7">
+                        <title>, , and Salomon Feuerstein. Der Commentar des Karäers Salmon Ben
+                            Jerucham zu den Klageliedern. (Krakau1898).</title>
+                        <ptr target="https://jalit.org/bibl/8DQ6FAU7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFVXVXAH">
+                        <title>, , and Salomon Feuerstein. Der Commentar des Karäers Salmon ben
+                            Jerucham zu den Klageliedern. (Krakau: Verlag des Verfassers,
+                            1898).</title>
+                        <ptr target="https://jalit.org/bibl/FVXVXAH"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2M2RRV7J">
+                        <title>Fleischer, E. “Contributions hébraïques à une meilleure compréhension
+                            de quelques aspects de la poésie européenne du Haut Moyen-Age.” </title>
+                        <ptr target="https://jalit.org/bibl/2M2RRV7J"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRW82BTYT">
+                        <title>Frank, Daniel. “Karaite commentaries on the Song of Songs from
+                            tenth-century Jerusalem.” </title>
+                        <ptr target="https://jalit.org/bibl/RW82BTYT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDTIRJTN">
+                        <title>Frank, Daniel. “Salmon ben Jeroham.” In Search Scripture well:
+                            Karaite exegetes and the origins of the Jewish Bible commentary in the
+                            Islamic East, (Leiden &amp; Boston: Brill, 2004), pp. 12-13; 147; 327;
+                            323; 341; 345. https://doi.org/10.1163/9789047405566. </title>
+                        <ptr target="https://jalit.org/bibl/DTIRJTN"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblW5JIJMZX">
+                        <title>Fürst, Julius. “Salmon ben Jeroham.” In Geschichte des Karäerthums:
+                            Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar
+                            Leiner, 1865), pp. 4; 28; 33-40; 49; 54; 76-99; 120-121; 130-132; 136;
+                            216-217; 293. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl. </title>
+                        <ptr target="https://jalit.org/bibl/W5JIJMZX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5TKTZK8">
+                        <title>Gil, Moshe. “Salmon ben Jeroham.” In A History of Palestine,
+                            634–1099, (Cambridge: Cambridge University Press, 1992), pp. 67; 72;
+                            112; 180; 347; 618; 620; 652; 782; 796; 798; 806.</title>
+                        <ptr target="https://jalit.org/bibl/5TKTZK8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLEXWQJK">
+                        <title>Graetz, Heinrich. “Die mystische Literatur in der gaonäischen Epoche
+                            (Schluss).” Monatsschrift für Geschichte und Wissenschaft des Judentums
+                            8, no. 4 (1859): pp. 140-153.</title>
+                        <ptr target="https://jalit.org/bibl/LEXWQJK"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2ALFVCA">
+                        <title>Habib, Joseph. “Qere and ketiv in the exegesis of the Karaites and
+                            Saadya.” </title>
+                        <ptr target="https://jalit.org/bibl/2ALFVCA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5CDH8JQC">
+                        <title>Hamburger, Jacob. “Salmon ben Jeroham.” In Die jüdische Litteratur
+                            seit Abschluss des Kanons: Geschichte der rabbinischen Litteratur
+                            während des Mittelalters und ihrer Nachblüthe in der neueren Zeit, 2,
+                            edited by Jakob Winter, and August Wünsche. (Trier: Sigmund Mayer,
+                            1894), pp. 79-80. https://books.google.de/books?id=Kme8rCRb8tYC. </title>
+                        <ptr target="https://jalit.org/bibl/5CDH8JQC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblE3CZY6CU">
+                        <title>Harari, Yuval. “Leadership, authority, and the other in the debate
+                            over magic from the Karaites to Maimonides.” </title>
+                        <ptr target="https://jalit.org/bibl/E3CZY6CU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZMYHAT">
+                        <title>Harkavy, Albert. “Salmon ben Jeroham.” In Studien und Mittheilungen
+                            aus der Kaiserlichen Oeffentlichen Bibliothek zu St Petersburg,
+                            (Leipzig: Voss' Sortiment (G. Haessel), 1891), p. 7.</title>
+                        <ptr target="https://jalit.org/bibl/ZMYHAT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblYQ8AAXH">
+                        <title>Horowitz, Elliott. “Isaiah’s Suffering Servant and the Jews: From the
+                            Nineteenth Century to the Ninth.” In New Perspectives on
+                            Jewish-Christian Relations, (Leiden: Brill, 2012), pp. 419-436.
+                            https://brill.com/display/book/edcoll/9789004221185/B9789004221185_019.xml. </title>
+                        <ptr target="https://jalit.org/bibl/YQ8AAXH"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDH2MLXM">
+                        <title>Kirchheim, Raphael. “Szalmon ben Jerocham’s polemisch-dogmatisches
+                            Gedicht gegen den Gaon Saadja Fajjumi.” Literaturblatt des Orients 7,
+                            no. 11 (1846): pp. 163-168.</title>
+                        <ptr target="https://jalit.org/bibl/DH2MLXM"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJZV7B76A">
+                        <title>Kirchheim, Raphael. “Szalmon ben Jerocham’s polemisch-dogmatisches
+                            Gedicht gegen den Gaon Saadja Fajjumi.” Literaturblatt des Orients 7,
+                            no. 14 (1846): pp. 211-216.</title>
+                        <ptr target="https://jalit.org/bibl/JZV7B76A"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWBNCHDZ">
+                        <title>Lasker, Daniel J. “Karaite mourning of Zion as an ascetic movement.” </title>
+                        <ptr target="https://jalit.org/bibl/WBNCHDZ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVKVVMWG">
+                        <title>Löw, Leopold. “Salmon ben Jeroham.” In המפתח: Praktische Einleitung
+                            in die heilige Schrift und Geschichte der Schriftauslegung, ein Lehrbuch
+                            für die reifere Jugend, ein Handbuch für Gebildete, (Groß-Kanischa: J.
+                            Markbreiter, 1855), pp. 161-162 [§294].
+                            https://mdz-nbn-resolving.de/details:bsb10411668. </title>
+                        <ptr target="https://jalit.org/bibl/VKVVMWG"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGDIKC2X">
+                        <title>Malter, Henry. “Salmon ben Jeroham.” In Saadia Gaon, his life and
+                            works, (Philadelphia: The Jewish publication society of America, 1921),
+                            pp. 35; 224; 325; 441. https://catalog.hathitrust.org/Record/007700931. </title>
+                        <ptr target="https://jalit.org/bibl/GDIKC2X"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMTTUJB6">
+                        <title>Markon, Isaac. “Salomon (oder Salman) ben Jěrocham.” Jüdisches
+                            Lexicon, (Berlin: Jüdischer Verlag, 1927), pp. 57-58.</title>
+                        <ptr target="https://jalit.org/bibl/MTTUJB6"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJLXI7PSX">
+                        <title>Marwick, E Lawrence. “Studies in Salmon ben Yeruḥam.” Jewish
+                            Quarterly Review 34, no. 3/4 (1944): pp. 313-320; 475-480.</title>
+                        <ptr target="https://jalit.org/bibl/JLXI7PSX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVQRVVLU">
+                        <title>Marwick, E Lawrence. The Arabic Commentary of Salmon ben Yeruham the
+                            Karaite on the Book of Psalms Chapters 42-72. (Philadelphia: Dropsie
+                            college, 1956).</title>
+                        <ptr target="https://jalit.org/bibl/VQRVVLU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMGD8RBH">
+                        <title>Meier, Johannes. “Salmon ben Jeroham.” In :סדר עולם רבא וסדר עולם
+                            סוטא sive Chronicon Hebraeorum majus et minus, (Amsterdam: Johannes
+                            Wolters, 1699), p. 187 [n.LIX].</title>
+                        <ptr target="https://jalit.org/bibl/MGD8RBH"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZ6AHIKIW">
+                        <title>Nemoy, Leon. “Did Salmon ben Jeroham Compose a Commentary on Ruth?.”
+                            The Jewish Quarterly Review 39, no. 2 (1948): pp. 215-216. doi:
+                            10.2307/1452826. </title>
+                        <ptr target="https://jalit.org/bibl/Z6AHIKIW"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblU2JHMFRK">
+                        <title>Nemoy, Leon. “Salmon ben Jeroham's commentary on Psalms 42-72.” </title>
+                        <ptr target="https://jalit.org/bibl/U2JHMFRK"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNFJDNGCU">
+                        <title>Nemoy, Leon. “The Milḥamōth ha-Shēm of Salmon ben Jeroham.” </title>
+                        <ptr target="https://jalit.org/bibl/NFJDNGCU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRGKTYHEV">
+                        <title>Nemoy, Leon, and Golda Akhiezer. “Salmon ben Jeroham (Sulaym ibn
+                            Ruḥaym).” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 693.</title>
+                        <ptr target="https://jalit.org/bibl/RGKTYHEV"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZ6KUT6MS">
+                        <title>Nemoy, Leon. “Salmon ben Jeroham (Sulaym ibn Ruḥaym).” Encyclopaedia
+                            Judaica, (Jerusalem: Keter, 1971), p. 689.</title>
+                        <ptr target="https://jalit.org/bibl/Z6KUT6MS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5EMRPNQL">
+                        <title>Nemoy, Leon. “Salmon ben Jeroham.” In Karaite anthology: excerpts
+                            from the early literature, translated from Arabic, Aramaic, and Hebrew
+                            sources, (New Haven &amp; London: Yale University Press, 1952), pp.
+                            69-82.</title>
+                        <ptr target="https://jalit.org/bibl/5EMRPNQL"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5GUA7T5">
+                        <title>Nemoy, Leon. “Solomon ben Jeroham.” Universal Jewish Encyclopedia,
+                            (New York: Universal Jewish Encyclopedia, 1939), pp. 637-638.</title>
+                        <ptr target="https://jalit.org/bibl/5GUA7T5"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6H7WILLT">
+                        <title>Neubauer, Adolf. “Salmon ben Jeroham.” In Aus der Petersburger
+                            Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und
+                            der karäischen Literatur, (Leipzig: O. Leiner, 1866), pp. 3-6; 10-15;
+                            23-26; 107-108.</title>
+                        <ptr target="https://jalit.org/bibl/6H7WILLT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXW26GC7M">
+                        <title>Peters, Francis E. “Salmon ben Jeroham.” In Jerusalem: the holy city
+                            in the eyes of chroniclers, visitors, pilgrims and prophets from the
+                            days of Abraham to the beginnings of modern times, (Princeton, NJ
+                            [u.a.]: Princeton Univ. Press, 1985), pp. 94–193.
+                            https://opacplus.bsb-muenchen.de/search?isbn. </title>
+                        <ptr target="https://jalit.org/bibl/XW26GC7M"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5JUZ2Z7V">
+                        <title>Pinsker, Simḥa. “Salomon ben Jeroham.” In לקוטי קדמוניות: לקורות דת
+                            בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte
+                            des Karaismus und der karäischen Literatur), (Wien: Adalbert della
+                            Torre, 1860), pp. 115-117.</title>
+                        <ptr target="https://jalit.org/bibl/5JUZ2Z7V"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl25MCDNZA">
+                        <title>Polliack, Meira. “Review of The Messiah in Isaiah 53: The
+                            Commentaries of Saadia Gaon, Salmon ben Yeruham, and Yefet ben Eli on Is
+                            52:13—53:12 (La Bible dans l'histoire).” The Journal of Theological
+                            Studies 56, no. 1 (2005): pp. 191-195.</title>
+                        <ptr target="https://jalit.org/bibl/25MCDNZA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCUAPDNE8">
+                        <title>Polliack, Meira. “Deconstructing the Dual Torah: A Jewish Response to
+                            the Muslim Model of Scripture.” In Interpreting Scriptures in Judaism,
+                            Christianity and Islam: Overlapping Inquiries, edited by Mordechai Z.
+                            Cohen, and Adele Berlin. (Cambridge: Cambridge University Press, 2016),
+                            pp. 113-130.</title>
+                        <ptr target="https://jalit.org/bibl/CUAPDNE8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGGLKUNGF">
+                        <title>Poznanski, Samuel. “Die Streitschrift eines Schülers Saadija's gegen
+                            Salmon b Jerocham.” Zeitschrift für Hebraeische Bibliographie X, no. 5
+                            (1906)</title>
+                        <ptr target="https://jalit.org/bibl/GGLKUNGF"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblPXQXI3N">
+                        <title>Poznanski, Samuel. “Miszellen über Saadja.” Monatsschrift für
+                            Geschichte und Wissenschaft des Judentums 51 (N. F. 15), no. 11/12
+                            (1907): pp. 718-732.</title>
+                        <ptr target="https://jalit.org/bibl/PXQXI3N"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGUCAZ37N">
+                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly
+                            Review 8, no. 4 (1896): pp. 681-704. doi:
+                            https://doi.org/10.2307/1450208. </title>
+                        <ptr target="https://jalit.org/bibl/GUCAZ37N"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZCSGT782">
+                        <title>Poznański, Samuel. “Der Commentar des Karäers Salmon ben Jerucham zu
+                            den Klageliedern by Salomon Feuerstein: Der Commentar des Karäers Jephet
+                            ben Ali Halevi zu den Proverbien by Israel Günzig.” </title>
+                        <ptr target="https://jalit.org/bibl/ZCSGT782"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5Y88NDWU">
+                        <title>Reimmann, Jacob Friedrich. “Salmon ben Jeroham.” In Versuch einer
+                            Einleitung in die Historie der Theologie, (Magdeburg &amp; Leipzig:
+                            Christoph Seidel, 1717), pp. 477-479.
+                            https://books.google.de/books?id=JRUVAAAAQAAJ. </title>
+                        <ptr target="https://jalit.org/bibl/5Y88NDWU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTJNLFGMD">
+                        <title>“Salmon ben Jeroham.” In The Americana: a universal reference
+                            library, comprising the arts and sciences, literature, history,
+                            biography, geography, commerce, etc, of the world, edited by George
+                            Edwin Rines, and Frederick Converse Beach. (New York: Scientific
+                            American Compiling Dept., 1911), p. 5.
+                            https://catalog.hathitrust.org/Record/100193193. </title>
+                        <ptr target="https://jalit.org/bibl/TJNLFGMD"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJQNF7F3J">
+                        <title>Robinson, James T. “Salmon ben Yerūḥīm on Qoheleth: a selection
+                            (preface; 1:1-4;4:17; 7:16; 12:12).” </title>
+                        <ptr target="https://jalit.org/bibl/JQNF7F3J"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMG2X65J3">
+                        <title>Robinson, James T. Asceticism, Eschatology, Opposition to Philosophy:
+                            The Arabic Translation and Commentary of Salmon Ben Yeroham on Qohelet
+                            (Ecclesiastes) Karaite Texts and Studies. (Brill, 2012).</title>
+                        <ptr target="https://jalit.org/bibl/MG2X65J3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVAIXQ2YV">
+                        <title>Rosenthal, Judah. “Ḥiwi al-Balkhi: A Comparative Study (Continued).”
+                            The Jewish Quarterly Review 38, no. 4 (1948): pp. 419-430. doi:
+                            10.2307/1453157. </title>
+                        <ptr target="https://jalit.org/bibl/VAIXQ2YV"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl27U73B8N">
+                        <title>Rée, Hartwig Philipp. “Zu dem Einleitungsgedicht des Salmon b
+                            Jerucham.” Literaturblatt des Orients 7 (1846): pp. 138-139,
+                            228-231.</title>
+                        <ptr target="https://jalit.org/bibl/27U73B8N"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblYPLPFQ3">
+                        <title>Salfeld, Siegmund. “Salmon ben Jeroham.” In Das Hohelied Salomo's bei
+                            den jüdischen Erklärern des Mittelalters, (Berlin: Benzian, 1879), pp.
+                            127-128;.</title>
+                        <ptr target="https://jalit.org/bibl/YPLPFQ3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblPBKXLTY8">
+                        <title>Scheiber, Sandor. “Prières Rabbanites chez les Auteurs Karaites.” </title>
+                        <ptr target="https://jalit.org/bibl/PBKXLTY8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNHZTU">
+                        <title>Selden, John. “Salmon ben Jeroham.” In Uxor Ebraica: seu de nuptiis
+                            &amp; divortiis ex iure civili, id est, divino &amp; tamuldico, veterum
+                            ebraeorum, libri tres, (London: R. Bishop, 1646), p. 11.
+                            https://books.google.es/books?id=wIv9ha3OZ0MC. </title>
+                        <ptr target="https://jalit.org/bibl/NHZTU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMM8ALLI">
+                        <title>Shunary, Jonathan. “Salmon ben Yeruham's Commentary on the Book of
+                            Psalms.” The Jewish quarterly review 73, no. 2 (1982): pp.
+                            155-175.</title>
+                        <ptr target="https://jalit.org/bibl/MM8ALLI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8ZHYGFMS">
+                        <title>Simon, Uriel. Four approaches to the Book of Psalms: From Saadiah
+                            Gaon to Abraham ibn Ezra. (Albany: State University of New York Press,
+                            1991).</title>
+                        <ptr target="https://jalit.org/bibl/8ZHYGFMS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTCHL6UAH">
+                        <title>Sklare, David E. “Salmon ben Yeruḥim (10th c).” The Oxford Dictionary
+                            of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey
+                            Wigoder (New York: Oxford University Press, 1997), p. 602.</title>
+                        <ptr target="https://jalit.org/bibl/TCHL6UAH"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKYQS5YIX">
+                        <title>Steinschneider, Moritz. “Salmon ben Jeroham.” In Die arabische
+                            Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber,
+                            grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J.
+                            Kauffmann, 1902), pp. 51; 65; 76-78; 251.</title>
+                        <ptr target="https://jalit.org/bibl/KYQS5YIX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5VUUK6A5">
+                        <title>Steinschneider, Moritz. “Salmon ben Jeroham.” In Die hebraeischen
+                            Uebersetzungen des Mittelalters und die Juden als Dolmetscher: Ein
+                            Beitrag zur Literaturgeschichte des Mittelalters, meist nach
+                            handschriftlichen Quellen, (Berlin: Kommissionsverlag des
+                            Bibliographischen Bureaus, 1893), p. 946.
+                            http://archive.org/details/diehebraeischen00steigoog. </title>
+                        <ptr target="https://jalit.org/bibl/5VUUK6A5"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblABHCTM3V">
+                        <title>Vajda, Georges. “Le Psaume VIII commenté par Salmon b Yeruhim.” </title>
+                        <ptr target="https://jalit.org/bibl/ABHCTM3V"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblR3BI75Z">
+                        <title>Vajda, Georges. “La péricope du Serviteur souffrant interprétée par
+                            le Karaïte Salmon ben Yeruhim.” </title>
+                        <ptr target="https://jalit.org/bibl/R3BI75Z"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblYMUJ5BU">
+                        <title>Vajda, Georges. “Salmon ben Jeroham.” In Deux commentaires karaïtes
+                            sur l’Ecclésiaste, (Leiden: Brill, 1971), pp. 8-13; 219-237.</title>
+                        <ptr target="https://jalit.org/bibl/YMUJ5BU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKLYYB6ND">
+                        <title>Waxman, Meyer. “Salmon ben Jeroham.” In A history of Jewish
+                            literature from the close of the Bible to our own days, (New York: Bloch
+                            publishing co., 1938), pp. 386; 404-405.
+                            https://catalog.hathitrust.org/Record/000966242. </title>
+                        <ptr target="https://jalit.org/bibl/KLYYB6ND"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJV3753T8">
+                        <title>Wechsler, Michael G. “A Judaeo-Arabic witness to the commentary on
+                            Ruth by Salmon ben Yeruḥam.” </title>
+                        <ptr target="https://jalit.org/bibl/JV3753T8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIWFUHZS3">
+                        <title>Wechsler, Michael G. “Salmon ben Jeroham (Sulaym ibn Ruḥaym).”
+                            Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman
+                            (Leiden: Brill, 2010)
+                            https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/*-SIM_0018990. </title>
+                        <ptr target="https://jalit.org/bibl/IWFUHZS3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWBA5WSY">
+                        <title>Wolf, Johann Christoph. “Salmon ben Jeroham.” In Bibliotheca Hebraea,
+                            I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 1083 [n.2027].
+                            https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl. </title>
+                        <ptr target="https://jalit.org/bibl/WBA5WSY"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7G5KL65G">
+                        <title>Wolf, Johann Christoph. “Salmon ben Jeroham.” In Bibliothecæ Hebrææ,
+                            III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam,
+                            1727), p. 1067 [n.2027].
+                            https://books.google.es/books?id=9dW-cp2_N8oC&amp;pg. </title>
+                        <ptr target="https://jalit.org/bibl/7G5KL65G"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIYDIWLKX">
+                        <title>Wolf, Johann Christoph. “Salmon ben Jeroham.” In Notitia Karaeorum,
+                            (Hamburg &amp; Leipzig: Christian Liebezeit, 1714), pp. 114-115; 186;
+                            237; 249; 257. http://archive.org/details/bub_gb_bzXY5TBXpA8C. </title>
+                        <ptr target="https://jalit.org/bibl/IYDIWLKX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRHUFN6BW">
+                        <title>von Orelli, Conrad. “Salmon ben Jeroham.” In Die hebräischen Synonyma
+                            der Zeit und Ewigkeit, (Leipzig: A. Lorentz, 1871), pp. 18-20.
+                            https://catalog.hathitrust.org/Record/100769087. </title>
+                        <ptr target="https://jalit.org/bibl/RHUFN6BW"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIAQX6Q">
+                        <title>אלגמיל, יוסף. “רבנו סלומון בן ירוחם.” דובר בני מקרא 15, no. חשון
+                            (1976): pp. 7, 5-4.</title>
+                        <ptr target="https://jalit.org/bibl/IAQX6Q"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMTIGG76W">
+                        <title>אלקין, זאב. “הנוסח הקראי של 'ספר החילוקים בין בני ארץ-ישראל לבני
+                            בבל'.” </title>
+                        <ptr target="https://jalit.org/bibl/MTIGG76W"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNLK55YV8">
+                        <title>בן-שמאי, חגי. “היצירה הפייטנית וסדרי הקינות של אבלי ציון הקראים -
+                            המסגרת והתכנים.” In כנסת עזרא - ספרות וחיים בבית הכנסת: אסופת מאמרים
+                            המוקדשים לעזרא פליישר, edited by שולמית אליצור. (ירושלים: יד יצחק
+                            בן-צבי, 1994), pp. 191-234.</title>
+                        <ptr target="https://jalit.org/bibl/NLK55YV8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblICTTG5JV">
+                        <title>גאטטלאבער, אברהם בער. “סלמון בן רוחים.” In בקורת לתולדות הקראים,
+                            (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), pp. 206-207.
+                            https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq. </title>
+                        <ptr target="https://jalit.org/bibl/ICTTG5JV"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTDNCBI8">
+                        <title>דודזון, ישראל ed. ספר מלחמות ה' [The Book of the Wars of the Lord,
+                            Containing the Polemics of the Karaite Salmon ben Yeruhim against Saadia
+                            Gaon]. (ניו-יורק: בית מדרש הרבנים דאמיריקה, 1934).</title>
+                        <ptr target="https://jalit.org/bibl/TDNCBI8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblL7YARL7">
+                        <title>דרורי, רינה. ראשית המגעים של הספרות היהודית עם הספרות הערבית במאה
+                            העשירית. (תל-אביב: מכון פורטר והקיבוץ המאוחד, 1988).</title>
+                        <ptr target="https://jalit.org/bibl/L7YARL7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6BB6MLDA">
+                        <title>פוזננסקי, שמואל אברהם. “סלמון בן ירוחם.” אוצר ישראל, edited by יהודה
+                            דוד אייזענשטיין (ניו-יורק1906), pp. 208-210.</title>
+                        <ptr target="https://jalit.org/bibl/6BB6MLDA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEYYJM">
+                        <title>רוזנטל, יהודה. “לתולדות המינות בתקופת סעדיה.” חורב 9 ט (2006): pp.
+                            21-37.</title>
+                        <ptr target="https://jalit.org/bibl/EYYJM"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWM2D3AI3">
+                        <title>תירוש-בקר, עפרה. “לשון חכמים הנמסרת בספרות הקראים.” (Ph.D, 1999). </title>
+                        <ptr target="https://jalit.org/bibl/WM2D3AI3"/>
                     </bibl>
                     <idno type="URI" subtype="isni">https://isni.org/isni/0000000120128149</idno>
                     <idno type="URI" subtype="viaf">http://viaf.org/viaf/21406867</idno>
@@ -376,15 +934,74 @@
             <item>
                 <note/>
                 <persName/>
-                <quote xml:lang="ge">§40. * Salmon b. Jerocham, arab. Suleim 1) b. Ru'heim, ist als karaitischer Gegner des Saadia Gaon bekannt, den er in hebr. Versen angriff. Von seinen persönlichen Verhältnissen ist fast nichts Authentisches berichtet. Dass er im J. 898 zu 13 Jahren in Kairo die angeblich von Moses b. Jesaia Firuz hebräisch übersetzte מקדמה verfasst habe, fand Pinsker selbst S. 118 unwahrscheinlich (Fürst II, Anm. S. 78 und Gottlober verschweigen das); aber die ganze Schrift ist von der Kritik als jünger erkannt. 2) Es muss auch alles Folgende nur unter Vorbehalt mitgeteilt werden.
-
-Schriften: 3) 1) Streitschrift gegen Saadia, hebr. und arab. (vgl. n. 7a), letzteres nicht mehr vorhanden, (ob das Citat in CL. p. 202 n. 2 hieher gehört?), ersteres teilweise edirt; der Titel מלחמת ה rührt wahrscheinlich von Simcha Isak her, Inhalt bei Pi. A. S. 15, Anf. ergänzt bei Geiger, Oz. IV, 3; s. CL. 260, 403, HB. VII, 14. — 2) Comm. zum Hohel., ms. Br. Mus. 30812, anon.; nach Pozn., Rev. Et. XLI, 310 findet sich dieselbe Stelle über das Erlösungsjahr zu Ps. 102, 14, bei Pinsker p. 81; zur Sache vgl. Pozn., Mtschr. XLIV, 105 ff. --- 3) Comm. über Ruth, ms. Firk. 583, nach Firk. aus dem Arab., wegen der darin vorkommenden griech. Wörter. — 4) Esther, lange Einleitung u. 1, 1—3, hebr. (wie n. 2), ms. Firk. 583, 584. — 5) Threni, nach 3, 6, verf. 885 d. Exils (153), oder 888 (956), s. Pi. A. 132, vgl. 81, 88. 4) Die Ausg. Sal. Feinstein's, Krak. 1898, kenne ich nur aus Pozn.'s Anzeige, Jew. Qu. XIII, 336. * Ms. Br. Mus. 32818-25, 252, Par. 295 (Catal.: „Salomon”), Pet. Firk. 560 u. Tischendorf (HB. XIII, 103), ms. E. N. Adler 221, worüber Pozn. schreiben will. Vf. (nach Mk. Jefet) citirt (a) Comm. Hohel, (versprochen zu Ps. 69, 1); (b) zu 1, 14 über Permutationsbuchst. אחרף אלאבדאל , ein Argument gegen die Autorschaft Salmon's; zu 2, 14, 16 (c) Comm. Psalmen; zu 3,22 (d) Comm. Daniel,  u. s. Br. Mus. I, 192. — 6) Comm. zu Kohelet, ms. Krim 12 = Firk. 359 (vgl. HB. VII, 14), Br. Mus. Or. 2517. Anf. und aus Kap. 2, 7, 9 in Hirschfeld‘s Chrestom. 103— 8. — Der Vf. citirt zu 1, 4 (a) Comm. Sprüche; zu 5, 6 (b) Comm. Hiob. — 7) Comm. zu Psalmen, nach den V Büchern des Textes; ms. Firk. 555/6 (I--IV B.), 557 (III), s. Pi. A. S. 131 ; HB. XIII, 103; 102, 8 bei Pi. S. 133; 30 bei Neub. S. 109, nach welchem (S. 12) der Comm. um 970 — 4 verfasst sein „kann"; Catal. I p. 193 (dagegen Pozn., Mtschr. 1900 S. 406, 410, wo 955); die Einheit. wird zu Threni 2, 14, 19 angeführt (Pi. 130). — Ps. 110 hebr. in ms. Firk. 583; 102» 14 bei Pozn., Mtschr. 1900 S. 519; vgl. zu n. 2. Zu Ps. 104, 19 wird angef. (a) אלרד עלי אלפיומי , Pi. 133 zweifelt, ob die hebr. oder arab. Streitschr. (oben n. 1); Fürst S. 85 lässt es gegen Saadia's תמיין um 930 geschrieben sein (ohne als 5. zu zählen u. ohne Begründung). Zu 104, 30 wird (b) eine Schrift über Auferstehung versprochen; 109, 6 citirt des Vf. (c) אלאנתצאר ללחק (Sieg für die Wahrheit = der Wahrheit?). 115, 11 citirt (d): Vorzüge der Priester; 130, 1 citirt (e) eine Bemerkung zu Num. 28, 1, während 104, 19 einen Comm. (zum Pentateuch) verspricht, woraus Fürst S. 87, 89 A. 403 u. 416 einen kurzen und ausführlichen Comm. macht! — 8) Übersetzung und Erklärung der Gebete, ms. Krim 7 = Firk. 638, in dessen Catal. ms. das ganze Stück nicht erwähnt ist. Die Composition (חבור), welche Cantor und Gemeinde vortragen sollen (s. kar. Tikkun, Wf. IV p. 1071, falsch  דבורim Lb. VII,22), scheint (nach Dk., Beitr. I, 27) liturgischen Inhalts.
-
-HÜb. 946 (wo auch die Quellen angegeben sind) ist Saleim Druckf. סלום בן רוחים (CL. 200 n. 2, für סלים) s. ZDMG. XVIII, 164, wo lies HB. 1861 S. 48. --- 2) Dass die Muk. Aus Hadassi fabrificirt sei, wies P. Frankl nach (HB. XIX, 93, השחר VIII), vgl. Kar. Studien (ans Mtschr. 1876 S. 28) über Interpolation v. n. l. --- Das Todesj. 960 bei Fürst II, 78 beruht, wie die meisten Zahlenangaben (959 ist die letzte), auf Conjectur. --- 3) Pi. A. S. 132 (daher Gttl.) führt 4 Schriften aus Autopsie und 10 Citate auf, Fst. 83-5 vier (eigentlich 5) mit corrupten arab. Titeln, S. 87-90, durch Teilung der Psalmbücher (6, 8, 13-15) 17 exeget. Schriften; s. dagegen Pol. 346, HB. VII, 26, XIII, 108; die vorgeblich chronologische Reihenfolge mit ihren Jahrzahlen ist wertlos. --- Ich ordne  den Schriften die Citate unter. --- 4) Mk. Zu Tanchum 104. Über den angeführten Meborach b. Natan b. Nissim ha-Levi und einen Meb. b. N. 1167, s. Landshuth, Onomast. 169, so lies Jew. Qu. VII, 196, 311, XIII, 496. Pi. A. 62  u. 189 (a. 880 bei Fst. I, 98; Zz. Lit. 98; he-Chaluz VI, 52; HB, V, 30; Gg. ZDMG. XV, 816) u. s. Mubarak  §144. --- 5) Die Übersetzungen sind dem Hebräischen des Textes angepasst (Pi. A. S. 131), wie bei Saadia.</quote>
+                <quote xml:lang="ge">§40. * Salmon b. Jerocham, arab. Suleim 1) b. Ru'heim, ist als
+                    karaitischer Gegner des Saadia Gaon bekannt, den er in hebr. Versen angriff. Von
+                    seinen persönlichen Verhältnissen ist fast nichts Authentisches berichtet. Dass
+                    er im J. 898 zu 13 Jahren in Kairo die angeblich von Moses b. Jesaia Firuz
+                    hebräisch übersetzte מקדמה verfasst habe, fand Pinsker selbst S. 118
+                    unwahrscheinlich (Fürst II, Anm. S. 78 und Gottlober verschweigen das); aber die
+                    ganze Schrift ist von der Kritik als jünger erkannt. 2) Es muss auch alles
+                    Folgende nur unter Vorbehalt mitgeteilt werden. Schriften: 3) 1) Streitschrift
+                    gegen Saadia, hebr. und arab. (vgl. n. 7a), letzteres nicht mehr vorhanden, (ob
+                    das Citat in CL. p. 202 n. 2 hieher gehört?), ersteres teilweise edirt; der
+                    Titel מלחמת ה rührt wahrscheinlich von Simcha Isak her, Inhalt bei Pi. A. S. 15,
+                    Anf. ergänzt bei Geiger, Oz. IV, 3; s. CL. 260, 403, HB. VII, 14. — 2) Comm. zum
+                    Hohel., ms. Br. Mus. 30812, anon.; nach Pozn., Rev. Et. XLI, 310 findet sich
+                    dieselbe Stelle über das Erlösungsjahr zu Ps. 102, 14, bei Pinsker p. 81; zur
+                    Sache vgl. Pozn., Mtschr. XLIV, 105 ff. --- 3) Comm. über Ruth, ms. Firk. 583,
+                    nach Firk. aus dem Arab., wegen der darin vorkommenden griech. Wörter. — 4)
+                    Esther, lange Einleitung u. 1, 1—3, hebr. (wie n. 2), ms. Firk. 583, 584. — 5)
+                    Threni, nach 3, 6, verf. 885 d. Exils (153), oder 888 (956), s. Pi. A. 132, vgl.
+                    81, 88. 4) Die Ausg. Sal. Feinstein's, Krak. 1898, kenne ich nur aus Pozn.'s
+                    Anzeige, Jew. Qu. XIII, 336. * Ms. Br. Mus. 32818-25, 252, Par. 295 (Catal.:
+                    „Salomon”), Pet. Firk. 560 u. Tischendorf (HB. XIII, 103), ms. E. N. Adler 221,
+                    worüber Pozn. schreiben will. Vf. (nach Mk. Jefet) citirt (a) Comm. Hohel,
+                    (versprochen zu Ps. 69, 1); (b) zu 1, 14 über Permutationsbuchst. אחרף אלאבדאל ,
+                    ein Argument gegen die Autorschaft Salmon's; zu 2, 14, 16 (c) Comm. Psalmen; zu
+                    3,22 (d) Comm. Daniel, u. s. Br. Mus. I, 192. — 6) Comm. zu Kohelet, ms. Krim 12
+                    = Firk. 359 (vgl. HB. VII, 14), Br. Mus. Or. 2517. Anf. und aus Kap. 2, 7, 9 in
+                    Hirschfeld‘s Chrestom. 103— 8. — Der Vf. citirt zu 1, 4 (a) Comm. Sprüche; zu 5,
+                    6 (b) Comm. Hiob. — 7) Comm. zu Psalmen, nach den V Büchern des Textes; ms.
+                    Firk. 555/6 (I--IV B.), 557 (III), s. Pi. A. S. 131 ; HB. XIII, 103; 102, 8 bei
+                    Pi. S. 133; 30 bei Neub. S. 109, nach welchem (S. 12) der Comm. um 970 — 4
+                    verfasst sein „kann"; Catal. I p. 193 (dagegen Pozn., Mtschr. 1900 S. 406, 410,
+                    wo 955); die Einheit. wird zu Threni 2, 14, 19 angeführt (Pi. 130). — Ps. 110
+                    hebr. in ms. Firk. 583; 102» 14 bei Pozn., Mtschr. 1900 S. 519; vgl. zu n. 2. Zu
+                    Ps. 104, 19 wird angef. (a) אלרד עלי אלפיומי , Pi. 133 zweifelt, ob die hebr.
+                    oder arab. Streitschr. (oben n. 1); Fürst S. 85 lässt es gegen Saadia's תמיין um
+                    930 geschrieben sein (ohne als 5. zu zählen u. ohne Begründung). Zu 104, 30 wird
+                    (b) eine Schrift über Auferstehung versprochen; 109, 6 citirt des Vf. (c)
+                    אלאנתצאר ללחק (Sieg für die Wahrheit = der Wahrheit?). 115, 11 citirt (d):
+                    Vorzüge der Priester; 130, 1 citirt (e) eine Bemerkung zu Num. 28, 1, während
+                    104, 19 einen Comm. (zum Pentateuch) verspricht, woraus Fürst S. 87, 89 A. 403
+                    u. 416 einen kurzen und ausführlichen Comm. macht! — 8) Übersetzung und
+                    Erklärung der Gebete, ms. Krim 7 = Firk. 638, in dessen Catal. ms. das ganze
+                    Stück nicht erwähnt ist. Die Composition (חבור), welche Cantor und Gemeinde
+                    vortragen sollen (s. kar. Tikkun, Wf. IV p. 1071, falsch דבורim Lb. VII,22),
+                    scheint (nach Dk., Beitr. I, 27) liturgischen Inhalts. HÜb. 946 (wo auch die
+                    Quellen angegeben sind) ist Saleim Druckf. סלום בן רוחים (CL. 200 n. 2, für
+                    סלים) s. ZDMG. XVIII, 164, wo lies HB. 1861 S. 48. --- 2) Dass die Muk. Aus
+                    Hadassi fabrificirt sei, wies P. Frankl nach (HB. XIX, 93, השחר VIII), vgl. Kar.
+                    Studien (ans Mtschr. 1876 S. 28) über Interpolation v. n. l. --- Das Todesj. 960
+                    bei Fürst II, 78 beruht, wie die meisten Zahlenangaben (959 ist die letzte), auf
+                    Conjectur. --- 3) Pi. A. S. 132 (daher Gttl.) führt 4 Schriften aus Autopsie und
+                    10 Citate auf, Fst. 83-5 vier (eigentlich 5) mit corrupten arab. Titeln, S.
+                    87-90, durch Teilung der Psalmbücher (6, 8, 13-15) 17 exeget. Schriften; s.
+                    dagegen Pol. 346, HB. VII, 26, XIII, 108; die vorgeblich chronologische
+                    Reihenfolge mit ihren Jahrzahlen ist wertlos. --- Ich ordne den Schriften die
+                    Citate unter. --- 4) Mk. Zu Tanchum 104. Über den angeführten Meborach b. Natan
+                    b. Nissim ha-Levi und einen Meb. b. N. 1167, s. Landshuth, Onomast. 169, so lies
+                    Jew. Qu. VII, 196, 311, XIII, 496. Pi. A. 62 u. 189 (a. 880 bei Fst. I, 98; Zz.
+                    Lit. 98; he-Chaluz VI, 52; HB, V, 30; Gg. ZDMG. XV, 816) u. s. Mubarak §144. ---
+                    5) Die Übersetzungen sind dem Hebräischen des Textes angepasst (Pi. A. S. 131),
+                    wie bei Saadia.</quote>
                 <bibl xml:id="jalit-orgbiblKYQS5YIX">
-                        <title> "Salmon ben Jeroham" Moritz Steinschneider, Salmon ben Jeroham, in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902), 51; 65; 76–78; 251. </title>
-                        <ptr target="https://jalit.org/bibl/KYQS5YIX"/>
-                    </bibl>
+                    <title> "Salmon ben Jeroham" Moritz Steinschneider, Salmon ben Jeroham, in Die
+                        arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der
+                        Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca
+                        Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902), 51; 65; 76–78; 251. </title>
+                    <ptr target="https://jalit.org/bibl/KYQS5YIX"/>
+                </bibl>
             </item>
         </list>
     </standOff>

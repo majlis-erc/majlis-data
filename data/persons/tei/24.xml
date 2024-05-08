@@ -23,10 +23,6 @@
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                >Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-               >Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor"
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                >Maximilian de Molière
@@ -54,6 +50,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -136,10 +133,25 @@
                <residence>
                   <placeName ref="" cert="" source=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbiblMPLLDNRT">
+                  <title>Markon, Isaac. “Israel ben Daniel.” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), p. 630.</title>
+                  <ptr target="https://jalit.org/bibl/MPLLDNRT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblWKQ52Z8U">
+                  <title>“Israel ben Daniel.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, (New Haven &amp; London: Yale University Press, 1952), p. 231, 374.</title>
+                  <ptr target="https://jalit.org/bibl/WKQ52Z8U"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
+                  <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
+                  <ptr target="https://jalit.org/bibl/EFVRVADD"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblT8PSQXF">
+                  <title>Steinschneider, Moritz. “Israel ben Daniel.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 113-114 [§70], 342. https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033. </title>
+                  <ptr target="https://jalit.org/bibl/T8PSQXF"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5YJJ6XWF">
+                  <title>Познанский, Самуил. “Израиль бен-Даниил.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 49-50.</title>
+                  <ptr target="https://jalit.org/bibl/5YJJ6XWF"/>
                </bibl>
                <idno type="URI" subtype="isni"/>
                <idno type="URI" subtype="viaf"/>

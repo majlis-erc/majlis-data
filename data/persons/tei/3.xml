@@ -23,10 +23,6 @@
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                     >Gregor Schwarb
                     </editor>
-                <editor xml:id="ngibson" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-                    >Nathan P. Gibson
-                    </editor>
                 <editor xml:id="mmoliere" role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                     >Maximilian de Molière
@@ -85,7 +81,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -176,10 +173,245 @@
                     <residence>
                         <placeName ref="" cert="" source=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblU38PSHB2">
+                        <title>“סהל בן מצליח הכהן.” , () http://www.daat.ac.il/encyclopedia. </title>
+                        <ptr target="https://jalit.org/bibl/U38PSHB2"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblADULIRTV">
+                        <title>“Sahl ben Matzliach.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 1049.</title>
+                        <ptr target="https://jalit.org/bibl/ADULIRTV"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl77MMBT6I">
+                        <title>“Sahl ben Matzliaj, abu al-Surri (al-Sari).” Enciclopedia Judaica Castellana, (México: Editorial Enciclopedia Judaica Castellana, 1948), p. 402.</title>
+                        <ptr target="https://jalit.org/bibl/77MMBT6I"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblU32NWXA">
+                        <title>“Sahl ben Mazliah, Abu al-Surri (or al-Sari).” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 311.</title>
+                        <ptr target="https://jalit.org/bibl/U32NWXA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEHFBBSY">
+                        <title>“Сагл бен Мацлиах га-Коген ал-Муаллим Абу ал-Сари.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 808-809.</title>
+                        <ptr target="https://jalit.org/bibl/EHFBBSY"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCFX6DWHQ">
+                        <title>“סהל בן מצליח.” אנציקלופדיה העברית, (ירושלים), p. 452.</title>
+                        <ptr target="https://jalit.org/bibl/CFX6DWHQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFI7MS3NT">
+                        <title>Abrahams, Israel. “Sahl b Maṣliah.” In Chapters on Jewish Literature, 1, (Philadelphia: The Jewish Publication Society of America, 1899), pp. 78-79. http://archive.org/details/abrahamsi1899chap1. </title>
+                        <ptr target="https://jalit.org/bibl/FI7MS3NT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblAGRWCVEX">
+                        <title>Ankori, Zvi. “Sahl b Maṣliah.” In Karaites In Byzantium: The Formative Years 970-1100, (New York: AMS Press, 1959) http://archive.org/details/book-history-zvi-ankori-karaites-in-byzantium-the-formative-years-970-1100-by-zvi-ankori. </title>
+                        <ptr target="https://jalit.org/bibl/AGRWCVEX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWCDFTVX">
+                        <title>Beer, Peter. “Sahl b Maṣliah.” In Geschichte, Lehren und Meinungen aller bestandenen und noch bestehenden religiösen Sekten der Juden und der Geheimlehre oder Cabbalah, 1, (Brünn: J.G. Traßler, 1822), p. 165. https://books.google.de/books?id=35QkSZZ_ycwC. </title>
+                        <ptr target="https://jalit.org/bibl/WCDFTVX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl27PAQEE">
+                        <title>Ben-Shammai, Haggai, Haggai. “Karaism.” In The Cambridge History of Judaism: Volume 5: Jews in the Medieval Islamic World, 5, edited by Phillip I. Lieberman. (Cambridge: Cambridge University Press, 2021), pp. 571-605.</title>
+                        <ptr target="https://jalit.org/bibl/27PAQEE"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVFST3M8">
+                        <title>Büchler, Adolf. “Schechter's Jewish Sectaries.” The Jewish Quarterly Review 3, no. 3 (1913): pp. 429-485. doi: 10.2307/1450850. </title>
+                        <ptr target="https://jalit.org/bibl/VFST3M8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8HVEQXT5">
+                        <title>Fenton, Paul B. “Karaism and Sufism.” In Karaite Judaism: A Guide to Its History and Literary Sources, edited by Meira Polliack. (Leiden: Brill, 2003), pp. 199-212.</title>
+                        <ptr target="https://jalit.org/bibl/8HVEQXT5"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7R5I8TH7">
+                        <title>Frank, Daniel. “Sahl b Maṣliah.” In Search Scripture well: Karaite exegetes and the origins of the Jewish Bible commentary in the Islamic East, (Leiden &amp; Boston: Brill, 2004) https://doi.org/10.1163/9789047405566. </title>
+                        <ptr target="https://jalit.org/bibl/7R5I8TH7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblABXXLEFU">
+                        <title>Frankl, Pinkus Fritz. “Beiträge zur Geschichte der letzten gaonäischen Zeit und zur Kritik der karäischen Propaganda.” Monatsschrift für Geschichte und Wissenschaft des Judentums 20 (N. F. 3), no. 8 (1871): pp. 352-363.</title>
+                        <ptr target="https://jalit.org/bibl/ABXXLEFU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZAWGGAR">
+                        <title>Frenkel, Miriam. “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism.” In Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging, (Berlin: De Gruyter, 2018), pp. 121-144.</title>
+                        <ptr target="https://jalit.org/bibl/ZAWGGAR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWFFBAQH8">
+                        <title>Fürst, Julius. “Sahl b Maṣliah.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 90- [§59-. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl. </title>
+                        <ptr target="https://jalit.org/bibl/WFFBAQH8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXLKLAKH2">
+                        <title>Goldstein, Miriam. “Sahl (Abū ʾl-Sarrī) ben Maṣliaḥ.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/sahl-abu-l-sarri-ben-masliah-SIM_0018900. </title>
+                        <ptr target="https://jalit.org/bibl/XLKLAKH2"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl3DVIWMN">
+                        <title>Goldstein, Miriam. “Sahl b Maṣliah.” In Karaite Exegesis in Medieval Jerusalem: The Judeo-Arabic Pentateuch Commentary of Yūsuf Ibn Nūḥ and Abū Al-Faraj Hārūn, (Tübingen: Mohr Siebeck, 2011), pp. 11; 13; 26; 36-37; 42-43; 46; 124.</title>
+                        <ptr target="https://jalit.org/bibl/3DVIWMN"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblES5CBQIK">
+                        <title>Graetz, Heinrich. “Sahl b Maṣliah.” In Geschichte der Juden von den ältesten Zeiten bis auf die Gegenwart: Vom Abschluß des Talmud (500) bis zum Aufblühen der jüdisch-spanischen Kultur (1027), 5, (Leipzig: Oskar Leiner, 1871), pp. 301-. http://archive.org/details/Bd.05VomAbschlussDesTalmudsBisZumAufbluhenDerJudischSpanischenKultur5001027Chr.1871. </title>
+                        <ptr target="https://jalit.org/bibl/ES5CBQIK"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl3IURSRZN">
+                        <title>Hamburger, Jacob. “Sahl b Maṣliah.” In Die jüdische Litteratur seit Abschluss des Kanons: Geschichte der rabbinischen Litteratur während des Mittelalters und ihrer Nachblüthe in der neueren Zeit, 2, edited by Jakob Winter, and August Wünsche. (Trier: Sigmund Mayer, 1894), pp. 78-79; 81-86. https://books.google.de/books?id=Kme8rCRb8tYC. </title>
+                        <ptr target="https://jalit.org/bibl/3IURSRZN"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl3I3TQBGR">
+                        <title>Jost, Isaak Markus. “Sahl b Maṣliah.” In Geschichte der Israeliten seit der Zeit der Maccabäer bis auf unsre Tage, 8, (Berlin: Schlesingersche Buch- und Musikhandlung, 1828), p. 141.</title>
+                        <ptr target="https://jalit.org/bibl/3I3TQBGR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBAJGTVI">
+                        <title>Löw, Leopold. “Sahl b Maṣliah.” In המפתח: Praktische Einleitung in die heilige Schrift und Geschichte der Schriftauslegung, ein Lehrbuch für die reifere Jugend, ein Handbuch für Gebildete, (Groß-Kanischa: J. Markbreiter, 1855), pp. 153-154 [§279]. https://mdz-nbn-resolving.de/details:bsb10411668. </title>
+                        <ptr target="https://jalit.org/bibl/BAJGTVI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTCEJ56Y">
+                        <title>Mann, Jacob. “Sahl b Maṣliah.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), pp. 22-29.</title>
+                        <ptr target="https://jalit.org/bibl/TCEJ56Y"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQR5RQ2HX">
+                        <title>Margoliouth, George. “Ibn al-Hītī’s Arabic Chronicle of Karaite Doctors.” Jewish Quarterly Review 9 (1897): pp. 429-443.</title>
+                        <ptr target="https://jalit.org/bibl/QR5RQ2HX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6ISVEWDH">
+                        <title>Markon, Isaac. “Sahl ben Mazliach hakohen.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), pp. 41-42.</title>
+                        <ptr target="https://jalit.org/bibl/6ISVEWDH"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblB5MSIHIQ">
+                        <title>Moore, George Foot. “The Covenanters of Damascus; A Hitherto Unknown Jewish Sect.” The Harvard Theological Review 4, no. 3 (1911): pp. 330-377.</title>
+                        <ptr target="https://jalit.org/bibl/B5MSIHIQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCFAQL3V">
+                        <title>Munk, Salomon. “Sahl b Maṣliah.” In Notice sur Abou'l-Walid Merwan ibn-Djana'h et sur quelques autres grammairiens Hébreux du Xe et du XIe siècle: suivie de l'introduction du Kitab al-Luma' D'ibn-Djana'h en arabe avec une traduction française et des notes, (Paris: Imprimerie Nationale, 1851), pp. 5-6. https://books.google.es/books?id=KF8_AQAAMAAJ&amp;vq. </title>
+                        <ptr target="https://jalit.org/bibl/CFAQL3V"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl3VHDH2E">
+                        <title>Nemoy, Leon. “The Epistle of Sahl Ben Maṣlīaḥ.” Proceedings of the American Academy for Jewish Research 38 (1970): pp. 145-177.</title>
+                        <ptr target="https://jalit.org/bibl/3VHDH2E"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGEXBCRDM">
+                        <title>Nemoy, Leon. “Sahl ben Maẓli’ah ha-Kohen Abu al-Surrī.” , (Detroit: Gale, 2007), p. 666.</title>
+                        <ptr target="https://jalit.org/bibl/GEXBCRDM"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblPYWCY5H">
+                        <title>Nemoy, Leon. “Sahl ben Maẓli’ah ha-Kohen Abu al-Surrī.” Encyclopaedia Judaica Decennial Book, (1973), pp. 542-543.</title>
+                        <ptr target="https://jalit.org/bibl/PYWCY5H"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBXZB2ZU3">
+                        <title>Nemoy, Leon. “Sahl ben Maẓli’ah ha-Kohen Abu al-Surrī.” Encyclopaedia Judaica Yearbook, (1974), pp. 261-262.</title>
+                        <ptr target="https://jalit.org/bibl/BXZB2ZU3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblA8LNKRYL">
+                        <title>“Sahl b Maṣliah.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, edited by Leon Nemoy. (New Haven &amp; London: Yale University Press, 1952), pp. 109-122.</title>
+                        <ptr target="https://jalit.org/bibl/A8LNKRYL"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblSUJFR">
+                        <title>Neubauer, Adolf. “Sahl b Maṣliah.” In Aus der Petersburger Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und der karäischen Literatur, (Leipzig: Oskar Leiner, 1866), p. 19. https://books.google.de/books?id=amJSAAAAcAAJ&amp;newbks. </title>
+                        <ptr target="https://jalit.org/bibl/SUJFR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblERFJ3KXU">
+                        <title>Obermann, Julian. “The Sepulchre of the Maccabean Martyrs.” Journal of Biblical Literature 50, no. 4 (1931): pp. 250-265. doi: 10.2307/3259793. </title>
+                        <ptr target="https://jalit.org/bibl/ERFJ3KXU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5SKCIH2">
+                        <title>Ochser, Schulim. “Sahl ben Maẓliaḥ ha-Kohen al-Muʿallim Abu al-Sari.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1905), p. 636. https://www.jewishencyclopedia.com/articles/12994-sahl-ben-mazliah-ha-kohen-al-mu-allim-abu-al-sari. </title>
+                        <ptr target="https://jalit.org/bibl/5SKCIH2"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7SU7PF6">
+                        <title>Pinsker, Simḥa. “Sahl b Maṣliah.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), pp. 168-.</title>
+                        <ptr target="https://jalit.org/bibl/7SU7PF6"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2SSBUBCZ">
+                        <title>Poznański, Samuel. “Sahl b Maṣliah.” In The Karaite literary opponents of Saadiah Gaon, (London: Luzac, 1908), pp. 30-41. https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1339524. </title>
+                        <ptr target="https://jalit.org/bibl/2SSBUBCZ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXANHFN5C">
+                        <title>“Sahl b Maṣliah.” In Asceticism, eschatology, opposition to philosophy: The Arabic translation and commentary of Salmon ben Yeroham on Qohelet (Ecclesiastes), edited by James T. Robinson. (Leiden: Brill, 2012), pp. 15; 30-31; 479; 516.</title>
+                        <ptr target="https://jalit.org/bibl/XANHFN5C"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBMK3BP3D">
+                        <title>Rottzoll, Dirk U. “Sahl b Maṣliah.” In Abraham Ibn Esras langer Kommentar zum Buch Exodus, (Berlin &amp; New York: Walter de Gruyter, 2000), pp. CVI-CVII [§5.5]; 366 n72.</title>
+                        <ptr target="https://jalit.org/bibl/BMK3BP3D"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl866GDH7">
+                        <title>Röhricht, Reinhold. “Sahl b Maṣliah.” In Bibliotheca Geographica Palaestinae: Chronologisches Verzeichniss der auf die Geographie des Heiligen Landes bezüglichen Literatur von 333 bis 1878, (Berlin: H. Reuther, 1890), p. 19 [§37]. https://sammlungen.ub.uni-frankfurt.de/freimann/urn/urn:nbn:de:hebis:30:1-122141. </title>
+                        <ptr target="https://jalit.org/bibl/866GDH7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCU7YGTJW">
+                        <title>Schechter, Solomon. “Reply to Dr Büchler's Review of Schechter's 'Jewish Sectaries'.” The Jewish Quarterly Review 4, no. 3 (1914): pp. 449-474. doi: 10.2307/1451246. </title>
+                        <ptr target="https://jalit.org/bibl/CU7YGTJW"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZYB5RW">
+                        <title>Selden, John. “Sahl b Maṣliah.” In Uxor Ebraica: seu de nuptiis &amp; divortiis ex iure civili, id est, divino &amp; tamuldico, veterum ebraeorum, libri tres, (London: R. Bishop, 1646), p. 11. https://books.google.es/books?id=wIv9ha3OZ0MC. </title>
+                        <ptr target="https://jalit.org/bibl/ZYB5RW"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFBFB2EGJ">
+                        <title>Sklare, David E. “Sahl ben Matsliaḥ (10th c).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 601.</title>
+                        <ptr target="https://jalit.org/bibl/FBFB2EGJ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblT3KHFHD8">
+                        <title>Sokolow, Moshe. “Kidnapping in Karaite Law according to the Commentary of Sahl ben Maṣlī’aḥ.” The Jewish Quarterly Review 73, no. 2 (1982): pp. 176-188. doi: 10.2307/1454590. </title>
+                        <ptr target="https://jalit.org/bibl/T3KHFHD8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblL7BJFZQ">
+                        <title>Steinschneider, Moritz. “Sahl b Maṣliah.” Zeitschrift für hebräische Bibliographie 6 (1902): pp. 184-185.</title>
+                        <ptr target="https://jalit.org/bibl/L7BJFZQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGKA22CIZ">
+                        <title>Steinschneider, Moritz. “Sahl b Maṣliah.” Hebräische Bibliographie: Blätter für neuere und ältere Literatur des Judenthums 20, no. 120 (1880): p. 108.</title>
+                        <ptr target="https://jalit.org/bibl/GKA22CIZ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblS8WFC6QZ">
+                        <title>Steinschneider, Moritz. “Jüdische Literatur.” Allgemeine Encyclopädie der Wissenschaften und Künste, edited by Johann Samuel Ersch, and Johann Gottfried Gruber (Leipzig: F. A. Brockhaus, 1850), pp. 357-471. https://gdz.sub.uni-goettingen.de/id/PPN362303401. </title>
+                        <ptr target="https://jalit.org/bibl/S8WFC6QZ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZHZQF2HB">
+                        <title>Steinschneider, Moritz. “Sahl b Maṣliah.” In Polemische und apologetische Literatur in arabischer Sprache, zwischen Muslimen, Christen und Juden, nebst Anhängen verwandten Inhalts: mit Benutzung handschriftlicher Quellen, (Leipzig: F.A. Brockhaus, 1877), p. 347 [3.]. https://archive.org/details/polemischeundap00steigoog. </title>
+                        <ptr target="https://jalit.org/bibl/ZHZQF2HB"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFBSMUZZJ">
+                        <title>Stern, Sacha. “Sahl b Maṣliah.” In The Jewish Calendar Controversy of 921/2 CE, (Leiden: Brill, 2019), pp. 429-433 [16.1].</title>
+                        <ptr target="https://jalit.org/bibl/FBSMUZZJ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2AHY8CU">
+                        <title>Vidro, Nadia. “Aviv barley and calendar diversity among Jews in eleventh-century Palestine.” Journal of Jewish Studies 72, no. 2 (2021): pp. 283-312. doi: https://doi.org/10.18647/3504/jjs-2021. </title>
+                        <ptr target="https://jalit.org/bibl/2AHY8CU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFYYN7G">
+                        <title>Wieder, Naphtali. “The Qumran sectaries and the Karaites (Continued).” The Jewish Quarterly Review 47, no. 3 (1957): pp. 269-292. doi: 10.2307/1452954. </title>
+                        <ptr target="https://jalit.org/bibl/FYYN7G"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblHJYJMVCR">
+                        <title>Wieder, Naphtali. “Three Terms for Tradition.” The Jewish Quarterly Review 49, no. 2 (1958): pp. 108-121. doi: 10.2307/1452683. </title>
+                        <ptr target="https://jalit.org/bibl/HJYJMVCR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKVNYD3HB">
+                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 929 [n.1745]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl. </title>
+                        <ptr target="https://jalit.org/bibl/KVNYD3HB"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7FE8HMU">
+                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Bibliothecæ Hebrææ, III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam, 1727), p. 858 [n.1745]. ttps://books.google.es/books?id=9dW-cp2_N8oC&amp;pg. </title>
+                        <ptr target="https://jalit.org/bibl/7FE8HMU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBTMRRPN3">
+                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Notitia Karaeorum, (Hamburg &amp; Leipzig: Christian Liebezeit, 1714), p. 139. http://archive.org/details/bub_gb_bzXY5TBXpA8C. </title>
+                        <ptr target="https://jalit.org/bibl/BTMRRPN3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblHXXIMS7">
+                        <title>Zawanowska, Marzena. “Sahl b Maṣliah.” In The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Abraham Narratives (Genesis 11:10–25:18), (Leiden: Brill, 2012), pp. 21-22; 27; 34; 36-37; 46; 76.</title>
+                        <ptr target="https://jalit.org/bibl/HXXIMS7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFYPH73Z">
+                        <title>אייזענשטיין, יהודה דוד. “סהל בן מצליח הכהן.” אוצר ישראל, edited by יהודה דוד אייזענשטיין (ניו-יורק1906), pp. 148-147.</title>
+                        <ptr target="https://jalit.org/bibl/FYPH73Z"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblYKL7ML">
+                        <title>גאטטלאבער, אברהם בער. “סהל הכהן בן מצליח.” In בקורת לתולדות הקראים, (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), pp. 71-72; 206. https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq. </title>
+                        <ptr target="https://jalit.org/bibl/YKL7ML"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGRCTQI">
+                        <title>הרכבי, אברהם אליהו בן יעקב. “Sahl b Maṣliah.” In מאסף נדחים, 1, (סנקט פטרבורג1879), pp. 197-.</title>
+                        <ptr target="https://jalit.org/bibl/GRCTQI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBNR78PQQ">
+                        <title>מאהלער, רפאל. “Sahl b Maṣliah.” In קאראימער: א יידישע גאולה-באווענגונג אין מיטלאלטער, (ניו-יארק: אליהו שולמאן, 1947) http://archive.org/details/nybc200372. </title>
+                        <ptr target="https://jalit.org/bibl/BNR78PQQ"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
                     <idno type="URI" subtype="viaf">http://viaf.org/viaf/55146461439227730139</idno>

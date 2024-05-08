@@ -23,10 +23,6 @@
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                >Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-               >Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor"
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                >Maximilian de Molière
@@ -54,6 +50,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -136,10 +133,73 @@
                <residence>
                   <placeName ref="" cert="" source=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbiblMAJXM8K">
+                  <title>Ankori, Zvi. “Jacob ben Simeon.” In Karaites In Byzantium: The Formative Years 970-1100, (New York: AMS Press, 1959), pp. 188-189, 199n109, 446. http://archive.org/details/book-history-zvi-ankori-karaites-in-byzantium-the-formative-years-970-1100-by-zvi-ankori. </title>
+                  <ptr target="https://jalit.org/bibl/MAJXM8K"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblNTPCUMHM">
+                  <title>Ewald, Heinrich. “Jacob ben Simeon.” In Über die arabisch geschriebenen Werke jüdischer Sprachgelehrten: Mit einer Abhandlung über den gegenwärtigen Zustand der alttestamentlichen Wissenschaft, (Stuttgart: A. Krabbe, 1844), p. 29. https://books.google.de/books?id=B7rmyuhQ-LwC. </title>
+                  <ptr target="https://jalit.org/bibl/NTPCUMHM"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2RKY7PAD">
+                  <title>Fürst, Julius. “Jacob ben Simeon.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 180; 196-198; 199; 203; 206. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl. </title>
+                  <ptr target="https://jalit.org/bibl/2RKY7PAD"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblGMHVDZP">
+                  <title>Graetz, Heinrich. “Jacob ben Simeon.” In Geschichte der Juden von den ältesten Zeiten bis auf die Gegenwart: Vom Aufblühen der jüdisch-spanischen Kultur (1027) bis Maimuni's Tod (1205), 6, (Leipzig: Nies'sche Buchdruckerei, 1861), p. 95. https://books.google.de/books?id=N_pr8dTuAx8C&amp;hl. </title>
+                  <ptr target="https://jalit.org/bibl/GMHVDZP"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZU3A8ETQ">
+                  <title>Mann, Jacob. “Jacob ben Simeon.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), p. 3, 39, 43, 287, 1414.</title>
+                  <ptr target="https://jalit.org/bibl/ZU3A8ETQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl7Y3GZ3DY">
+                  <title>Markon, Isaak ed. ספר העריות המכונה ספר הישר. (St. Petersburg: יוסף לוריא ושותפו, 1908).</title>
+                  <ptr target="https://jalit.org/bibl/7Y3GZ3DY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblSLY67QZ">
+                  <title>Nemoy, Leon. “Jacob ben Simeon.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 1223-1224.</title>
+                  <ptr target="https://jalit.org/bibl/SLY67QZ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblE5SNX5I">
+                  <title>Nemoy, Leon. “Jacob ben Simeon.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 36.</title>
+                  <ptr target="https://jalit.org/bibl/E5SNX5I"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblCFWGJPK">
+                  <title>“Jacob ben Simeon.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, edited by Leon Nemoy. (New Haven &amp; London: Yale University Press, 1952), p. 124.</title>
+                  <ptr target="https://jalit.org/bibl/CFWGJPK"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIXI28F3N">
+                  <title>Pinsker, Simḥa. “Jacob ben Simeon.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), pp. 168-.</title>
+                  <ptr target="https://jalit.org/bibl/IXI28F3N"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblBDQGF3G3">
+                  <title>Schreiner, Martin. Studien über Jeschuʿa ben Jehuda. (Berlin: Itzkowski, 1900).</title>
+                  <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIJ6TAJS">
+                  <title>Steinschneider, Moritz. “Jacob ben Simeon.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 92-93. https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033. </title>
+                  <ptr target="https://jalit.org/bibl/IJ6TAJS"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZYPWN7YY">
+                  <title>Steinschneider, Moritz. “Jacob ben Simeon.” In Die hebraeischen Uebersetzungen des Mittelalters und die Juden als Dolmetscher: Ein Beitrag zur Literaturgeschichte des Mittelalters, meist nach handschriftlichen Quellen, (Berlin: Kommissionsverlag des Bibliographischen Bureaus, 1893), pp. 942-943. http://archive.org/details/diehebraeischen00steigoog. </title>
+                  <ptr target="https://jalit.org/bibl/ZYPWN7YY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblL5QSCTFS">
+                  <title>Wolf, Johann Christoph. “Jacob ben Simeon.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 618 [n.1120]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl. </title>
+                  <ptr target="https://jalit.org/bibl/L5QSCTFS"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblBRXLQV">
+                  <title>Wolf, Johann Christoph. “Jacob ben Simeon.” In Bibliothecæ Hebrææ, III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam, 1727), pp. 530 [n.1120]; 623. https://books.google.es/books?id=9dW-cp2_N8oC&amp;pg. </title>
+                  <ptr target="https://jalit.org/bibl/BRXLQV"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblW3UV7DGI">
+                  <title>אנקורי, צבי. “Elijah Bashyachi: An Inquiry into his Traditions Concerning the Beginings of Karaism in Byzantium / אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביצנץ.” Tarbiz / תרביץ כה, no. א (1955): pp. 65-44.</title>
+                  <ptr target="https://jalit.org/bibl/W3UV7DGI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQM8837R">
+                  <title>גאטטלאבער, אברהם בער. “יעקב בן שמעון.” In בקורת לתולדות הקראים, (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), p. 181. https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq. </title>
+                  <ptr target="https://jalit.org/bibl/QM8837R"/>
                </bibl>
                <idno type="URI" subtype="isni"/>
                <idno type="URI" subtype="viaf"/>

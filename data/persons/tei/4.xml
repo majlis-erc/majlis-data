@@ -17,8 +17,6 @@
                </editor>
             <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
@@ -44,6 +42,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-05-07T12:46:49.282Z">Added heritage data</change><change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -474,11 +473,665 @@
                <residence>
                   <placeName ref="" cert=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
-               </bibl>
+               
+   
+   
+   <bibl type="bibliography" xml:id="jalit-orgbiblVNGMTEWD">
+      <title>Abrahams, Israel. “Yefet ben ʿEli.” In Chapters on Jewish Literature, (Philadelphia: The Jewish Publication Society of America, 1899), p. 79. http://archive.org/details/abrahamsi1899chap1. </title>
+      <ptr target="https://jalit.org/bibl/VNGMTEWD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl6BFJV3YE">
+      <title>Almbladh, Karin. “MS Uppsala O Nova 791 – a rediscovered manuscript of the Arabic translation of and commentary on the Song of Songs by Japheth ben Eli.” Orientalia Suecana 61, no. Supplement (2012): pp. 31-37.</title>
+      <ptr target="https://jalit.org/bibl/6BFJV3YE"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWHUCZYWH">
+      <title>Auerbach, Zacharias. “Iepheti ben Eli Karaitae in Proverbiorum Salomonis caput XXX commentarius.” (Ph.D, 1866). </title>
+      <ptr target="https://jalit.org/bibl/WHUCZYWH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblJ7N38T2">
+      <title>Bacher, Wilhelm. “[Review of] Günzig (Israël) - Le Commentaire sur les Proverbes du Caraïte Yepheth ben Ali Halévi, publié pour la première fois d'après plusieurs manuscrits, avec une introduction et des notes, 1898.” Revue des études juives 38, no. 75 (1899): pp. 157-160.</title>
+      <ptr target="https://jalit.org/bibl/J7N38T2"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblDCUFD6Q">
+      <title>Bargès, Jean Joseph Léandre ed. Rabbi Yapheth Abou Aly Ibn-Aly Bassorensis Karaitarum Doctoris Sapientissimi in Canticum Canticorum Commentarium Arabicum. (Paris: Ernest Leroux, 1884).</title>
+      <ptr target="https://jalit.org/bibl/DCUFD6Q"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblHULRU6E">
+      <title>Bargès, Jean Joseph Léandre ed. Rabbi Yapheth ben Heli Bassorensis Karaïtæ in librum Psalmorum commentarii arabici e duplici codice mss Bibliothecæ Regiæ Parisiensis. (Paris: Firmin Didot Fratres, 1846).</title>
+      <ptr target="https://jalit.org/bibl/HULRU6E"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblHF66TGK">
+      <title>Bargès, Jean Joseph Léandre ed. كتاب الزبور لداود الملك و النبي. (Paris: B. Duprat, 1861).</title>
+      <ptr target="https://jalit.org/bibl/HF66TGK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl83AYC8PH">
+      <title>Beattie, Derek R G. Jewish Exegesis of the Book of Ruth. (Sheffield: Dept. of Biblical Studies, University of Sheffield, 1977).</title>
+      <ptr target="https://jalit.org/bibl/83AYC8PH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblN7CSYBIN">
+      <title>Ben-Shammai, Haggai. “Japheth ben Eli Ha-Levi.” Encyclopaedia Judaica, (Detroit: Gale, 2007), pp. 86-87.</title>
+      <ptr target="https://jalit.org/bibl/N7CSYBIN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCJIA2BMX">
+      <title>Birnbaum, Philip. “The Arabic Commentary of Yefet Ben ‘Ali The Karaite on the Book of Hosea.” (Ph.D, 1942). </title>
+      <ptr target="https://jalit.org/bibl/CJIA2BMX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblSAPYQWQS">
+      <title>Birnbaum, Philip. “Yefet ben 'Ali and His Influence on Biblical Exegesis (Continued).” The Jewish Quarterly Review 32, no. 2 (1941): pp. 159-174. doi: 10.2307/1452211. </title>
+      <ptr target="https://jalit.org/bibl/SAPYQWQS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblJYQIPCK6">
+      <title>Birnbaum, Philip. “Yefet ben 'Ali and His Influence on Biblical Exegesis (Continued).” The Jewish Quarterly Review 32, no. 3 (1942): pp. 257-271. doi: 10.2307/1452356. </title>
+      <ptr target="https://jalit.org/bibl/JYQIPCK6"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMT67D8RS">
+      <title>Birnbaum, Philip. “Yefet ben 'Ali and His Influence on Biblical Exegesis.” The Jewish Quarterly Review 32, no. 1 (1941): pp. 51-70. doi: 10.2307/1452331. </title>
+      <ptr target="https://jalit.org/bibl/MT67D8RS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblD35FWDY">
+      <title>Bland, Richard Murray. “The Arabic Commentary of Yephet ben ‘Ali on the Book of Ecclesiastes, Chapters 1-6.” (Ph.D, 1966). </title>
+      <ptr target="https://jalit.org/bibl/D35FWDY"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblUXE5U26A">
+      <title>Blumfield, Fiona. “The Commentary of Yefet ben ‘Eli on the Book of Ruth: Studies in Translation and Exegetical Techniques.” (Ph.D, 2001). </title>
+      <ptr target="https://jalit.org/bibl/UXE5U26A"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblR72S2QQ">
+      <title>Blumfield, Fiona. “Yefet ben ‘Eli on the Identity of the ‘Redeemer’ in his Commentary on the Book of Ruth.” In Exegesis and Grammar in Medieval Karaite Texts, edited by Geoffrey Khan. (Oxford: Oxford University Press for the University of Manchester, 2001), pp. 65-75.</title>
+      <ptr target="https://jalit.org/bibl/R72S2QQ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMI277WLR">
+      <title>Broydé, Isaac. “Japhet ha-Levi (Abu or Ibn ‘Ali Hasan al-Basri al-Lawi).” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), pp. 72-73.</title>
+      <ptr target="https://jalit.org/bibl/MI277WLR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblF5KK75Z">
+      <title>Chiesa, Bruno. “Il commento a Qohelet di Yefet ben ‘Alī.” Annali della Facoltà di Lingue e Letterature Straniere di Cà Foscari 23, no. 3 (1984): pp. 1-16.</title>
+      <ptr target="https://jalit.org/bibl/F5KK75Z"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWLSFVGUY">
+      <title>Dukes, Leopold. “Neuhebräische Poesie: Notiz über die äußeren Formen der Pijutim.” Literaturblatt des Orients 4, no. 33 (1843): pp. 517-526.</title>
+      <ptr target="https://jalit.org/bibl/WLSFVGUY"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVPLTAED">
+      <title>Eissler, Friedmann ed. Königspsalmen und karäische Messiaserwartung: Jefet ben Elis Auslegung von Ps 27289110132 im Vergleich mit Saadja Gaons Deutung. (Tübingen: Mohr Siebeck, 2002).</title>
+      <ptr target="https://jalit.org/bibl/VPLTAED"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCUGPTFZR">
+      <title>Erder, Yoram. “Yefet ben ʿEli on Leviticus 27:30–31 and Deuteronomy 26:12.” In Jewish Biblical Exegesis from Islamic Lands: The Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (Atlanta: SBL Press, 2019), pp. 139-147.</title>
+      <ptr target="https://jalit.org/bibl/CUGPTFZR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblTCW5CCI">
+      <title>Frank, Daniel. “Yefet ben Eli.” In Search Scripture well: Karaite exegetes and the origins of the Jewish Bible commentary in the Islamic East, (Leiden &amp; Boston: Brill, 2004) https://doi.org/10.1163/9789047405566. </title>
+      <ptr target="https://jalit.org/bibl/TCW5CCI"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl8YPKAWA">
+      <title>Geiger, Abraham. “Jefeth b Ali.” Jüdische Zeitschrift für Wissenschaft und Leben 4 (1866): pp. 284-285.</title>
+      <ptr target="https://jalit.org/bibl/8YPKAWA"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXKE2278">
+      <title>Goldstein, Miriam. “The Beginnings of the Transition from Derash to Peshaṭ as Exemplified in Yefet ben ‘Eli’s Comment on Psa 44:24.” In Exegesis and Grammar in Medieval Karaite Texts, edited by Geoffrey Khan. (Oxford: Oxford University Press for the University of Manchester, 2001), pp. 41-64.</title>
+      <ptr target="https://jalit.org/bibl/XKE2278"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblN3BBJWYM">
+      <title>Günzig, Israel ed. Der Commentar des Karäers Jephet Ben ‘Ali Halêvi zu den Proverbien. (Krakau: J. Fischer, 1898).</title>
+      <ptr target="https://jalit.org/bibl/N3BBJWYM"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2ALFVCA">
+      <title>Habib, Joseph. “Qere and ketiv in the exegesis of the Karaites and Saadya.” </title>
+      <ptr target="https://jalit.org/bibl/2ALFVCA"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2XDGMRT">
+      <title>Heisz, Abraham. “Eine anonyme arabische Übersetzung und Erklärung der Propheten Zephanja, Haggai und Zecharja.” (Ph.D, 1902). </title>
+      <ptr target="https://jalit.org/bibl/2XDGMRT"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl85MTYM7">
+      <title>Hirschfeld, Hartwig ed. Jefeth b Ali’s Arabic Commentary on Nāḥūm. (London: Jews’ College, 1911).</title>
+      <ptr target="https://jalit.org/bibl/85MTYM7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblYT68KTFD">
+      <title>Hirschfeld, Hartwig. “The Arabic Portion of the Cairo Genizah at Cambridge (Thirteenth Article) XXXI: Sa'adyāh's Commentary on Exodus.” The Jewish Quarterly Review 18, no. 4 (1906): pp. 600-620. doi: 10.2307/1451078. </title>
+      <ptr target="https://jalit.org/bibl/YT68KTFD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblM3K38JFP">
+      <title>Hirschfeld, Hartwig. “Yefet’s Commentary on Leviticus.” In Arabic Chrestomathy in Hebrew Characters with a Glossary, edited by Hartwig Hirschfeld. (London: Kegan Paul, Trench, Trübner &amp; Co, 1892), pp. 109-116. https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/372135. </title>
+      <ptr target="https://jalit.org/bibl/M3K38JFP"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZ3KW72M">
+      <title>Hirschfeld, Hartwig. “[Review of] A Commentary on the Book of Daniel by Jephet ibn Ali the Karaite, Semitic Series vol I Part III.” Zeitschrift der Deutschen Morgenländischen Gesellschaft 45, no. 2 (1891): pp. 330-336.</title>
+      <ptr target="https://jalit.org/bibl/Z3KW72M"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblGQ3AN3IK">
+      <title>Hofmann, Theodor ed. Arabische Übersetzung und Erklärung des XXII Psalms von R Jepheth ben Eli ha-Baçri. (Tübingen: Ludwig Friedrich Fues, 1880).</title>
+      <ptr target="https://jalit.org/bibl/GQ3AN3IK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblUQCIN7Z">
+      <title>Hussain, Haider Abbas. “Yefet ben ‘Ali’s Commentary on the Hebrew Text of the Book of Job I-X.” (Ph.D, 1986). </title>
+      <ptr target="https://jalit.org/bibl/UQCIN7Z"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVDGQES5D">
+      <title>“Jafet ben Ali ha-Levi.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 672.</title>
+      <ptr target="https://jalit.org/bibl/VDGQES5D"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMPWLZEYT">
+      <title>“Japheth ben Ali ha-Levi (Yāfith ibn Ali; Abu Ali al-Ḥasan ibn Ali al-Lāwī al-Basṛī).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 1286.</title>
+      <ptr target="https://jalit.org/bibl/MPWLZEYT"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblRMDCM2RE">
+      <title>Jung, Paul. “Über des Karäers Jephet arabische Erklärung des Hohenliedes.” (Ph.D, 1867). </title>
+      <ptr target="https://jalit.org/bibl/RMDCM2RE"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXB2HCQ6">
+      <title>Lehrman, Simon Maurice. “A Commentary on the Book of Joel by Jefeth ben Ali the Karaite.” (Ph.D, 1927). </title>
+      <ptr target="https://jalit.org/bibl/XB2HCQ6"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl6RM6F">
+      <title>Lehrman, Simon Maurice. “Jephet b Ali, The Karaite: His Place among Biblical Commentators.” In Essays Presented to Chief Rabbi Israel Brodie on the Occasion of his Seventieth Birthday, edited by Hirsch Jakob Zimmels, Joseph Rabbinowitz , and Israel Finestein. (London: Soncino Press, 1967), pp. 231-242.</title>
+      <ptr target="https://jalit.org/bibl/6RM6F"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5CQJPM7">
+      <title>Löw, Leopold. “Yefet ben ʿEli.” In המפתח: Praktische Einleitung in die heilige Schrift und Geschichte der Schriftauslegung, ein Lehrbuch für die reifere Jugend, ein Handbuch für Gebildete, (Groß-Kanischa: J. Markbreiter, 1855), pp. 156-157 [§§283-284]. https://mdz-nbn-resolving.de/details:bsb10411668. </title>
+      <ptr target="https://jalit.org/bibl/5CQJPM7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblR36CN7P">
+      <title>Margoliouth, David Samuel ed. A Commentary on the Book of Daniel by Jephet ibn Ali the Karaite [شرح سفر دانيال]. (Oxford: Clarendon Press, 1889).</title>
+      <ptr target="https://jalit.org/bibl/R36CN7P"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl3DBMYFB">
+      <title>Markon, Isaac. “Jafet ben Ali Halewi.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), p. 122.</title>
+      <ptr target="https://jalit.org/bibl/3DBMYFB"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblH2BUISQA">
+      <title>Marwick, E Lawrence. “The Order of the Books in Yefet's Bible Codex.” The Jewish Quarterly Review 33, no. 4 (1943): pp. 445-460. doi: 10.2307/1451999. </title>
+      <ptr target="https://jalit.org/bibl/H2BUISQA"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl7KN3HNY">
+      <title>Marwick, Lawrence E. “[Review of] The Arabic Commentary of Yefet ben 'Ali the Karaite on the Book of Hosea.” Journal of Biblical Literature 62, no. 1 (1943): pp. 37-43. doi: 10.2307/3262382. </title>
+      <ptr target="https://jalit.org/bibl/7KN3HNY"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl3J2PLXA">
+      <title>Marwick, Lawrence ed. Retribution &amp; Redemption: Yefet Ben ʿEli on the Minor Prophets: A Lost Work of Lawrence Marwick. (Columbia: al-Qirqisani Center/Kara Publications, 2003).</title>
+      <ptr target="https://jalit.org/bibl/3J2PLXA"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblAUVMYJCV">
+      <title>Meier, Johannes. “Yefet ben ʿEli.” In Diatribe de origine et caussis festorum, (Amsterdam: Johannes Wolters, 1693), p. 136. https://www.digitale-sammlungen.de/de/view/bsb11254791. </title>
+      <ptr target="https://jalit.org/bibl/AUVMYJCV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVTV8TX">
+      <title>Monferrer Sala, Juan Pedro. “En la periferia de un texto judeoárabe: Yefet b ʿEli contra filósofos y astrólogos, entre tafsīr y realidad figurada (precedido de unas notas filológicas).” Sefarad 71, no. 2 (2011): pp. 265-291. doi: 10.3989/sefarad.011.009. </title>
+      <ptr target="https://jalit.org/bibl/VTV8TX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblIG32AGZ5">
+      <title>Munk, Salomon. “La secte des Karaites et la traduction arabe des Psaumes par Rabbi Yapheth.” Revue orientale et américaine 7 (1862): pp. 5-12.</title>
+      <ptr target="https://jalit.org/bibl/IG32AGZ5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZEYXBQ2S">
+      <title>Munk, Salomon. “Nachrichten und Correspondenzen.” Israelitische Annalen 3, no. 10;12 (1841): pp. 76-77;93-94.</title>
+      <ptr target="https://jalit.org/bibl/ZEYXBQ2S"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblX7EHUA53">
+      <title>Nadler-Akirav, Meirav ed. The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Books of Amos, Haggai, and Malachi. (Leiden: Brill, 2021).</title>
+      <ptr target="https://jalit.org/bibl/X7EHUA53"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQQAP5H7">
+      <title>Nadler-Akirav, Meirav. “Reckoning the End of Days – A Study in Yefet ben ‘Eli’s Biblical Exegesis.” Hebrew Union College Annual 92 (2022): pp. 47-70. doi: https://doi.org/10.15650/hebruniocollannu.92.3. </title>
+      <ptr target="https://jalit.org/bibl/QQAP5H7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblH5XF86">
+      <title>Nadler-Akirav, Meirav. “The Biographical Stories of the Prophets in the Writing of Yefet ben ʿEli.” In Senses of Scripture, Treasures of Tradition, edited by Miriam Lindgren Hjälm. (Leiden: Brill, 2017), pp. 182-197.</title>
+      <ptr target="https://jalit.org/bibl/H5XF86"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl7FIIHY7X">
+      <title>Nadler-Akirav, Meirav. “The Literary-Historical Approach of Yefet Ben ‘Eli the Karaite in His Commentary of the Book of Amos.” European Journal of Jewish Studies 10, no. 2 (2016): pp. 171-200. doi: 10.1163/1872471X-12341291. </title>
+      <ptr target="https://jalit.org/bibl/7FIIHY7X"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblFR2C7WTI">
+      <title>Nadler-Akirav, Meirav. “The meaning and translation of the biblical adverb ʿūlay ('perhaps') among medieval Jewish thinker.” The journal of Jewish studies 68, no. 1 (2017): pp. 78-96. doi: https://doi.org/10.18647/3302/JJS-2017. </title>
+      <ptr target="https://jalit.org/bibl/FR2C7WTI"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZ6AHIKIW">
+      <title>Nemoy, Leon. “Did Salmon ben Jeroham Compose a Commentary on Ruth?.” The Jewish Quarterly Review 39, no. 2 (1948): pp. 215-216. doi: 10.2307/1452826. </title>
+      <ptr target="https://jalit.org/bibl/Z6AHIKIW"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblPJ73CB5Y">
+      <title>Nemoy, Leon. “Yefeth ben Ali ha-Levi.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 587.</title>
+      <ptr target="https://jalit.org/bibl/PJ73CB5Y"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2WL3YJ5K">
+      <title>Nemoy, Leon. “[Review of] The Arabic Commentary of Yefet ben 'Ali on Hosea.” The Jewish Quarterly Review 33, no. 4 (1943): pp. 501-506. doi: 10.2307/1452006. </title>
+      <ptr target="https://jalit.org/bibl/2WL3YJ5K"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblN5ZJ7PAI">
+      <title>Neubauer, Adolf. “Post-Biblical Bibliography, 1888-9.” The Jewish Quarterly Review 2, no. 2 (1890): pp. 191-204.</title>
+      <ptr target="https://jalit.org/bibl/N5ZJ7PAI"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblKFSSEH">
+      <title>Neubauer, Adolf. “Yefet ben ʿEli.” In Aus der Petersburger Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und der karäischen Literatur, (Leipzig: Oskar Leiner, 1866) https://books.google.de/books?id=amJSAAAAcAAJ&amp;newbks. </title>
+      <ptr target="https://jalit.org/bibl/KFSSEH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl3MFAQI5">
+      <title>Nir, Sivan. “A Prophet Warning Himself: Yefet ben ʿEli's Dialogical Reading of Numbers 23–24.” In Jewish Biblical Exegesis from Islamic Lands: The Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (Atlanta: SBL Press, 2019), pp. 149-166.</title>
+      <ptr target="https://jalit.org/bibl/3MFAQI5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblL7WZV7">
+      <title>Polliack, Meira, and Arye Zoref. “Interreligious and Gender Facets in Yefet ben ʿEli's Portrayal of David’s Wives.” In Perspectives on the History of Karaism, edited by Guillaume Dye. (Brussels: Éditions de l'Université de Bruxelles, 2021), pp. 71-92.</title>
+      <ptr target="https://jalit.org/bibl/L7WZV7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblABHXZ3G">
+      <title>Polliack, Meira, and Eliezer Schlossberg. “Historical-Literary, Rhetorical and Redactional Methods of Yefet ben Eli’s Introduction to the Minor Prophets.” In Exegesis and Grammar in Medieval Karaite Texts, edited by Geoffrey Khan. (Oxford: Oxford University Press for the University of Manchester, 2001), pp. 1-39.</title>
+      <ptr target="https://jalit.org/bibl/ABHXZ3G"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5RL5S5D">
+      <title>Polliack, Meira. “Historicizing prophetic literature: Yefet ben ʿEli’s commentary on Hosea and its relationship to al-Qūmisī’s Pitrōn.” In Pesher Naḥum: texts and studies in Jewish history and literature from Antiquity through the Middle Ages, presented to Norman (Naḥum) Golb, edited by Joel L. Kraemer, and Michael G. Wechsler. (Chicago: The Oriental Institute of the University of Chicago, 2012), pp. 149-186. https://oi-idb.uchicago.edu/id/9d6f8f84-e638-4b4c-9179-ef52d36c4a6d. </title>
+      <ptr target="https://jalit.org/bibl/5RL5S5D"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMLEWI373">
+      <title>Polliack, Meira. “Karaite conception of the Biblical Narrator (Mudawwin).” Encyclopaedia of Midrash: Biblical Interpretation in Formative Judaism, edited by Jacob Neusner, and Alan J. Avery Peck (Leiden: Brill, 2005), pp. 350-373.</title>
+      <ptr target="https://jalit.org/bibl/MLEWI373"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblLM58QAR">
+      <title>Polliack, Meira. “Major trends in Karaite biblical exegesis in the tenth and eleventh centuries.” In Karaite Judaism: a guide to its history and literary sources, edited by Meira Polliack. (Leiden &amp; Boston: Brill, 2003), pp. 363-413. https://doi.org/10.1163/9789004294264_017. </title>
+      <ptr target="https://jalit.org/bibl/LM58QAR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMXW2W72">
+      <title>Polliack, Meira. “Medieval Oriental Exegesis on the Character of Jacob in Hosea 12.” In Jewish Studies at the Turn of the Twentieth Century: Proceedings of the 6th EAJS Congress, Toledo, July 1998: Biblical, Rabbinical, and Medieval Studies, 1, edited by Judit Targarona Borrás, and Angel Sáenz-Badillos. (Leiden: Brill, 1999), pp. 177-187.</title>
+      <ptr target="https://jalit.org/bibl/MXW2W72"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl25MCDNZA">
+      <title>Polliack, Meira. “Review of The Messiah in Isaiah 53: The Commentaries of Saadia Gaon, Salmon ben Yeruham, and Yefet ben Eli on Is 52:13—53:12 (La Bible dans l'histoire).” The Journal of Theological Studies 56, no. 1 (2005): pp. 191-195.</title>
+      <ptr target="https://jalit.org/bibl/25MCDNZA"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
+      <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
+      <ptr target="https://jalit.org/bibl/EFVRVADD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblATN5GPLR">
+      <title>Poznański, Samuel. “Japhet b Ali Hallevi.” Wielka Enciclopedya Ilustrowana, (Warszawa1903), p. 32.</title>
+      <ptr target="https://jalit.org/bibl/ATN5GPLR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl8NFN2K">
+      <title>Poznański, Samuel. “[Rezension] Der Commentar des Karäers Jephet ben Ali Halevi zu den Proverbien.” The Jewish Quarterly Review 13, no. 2 (1901): pp. 340-343. doi: 10.2307/1450646. </title>
+      <ptr target="https://jalit.org/bibl/8NFN2K"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQD5ZC6RB">
+      <title>Poznański, Samuel. “[Rezension] Der Kommentar des Karäers Jephet ben ‘Ali zum Buche Rûth.” Zeitschrift für hebraeische Bibliographie 7, no. 5 (1903): pp. 133-135.</title>
+      <ptr target="https://jalit.org/bibl/QD5ZC6RB"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXKHPH6">
+      <title>Robinson, James Theodore ed. The Arabic Translation and Commentary of Yefet ben ‘Eli the Karaite on the Book of Joshua. (Leiden: Brill, 2014).</title>
+      <ptr target="https://jalit.org/bibl/XKHPH6"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCPNP8U5V">
+      <title>Robinson, James Theodore. “Yefet ben ʿEli on the Book of Joshua: A Selection (Preface; 1:1; 1:8; 4:9; 6:3–5; 6:15; 9:27; 10:12–14; 23).” In Jewish Biblical Exegesis from Islamic Lands: The Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (Atlanta: SBL Press, 2019), pp. 167-182.</title>
+      <ptr target="https://jalit.org/bibl/CPNP8U5V"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQEWUDC8S">
+      <title>Robinson, James Theodore. “Yefet ben ʿEli: A Selection from the Commentary on Qoheleth (Preface; 1:1–4; 1:8; 1:12; 4:17; 5:1; 6:6; 12:12).” In Jewish Biblical Exegesis from Islamic Lands: The Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (Atlanta: SBL Press, 2019), pp. 301-320.</title>
+      <ptr target="https://jalit.org/bibl/QEWUDC8S"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVRW6YE">
+      <title>Ryce-Menuhin, Joel. “Jung’s Father, Paul Achilles Jung, and the Song of Songs: an Introduction.” In Jung and the Monotheisms: Judaism, Christianity, Islam, edited by Joel Ryce-Menuhin. (London &amp; New York: Routledge, 1994), pp. 233-240.</title>
+      <ptr target="https://jalit.org/bibl/VRW6YE"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblTQ3NESFM">
+      <title>Sabih, Joseph ed. Japheth ben Ali’s Book of Jeremiah: a Critical Edition and Linguistic Analysis of the Judaeo-Arabic Translation. (London; Oakville: Equinox, 2009).</title>
+      <ptr target="https://jalit.org/bibl/TQ3NESFM"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZDJFFW6C">
+      <title>Sadan, Arik ed. The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Book of Job. (Leiden: Brill, 2020).</title>
+      <ptr target="https://jalit.org/bibl/ZDJFFW6C"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblKK6VER5">
+      <title>Sadan, Arik. “Islamic Terminology, the Epithets and Names Used for God, and Proper Nouns in Yefet Ben ʿEli’s Translation of the Book of Job in Judeo-Arabic.” In Senses of Scripture, Treasures of Tradition, edited by Miriam Lindgren Hjälm. (Leiden: Brill, 2017), pp. 436-447.</title>
+      <ptr target="https://jalit.org/bibl/KK6VER5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQ3UHW875">
+      <title>Sadan, Arik. “On the Advantages of Studying the Book of Job as outlined in Yefet ben ʿEli’s Commentary.” In Jewish Biblical Exegesis from Islamic Lands: The Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (Atlanta: SBL Press, 2019), pp. 271-276.</title>
+      <ptr target="https://jalit.org/bibl/Q3UHW875"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZ3H8A2D">
+      <title>Salfeld, Siegmund. “Yefet ben ʿEli.” In Das Hohelied Salomo's bei den jüdischen Erklärern des Mittelalters, (Berlin: Julius Benzian, 1879), pp. 128-132. https://books.google.de/books?id=NNwMAAAAIAAJ&amp;hl. </title>
+      <ptr target="https://jalit.org/bibl/Z3H8A2D"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCHWMNR">
+      <title>Sasson, Ilana ed. The Arabic Translation and Commentary of Yefet ben ʿEli on the Book of Proverbs: Volume 1: Edition and Introduction. (Leiden: Brill, 2016).</title>
+      <ptr target="https://jalit.org/bibl/CHWMNR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblPZRENKI7">
+      <title>Sasson, Ilana. “Gender Equality in Yefet Ben ʿElī's Commentary and Karaite Halakhah.” Association for Jewish Studies Review 37, no. 1 (2013): pp. 51-74. doi: doi:10.1017/S0364009413000032. </title>
+      <ptr target="https://jalit.org/bibl/PZRENKI7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMPQ3ZU">
+      <title>Sasson, Ilana. The Arabic Translation and Commentary of Yefet ben 'Eli on the Book of Proverbs: Volume 2: Translation. (Leiden: Brill, 2023).</title>
+      <ptr target="https://jalit.org/bibl/MPQ3ZU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblJB7NQD6S">
+      <title>Sasson, Ilana. “The Book of Proverbs between Saadia and Yefet.” Intellectual History of the Islamicate World 1, no. 1-2 (2013): pp. 159-178. doi: 10.1163/2212943X-20130107. </title>
+      <ptr target="https://jalit.org/bibl/JB7NQD6S"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblF2KKTTKA">
+      <title>Sasson, Ilana. “The Mudawwin Revisited: Yefet ben Eli on the Composition of the Book of Proverbs.” The journal of Jewish studies 67, no. 2 (2016): pp. 327-339. doi: https://doi.org/10.18647/3282/jjs-2016. </title>
+      <ptr target="https://jalit.org/bibl/F2KKTTKA"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblJ3LHWZG">
+      <title>Sasson, Ilana. “Yefet Ben ʿEli on Proverbs 30:1–6.” In Jewish Biblical Exegesis from Islamic Lands: The Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (Atlanta: SBL Press, 2019), pp. 243-253.</title>
+      <ptr target="https://jalit.org/bibl/J3LHWZG"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblESN5A6MV">
+      <title>Sasson, Ilana. “Yefet ben ʿEli’s Introduction to His Commentary on the Book of Proverbs.” In Senses of Scripture, Treasures of Tradition, edited by Miriam Lindgren Hjälm. (Leiden: Brill, 2017), pp. 509-528.</title>
+      <ptr target="https://jalit.org/bibl/ESN5A6MV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblNZAAUXU">
+      <title>Schenker, Adrian. “Auf dem Weg zu einer kritischen Ausgabe von Jafet ben Elis Kommentar zu den Psalmen.” Bulletin d'Études Karaïtes 2 (1989): pp. 29-38.</title>
+      <ptr target="https://jalit.org/bibl/NZAAUXU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2VDPLXFL">
+      <title>Schenker, Adrian. “Der Karäer Jafet ben Eli, die Buyiden und das Datum seines Danielkommentar.” Bulletin des Études Karaïtes 1 (1983): pp. 19-26.</title>
+      <ptr target="https://jalit.org/bibl/2VDPLXFL"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl3L7TDSW">
+      <title>Schenker, Adrian. “Yefet ben Eli.” In Der Mächtige im Schmelzofen des Mitleids: Eine Interpretation von 2 Sam 24, (Freiburg: Universitätsverlag, 1982), pp. 50-59.</title>
+      <ptr target="https://jalit.org/bibl/3L7TDSW"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblV27CK82N">
+      <title>Schorstein, Nahum. “Der Commentar des Karäers Jephet ben ‘Alī zum Buche Rûth.” (Ph.D, 1903). </title>
+      <ptr target="https://jalit.org/bibl/V27CK82N"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2A6HYCCY">
+      <title>Schroeter, R. “Die in Cod Hunt 206 aufbewahrte arabische Uebersetzung der kleinen Propheten II Joel.” Archiv für wissenschaftliche Erforschung des Alten Testamentes 2, no. 1 (1871): pp. 1-38.</title>
+      <ptr target="https://jalit.org/bibl/2A6HYCCY"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblEQINUVN8">
+      <title>Schröter, Robert (?). “Die in Cod Hunt 206 aufbewahrte arabische Uebersetzung der kleinen Propheten, herausgegeben und mit Anmerkungen verdeutscht: I Hosea (Fortsetzung).” Archiv für wissenschaftliche Erforschung des Alten Testamentes 1, no. 2 (1867): pp. 153-194.</title>
+      <ptr target="https://jalit.org/bibl/EQINUVN8"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWYC82VFZ">
+      <title>Schröter, Robert (?). “Die in Cod Hunt 206 aufbewahrte arabische Uebersetzung der kleinen Propheten, herausgegeben und mit Anmerkungen verdeutscht: I Hosea.” Archiv für wissenschaftliche Erforschung des Alten Testamentes 1, no. 1 (1867): pp. 28-54.</title>
+      <ptr target="https://jalit.org/bibl/WYC82VFZ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblGZQDBI8X">
+      <title>Selden, John. “Yefet ben ʿEli.” In Uxor Ebraica: seu de nuptiis &amp; divortiis ex iure civili, id est, divino &amp; tamuldico, veterum ebraeorum, libri tres, (London: R. Bishop, 1646), p. 11. https://books.google.es/books?id=wIv9ha3OZ0MC. </title>
+      <ptr target="https://jalit.org/bibl/GZQDBI8X"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5BVUD5YF">
+      <title>Simmons, Lawrence M. “[Review of] A Commentary on the Book of Daniel.” The Jewish Quarterly Review 2, no. 2 (1890): pp. 186-188. doi: 10.2307/1450099. </title>
+      <ptr target="https://jalit.org/bibl/5BVUD5YF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQSNXISD7">
+      <title>Sixdenier, Guy-Dominique. “Le Psaume 2 dans 4Qflorilegium et dans Jephet ben Ali In Psalmos: essai de comparaison de leurs de leurs exégèses et méthodes.” In Études sémitiques et samaritaines offertes à Jean Margain, edited by Christian-Bernard Amphoux, Albert Frey , and Ursula Schattner-Rieser. (Lausanne: Éditions du Zèbre, 1998), pp. 251-257.</title>
+      <ptr target="https://jalit.org/bibl/QSNXISD7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblYQFBKSFD">
+      <title>Skehan, Patrick W. “[Review of] The Arabic Commentary of Yefet ben 'Ali the Karaite on the Book of Hosea.” The Catholic Biblical Quarterly 6, no. 2 (1944): p. 255.</title>
+      <ptr target="https://jalit.org/bibl/YQFBKSFD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblD3SFLXSR">
+      <title>Sklare, David E. “Yefet Ben ‘Ali.” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 735.</title>
+      <ptr target="https://jalit.org/bibl/D3SFLXSR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblLJPB2DEJ">
+      <title>Skoss, Solomon Leon. “Jafet ben Ali ha-Levi.” Encyclopaedia Judaica, (Berlin: Eschkol, 1931), pp. 754-759.</title>
+      <ptr target="https://jalit.org/bibl/LJPB2DEJ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblGMGWRWF">
+      <title>Sokolow, Moshe. “The Commentary of Yefet ben Ali on Deuteronomy XXXII.” (Ph.D, 1974). </title>
+      <ptr target="https://jalit.org/bibl/GMGWRWF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXCU863EQ">
+      <title>Sprengling, Martin. “[Review of] The Arabic Commentary of Yefet Ben ʿAli the Karaite on the Book of Hosea.” Journal of Near Eastern Studies 2, no. 3 (1943): p. 210.</title>
+      <ptr target="https://jalit.org/bibl/XCU863EQ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCJU5AGD">
+      <title>Stefański, Jacek. “Medieval Karaite Exegesis as Evidenced in Selected Examples from Yefet Ben Eli’s Commentary on the Book of Hosea.” Collectanea Theologica 90, no. 5 (2020): pp. 335-351. doi: 10.21697/ct.2020.90.5.14. </title>
+      <ptr target="https://jalit.org/bibl/CJU5AGD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMSKJ2LSW">
+      <title>Steiner, Richard C. “A Jewish Theory of Biblical Redaction from Byzantium: Its Rabbinic Roots, its Diffusion and its Encounter with the Muslim Doctrine of Falsification.” Jewish Studies Internet Journal 2 (2003): pp. 123-167.</title>
+      <ptr target="https://jalit.org/bibl/MSKJ2LSW"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblS8WFC6QZ">
+      <title>Steinschneider, Moritz. “Jüdische Literatur.” Allgemeine Encyclopädie der Wissenschaften und Künste, edited by Johann Samuel Ersch, and Johann Gottfried Gruber (Leipzig: F. A. Brockhaus, 1850), pp. 357-471. https://gdz.sub.uni-goettingen.de/id/PPN362303401. </title>
+      <ptr target="https://jalit.org/bibl/S8WFC6QZ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCLPEXJK5">
+      <title>Steinschneider, Moritz. “Yefet ben ʿEli.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), p. 84 [§44.7].</title>
+      <ptr target="https://jalit.org/bibl/CLPEXJK5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2F2F32">
+      <title>Stroumsa, Sarah. “‘What is Man?’: Psalm 8:4–5 in Jewish, Christian and Muslim Exegesis in Arabic.” Henoch 14 (1992): pp. 283-290.</title>
+      <ptr target="https://jalit.org/bibl/2F2F32"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblLS3Z6BWU">
+      <title>Stroumsa, Sarah. “‘What is Man?’: Psalm 8:4–5 in Jewish, Christian and Muslim Exegesis in Arabic.” In “Open Thou Mine Eyes ”: Essays on Aggadah and Judaica Presented to Rabbi William G Braude on his Eightieth Birthday and Dedicated to His Memory, edited by Herman J. Blumberg. (Hoboken: Ktav, 1992), pp. 295-302.</title>
+      <ptr target="https://jalit.org/bibl/LS3Z6BWU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVKMKA7RF">
+      <title>Szadzunski, Eleazar I. “Yefet ben Ali’s Arabic Commentary on Micah.” (Ph.D, 1937). </title>
+      <ptr target="https://jalit.org/bibl/VKMKA7RF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblAG6P6VV">
+      <title>Tamani, Giuliano. “La tradizione delle opere di Yefet b Ali.” Bulletin d’Études Karaïtes 1 (1983): pp. 27-76.</title>
+      <ptr target="https://jalit.org/bibl/AG6P6VV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblP3THTPAV">
+      <title>Tamani, Giuliano. “Prolegomeni a un’ edizione dei commenti biblici di Yefet b Ali.” Bulletin d'Études Karaïtes 2 (1989): pp. 23-28.</title>
+      <ptr target="https://jalit.org/bibl/P3THTPAV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl2WWFR2L">
+      <title>Tobi, Yosef Yuval. “The Bible as History: Saʿadia Gaon, Yefet ben ʿEli, Samuel ben Ḥofni, and Maimonides on the Genealogy of Esau and the Kingdom of Edom (Genesis 36).” In Jewish Biblical Exegesis from Islamic Lands: The Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (Atlanta: SBL Press, 2019), pp. 101-120.</title>
+      <ptr target="https://jalit.org/bibl/2WWFR2L"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQFTQJ7AU">
+      <title>Tomal, Maciej Janusz. “Judeoarabski komentarz karaima Yefeta ben 'Alego do Księgi Amosa: Edycja tekstu i komentarz.” (Ph.D, 2000). </title>
+      <ptr target="https://jalit.org/bibl/QFTQJ7AU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblRIJBXGG">
+      <title>“VI Yepheth ben ʿAli.” In The Fifty-Third Chapter of Isaiah according to the Jewish Interpreters, 1, edited by Adolf Neubauer. (Oxford &amp; Leipzig: J. Parker &amp; T. O. Weigel, 1876), pp. 21-32. https://archive.org/details/fiftythirdchapte01neub. </title>
+      <ptr target="https://jalit.org/bibl/RIJBXGG"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblRDIZU8R">
+      <title>“VI Yepheth ben ʿAli.” In The Fifty-Third Chapter of Isaiah according to the Jewish Interpreters, 2, edited by Adolf Neubauer, and Samuel Rolles Driver. (Oxford &amp; Leipzig: J. Parker &amp; T. O. Weigel, 1877), pp. 19-31. https://archive.org/details/fiftythirdchapte02neub. </title>
+      <ptr target="https://jalit.org/bibl/RDIZU8R"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblQ3VAHICF">
+      <title>Vajda, Georges. “Yefet ben Eli.” In Deux commentaires karaïtes sur l’Ecclésiaste, (Leiden: Brill, 1971), pp. 115-117; 219-237.</title>
+      <ptr target="https://jalit.org/bibl/Q3VAHICF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCYV8JJH">
+      <title>Vajda, Georges. “’Ōr ha-šekhīnā: Compléments et Autocritique.” Revue des Études Juives 134, no. 1 (1975): pp. 133-135.</title>
+      <ptr target="https://jalit.org/bibl/CYV8JJH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCFLTYM2">
+      <title>Wechsler, Michael G ed. The Arabic translation and commentary of Yefet ben ʿEli the Karaite on the Book of Esther: edition, translation, and introduction. (Leiden: Brill, 2008).</title>
+      <ptr target="https://jalit.org/bibl/CFLTYM2"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMFHBG7U5">
+      <title>Wechsler, Michael G. “Japheth (Abū ‘Alī Ḥasan) ben Eli.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/*-COM_0022290. </title>
+      <ptr target="https://jalit.org/bibl/MFHBG7U5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZAVFSXFX">
+      <title>Wechsler, Michael G. “The Arabic Translation and Commentary of Yefet ben 'Eli on Proverbs 31:10–31.” Journal of Jewish Studies 54, no. 2 (2003): pp. 283-310. doi: https://doi.org/10.18647/2496/JJS-2003. </title>
+      <ptr target="https://jalit.org/bibl/ZAVFSXFX"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl6MBZVHLE">
+      <title>Wechsler, Michael G. “The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Book of Esther: Edition, Translation, and Introduction.” (Ph.D, 2006). </title>
+      <ptr target="https://jalit.org/bibl/6MBZVHLE"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblY8AF8HVB">
+      <title>Wechsler, Michael G. “The Arabic translation and commentary of Yefet ben 'Eli on Proverbs 31:1-9.” Revue des Études Juives 161, no. 3-4 (2002): pp. 393-409. doi: 10.2143/REJ.161.3.234. </title>
+      <ptr target="https://jalit.org/bibl/Y8AF8HVB"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl7J5SG8VH">
+      <title>Wendkos, Philip David. “The Arabic Commentary of Yefet b Ali the Karaite on the Book of Jeremiah: 150 folios edited from three MSS with Critical Notes.” (Ph.D, 1969). </title>
+      <ptr target="https://jalit.org/bibl/7J5SG8VH"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblL6CI22GP">
+      <title>“Yafet ben Ali Halevi.” Enciclopedia Judaica Castellana, (México: Editorial Enciclopedia Judaica Castellana, 1948), pp. 492-493.</title>
+      <ptr target="https://jalit.org/bibl/L6CI22GP"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblARKL8CIK">
+      <title>Yaron, Yoseif ed. Angels and Fire: Yefet ben Ali Hallewi on Daniel and Nahum. (Pleasanton: Gan-Eiden Press, 2000).</title>
+      <ptr target="https://jalit.org/bibl/ARKL8CIK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblMABULFH5">
+      <title>“Yefet ben Eli.” In The Messiah in Isaiah 53: the commentaries of Saadia Gaon, Salmon ben Yeruham and Yefet ben Eli on Is 52:13-53:12, edited by Joseph Alobaidi. (Bern: Lang, 1998), pp. 125-187.</title>
+      <ptr target="https://jalit.org/bibl/MABULFH5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl65VYBZBJ">
+      <title>“Yefet ben ʿEli.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, edited by Leon Nemoy. (New Haven &amp; London: Yale University Press, 1952), pp. 83-108.</title>
+      <ptr target="https://jalit.org/bibl/65VYBZBJ"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblZHWHGF8M">
+      <title>“Yefet ben ʿEli.” In Schiloh: Ein Beitrag zur Geschichte der Messiaslehre Erster Teil: Die Auslegung von Genesis 49, 10 im Altertume bis zu Ende des Mittelalters, edited by Adolf Posnanski. (Leipzig: J. C. Hinrichs, 1904), pp. 271-272; LXIX-LXX. https://archive.org/details/schiloheinbeitr00posngoog. </title>
+      <ptr target="https://jalit.org/bibl/ZHWHGF8M"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblGFQQNJ7">
+      <title>Zawanowska, Marzena ed. The Arabic translation and commentary of Yefet ben ʿEli the Karaite on the Abraham Narratives (Genesis 11:10–25:18): edition and introduction. (Leiden: Brill, 2012).</title>
+      <ptr target="https://jalit.org/bibl/GFQQNJ7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXCDH8RNV">
+      <title>Zawanowska, Marzena. “Islamic exegetical terms in Yefet ben ʿEli’s commentaries on the Holy Scriptures.” Journal of Jewish Studies 64, no. 2 (2013): pp. 306-325. doi: https://doi.org/10.18647/3142/JJS-2013. </title>
+      <ptr target="https://jalit.org/bibl/XCDH8RNV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblAGCHUTN">
+      <title>Zawanowska, Marzena. “Review of Scholarly Research on Yefet Ben 'Eli and his Works.” Revue des Études Juives 173, no. 1-2 (2014): pp. 97-138. doi: 10.2143/REJ.173.1.3030667. </title>
+      <ptr target="https://jalit.org/bibl/AGCHUTN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblFQ8PS82">
+      <title>Zawanowska, Marzena. “The Literary Approach to the Bible and its Characters in Yefet ben ‘Eli’s Commentary on the Book of Genesis: An Example of Competing Females in the Story of Abraham.” Iggud 1 (2008): pp. 69-83.</title>
+      <ptr target="https://jalit.org/bibl/FQ8PS82"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblNM66ZCVI">
+      <title>Zawanowska, Marzena. “Was Moses the mudawwin of the Torah? The Question of Authorship of the Pentateuch according to Yefet ben ‘Eli.” In Studies in Judaeo-Arabic Culture: Proceedings of the Fourteenth Conferenceof the Society for Judaeo-Arabic Studies, edited by Haggai Ben-Shammai, Aron Dotan , Yoram Erder , and Mordechai A. Freiman. (Tel Aviv: Tel Aviv University, 2014), pp. 7-35.</title>
+      <ptr target="https://jalit.org/bibl/NM66ZCVI"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblKRAES7">
+      <title>Zawanowska, Marzena. “Yefet ben ʿEli on Genesis 11 and 22.” In Jewish Biblical Exegesis from Islamic Lands: The Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (Atlanta: SBL Press, 2019), pp. 33-59.</title>
+      <ptr target="https://jalit.org/bibl/KRAES7"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblVGJETHFN">
+      <title>Zoran, Yair. “David and the Temple of Solomon in Medieval Karaite Sources: The Arabic Commentaries of Yefet ben ʿEli on the Books of Kings and Chronicles.” In The Character of David in Judaism, Christianity and Islam: Warrior, Poet, Prophet and King, edited by Marzena Zawanowska, and Mateusz Wilk. (Leiden: Brill, 2021), pp. 87-103.</title>
+      <ptr target="https://jalit.org/bibl/VGJETHFN"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblJ8SNKTXK">
+      <title>Zoref, Arye. “פירושו של עלי בן ישראל לסיפורי דוד לאור פירושו של יפת בן עלי / The biblical commentary of ʿEli b Yisrael on David stories in light of Yefet b ʿEli’s commentary.” ספונות N.S. 12 (27) (2022): pp. 327-371.</title>
+      <ptr target="https://jalit.org/bibl/J8SNKTXK"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblKAH3UXU">
+      <title>von Himpel, Felix. “[Rezension] Arabische Übersetzung und Erklärung des XXII Psalms von R Jepheth ben Eli ha-Baçri.” Theologische Quartalschrift 63, no. 3 (1881): pp. 485-487.</title>
+      <ptr target="https://jalit.org/bibl/KAH3UXU"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl66T5U3P">
+      <title>Бройде, Исаак Давид. “Иефет б Али Галеви.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 716-718.</title>
+      <ptr target="https://jalit.org/bibl/66T5U3P"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblE7UMDSF">
+      <title>אבישור, יצחק ed. תרגום קדום לנביאים אחרונים בערבית-יהודית בבלית וסורית כתב-יד בודליאנה עם מבוא והערות (206 Hunt Ms). (ירושלים: האוניברסיטה העברית, 1998).</title>
+      <ptr target="https://jalit.org/bibl/E7UMDSF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblL5VRAZ8H">
+      <title>אבני, צבי. “משלי בלעם בפירושו של יפת בן עלי הקראי.” ספונות ח (כג) (2003): pp. 458-371.</title>
+      <ptr target="https://jalit.org/bibl/L5VRAZ8H"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblLIC6SSR">
+      <title>אבני, צבי. “פירוש יפת בן עלי למשלי בלעם (במדבר כ"ג:א׳–כ"ד:כ"ה) מהדורה ביקורתית עם תרגום עברי, מבוא והערות.” (Ph.D, 2000). </title>
+      <ptr target="https://jalit.org/bibl/LIC6SSR"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblF77TLWXY">
+      <title>ארדר, יורם. “התייחסותו של הקרא יפת בן עֵלי לבעיות מוסר לאור פירושו לכתוב בשמות ג‛ כא–כב.” ספונות ז (כב) (1999): pp. 334-313.</title>
+      <ptr target="https://jalit.org/bibl/F77TLWXY"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblSKNXDB3">
+      <title>בוטבול, שגית. “פירושו של יפת בן עלי הקראי למגילת רות.” ספונות ח (כג) (2003): pp. 571-459.</title>
+      <ptr target="https://jalit.org/bibl/SKNXDB3"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblKLAMLBT6">
+      <title>בוטבול, שגית. “פרושו הערבי של יפת בן עלי הקראי למגלת רות.” (Ph.D, 2002). </title>
+      <ptr target="https://jalit.org/bibl/KLAMLBT6"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblKREUIQFD">
+      <title>בלאו, הושע. “פירוש לאיוב: ההקדמה  ופירוש פסוק א:א.” In הספרות הערבית היהודית: פרקים נבחרים, edited by הושע בלאו. (ירושלים: הוצאת מאגנס, 1980), pp. 86-73.</title>
+      <ptr target="https://jalit.org/bibl/KREUIQFD"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblBKYQAPB">
+      <title>בן-שמאי, חגי. “מהדורות ונוסחאות מפירושי יפת בן עלי למקרא.” </title>
+      <ptr target="https://jalit.org/bibl/BKYQAPB"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblD363YY3A">
+      <title>בן-שמאי, חגי. “פירוש ספר שמואל מאת יפת בן עלי הקראי.” קרית ספר ס (1985): pp. 968-967.</title>
+      <ptr target="https://jalit.org/bibl/D363YY3A"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblV7DTC3D5">
+      <title>בן-שמאי, חגי. “פירושו הערבי של יפת בן עלי לאיוב א-ה.” (Ph.D, 1969). </title>
+      <ptr target="https://jalit.org/bibl/V7DTC3D5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblTSMSBAUV">
+      <title>בן-שמאי, חגי. “שיטות המחשבה הדתית של אבו יוסף יעקוב אלקרקסאני ויפת בן עלי.” (Ph.D, 1977). </title>
+      <ptr target="https://jalit.org/bibl/TSMSBAUV"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl7SSKQNFB">
+      <title>הכהן, עפרה. “ספר משלי (פרקים י־י"ב) בפרושו של הקראי יפת הלוי (אבו אבן עלי חסן בן עלי אלבצרי).” (Ph.D, 1967). </title>
+      <ptr target="https://jalit.org/bibl/7SSKQNFB"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblIHCEPGL">
+      <title>וורמברנד, מרדכי. “יפת בן עלי הלוי.” אנציקלופדיה העברית, (ירושלים), pp. 159-158.</title>
+      <ptr target="https://jalit.org/bibl/IHCEPGL"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblG2VAARC">
+      <title>לבנה-כפרי, עופר. “ספר חבקוק (פרקים א‛ג) בפירושו של הפרשן הקראי יפת בן עלי חסן בן עלי הלוי הבצרי.” ספונות ו (כא) (1993): pp. 113-73.</title>
+      <ptr target="https://jalit.org/bibl/G2VAARC"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblKLHMRPVT">
+      <title>מרקון, יצחק. “פירוש על מגילת רות להקראי שלמון בן ירוחם.” In ספר זכרון לכבוד הד"ר שמואל אברהם פוזננסקי, החלק העברי, (ורשה: אצל אוטטו הררסוביץ, 1927), pp. עח-צו. https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/799420. </title>
+      <ptr target="https://jalit.org/bibl/KLHMRPVT"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblYKJIWPE2">
+      <title>סוקולוב, משה. “פרשנות שירת האזינו בעידן הגאונים: על יסוד פירוש דברים לב, א ליפת בן עלי ובהשוואה עם פירוש רסג, רשבח, ר׳ אהרון סרגאדו, יהודה הדסי, ואבו אלחסן אלצורי.” In חקרי עבר וערב מוגשים ליהושע בלאו על ידי חבריו ותלמידיו במלאת לו שבעים, edited by חגי בן-שמאי. (תל-אביב; ירושלים: אוניברסיטת תל-אביב; האוניברסיטה העברית, 1993), pp. 414-397.</title>
+      <ptr target="https://jalit.org/bibl/YKJIWPE2"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbibl5ZNHLTFF">
+      <title>סקליר, דוד. “חיבורים קראיים לא ידועים באוסף פירקוביץ'.” In כתבי היד בערבית-יהודית באוספי פירקוביץ' חיבורי יוסף אלבציר קטלוג לדוגמה מקורות ומחקרים, edited by דוד סקליר, and חגי בן-שמאי. (ירושלים: מכון בן צבי לחקר קהילות ישראל במזרח, 1997), pp. 139-127.</title>
+      <ptr target="https://jalit.org/bibl/5ZNHLTFF"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWQ88FSA2">
+      <title>פוליאק, מאירה ed., and אליעזר שלוסברג eds. פירוש יפת בן עלי לספר הושע. (רמת גן: הוצאת אוניברסיטת בר-אילן, 2009).</title>
+      <ptr target="https://jalit.org/bibl/WQ88FSA2"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblXDXF32BC">
+      <title>פוליאק, מאירה. “לדמותו של יעקב בהושע יב: גישות טיפולוגיות בפרשנות ימי הביניים ובמחקר החדש.” בית מקרא 43, no. ג-ד (קנד-קנה) (1998): pp. 301-277.</title>
+      <ptr target="https://jalit.org/bibl/XDXF32BC"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblHIV35CPS">
+      <title>פוליאק, מאירה. “לדמותו של יעקב בהושע יב: גישות טיפולוגיות בפרשנות ימי הביניים ובמחקר החדש.” בית מקרא 44, no. א (קנו) (1998): pp. 54-39.</title>
+      <ptr target="https://jalit.org/bibl/HIV35CPS"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblSDA7G6T5">
+      <title>צורן, יאיר. “לשון גדולה — ריבוי לשם כבוד.” בית מקרא 40, no. ד (קמג) (1995): pp. 403-402.</title>
+      <ptr target="https://jalit.org/bibl/SDA7G6T5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblDKMX8SWG">
+      <title>רעוועל, דוב. “יפת בן עלי הלוי.” אוצר ישראל, edited by יהודה דוד אייזענשטיין (ניו-יורק1906), pp. 179-178.</title>
+      <ptr target="https://jalit.org/bibl/DKMX8SWG"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblCUWG7HZI">
+      <title>שלוסברג, אליעזר, Eliezer Schlossberg, יוסף פליישמן, and Joseph Fleishman. “פרשנות קראית קדומה לפרשת מוציא שם רע : קדושתא לשמיני עצרת ליניי || Early Karaite Interpretation to Deuteronomy 22:13-21.” גנזי קדם 11 (2015): pp. 147-248.</title>
+      <ptr target="https://jalit.org/bibl/CUWG7HZI"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblWEACHUT">
+      <title>שלוסברג, אליעזר. “[Review of: Avishur, Yitzhaq, תרגום קדום לנביאים אחרונים בערבית־יהודית בבלית וסורית כתב־יד בודליאנה (206 Hunt Ms) עם מבוא והערות; A Medieval Translation of the Latter Prophets into Iraqi and Syrian Judaeo-Arabic: The Text of Bodleian Manuscript Hunt 206 with Introduction and Notes, vol 1: Isaiah and Jeremiah].” </title>
+      <ptr target="https://jalit.org/bibl/WEACHUT"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblP3D7LX5">
+      <title>שלוסברג, אליעזר. “עיבוד מהמאה ה-16 לתרגומו של יפת בן עֵלי הקראי לספר מלאכי.” In מחקרים בערבית ובתרבות האסלאם, 1, edited by בנימין אברהמוב. (תל-אביב2000), pp. 155-129.</title>
+      <ptr target="https://jalit.org/bibl/P3D7LX5"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblDA3EMC23">
+      <title>שלוסברג, אליעזר. “עיונים בתרגום עברי מימי-הביניים לפירושו של יפת בן עלי הקראי לספר יונה.” In עלי עשור: דברי הוועידה העשירית של החברה לחקר התרבות הערבית-יהודית של ימי-הביניים, edited by דניאל לסקר, and חגי בן-שמאי. (באר-שבע: הוצאת הספרים של אוניברסיטת בן-גוריון בנגב, 2008), pp. 288-269.</title>
+      <ptr target="https://jalit.org/bibl/DA3EMC23"/>
+   </bibl>
+   <bibl type="bibliography" xml:id="jalit-orgbiblUSKETLNY">
+      <title>ששון, אילנה. “מי כתב את ספר משלי?: יפת בן עלי על איסוף הספר ועריכתו.” פעמים 152-150 (2017): pp. 388-373.</title>
+      <ptr target="https://jalit.org/bibl/USKETLNY"/>
+   </bibl>
                <idno type="URI" subtype="isni">https://isni.org/isni/0000000108004178</idno>
                <idno type="URI" subtype="viaf">http://viaf.org/viaf/54984961</idno>
                <idno type="URI" subtype="wiki"/>

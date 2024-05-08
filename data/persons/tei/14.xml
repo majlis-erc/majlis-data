@@ -23,10 +23,6 @@
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                >Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527"
-               >Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor"
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                >Maximilian de Molière
@@ -54,6 +50,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -137,10 +134,101 @@
                <residence>
                   <placeName ref="" cert="" source=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbiblE6LEVQ">
+                  <title>“Ali Ibn Suleimen.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 660.</title>
+                  <ptr target="https://jalit.org/bibl/E6LEVQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblP76NY5JQ">
+                  <title>“Ali Ibn Suleimen.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 632.</title>
+                  <ptr target="https://jalit.org/bibl/P76NY5JQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblKDBFZNL">
+                  <title>“Ali ibn Suleiman.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), pp. 183-184.</title>
+                  <ptr target="https://jalit.org/bibl/KDBFZNL"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIWAMWBKG">
+                  <title>Gascoigne, Alison L, and John P. Cooper. “Tinkers, tailors, soldiers and sailors The city of Tinnīs in the 11th-13th centuries.” In Guerre et paix dans le Proche-Orient médiéval (Xe-XVe siècle), edited by Mathieu Eychenne, Stéphane Pradines , and Abbès Zouache. (Cairo: Institut Français d'Archéologie Orientale, 2019), pp. 371-384. https://www.academia.edu/11895753/. </title>
+                  <ptr target="https://jalit.org/bibl/IWAMWBKG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblID7FG6">
+                  <title>Gascoigne, Alison L, and John P. Cooper. “The topography of the city of Tinnīs.” In The Island City of Tinnīs: a Postmortem, (Cairo: Institut Francais D’Archeologie Orientale, 2020), pp. 85-141. https://eprints.soton.ac.uk/451803/. </title>
+                  <ptr target="https://jalit.org/bibl/ID7FG6"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblYP5YFYNT">
+                  <title>Gascoigne, Alison L, and John P. Cooper. The island city of Tinnīs: a postmortem. (Cairo: Institut Français d'Archéologie Orientale, 2020).</title>
+                  <ptr target="https://jalit.org/bibl/YP5YFYNT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblHIVZC2W">
+                  <title>Gascoigne, Alison L, John P. Cooper, and Ziad Morsy. مدينة تِنّيس في العصرين الروماني واإلسالمي مدخل تاريخي وأثري || The Roman and Islamic city of Tinnis: a historical and archaeological introduction. ().</title>
+                  <ptr target="https://jalit.org/bibl/HIVZC2W"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5TKTZK8">
+                  <title>Gil, Moshe. “Salmon ben Jeroham.” In A History of Palestine, 634–1099, (Cambridge: Cambridge University Press, 1992), pp. 67; 72; 112; 180; 347; 618; 620; 652; 782; 796; 798; 806.</title>
+                  <ptr target="https://jalit.org/bibl/5TKTZK8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRID7IXD6">
+                  <title>Goldstein, Miriam. Karaite exegesis in medieval Jerusalem: The Judeo-Arabic Pentateuch commentary of Yūsuf ibn Nūḥ and Abū al-Faraj Hārūn. (Tübingen: Mohr Siebeck, 2011).</title>
+                  <ptr target="https://jalit.org/bibl/RID7IXD6"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblNLMAEUIB">
+                  <title>Mann, Jacob. Texts and studies in Jewish history and literature. (Cincinnati; Philadelphia: Hebrew Union College Press; Jewish Publication Society, 1931).</title>
+                  <ptr target="https://jalit.org/bibl/NLMAEUIB"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQR5RQ2HX">
+                  <title>Margoliouth, George. “Ibn al-Hītī’s Arabic Chronicle of Karaite Doctors.” Jewish Quarterly Review 9 (1897): pp. 429-443.</title>
+                  <ptr target="https://jalit.org/bibl/QR5RQ2HX"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblW3ZI8VB">
+                  <title>Margoliouth, George. Catalogue of the Hebrew and Samaritan manuscripts in the British Museum. (London1899).</title>
+                  <ptr target="https://jalit.org/bibl/W3ZI8VB"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblMDP7PR3W">
+                  <title>Neubauer, Adolf ed. كتاب اللأصول لأبي الوليد مروان بن جناح القرطبي (The Book of Hebrew Roots by Abu ʾl-Walîd Marwân ibn Janâh, called Rabbî Jônâh). (Oxford: Clarendon Press, 1875).</title>
+                  <ptr target="https://jalit.org/bibl/MDP7PR3W"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblXQGKLC7">
+                  <title>Pinsker, Simḥa. “Daniel ben Moses al-Qumisi.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), p. 38.</title>
+                  <ptr target="https://jalit.org/bibl/XQGKLC7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRHD5LLU">
+                  <title>Polliack, Meira. The Karaite tradition of Arabic Bible translation: A linguistic and exegetical study of Karaite translations of the Pentateuch from the tenth and eleventh centuries CE. (Leiden: Brill, 1997).</title>
+                  <ptr target="https://jalit.org/bibl/RHD5LLU"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblLLJ52HJ7">
+                  <title>Skoss, Solomon L. “The Arabic Commentary of Ali ben Suleiman the Karaite on the Book of Genesis.” Jewish Quarterly Review new series 18 Printed separately (1927): pp. 1-35,153-206,267-314,385-435. doi: https://doi.org/10.2307/1451756. </title>
+                  <ptr target="https://jalit.org/bibl/LLJ52HJ7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblGIEM8E">
+                  <title>Skoss, Solomon Leon ed. David ben Abraham al-Fāsī (the Karaite): The Hebrew-Arabic Dictionary of the Bible Known as Kitāb Jāmiʿ al-Alfāẓ (Agron). (New Haven: Yale University Press, 1936).</title>
+                  <ptr target="https://jalit.org/bibl/GIEM8E"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblBXKTJXYT">
+                  <title>Skoss, Solomon L. The Arabic Commentary of Ali Ben Suleiman the Karaite on the Book of Genesis. (Dropsie College, 1926).</title>
+                  <ptr target="https://jalit.org/bibl/BXKTJXYT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblAF7SFGTG">
+                  <title>Skoss, Solomon Leon ed. The Arabic commentary of ‘Ali ben Suleimān the Karaite on the Book of Genesis. (Philadelphia: Dropsie College, 1928).</title>
+                  <ptr target="https://jalit.org/bibl/AF7SFGTG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIE7WW6D2">
+                  <title>Wechsler, Michael G. “ʿAlī ibn Sulaymān.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/*-SIM_000401. </title>
+                  <ptr target="https://jalit.org/bibl/IE7WW6D2"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZDHCPG">
+                  <title>Борисов, А Я. “О времени и месте жизни караимского писателя ‘Али ибн Сулеймана.” Палестинский Сборник 2 (1956): pp. 109-114.</title>
+                  <ptr target="https://jalit.org/bibl/ZDHCPG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2WB68E">
+                  <title>Познанский, Самуил. “Али бен-Сулейман.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 866-868.</title>
+                  <ptr target="https://jalit.org/bibl/2WB68E"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblGPKZFGPH">
+                  <title>בנעט, דצ. “לקביעת זמנו של עלי בן סלימאן הקראי.” תרביץ ב (1931): pp. 117-115.</title>
+                  <ptr target="https://jalit.org/bibl/GPKZFGPH"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblBWYZWIGU">
+                  <title>סקוז, שלמה ל. “לקביעת תקופת חייו של עלי בן סלימאן הקראי.” תרביץ ב (1931): pp. 513-510.</title>
+                  <ptr target="https://jalit.org/bibl/BWYZWIGU"/>
                </bibl>
                <idno type="URI" subtype="isni"/>
                <idno type="URI" subtype="viaf"/>
