@@ -17,8 +17,6 @@
                </editor>
             <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
@@ -45,6 +43,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-05-07T12:25:35.940Z">Added heritage data</change><change who="#admin" when="2024-04-24T13:49:56.752Z">updated spelling</change>
             <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
@@ -165,10 +164,137 @@
                <residence>
                   <placeName ref="" cert=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2XIG7LVG">
+                  <title>“Yosef ben Noaj.” Enciclopedia Judaica Castellana, (México: Editorial Enciclopedia Judaica Castellana, 1948), p. 552.</title>
+                  <ptr target="https://jalit.org/bibl/2XIG7LVG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl3MTZFC">
+                  <title>“Joseph ben Noah.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 192.</title>
+                  <ptr target="https://jalit.org/bibl/3MTZFC"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblC6G6FW6">
+                  <title>“Yusuf b Nuh.” In The Jewish encyclopedia, 7, edited by Cyrus Adler. (New York: Funk and Wagnalls, 1906), pp. 270, 440-441.</title>
+                  <ptr target="https://jalit.org/bibl/C6G6FW6"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblX6WBNWXY">
+                  <title>Bacher, Wilhelm. “Le Grammairien anonyme de Jérusalem et son livre.” In Revue des études juives, 30, (Paris: Peeters, 1880), pp. 232-256. https://catalog.hathitrust.org/Record/000679454. </title>
+                  <ptr target="https://jalit.org/bibl/X6WBNWXY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblYQ6RRIKL">
+                  <title>Broydé, Isaac. “Joseph ben Noah ha-Basri.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), p. 270.</title>
+                  <ptr target="https://jalit.org/bibl/YQ6RRIKL"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQQCEZ8D">
+                  <title>Cohen, Simon. “Yusuf b Nuh.” In The Universal Jewish encyclopedia: an authoritative and popular presentation of Jews and Judaism since the earliest times, 6, edited by Isaac Landman. (New York: Universal Jewish Encyclopedia, 1939), p. 192.</title>
+                  <ptr target="https://jalit.org/bibl/QQCEZ8D"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2GYK8U5Z">
+                  <title>Dachman, Joshua. “The Non-Triliteral Theory of Verbal Morphology of the Karaite Joseph IBN NŪH.”  doi: 10.1093/jss/fgad013. </title>
+                  <ptr target="https://jalit.org/bibl/2GYK8U5Z"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZI352UGN">
+                  <title>Fürst, Julius. “Yusuf b Nuh.” In Geschichte des Karäerthums bis 900 der gewöhnlichen Zeitrechnung: eine kurze Darstellung seiner Entwickelung, Lehre und Literatur, mit den dazugehörigen Quellennachweisen, (Nies'sche Buchdruckerei, 1862), pp. 19; 33; 67; 119; 120; 162; 178; 185; 242.</title>
+                  <ptr target="https://jalit.org/bibl/ZI352UGN"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl6T25LWFG">
+                  <title>Goldstein, Miriam. “Abū l-Faraj Hārūn (Jerusalem, 11th c) on majāz, between uṣūl al-naḥw, uṣūl al-fiqh and iʿjāz al-Qurʾān.” Der Islam 90, no. 2 (2013): pp. 376-411. doi: 10.1515/islam-2013-0012. </title>
+                  <ptr target="https://jalit.org/bibl/6T25LWFG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFEPI5G7E">
+                  <title>Goldstein, Miriam. The Pentateuch Exegesis of the Karaites Yusuf ibn Nuh and Abu al-Faraj Harun: An Examination of Method in the Context of the Contemporaneous Literary and Exegetical Approaches of Jews, Christians and Muslims. (Jerusalem: Hebrew University, 2006).</title>
+                  <ptr target="https://jalit.org/bibl/FEPI5G7E"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2ALFVCA">
+                  <title>Habib, Joseph. “Qere and ketiv in the exegesis of the Karaites and Saadya.” </title>
+                  <ptr target="https://jalit.org/bibl/2ALFVCA"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblWPGLLFTN">
+                  <title>Khan, Geoffrey. “Biblical exegesis and grammatical theory in the Karaite tradition.” </title>
+                  <ptr target="https://jalit.org/bibl/WPGLLFTN"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQJ3Q8FIC">
+                  <title>Khan, Geoffrey. “The Medieval Karaite Tradition of Hebrew Grammar.” The Foundations of Arabic Linguistics 65 (2012): pp. 211-230. doi: 10.1163/9789004229655_012. </title>
+                  <ptr target="https://jalit.org/bibl/QJ3Q8FIC"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblW53RNT7">
+                  <title>Khan, Geoffrey. “The Book of Hebrew Grammar by the Karaite Joseph Ben Noah.” Journal of Semitic Studies XLIII, no. 2 (1998): pp. 265-286.</title>
+                  <ptr target="https://jalit.org/bibl/W53RNT7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl3DW53PS3">
+                  <title>Khan, Geoffrey. “Ibn Nūḥ, Joseph (Abū Yaʿqūb Yūsuf).” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/ibn-nuh-joseph-abu-yaqub-yusuf-SIM_0010970. </title>
+                  <ptr target="https://jalit.org/bibl/3DW53PS3"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblTKS3PNM">
+                  <title>Khan, Geoffrey. “An early Karaite grammatical treatise.” In Esoteric and Exoteric Aspects in Judeo-Arabic Culture, 33, (Leiden: Brill, 2006), pp. 257-278.</title>
+                  <ptr target="https://jalit.org/bibl/TKS3PNM"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl8PKLV5BT">
+                  <title>Khan, Geoffrey. “The contribution of the Karaites to the study of the Hebrew language.” In Karaite Judaism: a guide to its history and literary sources, edited by Meira Polliack. (Leiden &amp; Boston: Brill, 2003), pp. 291-318. https://doi.org/10.1163/9789004294264_014. </title>
+                  <ptr target="https://jalit.org/bibl/8PKLV5BT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblARTIRH2">
+                  <title>Khan, Geoffrey. “The grammatical commentary on Hosea by the Karaite Yūsuf ibn Nūḥ.” In Studies on the Text and Versions of the Hebrew Bible in Honour of Robert Gordon, edited by Geoffrey Khan, and Diana Lipton. (Leiden: Brill, 2012), pp. 387-418.</title>
+                  <ptr target="https://jalit.org/bibl/ARTIRH2"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblNKSRYBG">
+                  <title>Khan, Geoffrey. The early Karaite tradition of Hebrew grammatical thought: including a critical edition, translation and analysis of the Diqduq of ʾAbū Yaʿqūb Yūsuf ibn Nūḥ on the Hagiographa. (Leiden &amp; Boston: Brill, 2000).</title>
+                  <ptr target="https://jalit.org/bibl/NKSRYBG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblBXZG7EQ7">
+                  <title>Markon, Isaac. “Josef ben Noah (Abu Yakub ben Noah).” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 370-371.</title>
+                  <ptr target="https://jalit.org/bibl/BXZG7EQ7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblKV7WVDRZ">
+                  <title>Markon, Isaac. “Joseph ben Noah (Abu Yaʿqūb Yūsuf ibn Nūh).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 235.</title>
+                  <ptr target="https://jalit.org/bibl/KV7WVDRZ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2CLN3F8">
+                  <title>Markon, Isaac. “Joseph ben Noah (Abu Yaʿqūb Yūsuf ibn Nūh).” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 425.</title>
+                  <ptr target="https://jalit.org/bibl/2CLN3F8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblTDJLEQGP">
+                  <title>Markon, Isaac. “Josef (Abu Jakub) ben Noa.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), p. 340.</title>
+                  <ptr target="https://jalit.org/bibl/TDJLEQGP"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2V8HLBE">
+                  <title>Niessen, Friedrich. “Early Karaite Grammatical Thought As Reflected In A Commentary On Hosea.” In From a Sacred Source, 42, edited by Siam Bhayro, and Ben Outhwaite. (Leiden: Brill, 2011), pp. 219-235.</title>
+                  <ptr target="https://jalit.org/bibl/2V8HLBE"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblB6CKGGBM">
+                  <title>Olszowy-Schlanger, Judith. “Early Qaraite Grammarians and their Concept of the Hebrew «Root».” Histoire Épistémologie Langage 21, no. 2 (1999): pp. 101-122. doi: 10.3406/hel.1999.2749. </title>
+                  <ptr target="https://jalit.org/bibl/B6CKGGBM"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblEJ8ND2IY">
+                  <title>Pinsker, Simḥa. “Yusuf b Nuh.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), p. 25.</title>
+                  <ptr target="https://jalit.org/bibl/EJ8ND2IY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblCHSFDE5K">
+                  <title>Skoss, Solomon L. “The Arabic Commentary of 'Ali ben Suleimān the Karaite on the Book of Genesis Introduction I.” The Jewish Quarterly Review 18, no. 1 (1927): pp. 1-35. doi: 10.2307/1451756. </title>
+                  <ptr target="https://jalit.org/bibl/CHSFDE5K"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIUGZTRY">
+                  <title>Steinschneider, Moritz. “Yusuf b Nuh.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 88-89.</title>
+                  <ptr target="https://jalit.org/bibl/IUGZTRY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl7THH3QT7">
+                  <title>Wechsler, Michael G. “An Early Karaite Commentary on the Book of Esther.” Hebrew Union College Annual 72 (2001): pp. 101-137.</title>
+                  <ptr target="https://jalit.org/bibl/7THH3QT7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblPJTM5CSH">
+                  <title>Zawanowska, Marzena. “Yefet and His Times.” In The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Abraham Narratives (Genesis 11:10–25:18), (Leiden: Brill, 2012) https://brill.com/view/book/edcoll/9789004226388/B9789004226388_002.xml. </title>
+                  <ptr target="https://jalit.org/bibl/PJTM5CSH"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5V5S7AVQ">
+                  <title>Zawanowska, Marzena, and Meira Polliack. “God Would not Give the Land, but to the Obedient: Medieval Karaite Responses to the Curse of Canaan (Genesis 9: 25).” In The Gift of the Land and the Fate of the Canaanites in Jewish Thought, edited by Katell Berthelot, Joseph E. David , and Marc Hirshmann. (New York: Oxford University Press, 2014), pp. 112-152.</title>
+                  <ptr target="https://jalit.org/bibl/5V5S7AVQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIVIIBAJH">
+                  <title>Познанский, Самуил. “Иосиф (Абу Якуб) бен Ноах.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 870-871.</title>
+                  <ptr target="https://jalit.org/bibl/IVIIBAJH"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblR7ESCVJ2">
+                  <title>גולדשטיין, מרים. “התפקיד המבני של הייתור במקרא לפי פרשנותו של יוסף אבן נוח הקראי.” ספונות 23, no. ח(כג) (2003): pp. 349-370.</title>
+                  <ptr target="https://jalit.org/bibl/R7ESCVJ2"/>
                </bibl>
                <idno type="URI" subtype="isni">https://isni.org/isni/000000011663660X</idno>
                <idno type="URI" subtype="viaf"/>

@@ -17,8 +17,6 @@
                </editor>
             <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
@@ -44,6 +42,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-05-07T12:34:12.407Z">Added heritage data</change><change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -126,10 +125,69 @@
                <residence>
                   <placeName ref="" cert=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbiblPHFV5AID">
+                  <title>“David ben Boaz.” Enciclopedia Judaica Castellana, (México: Editorial Enciclopedia Judaica Castellana, 1948), p. 367.</title>
+                  <ptr target="https://jalit.org/bibl/PHFV5AID"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblCNWWBXGB">
+                  <title>“David ben Boaz.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), p. 461.</title>
+                  <ptr target="https://jalit.org/bibl/CNWWBXGB"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblMG2XN67D">
+                  <title>“Давид бен Боаз.” Еврейская энциклопедия, (С.-Петербургъ: Брокгауза и Ефрона, 1908), pp. 892-893.</title>
+                  <ptr target="https://jalit.org/bibl/MG2XN67D"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5TKTZK8">
+                  <title>Gil, Moshe. “Salmon ben Jeroham.” In A History of Palestine, 634–1099, (Cambridge: Cambridge University Press, 1992), pp. 67; 72; 112; 180; 347; 618; 620; 652; 782; 796; 798; 806.</title>
+                  <ptr target="https://jalit.org/bibl/5TKTZK8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZE6SXE">
+                  <title>Horowitz, Yehoshua. “David ben Boaz.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 1349.</title>
+                  <ptr target="https://jalit.org/bibl/ZE6SXE"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblKY87AW77">
+                  <title>Horowitz, Yehoshua. “David ben Boaz.” Encyclopaedia Judaica, (Detroit: Gale, 2007), pp. 465-466.</title>
+                  <ptr target="https://jalit.org/bibl/KY87AW77"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblMYZW7EEL">
+                  <title>Markon, Isaac. “David ben Boas.” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 839-840.</title>
+                  <ptr target="https://jalit.org/bibl/MYZW7EEL"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2FH8DJ7">
+                  <title>Pinsker, Simḥa. “David b Hassun.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), 1, (Wien: Adalbert della Torre, 1860), p. 170.</title>
+                  <ptr target="https://jalit.org/bibl/2FH8DJ7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblCHVZZHHE">
+                  <title>Polliack, Meira ed. Karaite Judaism: a guide to its history and literary sources. (Leiden &amp; Boston: Brill, 2003).</title>
+                  <ptr target="https://jalit.org/bibl/CHVZZHHE"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
+                  <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
+                  <ptr target="https://jalit.org/bibl/EFVRVADD"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblLWLQQ2EN">
+                  <title>Poznański, Samuel Abraham. “David b Hassun.” Jewish Quarterly Review 19 (1907): pp. 59-83.</title>
+                  <ptr target="https://jalit.org/bibl/LWLQQ2EN"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQBVLWE8">
+                  <title>Robinson, James T ed. Asceticism, eschatology, opposition to philosophy: The Arabic translation and commentary of Salmon ben Yeroham on Qohelet (Ecclesiastes). (Leiden: Brill, 2012).</title>
+                  <ptr target="https://jalit.org/bibl/QBVLWE8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblGH362EMZ">
+                  <title>Steinschneider, Moritz. “David b Hassun.” In Die arabische Literatur der Juden, (Frankfurt am Main: J. Kauffmann, 1902), pp. 85-86 [46].</title>
+                  <ptr target="https://jalit.org/bibl/GH362EMZ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblUX2H7I3U">
+                  <title>Wechsler, Michael G. “David ben Boaz.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/david-ben-boaz-SIM_0006350. </title>
+                  <ptr target="https://jalit.org/bibl/UX2H7I3U"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIUJGB3B6">
+                  <title>גיל, משה. “קדמוניות הקראים.” In חקר הגניזה לאחר מאה שנה, edited by מרדכי עקיבא פרידמן. (תל אביב: אוניברסיטת תל אביב, 1999), pp. 71-107.</title>
+                  <ptr target="https://jalit.org/bibl/IUJGB3B6"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl8JJ3ENZ">
+                  <title>הורוביץ, יהושע. “דוד בן בועז.” אנציקלופדיה העברית, (ירושלים), pp. 79-78.</title>
+                  <ptr target="https://jalit.org/bibl/8JJ3ENZ"/>
                </bibl>
                <idno type="URI" subtype="isni"/>
                <idno type="URI" subtype="viaf">http://viaf.org/viaf/29145304382178571475</idno>

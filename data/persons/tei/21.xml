@@ -17,8 +17,6 @@
                </editor>
             <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson
-               </editor>
             <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
@@ -44,6 +42,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-05-07T12:40:34.447Z">Added heritage data</change><change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -125,10 +124,38 @@
                <residence>
                   <placeName ref="" cert=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               
+               <bibl type="bibliography" xml:id="jalit-orgbiblBEDNTG6H">
+                  <title>“Abul Tayyib Samuel ben Asher al-Jabali.” Wikipédia, https://fr.wikipedia.org/wiki/Abul_Tayyib_Samuel_ben_Asher_al-Jabali. </title>
+                  <ptr target="https://jalit.org/bibl/BEDNTG6H"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblE33FJSDZ">
+                  <title>Dotan, Aron. Ben Asher's creed: a study of the history of the controversy. (Missoula, Montana: Scholars Press, 1977).</title>
+                  <ptr target="https://jalit.org/bibl/E33FJSDZ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblJFXF5WW8">
+                  <title>Gil, Moshe. “Abū’l-Ṭayyib Samuel b Asher al-Jabali one of the leaders of the Karaites in Saadia Gaon's generation.” In A History of Palestine, 634-1009, (Cambridge University Press, 1992), p. 182.</title>
+                  <ptr target="https://jalit.org/bibl/JFXF5WW8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblC7IXIWA">
+                  <title>Nemoy, Leon. “Abu Al-Tayyib Al-Jibali.” In Joshua Finkel Festschrift: In honor of Joshua Finkel, edited by Sidney B. Hoenig, and Leon D. Stitskin. (New York: Yeshiva University Press, 1974), pp. 139-141.</title>
+                  <ptr target="https://jalit.org/bibl/C7IXIWA"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblVBZILGY">
+                  <title>Poznański, Samuel Abraham. “Jabalī, Abu al-Ṭayyib al-.” The Jewish Encyclopedia, (New York &amp; London: Funk and Wagnalls, 1904), p. 16. https://www.jewishencyclopedia.com/articles/8366-jabali-abu-al-tayyib-al. </title>
+                  <ptr target="https://jalit.org/bibl/VBZILGY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblP5FX36G">
+                  <title>Simchoni, Jacob Naphtali Herz. “Abu al-Tajib al-Dschabali.” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 620-621.</title>
+                  <ptr target="https://jalit.org/bibl/P5FX36G"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblDGZ7QBIS">
+                  <title>Steinschneider, Moritz. “Abu l-Tayyib al-Jibali.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankurt: J. Kauffmann, 1902), p. 348+32 [here §§ 30, 42, 196].</title>
+                  <ptr target="https://jalit.org/bibl/DGZ7QBIS"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblB36UXW6W">
+                  <title>Познанский, Самуил. “Абу л-Таииб ал-Джибали.” Еврейская энциклопедия, (С.-Петербургъ: Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 179-180.</title>
+                  <ptr target="https://jalit.org/bibl/B36UXW6W"/>
                </bibl>
                <idno type="URI" subtype="isni"/>
                <idno type="URI" subtype="viaf"/>
