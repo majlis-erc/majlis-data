@@ -17,7 +17,6 @@
                     </editor>
                 <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                     </editor>
-                
                 <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                     </editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
@@ -74,6 +73,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-03-04T08:41:25.828Z">testing source references</change><change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
         </revisionDesc>
     </teiHeader>
@@ -263,10 +263,193 @@
                     <residence>
                         <placeName ref="" cert="" source=""/>
                     </residence>
-                    <bibl xml:id="jalit-orgbiblH2RX9HNC">
-                        <idno>Daniel Ben Moses Al-Qūmisī,</idno>
-                        <title type="citation">Daniel Ben Moses Al-Qūmisī, in Encyclopaedia Judaica (Jerusalem: Keter, 1972 1971).</title>
-                        <ptr target="https://jalit.org/bibl/H2RX9HNC"/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEPIWJ6P">
+                        <title>“Daniel ben Moises al-Kumisi.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 381.</title>
+                        <ptr target="https://jalit.org/bibl/EPIWJ6P"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5MWPP3CJ">
+                        <title>“Daniel ben Moshe al-Kumisi (or al-Damagani).” Enciclopedia Judaica Castellana, (México: Editorial Enciclopedia Judaica Castellana, 1948), p. 355.</title>
+                        <ptr target="https://jalit.org/bibl/5MWPP3CJ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblH2RXHNC">
+                        <title>“Daniel ben Moses al-Qūmisī.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 1292-1293.</title>
+                        <ptr target="https://jalit.org/bibl/H2RXHNC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFIHRKS8M">
+                        <title>“Daniel ben Moses al-Qūmisī.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 428.</title>
+                        <ptr target="https://jalit.org/bibl/FIHRKS8M"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblYBCGJCJ7">
+                        <title>“Daniel ben Moses al-Qumisi.” In The Jewish encyclopedia, 4, edited by Cyrus Adler. (New York: Funk and Wagnalls, 1906), pp. 432-434.</title>
+                        <ptr target="https://jalit.org/bibl/YBCGJCJ7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblPD2LWH63">
+                        <title>Bacher, Wilhelm. “Qirqisani, the Karaite, and his Work on Jewish Sects.” The Jewish Quarterly Review 7, no. 4 (1895): pp. 687-710. doi: 10.2307/1449971. </title>
+                        <ptr target="https://jalit.org/bibl/PD2LWH63"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl86URLB">
+                        <title>Ben-Shammai, Haggai. “Fragments of Daniel al-Qumisi's commentary on the Book of Daniel as a historical source.” </title>
+                        <ptr target="https://jalit.org/bibl/86URLB"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRUQCKK7">
+                        <title>Cohn-Sherbok, Dan. “Daniel ben Moses al-Qumisi.” In Dictionary of Jewish Biography, (London: A&amp;C Black, 2006), p. 58.</title>
+                        <ptr target="https://jalit.org/bibl/RUQCKK7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTY6HXC">
+                        <title>“Daniel ben Moses al-Qumisi.” In The Cambridge Companion to Medieval Jewish Philosophy, edited by Daniel H. Frank, and Oliver Leaman. (Cambridge: Cambridge University Press, 2003), p. 77.</title>
+                        <ptr target="https://jalit.org/bibl/TY6HXC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblUFQEIGR">
+                        <title>Fürst, Julius. “Daniel ben Moses al-Qumisi.” In Geschichte des Karäerthums bis 900 der gewöhnlichen Zeitrechnung: eine kurze Darstellung seiner Entwickelung, Lehre und Literatur, mit den dazugehörigen Quellennachweisen, 1, (Leipzig: Nies'sche Buchdruckerei, 1862), pp. 54; 71; 78.</title>
+                        <ptr target="https://jalit.org/bibl/UFQEIGR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDT27IJ3B">
+                        <title>Fürst, Julius. “Daniel ben Moses al-Qumisi.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 19; 37; 234; 257. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl. </title>
+                        <ptr target="https://jalit.org/bibl/DT27IJ3B"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVSC52VAX">
+                        <title>Gordon, Nehemia. “Does Scripture Really Only Have One Meaning? A Study of Daniel al-Qumisi's Exegetical Approach in Pitron Shnem ʿAsar / האומנם רק משמעות אחת למקרא? עיון בגישתו הפרשנית של דניאל אלקומסי ב'פתרון שנים עשר'.” Tarbiz / תרביץ עו, no. ג/ד (2007): pp. 385-414.</title>
+                        <ptr target="https://jalit.org/bibl/VSC52VAX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGXN6QZJ">
+                        <title>Harkavy, Abraham. “Proben aus den ältesten Karäischen Werken.” Magazin für die Wissenschaft des Judenthums 20 (1893): pp. 224-228.</title>
+                        <ptr target="https://jalit.org/bibl/GXN6QZJ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGW3ILVWD">
+                        <title>Kalimi, Isaak. “Die Auseinandersetzung mit den internen und äußeren Opponenten in mittelalterlicher-jüdischer Schriftauslegung.”  115, no. 1 (2003): pp. 73-87. doi: 10.1515/zatw.2003.007. </title>
+                        <ptr target="https://jalit.org/bibl/GW3ILVWD"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl3NRNXDJP">
+                        <title>Lasker, Daniel J. “Rabbanism and Karaism: the contest for supremacy.” </title>
+                        <ptr target="https://jalit.org/bibl/3NRNXDJP"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblVECEXFFS">
+                        <title>Lasker, Daniel J. “Karaite Attitudes towards Religion and Science.” In From Judah Hadassi to Elijah Bashyatchi, (Leiden: Brill, 2008), pp. 15-28. https://brill.com/display/book/9789047442271/B9789047442271-s003.xml. </title>
+                        <ptr target="https://jalit.org/bibl/VECEXFFS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblATFAQ">
+                        <title>Lowin, Shari L. “A Prophet Like Moses?: What can we know about the early Jewish responses to Muḥammad's claims of Mosesness?.” </title>
+                        <ptr target="https://jalit.org/bibl/ATFAQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5JX3VNKN">
+                        <title>Mann, Jacob. “Daniel ben Moses al-Qumisi.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), pp. 26-30; 37; 39; 70-77; 88; 95-98; 102-104; 106-108; 11; 150; 161.</title>
+                        <ptr target="https://jalit.org/bibl/5JX3VNKN"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDS5EN5B">
+                        <title>Markon, Isaac. “Daniel al-Kumisi, ein Karäischer Schrifterklärer des IX Jahrhunderts.” Korrespondenzblatt des Vereins zur Gründung und Erhaltung einer Akademie für die Wissenschaft des Judentums 8 (1927): pp. 18-30.</title>
+                        <ptr target="https://jalit.org/bibl/DS5EN5B"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNAC6NGDJ">
+                        <title>Markon, Isaac. “Daniel ben Moses Alkumisi oder Aldamagani.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), pp. 28-29.</title>
+                        <ptr target="https://jalit.org/bibl/NAC6NGDJ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBHV6HEL">
+                        <title>Marmorstein, Arthur. “Fragments du Commentaire De Daniel Al-Kumissi Sur Les Psaumes.” </title>
+                        <ptr target="https://jalit.org/bibl/BHV6HEL"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7EPYVL5B">
+                        <title>Marwick, Lawrence. “Daniel al-Qumisi and the Pitron Shenem 'Asar.” Studies in Bibliography and Booklore 5 (1961): p. 42.</title>
+                        <ptr target="https://jalit.org/bibl/7EPYVL5B"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6F6T2KF8">
+                        <title>Nemoy, Leon. “Daniel ben Moses al-Kumisi.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 467.</title>
+                        <ptr target="https://jalit.org/bibl/6F6T2KF8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBUH3EFW2">
+                        <title>Netzer, Amnon. “Dānīāl b Mošeh Qūmesī.” Encyclopedia Iranica, (1993), pp. 656-657. http://www.iranica.com. </title>
+                        <ptr target="https://jalit.org/bibl/BUH3EFW2"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXQGKLC7">
+                        <title>Pinsker, Simḥa. “Daniel ben Moses al-Qumisi.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), p. 38.</title>
+                        <ptr target="https://jalit.org/bibl/XQGKLC7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLITJ6U8F">
+                        <title>Polliack, Meira. “Wherein lies the Pesher?: Re-questioning the Connection Between the Medieval Karaite and Qumranic Modes of Biblical Interpretation.” </title>
+                        <ptr target="https://jalit.org/bibl/LITJ6U8F"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5RL5S5D">
+                        <title>Polliack, Meira. “Historicizing prophetic literature: Yefet ben ʿEli’s commentary on Hosea and its relationship to al-Qūmisī’s Pitrōn.” In Pesher Naḥum: texts and studies in Jewish history and literature from Antiquity through the Middle Ages, presented to Norman (Naḥum) Golb, edited by Joel L. Kraemer, and Michael G. Wechsler. (Chicago: The Oriental Institute of the University of Chicago, 2012), pp. 149-186. https://oi-idb.uchicago.edu/id/9d6f8f84-e638-4b4c-9179-ef52d36c4a6d. </title>
+                        <ptr target="https://jalit.org/bibl/5RL5S5D"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGUCAZ37N">
+                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly Review 8, no. 4 (1896): pp. 681-704. doi: https://doi.org/10.2307/1450208. </title>
+                        <ptr target="https://jalit.org/bibl/GUCAZ37N"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
+                        <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
+                        <ptr target="https://jalit.org/bibl/EFVRVADD"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7ZW8ZILW">
+                        <title>Poznański, Samuel. “Daniel ben Moses al-Kumisi, or al-Damagani.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), pp. 432-434.</title>
+                        <ptr target="https://jalit.org/bibl/7ZW8ZILW"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFD2VEYJE">
+                        <title>Rosenkranz Verhelst, Simone. “Juden, Christen, Muslime und die Erwähnung der Ka'ba bei Daniel al-Qumisi.” </title>
+                        <ptr target="https://jalit.org/bibl/FD2VEYJE"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2U7HBX7C">
+                        <title>Scheiber, Sandor. “Daniel al-Qûmisî's commentary on Leviticus, from the Geniza.” </title>
+                        <ptr target="https://jalit.org/bibl/2U7HBX7C"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBYK27JAP">
+                        <title>Sievert, Rosemarie. “Daniel ben Moses al-Qumisi.” In Isaak ben Abraham aus Troki im christlich-jüdischen Gespräch der Reformationszeit, (Münster: LIT Verlag Münster, 2005), pp. 7-8.</title>
+                        <ptr target="https://jalit.org/bibl/BYK27JAP"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblHJ22ZT3W">
+                        <title>Sklare, David E. “Qumisi, Daniyye’l ben Mosheh al- (c 840– 900).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 564.</title>
+                        <ptr target="https://jalit.org/bibl/HJ22ZT3W"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZ7H573">
+                        <title>Walfish, Barry, and Meira Polliack. “The Role of Gog in Daniel al-Qūmisī’s Eschatology.” In Polemical and Exegetical Polarities in Medieval Jewish Cultures: Studies in Honour of Daniel J Lasker, (Berlin &amp; Boston: De Gruyter, 2021), pp. 59-76. https://www.degruyter.com/document/doi/10.1515/9783110702262/html. </title>
+                        <ptr target="https://jalit.org/bibl/Z7H573"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFT2L6TLT">
+                        <title>Wandrey, Irina. “Daniel ben Moses al-Qumisi.” In "Das Buch des Gewandes" und "Das Buch des Aufrechten": Dokumente eines magischen spätantiken Rituals, ediert, kommentiert und übersetzt, (Tübingen: Mohr Siebeck, 2004), pp. 10; 12; 71.</title>
+                        <ptr target="https://jalit.org/bibl/FT2L6TLT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2WPY62Z3">
+                        <title>Wieder, N. “The Qumran Sectaries and the Karaites.” The Jewish Quarterly Review 47, no. 2 (1956): pp. 97-113. doi: 10.2307/1453223. </title>
+                        <ptr target="https://jalit.org/bibl/2WPY62Z3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFYYN7G">
+                        <title>Wieder, Naphtali. “The Qumran sectaries and the Karaites (Continued).” The Jewish Quarterly Review 47, no. 3 (1957): pp. 269-292. doi: 10.2307/1452954. </title>
+                        <ptr target="https://jalit.org/bibl/FYYN7G"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDAFTZRQ">
+                        <title>Zawanowska, Marzena. “Daniel ben Moses al-Qumisi.” In The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Abraham Narratives (Genesis 11:10–25:18), (Leiden: Brill, 2012), pp. 4;18-19. https://brill.com/view/book/edcoll/9789004226388/B9789004226388_002.xml. </title>
+                        <ptr target="https://jalit.org/bibl/DAFTZRQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblYVQ2HCUF">
+                        <title>Zobel, Moshe Nahum, and Isaak Markon. “Daniel ben Mose Kumissi.” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 779-782.</title>
+                        <ptr target="https://jalit.org/bibl/YVQ2HCUF"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7ELVQ">
+                        <title>Познанский, Самуил. “Даниил бен-Моисей Кумиси, или Дамагани.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 945-950.</title>
+                        <ptr target="https://jalit.org/bibl/7ELVQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl28LMT5BE">
+                        <title>אנקורי, צבי. “על פתרון שנים עשר לדניאל אלקומסי &lt;מאמר ביקורת&gt;.” </title>
+                        <ptr target="https://jalit.org/bibl/28LMT5BE"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblN5QJI3Z">
+                        <title>ארדר, יורם. “פרשנותו של הקרא דניאל אלקומסי לסיפור הקמת המשכן.” </title>
+                        <ptr target="https://jalit.org/bibl/N5QJI3Z"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8D2H5VHX">
+                        <title>בן שמאי, חגי. “שרידי פירוש דניאל לדניאל אלקומסי כמקור היסטורי לתולדות ארץ ישראל.” </title>
+                        <ptr target="https://jalit.org/bibl/8D2H5VHX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8HYCQXK">
+                        <title>בן-ששון, חיים הלל. “דניאל בן משה אלקומסי.” אנציקלופדיה העברית, (ירושלים: Encyclopaedia Publishing Company, 1949), pp. 877-878.</title>
+                        <ptr target="https://jalit.org/bibl/8HYCQXK"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBSPCHGZ8">
+                        <title>פוליאק, מאירה. “על תודעת הפשט הימי-ביניימית ותרומתו של דניאל אלקומיסי לעיון סמנטי במקרא.” </title>
+                        <ptr target="https://jalit.org/bibl/BSPCHGZ8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7AEDP8G">
+                        <title>שוחט, עזריאל. “השקפותיו של דניאל אלקומסי על הנבואה, התורה שבעל פה, הגלות והגאולה.” </title>
+                        <ptr target="https://jalit.org/bibl/7AEDP8G"/>
                     </bibl>
                     <idno type="URI" subtype="isni">https://isni.org/isni/0000000393588642</idno>
                     <idno type="URI" subtype="viaf">http://viaf.org/viaf/287929366</idno>

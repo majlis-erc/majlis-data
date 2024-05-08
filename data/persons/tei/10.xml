@@ -17,7 +17,6 @@
                </editor>
             <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            
             <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
@@ -43,6 +42,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-05-07T12:50:54.674Z">Added heritage data</change><change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -137,10 +137,185 @@
                <residence>
                   <placeName ref="" cert=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFB5CSK8">
+                  <title>“Levi ben Jafet.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 771.</title>
+                  <ptr target="https://jalit.org/bibl/FB5CSK8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblV5KU3L">
+                  <title>“Levi ben Japheth (Abu Sa‛id).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 99-100.</title>
+                  <ptr target="https://jalit.org/bibl/V5KU3L"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl8YJPKD5E">
+                  <title>“Levi ben Japheth (Abu Sa‛id).” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 702.</title>
+                  <ptr target="https://jalit.org/bibl/8YJPKD5E"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRSCHAHP">
+                  <title>“Levi ben Japhet.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 622.</title>
+                  <ptr target="https://jalit.org/bibl/RSCHAHP"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblAGSNQZE">
+                  <title>Ankori, Zvi. Karaites in Byzantium: the formative years, 970-1100. (New York &amp; Jerusalem: Columbia University Press &amp; Weizmann Science Press of Israel, 1959).</title>
+                  <ptr target="https://jalit.org/bibl/AGSNQZE"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblX6WBNWXY">
+                  <title>Bacher, Wilhelm. “Le Grammairien anonyme de Jérusalem et son livre.” In Revue des études juives, 30, (Paris: Peeters, 1880), pp. 232-256. https://catalog.hathitrust.org/Record/000679454. </title>
+                  <ptr target="https://jalit.org/bibl/X6WBNWXY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblWKLVQITS">
+                  <title>Ben-Shammai, Haggai. “Jerusalem in Early Medieval Jewish Bible Exegesis.” In Jerusalem its sanctity and centrality to Judaism Christianity and Islam, edited by Lee I. Levine. (New York: Continuum, 1999), pp. 447-464.</title>
+                  <ptr target="https://jalit.org/bibl/WKLVQITS"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblV5F2LRQK">
+                  <title>Ben-Shammai, Haggai. “The Karaites.” In The History of Jerusalem: The Early Muslim Period (638-1099), edited by Joshua Prawer. (New York: New York University Press, 1996), pp. 201-225.</title>
+                  <ptr target="https://jalit.org/bibl/V5F2LRQK"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblUNKXTULP">
+                  <title>Broydé, Isaac. “Levi ben Japhet (ha-Levi) Abu Sa’id.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), p. 33.</title>
+                  <ptr target="https://jalit.org/bibl/UNKXTULP"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQ2PJPKXC">
+                  <title>David, Joseph E. “Selfness and kinship in Medieval Karaite incest laws.” </title>
+                  <ptr target="https://jalit.org/bibl/Q2PJPKXC"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblW6VZEFBB">
+                  <title>Erder, Yoram. “Early Karaite Conceptions about Commandments Given before the Revelation of the Torah.” Proceedings of the American Academy for Jewish Research 60 (1994): pp. 101-140. doi: 10.2307/3622571. </title>
+                  <ptr target="https://jalit.org/bibl/W6VZEFBB"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQ76DVNAT">
+                  <title>Frank, Daniel. “The Shoshanim of tenth-century Jerusalem: Karaite exegesis, prayer, and communal identity.” In The Jews of Medieval Islam, (Leiden: Brill, 1995), pp. 207-212. https://brill.com/view/book/edcoll/9789004493230/B9789004493230_s015.xml. </title>
+                  <ptr target="https://jalit.org/bibl/Q76DVNAT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblWN7PTG7J">
+                  <title>Kokowzow, P. “Notitia codicum hebraicorum a Museo Asiatico Academiae Imperialis Scientiarum Petropolitanae anno 1904 acquisitorum.” Bulletin de l’Académie Impériale des Sciences de St.-Pétersbourg ser. 5, t. 23 (1905): pp. 1-10.</title>
+                  <ptr target="https://jalit.org/bibl/WN7PTG7J"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblGYA5T6XN">
+                  <title>Madelung, Wilferd. “Muʿtazilī theology in Levi ben Yefet’s Kitāb al-Niʿma.” Intellectual History of the Islamicate World 2, no. 1-2 (2014): pp. 9-17. doi: 10.1163/2212943X-00201002. </title>
+                  <ptr target="https://jalit.org/bibl/GYA5T6XN"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQXQ5MQ8L">
+                  <title>Markon, Isaac. “Levi ben Jafet.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), pp. 1067-1068.</title>
+                  <ptr target="https://jalit.org/bibl/QXQ5MQ8L"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQBCSSP7">
+                  <title>Marwick, Lawrence. “A First Fragment from David b Abraham al-Fasi's Commentary on Psalms.” Studies in Bibliography and Booklore 6, no. 2 (1962): pp. 53-72.</title>
+                  <ptr target="https://jalit.org/bibl/QBCSSP7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl8DSDRY5M">
+                  <title>Meier, Johannes. “Levi ben Yefet.” In Diatribe de origine et caussis festorum, (Amsterdam: Johannes Wolters, 1693), pp. 135-138 [XXII]. https://www.digitale-sammlungen.de/de/view/bsb11254791. </title>
+                  <ptr target="https://jalit.org/bibl/8DSDRY5M"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblDCRQRPA">
+                  <title>Neubauer, Adolf. “Levi ben Yefet.” In Aus der Petersburger Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und der karäischen Literatur, (Leipzig: O. Leiner, 1866), pp. 18-19.</title>
+                  <ptr target="https://jalit.org/bibl/DCRQRPA"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblB6CKGGBM">
+                  <title>Olszowy-Schlanger, Judith. “Early Qaraite Grammarians and their Concept of the Hebrew «Root».” Histoire Épistémologie Langage 21, no. 2 (1999): pp. 101-122. doi: 10.3406/hel.1999.2749. </title>
+                  <ptr target="https://jalit.org/bibl/B6CKGGBM"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblXC5DMK5G">
+                  <title>Olszowy-Schlanger, Judith. “Levi ben Yefet.” In Karaite Marriage Documents from the Cairo Geniza: Legal Tradition and Community Life in Mediaeval Egypt and Palestine, (Leiden: Brill, 1998), p. 46, 50, 249.</title>
+                  <ptr target="https://jalit.org/bibl/XC5DMK5G"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblYE86RXDT">
+                  <title>Pinsker, Simḥa. “Levi ben Yefet.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), pp. 68; 109; 111; 119; 121; 169; 217; 219; 222.</title>
+                  <ptr target="https://jalit.org/bibl/YE86RXDT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2VWGYI2">
+                  <title>Polliack, Meira. “The Jerusalem Karaites and their Concepts of Translation and Scriptural Interpretation.” In The Karaite Tradition of Arabic Bible Translation, 17, (Leiden: Brill, 1997)</title>
+                  <ptr target="https://jalit.org/bibl/2VWGYI2"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
+                  <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
+                  <ptr target="https://jalit.org/bibl/EFVRVADD"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblLKMKUTL7">
+                  <title>Sasson, Ilana. “Gender Equality in Yefet Ben ʿEli's Commentary and Karaite Halakhah.” AJS Review 37, no. 1 (2013): pp. 51-74.</title>
+                  <ptr target="https://jalit.org/bibl/LKMKUTL7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblS6SXUWBA">
+                  <title>Selden, John. “Levi ben Yefet.” In Uxor Ebraica: seu de nuptiis &amp; divortiis ex iure civili, id est, divino &amp; tamuldico, veterum ebraeorum, libri tres, (London: R. Bishop, 1646), p. 11. https://books.google.es/books?id=wIv9ha3OZ0MC. </title>
+                  <ptr target="https://jalit.org/bibl/S6SXUWBA"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblL7AGLL35">
+                  <title>Sklare, David. “Levi ben Yefet and his Kitāb al-Niʿma: selected texts.” In A common rationality: Muʿtazilism in Islam and Judaism, edited by Camilla Adang, Sabine Schmidtke , and David Sklare. (Würzburg: Ergon Verlag in Kommission, 2007), pp. 157-216. https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts. </title>
+                  <ptr target="https://jalit.org/bibl/L7AGLL35"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblYS5VRQK7">
+                  <title>Sklare, David E. “Levi ben Yefet (10th–11th c).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 416.</title>
+                  <ptr target="https://jalit.org/bibl/YS5VRQK7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblU857XS27">
+                  <title>Skoss, Solomon Leon. “Levi ben Jafet ha-Levi.” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 858-860.</title>
+                  <ptr target="https://jalit.org/bibl/U857XS27"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblS8WFC6QZ">
+                  <title>Steinschneider, Moritz. “Jüdische Literatur.” Allgemeine Encyclopädie der Wissenschaften und Künste, edited by Johann Samuel Ersch, and Johann Gottfried Gruber (Leipzig: F. A. Brockhaus, 1850), pp. 357-471. https://gdz.sub.uni-goettingen.de/id/PPN362303401. </title>
+                  <ptr target="https://jalit.org/bibl/S8WFC6QZ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblSUPSJCT3">
+                  <title>Steinschneider, Moritz. “Levi ben Yefet.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 85-86.</title>
+                  <ptr target="https://jalit.org/bibl/SUPSJCT3"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblUXHBFICG">
+                  <title>Steinschneider, Moritz. “Levi ben Yefet.” In Polemische und apologetische Literatur in arabischer Sprache zwischen Muslimen, Christen und Juden, nebst Anhängen verwandten Inhalts, (Leipzig: In Commission bei F. A. Brockhaus, 1877), p. 309.</title>
+                  <ptr target="https://jalit.org/bibl/UXHBFICG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl65CEVPWI">
+                  <title>Tirosh-Becker, Ofra. “Karaite Judeo-Arabic translations of Mishnah Rosh ha-Shanah: on the meaning of Baʿalil.” The Jewish Quarterly Review 95, no. 3 (2005): pp. 530-556.</title>
+                  <ptr target="https://jalit.org/bibl/65CEVPWI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblNAHXXJH">
+                  <title>Vajda, Georges. “La lex orandi de la communauté karaïte d'après Lévi ben Yefet.” Revue des études juives 134, no. 1-2 (1975): pp. 3-45.</title>
+                  <ptr target="https://jalit.org/bibl/NAHXXJH"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblXKYZFAGZ">
+                  <title>Vidro, Nadia. “On the Date of Composition of the Book of Commandments by the Qaraite Levi b Yefet.” Zutot 20 (2023): pp. 1-11. doi: 10.1163/18750214-bja10033. </title>
+                  <ptr target="https://jalit.org/bibl/XKYZFAGZ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2AHY8CU">
+                  <title>Vidro, Nadia. “Aviv barley and calendar diversity among Jews in eleventh-century Palestine.” Journal of Jewish Studies 72, no. 2 (2021): pp. 283-312. doi: https://doi.org/10.18647/3504/jjs-2021. </title>
+                  <ptr target="https://jalit.org/bibl/2AHY8CU"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblMUDABV2">
+                  <title>Wechsler, Michael G. “Levi (Abū Saʿīd) ben Japheth.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/*-SIM_0013600. </title>
+                  <ptr target="https://jalit.org/bibl/MUDABV2"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblLPCVC5">
+                  <title>Wolf, Johann Christoph. “Levi ben Yefet.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 731 [n.1351]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl. </title>
+                  <ptr target="https://jalit.org/bibl/LPCVC5"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblH3EM7VI">
+                  <title>Wolf, Johann Christoph. “Levi ben Yefet.” In Bibliothecæ Hebrææ, III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam, 1727), p. 652 [n.1351]. https://books.google.es/books?id=9dW-cp2_N8oC&amp;pg. </title>
+                  <ptr target="https://jalit.org/bibl/H3EM7VI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblXN5P7DTH">
+                  <title>Zawanowska, Marzena. “Yefet and his Times.” In The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Abraham Narratives (Genesis 11:10–25:18), (Leiden: Brill, 2012), pp. 3-26.</title>
+                  <ptr target="https://jalit.org/bibl/XN5P7DTH"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIVFEQUKI">
+                  <title>БРОЙДЕ, И, and И. Маркон. “Леви бен-Яфет (Га-Леви), Абу Саид.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 95-96.</title>
+                  <ptr target="https://jalit.org/bibl/IVFEQUKI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblWTJGWJMX">
+                  <title>אלגמיל, יוסף בן עובדיה ed. ספר המצוות לר' לוי בן כמהר"ר יפת הלוי. (אשדוד: מכון ״תפארת יוסף״ לחקר היהדות הקראית, 2002).</title>
+                  <ptr target="https://jalit.org/bibl/WTJGWJMX"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIK2D86AJ">
+                  <title>בן-שמאי, חגי. “קטע חדש מהמקור הערבי של ספר המצוות ללוי בן יפת הקראי.” שנתון המשפט העברי 12-11 (1986): pp. 133-99.</title>
+                  <ptr target="https://jalit.org/bibl/IK2D86AJ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5CWID88P">
+                  <title>בן־ששון, חיים הלל. “יחס הקראים בני המאה העשירית־האחת עשרה לשאינם בני ברית.” In ספר היובל לכבוד שלום בארון למלאת לו שמונים שנה, edited by שאול ליברמן. (ירושלים: האקדמיה האמריקנית למדעי היהדות, 1975), p. עא־צ.</title>
+                  <ptr target="https://jalit.org/bibl/5CWID88P"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5ZNHLTFF">
+                  <title>סקליר, דוד. “חיבורים קראיים לא ידועים באוסף פירקוביץ'.” In כתבי היד בערבית-יהודית באוספי פירקוביץ' חיבורי יוסף אלבציר קטלוג לדוגמה מקורות ומחקרים, edited by דוד סקליר, and חגי בן-שמאי. (ירושלים: מכון בן צבי לחקר קהילות ישראל במזרח, 1997), pp. 139-127.</title>
+                  <ptr target="https://jalit.org/bibl/5ZNHLTFF"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblWM2D3AI3">
+                  <title>תירוש-בקר, עפרה. “לשון חכמים הנמסרת בספרות הקראים.” (Ph.D, 1999). </title>
+                  <ptr target="https://jalit.org/bibl/WM2D3AI3"/>
                </bibl>
                <idno type="URI" subtype="isni">https://isni.org/isni/000000006695019X</idno>
                <idno type="URI" subtype="viaf">https://viaf.org/viaf/61220050/</idno>

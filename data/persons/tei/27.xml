@@ -23,7 +23,6 @@
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                     >Gregor Schwarb
                     </editor>
-                
                 <editor xml:id="mmoliere" role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                     >Maximilian de Molière
@@ -82,6 +81,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -164,10 +164,65 @@
                     <residence>
                         <placeName ref="" cert="" source=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblSVNPCX3">
+                        <title>Ankori, Zvi. “Malik al-Ramlī.” In Karaites In Byzantium: The Formative Years 970-1100, (New York: AMS Press, 1959), p. 276n70, 371n39. http://archive.org/details/book-history-zvi-ankori-karaites-in-byzantium-the-formative-years-970-1100-by-zvi-ankori. </title>
+                        <ptr target="https://jalit.org/bibl/SVNPCX3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblC57WIIL">
+                        <title>Astren, Fred. “Malik al-Ramlī.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Leiden: Brill, 2010)</title>
+                        <ptr target="https://jalit.org/bibl/C57WIIL"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblPD2LWH63">
+                        <title>Bacher, Wilhelm. “Qirqisani, the Karaite, and his Work on Jewish Sects.” The Jewish Quarterly Review 7, no. 4 (1895): pp. 687-710. doi: 10.2307/1449971. </title>
+                        <ptr target="https://jalit.org/bibl/PD2LWH63"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIVLIAA3I">
+                        <title>Frank, Daniel. “Malik al-Ramlī.” In Search Scripture well: Karaite exegetes and the origins of the Jewish Bible commentary in the Islamic East, (Leiden &amp; Boston: Brill, 2004), pp. 44-45. https://doi.org/10.1163/9789047405566. </title>
+                        <ptr target="https://jalit.org/bibl/IVLIAA3I"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblE3KBXCGF">
+                        <title>Fürst, Julius. “Malik al-Ramlī.” In Geschichte des Karäerthums: Bis 900 der gewöhnlichen Zeitrechnung, 1, (Leipzig: Nies'sche Buchdruckerei, 1862), p. 152n59. https://books.google.es/books?id=k_8LAAAAIAAJ&amp;hl. </title>
+                        <ptr target="https://jalit.org/bibl/E3KBXCGF"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTEQCCCT">
+                        <title>Graetz, Heinrich. “Malik al-Ramlī.” In Geschichte der Juden von den ältesten Zeiten bis auf die Gegenwart: Vom Abschluß des Talmud (500) bis zum Aufblühen der jüdisch-spanischen Kultur (1027), 5, (Magdeburg: A. Falckenberg &amp; Co., 1860), p. 506. https://books.google.de/books?id=sxe7ktHfXF4C. </title>
+                        <ptr target="https://jalit.org/bibl/TEQCCCT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLFBLL5S7">
+                        <title>Mann, Jacob. “Malik al-Ramlī.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), pp. 6n11, 65-66n117.</title>
+                        <ptr target="https://jalit.org/bibl/LFBLL5S7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZWA7DK2G">
+                        <title>Mann, Jacob. “Malik al-Ramlī.” In The Jews in Egypt and in Palestine under the Fāṭimid caliphs, 1, (Oxford: Oxford University Press, 1920), p. 116n2. https://menadoc.bibliothek.uni-halle.de/publicdomain/content/titleinfo/914744. </title>
+                        <ptr target="https://jalit.org/bibl/ZWA7DK2G"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXEAJIMQ">
+                        <title>Nemoy, Leon. “Al-Qirqisānī's Account of the Jewish Sects and Christianity.” Hebrew Union College Annual 7 (1930): pp. 317-397.</title>
+                        <ptr target="https://jalit.org/bibl/XEAJIMQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFLDNTP5D">
+                        <title>Nemoy, Leon. “Malik al-Ramli.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 431.</title>
+                        <ptr target="https://jalit.org/bibl/FLDNTP5D"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl56IP37AE">
+                        <title>Nemoy, Leon. “Malik al-Ramli.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 826.</title>
+                        <ptr target="https://jalit.org/bibl/56IP37AE"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJNV7LC6">
+                        <title>“Malik al-Ramlī.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, edited by Leon Nemoy. (New Haven &amp; London: Yale University Press, 1952), p. xix, 53, 335.</title>
+                        <ptr target="https://jalit.org/bibl/JNV7LC6"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6JCFXI">
+                        <title>Pinsker, Simḥa. “Malik al-Ramlī.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), p. 84.</title>
+                        <ptr target="https://jalit.org/bibl/6JCFXI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZWZYFHDF">
+                        <title>Polliack, Meira. “Malik al-Ramlī.” In The Karaite tradition of Arabic Bible translation: A linguistic and exegetical study of Karaite translations of the Pentateuch from the tenth and eleventh centuries CE, (Leiden: Brill, 1997), p. 14, 71.</title>
+                        <ptr target="https://jalit.org/bibl/ZWZYFHDF"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGUCAZ37N">
+                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly Review 8, no. 4 (1896): pp. 681-704. doi: https://doi.org/10.2307/1450208. </title>
+                        <ptr target="https://jalit.org/bibl/GUCAZ37N"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
                     <idno type="URI" subtype="viaf"/>

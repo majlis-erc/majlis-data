@@ -23,7 +23,6 @@
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                >Gregor Schwarb
                </editor>
-            
             <editor xml:id="mmoliere" role="contributor"
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                >Maximilian de Molière
@@ -51,6 +50,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -134,10 +134,265 @@
                <residence>
                   <placeName ref="" cert="" source=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFU8GE2">
+                  <title>“Notes on HSKN in Job 22:21.” Journal of Near Eastern Studies 20, no. 4 (1961): pp. 258-259.</title>
+                  <ptr target="https://jalit.org/bibl/FU8GE2"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblVQHF7AC">
+                  <title>“Alfasi David.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 59.</title>
+                  <ptr target="https://jalit.org/bibl/VQHF7AC"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQUPYNKJS">
+                  <title>“המקורות הרבניים  לפירושו של הקראי אלפאסי לתורה.” In ספר פרופ׳ חמ"י גבריהו—מחקרים במקרא ובמחשבת ישראל מוגש לו בהגיעו לשיבה עורך ב"צ לוריא, (ירושלים: החברה לחקר המקרא בישראל ע"י קרית ספר תשמ"ט), pp. 378–367.</title>
+                  <ptr target="https://jalit.org/bibl/QUPYNKJS"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblX6WBNWXY">
+                  <title>Bacher, Wilhelm. “Le Grammairien anonyme de Jérusalem et son livre.” In Revue des études juives, 30, (Paris: Peeters, 1880), pp. 232-256. https://catalog.hathitrust.org/Record/000679454. </title>
+                  <ptr target="https://jalit.org/bibl/X6WBNWXY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblUCUDTWG">
+                  <title>Bacher, Wilhelm. “David ben Abraham (Abu Sulaiman Da’ud al-Fasi).” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), pp. 459-460.</title>
+                  <ptr target="https://jalit.org/bibl/UCUDTWG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFM6G5JZV">
+                  <title>Barak, Esther Gamliel. “Exegesis' Methods of the Bible in the Dictionary of the Karaite David Ben Abraham Alfāsī, Kitāb Jāmi' al-Alfāż / דרכי הפרשנות למקרא במילונו של הקראי דוד בן אברהם אלפאסי, כתאב ג'אמע אלאלפאט'.” Beit Mikra: Journal for the Study of the Bible and Its World / בית מקרא: כתב-עת לחקר המקרא ועולמו נט, no. ב (2014): pp. 76-128.</title>
+                  <ptr target="https://jalit.org/bibl/FM6G5JZV"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblJYUKWEY">
+                  <title>Basal, Nasir. “The glossary Šarḥ al-ʾalfāẓ by Abū al-Faraj Hārūn: David ben Abraham Alfāsī’s dictionary Jāmiʿ al-ʾalfāẓ as a resource.” Jerusalem Studies in Arabic and Islam 51 (2021): pp. 337-376.</title>
+                  <ptr target="https://jalit.org/bibl/JYUKWEY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblEXJDSZQ">
+                  <title>Ben-Shammai, Haggai. “Jerusalem in Early Medieval Jewish Bible Exegesis.” In Jerusalem its sanctity and centrality to Judaism Christianity and Islam, edited by Lee I. Levine. (New York: Continuum, 1999), pp. 447-464.</title>
+                  <ptr target="https://jalit.org/bibl/EXJDSZQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRJPPF6TI">
+                  <title>Gamliel-Barak, Esther. “The entry g[a]d in Al-Fāsi’s dictionary Kitab Jami‘ al-Alfāẓ: lexicography, commentary, and grammar.” In Jewish Biblical Exegesis from Islamic Lands; the Medieval Period, edited by Meira Polliack, and Athalya Brenner-Idan. (2019), pp. 129-138.</title>
+                  <ptr target="https://jalit.org/bibl/RJPPF6TI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl2ALFVCA">
+                  <title>Habib, Joseph. “Qere and ketiv in the exegesis of the Karaites and Saadya.” </title>
+                  <ptr target="https://jalit.org/bibl/2ALFVCA"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl56FBMRY">
+                  <title>Harkavy, Albert. “Fasi, David b Abraham al-.” In Studien und Mittheilungen aus der Kaiserlichen Oeffentlichen Bibliothek zu St Petersburg, (Leipzig: Voss' Sortiment (G. Haessel), 1891), pp. 2; 10; 38; 120; 131.</title>
+                  <ptr target="https://jalit.org/bibl/56FBMRY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRKKPBR7W">
+                  <title>Herlitz, Georg. “Fasi, David b Abraham al-.” In Jüdisches Lexikon, 2, (Berlin: Jüdischer Verlag, 1928), pp. 54-55. https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/363116. </title>
+                  <ptr target="https://jalit.org/bibl/RKKPBR7W"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZ6G6IVW8">
+                  <title>Hirschfeld, Hartwig. Literary history of Hebrew grammarians and lexicographers. (London: Oxford University Press, 1926).</title>
+                  <ptr target="https://jalit.org/bibl/Z6G6IVW8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblAUK2W8CZ">
+                  <title>Landman, Isaac. “David ben Abraham Alfasi.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 483.</title>
+                  <ptr target="https://jalit.org/bibl/AUK2W8CZ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblER67W5H">
+                  <title>Laskier, Michael M. “Fasi, David b Abraham al-.” In Alliance Israelite Universelle and the Jewish communities of Morocco, 1862-1962, (SUNY Press, 2012), p. 17.</title>
+                  <ptr target="https://jalit.org/bibl/ER67W5H"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZ8GBQQI">
+                  <title>Laurin, Robert Bruce. “The problem of two Messiahs in the Qumran scrolls.” Revue de Qumrân 4, no. 1 (1963): pp. 39-52.</title>
+                  <ptr target="https://jalit.org/bibl/Z8GBQQI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQKQQ3VN">
+                  <title>Maman, Aaron. “David b Abraham Alfàsi’s comparative philology.” In Comparative Semitic philology in the Middle Ages: from Sa'adiah Gaon to Ibn Barūn (10th-12th c) / by Aharon Maman ; translated into English by David Lyons, (Leiden: Brill, 2004), pp. 182-275.</title>
+                  <ptr target="https://jalit.org/bibl/QKQQ3VN"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5NDAMGJT">
+                  <title>Maman, Aharon. “Karaite Hebrew.” Encyclopedia of Hebrew Language and Linguistics, edited by Geoffrey Khan (Leiden: Brill, 2013) http://referenceworks.brillonline.com/entries/encyclopedia-of-hebrew-language-and-linguistics/karaite-hebrew-EHLL_COM_00000515?s.num=0&amp;s.f.s2_parent=s.f.book.encyclopedia-of-hebrew-language-and-linguistics&amp;s.q=karaite+hebrew. </title>
+                  <ptr target="https://jalit.org/bibl/5NDAMGJT"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5MMFFL">
+                  <title>Maman, Aharon. “The Lexical Element in David Alfasi’s Dictionary Definitions.” In Genizah Research after Ninety Years: The Case of Judaeo-Arabic, edited by Joshua Blau, and Stefan Reif. (Cambridge: Cambridge University Press, 1992), pp. 119-125.</title>
+                  <ptr target="https://jalit.org/bibl/5MMFFL"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblCTAXFI83">
+                  <title>Maman, Aharon. “The comparison of the Hebrew lexicon with Arabic and Aramaic in the linguistic literature of the Jews from Rav Saadia Gaon (10th Cent) to Ibn Barun (12th Cent).” (Ph.D, 1984). </title>
+                  <ptr target="https://jalit.org/bibl/CTAXFI83"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblNLMAEUIB">
+                  <title>Mann, Jacob. Texts and studies in Jewish history and literature. (Cincinnati; Philadelphia: Hebrew Union College Press; Jewish Publication Society, 1931).</title>
+                  <ptr target="https://jalit.org/bibl/NLMAEUIB"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblEE8JXG3S">
+                  <title>Markon, Isaak. “The Hebrew Arabic dictionary of the Bible of David al-Fāsī.” Jewish Quarterly Review 37 (1946): pp. 199-207.</title>
+                  <ptr target="https://jalit.org/bibl/EE8JXG3S"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblTAATA7NM">
+                  <title>Markon, Isaac. “David (Abu Suleiman) ben Abraham Alfassi.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), pp. 54-55.</title>
+                  <ptr target="https://jalit.org/bibl/TAATA7NM"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblQBCSSP7">
+                  <title>Marwick, Lawrence. “A First Fragment from David b Abraham al-Fasi's Commentary on Psalms.” Studies in Bibliography and Booklore 6, no. 2 (1962): pp. 53-72.</title>
+                  <ptr target="https://jalit.org/bibl/QBCSSP7"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFR2C7WTI">
+                  <title>Nadler-Akirav, Meirav. “The meaning and translation of the biblical adverb ʿūlay ('perhaps') among medieval Jewish thinker.” The journal of Jewish studies 68, no. 1 (2017): pp. 78-96. doi: https://doi.org/10.18647/3302/JJS-2017. </title>
+                  <ptr target="https://jalit.org/bibl/FR2C7WTI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZ73QPQI">
+                  <title>Neubauer, Adolf. “Fasi, David b Abraham al-.” In Aus der Petersburger Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und der karäischen Literatur, (Leipzig: O. Leiner, 1866), pp. 3-4; 18; 27-28; 112-113.</title>
+                  <ptr target="https://jalit.org/bibl/Z73QPQI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblECHVILRS">
+                  <title>Olszowy-Schlanger, Judith. “Early Qaraite Grammarians and their Concept of the Hebrew «Root».” Histoire Épistémologie Langage 21 (1999): pp. 101-122.</title>
+                  <ptr target="https://jalit.org/bibl/ECHVILRS"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZZ7RXJ">
+                  <title>Pinsker, Simḥa. “Fasi, David b Abraham al-.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), p. 117.</title>
+                  <ptr target="https://jalit.org/bibl/ZZ7RXJ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblV2J27PWY">
+                  <title>Polliack, Meira. “David Ben Abraham al-Fāsī.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/david-ben-abraham-al-fasi-SIM_0006340. </title>
+                  <ptr target="https://jalit.org/bibl/V2J27PWY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRHD5LLU">
+                  <title>Polliack, Meira. The Karaite tradition of Arabic Bible translation: A linguistic and exegetical study of Karaite translations of the Pentateuch from the tenth and eleventh centuries CE. (Leiden: Brill, 1997).</title>
+                  <ptr target="https://jalit.org/bibl/RHD5LLU"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblT2VWAKG">
+                  <title>Poznański, Samuel. “The Karaite Literary Opponents of Saadiah Gaon in the Tenth Century.” The Jewish Quarterly Review 18, no. 2 (1906): pp. 209-250. doi: 10.2307/1451067. </title>
+                  <ptr target="https://jalit.org/bibl/T2VWAKG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblHBHAYE">
+                  <title>Poznański, Samuel Abraham. “New material on the history of Hebrew and Hebrew-Arabic philology during the X-XII centuries.” </title>
+                  <ptr target="https://jalit.org/bibl/HBHAYE"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5Y88NDWU">
+                  <title>Reimmann, Jacob Friedrich. “Salmon ben Jeroham.” In Versuch einer Einleitung in die Historie der Theologie, (Magdeburg &amp; Leipzig: Christoph Seidel, 1717), pp. 477-479. https://books.google.de/books?id=JRUVAAAAQAAJ. </title>
+                  <ptr target="https://jalit.org/bibl/5Y88NDWU"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl7SZBMCU5">
+                  <title>Simchoni, Jacob Naphtali Herz. “Alfassi, David (Abu Suleiman) ben Abraham.” Encyclopaedia Judaica, (Berlin: Eschkol, 1928), pp. 273-275.</title>
+                  <ptr target="https://jalit.org/bibl/7SZBMCU5"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl78P5K7RI">
+                  <title>Sklare, David E. “Alfasi, David (10th c).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 34.</title>
+                  <ptr target="https://jalit.org/bibl/78P5K7RI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFBJHV2V">
+                  <title>Skoss, Solomon L. “The Arabic commentary of 'Ali ben Suleimān the Karaite on the book of Genesis; Chapter V.” The Jewish Quarterly Review 18, no. 2 (1927): pp. 153-206. doi: 10.2307/1451612. </title>
+                  <ptr target="https://jalit.org/bibl/FBJHV2V"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblBEXDQWFN">
+                  <title>Skoss, Solomon L. “A Study of the Uses of Letter Yod by David Ben Abraham Al-Fasi.” Journal of the American Oriental Society Journal of the American Oriental Society 58, no. 1 (1938): pp. 167-172.</title>
+                  <ptr target="https://jalit.org/bibl/BEXDQWFN"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblKAUP2T6">
+                  <title>Skoss, Solomon L. “A chapter on permutation in Hebrew from David Ben Abraham al-Fāsi's dictionary Jāmi' al-Alfāẓ.” The Jewish Quarterly Review 23, no. 1 (1932): pp. 1-43. doi: 10.2307/1451567. </title>
+                  <ptr target="https://jalit.org/bibl/KAUP2T6"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblHFZT7H72">
+                  <title>Skoss, Solomon Leon ed. David ben Abraham al-Fāsī (the Karaite): The Hebrew-Arabic Dictionary of the Bible Known as Kitāb Jāmiʿ al-Alfāẓ (Agron). (New Haven: Yale University Press, 1936).</title>
+                  <ptr target="https://jalit.org/bibl/HFZT7H72"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblTPXM3GE">
+                  <title>Skoss, Solomon Leon. “Alfasi, David ben Abraham.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 600.</title>
+                  <ptr target="https://jalit.org/bibl/TPXM3GE"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblZS56QGQ">
+                  <title>Skoss, Solomon Leon. “Alfasi, David ben Abraham.” Encyclopaedia Judaica, (Detroit: Gale, 2007), pp. 638-639.</title>
+                  <ptr target="https://jalit.org/bibl/ZS56QGQ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblJFRM5WYB">
+                  <title>Steiner, Richard C. “Saadia vs Rashi: On the shift from Meaning-Maximalism to Meaning-Minimalism in medieval biblical lexicology.” The Jewish Quarterly Review 88, no. 3/4 (1998): pp. 213-258. doi: 10.2307/1454663. </title>
+                  <ptr target="https://jalit.org/bibl/JFRM5WYB"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblXYKCJUM">
+                  <title>Steinschneider, M. “An introduction to the Arabic literature of the Jews II (Continued).” The Jewish Quarterly Review 13, no. 2 (1901): pp. 296-320. doi: 10.2307/1450640. </title>
+                  <ptr target="https://jalit.org/bibl/XYKCJUM"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblS7YQHHH">
+                  <title>Steinschneider, Moritz. “Fasi, David b Abraham al-.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), p. 86.</title>
+                  <ptr target="https://jalit.org/bibl/S7YQHHH"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIVWLKXNW">
+                  <title>Tirosh-Becker, Ofra. “The use of Rabbinic sources in Karaite writings.” Karaite Judaism 73 (2003): p. 320. doi: 10.1163/9789004294264_015. </title>
+                  <ptr target="https://jalit.org/bibl/IVWLKXNW"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl65CEVPWI">
+                  <title>Tirosh-Becker, Ofra. “Karaite Judeo-Arabic translations of Mishnah Rosh ha-Shanah: on the meaning of Baʿalil.” The Jewish Quarterly Review 95, no. 3 (2005): pp. 530-556.</title>
+                  <ptr target="https://jalit.org/bibl/65CEVPWI"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblSVPWIUZX">
+                  <title>Waxman, Meyer. “Fasi, David b Abraham al-.” In A history of Jewish literature from the close of the Bible to our own days, (New York: Bloch publishing co., 1938), p. 406. https://catalog.hathitrust.org/Record/000966242. </title>
+                  <ptr target="https://jalit.org/bibl/SVPWIUZX"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblLB8RSEA">
+                  <title>Weinfeld, Eduardo. “David ben Abraham Alfasi.” Enciclopedia Judaica Castellana, (México: Editorial Enciclopedia Judaica Castellana, 1948), p. 367.</title>
+                  <ptr target="https://jalit.org/bibl/LB8RSEA"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblFYYN7G">
+                  <title>Wieder, Naphtali. “The Qumran sectaries and the Karaites (Continued).” The Jewish Quarterly Review 47, no. 3 (1957): pp. 269-292. doi: 10.2307/1452954. </title>
+                  <ptr target="https://jalit.org/bibl/FYYN7G"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRWN65P">
+                  <title>Познанский, Самуил. “Давид (Абу Сулейман) бен Авраам Альфаси.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 887-890.</title>
+                  <ptr target="https://jalit.org/bibl/RWN65P"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblVTUSB7M">
+                  <title>אברמסון, שרגא. “להתפשטות הפיוט: דברי הפייטן בפי הקראי דוד אלפאסי.” </title>
+                  <ptr target="https://jalit.org/bibl/VTUSB7M"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblE6W2GVMW">
+                  <title>“דוד בן אברהם אלפאסי.” אוצר ישראל, edited by יהודה דוד אייזענשטיין (ניו-יורק1906), pp. 26-25.</title>
+                  <ptr target="https://jalit.org/bibl/E6W2GVMW"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblV85EUE3M">
+                  <title>אלדר, אילן. “ראשית המילונאות העברית במזרח (במאות העשירית והאחת-עשרה).” </title>
+                  <ptr target="https://jalit.org/bibl/V85EUE3M"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblP52ZQ2BS">
+                  <title>באסל, נאסר. “דוד בן אברהם אלפאסי הקראי וזמן פעילות.” לשוננו פג, no. ד (2021): pp. 380-400.</title>
+                  <ptr target="https://jalit.org/bibl/P52ZQ2BS"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblCI5YHM8">
+                  <title>בלאו, יהושע. “עיונים במילונו המקראי של אלפאסי.” מחקרים בלשון 17-18 (2017)</title>
+                  <ptr target="https://jalit.org/bibl/CI5YHM8"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblB8DZT3NM">
+                  <title>בלאו, יהושע. “תרגום ההקדמה והאות אלף במילון כתאב ג'אמע אלאלפאט מאת דוד בן אברהם אלפאסי, מהדורת סל סקוס.” גנזי קדם 16 (2020): pp. 9-152.</title>
+                  <ptr target="https://jalit.org/bibl/B8DZT3NM"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRDR27S">
+                  <title>גמליאל-ברק, אסתר. “דרכי פרשנותו למקרא של הקראי דוד בן אברהם אלפאסי על פי מילונו.” (Ph.D, 2010). </title>
+                  <ptr target="https://jalit.org/bibl/RDR27S"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblLTCJQ62">
+                  <title>גמליאל-ברק, אסתר. “דרכי פרשנותו למקרא של הקראי דוד בן אברהם אלפאסי על פי מילונו / מאת אסתר גמליאל-ברק.” (Ph.D, 2010). </title>
+                  <ptr target="https://jalit.org/bibl/LTCJQ62"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblAAI6IKJ5">
+                  <title>גמליאל-ברק, אסתר. “דרכי פרשנותו למקרא של הקראי דוד בן אברהם אלפאסי על פי מילונו [משאב אלקטרוני] / מאת: אסתר גמליאל-ברק.” (Ph.D, 2010). </title>
+                  <ptr target="https://jalit.org/bibl/AAI6IKJ5"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl6K6ITSR">
+                  <title>גמליאל-ברק, אסתר. ענייני דקדוק בכתאב גאמע אלאלפאט לדוד בן אברהם אלפאסי: על פי ההקדמה והאות אל"ף / מאת אסתר גמליאל. (רמת גן: מוציא לאור לא ידוע, 1999).</title>
+                  <ptr target="https://jalit.org/bibl/6K6ITSR"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblNVH8LLX">
+                  <title>דוד בן אברהם, אלפאסי. כתאב גאמע אלאלפאט, או, אלאגרון תאליף דוד בן אברהם אלפאסי / אלמערוף באבי סלימאן דאוד בן אבראהים אלפאסי. (פילדלפיה: דפוס אלמטבעה אלעבראניה, 1936).</title>
+                  <ptr target="https://jalit.org/bibl/NVH8LLX"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblIHUYSX5J">
+                  <title>ותד, עלי. “ה-תפכים וה-אכתצאר במשנתו הלשונית של דוד בן-אברהם אלפאסי.” </title>
+                  <ptr target="https://jalit.org/bibl/IHUYSX5J"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblBW85RVY">
+                  <title>חאמד, מחמד. “תורת הלשון של דוד בן אברהם אלפאסי (המאה הי') בהשוואה לחכמי לשון אחרים מימי הביניים: המושג 'פצאחה' (צחות לשון).” (Ph.D, 2011). </title>
+                  <ptr target="https://jalit.org/bibl/BW85RVY"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl7HLKWZMZ">
+                  <title>חאמד, מחמד. “תורת הלשון של דוד בן אברהם אלפאסי (המאה הי') בהשוואה לחכמי לשון אחרים מימי הביניים: המושג 'פצאחה' (צחות לשון) / מחמד חאמד.” (Ph.D, 2011). </title>
+                  <ptr target="https://jalit.org/bibl/7HLKWZMZ"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblBPC27UJK">
+                  <title>סקוז, שלמה זלמן ל. “אלפסי, דוד בן אברהם.” אנציקלופדיה העברית, (ירושלים), pp. 768-767.</title>
+                  <ptr target="https://jalit.org/bibl/BPC27UJK"/>
                </bibl>
                <idno type="URI" subtype="isni"/>
                <idno type="URI" subtype="viaf">http://viaf.org/viaf/193042426</idno>

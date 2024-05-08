@@ -3,15 +3,17 @@
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Abū Yaʿqūb b. Baḫtawayh</title>
-                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
+                    Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                        München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName
+                        xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                        Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName
+                        xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de"
+                        >Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
                     </editor>
@@ -54,8 +56,10 @@
                 </editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref="">admin</editor>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
+                        >Winona Salesky</name>
+                </respStmt>
+                <editor role="creator" ref="">admin</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -64,7 +68,8 @@
                 <idno type="URI">https://jalit.org/person/30</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
+                            4.0) License.</p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
@@ -74,7 +79,9 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2024-04-24T13:48:02.428Z">updated spelling</change><change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-04-24T13:48:02.428Z">updated spelling</change>
+            <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -155,10 +162,118 @@
                     <residence>
                         <placeName ref="" cert="" source=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFU58KXC">
+                        <title>Bacher, Wilhelm. “Le grammairien anonyme de Jérusalem et son livre.”
+                            Revue des études juives 30, no. 60 (1895): pp. 232-256.</title>
+                        <ptr target="https://jalit.org/bibl/FU58KXC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblD23BXHE">
+                        <title>Fürst, Julius. “Ibn Baḫtawayh.” In Geschichte des Karäerthums: Bis
+                            900 der gewöhnlichen Zeitrechnung, 1, (Leipzig: Nies'sche Buchdruckerei,
+                            1862), pp. 96-97. https://books.google.es/books?id=k_8LAAAAIAAJ&amp;hl. </title>
+                        <ptr target="https://jalit.org/bibl/D23BXHE"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2CILHWCR">
+                        <title>Geiger, Abraham. “Umschau.” Jüdische Zeitschrift für Wissenschaft und
+                            Leben 5 (1867): pp. 175-191.</title>
+                        <ptr target="https://jalit.org/bibl/2CILHWCR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWPC7SKN">
+                        <title>Gil, Moshe. “Ibn Baḫtawayh.” In A History of Palestine, 634-1009,
+                            (Cambridge: Cambridge University Press, 1992), p. 810.</title>
+                        <ptr target="https://jalit.org/bibl/WPC7SKN"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXQPFISG">
+                        <title>Kahle, Paul. “Ibn Baḫtawayh.” In Masoreten des Westens, 1,
+                            (Stuttgart: W. Kohlhammer, 1927), pp. 59-60, 67-68.
+                            https://sammlungen.ub.uni-frankfurt.de/freimann/urn/urn:nbn:de:hebis:30:1-146494. </title>
+                        <ptr target="https://jalit.org/bibl/XQPFISG"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFXEDPMHE">
+                        <title>Khan, Geoffrey. “Ibn Baḫtawayh.” In The Early Karaite Tradition of
+                            Hebrew Grammatical Thought: Including a Critical Edition, Translation
+                            and Analysis of the Diqduq of ’Abū Ya‘qūb Yūsuf ibn Nūḥ on the
+                            Hagiographa, (Leiden: Brill, 2000), p. 7, 157.</title>
+                        <ptr target="https://jalit.org/bibl/FXEDPMHE"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKI6A5QI">
+                        <title>Kohler, Kaufmann, and Isaac Broydé. “Baḥtawi, Abu Ya'aḳub Joseph, The
+                            Babylonian.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls,
+                            1902), p. 444.
+                            https://www.jewishencyclopedia.com/articles/2363-bahtawi-abu-ya-akub-joseph-the-babylonian. </title>
+                        <ptr target="https://jalit.org/bibl/KI6A5QI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5FZQG3">
+                        <title>Mann, Jacob. “Ibn Baḫtawayh.” In Texts and Studies in Jewish History
+                            and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish
+                            Publication Society, 1935), pp. 29-30; 134-135.</title>
+                        <ptr target="https://jalit.org/bibl/5FZQG3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRUAJJR">
+                        <title>Munk, Salomon. “Ibn Baḫtawayh.” In Notice sur Abou'l-Walid Merwan
+                            ibn-Djana'h et sur quelques autres grammairiens Hébreux du Xe et du XIe
+                            siècle: suivie de l'introduction du Kitab al-Luma' D'ibn-Djana'h en
+                            arabe avec une traduction française et des notes, (Paris: Imprimerie
+                            Nationale, 1851), p. 61.
+                            https://books.google.es/books?id=KF8_AQAAMAAJ&amp;vq. </title>
+                        <ptr target="https://jalit.org/bibl/RUAJJR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDVK35GB">
+                        <title>Pinsker, Simḥa. “Ibn Baḫtawayh.” In לקוטי קדמוניות: לקורות דת בני
+                            מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des
+                            Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre,
+                            1860), pp. קי-קיא, 62.</title>
+                        <ptr target="https://jalit.org/bibl/DVK35GB"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7U32C5R">
+                        <title>Poznanski, Samuel. “Aboul-Faradj Haroun ben Al-Faradj, le grammairien
+                            de Jérusalem, et son Mouschtamil (fin).” Revue des études juives 33, no.
+                            66 (1896): pp. 197-218.</title>
+                        <ptr target="https://jalit.org/bibl/7U32C5R"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGUCAZ37N">
+                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly
+                            Review 8, no. 4 (1896): pp. 681-704. doi:
+                            https://doi.org/10.2307/1450208. </title>
+                        <ptr target="https://jalit.org/bibl/GUCAZ37N"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJXGCHLGC">
+                        <title>Salfeld, Siegmund. “Das Hohelied bei den jüdischen Erklärern des
+                            Mittelalters.” Magazin für die Wissenschaft des Judenthums 6 (1879): pp.
+                            129-169.</title>
+                        <ptr target="https://jalit.org/bibl/JXGCHLGC"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8JQ5HSL">
+                        <title>Steinschneider, Moritz. “An Introduction to the Arabic Literature of
+                            the Jews I (Continued).” The Jewish Quarterly Review 10, no. 1 (1897):
+                            pp. 119-138. doi: 10.2307/1450609. </title>
+                        <ptr target="https://jalit.org/bibl/8JQ5HSL"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblAD5K3PI">
+                        <title>Steinschneider, Moritz. “Ibn Baḫtawayh.” In Die arabische Literatur
+                            der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils
+                            aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902),
+                            pp. 88-89 [§49].
+                            https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033. </title>
+                        <ptr target="https://jalit.org/bibl/AD5K3PI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLKXB3YB">
+                        <title>Zawanowska, Marzena. “Ibn Baḫtawayh.” In The Arabic Translation and
+                            Commentary of Yefet ben ʿEli the Karaite on the Abraham Narratives
+                            (Genesis 11:10–25:18): Edition and Introduction, (Leiden: Brill, 2012),
+                            pp. 104-105.</title>
+                        <ptr target="https://jalit.org/bibl/LKXB3YB"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCNAAQGCV">
+                        <title>גאטטלאבער, אברהם בער. “Ibn Baḫtawayh.” In בקורת לתולדות הקראים,
+                            (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), pp. 146-147,
+                            177. https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq. </title>
+                        <ptr target="https://jalit.org/bibl/CNAAQGCV"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWQPYLFDI">
+                        <title>פוזננסקי, שמואל אברהם. “יוסף בן בכתוי.” אוצר ישראל, edited by J. D.
+                            Eisenstein (New York: J. D. Eisenstein, 1911), pp. 135-136.</title>
+                        <ptr target="https://jalit.org/bibl/WQPYLFDI"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
                     <idno type="URI" subtype="viaf"/>

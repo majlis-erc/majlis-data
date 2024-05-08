@@ -23,7 +23,6 @@
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                     >Gregor Schwarb
                     </editor>
-                
                 <editor xml:id="mmoliere" role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                     >Maximilian de Molière
@@ -82,6 +81,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -164,10 +164,9 @@
                     <residence>
                         <placeName ref="" cert="" source=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2AHY8CU">
+                        <title>Vidro, Nadia. “Aviv barley and calendar diversity among Jews in eleventh-century Palestine.” Journal of Jewish Studies 72, no. 2 (2021): pp. 283-312. doi: https://doi.org/10.18647/3504/jjs-2021. </title>
+                        <ptr target="https://jalit.org/bibl/2AHY8CU"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
                     <idno type="URI" subtype="viaf"/>

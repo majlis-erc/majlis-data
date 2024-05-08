@@ -23,7 +23,6 @@
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                     >Gregor Schwarb
                     </editor>
-                
                 <editor xml:id="mmoliere" role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                     >Maximilian de Molière
@@ -82,7 +81,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -164,10 +164,70 @@
                     <residence>
                         <placeName ref="" cert="" source=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+                    
+                    <bibl type="bibliography" xml:id="jalit-orgbibl35Y6HRN">
+                        <title>Gottheil, Richard. “Some Hebrew Manuscripts in Cairo.” The Jewish Quarterly Review 17, no. 4 (1905): pp. 609-655. doi: 10.2307/1451043. </title>
+                        <ptr target="https://jalit.org/bibl/35Y6HRN"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl27AZEMPS">
+                        <title>Horovitz, Josef. “Ein arabischer Brief an R Chananel.” Zeitschrift für Hebraeische Bibliographie 4, no. 5 (1900): pp. 155-158.</title>
+                        <ptr target="https://jalit.org/bibl/27AZEMPS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJ2VL6CA">
+                        <title>Kahle, Paul. “Mišaʾel ben ʿUzziʾel.” In Masoreten des Westens, 2, (Stuttgart: W. Kohlhammer, 1930), pp. 60-66. https://sammlungen.ub.uni-frankfurt.de/freimann/urn/urn:nbn:de:hebis:30:1-146494. </title>
+                        <ptr target="https://jalit.org/bibl/J2VL6CA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXFUING8U">
+                        <title>Lipschütz, Lazar. “Kitāb al-Khilaf: The Book of the Ḥillufim.” Textus 4, no. 1 (1964): pp. 1-29.</title>
+                        <ptr target="https://jalit.org/bibl/XFUING8U"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMHACQGZG">
+                        <title>Lipschütz, Lazar. “Mishael ben Uzziel’s Treatise on the Differences Between Ben Asher and Ben Naphtali.” Textus 2, no. 1 (1962): pp. 151‬-209.</title>
+                        <ptr target="https://jalit.org/bibl/MHACQGZG"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXPUI6TA8">
+                        <title>Lipschütz, Lazar. “Ben Ašer - Ben Naftali, Der Bibeltext der tiberischen Masoreten: Eine Abhandlung des Mischael ben ʻUzziel.” (Ph.D, 1935). </title>
+                        <ptr target="https://jalit.org/bibl/XPUI6TA8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblECKJVIS7">
+                        <title>Lipschütz, Lazar ed. Kitāb al-Khilaf: The Book of the Ḥillufim, Mishael Ben Uzziel's Treatise on the Differences between Ben Asher and Ben Naphtali. (Jerusalem: Magnes Press, 1965).</title>
+                        <ptr target="https://jalit.org/bibl/ECKJVIS7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFQVQZ76X">
+                        <title>Maman, Aharon. “Mishael ben Uzziel.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Leiden: Brill, 2010)</title>
+                        <ptr target="https://jalit.org/bibl/FQVQZ76X"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblU238IG3">
+                        <title>Mann, Jacob. “Mišaʾel ben ʿUzziʾel.” In The Jews in Egypt and in Palestine under the Fāṭimid caliphs, 2, (Oxford: Oxford University Press, 1922), p. 322. https://menadoc.bibliothek.uni-halle.de/publicdomain/content/titleinfo/627427. </title>
+                        <ptr target="https://jalit.org/bibl/U238IG3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMZLL8PZ8">
+                        <title>Mann, Jacob. “Mišaʾel ben ʿUzziʾel.” In The Jews in Egypt and in Palestine under the Fāṭimid caliphs, 1, (Oxford: Oxford University Press, 1920), p. 245. https://menadoc.bibliothek.uni-halle.de/publicdomain/content/titleinfo/914744. </title>
+                        <ptr target="https://jalit.org/bibl/MZLL8PZ8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMAXTNUP">
+                        <title>Marx, Alexander. “Notes to JQR.” The Jewish Quarterly Review 18, no. 3 (1906): pp. 567-570. doi: 10.2307/1451018. </title>
+                        <ptr target="https://jalit.org/bibl/MAXTNUP"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBFZ5NBCM">
+                        <title>Poznański, Samuel Abraham. “Miscelle: Mishaël b Uzziel.” Zeitschrift für Hebraeische Bibliographie 4, no. 6 (1900): p. 186.</title>
+                        <ptr target="https://jalit.org/bibl/BFZ5NBCM"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKIXU5EYN">
+                        <title>Pérez Castro, Federico, and María Josefa de Azcárraga Servert. “The Edition of the Kitāb al-Khilaf of Mišael Ben ’Uzziel.” In In Memoriam Paul Kahle, edited by Matthew Black. (Berlin: De Gruyter, 1968), pp. 188-200.</title>
+                        <ptr target="https://jalit.org/bibl/KIXU5EYN"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblURMVP7V2">
+                        <title>Rüger, Hans Peter. “Zwei neue Fragmente zu Mischael ben Uzziels ‮כתאב אלכלף‬ aus der Kairo-Geniza.” Vetus Testamentum 13, no. 2 (1963): pp. 231-235. doi: 10.2307/1516496. </title>
+                        <ptr target="https://jalit.org/bibl/URMVP7V2"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZ2WVTKT">
+                        <title>Steinschneider, Moritz. “Mišaʾel ben ʿUzziʾel.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 227-228, §167. https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033. </title>
+                        <ptr target="https://jalit.org/bibl/Z2WVTKT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8MCB6LT">
+                        <title>פנקובר, יצחק ש'. “כתב-יד ירושלמי של התורה מן המאה העשירית שהגיהו מישאל בן עוזיאל (כתב-יד ק 3).” Tarbiz / תרביץ נח, no. א (1988): pp. 74-49.</title>
+                        <ptr target="https://jalit.org/bibl/8MCB6LT"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
                     <idno type="URI" subtype="viaf"/>

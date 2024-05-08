@@ -1,68 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Saʿid Širan</title>
-                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
+                    Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                        München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName
+                        xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                        Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName
+                        xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de"
+                        >Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-                    >Ronny Vollandt
-                    </editor>
+                    >Ronny Vollandt </editor>
                 <editor xml:id="gschwarb" role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-                    >Gregor Schwarb
-                    </editor>
-                
+>Gregor Schwarb </editor>
                 <editor xml:id="mmoliere" role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-                    >Maximilian de Molière
-                    </editor>
-                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
-                    Nadine Urbiczek
-                    
-                </editor>
-                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
-                    Peter Tarras
-                    
-                </editor>
-                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
-                    Annabelle Fuchs
-                    
-                </editor>
-                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
-                    Lea Gzella
-                    
-                </editor>
-                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
-                    Polina Lakteikina
-                    
-                </editor>
-                <editor xml:id="rboehm" role="contributor">
-                    Maurizio Boehm
-                    
-                </editor>
-                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
-                    Lea Poralla
-                    
-                </editor>
-                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
-                    Lukas Froschmeier
-                    
-                </editor>
+                    >Maximilian de Molière </editor>
+                <editor xml:id="nurbiczek" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html"
+                    > Nadine Urbiczek </editor>
+                <editor xml:id="ptarras" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html"
+                    > Peter Tarras </editor>
+                <editor xml:id="afuchs" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html"
+                    > Annabelle Fuchs </editor>
+                <editor xml:id="lgzella" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html"
+                    > Lea Gzella </editor>
+                <editor xml:id="plakteikina" role="contributor"
+                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3"> Polina Lakteikina </editor>
+                <editor xml:id="rboehm" role="contributor"> Maurizio Boehm </editor>
+                <editor xml:id="lporalla" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html"
+                    > Lea Poralla </editor>
+                <editor xml:id="lfroschmeier" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html"
+                    > Lukas Froschmeier </editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
+                        >Winona Salesky</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -72,7 +61,8 @@
                 <idno type="URI">https://jalit.org/person/31</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
+                            4.0) License.</p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
@@ -82,7 +72,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -123,8 +114,7 @@
                         <addName source="" ref="#ku-ar" type="kunya"/>
                         <addName source="" ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar-Latn"
-                        >
+                    <persName xml:id="" type="canon" xml:lang="ar-Latn">
                         <addName source="" ref="#sh-ar" type="shuhra"/>
                         <addName source="" ref="#is-ar" type="ism"/>
                         <addName source="" ref="#na-ar" type="nasab"/>
@@ -164,10 +154,82 @@
                     <residence>
                         <placeName ref="" cert="" source=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWWNYMM">
+                        <title>Bacher, Wilhelm. “Die Anfänge der hebräischen Grammatik [1 Teil].”
+                            Zeitschrift der Deutschen Morgenländischen Gesellschaft 49 (1895): pp.
+                            1-62.</title>
+                        <ptr target="https://jalit.org/bibl/WWNYMM"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFVIRRXF">
+                        <title>Gil, Moshe. “Saʿīd Shīrān.” In A History of Palestine, 634-1009,
+                            (Cambridge: Cambridge University Press, 1992), p. 789.</title>
+                        <ptr target="https://jalit.org/bibl/FVIRRXF"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQMSMFQBD">
+                        <title>Harkavy, Albert. “Saʿīd Shīrān.” In Studien und Mittheilungen aus der
+                            Kaiserlichen Oeffentlichen Bibliothek zu St Petersburg, (Leipzig: Voss'
+                            Sortiment (G. Haessel), 1891), pp. 74-84.</title>
+                        <ptr target="https://jalit.org/bibl/QMSMFQBD"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZI5B6QAQ">
+                        <title>Howard, Yonathan. “לשון קודש, לשון כשדים, לשון יוונים: רשימת הלשונות
+                            במאור עין ומסירתו של דקדוקי המקרא.” מחקרים בלשון: ספר היובל לאהרן ממן
+                            יז-יח (2017): pp. 316-301.</title>
+                        <ptr target="https://jalit.org/bibl/ZI5B6QAQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5KS7LILV">
+                        <title>Khan, Geoffrey. “Saʿīd Shīrān.” In Early Karaite Grammatical Texts,
+                            (Atlanta: Society of Biblical Literature, 2000), pp. 13-240.</title>
+                        <ptr target="https://jalit.org/bibl/5KS7LILV"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWHSY736L">
+                        <title>Khan, Geoffrey. “Saʿīd Shīrān.” In The Early Karaite Tradition of
+                            Hebrew Grammatical Thought: Including a Critical Edition, Translation
+                            and Analysis of the Diqduq of ’Abū Ya‘qūb Yūsuf ibn Nūḥ on the
+                            Hagiographa, (Leiden: Brill, 2000), p. 7.</title>
+                        <ptr target="https://jalit.org/bibl/WHSY736L"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGFGN8DUI">
+                        <title>Khan, Geoffrey. “The Medieval Karaite Tradition of Hebrew Grammar.”
+                            In The Foundations of Arabic Linguistics: Sībawayhi and Early Arabic
+                            Grammatical Theory, edited by Amal Elesha Marogy. (Leiden: Brill, 2012),
+                            pp. 211-230.</title>
+                        <ptr target="https://jalit.org/bibl/GFGN8DUI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblS3RMB3I">
+                        <title>Mann, Jacob. “Saʿīd Shīrān.” In Texts and Studies in Jewish History
+                            and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish
+                            Publication Society, 1935), p. 30.</title>
+                        <ptr target="https://jalit.org/bibl/S3RMB3I"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGUCAZ37N">
+                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly
+                            Review 8, no. 4 (1896): pp. 681-704. doi:
+                            https://doi.org/10.2307/1450208. </title>
+                        <ptr target="https://jalit.org/bibl/GUCAZ37N"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl83CLUH7Q">
+                        <title>Steinschneider, Moritz. “Saʿīd Shīrān.” In Die arabische Literatur
+                            der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils
+                            aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902),
+                            p. 89 [§49b].
+                            https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033. </title>
+                        <ptr target="https://jalit.org/bibl/83CLUH7Q"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCSV88USX">
+                        <title>Vidro, Nadia. “Saʿīd Shīrān.” In Verbal Morphology in the Karaite
+                            Treatise on Hebrew Grammar: Kitāb al-ʾUqūd fī Taṣārīf al-Luġa
+                            al-ʾIbrāniyya, (Leiden: Brill, 2011), pp. 20-21.</title>
+                        <ptr target="https://jalit.org/bibl/CSV88USX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblK25ILHYZ">
+                        <title>Зислин, Меер Натанович. Mӗʾōp ʿaйин. (Москва1990).</title>
+                        <ptr target="https://jalit.org/bibl/K25ILHYZ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblWQPYLFDI">
+                        <title>פוזננסקי, שמואל אברהם. “יוסף בן בכתוי.” אוצר ישראל, edited by J. D.
+                            Eisenstein (New York: J. D. Eisenstein, 1911), pp. 135-136.</title>
+                        <ptr target="https://jalit.org/bibl/WQPYLFDI"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
                     <idno type="URI" subtype="viaf"/>

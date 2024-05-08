@@ -23,7 +23,6 @@
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                >Gregor Schwarb
                </editor>
-            
             <editor xml:id="mmoliere" role="contributor"
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                >Maximilian de Molière
@@ -51,6 +50,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -134,10 +134,45 @@
                <residence>
                   <placeName ref="" cert="" source=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbiblI85EL738">
+                  <title>“Sahl b. al-Faḍl al-Tustarī’s Kitāb al-Īmāʾ.” </title>
+                  <ptr target="https://jalit.org/bibl/I85EL738"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl28U86NN">
+                  <title>Gil, Moshe. “Tustari, Sahl b. al-Fadl al-.” In Jews in Islamic countries in the Middle Ages, (Leiden: Brill, 2004), pp. 269-271 [164].</title>
+                  <ptr target="https://jalit.org/bibl/28U86NN"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblGJ676VGP">
+                  <title>Mann, Jacob. “Tustari, Sahl b. al-Fadl al-.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), pp. 39-40; 99; 100.</title>
+                  <ptr target="https://jalit.org/bibl/GJ676VGP"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblRVXRCIR3">
+                  <title>Nemoy, Leon. “Tustari, Sahl b. al-Fadl al-.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, (New Haven &amp; London: Yale University Press, 1952), pp. 230-235; 377.</title>
+                  <ptr target="https://jalit.org/bibl/RVXRCIR3"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
+                  <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
+                  <ptr target="https://jalit.org/bibl/EFVRVADD"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl5MCRV2">
+                  <title>Poznański, Samuel Abraham. “Tustari, Sahl b al-Fadl al-.” In Karaite studies, edited by Philip Birnbaum. (New York: Hermon Press, 1971), pp. 183-185.</title>
+                  <ptr target="https://jalit.org/bibl/5MCRV2"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblVF3ZU">
+                  <title>Steinschneider, Moritz. “Tustari, Sahl b. al-Fadl al-.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 113 [69]; 342 [113].</title>
+                  <ptr target="https://jalit.org/bibl/VF3ZU"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbibl28L6BPW">
+                  <title>Zawanowska, Marzena. “Sahl ibn Faḍl al-Tustarī.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/sahl-ibn-fadl-al-tustari-SIM_0021740. </title>
+                  <ptr target="https://jalit.org/bibl/28L6BPW"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblWJRLN8T">
+                  <title>בן-שמאי, חגי. “ישועה בן יהודה: לדמותו של חכם קראי ירושלמי במאה היא.” פעמים 32 (1987): pp. 6-5.</title>
+                  <ptr target="https://jalit.org/bibl/WJRLN8T"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblSVPXRV7K">
+                  <title>גיל, משה. “Tustari, Sahl b. al-Fadl al-.” In התסתרים: המשפחה והכת, (תל אביב: המכון לחקר התפוצות, 1981), pp. 65-63.</title>
+                  <ptr target="https://jalit.org/bibl/SVPXRV7K"/>
                </bibl>
                <idno type="URI" subtype="isni"/>
                <idno type="URI" subtype="viaf">http://viaf.org/viaf/82146461459227730116</idno>

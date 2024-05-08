@@ -23,7 +23,6 @@
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
                >Gregor Schwarb
                </editor>
-            
             <editor xml:id="mmoliere" role="contributor"
                ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
                >Maximilian de Molière
@@ -51,6 +50,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
+         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
    </teiHeader>
@@ -133,10 +133,17 @@
                <residence>
                   <placeName ref="" cert="" source=""/>
                </residence>
-               <bibl xml:id="">
-                  <title/>
-                  <citedRange unit="p"/>
-                  <ptr target=""/>
+               <bibl type="bibliography" xml:id="jalit-orgbiblDS8Q72EP">
+                  <title>“Али бен-Авраам Ал-Тавил.” Еврейская энциклопедия, (С.-Петербургъ: Брокгауза и Ефрона, 1908), p. 866.</title>
+                  <ptr target="https://jalit.org/bibl/DS8Q72EP"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblCPKJUGRG">
+                  <title>Bloch, Isaac. “Ali b Abraham Al-Tawil.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), p. 392.</title>
+                  <ptr target="https://jalit.org/bibl/CPKJUGRG"/>
+               </bibl>
+               <bibl type="bibliography" xml:id="jalit-orgbiblHFS7SM2Y">
+                  <title>Margoliouth, G. “Ibn Al-Hītī's Arabic Chronicle of Karaite Doctors.” The Jewish Quarterly Review 9, no. 3 (1897): pp. 429-443. doi: 10.2307/1450677. </title>
+                  <ptr target="https://jalit.org/bibl/HFS7SM2Y"/>
                </bibl>
                <idno type="URI" subtype="isni"/>
                <idno type="URI" subtype="viaf"/>
