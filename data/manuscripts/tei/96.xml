@@ -38,6 +38,7 @@
             <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
             <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
             <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
@@ -131,7 +132,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-05-03T16:28:21.525Z">Yevr.-Arab. I 211 (join test 2)</change><change who="#rboehm" when="2024-01-18T10:48:19.118Z">Yevr.-Arab. I 211</change>
+         <change who="#rboehm" when="2024-05-10T21:08:25.677Z">Yevr.-Arab. I 211 (joins)</change><change who="#rboehm" when="2024-05-03T16:28:21.525Z">Yevr.-Arab. I 211 (join test 2)</change>
+            <change who="#rboehm" when="2024-01-18T10:48:19.118Z">Yevr.-Arab. I 211</change>
             <change who="#eporat" when="2020-03-01">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
@@ -180,15 +182,18 @@
                   <ab type="codicological-definition">
                      <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
-                     <listBibl><bibl>
+                     <listBibl>
+                                <bibl>
       <ptr target=""/>
       <citedRange unit=""/>
       <idno type="">Yevr.-Arab. I 280</idno>
    </bibl>
-                        <bibl><ptr target=""/>
+                        <bibl>
+                                    <ptr target="https://jalit.org/manuscript/304"/>
                            
                            <citedRange unit="folios"/>
-                           <idno type="manuscript-join">Yevr.-Arab. I 1456</idno><ptr target="https://jalit.org/manuscript/81"/>
+                           <idno type="manuscript-join">Yevr.-Arab. I 1456</idno>
+                                    <ptr target="https://jalit.org/manuscript/81"/>
                         </bibl>
                      </listBibl>
                   </ab>
