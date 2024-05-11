@@ -37,7 +37,8 @@
             <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
             <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
             <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref=""/>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
@@ -130,7 +131,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-04-14T19:57:10.896Z">Yevr.-Arab. I 2640</change><change who="#eporat" when="2022-03-30">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-05-11T15:02:30.646Z">join</change><change who="#rboehm" when="2024-04-14T19:57:10.896Z">Yevr.-Arab. I 2640</change>
+            <change who="#eporat" when="2022-03-30">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
       </revisionDesc>
@@ -177,11 +179,27 @@
                   <ab type="codicological-definition">
                      <objectType rend="vertical-rectangle" style="codex">Single
                                                   manuscript</objectType>
-                     <listBibl>
-                        <bibl>
-                           <idno type="manuscript-join"/>
-                           <citedRange unit="folios"/>
-                           <ptr target=""/>
+                     <listBibl><bibl>
+      <idno type="">Yevr.-Arab. I 2639</idno><ptr target="https://jalit.org/manuscript/266"/>
+      
+      
+   </bibl><bibl>
+      <idno type="">Yevr.-Arab. I 4426</idno><ptr target="https://jalit.org/manuscript/258"/>
+      
+      
+   </bibl><bibl>
+      <idno type="">Yevr.-Arab. I 4427</idno><ptr target="https://jalit.org/manuscript/298"/>
+      
+      
+   </bibl><bibl>
+      <idno type="">Yevr.-Arab. I 4428</idno><ptr target="https://jalit.org/manuscript/297"/>
+      
+      
+   </bibl>
+                        <bibl><idno type="manuscript-join">Yevr.-Arab. I 4429</idno><ptr target="https://jalit.org/manuscript/296"/>
+                           
+                           
+                           
                         </bibl>
                      </listBibl>
                   </ab>
