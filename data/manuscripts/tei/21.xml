@@ -40,6 +40,7 @@
             <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
@@ -133,7 +134,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-04-28T22:20:54.983Z">Yevr.-Arab. I 3812 (4)</change><change who="#rboehm" when="2024-04-21T20:25:03.348Z">Yevr.-Arab. I 3812 (3)</change>
+         <change who="#rboehm" when="2024-05-11T16:58:06.269Z">join</change><change who="#rboehm" when="2024-04-28T22:20:54.983Z">Yevr.-Arab. I 3812 (4)</change>
+            <change who="#rboehm" when="2024-04-21T20:25:03.348Z">Yevr.-Arab. I 3812 (3)</change>
             <change who="#rboehm" when="2024-04-21T19:46:59.453Z">Yevr.-Arab. I 3812</change>
             <change who="#rboehm" when="2024-04-21T13:45:08.040Z">Yevr.-Arab. I 3812 (1)</change>
             <change who="#eporat" when="2021-02-21">Cataloged the manuscript into a Word-File.</change>
@@ -188,9 +190,9 @@
                                                   manuscript</objectType>
                      <listBibl>
                         <bibl>
-                           <idno type="manuscript-join"/>
-                           <citedRange unit="folios"/>
-                           <ptr target=""/>
+                           <idno type="manuscript-join">Yevr.-Arab. I 3848</idno>
+                           
+                           <ptr target="https://jalit.org/manuscript/284"/>
                         </bibl>
                      </listBibl>
                   </ab>
