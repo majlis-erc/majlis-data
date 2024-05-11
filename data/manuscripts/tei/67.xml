@@ -37,7 +37,8 @@
             <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
             <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
             <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor><editor role="creator" ref=""/>
+            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
@@ -130,7 +131,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-04-16T21:56:08.656Z">Yevr.-Arab. I 3205</change><change who="#eporat" when="2022-01-06">Cataloged the manuscript into a Word-File.</change>
+         <change who="#rboehm" when="2024-05-11T14:44:41.782Z">join</change><change who="#rboehm" when="2024-04-16T21:56:08.656Z">Yevr.-Arab. I 3205</change>
+            <change who="#eporat" when="2022-01-06">Cataloged the manuscript into a Word-File.</change>
          <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#plakteikina" when="2022-10-01">Transcribed Harkavy heritage data.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
@@ -181,9 +183,9 @@
                                                   manuscript</objectType>
                      <listBibl>
                         <bibl>
-                           <idno type="manuscript-join"/>
-                           <citedRange unit="folios"/>
-                           <ptr target=""/>
+                           <idno type="manuscript-join">Yevr.-Arab. I 2031</idno>
+                           
+                           <ptr target="https://jalit.org/manuscript/87"/>
                         </bibl>
                      </listBibl>
                   </ab>
