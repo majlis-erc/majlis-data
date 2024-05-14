@@ -253,12 +253,7 @@
                         </bibl>
                      </listBibl>
                   </surrogates>
-                  <listBibl>
-                     <bibl>
-                        <title>Ktiv</title>
-                        <ptr target="https://digitalcollections.jtsa.edu/islandora/object/jts%3A303167"/>
-                     </bibl>
-                  </listBibl>
+                  <listBibl/>
                </additional>
             </msDesc>
          </listBibl>
