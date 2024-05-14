@@ -275,12 +275,7 @@
                         </bibl>
                      </listBibl>
                   </surrogates>
-                  <listBibl>
-                     <bibl>
-                        <title>Ktiv</title>
-                        <ptr target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2600_fs001r"/>
-                     </bibl>
-                  </listBibl>
+                  <listBibl/>
                </additional>
             </msDesc>
          </listBibl>

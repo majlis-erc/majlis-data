@@ -258,12 +258,7 @@
                         </bibl>
                      </listBibl>
                   </surrogates>
-                  <listBibl>
-                     <bibl>
-                        <title>Ktiv</title>
-                        <ptr target="http://www.aleppocodex.org/"/>
-                     </bibl>
-                  </listBibl>
+                  <listBibl/>
                </additional>
             </msDesc>
          </listBibl>
