@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"><change who="#" when=""/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -74,7 +74,9 @@
                 <language ident="ar">Arabic</language>
             </langUsage>
         </profileDesc>
-        <revisionDesc status="draft"/>
+        <revisionDesc status="draft">
+            <change who="#mmoliere" when="2024-05-21">Created TEI-File.</change>
+      </revisionDesc>
     </teiHeader>
     <text>
         <body>
