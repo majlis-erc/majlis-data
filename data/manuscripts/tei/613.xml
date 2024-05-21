@@ -75,8 +75,11 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
+         <change who="#gschwarb" when="2024-04-24T05:15:29.469Z">Text layout</change><change who="#gschwarb" when="2024-04-24T04:58:51.667Z">writing material</change>
+         <change who="#gschwarb" when="2024-04-23T14:44:50.217Z">Identification; Reproductions; Codicological definition; Content description</change>
+         
          <change who="#mmoliere" when="2024-05-14">Converted Zotero data into TEI-File.</change>
-         <change who="#external" when="2024-05-14">Checked by Friederike Schmidt.</change>
+         <change who="#external" when="2024-04-14">Checked by Friederike Schmidt.</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -104,24 +107,24 @@
                      <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                      <textLang mainLang="ar" otherLangs=""/>
                      <incipit>
-                        <locus from="" to=""/>
-                        <quote xml:lang="ar-Hebr"/>
+                        <locus from="1r" to="1r"/>
+                        <quote xml:lang="ar">والقصّ مختلفي الحكم. فأما القص فإنه ...</quote>
                      </incipit>
                      <explicit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar"/>
+                        <quote xml:lang="ar">وقيل انّ الحيرش [חרש] هو الاصمّ والخلاف في ان ليس هو وحده المراد بقوله لو تقليل حيرش [לא תקלל חרש]</quote>
                      </explicit>
                      <note xml:lang=""/>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
-                     <objectType rend="" style="codex">Single manuscript</objectType>
+                     <objectType rend="vertical-rectangle" style="codex">Single
+                        manuscript</objectType>
                      <listBibl>
-                        <bibl>
-                           <idno type="manuscript-join"/>
-                           <citedRange unit="folios"/>
-                           <ptr target=""/>
+                        <bibl xml:id="jalit-orgmanuscript876">
+                           <idno>St. Petersburg, National Library of Russia, Yevr.-Arab. I 3260</idno>
+                           <ptr target="https://jalit.org/manuscript/876"/>
                         </bibl>
                      </listBibl>
                   </ab>
@@ -138,16 +141,16 @@
                               <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation style="" rendition=""/>
+                        <foliation style="foliation" rendition="modern"/>
                         <collation>
-                           <formula/>
+                           <formula>5</formula>
                            <unit/>
-                           <catchwords/>
-                           <note xml:lang=""/>
+                           <catchwords>Signatures at the beginning of quires</catchwords>
+                           <note xml:lang="ar"> ثامنة عشر (9r), تاسعة عشر (20r), رابعة عشر (23r), خا (31r), حادية عشر (95r), ثانية عشر (105r), ثالثة [عشر] (135r),  سادسة [عشر] (165r), سابعة [عشر] (175r)</note>
                         </collation>
                         <condition>
-                           <note xml:lang=""/>
-                           <ab type="writing" rend=""/>
+                           <note xml:lang="en">most pages are damaged and worm-eaten</note>
+                           <ab type="writing" rend="visible"/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -186,8 +189,14 @@
                   <decoDesc>
                      <summary xml:lang=""/>
                      <decoNote>
-                        <desc/>
-                        <note xml:lang=""/>
+                        <desc>Paragraph marks and textual dividers</desc>
+                        <note xml:lang="">القول في العولا (9r) 
+                           القول في المنحا (12v)
+                           فصل جامع الكلام في الصاراعث (99v)
+                           القول في الباهارث (100r)
+                           القول في السفاحث (100v)
+                           القول في الصاراعث التي تخص الراس (101v)
+                        </note>
                      </decoNote>
                   </decoDesc>
                   <additions>
