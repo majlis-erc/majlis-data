@@ -31,7 +31,8 @@
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt><editor role="creator" ref=""/>
+            </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -52,7 +53,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="#rboehm" when="2024-05-21T16:25:52.562Z">join</change><change who="#rboehm" when="2024-05-17T17:56:44.502Z">join</change>
+         <change who="#mmoliere" when="2024-05-24T12:34:50.292Z">added mentioned person</change><change who="#rboehm" when="2024-05-21T16:25:52.562Z">join</change>
+            <change who="#rboehm" when="2024-05-17T17:56:44.502Z">join</change>
          <change who="#rboehm" when="2024-05-14T06:40:51.336Z">Yevr.-Arab. I 19</change>
          <change who="#mmoliere" when="2024-05-14">Converted Zotero data into TEI-File.</change>
          <change who="#plakteikina" when="2022-10-01">Translated Harkavy heritage data.</change>
@@ -115,7 +117,8 @@
                      <objectType rend="vertical-rectangle" style="codex">Single
                         manuscript</objectType>
                      <listBibl>
-                        <bibl><citedRange unit="">128-132</citedRange>
+                        <bibl>
+                                    <citedRange unit="">128-132</citedRange>
                            <idno type="manuscript-join">Yevr.-Arab. II 1039.40</idno>
                            
                            <ptr target="https://jalit.org/manuscript/894"/>
@@ -191,7 +194,7 @@
                      <list>
                         <item xml:id="add-1111">
                            <objectType>Certificates of endowment</objectType>
-                           <persName ref="" role="mentioned"/>
+                           <persName ref="https://jalit.org/person/30">Abū Yaʿqūb b. Baḫtawayh</persName>
                            <locus from="1r"/>
                            <quote xml:lang="he">זה הספר יש בו פתרון אלה הדברים קדש ליי אלהי ישראל הקדישו הזקן הטוב יפת בן מבשר נ'נ' הנודע בן העני ישמרו צורו וימלא משאלותיו לעולם הזה ולעולם הבא והקדישו על עדת בני מקרא בירושלם עיר הקדש אלהים יכוננה עד עולם סלה ויהיה מעת הקדישו תחת ידו בכל מקום שילך אליו מכל המדינות יקרא בו הוא וכל מי יחפץ כל ימי חייו ואחרי כן יֻתן הספר הזה בחצר המלמד יוסף בן בכתויה נ'נ' בירושלם תחת יד עזריה הכהן המלמד בן מצליח בן סהל נ'נ' ארור גונבו ומוכרו וקונהו אם לא ישיבהו אל קדושתו וארור מעביטו וארור עובטו וארור מוציאו מן החצר הזה אחרי היותו בו זולת עת צרה. וברוך מקדישו ומקיים קדושתו אמן ואמן</quote>
                            <note xml:lang=""/>
