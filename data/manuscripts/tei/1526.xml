@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">New York, Jewish Theological Seminary, Ms.Ms. 3450</title>
+            <title level="a" xml:lang="en">New York, Jewish Theological Seminary, Ms. 3450</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of
                                         Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -89,8 +89,7 @@
                   <settlement>New York</settlement>
                   <repository>Jewish Theological
                     Seminary</repository>
-                  <collection>Ms.</collection>
-                  <idno>Ms. 3450</idno>
+                  <idno>3450</idno>
                   <altIdentifier type="Ktiv">
                      <idno>PNX_MANUSCRIPTS990001069410205171</idno>
                   </altIdentifier>
