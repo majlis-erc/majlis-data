@@ -289,10 +289,11 @@
                      <bibl>
                         <title>Lebedev, Viktor Vladimirovič. Catalogue of the Firk. Arab. Collection at the National Library of Russia. [Арабские рукописи. (Фирк. араб.). 656 ед. хр. 10–19вв] (St. Petersburg: n.d.)</title>
                         <citedRange unit="section">1060</citedRange>
+                        <ptr target="https://jalit.org/bibl/ZN3SRVKH"/>
                      </bibl>
                      <bibl>
                         <title>Schmidtke, Sabine. “Muʿtazilī Manuscripts in the Abraham Firkovitch Collection, St. Petersburg: A Descriptive Catalogue.” In A Common Rationality. Muʿtazilism in Islam and Judaism, edited by Camilla Adang (Würzburg: Ergon Verlag, 2007)</title>
-                        <citedRange unit="p"/>
+                        <citedRange unit="p">443, no. 25</citedRange>
                         <ptr target="https://jalit.org/bibl/B66JZ3WG"/>
                      </bibl>
                   </listBibl>
