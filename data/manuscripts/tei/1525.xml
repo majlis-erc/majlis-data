@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, </title>
+            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Firk. Arab. 627</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of
                                         Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -87,7 +87,7 @@
                   <settlement>St. Petersburg</settlement>
                   <repository>National Library of Russia</repository>
                   <collection>Firk. Arab.</collection>
-                  <idno/>
+                  <idno>627</idno>
                </msIdentifier>
                <msContents>
                   <summary xml:lang=""/>
@@ -288,7 +288,8 @@
                   <listBibl>
                      <bibl>
                         <title>Lebedev, Viktor Vladimirovič. Catalogue of the Firk. Arab. Collection at the National Library of Russia. [Арабские рукописи. (Фирк. араб.). 656 ед. хр. 10–19вв] (St. Petersburg: n.d.)</title>
-                        <citedRange unit="section"/>
+                        <citedRange unit="section">no. 1059</citedRange>
+                        <ptr target="https://jalit.org/bibl/ZN3SRVKH"/>
                      </bibl>
                   </listBibl>
                </additional>

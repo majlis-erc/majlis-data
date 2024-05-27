@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, </title>
+            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Firk. Arab. 651</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of
                                         Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -88,7 +88,7 @@
                   <settlement>St. Petersburg</settlement>
                   <repository>National Library of Russia</repository>
                   <collection>Firk. Arab.</collection>
-                  <idno/>
+                  <idno>651</idno>
                </msIdentifier>
                <msContents>
                   <summary xml:lang=""/>
@@ -290,7 +290,13 @@
                   <listBibl>
                      <bibl>
                         <title>Lebedev, Viktor Vladimirovič. Catalogue of the Firk. Arab. Collection at the National Library of Russia. [Арабские рукописи. (Фирк. араб.). 656 ед. хр. 10–19вв] (St. Petersburg: n.d.)</title>
-                        <citedRange unit="section"/>
+                        <citedRange unit="section">no. 1046</citedRange>
+                        <ptr target="https://jalit.org/bibl/ZN3SRVKH"/>
+                     </bibl>
+                     <bibl>
+                        <title>Schmidtke, Sabine. “Muʿtazilī Manuscripts in the Abraham Firkovitch Collection, St. Petersburg: A Descriptive Catalogue.” In A Common Rationality. Muʿtazilism in Islam and Judaism, edited by Camilla Adang (Würzburg: Ergon Verlag, 2007)</title>
+                        <citedRange unit="p">no. 38, pp. 458f.</citedRange>
+                        <ptr target="https://jalit.org/bibl/B66JZ3WG"/>
                      </bibl>
                   </listBibl>
                </additional>
