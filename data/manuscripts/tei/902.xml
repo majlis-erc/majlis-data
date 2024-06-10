@@ -343,11 +343,10 @@
                   </surrogates>
                   <listBibl>
                      <bibl>
-                        <title>Haggai Ben-Shammai et. al. Yefet ben ʿEli al-Basri, Commentary on
-                        Genesis. A sample catalogue, texts and studies</title>
-                        <citedRange unit="p"/>
-                        <ptr target="https://jalit.org/bibl/LUABMNBV"/>
-                     </bibl>
+    <title>חגי בן-שמאי et al., כתבי היד בערבית-יהודית באוספי פירקוביץ’ - יפת בן עלי אלבצרי: פירוש בראשית. קטלוג לדוגמה, מקורות ומחקרים || Judaeo-Arabic manuscripts in the Firkovitch Collections: Yefet ben ʿEli al-Basri, Commentary on Genesis. A sample catalogue, texts and studies, המפעל לחקר התרבות הערבית-היהודית וספרותה, סדרת פירסומים || Center for the Study of Judaeo-Arabic Culture and Literature: Publications (Jerusalem || ירושלים: Ben-Zvi Institute for the Study of Jewish Communities in the East || מכון בן-צבי לחקר קהילות ישראל במזרח, 2000), https://www.jstor.org/stable/23585899.</title>
+    <citedRange unit="p"/>
+    <ptr target="https://jalit.org/bibl/LUABMNBV"/>
+</bibl>
                      <bibl>
                         <title>Ktiv</title>
                         <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001073000205171"/>
