@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" class="test6">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,7 +31,8 @@
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt><editor role="creator" ref=""/>
+            </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -41,18 +42,19 @@
             <idno type="URI">https://jalit.org/manuscript/512</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0
-                                            International (CC BY 4.0) License.</p>
+                  <p><p>Distributed under a Creative Commons Attribution 4.0
+<lb/>                                            International (CC BY 4.0) License.</p></p>
                </licence>
             </availability>
             <date>2024-05-14</date>
          </publicationStmt>
          <sourceDesc>
-            <p>Born digital.</p>
+            <p><p>Born digital.</p></p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="#rboehm" when="2024-05-17T18:25:51.101Z">Yevr.-Arab. I 95</change><change who="#mmoliere" when="2024-05-14">Converted Zotero data into TEI-File.</change>
+         <change who="#rboehm" when="2024-06-10T22:13:14.565Z">Yevr.-Arab. I 95 fix</change><change who="#rboehm" when="2024-05-17T18:25:51.101Z">Yevr.-Arab. I 95</change>
+            <change who="#mmoliere" when="2024-05-14">Converted Zotero data into TEI-File.</change>
          <change who="#plakteikina" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#lgzella" when="2022-10-01">Transcribed Harkavy heritage data.</change>
          <change who="#external" when="2024-05-14">Checked by Friederike Schmidt.</change>
@@ -77,7 +79,8 @@
                </msIdentifier>
                <msContents>
                   <summary xml:lang=""/>
-                  <msItem class="" xml:id="item-11"><note xml:lang=""/>
+                  <msItem class="" xml:id="item-11">
+                            <note xml:lang=""/>
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">Commentary on Deuteronomy 5:6-10; 9:23-29; 10:1-15, 17-22; 11–13; 14:1, 12-29; 15:1, 5-6, 8-9, 10-12, 15-17, 19-23; 16:1, 9-12, 13-15, 18-22; 17:1-9, 14-18; 18–24; 25:1-8, 12-19; 33:8, 9, 11-12</title>
                      <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
@@ -130,10 +133,8 @@
                         </condition>
                      </supportDesc>
                      <layoutDesc>
-                        <summary>
-                           <desc/>
-                           <note xml:lang=""/>
-                        </summary>
+                        <summary><p>
+<lb/>                           </p></summary>
                         <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
@@ -171,14 +172,16 @@
                   </decoDesc>
                   <additions>
                      <list>
-                        <item xml:id="add-1111"><note xml:lang="">אלעזר צמח הנשיא :According to the catalogue</note><quote xml:lang="he">[אליעז[ר
-
-</quote><locus from="87r"/><objectType>Ownership statements</objectType>
-                           <objectType>Bequest statements</objectType>
+                        <item xml:id="add-1111"><objectType>Ownership statements</objectType>
+                                    <note xml:lang=""><p>אלעזר צמח הנשיא :According to the catalogue</p></note>
+                                    <quote xml:lang="he"><p>[אליעז[ר</p><p/></quote>
+                                    <locus from="87r"/>
+                                    <objectType>Certificates of endowment</objectType>
+                           <objectType>Certificates of endowment</objectType>
                            <persName ref="" role="mentioned"/>
                            <locus from="87r"/>
-                           <quote xml:lang="he">קדש לאל[הי י]שראל בחצר יוסף בן בכתויה 
-ברוך שומרו אמן</quote>
+                           <quote xml:lang="he"><p>קדש לאל[הי י]שראל בחצר יוסף בן בכתויה 
+<lb/>ברוך שומרו אמן</p></quote>
                            <note xml:lang=""/>
                         </item>
                      </list>
@@ -203,34 +206,34 @@
                   <accMat>
                      <list>
                         <item>
-                           <note xml:lang="en">Avraham E. Harkavy (1835–1919) was one of the most important
-                Russian Orientalist of the 19th century. He received his doctoral degree in
-                1872. During the same year, he was attached to the Ministry of National
-                Education. On June 1, 1872, he was commissioned to the Imperial Public
-                Library in St. Petersburg to sort and study the manuscripts of the First
-                Firkovitch Collection and the Samaritan Collections. The following years,
-                Harkavy collaborated with Hermann Strack of Leipzig University in the New
-                (Mangup) Synagogue in Chufut-Qal’eh on examining and sorting the manuscripts
-                of the Second Firkovitch Collection which was subsequently acquired by the
-                Imperial Public Library in 1876. On January 9, 1876, he was appointed a
-                librarian there by order of Emperor Alexander II, and made head of the
-                Department of Hebrew Books. He was the first curator of the Firkovitch
-                collections. His unpublished cataloging of these collections consists of
-                slips of paper ("Harkavy cards"), placed together with each manuscript, that
-                record his identification of and/or a brief description of that manuscript.
-                These slips were the foundation for his handwritten four-volume inventory of
-                the Yevr.-Arab. section of the Second Firkovitch Collection. (Daria
-                Vasyutinsky Shapira, Early Stages of Research of the Firkowicz Collections
-                Manuscripts: The Emergence of Russian Jewish Studies. PhD thesis,
-                Beer-Sheva: Ben-Gurion University of the Negev, 2018, pp. 121–182).</note>
+                           <note xml:lang="en"><p>Avraham E. Harkavy (1835–1919) was one of the most important
+<lb/>                Russian Orientalist of the 19th century. He received his doctoral degree in
+<lb/>                1872. During the same year, he was attached to the Ministry of National
+<lb/>                Education. On June 1, 1872, he was commissioned to the Imperial Public
+<lb/>                Library in St. Petersburg to sort and study the manuscripts of the First
+<lb/>                Firkovitch Collection and the Samaritan Collections. The following years,
+<lb/>                Harkavy collaborated with Hermann Strack of Leipzig University in the New
+<lb/>                (Mangup) Synagogue in Chufut-Qal’eh on examining and sorting the manuscripts
+<lb/>                of the Second Firkovitch Collection which was subsequently acquired by the
+<lb/>                Imperial Public Library in 1876. On January 9, 1876, he was appointed a
+<lb/>                librarian there by order of Emperor Alexander II, and made head of the
+<lb/>                Department of Hebrew Books. He was the first curator of the Firkovitch
+<lb/>                collections. His unpublished cataloging of these collections consists of
+<lb/>                slips of paper ("Harkavy cards"), placed together with each manuscript, that
+<lb/>                record his identification of and/or a brief description of that manuscript.
+<lb/>                These slips were the foundation for his handwritten four-volume inventory of
+<lb/>                the Yevr.-Arab. section of the Second Firkovitch Collection. (Daria
+<lb/>                Vasyutinsky Shapira, Early Stages of Research of the Firkowicz Collections
+<lb/>                Manuscripts: The Emergence of Russian Jewish Studies. PhD thesis,
+<lb/>                Beer-Sheva: Ben-Gurion University of the Negev, 2018, pp. 121–182).</p></note>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="ru">p. 2 / N. 95 (387) / Изъ коммент. на Второзак. Jeфета (см. N. 73) / N. 96 (387) / Изъ коммент. Второзак. Jeфета (см. N. 73) / на пергамент
-                     ѣ
-                   / N. 97 (387) / 1 л. изъ коммент. на П
-                     ѣснь Пѣсней 
-                  на пергамент
-                     ѣ
-                   / I / p. 3 / N. 95 (387) / Изъ коммент. Второзаконіе Jeфета (см. N. 73) / II / 232 л. /</quote>
+                           <quote xml:lang="ru"><p>p. 2 / N. 95 (387) / Изъ коммент. на Второзак. Jeфета (см. N. 73) / N. 96 (387) / Изъ коммент. Второзак. Jeфета (см. N. 73) / на пергамент
+<lb/>                     ѣ
+<lb/>                   / N. 97 (387) / 1 л. изъ коммент. на П
+<lb/>                     ѣснь Пѣсней 
+<lb/>                  на пергамент
+<lb/>                     ѣ
+<lb/>                   / I / p. 3 / N. 95 (387) / Изъ коммент. Второзаконіе Jeфета (см. N. 73) / II / 232 л. /</p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
                               <citedRange unit="p"/>
@@ -240,15 +243,15 @@
                         <item>
                            <note xml:lang="en"/>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="en">p. 2 / N. 95 (387) / From the commentary on 
-                     Deuteronomy by Yefet (cf. 
-                  N. 73) / N. 95 (387) / From the commentary of 
-                     Deuteronomy by Yefet
-                   / On parchment / N. 95 (387) / 1 folio from the Commentary on 
-                     Song of Songs o
-                  n parchment / I / p. 3 / N. 95 (387) / From the commentary of 
-                     Deuteronomy by Yefet (cf. N. 
-                  73) / II / 232 folios /</quote>
+                           <quote xml:lang="en"><p>p. 2 / N. 95 (387) / From the commentary on 
+<lb/>                     Deuteronomy by Yefet (cf. 
+<lb/>                  N. 73) / N. 95 (387) / From the commentary of 
+<lb/>                     Deuteronomy by Yefet
+<lb/>                   / On parchment / N. 95 (387) / 1 folio from the Commentary on 
+<lb/>                     Song of Songs o
+<lb/>                  n parchment / I / p. 3 / N. 95 (387) / From the commentary of 
+<lb/>                     Deuteronomy by Yefet (cf. N. 
+<lb/>                  73) / II / 232 folios /</p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
                               <citedRange unit="p"/>
@@ -256,16 +259,16 @@
                            </bibl>
                         </item>
                         <item>
-                           <note xml:lang="en">The “Harkavy cards,” created by Avraham E. Harkavy
-                (1835–1919), were the foundation for his handwritten four-volume inventory
-                of the Yevr.-Arab. section of the Second Firkovitch Collection. This
-                inventory is today held at the Vernadsky National Library of Ukraine in
-                Kyiv, and also served as the basis of the library’s card catalog prepared
-                over the years by Harkavy himself, F. Kokovtzov, R. Ravrebe, A. Vasilev, and
-                V. Lebedev. </note>
+                           <note xml:lang="en"><p>The “Harkavy cards,” created by Avraham E. Harkavy
+<lb/>                (1835–1919), were the foundation for his handwritten four-volume inventory
+<lb/>                of the Yevr.-Arab. section of the Second Firkovitch Collection. This
+<lb/>                inventory is today held at the Vernadsky National Library of Ukraine in
+<lb/>                Kyiv, and also served as the basis of the library’s card catalog prepared
+<lb/>                over the years by Harkavy himself, F. Kokovtzov, R. Ravrebe, A. Vasilev, and
+<lb/>                V. Lebedev. </p></note>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="he"> / מפי' דברים (ליפת, וכפי הנראה אחד הוא עם N.73 מכ״י אברהם ן' עמרם מאל קאהרה וצריך להשוותו עם N.86 ובסוף פרשת עקב נמצא השיר הזה: / [ובראשי החרוזים השם עלי כפול]  / עורו עורו עצלים ממשכבים:  / עד מתי אתם עגבים:  / למה תשקלו כסף ואתם צמאים רעבים: / לכו לחמו בלחמי ורוו ממעוני משאבים:  / יד תתנו לייי ולתורתו היו מקשיבים: / יזכר לנו בריתו ויתננו לרחמים לפני כל שובים / ככ̇ וירא בצר להם בשמעו את רנתם. / ויזכר להם בריתו וינחם כרב חסדיו: / ויתן אותם לרחמים לפני כל שוביהם. / ברוך יי לעולם אמן ואמן: / (ולפסוק שמור את חדש האביב (ט״ז א') פלפול ארוך שאביא ממנו קצת במה שנוגע לרס״ג: / וקולה חדש האביב יוגב עלינא חפט̇ הד̇א אלשהר מן סאיר שהור אלסנה אד כאן הו אלאצל והו אול שהור אלסנה כק̇ ראשון הוא לכם לחדשי השנה וערף אן הדא אלראשון הו חדש אביב. כק̇ משה ע̇ אלס̇ פי אלאעדה היום אתם יוצאים בחדש האביב: פדל מן הדא אלקול אן כרגו מן מצרים פי שהר אלאביב ואוגב עליהם אן יעמלון בעד דכולהם אלי אלארץ̇ חג המצות פי הדא אלשהר כק̇ והיה כי יביאם ייי ועבדת את העבדה הזאת בחדש הזה. פהדא אלנץ יוצ̇ח אן אפתראץ̇ חג המצות אבדא פי חדש אביב פאדא כאן הדא הכדי בטל קול מן קאל אן חדש האביב אופתרצ̇ת בני ישראל אן יעמלו פיה אלחג סנה כרוגהם מן מצר פקט וליס יריד בקולה חדש האביב לקב אלשהר מתל ניסן אלול וטבת וסאיר אסמא אלשהור כמא אדעא בעץ̇ אלמצ̇לין ואנמא אביב הו אסם זרע בקולה כי השעורה אביב. וקאל אביב קלוי באש גרש כרמל. ואעלם ארשדך אללה אנא לם נגד פי אלתורה אסם לשהר אכתר מן ראשון ושני ושלישי פכנא נגוז אן יכון חדש האביב נט̇יר תל אביב בל ראינא אלאסמא אלתי סמא אללה בהא אלאעיאד כלהא למעאני מוגודה פיהא בקולה חג המצ̇ות חג הקציר חג האסיף יום הכפורים יום תרועה ליס מנהא שי הו אסם לה ואנמא הו אפעאל ומעאני מוגודה פיהא: ווגה אכר הו אן אלאמה מגמעה עלי אן חדש אביב הו אסם ללזרע. ואמא מנעה אן יכון אלאביב דליל לחדש ראשון לאנה לם יגד פי אלתורה מכתוב פי אי בלד יוטלב ולא אי וקת מן אלשהר ולא מערפה אלכמייה ואלכיפיה ואלמאהיה פליס הי חגה אד כאן לנא פראיץ̇  כתירה נט̇יר אלאביב לם ידכר להא כיפיה וכמיה ומאהיה מן דלך פאת שדה ועמר וחלה ונט̇אירהם פאן גאז אן יפתרץ̇  עלינא בפאה וחלה ועמר בלא כמייה וכיפיה מנצחצה אסתקאם אן יכון אלאביב איצ̇א דליל ללשהר ואן לם יכן לה כיפיה וכמייה עלי דעואה פאן קאל אן ללפאה ואלעמר וגירהם כמיה מערופה נערפה מן גיר אלנץ. קיל לה קד נקצ̇ת מא אדעיתה פי אבטאל אלאביב אד לם תגד לה כמייה מנצתצה ועליה איצ̇א אנה לא יקדר אן ינכר אן אלאואיל דכרו פי כתבהם אלאביב ואנה כאן אחד אלדלאיל עלי אלכבאים ולקד אקר צאחב הדא אלקול פי כתאב אלרד עלי אבן סאקוי וזעם אן אלאביב הו אצל תעמל עליה אלכבאיס מתל אלתקופות פאדא כאן הדא קולה פקד אבטל מא אדעאה אן האביב הו אסם ללשהר ובטל איצ̇א קולה אנה ליס הו בדליל אד לם תֻדכר כמיתה וכיפיתה. תם יקאל לה אכברנא עמא כאן יעמלו אצולך פי אלתמאסהם אללאביב ויעברון אלסמן עליה הל כאן ליד ענדהם כמייה מערופה וכיפיה מעלומה וסאיר מא דכרתה אם לא פאן כאן לם יכונו יערפו שי מן הדא פקד סקטת מטאלבתה לנא ורגעת אלמטאלבה עליה. פאמא אן יוסקט קול אצחאבה או ילתזם אן אלאביב דליל ללשהר אלאול פהדא קול אכתצרתה פי הדא אלמעני: ואמא מא דכרה מן מד̇אהב אצחאב אלאביב פי אלכמייה ואלכיפיה ופי אי יום מן אלשהר וגמיע מא דכרה פי כתאבה אלמלקב כתאב אלתמייז פאנה לו צדק פי גמיע מא דכרה מן אלמד̇אהב למא כאן בצ̇רר אד כאן אלכל אעני אלאמה באסרהא מגמעה עלי אן אלאביב הו אסם לזרע ואנה דליל אדא וגד פי ארץ ישראל ואן כאן יוגד פי אלאמה מן יכץ מטאלב אלאביב מוצ̇ע דון אלנהאיה ואלכמאל פי אלזרע ולמא אעתברו אהל אלנט̇ר ואלרצד אחואל אלזרע ראוה פי זיאדה אלי אן לא יבקא פי אלחבה חצ̇רה עלם אן אלזרע קד כמל ומא בקי עליה שי סוי אלגפאף פקט וכו׳ וכו׳.  / ובראש פרשת שופטים נמצאת הרשימה בכ״י מאוחר: קדש לי ['י אלהי ישר]אל בחצר יוסף בן בכתויה ברוך שומרו אמן. / ולפי דברי אבן רשף זהו כ״י עלי בנו של יפת המחבר בראיה מהשיר שבראשי חרוזיו עלי. / 
-                  Bundle number: </quote>
+                           <quote xml:lang="he"><p> / מפי' דברים (ליפת, וכפי הנראה אחד הוא עם N.73 מכ״י אברהם ן' עמרם מאל קאהרה וצריך להשוותו עם N.86 ובסוף פרשת עקב נמצא השיר הזה: / [ובראשי החרוזים השם עלי כפול]  / עורו עורו עצלים ממשכבים:  / עד מתי אתם עגבים:  / למה תשקלו כסף ואתם צמאים רעבים: / לכו לחמו בלחמי ורוו ממעוני משאבים:  / יד תתנו לייי ולתורתו היו מקשיבים: / יזכר לנו בריתו ויתננו לרחמים לפני כל שובים / ככ̇ וירא בצר להם בשמעו את רנתם. / ויזכר להם בריתו וינחם כרב חסדיו: / ויתן אותם לרחמים לפני כל שוביהם. / ברוך יי לעולם אמן ואמן: / (ולפסוק שמור את חדש האביב (ט״ז א') פלפול ארוך שאביא ממנו קצת במה שנוגע לרס״ג: / וקולה חדש האביב יוגב עלינא חפט̇ הד̇א אלשהר מן סאיר שהור אלסנה אד כאן הו אלאצל והו אול שהור אלסנה כק̇ ראשון הוא לכם לחדשי השנה וערף אן הדא אלראשון הו חדש אביב. כק̇ משה ע̇ אלס̇ פי אלאעדה היום אתם יוצאים בחדש האביב: פדל מן הדא אלקול אן כרגו מן מצרים פי שהר אלאביב ואוגב עליהם אן יעמלון בעד דכולהם אלי אלארץ̇ חג המצות פי הדא אלשהר כק̇ והיה כי יביאם ייי ועבדת את העבדה הזאת בחדש הזה. פהדא אלנץ יוצ̇ח אן אפתראץ̇ חג המצות אבדא פי חדש אביב פאדא כאן הדא הכדי בטל קול מן קאל אן חדש האביב אופתרצ̇ת בני ישראל אן יעמלו פיה אלחג סנה כרוגהם מן מצר פקט וליס יריד בקולה חדש האביב לקב אלשהר מתל ניסן אלול וטבת וסאיר אסמא אלשהור כמא אדעא בעץ̇ אלמצ̇לין ואנמא אביב הו אסם זרע בקולה כי השעורה אביב. וקאל אביב קלוי באש גרש כרמל. ואעלם ארשדך אללה אנא לם נגד פי אלתורה אסם לשהר אכתר מן ראשון ושני ושלישי פכנא נגוז אן יכון חדש האביב נט̇יר תל אביב בל ראינא אלאסמא אלתי סמא אללה בהא אלאעיאד כלהא למעאני מוגודה פיהא בקולה חג המצ̇ות חג הקציר חג האסיף יום הכפורים יום תרועה ליס מנהא שי הו אסם לה ואנמא הו אפעאל ומעאני מוגודה פיהא: ווגה אכר הו אן אלאמה מגמעה עלי אן חדש אביב הו אסם ללזרע. ואמא מנעה אן יכון אלאביב דליל לחדש ראשון לאנה לם יגד פי אלתורה מכתוב פי אי בלד יוטלב ולא אי וקת מן אלשהר ולא מערפה אלכמייה ואלכיפיה ואלמאהיה פליס הי חגה אד כאן לנא פראיץ̇  כתירה נט̇יר אלאביב לם ידכר להא כיפיה וכמיה ומאהיה מן דלך פאת שדה ועמר וחלה ונט̇אירהם פאן גאז אן יפתרץ̇  עלינא בפאה וחלה ועמר בלא כמייה וכיפיה מנצחצה אסתקאם אן יכון אלאביב איצ̇א דליל ללשהר ואן לם יכן לה כיפיה וכמייה עלי דעואה פאן קאל אן ללפאה ואלעמר וגירהם כמיה מערופה נערפה מן גיר אלנץ. קיל לה קד נקצ̇ת מא אדעיתה פי אבטאל אלאביב אד לם תגד לה כמייה מנצתצה ועליה איצ̇א אנה לא יקדר אן ינכר אן אלאואיל דכרו פי כתבהם אלאביב ואנה כאן אחד אלדלאיל עלי אלכבאים ולקד אקר צאחב הדא אלקול פי כתאב אלרד עלי אבן סאקוי וזעם אן אלאביב הו אצל תעמל עליה אלכבאיס מתל אלתקופות פאדא כאן הדא קולה פקד אבטל מא אדעאה אן האביב הו אסם ללשהר ובטל איצ̇א קולה אנה ליס הו בדליל אד לם תֻדכר כמיתה וכיפיתה. תם יקאל לה אכברנא עמא כאן יעמלו אצולך פי אלתמאסהם אללאביב ויעברון אלסמן עליה הל כאן ליד ענדהם כמייה מערופה וכיפיה מעלומה וסאיר מא דכרתה אם לא פאן כאן לם יכונו יערפו שי מן הדא פקד סקטת מטאלבתה לנא ורגעת אלמטאלבה עליה. פאמא אן יוסקט קול אצחאבה או ילתזם אן אלאביב דליל ללשהר אלאול פהדא קול אכתצרתה פי הדא אלמעני: ואמא מא דכרה מן מד̇אהב אצחאב אלאביב פי אלכמייה ואלכיפיה ופי אי יום מן אלשהר וגמיע מא דכרה פי כתאבה אלמלקב כתאב אלתמייז פאנה לו צדק פי גמיע מא דכרה מן אלמד̇אהב למא כאן בצ̇רר אד כאן אלכל אעני אלאמה באסרהא מגמעה עלי אן אלאביב הו אסם לזרע ואנה דליל אדא וגד פי ארץ ישראל ואן כאן יוגד פי אלאמה מן יכץ מטאלב אלאביב מוצ̇ע דון אלנהאיה ואלכמאל פי אלזרע ולמא אעתברו אהל אלנט̇ר ואלרצד אחואל אלזרע ראוה פי זיאדה אלי אן לא יבקא פי אלחבה חצ̇רה עלם אן אלזרע קד כמל ומא בקי עליה שי סוי אלגפאף פקט וכו׳ וכו׳.  / ובראש פרשת שופטים נמצאת הרשימה בכ״י מאוחר: קדש לי ['י אלהי ישר]אל בחצר יוסף בן בכתויה ברוך שומרו אמן. / ולפי דברי אבן רשף זהו כ״י עלי בנו של יפת המחבר בראיה מהשיר שבראשי חרוזיו עלי. / 
+<lb/>                  Bundle number: </p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Inventory.</title>
                               <citedRange unit="p"/>
@@ -293,53 +296,53 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang="en">The manuscripts of the First Firkovitch Collection (now
-                        known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovitch
-                        (1787–1874) on the Crimean Peninsula, in the Caucasus, and during his first
-                        trip to the Near East in 1830. This collection contains 830 manuscripts, 277
-                        of them (numbers 554–830) being Qaraite. Even though this collection is
-                        basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly
-                        containing Qaraite works (many of them biblical commentaries by Yefet ben
-                        ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of
-                        Karaite Manuscripts,” in Karaite Judaism: A Guide to its History and
-                        Literary Sources, edited by Meira Polliack (Leiden: Brill, 2003), pp.
-                        893–924 [p. 907].) Most of these 75 Arabic manuscripts were acquired in
-                        1830, probably by the agency of David ben Avraham ha-Levi (in Jerusalem),
-                        brother of Moshe ben Avraham ha-Levi (1810–1905, Qaraite chief rabbi in
-                        Cairo). (See Zeev Elkin and Menahem Ben-Sasson, “Abraham Firkovitch and the
-                        Cairo Genizas in the Light of his Personal Archive” [Hebrew], Peʿamim 90
-                        (2002): pp. 51–95 [p. 65, n. 48].) The First Firkovitch Collection was sold
-                        to the Imperial Public Library of the Russian Empire in 1862 for 100,000
-                        silver roubles. The Second Firkovitch Collection was acquired by Abraham ben
-                        Samuel Firkovitch (1787–1874) during his second trip to the Near East
-                        between the years 1863 and 1865 and was sold to the Imperial Public Library
-                        of the Russian Empire in 1876. It consists of more than 15,000 items,
-                        including Hebrew, Arabic, Judeo-Arabic, and Samaritan manuscripts. The
-                        majority of the collection appears to have originated from the Qaraite
-                        synagogue in Cairo. The Hebrew manuscripts of the Second Firkovitch
-                        Collection are divided into several separate collections: RNL Yevr. II A:
-                        Contains Hebrew works of law, exegesis, grammar and philology, theology,
-                        documents, etc. This collection contains 2,947 manuscripts. These include
-                        896 bibliographical items (including different texts found in a single
-                        miscellany) which are Qaraite. The manuscripts are almost entirely of a
-                        later date, including many of a Eastern European provenance containing
-                        liturgical texts, piyyutim, and documents. RNL Yevr. II B: Contains biblical
-                        manuscripts written on vellum (1,582 items). RNL Yevr. II C: Contains
-                        biblical manuscripts written on paper (728 items). Most of them are Hebrew
-                        biblical texts, but the collection also contains some other works, such as
-                        RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios,
-                        copied at the end of the tenth century or the very beginning of the
-                        eleventh, and RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel.
-                        RNL Yevr. II K: Contains 76 ketubbot, mostly, if not entirely, Qaraite.
-                        (Sklare, “Karaite Manuscripts,” p. 907.) The Judeo-Arabic manuscripts of the
-                        Second Firkovitch Collection are divided into two series: RNL Yevr.-Arab. I
-                        (previously known as II Firk. Yevr.-Arab., First Series): Contains 4,933
-                        items (although only 4,924 are on microfilm at the Institute for Microfilmed
-                        Hebrew Manuscripts). RNL Yevr.Arab. II (previously known as II Firk.
-                        Yevr.-Arab., New Series): Contains 3,430 items. RNL Arab.-Yevr.: Contains
-                        382 manuscripts of Jewish texts in Arabic characters. RNL Firk. Arab.:
-                        Contains 656 items of mostly Muslim texts and documents in Arabic
-                        characters. </note>
+                     <note xml:lang="en"><p>The manuscripts of the First Firkovitch Collection (now
+<lb/>                        known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovitch
+<lb/>                        (1787–1874) on the Crimean Peninsula, in the Caucasus, and during his first
+<lb/>                        trip to the Near East in 1830. This collection contains 830 manuscripts, 277
+<lb/>                        of them (numbers 554–830) being Qaraite. Even though this collection is
+<lb/>                        basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly
+<lb/>                        containing Qaraite works (many of them biblical commentaries by Yefet ben
+<lb/>                        ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of
+<lb/>                        Karaite Manuscripts,” in Karaite Judaism: A Guide to its History and
+<lb/>                        Literary Sources, edited by Meira Polliack (Leiden: Brill, 2003), pp.
+<lb/>                        893–924 [p. 907].) Most of these 75 Arabic manuscripts were acquired in
+<lb/>                        1830, probably by the agency of David ben Avraham ha-Levi (in Jerusalem),
+<lb/>                        brother of Moshe ben Avraham ha-Levi (1810–1905, Qaraite chief rabbi in
+<lb/>                        Cairo). (See Zeev Elkin and Menahem Ben-Sasson, “Abraham Firkovitch and the
+<lb/>                        Cairo Genizas in the Light of his Personal Archive” [Hebrew], Peʿamim 90
+<lb/>                        (2002): pp. 51–95 [p. 65, n. 48].) The First Firkovitch Collection was sold
+<lb/>                        to the Imperial Public Library of the Russian Empire in 1862 for 100,000
+<lb/>                        silver roubles. The Second Firkovitch Collection was acquired by Abraham ben
+<lb/>                        Samuel Firkovitch (1787–1874) during his second trip to the Near East
+<lb/>                        between the years 1863 and 1865 and was sold to the Imperial Public Library
+<lb/>                        of the Russian Empire in 1876. It consists of more than 15,000 items,
+<lb/>                        including Hebrew, Arabic, Judeo-Arabic, and Samaritan manuscripts. The
+<lb/>                        majority of the collection appears to have originated from the Qaraite
+<lb/>                        synagogue in Cairo. The Hebrew manuscripts of the Second Firkovitch
+<lb/>                        Collection are divided into several separate collections: RNL Yevr. II A:
+<lb/>                        Contains Hebrew works of law, exegesis, grammar and philology, theology,
+<lb/>                        documents, etc. This collection contains 2,947 manuscripts. These include
+<lb/>                        896 bibliographical items (including different texts found in a single
+<lb/>                        miscellany) which are Qaraite. The manuscripts are almost entirely of a
+<lb/>                        later date, including many of a Eastern European provenance containing
+<lb/>                        liturgical texts, piyyutim, and documents. RNL Yevr. II B: Contains biblical
+<lb/>                        manuscripts written on vellum (1,582 items). RNL Yevr. II C: Contains
+<lb/>                        biblical manuscripts written on paper (728 items). Most of them are Hebrew
+<lb/>                        biblical texts, but the collection also contains some other works, such as
+<lb/>                        RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios,
+<lb/>                        copied at the end of the tenth century or the very beginning of the
+<lb/>                        eleventh, and RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel.
+<lb/>                        RNL Yevr. II K: Contains 76 ketubbot, mostly, if not entirely, Qaraite.
+<lb/>                        (Sklare, “Karaite Manuscripts,” p. 907.) The Judeo-Arabic manuscripts of the
+<lb/>                        Second Firkovitch Collection are divided into two series: RNL Yevr.-Arab. I
+<lb/>                        (previously known as II Firk. Yevr.-Arab., First Series): Contains 4,933
+<lb/>                        items (although only 4,924 are on microfilm at the Institute for Microfilmed
+<lb/>                        Hebrew Manuscripts). RNL Yevr.Arab. II (previously known as II Firk.
+<lb/>                        Yevr.-Arab., New Series): Contains 3,430 items. RNL Arab.-Yevr.: Contains
+<lb/>                        382 manuscripts of Jewish texts in Arabic characters. RNL Firk. Arab.:
+<lb/>                        Contains 656 items of mostly Muslim texts and documents in Arabic
+<lb/>                        characters. </p></note>
                   </acquisition>
                </history>
                <additional>
