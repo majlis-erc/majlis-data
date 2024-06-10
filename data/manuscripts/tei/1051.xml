@@ -301,11 +301,10 @@
                   </surrogates>
                   <listBibl>
                      <bibl>
-                        <title>David Sklare and Haggai Ben-Shammai. The works of Yusuf al-Basir. A
-                        sample catalogue, texts and studies</title>
-                        <citedRange unit="p"/>
-                        <ptr target="https://jalit.org/bibl/WHC6W956"/>
-                     </bibl>
+    <title>דוד סקליר et al., כתבי היד בערבית-יהודית באוספי פירקוביץ’ - חיבורי יוסף אלבציר: קטלוג לדוגמה, מקורות ומחקרים || Judaeo-Arabic manuscripts in the Firkovitch Collections: the works of Yusuf al-Basir. A sample catalogue, texts and studies, המפעל לחקר התרבות הערבית-היהודית וספרותה, סדרת פירסומים || Center for the Study of Judaeo-Arabic Culture and Literature: Publications (Jerusalem || ירושלים: Ben-Zvi Institute for the Study of Jewish Communities in the East || מכון בן-צבי לחקר קהילות ישראל במזרח, 1997).</title>
+    <citedRange unit="p"/>
+    <ptr target="https://jalit.org/bibl/WHC6W956"/>
+</bibl>
                      <bibl>
                         <title>Ktiv</title>
                         <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000878220205171"/>
