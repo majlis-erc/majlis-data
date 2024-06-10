@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" class="test6">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -32,6 +32,7 @@
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
             </respStmt>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
@@ -42,18 +43,19 @@
             <idno type="URI">https://jalit.org/manuscript/514</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0
-                                            International (CC BY 4.0) License.</p>
+                  <p><p>Distributed under a Creative Commons Attribution 4.0
+<lb/>                                            International (CC BY 4.0) License.</p></p>
                </licence>
             </availability>
             <date>2024-05-14</date>
          </publicationStmt>
          <sourceDesc>
-            <p>Born digital.</p>
+            <p><p>Born digital.</p></p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="#mmoliere" when="2024-05-24T12:34:50.292Z">added mentioned person</change><change who="#rboehm" when="2024-05-21T16:25:52.562Z">join</change>
+         <change who="#rboehm" when="2024-06-10T22:07:14.711Z">Yevr.-Arab. I 19 fix</change><change who="#mmoliere" when="2024-05-24T12:34:50.292Z">added mentioned person</change>
+            <change who="#rboehm" when="2024-05-21T16:25:52.562Z">join</change>
             <change who="#rboehm" when="2024-05-17T17:56:44.502Z">join</change>
          <change who="#rboehm" when="2024-05-14T06:40:51.336Z">Yevr.-Arab. I 19</change>
          <change who="#mmoliere" when="2024-05-14">Converted Zotero data into TEI-File.</change>
@@ -80,7 +82,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="en">Yefet ben ʿEli's introduction to the commentary on Deuteronomy and his commentary on Deuteronomy (begins from Deuteronomy 1:1)</summary>
+                  <summary xml:lang="en"><p>Yefet ben ʿEli's introduction to the commentary on Deuteronomy and his commentary on Deuteronomy (begins from Deuteronomy 1:1)</p></summary>
                   <msItem class="" xml:id="item-11">
                      <locus from="1v" to="8v"/>
                      <title xml:lang="" ref="" cert="">Introduction to the commentary on Deuteronomy </title>
@@ -99,7 +101,7 @@
                   <msItem class="" xml:id="item-12">
                      <locus from="8v" to="134v"/>
                      <title cert="" ref="" xml:lang="">Commentary on Deuteronomy (begins from Deuteronomy 1:1)</title>
-                     <author cert="" ref=""/>
+                     <author cert="" ref="">Yefet ben ʿEli</author>
                      <textLang mainLang="" otherLangs=""/>
                      <incipit>
                         <locus from="" to=""/>
@@ -151,10 +153,8 @@
                         </condition>
                      </supportDesc>
                      <layoutDesc>
-                        <summary>
-                           <desc/>
-                           <note xml:lang=""/>
-                        </summary>
+                        <summary><p>
+<lb/>                           </p></summary>
                         <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
@@ -196,7 +196,7 @@
                            <objectType>Certificates of endowment</objectType>
                            <persName ref="https://jalit.org/person/30">Abū Yaʿqūb b. Baḫtawayh</persName>
                            <locus from="1r"/>
-                           <quote xml:lang="he">זה הספר יש בו פתרון אלה הדברים קדש ליי אלהי ישראל הקדישו הזקן הטוב יפת בן מבשר נ'נ' הנודע בן העני ישמרו צורו וימלא משאלותיו לעולם הזה ולעולם הבא והקדישו על עדת בני מקרא בירושלם עיר הקדש אלהים יכוננה עד עולם סלה ויהיה מעת הקדישו תחת ידו בכל מקום שילך אליו מכל המדינות יקרא בו הוא וכל מי יחפץ כל ימי חייו ואחרי כן יֻתן הספר הזה בחצר המלמד יוסף בן בכתויה נ'נ' בירושלם תחת יד עזריה הכהן המלמד בן מצליח בן סהל נ'נ' ארור גונבו ומוכרו וקונהו אם לא ישיבהו אל קדושתו וארור מעביטו וארור עובטו וארור מוציאו מן החצר הזה אחרי היותו בו זולת עת צרה. וברוך מקדישו ומקיים קדושתו אמן ואמן</quote>
+                           <quote xml:lang="he"><p>זה הספר יש בו פתרון אלה הדברים קדש ליי אלהי ישראל הקדישו הזקן הטוב יפת בן מבשר נ'נ' הנודע בן העני ישמרו צורו וימלא משאלותיו לעולם הזה ולעולם הבא והקדישו על עדת בני מקרא בירושלם עיר הקדש אלהים יכוננה עד עולם סלה ויהיה מעת הקדישו תחת ידו בכל מקום שילך אליו מכל המדינות יקרא בו הוא וכל מי יחפץ כל ימי חייו ואחרי כן יֻתן הספר הזה בחצר המלמד יוסף בן בכתויה נ'נ' בירושלם תחת יד עזריה הכהן המלמד בן מצליח בן סהל נ'נ' ארור גונבו ומוכרו וקונהו אם לא ישיבהו אל קדושתו וארור מעביטו וארור עובטו וארור מוציאו מן החצר הזה אחרי היותו בו זולת עת צרה. וברוך מקדישו ומקיים קדושתו אמן ואמן</p></quote>
                            <note xml:lang=""/>
                         </item>
                      </list>
@@ -221,42 +221,42 @@
                   <accMat>
                      <list>
                         <item>
-                           <note xml:lang="en">Avraham E. Harkavy (1835–1919) was one of the most important
-                              Russian Orientalist of the 19th century. He received his doctoral degree in
-                              1872. During the same year, he was attached to the Ministry of National
-                              Education. On June 1, 1872, he was commissioned to the Imperial Public
-                              Library in St. Petersburg to sort and study the manuscripts of the First
-                              Firkovitch Collection and the Samaritan Collections. The following years,
-                              Harkavy collaborated with Hermann Strack of Leipzig University in the New
-                              (Mangup) Synagogue in Chufut-Qal’eh on examining and sorting the manuscripts
-                              of the Second Firkovitch Collection which was subsequently acquired by the
-                              Imperial Public Library in 1876. On January 9, 1876, he was appointed a
-                              librarian there by order of Emperor Alexander II, and made head of the
-                              Department of Hebrew Books. He was the first curator of the Firkovitch
-                              collections. His unpublished cataloging of these collections consists of
-                              slips of paper ("Harkavy cards"), placed together with each manuscript, that
-                              record his identification of and/or a brief description of that manuscript.
-                              These slips were the foundation for his handwritten four-volume inventory of
-                              the Yevr.-Arab. section of the Second Firkovitch Collection. (Daria
-                              Vasyutinsky Shapira, Early Stages of Research of the Firkowicz Collections
-                              Manuscripts: The Emergence of Russian Jewish Studies. PhD thesis,
-                              Beer-Sheva: Ben-Gurion University of the Negev, 2018, pp. 121–182).</note>
+                           <note xml:lang="en"><p>Avraham E. Harkavy (1835–1919) was one of the most important
+<lb/>                              Russian Orientalist of the 19th century. He received his doctoral degree in
+<lb/>                              1872. During the same year, he was attached to the Ministry of National
+<lb/>                              Education. On June 1, 1872, he was commissioned to the Imperial Public
+<lb/>                              Library in St. Petersburg to sort and study the manuscripts of the First
+<lb/>                              Firkovitch Collection and the Samaritan Collections. The following years,
+<lb/>                              Harkavy collaborated with Hermann Strack of Leipzig University in the New
+<lb/>                              (Mangup) Synagogue in Chufut-Qal’eh on examining and sorting the manuscripts
+<lb/>                              of the Second Firkovitch Collection which was subsequently acquired by the
+<lb/>                              Imperial Public Library in 1876. On January 9, 1876, he was appointed a
+<lb/>                              librarian there by order of Emperor Alexander II, and made head of the
+<lb/>                              Department of Hebrew Books. He was the first curator of the Firkovitch
+<lb/>                              collections. His unpublished cataloging of these collections consists of
+<lb/>                              slips of paper ("Harkavy cards"), placed together with each manuscript, that
+<lb/>                              record his identification of and/or a brief description of that manuscript.
+<lb/>                              These slips were the foundation for his handwritten four-volume inventory of
+<lb/>                              the Yevr.-Arab. section of the Second Firkovitch Collection. (Daria
+<lb/>                              Vasyutinsky Shapira, Early Stages of Research of the Firkowicz Collections
+<lb/>                              Manuscripts: The Emergence of Russian Jewish Studies. PhD thesis,
+<lb/>                              Beer-Sheva: Ben-Gurion University of the Negev, 2018, pp. 121–182).</p></note>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="ru">
-                              p. 4 / 
-                              N. 19 (372) / 
-                              Изъ коммент. Jeфета на Второзаконіе (на 1ой стр. приписка) / 
-                              N. 20 (372) / 
-                              Изъ коммент. Второзаконіе Jeфета (въ концѣ отд. שופטים трехстишіе, имѣющ. въ акростихѣ Хасанъ - араб. эквивалентъ евр. Jeфета / 
-                              I / 
-                              p. 5 / 
-                              N. 19 (372) / 
-                              Изъ коммент. Jeфета на Второзаконіе / 
-                              II / 
-                              133 134 л. / 
-                              22.10.93 [подпись] / 
-                              corresponds to p. 2 / 
-                              LR /</quote>
+                           <quote xml:lang="ru"><p>
+<lb/>                              p. 4 / 
+<lb/>                              N. 19 (372) / 
+<lb/>                              Изъ коммент. Jeфета на Второзаконіе (на 1ой стр. приписка) / 
+<lb/>                              N. 20 (372) / 
+<lb/>                              Изъ коммент. Второзаконіе Jeфета (въ концѣ отд. שופטים трехстишіе, имѣющ. въ акростихѣ Хасанъ - араб. эквивалентъ евр. Jeфета / 
+<lb/>                              I / 
+<lb/>                              p. 5 / 
+<lb/>                              N. 19 (372) / 
+<lb/>                              Изъ коммент. Jeфета на Второзаконіе / 
+<lb/>                              II / 
+<lb/>                              133 134 л. / 
+<lb/>                              22.10.93 [подпись] / 
+<lb/>                              corresponds to p. 2 / 
+<lb/>                              LR /</p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
                               <citedRange unit="p"/>
@@ -266,19 +266,19 @@
                         <item>
                            <note xml:lang="en"/>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="en">p. 4 / 
-                              N. 19 (372) / 
-                              From the Commentary on Deuteronomy by Yefet (on the first page is an additional note) / 
-                              N. 20 (372) / 
-                              From the Commentary on the Book of Deuteronomy by Yefet (at the end of the section שופטים is a tercet with an acrostic of Ḥasan, the Arabic equivalent of Hebrew Yefet) / 
-                              I / 
-                              p. 5 / 
-                              N. 19 (372) / 
-                              From the Commentary on the Book of Deuteronomy by Yefet / 
-                              II / 
-                              133 134 folios / 
-                              22.10.93 [signature] / 
-                           </quote>
+                           <quote xml:lang="en"><p>p. 4 / 
+<lb/>                              N. 19 (372) / 
+<lb/>                              From the Commentary on Deuteronomy by Yefet (on the first page is an additional note) / 
+<lb/>                              N. 20 (372) / 
+<lb/>                              From the Commentary on the Book of Deuteronomy by Yefet (at the end of the section שופטים is a tercet with an acrostic of Ḥasan, the Arabic equivalent of Hebrew Yefet) / 
+<lb/>                              I / 
+<lb/>                              p. 5 / 
+<lb/>                              N. 19 (372) / 
+<lb/>                              From the Commentary on the Book of Deuteronomy by Yefet / 
+<lb/>                              II / 
+<lb/>                              133 134 folios / 
+<lb/>                              22.10.93 [signature] / 
+<lb/>                           </p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
                               <citedRange unit="p"/>
@@ -286,17 +286,17 @@
                            </bibl>
                         </item>
                         <item>
-                           <note xml:lang="en"> The “Harkavy cards,” created by Avraham E. Harkavy
-                              (1835–1919), were the foundation for his handwritten four-volume inventory
-                              of the Yevr.-Arab. section of the Second Firkovitch Collection. This
-                              inventory is today held at the Vernadsky National Library of Ukraine in
-                              Kyiv, and also served as the basis of the library’s card catalog prepared
-                              over the years by Harkavy himself, F. Kokovtzov, R. Ravrebe, A. Vasilev, and
-                              V. Lebedev. </note>
+                           <note xml:lang="en"><p> The “Harkavy cards,” created by Avraham E. Harkavy
+<lb/>                              (1835–1919), were the foundation for his handwritten four-volume inventory
+<lb/>                              of the Yevr.-Arab. section of the Second Firkovitch Collection. This
+<lb/>                              inventory is today held at the Vernadsky National Library of Ukraine in
+<lb/>                              Kyiv, and also served as the basis of the library’s card catalog prepared
+<lb/>                              over the years by Harkavy himself, F. Kokovtzov, R. Ravrebe, A. Vasilev, and
+<lb/>                              V. Lebedev. </p></note>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="he">
-                              מפי' דברים (ליפת; רשימת ההקדש / 
-                           </quote>
+                           <quote xml:lang="he"><p>
+<lb/>                              מפי' דברים (ליפת; רשימת ההקדש / 
+<lb/>                           </p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Inventory.</title>
                               <citedRange unit="p"/>
@@ -334,53 +334,53 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang="en">The manuscripts of the First Firkovitch Collection (now
-                        known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovitch
-                        (1787–1874) on the Crimean Peninsula, in the Caucasus, and during his first
-                        trip to the Near East in 1830. This collection contains 830 manuscripts, 277
-                        of them (numbers 554–830) being Qaraite. Even though this collection is
-                        basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly
-                        containing Qaraite works (many of them biblical commentaries by Yefet ben
-                        ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of
-                        Karaite Manuscripts,” in Karaite Judaism: A Guide to its History and
-                        Literary Sources, edited by Meira Polliack (Leiden: Brill, 2003), pp.
-                        893–924 [p. 907].) Most of these 75 Arabic manuscripts were acquired in
-                        1830, probably by the agency of David ben Avraham ha-Levi (in Jerusalem),
-                        brother of Moshe ben Avraham ha-Levi (1810–1905, Qaraite chief rabbi in
-                        Cairo). (See Zeev Elkin and Menahem Ben-Sasson, “Abraham Firkovitch and the
-                        Cairo Genizas in the Light of his Personal Archive” [Hebrew], Peʿamim 90
-                        (2002): pp. 51–95 [p. 65, n. 48].) The First Firkovitch Collection was sold
-                        to the Imperial Public Library of the Russian Empire in 1862 for 100,000
-                        silver roubles. The Second Firkovitch Collection was acquired by Abraham ben
-                        Samuel Firkovitch (1787–1874) during his second trip to the Near East
-                        between the years 1863 and 1865 and was sold to the Imperial Public Library
-                        of the Russian Empire in 1876. It consists of more than 15,000 items,
-                        including Hebrew, Arabic, Judeo-Arabic, and Samaritan manuscripts. The
-                        majority of the collection appears to have originated from the Qaraite
-                        synagogue in Cairo. The Hebrew manuscripts of the Second Firkovitch
-                        Collection are divided into several separate collections: RNL Yevr. II A:
-                        Contains Hebrew works of law, exegesis, grammar and philology, theology,
-                        documents, etc. This collection contains 2,947 manuscripts. These include
-                        896 bibliographical items (including different texts found in a single
-                        miscellany) which are Qaraite. The manuscripts are almost entirely of a
-                        later date, including many of a Eastern European provenance containing
-                        liturgical texts, piyyutim, and documents. RNL Yevr. II B: Contains biblical
-                        manuscripts written on vellum (1,582 items). RNL Yevr. II C: Contains
-                        biblical manuscripts written on paper (728 items). Most of them are Hebrew
-                        biblical texts, but the collection also contains some other works, such as
-                        RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios,
-                        copied at the end of the tenth century or the very beginning of the
-                        eleventh, and RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel.
-                        RNL Yevr. II K: Contains 76 ketubbot, mostly, if not entirely, Qaraite.
-                        (Sklare, “Karaite Manuscripts,” p. 907.) The Judeo-Arabic manuscripts of the
-                        Second Firkovitch Collection are divided into two series: RNL Yevr.-Arab. I
-                        (previously known as II Firk. Yevr.-Arab., First Series): Contains 4,933
-                        items (although only 4,924 are on microfilm at the Institute for Microfilmed
-                        Hebrew Manuscripts). RNL Yevr.Arab. II (previously known as II Firk.
-                        Yevr.-Arab., New Series): Contains 3,430 items. RNL Arab.-Yevr.: Contains
-                        382 manuscripts of Jewish texts in Arabic characters. RNL Firk. Arab.:
-                        Contains 656 items of mostly Muslim texts and documents in Arabic
-                        characters. </note>
+                     <note xml:lang="en"><p>The manuscripts of the First Firkovitch Collection (now
+<lb/>                        known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovitch
+<lb/>                        (1787–1874) on the Crimean Peninsula, in the Caucasus, and during his first
+<lb/>                        trip to the Near East in 1830. This collection contains 830 manuscripts, 277
+<lb/>                        of them (numbers 554–830) being Qaraite. Even though this collection is
+<lb/>                        basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly
+<lb/>                        containing Qaraite works (many of them biblical commentaries by Yefet ben
+<lb/>                        ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of
+<lb/>                        Karaite Manuscripts,” in Karaite Judaism: A Guide to its History and
+<lb/>                        Literary Sources, edited by Meira Polliack (Leiden: Brill, 2003), pp.
+<lb/>                        893–924 [p. 907].) Most of these 75 Arabic manuscripts were acquired in
+<lb/>                        1830, probably by the agency of David ben Avraham ha-Levi (in Jerusalem),
+<lb/>                        brother of Moshe ben Avraham ha-Levi (1810–1905, Qaraite chief rabbi in
+<lb/>                        Cairo). (See Zeev Elkin and Menahem Ben-Sasson, “Abraham Firkovitch and the
+<lb/>                        Cairo Genizas in the Light of his Personal Archive” [Hebrew], Peʿamim 90
+<lb/>                        (2002): pp. 51–95 [p. 65, n. 48].) The First Firkovitch Collection was sold
+<lb/>                        to the Imperial Public Library of the Russian Empire in 1862 for 100,000
+<lb/>                        silver roubles. The Second Firkovitch Collection was acquired by Abraham ben
+<lb/>                        Samuel Firkovitch (1787–1874) during his second trip to the Near East
+<lb/>                        between the years 1863 and 1865 and was sold to the Imperial Public Library
+<lb/>                        of the Russian Empire in 1876. It consists of more than 15,000 items,
+<lb/>                        including Hebrew, Arabic, Judeo-Arabic, and Samaritan manuscripts. The
+<lb/>                        majority of the collection appears to have originated from the Qaraite
+<lb/>                        synagogue in Cairo. The Hebrew manuscripts of the Second Firkovitch
+<lb/>                        Collection are divided into several separate collections: RNL Yevr. II A:
+<lb/>                        Contains Hebrew works of law, exegesis, grammar and philology, theology,
+<lb/>                        documents, etc. This collection contains 2,947 manuscripts. These include
+<lb/>                        896 bibliographical items (including different texts found in a single
+<lb/>                        miscellany) which are Qaraite. The manuscripts are almost entirely of a
+<lb/>                        later date, including many of a Eastern European provenance containing
+<lb/>                        liturgical texts, piyyutim, and documents. RNL Yevr. II B: Contains biblical
+<lb/>                        manuscripts written on vellum (1,582 items). RNL Yevr. II C: Contains
+<lb/>                        biblical manuscripts written on paper (728 items). Most of them are Hebrew
+<lb/>                        biblical texts, but the collection also contains some other works, such as
+<lb/>                        RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios,
+<lb/>                        copied at the end of the tenth century or the very beginning of the
+<lb/>                        eleventh, and RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel.
+<lb/>                        RNL Yevr. II K: Contains 76 ketubbot, mostly, if not entirely, Qaraite.
+<lb/>                        (Sklare, “Karaite Manuscripts,” p. 907.) The Judeo-Arabic manuscripts of the
+<lb/>                        Second Firkovitch Collection are divided into two series: RNL Yevr.-Arab. I
+<lb/>                        (previously known as II Firk. Yevr.-Arab., First Series): Contains 4,933
+<lb/>                        items (although only 4,924 are on microfilm at the Institute for Microfilmed
+<lb/>                        Hebrew Manuscripts). RNL Yevr.Arab. II (previously known as II Firk.
+<lb/>                        Yevr.-Arab., New Series): Contains 3,430 items. RNL Arab.-Yevr.: Contains
+<lb/>                        382 manuscripts of Jewish texts in Arabic characters. RNL Firk. Arab.:
+<lb/>                        Contains 656 items of mostly Muslim texts and documents in Arabic
+<lb/>                        characters. </p></note>
                   </acquisition>
                </history>
                <additional>
