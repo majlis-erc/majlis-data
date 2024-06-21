@@ -27,7 +27,9 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref="">admin</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -36,16 +38,20 @@
                 <idno type="URI">https://jalit.org/manuscript/1549</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p><p>
+<lb/>                            </p></p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p><p>
+<lb/>                    </p></p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-06-03T17:33:56.065Z">Markup test</change><change who="#" when=""/>
+            <change who="#admin" when="2024-06-21T12:17:25.415Z">Test Git commit - WS</change><change who="#admin" when="2024-06-20T19:36:24.623Z">Test submit of 1549. WS</change>
+            <change who="#mmoliere" when="2024-06-03T17:33:56.065Z">Markup test</change>
+            <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -73,8 +79,12 @@
                         <msName/>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang="en"><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea <em>rebum</em>. 
-<lb/>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></summary>
+                        <summary xml:lang="en"><p>
+<lb/>                            </p><p>                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea <em>rebum</em>. </p><p>
+<lb/>                            Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p>
+<lb/>                            </p><p>                            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>
+<lb/>                            </p><p>                        </p><p>
+<lb/>                        </p></summary>
                         <msItem class="" xml:id="item-11">
                             <locus from="" to=""/>
                             <title xml:lang="" ref="" cert=""/>
@@ -129,7 +139,10 @@
                             </supportDesc>
                             <layoutDesc>
                                 <summary><p>
-<lb/>                                    </p></summary>
+<lb/>                                    </p><p>                                    </p><p>
+<lb/>                                                                        </p><p>
+<lb/>                                    </p><p>                                </p><p>
+<lb/>                                </p></summary>
                                 <layout writtenLines="" columns="" xml:id="layout-1111">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
@@ -172,8 +185,12 @@
                                     <persName ref="" role="mentioned"/>
                                     <placeName ref="" role="mentioned"/>
                                     <locus from="" to=""/>
-                                    <quote xml:lang="en"><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea <em>rebum</em>. 
-<lb/>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></quote>
+                                    <quote xml:lang="en"><p>
+<lb/>                                        </p><p>                                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea <em>rebum</em>. </p><p>
+<lb/>                                        Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p>
+<lb/>                                        </p><p>                                        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>
+<lb/>                                        </p><p>                                    </p><p>
+<lb/>                                    </p></quote>
                                     <ab type="translation"/>
                                     <note xml:lang=""/>
                                 </item>
@@ -199,11 +216,19 @@
                         <accMat>
                             <list>
                                 <item>
-                                    <note xml:lang=""><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea <em>rebum</em>. 
-<lb/>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></note>
+                                    <note xml:lang=""><p>
+<lb/>                                        </p><p>                                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea <em>rebum</em>. </p><p>
+<lb/>                                        Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p>
+<lb/>                                        </p><p>                                        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>
+<lb/>                                        </p><p>                                    </p><p>
+<lb/>                                    </p></note>
                                     <persName/>
-                                    <quote xml:lang=""><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea <em>rebum</em>. 
-<lb/>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></quote>
+                                    <quote xml:lang=""><p>
+<lb/>                                        </p><p>                                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea <em>rebum</em>. </p><p>
+<lb/>                                        Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p><p>
+<lb/>                                        </p><p>                                        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>
+<lb/>                                        </p><p>                                    </p><p>
+<lb/>                                    </p></quote>
                                     <bibl>
                                         <title/>
                                         <citedRange unit="p"/>
