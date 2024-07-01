@@ -6,14 +6,11 @@
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName
-                        xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName
-                        xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de"
-                        >Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
                     </editor>
@@ -56,10 +53,9 @@
                 </editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
-                        >Winona Salesky</name>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -68,18 +64,18 @@
                 <idno type="URI">https://jalit.org/person/2</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
-                            4.0) License.</p>
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
+<lb/>                            4.0) License.</p></p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Born digital.</p>
+                <p><p>Born digital.</p></p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-05-21">Added heritage data</change>
+            <change who="#mmoliere" when="2024-07-01T16:48:53.085Z">Updated heritage data.</change><change who="#mmoliere" when="2024-05-21">Added heritage data</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-05-07T12:37:04.398Z"> Added heritage data</change>
             <change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
@@ -942,69 +938,13 @@
     <standOff>
         <list>
             <item>
-                <note/>
+                <note><p>While Moritz Steinschneider (1816–1907) is primarily known for having laid the modern foundations of Jewish bibliography, he also devoted himself to a systematic survey of Jewish literature. In Steinschneider’s work the investigation of Jewish writings in Arabic takes a central place. In 1845, he proposed to the Verein für Kultur und Wissenschaft der Juden his <em>magnum opus</em>, a “Jüdisch-Arabische Bibliothek” (Steinschneider, <em>Die arabische Literatur</em>, xlvii). It was well received, and he obtained modest funding for it. It seems that the first part, the <em>Bibliotheca Judaeo-Arabica</em>, which consisted of a chronological survey of Judeo-Arabic literature, had already been completed in 1845. It contained a short biographical sketch of each author known to Steinschneider, arranged chronologically, and an account of their works, including details of available manuscripts and translations, mainly taken from unpublished sources. However, it only reached publication some sixty years later with the appearance of his seminal series of articles “An Introduction to the Arabic Literature of the Jews,” which appeared in 1897–1901 in the <em>Jewish Quarterly Review</em>, and also his <em>Arabische Literatur der Juden</em> (1902), which Steinschneider rightly calls in its foreword his “Lebensarbeit” (p. viii). The former, in which he describes his arduous search for manuscripts throughout Europe, serves as a voluminous introduction to the latter. The <em>Arabische Literatur der Juden</em> is divided into seven sections: (1) Jewish authors in Ancient Arabia; (2) Jewish authors in the East until the end of the Geonic period (1040); (3) Jewish authors in the Muslim West; (4) Jewish in the East, 1041–1500; (5) later Jewish authors (1500–1894); (6) Jewish authors of uncertain date; and (7) anonymous Jewish authors according to subject.  </p><p>Literature:  
+<lb/>Paul Fenton, “Moritz Steinschneider’s Contribution to Judaeo-Arabic Studies,” in <em>Studies on Steinschneider: Moritz Steinschneider and the Emergence of the Science of Judaism in Nineteenth-Century Germany</em>, edited by Reimund Leicht and Gad Freudenthal (Leiden: Brill, 2012), pp. 363–383.  
+<lb/>Moritz Steinschneider, “An Introduction to the Arabic Literature of the Jews,” <em>Jewish Quarterly Review</em> 9–13 (1897–1901).  
+<lb/>Moritz Steinschneider, Die  arabische Literatur der Juden (Frankfurt am Main: Kauffmann, 1902).</p></note>
                 <persName/>
-                <quote xml:lang="ge">§40. * Salmon b. Jerocham, arab. Suleim 1) b. Ru'heim, ist als
-                    karaitischer Gegner des Saadia Gaon bekannt, den er in hebr. Versen angriff. Von
-                    seinen persönlichen Verhältnissen ist fast nichts Authentisches berichtet. Dass
-                    er im J. 898 zu 13 Jahren in Kairo die angeblich von Moses b. Jesaia Firuz
-                    hebräisch übersetzte מקדמה verfasst habe, fand Pinsker selbst S. 118
-                    unwahrscheinlich (Fürst II, Anm. S. 78 und Gottlober verschweigen das); aber die
-                    ganze Schrift ist von der Kritik als jünger erkannt. 2) Es muss auch alles
-                    Folgende nur unter Vorbehalt mitgeteilt werden. Schriften: 3) 1) Streitschrift
-                    gegen Saadia, hebr. und arab. (vgl. n. 7a), letzteres nicht mehr vorhanden, (ob
-                    das Citat in CL. p. 202 n. 2 hieher gehört?), ersteres teilweise edirt; der
-                    Titel מלחמת ה rührt wahrscheinlich von Simcha Isak her, Inhalt bei Pi. A. S. 15,
-                    Anf. ergänzt bei Geiger, Oz. IV, 3; s. CL. 260, 403, HB. VII, 14. — 2) Comm. zum
-                    Hohel., ms. Br. Mus. 30812, anon.; nach Pozn., Rev. Et. XLI, 310 findet sich
-                    dieselbe Stelle über das Erlösungsjahr zu Ps. 102, 14, bei Pinsker p. 81; zur
-                    Sache vgl. Pozn., Mtschr. XLIV, 105 ff. --- 3) Comm. über Ruth, ms. Firk. 583,
-                    nach Firk. aus dem Arab., wegen der darin vorkommenden griech. Wörter. — 4)
-                    Esther, lange Einleitung u. 1, 1—3, hebr. (wie n. 2), ms. Firk. 583, 584. — 5)
-                    Threni, nach 3, 6, verf. 885 d. Exils (153), oder 888 (956), s. Pi. A. 132, vgl.
-                    81, 88. 4) Die Ausg. Sal. Feinstein's, Krak. 1898, kenne ich nur aus Pozn.'s
-                    Anzeige, Jew. Qu. XIII, 336. * Ms. Br. Mus. 32818-25, 252, Par. 295 (Catal.:
-                    „Salomon”), Pet. Firk. 560 u. Tischendorf (HB. XIII, 103), ms. E. N. Adler 221,
-                    worüber Pozn. schreiben will. Vf. (nach Mk. Jefet) citirt (a) Comm. Hohel,
-                    (versprochen zu Ps. 69, 1); (b) zu 1, 14 über Permutationsbuchst. אחרף אלאבדאל ,
-                    ein Argument gegen die Autorschaft Salmon's; zu 2, 14, 16 (c) Comm. Psalmen; zu
-                    3,22 (d) Comm. Daniel, u. s. Br. Mus. I, 192. — 6) Comm. zu Kohelet, ms. Krim 12
-                    = Firk. 359 (vgl. HB. VII, 14), Br. Mus. Or. 2517. Anf. und aus Kap. 2, 7, 9 in
-                    Hirschfeld‘s Chrestom. 103— 8. — Der Vf. citirt zu 1, 4 (a) Comm. Sprüche; zu 5,
-                    6 (b) Comm. Hiob. — 7) Comm. zu Psalmen, nach den V Büchern des Textes; ms.
-                    Firk. 555/6 (I--IV B.), 557 (III), s. Pi. A. S. 131 ; HB. XIII, 103; 102, 8 bei
-                    Pi. S. 133; 30 bei Neub. S. 109, nach welchem (S. 12) der Comm. um 970 — 4
-                    verfasst sein „kann"; Catal. I p. 193 (dagegen Pozn., Mtschr. 1900 S. 406, 410,
-                    wo 955); die Einheit. wird zu Threni 2, 14, 19 angeführt (Pi. 130). — Ps. 110
-                    hebr. in ms. Firk. 583; 102» 14 bei Pozn., Mtschr. 1900 S. 519; vgl. zu n. 2. Zu
-                    Ps. 104, 19 wird angef. (a) אלרד עלי אלפיומי , Pi. 133 zweifelt, ob die hebr.
-                    oder arab. Streitschr. (oben n. 1); Fürst S. 85 lässt es gegen Saadia's תמיין um
-                    930 geschrieben sein (ohne als 5. zu zählen u. ohne Begründung). Zu 104, 30 wird
-                    (b) eine Schrift über Auferstehung versprochen; 109, 6 citirt des Vf. (c)
-                    אלאנתצאר ללחק (Sieg für die Wahrheit = der Wahrheit?). 115, 11 citirt (d):
-                    Vorzüge der Priester; 130, 1 citirt (e) eine Bemerkung zu Num. 28, 1, während
-                    104, 19 einen Comm. (zum Pentateuch) verspricht, woraus Fürst S. 87, 89 A. 403
-                    u. 416 einen kurzen und ausführlichen Comm. macht! — 8) Übersetzung und
-                    Erklärung der Gebete, ms. Krim 7 = Firk. 638, in dessen Catal. ms. das ganze
-                    Stück nicht erwähnt ist. Die Composition (חבור), welche Cantor und Gemeinde
-                    vortragen sollen (s. kar. Tikkun, Wf. IV p. 1071, falsch דבורim Lb. VII,22),
-                    scheint (nach Dk., Beitr. I, 27) liturgischen Inhalts. HÜb. 946 (wo auch die
-                    Quellen angegeben sind) ist Saleim Druckf. סלום בן רוחים (CL. 200 n. 2, für
-                    סלים) s. ZDMG. XVIII, 164, wo lies HB. 1861 S. 48. --- 2) Dass die Muk. Aus
-                    Hadassi fabrificirt sei, wies P. Frankl nach (HB. XIX, 93, השחר VIII), vgl. Kar.
-                    Studien (ans Mtschr. 1876 S. 28) über Interpolation v. n. l. --- Das Todesj. 960
-                    bei Fürst II, 78 beruht, wie die meisten Zahlenangaben (959 ist die letzte), auf
-                    Conjectur. --- 3) Pi. A. S. 132 (daher Gttl.) führt 4 Schriften aus Autopsie und
-                    10 Citate auf, Fst. 83-5 vier (eigentlich 5) mit corrupten arab. Titeln, S.
-                    87-90, durch Teilung der Psalmbücher (6, 8, 13-15) 17 exeget. Schriften; s.
-                    dagegen Pol. 346, HB. VII, 26, XIII, 108; die vorgeblich chronologische
-                    Reihenfolge mit ihren Jahrzahlen ist wertlos. --- Ich ordne den Schriften die
-                    Citate unter. --- 4) Mk. Zu Tanchum 104. Über den angeführten Meborach b. Natan
-                    b. Nissim ha-Levi und einen Meb. b. N. 1167, s. Landshuth, Onomast. 169, so lies
-                    Jew. Qu. VII, 196, 311, XIII, 496. Pi. A. 62 u. 189 (a. 880 bei Fst. I, 98; Zz.
-                    Lit. 98; he-Chaluz VI, 52; HB, V, 30; Gg. ZDMG. XV, 816) u. s. Mubarak §144. ---
-                    5) Die Übersetzungen sind dem Hebräischen des Textes angepasst (Pi. A. S. 131),
-                    wie bei Saadia.</quote>
+                <quote xml:lang="ge"><p>§40.</p><p>Salmon b. Jerocham, arab. Suleim 1) b. Ru'heim, ist als karaitischer Gegner des Saadia Gaon bekannt, den er in hebr. Versen angriff. Von seinen persönlichen Verhältnissen ist fast nichts Authentisches berichtet. Dass er im J. 898 zu 13 Jahren in Kairo die angeblich von Moses b. Jesaia Firuz hebräisch übersetzte מקדמה verfasst habe, fand Pinsker selbst S. 118 unwahrscheinlich (Fürst II, Anm. S. 78 und Gottlober verschweigen das); aber die ganze Schrift ist von der Kritik als jünger erkannt. 2) Es muss auch alles Folgende nur unter Vorbehalt mitgeteilt werden.</p><p>Schriften: 3) 1) Streitschrift gegen Saadia, hebr. und arab. (vgl. n. 7a), letzteres nicht mehr vorhanden, (ob das Citat in CL. p. 202 n. 2 hieher gehört?), ersteres teilweise edirt; der Titel מלחמת ה rührt wahrscheinlich von Simcha Isak her, Inhalt bei Pi. A. S. 15, Anf. ergänzt bei Geiger, Oz. IV, 3; s. CL. 260, 403, HB. VII, 14. — 2) Comm. zum Hohel., ms. Br. Mus. 30812, anon.; nach Pozn., Rev. Et. XLI, 310 findet sich dieselbe Stelle über das Erlösungsjahr zu Ps. 102, 14, bei Pinsker p. 81; zur Sache vgl. Pozn., Mtschr. XLIV, 105 ff. --- 3) Comm. über Ruth, ms. Firk. 583, nach Firk. aus dem Arab., wegen der darin vorkommenden griech. Wörter. — 4) Esther, lange Einleitung u. 1, 1—3, hebr. (wie n. 2), ms. Firk. 583, 584. — 5) Threni, nach 3, 6, verf. 885 d. Exils (153), oder 888 (956), s. Pi. A. 132, vgl. 81, 88. 4) Die Ausg. Sal. Feinstein's, Krak. 1898, kenne ich nur aus Pozn.'s Anzeige, Jew. Qu. XIII, 336. * Ms. Br. Mus. 32818-25, 252, Par. 295 (Catal.: „Salomon”), Pet. Firk. 560 u. Tischendorf (HB. XIII, 103), ms. E. N. Adler 221, worüber Pozn. schreiben will. Vf. (nach Mk. Jefet) citirt (a) Comm. Hohel, (versprochen zu Ps. 69, 1); (b) zu 1, 14 über Permutationsbuchst. אחרף אלאבדאל , ein Argument gegen die Autorschaft Salmon's; zu 2, 14, 16 (c) Comm. Psalmen; zu 3,22 (d) Comm. Daniel,  u. s. Br. Mus. I, 192. — 6) Comm. zu Kohelet, ms. Krim 12 = Firk. 359 (vgl. HB. VII, 14), Br. Mus. Or. 2517. Anf. und aus Kap. 2, 7, 9 in Hirschfeld‘s Chrestom. 103— 8. — Der Vf. citirt zu 1, 4 (a) Comm. Sprüche; zu 5, 6 (b) Comm. Hiob. — 7) Comm. zu Psalmen, nach den V Büchern des Textes; ms. Firk. 555/6 (I--IV B.), 557 (III), s. Pi. A. S. 131 ; HB. XIII, 103; 102, 8 bei Pi. S. 133; 30 bei Neub. S. 109, nach welchem (S. 12) der Comm. um 970 — 4 verfasst sein „kann"; Catal. I p. 193 (dagegen Pozn., Mtschr. 1900 S. 406, 410, wo 955); die Einheit. wird zu Threni 2, 14, 19 angeführt (Pi. 130). — Ps. 110 hebr. in ms. Firk. 583; 102» 14 bei Pozn., Mtschr. 1900 S. 519; vgl. zu n. 2. Zu Ps. 104, 19 wird angef. (a) אלרד עלי אלפיומי , Pi. 133 zweifelt, ob die hebr. oder arab. Streitschr. (oben n. 1); Fürst S. 85 lässt es gegen Saadia's תמיין um 930 geschrieben sein (ohne als 5. zu zählen u. ohne Begründung). Zu 104, 30 wird (b) eine Schrift über Auferstehung versprochen; 109, 6 citirt des Vf. (c) אלאנתצאר ללחק (Sieg für die Wahrheit = der Wahrheit?). 115, 11 citirt (d): Vorzüge der Priester; 130, 1 citirt (e) eine Bemerkung zu Num. 28, 1, während 104, 19 einen Comm. (zum Pentateuch) verspricht, woraus Fürst S. 87, 89 A. 403 u. 416 einen kurzen und ausführlichen Comm. macht! — 8) Übersetzung und Erklärung der Gebete, ms. Krim 7 = Firk. 638, in dessen Catal. ms. das ganze Stück nicht erwähnt ist. Die Composition (חבור), welche Cantor und Gemeinde vortragen sollen (s. kar. Tikkun, Wf. IV p. 1071, falsch  דבורim Lb. VII,22), scheint (nach Dk., Beitr. I, 27) liturgischen Inhalts.</p><p>1) HÜb. 946 (wo auch die Quellen angegeben sind) ist Saleim Druckf. סלום בן רוחים (CL. 200 n. 2, für סלים) s. ZDMG. XVIII, 164, wo lies HB. 1861 S. 48. --- 2) Dass die Muk. Aus Hadassi fabrificirt sei, wies P. Frankl nach (HB. XIX, 93, השחר VIII), vgl. Kar. Studien (ans Mtschr. 1876 S. 28) über Interpolation v. n. l. --- Das Todesj. 960 bei Fürst II, 78 beruht, wie die meisten Zahlenangaben (959 ist die letzte), auf Conjectur. --- 3) Pi. A. S. 132 (daher Gttl.) führt 4 Schriften aus Autopsie und 10 Citate auf, Fst. 83-5 vier (eigentlich 5) mit corrupten arab. Titeln, S. 87-90, durch Teilung der Psalmbücher (6, 8, 13-15) 17 exeget. Schriften; s. dagegen Pol. 346, HB. VII, 26, XIII, 108; die vorgeblich chronologische Reihenfolge mit ihren Jahrzahlen ist wertlos. --- Ich ordne  den Schriften die Citate unter. --- 4) Mk. Zu Tanchum 104. Über den angeführten Meborach b. Natan b. Nissim ha-Levi und einen Meb. b. N. 1167, s. Landshuth, Onomast. 169, so lies Jew. Qu. VII, 196, 311, XIII, 496. Pi. A. 62  u. 189 (a. 880 bei Fst. I, 98; Zz. Lit. 98; he-Chaluz VI, 52; HB, V, 30; Gg. ZDMG. XV, 816) u. s. Mubarak  §144. --- 5) Die Übersetzungen sind dem Hebräischen des Textes angepasst (Pi. A. S. 131), wie bei Saadia.
+<lb/></p></quote>
                 <bibl xml:id="jalit-orgbiblKYQS5YIX">
                     <title> "Salmon ben Jeroham" Moritz Steinschneider, Salmon ben Jeroham, in Die
                         arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der
@@ -1013,63 +953,59 @@
                     <ptr target="https://jalit.org/bibl/KYQS5YIX"/>
                 </bibl>
             </item>
-            <item>
-                <quote xml:lang="he">
-                    סלמון בן ירוחם (או רוחים)
-                    
-                    אחד מקדמוני מחברי הקראים היותר מפורסמים. הוא היה בן דורו של רב סעדיה גאון, אבל צעיר ממנו הרבה לימים וכתב את רוב חיבוריו בשנות הארבעים והחמישים למאה העשירית. אבל ידענו כי השיב על הגאון עוד בחייו, כמו שמעיד על זה בפירוש סהל בן מצליח באגרת התוכחת שלו (לקוטי קדמוניות, נספחים 37). והנה נדפסה בספר הנ"ל (עמ' 61) מקדמה מיוחסת לסלמון וכתוב בראשה כי קרא אותה מחברה במצרים בשבת יתרו בשנת אלף ר"ט לשטרות (898) בעת מלאו לו י"ג שנה ואם כן נולד בשנת 885. אבל כבר בעיני פינסקר נראית המקדמה הזאת לחשודה ועתה אין איש מטיל ספק בזיופה. וכנראה בדה אותו פירקוויץ מלבו למען תמוך עליה את דברי הקראים כי היה הרס"ג תלמידו של סלמון וכי רבו החרים את התלמיד המורד בו (עי' למשל מזכיר לבני רשף עמ' 37), דברים המעוררים רק שחוק. גם מקום מגורו של סלמון לא נודע בבירור וקרוב הדבר ששכן בירושלים כי בפירושו לקהלת ט':ט' יאמר "ואחר כל אלה מבקשים לגרשנו מן ירושלים ולהכביד עול ברזל על צוארינו." וכן מספר בפירושו לתהלים ל' ממאורעות היהודים בעיר הקדושה (עי' הרכבי, Denkmäler, עמ' 79). הסופר הקראי אבן אלהיתי (עי' JQR IX:434) יספר אמנם כי שכן סלמון בחלב, כי מת בחיי הרס"ג וכי הגאון הלך אחרי מטתו בבגדים קרועים ויחף ובצער גדול וכי עד היום מראים בחלב את קברו של סלמון. אבל נקל לראות כי מכל הדברים האלה מרחף רוח אגדה אף על פי שאפשר כי שכן סלמון (אולי בסוף ימיו) בחלב.
-                    
-                    סלמון היה אחד הקראים היותר קנאים וספריו מלאים דברי בוז ונאצה נגד הרבנים בכלל (שהוא קורא אותם זדים ורשעים) ונגד הרס"ג בפרט. הוא מלעיג על אגדות חז"ל באופן גס ומאשים אותם בכל מיני אשמות. עם זה היה שונא הפילוסופיא ושאר חכמות, מתרעם אף נגד למוד לשונות של חול, כגון הלשון הערבית ולמוד הדקדוק וצועק על אבוד העת בהבלי העולם ובספרים חיצונים. וכשבא לדבר בספריו הערבים נגד המוסלמים בדברים מקציפים דולג גם הוא כמו רוב הקראים הקדמונים באמצע המאמר מלשון ערב ללשון הקדש מיראתו את חמת המושלים. סגנונו העברי הוא קשה ומלא מליצות מיוחדות ועם זה חוטא נגד חקי הלשון. בזכרונות הקראים יזכר מיד אחרי בנימין הנהאונדי ולפני הקרקסאני (שהיה אמנם כביר ממנו לימים) ובעל חלוק הקראים והרבנים מזכירו בין נסי בן נח ויהודה בן קריש (שהיה אמנם רבני), אבל מן הפלא שהבאים אחריו (מלבד יפת בן עלי בפירושו לסוף דניאל) כמעט שלא יזכירוהו, אף כי אין ספק שהדסי למשל עמד תחת השפעתו.
-                    
-                    1)	תשובות על רב סעדיה גאון בעברית, והמה המכונים בארח צדיקים לש"י לוצקי בשם "מלחמות ה'" חיברם עוד בחיי הרס"ג כמו שמעיד סהל בן מצליח וכמו שנראה מסגנונם והיה אז כפי שיאמר בעצמו עוד צעיר לימים. ויש ידיים מוכיחות כי היה כבר לפניו ספר הגלוי לרס"ג שנתחבר בשנת 934 (ואם כן זמן חיבורם הוא בין 942934). התשובות האלו כתובות בחרוזים ומתחלקים לי"ט פרקים (ולא לט"ו כמו שיאמר פינסקר) אשר הר"ת שלהם הוא לסירוגין בסדר א"ב או תשר"ק ורק בפרק י"א וט"ו ר"ת שלהם הוא סלמון בן ירוחם (או רוחים). בשלשה הפרקים הראשונים ידבר נגד תורה שבעל פה בכלל, ומביא שבע ראיות של רס"ג המוכיחות את אמתתה ומשיב עליהם. בפרקים ד'-י"א מדבר על דבר קביעת העבור והענינים המתייחסים לו ומראה ששיטת רס"ג האומר כי העבור הוא ישן נושן מתנגד לדברי רז"ל. בפרק י"ב מדבר על דבר היתר הכנה מערב שבת לשבת ועל דבר לא תבערו, בפרק י"ג-י"ד על עניני טומאה וטהרה ועל איסור אכילת שליל וכדומה, בפרק ט"ו-י"ח על האגדות שנראות בהן כעין הגשמת הבורא ועל שיעור קומה וכדומה, ומביא בו ספר הרזים, ספר שם בן נח, אותיות ר' עקיבא ושיעור קומה ופרק י"ט הוא סיום הספר. הספר הזה נמצא בכ"י בליידן 4119, בבית המדרש בווינא 273 העתקת פינסקר, בבית המדרש לרבנים בניו יורק, אצל ה' אלחנן אדלר בלונדון מס' 2481 (כ"י אדלר נכתב על ידי אליהו בן ברוך), וכ"י היה בידי טריגלאנד (עי' Wolf I:1083). ועוד ונדפסו ממנו ההקדמה ושני הפרקים הראשונים ב- Literaturblatt des Orients )1846(, pp. 23, 163, 211 ועוד פירסם ממנו דוגמאות הרבה פאזנאנסקי במקומות שונים. גם התשובות האלה מלאות דברי חרפות ומחברן פוער פיו לבלי חק על רז"ל ועל הגאון שנוא נפשו ובהמשך דבריו יאמר כי יכתבם גם בלשון ערבית לתועלת אותם שאינם מבינים עברית, אבל לא נודע אם הפיק זממו. ואחד מתלמידי הרס"ג (ואולי הוא יעקב בן שמואל) כתב תשובה על תשובותיו אלה בלשון ערבית אשר נשתייר ממנה מעט בכ"י באוקספורד (נדפס ע"י פאזנאנסקי ב- ZfHB X:47-52).
-                    
-                    2) פירושים על כתבי הקודש בערבית והם:
-                    
-                    א)	על התורה. מביאו בפירושו לתהלים, אבל לא נודע ממנו כ“י;
-                    
-                    ב)	על ספר ישעיה. מבטיח לחברו גם כן בפירושו לתהלים, ונמצאו ממנו קצת שיורים בכ"י בפטרסבורג;
-                    
-                    ג)	על ספר תהלים. נמצא בכ"י בשני כרכים גדולים בפטרסבורג (סי' 556555) וקצת ממנו גם באספה שנייה של פירקוויץ [II Firk. Heb.-Ar. 1345], בבודלינא סי' 262829 ובבית המדרש בווינא 393 העתקת פינסקר. הפירוש הזה נתחבר בשנת תתפ"ס לחרבן (955) ומחברו מייחס ענין כל המזמורים על ישראל ושאר האומות וכל המזמורים הם אצלו מקושרים ומחוברים בענין מראש ועד סוף. עם זה מרחף על פני כולו שנאת הדתות ומלא חרופים וגדופים נגד הרבנים ונגד העוסקים בחכמות חיצוניות וקוראי ספרי אקלידוס (נויבאואר 109). דוגמאות מעטות ממנו נמצאו אצל פינסקר ואצל נויבאואר (בספרו Aus d. Petersburger Bibliothek, p. 109 ובמחברתו The Authorship and the Titles of the Psalms, p. 18 ff.), ואת הפירוש הארוך לתהלים ק"ב:י"ד המדבר על דבר חשבון הקץ פירסם פוזננסקי (MGWJ 1900:519-529).
-                    
-                    ד)	על ספר משלי. מביאו בפירושו לקהלת וקצת ממנו נמצא בפטרסבורג באספה שנייה של פירקוויץ ואולי גם בבריטיש מוזיאום בלונדון (רשימת מרגליות סי' 328);
-                    
-                    ה)	על ספר איוב. מביאו בפירושו לאיכה ולקהלת ולא נודע ממנו כ“י;
-                    
-                    ו)	על שיר השירים. מביאו בפירושו לאיכה ונמצא קצת ממנו בבריטיש מוזיאום 32812 ושם יש גם זמן חיבורו תתפ"ג לחרבן (951) (עיין פוזננסקי, JQR VIII) וחלק כנראה בכ"י אדלר 282217;
-                    
-                    ז)	על רות. נודע ממנו רק העתקה עברית שראה פינסקר אצל הקראי ירחמיאל פיריס;
-                    
-                    ח)	על איכה. נמצא בהרבה כ"י (כ"י בר' מוז' 252, 253, 32818-25, כ"י פריש 2951, כ"י אדלר 222 נראה שהוא ממנו, כ"י קויפמן 29), נתחבר בשנת תתפ"ח לחרבן (956), ונדפס ממנו הפירוש לשני הסימנים הראשונים על ידי פייערשטיין (קראקא 1898, ועי' פוזננסקי, JQR XIII:336). על פני כולו מרחף רוח של מדרש ורק במקום אחד נראה מתוכו את דתו הקראית של מחברו. אף לא נמצאו בו אמרות ההרגל דברי בוז ונאצה נגד הרבנים ואדרבה יסתייע מן לשון הרבנים. וכן נמצא בו הרבה דברי דקדוק, גם יביא בו ספר שחיבר על אותיות החלוף (אחרף אלאבדל), ורק זה נמצא גם פה שנאה לחכמות זרות וקריאת תגר על השתדלות ידיעות לשונות הגוים ודקדוקם. מונק יחסו בטעות ליפת בן עלי ושטיינשניידר (עי' המזכיר י"ג 103) מטיל בו ספק אם יצא באמת מתחת ידי סלמון, ומי יודע אם לא האמת אתו אף שעל כל פנים הוא פירוש שנתחבר בזמנו של סלמון.
-                    
-                    ט)	על קהלת. [צוטט על ידי פינסקר, ל"ק, 158,] נמצא בכ"י בפטרסבורג סי' 359, ובבריטיש מוזיאום סי' 254, וקצת בבית המדרש בווינא 40 העתקת פירקוויץ, ודוגמאות ממנו הדפיסו פינסקר, הירשפעלד (Arabic Chrestomathy, p. 103-109), ופוזננסקי (MGWJ 1907:729-732,). הפירוש הזה נעתק גם לעברית ונתקצר ונשתנה הרבה בתרגומו למען לא יוכר לפירוש קראי ונתיחס בטעות לרס"ג. בפירוש זה מרחיב בו מחברו הדיבור כמעט בכל פסוק בעניני מוסר ומחובות האדם באשר הוא אדם ומחובות הישראלי באשר הוא ישראלי וצועק גם פה על אבוד העת בהבלי העולם ובספרים חיצונים, אבל גם בו לא נמצא דברי וכוח נגד הרבנים ואדרבא מביא לפעמים מאמר מבעלי המשנה ומסתייע מלשון הרבנים;
-                    
-                    י)	על אסתר. נמצא קצת ממנו בפטרסבורג באספה שנייה של פירקוויץ ואולי גם בבריטיש מוזיאום והעתקה עברית ממנו ראה פינסקר אצל הקראי פיריס הנ“ל;
-                    
-                    י"א)	על דניאל. מביאו בפירושו לאיכה;
-                    
-                    י"ב)	על דברי הימים? בספר העושר דף כ"ג ע"ג איתא: "זה פתרון המחלקות של שלמון בן ירוחם ז"ל," מאמר ארוך מאד, האם נוכל ללמוד מזה שפירש דברי הימים?
-                    
-                    שאר ספריו הם:
-                    
-                    3)	"כתאב אלאנתצאר ללחק" ר"ל ספר נצוח האמת, מביאו בפירושו לתהלים;
-                    
-                    4)	ספר מדבר ממעלות הכהנים, נחלק לחמישים שערים, מביאו שם;
-                    
-                    5)	ספר על אותיות החלוף (אחרף אלאבדל) עי' לעיל;
-                    
-                    6)	תרגום ופירוש לתפלות (כ"י פירקוויץ 638?, עי' מ"ע הראשון לגייגר ג' 444) ולא נודע מהותם, ובסדורי הקראים (קלעא תצ"ז ח"ג ס"ד, קלעא תקס"ד ח"ג ס"ה, גוזלווא ח"ג ס"ט, ווינא ח"ג קי"ט, ווילנא ח"ג 127) מיוחס לו חיבור לבוקר יום הכפור תחלתו "הקיצו שכורים ובכו והילילו כל שותי יין". (בתקון קראים כ"י פטרסבורג 734 איתא לבסוף: (ביה"כ) יאמרו החזנים והקהל חברו שלמון בן ירוחם.)
-                    
-                    ביבליוגרפיה:
-                    
-                    פינסקר, ל"ק, קט"ו, קי"ח, 13, 61, 130; גוטלובר, בקורת, 196; ווייס, דדו"ד ח"ד 102; אוצר ישראל (בערכו); פוזננסקי, ההתישבות, 16-18; גייגר, קובץ מאמרים, מהדורת פוזננסקי, 344-354 (אוצר נחמד ד' 12-19);
-                    de Rossi, Dizion., II:115 )Ham. 144(; Wolf, I:1083, no. 2027, III:1067; Winter-Wunsche II:79-81; Jost, II:346; Steinschneider, Cat. Leyden, 199-201; idem, Pol. Lit., 346; idem, Heb. Ub., 946; idem, Ar. Lit., sec. 40; Fürst, II:75-90; Graetz, V4, see index
-                    Neubauer, 10; idem, JA 1861:462; Hamburger, Bre. Jud. Abteil. III, Suppl. VI, 119-120; Poznanski, JQR VIII:684, XIII:336; idem, ZfHB III:172; X:43; idem, MGWJ 44:405, 51:722; idem, REJ 41:305; idem, KLO, no. 5; idem, Encycl. of Rel. VII:666a; Margoliouth, REJ 57:312; JE XI:452; . . XIV:465-467.
-                </quote>
+            <item><note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  </p><p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found at the Samuel Poznański Archive of the National Library of Israel.  </p><p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  </p><p>Literature:  
+<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em>Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging</em>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
+                <quote xml:lang="he"><p>סלמון בן ירוחם (או רוחים)
+<lb/>                    
+<lb/>אחד מקדמוני מחברי הקראים היותר מפורסמים. הוא היה בן דורו של רב סעדיה גאון, אבל צעיר ממנו הרבה לימים וכתב את רוב חיבוריו בשנות הארבעים והחמישים למאה העשירית. אבל ידענו כי השיב על הגאון עוד בחייו, כמו שמעיד על זה בפירוש סהל בן מצליח באגרת התוכחת שלו (לקוטי קדמוניות, נספחים 37). והנה נדפסה בספר הנ"ל (עמ' 61) מקדמה מיוחסת לסלמון וכתוב בראשה כי קרא אותה מחברה במצרים בשבת יתרו בשנת אלף ר"ט לשטרות (898) בעת מלאו לו י"ג שנה ואם כן נולד בשנת 885. אבל כבר בעיני פינסקר נראית המקדמה הזאת לחשודה ועתה אין איש מטיל ספק בזיופה. וכנראה בדה אותו פירקוויץ מלבו למען תמוך עליה את דברי הקראים כי היה הרס"ג תלמידו של סלמון וכי רבו החרים את התלמיד המורד בו (עי' למשל מזכיר לבני רשף עמ' 37), דברים המעוררים רק שחוק. גם מקום מגורו של סלמון לא נודע בבירור וקרוב הדבר ששכן בירושלים כי בפירושו לקהלת ט':ט' יאמר "ואחר כל אלה מבקשים לגרשנו מן ירושלים ולהכביד עול ברזל על צוארינו." וכן מספר בפירושו לתהלים ל' ממאורעות היהודים בעיר הקדושה (עי' הרכבי, Denkmäler, עמ' 79). הסופר הקראי אבן אלהיתי (עי' JQR IX:434) יספר אמנם כי שכן סלמון בחלב, כי מת בחיי הרס"ג וכי הגאון הלך אחרי מטתו בבגדים קרועים ויחף ובצער גדול וכי עד היום מראים בחלב את קברו של סלמון. אבל נקל לראות כי מכל הדברים האלה מרחף רוח אגדה אף על פי שאפשר כי שכן סלמון (אולי בסוף ימיו) בחלב.
+<lb/>                    
+<lb/>סלמון היה אחד הקראים היותר קנאים וספריו מלאים דברי בוז ונאצה נגד הרבנים בכלל (שהוא קורא אותם זדים ורשעים) ונגד הרס"ג בפרט. הוא מלעיג על אגדות חז"ל באופן גס ומאשים אותם בכל מיני אשמות. עם זה היה שונא הפילוסופיא ושאר חכמות, מתרעם אף נגד למוד לשונות של חול, כגון הלשון הערבית ולמוד הדקדוק וצועק על אבוד העת בהבלי העולם ובספרים חיצונים. וכשבא לדבר בספריו הערבים נגד המוסלמים בדברים מקציפים דולג גם הוא כמו רוב הקראים הקדמונים באמצע המאמר מלשון ערב ללשון הקדש מיראתו את חמת המושלים. סגנונו העברי הוא קשה ומלא מליצות מיוחדות ועם זה חוטא נגד חקי הלשון. בזכרונות הקראים יזכר מיד אחרי בנימין הנהאונדי ולפני הקרקסאני (שהיה אמנם כביר ממנו לימים) ובעל חלוק הקראים והרבנים מזכירו בין נסי בן נח ויהודה בן קריש (שהיה אמנם רבני), אבל מן הפלא שהבאים אחריו (מלבד יפת בן עלי בפירושו לסוף דניאל) כמעט שלא יזכירוהו, אף כי אין ספק שהדסי למשל עמד תחת השפעתו.
+<lb/>                    
+<lb/>1)	תשובות על רב סעדיה גאון בעברית, והמה המכונים בארח צדיקים לש"י לוצקי בשם "מלחמות ה'" חיברם עוד בחיי הרס"ג כמו שמעיד סהל בן מצליח וכמו שנראה מסגנונם והיה אז כפי שיאמר בעצמו עוד צעיר לימים. ויש ידיים מוכיחות כי היה כבר לפניו ספר הגלוי לרס"ג שנתחבר בשנת 934 (ואם כן זמן חיבורם הוא בין 942934). התשובות האלו כתובות בחרוזים ומתחלקים לי"ט פרקים (ולא לט"ו כמו שיאמר פינסקר) אשר הר"ת שלהם הוא לסירוגין בסדר א"ב או תשר"ק ורק בפרק י"א וט"ו ר"ת שלהם הוא סלמון בן ירוחם (או רוחים). בשלשה הפרקים הראשונים ידבר נגד תורה שבעל פה בכלל, ומביא שבע ראיות של רס"ג המוכיחות את אמתתה ומשיב עליהם. בפרקים ד'-י"א מדבר על דבר קביעת העבור והענינים המתייחסים לו ומראה ששיטת רס"ג האומר כי העבור הוא ישן נושן מתנגד לדברי רז"ל. בפרק י"ב מדבר על דבר היתר הכנה מערב שבת לשבת ועל דבר לא תבערו, בפרק י"ג-י"ד על עניני טומאה וטהרה ועל איסור אכילת שליל וכדומה, בפרק ט"ו-י"ח על האגדות שנראות בהן כעין הגשמת הבורא ועל שיעור קומה וכדומה, ומביא בו ספר הרזים, ספר שם בן נח, אותיות ר' עקיבא ושיעור קומה ופרק י"ט הוא סיום הספר. הספר הזה נמצא בכ"י בליידן 4119, בבית המדרש בווינא 273 העתקת פינסקר, בבית המדרש לרבנים בניו יורק, אצל ה' אלחנן אדלר בלונדון מס' 2481 (כ"י אדלר נכתב על ידי אליהו בן ברוך), וכ"י היה בידי טריגלאנד (עי' Wolf I:1083). ועוד ונדפסו ממנו ההקדמה ושני הפרקים הראשונים ב- Literaturblatt des Orients )1846(, pp. 23, 163, 211 ועוד פירסם ממנו דוגמאות הרבה פאזנאנסקי במקומות שונים. גם התשובות האלה מלאות דברי חרפות ומחברן פוער פיו לבלי חק על רז"ל ועל הגאון שנוא נפשו ובהמשך דבריו יאמר כי יכתבם גם בלשון ערבית לתועלת אותם שאינם מבינים עברית, אבל לא נודע אם הפיק זממו. ואחד מתלמידי הרס"ג (ואולי הוא יעקב בן שמואל) כתב תשובה על תשובותיו אלה בלשון ערבית אשר נשתייר ממנה מעט בכ"י באוקספורד (נדפס ע"י פאזנאנסקי ב- ZfHB X:47-52).
+<lb/>                    
+<lb/>2) פירושים על כתבי הקודש בערבית והם:
+<lb/>                    
+<lb/>א)	על התורה. מביאו בפירושו לתהלים, אבל לא נודע ממנו כ“י;
+<lb/>                    
+<lb/>ב)	על ספר ישעיה. מבטיח לחברו גם כן בפירושו לתהלים, ונמצאו ממנו קצת שיורים בכ"י בפטרסבורג;
+<lb/>                    
+<lb/>ג)	על ספר תהלים. נמצא בכ"י בשני כרכים גדולים בפטרסבורג (סי' 556555) וקצת ממנו גם באספה שנייה של פירקוויץ [II Firk. Heb.-Ar. 1345], בבודלינא סי' 262829 ובבית המדרש בווינא 393 העתקת פינסקר. הפירוש הזה נתחבר בשנת תתפ"ס לחרבן (955) ומחברו מייחס ענין כל המזמורים על ישראל ושאר האומות וכל המזמורים הם אצלו מקושרים ומחוברים בענין מראש ועד סוף. עם זה מרחף על פני כולו שנאת הדתות ומלא חרופים וגדופים נגד הרבנים ונגד העוסקים בחכמות חיצוניות וקוראי ספרי אקלידוס (נויבאואר 109). דוגמאות מעטות ממנו נמצאו אצל פינסקר ואצל נויבאואר (בספרו Aus d. Petersburger Bibliothek, p. 109 ובמחברתו The Authorship and the Titles of the Psalms, p. 18 ff.), ואת הפירוש הארוך לתהלים ק"ב:י"ד המדבר על דבר חשבון הקץ פירסם פוזננסקי (MGWJ 1900:519-529).
+<lb/>                    
+<lb/>ד)	על ספר משלי. מביאו בפירושו לקהלת וקצת ממנו נמצא בפטרסבורג באספה שנייה של פירקוויץ ואולי גם בבריטיש מוזיאום בלונדון (רשימת מרגליות סי' 328);
+<lb/>                    
+<lb/>ה)	על ספר איוב. מביאו בפירושו לאיכה ולקהלת ולא נודע ממנו כ“י;
+<lb/>                    
+<lb/>ו)	על שיר השירים. מביאו בפירושו לאיכה ונמצא קצת ממנו בבריטיש מוזיאום 32812 ושם יש גם זמן חיבורו תתפ"ג לחרבן (951) (עיין פוזננסקי, JQR VIII) וחלק כנראה בכ"י אדלר 282217;
+<lb/>                    
+<lb/>ז)	על רות. נודע ממנו רק העתקה עברית שראה פינסקר אצל הקראי ירחמיאל פיריס;
+<lb/>                    
+<lb/>ח)	על איכה. נמצא בהרבה כ"י (כ"י בר' מוז' 252, 253, 32818-25, כ"י פריש 2951, כ"י אדלר 222 נראה שהוא ממנו, כ"י קויפמן 29), נתחבר בשנת תתפ"ח לחרבן (956), ונדפס ממנו הפירוש לשני הסימנים הראשונים על ידי פייערשטיין (קראקא 1898, ועי' פוזננסקי, JQR XIII:336). על פני כולו מרחף רוח של מדרש ורק במקום אחד נראה מתוכו את דתו הקראית של מחברו. אף לא נמצאו בו אמרות ההרגל דברי בוז ונאצה נגד הרבנים ואדרבה יסתייע מן לשון הרבנים. וכן נמצא בו הרבה דברי דקדוק, גם יביא בו ספר שחיבר על אותיות החלוף (אחרף אלאבדל), ורק זה נמצא גם פה שנאה לחכמות זרות וקריאת תגר על השתדלות ידיעות לשונות הגוים ודקדוקם. מונק יחסו בטעות ליפת בן עלי ושטיינשניידר (עי' המזכיר י"ג 103) מטיל בו ספק אם יצא באמת מתחת ידי סלמון, ומי יודע אם לא האמת אתו אף שעל כל פנים הוא פירוש שנתחבר בזמנו של סלמון.
+<lb/>                    
+<lb/>ט)	על קהלת. [צוטט על ידי פינסקר, ל"ק, 158,] נמצא בכ"י בפטרסבורג סי' 359, ובבריטיש מוזיאום סי' 254, וקצת בבית המדרש בווינא 40 העתקת פירקוויץ, ודוגמאות ממנו הדפיסו פינסקר, הירשפעלד (Arabic Chrestomathy, p. 103-109), ופוזננסקי (MGWJ 1907:729-732,). הפירוש הזה נעתק גם לעברית ונתקצר ונשתנה הרבה בתרגומו למען לא יוכר לפירוש קראי ונתיחס בטעות לרס"ג. בפירוש זה מרחיב בו מחברו הדיבור כמעט בכל פסוק בעניני מוסר ומחובות האדם באשר הוא אדם ומחובות הישראלי באשר הוא ישראלי וצועק גם פה על אבוד העת בהבלי העולם ובספרים חיצונים, אבל גם בו לא נמצא דברי וכוח נגד הרבנים ואדרבא מביא לפעמים מאמר מבעלי המשנה ומסתייע מלשון הרבנים;
+<lb/>                    
+<lb/>י)	על אסתר. נמצא קצת ממנו בפטרסבורג באספה שנייה של פירקוויץ ואולי גם בבריטיש מוזיאום והעתקה עברית ממנו ראה פינסקר אצל הקראי פיריס הנ“ל;
+<lb/>                    
+<lb/>י"א)	על דניאל. מביאו בפירושו לאיכה;
+<lb/>                    
+<lb/>י"ב)	על דברי הימים? בספר העושר דף כ"ג ע"ג איתא: "זה פתרון המחלקות של שלמון בן ירוחם ז"ל," מאמר ארוך מאד, האם נוכל ללמוד מזה שפירש דברי הימים?
+<lb/>                    
+<lb/>שאר ספריו הם:
+<lb/>                    
+<lb/>3)	"כתאב אלאנתצאר ללחק" ר"ל ספר נצוח האמת, מביאו בפירושו לתהלים;
+<lb/>                    
+<lb/>4)	ספר מדבר ממעלות הכהנים, נחלק לחמישים שערים, מביאו שם;
+<lb/>                    
+<lb/>5)	ספר על אותיות החלוף (אחרף אלאבדל) עי' לעיל;
+<lb/>                    
+<lb/>6)	תרגום ופירוש לתפלות (כ"י פירקוויץ 638?, עי' מ"ע הראשון לגייגר ג' 444) ולא נודע מהותם, ובסדורי הקראים (קלעא תצ"ז ח"ג ס"ד, קלעא תקס"ד ח"ג ס"ה, גוזלווא ח"ג ס"ט, ווינא ח"ג קי"ט, ווילנא ח"ג 127) מיוחס לו חיבור לבוקר יום הכפור תחלתו "הקיצו שכורים ובכו והילילו כל שותי יין". (בתקון קראים כ"י פטרסבורג 734 איתא לבסוף: (ביה"כ) יאמרו החזנים והקהל חברו שלמון בן ירוחם.)
+<lb/>                    
+<lb/>ביבליוגרפיה:
+<lb/>                    
+<lb/>פינסקר, ל"ק, קט"ו, קי"ח, 13, 61, 130; גוטלובר, בקורת, 196; ווייס, דדו"ד ח"ד 102; אוצר ישראל (בערכו); פוזננסקי, ההתישבות, 16-18; גייגר, קובץ מאמרים, מהדורת פוזננסקי, 344-354 (אוצר נחמד ד' 12-19);
+<lb/>de Rossi, Dizion., II:115 )Ham. 144(; Wolf, I:1083, no. 2027, III:1067; Winter-Wunsche II:79-81; Jost, II:346; Steinschneider, Cat. Leyden, 199-201; idem, Pol. Lit., 346; idem, Heb. Ub., 946; idem, Ar. Lit., sec. 40; Fürst, II:75-90; Graetz, V4, see index Neubauer, 10; idem, JA 1861:462; Hamburger, Bre. Jud. Abteil. III, Suppl. VI, 119-120; Poznanski, JQR VIII:684, XIII:336; idem, ZfHB III:172; X:43; idem, MGWJ 44:405, 51:722; idem, REJ 41:305; idem, KLO, no. 5; idem, Encycl. of Rel. VII:666a; Margoliouth, REJ 57:312; JE XI:452; . . XIV:465-467.</p></quote>
                 <bibl xml:id="jalit-orgbiblKYQS5YI2">
                     <idno/>
-                    <title type="citation">
-                        Samuel Abraham Poznański, “Encyclopedia of Qaraites” (Jerusalem, n.d.), סדרה 5: אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC. 4* 1180, https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL990032439840205171/NLI
-                    </title>
+                    <title type="citation">Samuel Abraham Poznański, “Encyclopedia of Qaraites” (Jerusalem, n.d.), סדרה 5: אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC. 4* 1180, https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL990032439840205171/NLI                    </title>
                     <ptr target="https://jalit.org/bibl/KYQS5YI2"/>
                 </bibl>
             </item>
