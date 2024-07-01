@@ -6,14 +6,11 @@
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName
-                        xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName
-                        xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de"
-                        >Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
                     </editor>
@@ -56,10 +53,9 @@
                 </editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
-                        >Winona Salesky</name>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -68,18 +64,18 @@
                 <idno type="URI">https://jalit.org/person/30</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
-                            4.0) License.</p>
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
+<lb/>                            4.0) License.</p></p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Born digital.</p>
+                <p><p>Born digital.</p></p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-07-01T16:08:54.452Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-04-24T13:48:02.428Z">updated spelling</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
@@ -89,78 +85,78 @@
             <listPerson>
                 <person xml:id="person-30">
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
-                        <name source=""/>
+                        <name/>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name source="">Abū Yaʿqūb b. Baḫtawayh</name>
+                        <name>Abū Yaʿqūb b. Baḫtawayh</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-3">
-                        <name source=""/>
+                        <name/>
                     </persName>
                     <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name source=""/>
+                        <name/>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-5">
-                        <name source="">Muʿallim al-Ǧāliya</name>
+                        <name>Muʿallim al-Ǧāliya</name>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-6">
-                        <name source=""/>
+                        <name/>
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-7">
-                        <addName source="" xml:id="sh-ar" type="shuhra"/>
-                        <addName source="" xml:id="is-ar" type="ism"/>
-                        <addName source="" xml:id="na-ar" type="nasab"/>
-                        <addName source="" xml:id="ni-ar" type="nisbah"/>
-                        <addName source="" xml:id="ku-ar" type="kunya"/>
-                        <addName source="" xml:id="la-ar" type="laqab"/>
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
-                        <addName source="" ref="#sh-ar" type="shuhra"/>
-                        <addName source="" ref="#is-ar" type="ism"/>
-                        <addName source="" ref="#na-ar" type="nasab"/>
-                        <addName source="" ref="#ni-ar" type="nisbah"/>
-                        <addName source="" ref="#ku-ar" type="kunya"/>
-                        <addName source="" ref="#la-ar" type="laqab"/>
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Latn" xml:id="name-9">
-                        <addName source="" ref="#sh-ar" type="shuhra"/>
-                        <addName source="" ref="#is-ar" type="ism"/>
-                        <addName source="" ref="#na-ar" type="nasab"/>
-                        <addName source="" ref="#ni-ar" type="nisbah"/>
-                        <addName source="" ref="#ku-ar" type="kunya"/>
-                        <addName source="" ref="#la-ar" type="laqab"/>
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:lang="he" xml:id="name-10">
-                        <forename source="" xml:id="fn-he"/>
-                        <addName source="" xml:id="pa-he" type="patronym"/>
-                        <addName source="" xml:id="ep-he" type="epithet"/>
-                        <addName source="" xml:id="ac-he" type="acronym"/>
-                        <addName source="" xml:id="sh-he" type="shuhra"/>
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
                     <persName type="canon" xml:lang="he-Latn" xml:id="name-11">
-                        <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName source="" ref="#pa-he" type="patronym"/>
-                        <addName source="" ref="#ep-he" type="epithet"/>
-                        <addName source="" ref="#ac-he" type="acronym"/>
-                        <addName source="" ref="#sh-he" type="shuhra"/>
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="" source=""/>
-                        <placeName ref="" cert="" source=""/>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
                     </birth>
                     <death>
-                        <date cert="" source=""/>
-                        <placeName ref="" cert="" source=""/>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="" source=""/>
-                        <placeName ref="" cert="" source=""/>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
                     </floruit>
-                    <sex cert="" source=""/>
-                    <faith cert="" source=""/>
-                    <occupation type="" cert="" source=""/>
+                    <sex cert=""/>
+                    <faith cert=""/>
+                    <occupation type="" cert=""/>
                     <residence>
-                        <placeName ref="" cert="" source=""/>
+                        <placeName ref="" cert=""/>
                     </residence>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFU58KXC">
                         <title>Bacher, Wilhelm. “Le grammairien anonyme de Jérusalem et son livre.”
@@ -292,12 +288,11 @@
             <item>
                 <note/>
                 <persName/>
-                <quote xml:lang=""/>
-                <bibl>
-                    <title/>
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+                <quote xml:lang=""><p>§ 49</p><p>Josef ibn Bakhtawi (  בכתוי? ), Karäer, abu Ja’kub1) (XI. Jahrh.?), als   מעלם אלגאליה (Lehrer des Exils) von einem Anonymus citirt, hat wahrscheinlich Grammatisches und Exegetisches über biblische Bücher verfasst, doch ist wieder ein Titel noch ein näher bestimmtes Citat bekannt.</p><p>1) Citate mit diesem Beinamen können sich also 4 alte Karäer, Namens Josef, beeziehen.</p><p>Quellen: s. HÜb. 458 A. 628, dann Fst. I. 96; Neub. Aus d. Pet. Firk. Bibl. 21; Pozn. Jew. Qu. VIII, 698 u. Rev. Ét. XXXIII, 215 (Aboul-F. p. 36), gegen Bacher’s Identification mit Josef b. Noach. Über den Namen s. Jew. Qu. X 136 n. 73, wo lies: or Bokhtawi; Salfeld, die Erkl. D. Hohl. S. 127 A. 2 (nach meiner Mitteil.), citirt bei Hm. IV. 130 Bakhtavi für Bakhtari, s. Fihrist 100, II, 47, ibn Khallikan, engl. III, 673; Sujuti, Nom. Relat. 31. Supplem. 26.</p></quote>
+                <bibl xml:id="jalit-orgbiblAD5K3PI4">
+                        <title>"Ibn Baḫtawayh" Moritz Steinschneider, Ibn Baḫtawayh, in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902), 88-89 [§49]. </title>
+                        <citedRange unit="page">88-89</citedRange><ptr target="https://jalit.org/bibl/AD5K3PI4"/>
+                    </bibl>
             </item>
         </list>
     </standOff>
