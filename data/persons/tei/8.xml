@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,23 +13,17 @@
             <funder ref="https://erc.europa.eu/">
                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-               >Ronny Vollandt
+            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
                </editor>
-            <editor xml:id="gschwarb" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-               >Gregor Schwarb
+            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
                </editor>
-            <editor xml:id="mmoliere" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-               >Maximilian de Molière
+            <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
                </editor>
             <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt>
+            </respStmt><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -40,17 +32,17 @@
             <idno type="URI">https://jalit.org/person/8</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                  <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
                </licence>
             </availability>
             <date>2021-10-23</date>
          </publicationStmt>
          <sourceDesc>
-            <p>Born digital.</p>
+            <p><p>Born digital.</p></p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+         <change who="#mmoliere" when="2024-07-01T16:06:11.921Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -58,180 +50,179 @@
    <text>
       <body>
          <listPerson>
-            <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
-                  <name source="">Aharon ben Yešuʿa</name>
+            <person xml:id="person-8">
+               <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                  <name>Aharon ben Yešuʿa</name>
                </persName>
-               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                  <name source="">Abū l-Faraǧ Hārūn b. al-Faraǧ</name>
+               <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                  <name>Abū l-Faraǧ Hārūn b. al-Faraǧ</name>
                </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-3">
                      <name source="#isni">Aaron b. Jeshuʿa</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-4">
                      <name source="#isni">Aaron ben Jeshua</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-5">
                      <name source="#isni">Aaron de Jérusalem (grammairien)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-6">
                      <name source="#isni">Aaron of Jerusalem</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-7">
                      <name source="#isni">Abū al-Faraǧ</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-8">
                      <name source="#isni">Abū al-Faraǧ Hārūn</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-9">
                      <name source="#isni">Abū al-Faraǧ Hārūn b. al-Faraǧ</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-10">
                      <name source="#isni">Abū al-Faraǧ Hārūn ibn al-Faraǧ</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-11">
                      <name source="#isni">Abū al-Faraj</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-12">
                      <name source="#isni">Abū al-Faraj Hārūn</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-13">
                      <name source="#isni">Abū al-Faraj Hārūn ibn al-Faraj</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-14">
                      <name source="#isni">'Abū al-Faraj Hārūn ibn al-Faraj (11 в.)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-15">
                      <name source="#isni">Abu al-Faraj Harun of Jerusalem</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-16">
                      <name source="#isni">Abū l-Faradsch Hārūn ibn Faradsch (karäischer Gelehrter)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-17">
                      <name source="#isni">Abu'l-Farag Harun ibn-al-Farag (11 в.)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-18">
                      <name source="#isni">Harūn</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-19">
                      <name source="#isni">Hārūn, Abū al-Faraǧ</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-20">
                      <name source="#isni">Hārūn, Abū al-Faraj</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-21">
                      <name source="#isni">Ibn al-Faraǧ, Abū al-Faraǧ Hārūn</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-22">
                      <name source="#isni">Ibn al-Faraj, Abū al-Faraj Hārūn</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-23">
                      <name source="#isni">Jerusalemite</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-24">
                      <name source="#isni">The Jerusalemite (pseudonym)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-25">
                      <name source="#isni">ʾAbiy ʾalParag' Harwn ʾibn ʾalParag'</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-26">
                      <name source="#isni">ʾAbw ʾalParag' Harwn ibn alParag'</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-27">
                      <name source="#isni">ʾAharon ben Yhwšuʿa</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-28">
                      <name source="#isni">ʾAharon ben Yšwʿah</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-29">
                      <name source="#isni">ʾAharwn ben Yšwʿah</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-30">
                      <name source="#isni">Абу-ль-Фарадж Гарун ибн аль-Фарадж (11 в.)</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-31">
                      <name source="#isni">אבו אל-פרג' הרון אבן אל-פרג'</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-32">
                      <name source="#isni">אבו אלפר הרון אבן אלפרג</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-33">
                      <name source="#isni">אבו אלפרג' הרון</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-34">
                      <name source="#isni">אבו אלפרג' הרון אבן אלפרג'</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-35">
                      <name source="#isni">אבי אלפרג' הרון אבן אלפרג'</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-36">
                      <name source="#isni">אהרון בן ישועה</name>
                   </persName>
-                  <persName xml:id="" type="alternate" xml:lang="">
+                  <persName type="alternate" xml:lang="" xml:id="name-37">
                      <name source="#isni">אהרן בן ישועה</name>
                   </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn">
+               <persName type="alternate" xml:lang="ar-Latn" xml:id="name-38">
                   <name source="#isni">Abū Hārūn al-Maqdisī</name>
                </persName>
-               <persName xml:id="" type="alternate" xml:lang="he">
-                  <name source=""/>
+               <persName type="alternate" xml:lang="he" xml:id="name-39">
+                  <name/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar">
-                  <addName source="" xml:id="sh-ar" type="shuhra"/>
-                  <addName source="" xml:id="is-ar" type="ism"/>
-                  <addName source="" xml:id="na-ar" type="nasab"/>
-                  <addName source="" xml:id="ni-ar" type="nisbah"/>
-                  <addName source="" xml:id="ku-ar" type="kunya"/>
-                  <addName source="" xml:id="la-ar" type="laqab"/>
+               <persName type="canon" xml:lang="ar" xml:id="name-40">
+                  <addName xml:id="sh-ar" type="shuhra"/>
+                  <addName xml:id="is-ar" type="ism"/>
+                  <addName xml:id="na-ar" type="nasab"/>
+                  <addName xml:id="ni-ar" type="nisbah"/>
+                  <addName xml:id="ku-ar" type="kunya"/>
+                  <addName xml:id="la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="ar-Hebr">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
+               <persName type="canon" xml:lang="ar-Hebr" xml:id="name-41">
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
-                  >
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
+               <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-42">
+                  <addName ref="#sh-ar" type="shuhra"/>
+                  <addName ref="#is-ar" type="ism"/>
+                  <addName ref="#na-ar" type="nasab"/>
+                  <addName ref="#ni-ar" type="nisbah"/>
+                  <addName ref="#ku-ar" type="kunya"/>
+                  <addName ref="#la-ar" type="laqab"/>
                </persName>
-               <persName xml:id="" type="canon" xml:lang="he">
-                  <forename source="" xml:id="fn-he"/>
-                  <addName source="" xml:id="pa-he" type="patronym"/>
-                  <addName source="" xml:id="ep-he" type="epithet"/>
-                  <addName source="" xml:id="ac-he" type="acronym"/>
-                  <addName source="" xml:id="sh-he" type="shuhra"/>
+               <persName type="canon" xml:lang="he" xml:id="name-43">
+                  <forename xml:id="fn-he"/>
+                  <addName xml:id="pa-he" type="patronym"/>
+                  <addName xml:id="ep-he" type="epithet"/>
+                  <addName xml:id="ac-he" type="acronym"/>
+                  <addName xml:id="sh-he" type="shuhra"/>
                </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn">
-                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName source="" ref="#pa-he" type="patronym"/>
-                  <addName source="" ref="#ep-he" type="epithet"/>
-                  <addName source="" ref="#ac-he" type="acronym"/>
-                  <addName source="" ref="#sh-he" type="shuhra"/>
+               <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-44">
+                  <forename ref="#fn-he" xml:lang="he-Latn"/>
+                  <addName ref="#pa-he" type="patronym"/>
+                  <addName ref="#ep-he" type="epithet"/>
+                  <addName ref="#ac-he" type="acronym"/>
+                  <addName ref="#sh-he" type="shuhra"/>
                </persName>
                <birth>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
+                  <date cert=""/>
+                  <placeName ref="" cert=""/>
                </birth>
                <death>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
+                  <date cert=""/>
+                  <placeName ref="" cert=""/>
                </death>
                <floruit>
-    <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
+    <date cert=""/>
+    <placeName ref="" cert=""/>
 </floruit>
-               <sex cert="" source=""/>
-               <faith cert="" source=""/>
-               <occupation type="" cert="" source=""/>
+               <sex cert=""/>
+               <faith cert=""/>
+               <occupation type="" cert=""/>
                <residence>
-                  <placeName ref="" cert="" source=""/>
+                  <placeName ref="" cert=""/>
                </residence>
                
                <bibl type="bibliography" xml:id="jalit-orgbibl6P2ZR6JU">
@@ -411,12 +402,14 @@
          <item>
             <note/>
             <persName/>
-            <quote xml:lang=""/>
-            <bibl>
-               <title/>
-               <citedRange unit="p"/>
-               <ptr target=""/>
-            </bibl>
+            <quote xml:lang="ge"><p>§ 48</p><p>Abu‘ l-Faradj Harun b. al-Faradj (Ahron b. Jeschua?), wahrscheinlich der [karait.] „Grammatiker“ in Jerusalem (1000-1050?), ist wohl schon frühzeitig mit Jeschua b. Jehuda confundirt worden, und aus ihm ein Jeschua [b.] Ahron entstanden. 1) </p><p>Schriften: 1) Comm. zum Pentat., welchen der bekehrte ibn al-Taras aus Palästina nach Castilien brachte und als Mittel zum Abfall vom Rabbanismus benutzte. Eine Widerlegung schrieb Abraham b. David (§ 104), dessen „Buch der Tradition“ auch nur den Vorrang der Rabbaniten nachweisen sollte. Citate bei Pozn. p. 214ff. (34-39). – 2) אלעבראניה אלמשתמל עלי אלאצול ואלפצול פי אללגה (das die Wurzeln und Zweige der hebr. Sprache umfassende Buch). Ms. Pet. Def., in Fostat geschrieben 1112.2) Ibn Esra sagt ausdrücklich, dass der Anonymus VIII Bücher verfasst habe. 3) Das ms. Enthält in Kap. I. allgemeine Regeln, II. 18 Regeln über den Infinitiv, III. die Buchstaben des Alphabets,4) V. Geschlecht, Zahl, Relation und andere zum Teil lexikalische und syntaktische Themata (Inhalt bei Bacher p. 243-5), VI. Conjugation, Paradigma  הלך , VII. Lexikographie; Frgmm. in mss. Br. Mus. Or. 2592 u. 2594 (Margol. p. 73; aus letzterem 2561 (n. 3055 p. 229); als anonym bei Derenbourg, Rev. Ét XXIII, 290, vgl. Bacher, ib. XXI, 152. Der Schluss anonym in Hirschfeld’s Chrestom. P. 31; Art.  עבר aus beiden mss. bei Pozn. p. 30 (7);5) VIII. wahrscheinlich über die chaldäische Sprache, nicht in ms. Pet., aber als Schluss bei Hirschfeld (Bacher p. 249). Der Vf. wurde in seiner Arbeit unterbrochen und wollte noch andere Kapitel hinzufügen. Er citirt „Ja’hja b. Daud“ (Chajjug) und abu Jakob [Josef b. Abr.]; dazu stimmt das Datum Radjab 417 H. (beg. 18. Aug. 1026, Bach. 253/4).
+<lb/>Ein Compendium (  מכתצר ) des Muschtamil existirt in Pet. Und ein Frgm. In Bodl. Hebr. d. 33 f. 20-36 (als unbekannt in Neub.‘s Mitteil. In החוקר I, 207). Die Anordnung ist verschieden von der des Originals, was nicht eine abweichende Recension beweist (Pozn. p. 199, od. 20), da der Epitomator die Anordnung geändert haben kann. Hier findet sich eine im Original noch nicht nachgewiesene Abhandlung über die hebr. Partikeln, eine der ältesten über diesen Gegenstand, von Jehuda ibn Bal’am nicht gekannt, jedenfalls nicht nachgeahmt. Die Möglichkeit, dass diese Abhandlung einem späteren Epitomator angehöre, hat Pozn. nicht in Betracht gezogen, indem er sie (  חרוף איצא [  אל ]  באב פי  אלכואדם אלדי יסמוה ) aus ms. Bodl. Vollständig mitteilt (p. 201ff., oder 21-34). Die geringere grammatikale Kenntnis eines Orientalen wäre kein Beweis für eine bedeutend frührere Zeit als die ibn Bal’am’s. – 3)  אלכאפי (d. Genügende); philologisch, ms. Pet., noch nicht näher bekannt. – 4) שרח אלאלפאט Erklärung schwieriger Wörter und Stellen in deer Bibel, ms. Pet., anscheinend verschieden von n. 1; in anon, Frgm. in ms. Br. Mus. 2499 (276, Cat. p. 205, Pozn. in Rev. XLI, 307).6)</p><p>1)  ישועה בן אהרן הנודע אהרוני bei Hadassi K. 258 (weggelassen bei Mord. K. 11 p. 189, od. f. 14) und Elia b. Abraham, CL. 389 n. 38 (s. Quellen); Mose Basch. (CL. p. 15) citirt הרון ישועה אהרן נ״ע המכונה אבו אלפרג (Pi. 109/10 bei Gottl. 152); hier kann Jeschua nicht „einfache“ Übersetz. von abu’l-Faradj sein (wie Pozn. p. 216 od. 37); in der Tradition des Daniel (Lb. XII, 742 Z. 4) nur Ahron abu‘l-Faradj. — 2) Über das Datum s. Bacher, Rev. XXX, 232, vgl. Mtschr. 1895 S. 149, Jew. Qu. X, 140, wo 141 „end“ XII. cent. offenbar für „beginning.“ — 3) Pi. 5 combinirt [schon CL. 85) Ja‘hja b. Zak. mit Jeh. b. Alan u. s. w. (s. unter Quellen); vgl. damit Bacher p. 256. — 4) Es erklären sich die Ausdrücke  היסודות u.  ההפוכה , Bach. 240. — 5) Er unterscheidet nicht¬biblisches Aramäisch, vergleicht sehr gern, und mit Kenntnis der Sprachfeinheiten, das Arabische, z. B.  לחם unter  גער , bei Pozn. 89, od. 16. —
+<lb/>6) Über das anonyme  מרפא לעצם s. HÜb. 460.</p><p>Quellen: (vgl. A. 1) Mord. 116 (11 b Z. 16 v. u.) Ahron abu:  אלפרגא , Sim. 21b Z. 4:  אלפרגי Wf. I, 9 = III p. 621/2 ohne Nummer, ist CL. 389 n. 38; Ros, Wb. 36; Jost VI, 156, VIII, 146; Schlesinger zu Jos. Albo 641; Mk., Annal. III, 98 identificirte den Lehrer des Altaras mit Furkan b. al-Asad (s. Jeschua § 51); in Not. sur Aboulw. 10 ist
+<lb/>Harun älter; über den anon. Gramm. p. 43; Pi. A. S. 106, Text S. 5, betont die Möglichkeit, dass Harun der anon. Grammatiker sei, oder Jehuda b. Alan; S. 217 identificirt er Furkan b. al-Asad; dagegen Firk. bei Gttl. 153; Fst. II, 109 nennt Jeschua b. Ahron vor Harun; Hark.'s Art. In Stade’s Ztschr. f. altt. W. I (1881) war auch mir entgangen, wie Bacher, Un grammairien anon. de Jerusalem (Rev. Ét. XXX, 232); Hark., Chad. VII, 22, 60; Pozn., Abou’l-Faradj Haroun etc. (Rev. Ét. XXX, 24—39 u 194-218, Abdr. 1896 p. 1-89).</p></quote>
+            <bibl xml:id="jalit-orgbiblL7WYDPC9">
+                        <title>Die arabische Literatur der Juden Moritz Steinschneider, Die Arabische Literatur Der Juden (Frankfurt am Main: Kauffmann, 1902). </title>
+                        <citedRange unit="section">48</citedRange><ptr target="https://jalit.org/bibl/L7WYDPC9"/>
+                    </bibl>
          </item>
       </list>
    </standOff>
