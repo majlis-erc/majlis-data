@@ -23,7 +23,8 @@
             <respStmt>
                <resp>Srophé app design and development by</resp>
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt><editor role="creator" ref=""/>
+            </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
          </titleStmt>
          <publicationStmt>
             <authority>
@@ -32,17 +33,20 @@
             <idno type="URI">https://jalit.org/person/25</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                  <p><p>
+<lb/>                            </p></p>
                </licence>
             </availability>
             <date>2021-10-23</date>
          </publicationStmt>
          <sourceDesc>
-            <p><p>Born digital.</p></p>
+            <p><p>
+<lb/>                    </p></p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-07-01T16:02:36.957Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+         <change who="#mmoliere" when="2024-07-01T16:41:51.913Z">Updated heritage data.</change><change who="#mmoliere" when="2024-07-01T16:02:36.957Z">Added heritage data.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
          <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
          <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
       </revisionDesc>
@@ -400,13 +404,16 @@
    <standOff>
       <list>
          <item>
-            <note/>
+            <note><p>While Moritz Steinschneider (1816–1907) is primarily known for having laid the modern foundations of Jewish bibliography, he also devoted himself to a systematic survey of Jewish literature. In Steinschneider’s work the investigation of Jewish writings in Arabic takes a central place. In 1845, he proposed to the Verein für Kultur und Wissenschaft der Juden his <em>magnum opus</em>, a “Jüdisch-Arabische Bibliothek” (Steinschneider, <em>Die arabische Literatur</em>, xlvii). It was well received, and he obtained modest funding for it. It seems that the first part, the <em>Bibliotheca Judaeo-Arabica</em>, which consisted of a chronological survey of Judeo-Arabic literature, had already been completed in 1845. It contained a short biographical sketch of each author known to Steinschneider, arranged chronologically, and an account of their works, including details of available manuscripts and translations, mainly taken from unpublished sources. However, it only reached publication some sixty years later with the appearance of his seminal series of articles “An Introduction to the Arabic Literature of the Jews,” which appeared in 1897–1901 in the <em>Jewish Quarterly Review</em>, and also his <em>Arabische Literatur der Juden</em> (1902), which Steinschneider rightly calls in its foreword his “Lebensarbeit” (p. viii). The former, in which he describes his arduous search for manuscripts throughout Europe, serves as a voluminous introduction to the latter. The <em>Arabische Literatur der Juden</em> is divided into seven sections: (1) Jewish authors in Ancient Arabia; (2) Jewish authors in the East until the end of the Geonic period (1040); (3) Jewish authors in the Muslim West; (4) Jewish in the East, 1041–1500; (5) later Jewish authors (1500–1894); (6) Jewish authors of uncertain date; and (7) anonymous Jewish authors according to subject.  </p><p>Literature:  
+<lb/>Paul Fenton, “Moritz Steinschneider’s Contribution to Judaeo-Arabic Studies,” in <em>Studies on Steinschneider: Moritz Steinschneider and the Emergence of the Science of Judaism in Nineteenth-Century Germany</em>, edited by Reimund Leicht and Gad Freudenthal (Leiden: Brill, 2012), pp. 363–383.  
+<lb/>Moritz Steinschneider, “An Introduction to the Arabic Literature of the Jews,” <em>Jewish Quarterly Review</em> 9–13 (1897–1901).  
+<lb/>Moritz Steinschneider, Die  arabische Literatur der Juden (Frankfurt am Main: Kauffmann, 1902).</p></note>
             <persName/>
-            <quote xml:lang="ge"><p>§ 47</p><p>David (abu Suleiman?) b. Abraham al-Fasi, Karait, der noch von Neub, (pref. Zu Jona’s Wrtb. P. VIII) als Zeitgenosse Saadia’s, von Schorr hinter Abraham ibn Esra gesetzt wurde, ist nach Bacher (Rev. Ét. J. XXX, 252) von Harun im Muschtamal citirt, wäre also vor diesen zu stellen. In Winter u. Wünsche (II, 89, 144) setzt ihn B. ins X. Jh., vielleicht lange nach Koreisch; s. dagegen Pozn., Mos. Chiqu. S. 49. Von seiner Person ist Nichts bekannt. 1)</p><p>Schriften: 1)  גאמע אלאלפאט (Wörtersammlung, wofür hebr.   ), Lexikon unter Annahme von ein- und zweibuchst. Wurzeln, ms. Bodl. Nb. 1451, def., Pet. Firk. 604; Copien ms., Pinsker n. 21, 24; Proben bei Pi. 117-66, Neub., Notice sur la Lex. 27-155 (Journ. As. 1861-62, p. 465ff., 47ff. u. hinter Jona’s Wrtb. P. 773-808). Seine Sprachvergleichung behandelt Bacher, Die arab. Sprachvergl.des Abuwalid (1884) S. 11. Vgl. Ali b. Suleiman §180. – 2) Comm. zum Hohenlied; s. Salfeld, Erkl. d. Hohl. 122. – 3) Comm. zu Pslamen, für beide Neub. Not. 121, 126.
-<lb/>1) Gegen die Identification mit Abraham ha-Babli (bei Gg., Parsch. Hebr. 36 Z. 3 ist  הנקדן eine Conjectur, CB. p. 680, Jew. Lit. 139, Nb.‘s ed. im Journ. As. 1868 und separate 1864) s. die Citate Halberstam’s in Jesch. h. V. 168; Gg. j. III, 240. – 2) Das angebl.  נקוד Existirte schwerlich, jedenfalls nicht arabisch, St., Vorles. üb. Hdschr. S. 14 A. 56.</p><p>Quellen: ältere s. Pol. 849, wo Fürst, Kar. II, 114 als unbrauchbar übergangen ist; Pozn. I. c.</p></quote>
+            <quote xml:lang="ge"><p>§ 47</p><p>David (abu Suleiman?) b. Abraham al-Fasi, Karait, der noch von Neub, (pref. Zu Jona’s Wrtb. P. VIII) als Zeitgenosse Saadia’s, von Schorr hinter Abraham ibn Esra gesetzt wurde, ist nach Bacher (Rev. Ét. J. XXX, 252) von Harun im Muschtamal citirt, wäre also vor diesen zu stellen. In Winter u. Wünsche (II, 89, 144) setzt ihn B. ins X. Jh., vielleicht lange nach Koreisch; s. dagegen Pozn., Mos. Chiqu. S. 49. Von seiner Person ist Nichts bekannt. 1)</p><p>Schriften: 1)  גאמע אלאלפאט (Wörtersammlung, wofür hebr.   ), Lexikon unter Annahme von ein- und zweibuchst. Wurzeln, ms. Bodl. Nb. 1451, def., Pet. Firk. 604; Copien ms., Pinsker n. 21, 24; Proben bei Pi. 117-66, Neub., Notice sur la Lex. 27-155 (Journ. As. 1861-62, p. 465ff., 47ff. u. hinter Jona’s Wrtb. P. 773-808). Seine Sprachvergleichung behandelt Bacher, Die arab. Sprachvergl.des Abuwalid (1884) S. 11. Vgl. Ali b. Suleiman §180. – 2) Comm. zum Hohenlied; s. Salfeld, Erkl. d. Hohl. 122. – 3) Comm. zu Pslamen, für beide Neub. Not. 121, 126.</p><p>1) Gegen die Identification mit Abraham ha-Babli (bei Gg., Parsch. Hebr. 36 Z. 3 ist  הנקדן eine Conjectur, CB. p. 680, Jew. Lit. 139, Nb.‘s ed. im Journ. As. 1868 und separate 1864) s. die Citate Halberstam’s in Jesch. h. V. 168; Gg. j. III, 240. – 2) Das angebl.  נקוד Existirte schwerlich, jedenfalls nicht arabisch, St., Vorles. üb. Hdschr. S. 14 A. 56.</p><p>Quellen: ältere s. Pol. 849, wo Fürst, Kar. II, 114 als unbrauchbar übergangen ist; Pozn. I. c.</p><p/></quote>
             <bibl xml:id="jalit-orgbiblS7Y4QHHH">
                         <title>"Fasi, David b. Abraham al-" Moritz Steinschneider, Fasi, David b. Abraham al-, in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902). </title>
-                        <citedRange unit="page">86</citedRange><ptr target="https://jalit.org/bibl/S7Y4QHHH"/>
+                        <citedRange unit="page">86</citedRange>
+                    <ptr target="https://jalit.org/bibl/S7Y4QHHH"/>
                     </bibl>
          </item>
       </list>
