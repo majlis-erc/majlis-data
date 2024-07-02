@@ -49,7 +49,8 @@
 <lb/>                    </p></p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc status="unpublished">
+        <revisionDesc status="unpublished"><change who="#mmoliere" when="2024-07-02">Updated heritage data introductions 
+    and quotations, and provenance descriptions to extended tag set.</change>
             <change who="#mmoliere" when="2024-06-21T13:43:26.864Z">Test</change><change who="#admin" when="2024-06-21T12:17:25.415Z">Test Git commit - WS</change>
             <change who="#admin" when="2024-06-20T19:36:24.623Z">Test submit of 1549. WS</change>
             <change who="#mmoliere" when="2024-06-03T17:33:56.065Z">Markup test</change>

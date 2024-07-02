@@ -74,7 +74,8 @@
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
+      <revisionDesc><change who="#mmoliere" when="2024-07-02">Updated heritage data introductions 
+    and quotations, and provenance descriptions to extended tag set.</change>
          <change who="#mmoliere" when="2024-05-14">Converted Zotero data into TEI-File.</change>
          <change who="#lgzella" when="2022-10-01">Translated Harkavy heritage data.</change>
          <change who="#plakteikina" when="2022-10-01">Transcribed Harkavy heritage data.</change>
@@ -224,28 +225,21 @@
                   <accMat>
                      <list>
                         <item>
-                           <note xml:lang="en">Avraham E. Harkavy (1835–1919) was one of the most important
-                Russian Orientalist of the 19th century. He received his doctoral degree in
-                1872. During the same year, he was attached to the Ministry of National
-                Education. On June 1, 1872, he was commissioned to the Imperial Public
-                Library in St. Petersburg to sort and study the manuscripts of the First
-                Firkovitch Collection and the Samaritan Collections. The following years,
-                Harkavy collaborated with Hermann Strack of Leipzig University in the New
-                (Mangup) Synagogue in Chufut-Qal’eh on examining and sorting the manuscripts
-                of the Second Firkovitch Collection which was subsequently acquired by the
-                Imperial Public Library in 1876. On January 9, 1876, he was appointed a
-                librarian there by order of Emperor Alexander II, and made head of the
-                Department of Hebrew Books. He was the first curator of the Firkovitch
-                collections. His unpublished cataloging of these collections consists of
-                slips of paper ("Harkavy cards"), placed together with each manuscript, that
-                record his identification of and/or a brief description of that manuscript.
-                These slips were the foundation for his handwritten four-volume inventory of
-                the Yevr.-Arab. section of the Second Firkovitch Collection. (Daria
-                Vasyutinsky Shapira, Early Stages of Research of the Firkowicz Collections
-                Manuscripts: The Emergence of Russian Jewish Studies. PhD thesis,
-                Beer-Sheva: Ben-Gurion University of the Negev, 2018, pp. 121–182).</note>
+                           <note xml:lang="en">
+    <p>Avraham E. Harkavy (1835-1919) was appointed to the department of
+        Jewish literature and oriental manuscripts at the Imperial Public
+        Library of St. Petersburg in 1868. In 1876, he was made head of the
+        Department of Hebrew Books (Hebrew Department), and in 1877
+        appointed as ordinary librarian, a position which he held for the
+        rest of his life. He was the first curator of the Firkovich
+        collections. His unpublished cataloging of these collections
+        consists of slips of paper (“Harkavy-Cards”) placed
+        together with each manuscript that record his identification and/or
+        brief description of the respective manuscript. These slips were the
+        foundation for his handwritten four-volume inventory of the
+        Yevr.-Arab. section of the Second Firkovich Collection.</p></note>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="ru">p. 4 / N. 1672 (95) / 1 л. изъ полемики противъ раббанитовъ / (Сагля?) / немн. поврежд. / I /</quote>
+                           <quote xml:lang="ru">p. 4<lb/>  N. 1672 (95)<lb/>  1 л. изъ полемики противъ раббанитовъ<lb/>  (Сагля?)<lb/>  немн. поврежд.<lb/>  I<lb/> </quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
                               <citedRange unit="p"/>
@@ -253,28 +247,21 @@
                            </bibl>
                         </item>
                         <item>
-                           <note xml:lang="en">Avraham E. Harkavy (1835–1919) was one of the most important
-                Russian Orientalist of the 19th century. He received his doctoral degree in
-                1872. During the same year, he was attached to the Ministry of National
-                Education. On June 1, 1872, he was commissioned to the Imperial Public
-                Library in St. Petersburg to sort and study the manuscripts of the First
-                Firkovitch Collection and the Samaritan Collections. The following years,
-                Harkavy collaborated with Hermann Strack of Leipzig University in the New
-                (Mangup) Synagogue in Chufut-Qal’eh on examining and sorting the manuscripts
-                of the Second Firkovitch Collection which was subsequently acquired by the
-                Imperial Public Library in 1876. On January 9, 1876, he was appointed a
-                librarian there by order of Emperor Alexander II, and made head of the
-                Department of Hebrew Books. He was the first curator of the Firkovitch
-                collections. His unpublished cataloging of these collections consists of
-                slips of paper ("Harkavy cards"), placed together with each manuscript, that
-                record his identification of and/or a brief description of that manuscript.
-                These slips were the foundation for his handwritten four-volume inventory of
-                the Yevr.-Arab. section of the Second Firkovitch Collection. (Daria
-                Vasyutinsky Shapira, Early Stages of Research of the Firkowicz Collections
-                Manuscripts: The Emergence of Russian Jewish Studies. PhD thesis,
-                Beer-Sheva: Ben-Gurion University of the Negev, 2018, pp. 121–182).</note>
+                           <note xml:lang="en">
+    <p>Avraham E. Harkavy (1835-1919) was appointed to the department of
+        Jewish literature and oriental manuscripts at the Imperial Public
+        Library of St. Petersburg in 1868. In 1876, he was made head of the
+        Department of Hebrew Books (Hebrew Department), and in 1877
+        appointed as ordinary librarian, a position which he held for the
+        rest of his life. He was the first curator of the Firkovich
+        collections. His unpublished cataloging of these collections
+        consists of slips of paper (“Harkavy-Cards”) placed
+        together with each manuscript that record his identification and/or
+        brief description of the respective manuscript. These slips were the
+        foundation for his handwritten four-volume inventory of the
+        Yevr.-Arab. section of the Second Firkovich Collection.</p></note>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="ru">p. 4 / N. 3200 (230) / 164 л. изъ коммент. на Кн. Бытiя / Караима / поврежд. / I /</quote>
+                           <quote xml:lang="ru">p. 4<lb/>  N. 3200 (230)<lb/>  164 л. изъ коммент. на Кн. Бытiя<lb/>  Караима<lb/>  поврежд.<lb/>  I<lb/> </quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
                               <citedRange unit="p"/>
@@ -284,7 +271,7 @@
                         <item>
                            <note xml:lang="en"/>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="en">p. 4 / N. 1672 (95) / 1 folio from a polemic against the Rabbanites / (By Sahl?) / Slightly damaged / I / corresponds to p. 2 /</quote>
+                           <quote xml:lang="en">p. 4<lb/>  N. 1672 (95)<lb/>  1 folio from a polemic against the Rabbanites<lb/>  (By Sahl?)<lb/>  Slightly damaged<lb/>  I<lb/>  corresponds to p. 2<lb/> </quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
                               <citedRange unit="p"/>
@@ -294,7 +281,7 @@
                         <item>
                            <note xml:lang="en"/>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="en">p. 4 / N. 3200 (230) / 164 folios from a commentary on the Book of Genesis / Qaraite / Damaged / I / corresponds to p. 2 /</quote>
+                           <quote xml:lang="en">p. 4<lb/>  N. 3200 (230)<lb/>  164 folios from a commentary on the Book of Genesis<lb/>  Qaraite<lb/>  Damaged<lb/>  I<lb/>  corresponds to p. 2<lb/> </quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
                               <citedRange unit="p"/>
@@ -322,53 +309,77 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang="en">The manuscripts of the First Firkovitch Collection (now
-                        known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovitch
-                        (1787–1874) on the Crimean Peninsula, in the Caucasus, and during his first
-                        trip to the Near East in 1830. This collection contains 830 manuscripts, 277
-                        of them (numbers 554–830) being Qaraite. Even though this collection is
-                        basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly
-                        containing Qaraite works (many of them biblical commentaries by Yefet ben
-                        ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of
-                        Karaite Manuscripts,” in Karaite Judaism: A Guide to its History and
-                        Literary Sources, edited by Meira Polliack (Leiden: Brill, 2003), pp.
-                        893–924 [p. 907].) Most of these 75 Arabic manuscripts were acquired in
-                        1830, probably by the agency of David ben Avraham ha-Levi (in Jerusalem),
-                        brother of Moshe ben Avraham ha-Levi (1810–1905, Qaraite chief rabbi in
-                        Cairo). (See Zeev Elkin and Menahem Ben-Sasson, “Abraham Firkovitch and the
-                        Cairo Genizas in the Light of his Personal Archive” [Hebrew], Peʿamim 90
-                        (2002): pp. 51–95 [p. 65, n. 48].) The First Firkovitch Collection was sold
-                        to the Imperial Public Library of the Russian Empire in 1862 for 100,000
-                        silver roubles. The Second Firkovitch Collection was acquired by Abraham ben
-                        Samuel Firkovitch (1787–1874) during his second trip to the Near East
-                        between the years 1863 and 1865 and was sold to the Imperial Public Library
-                        of the Russian Empire in 1876. It consists of more than 15,000 items,
-                        including Hebrew, Arabic, Judeo-Arabic, and Samaritan manuscripts. The
-                        majority of the collection appears to have originated from the Qaraite
-                        synagogue in Cairo. The Hebrew manuscripts of the Second Firkovitch
-                        Collection are divided into several separate collections: RNL Yevr. II A:
-                        Contains Hebrew works of law, exegesis, grammar and philology, theology,
-                        documents, etc. This collection contains 2,947 manuscripts. These include
-                        896 bibliographical items (including different texts found in a single
-                        miscellany) which are Qaraite. The manuscripts are almost entirely of a
-                        later date, including many of a Eastern European provenance containing
-                        liturgical texts, piyyutim, and documents. RNL Yevr. II B: Contains biblical
-                        manuscripts written on vellum (1,582 items). RNL Yevr. II C: Contains
-                        biblical manuscripts written on paper (728 items). Most of them are Hebrew
-                        biblical texts, but the collection also contains some other works, such as
-                        RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios,
-                        copied at the end of the tenth century or the very beginning of the
-                        eleventh, and RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel.
-                        RNL Yevr. II K: Contains 76 ketubbot, mostly, if not entirely, Qaraite.
-                        (Sklare, “Karaite Manuscripts,” p. 907.) The Judeo-Arabic manuscripts of the
-                        Second Firkovitch Collection are divided into two series: RNL Yevr.-Arab. I
-                        (previously known as II Firk. Yevr.-Arab., First Series): Contains 4,933
-                        items (although only 4,924 are on microfilm at the Institute for Microfilmed
-                        Hebrew Manuscripts). RNL Yevr.Arab. II (previously known as II Firk.
-                        Yevr.-Arab., New Series): Contains 3,430 items. RNL Arab.-Yevr.: Contains
-                        382 manuscripts of Jewish texts in Arabic characters. RNL Firk. Arab.:
-                        Contains 656 items of mostly Muslim texts and documents in Arabic
-                        characters. </note>
+                     <note xml:lang="en">
+    <p><em>Yevr. I</em></p>
+    <p>The manuscripts of the <em>First
+        Firkovich Collection</em> (now known as RNL Yevr. I) were collected
+        by Abraham ben Samuel Firkovich (1787-1874) on the Crimean
+        Peninsula, in the Caucasus, and during his first trip to the Near
+        East in 1830. This collection contains 830 manuscripts, 277 of them
+        (numbers 554-830) being Qaraite. Even though this collection is
+        basically a Hebrew one, it does contain 75 Arabic manuscripts,
+        mostly containing Qaraite works (many of them biblical commentaries
+        by Yefet ben ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to
+        Collections of Karaite Manuscripts”, in
+        <em>Karaite Judaism: A Guide to its
+            History and Literary Sources</em>, ed. M. Polliack, Leiden: Brill,
+        2003, 893–924 [907]). Most of these 75 Arabic manuscripts were
+        acquired in 1830, probably by the agency of David ben Avraham
+        ha-Levi (Jerusalem), brother of Moshe ben Avraham ha-Levi
+        (1810-1905, Qaraite chief rabbi in Cairo) (see Zeev Elkin / Menahem
+        Ben-Sasson, “Abraham Firkovich and the Cairo Genizas in the Light of
+        his Personal Archive” [Hebrew],
+        <em>Peʿamim</em> 90 (2002), 51–95, [65, n.
+        48]). The First Firkovich Collection was sold to the Imperial Public
+        Library of the Russian Empire in 1862 for 100,000 silver
+        roubles.</p>
+    <p>The Second Firkovich collection was acquired by Abraham ben
+        Samuel Firkovich (1787-1874) during his second trip to the Near East
+        between the years 1863 and 1865. It consists of more than 15,000
+        items, including Hebrew, Arabic, Judaeo-Arabic and Samaritan
+        manuscripts. The majority of the collection appears to have
+        originated from the Qaraite synagogue in Cairo. The Hebrew
+        manuscripts of the Second Firkovich Collection were divided into
+        several separate collections.</p>
+    <p><em>RNL Yevr. II A</em></p>
+    <p>Contains Hebrew works of law, exegesis, grammar and philology,
+        theology, documents, etc. This collection contains 2,947
+        manuscripts. These include 896 bibliographical items (including
+        different texts found in a single miscellany) which are Qaraite. The
+        manuscripts are almost entirely later, Eastern European ones
+        containing liturgical texts, piyyutim and documents.</p>
+    <p><em>RNL Yevr. II B</em></p>
+    <p>Contains biblical manuscripts written on vellum (1,582
+        items).</p>
+    <p><em>RNL Yevr. II C</em></p>
+    <p>Contains biblical manuscripts written on paper (728 items). Most
+        of them are Hebrew biblical texts, but it also contains some other
+        works, such as RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr
+        comprising 550 folios, copied at the end of the tenth century or the
+        very beginning of the eleventh, or RNL Yevr. II C:725, Yefet ben
+        ʿEli's commentary to Ezekiel.</p>
+    <p><em>RNL Yevr. II K</em></p>
+    <p>Contains 76 ketubbot, mostly Qaraite if not all. (Sklare 2003,
+        907).</p>
+    <p>The Judeo-Arabic manuscripts of the Second Firkovich Collection
+        are divided into two series:</p>
+    <p><em>RNL Yevr.-Arab. I</em> (previously
+        known as II Firk. Yevr.-Arab., First Series)</p>
+    <p>Contains 4,933 items (although only 4,924 are in microfilm at the
+        IMHM).</p>
+    <p><em>RNL Yevr.Arab. II</em> (previously
+        known as II Firk. Yevr.-Arab., New Series)</p>
+    <p>Contains 3,430 items.</p>
+    <p><em>RNL Arab.-Yevr.</em></p>
+    <p>Contains 382 manuscripts of Jewish texts in Arabic
+        characters.</p>
+    <p><em>RNL Firk. Arab.</em></p>
+    <p>Contains 656 items of mostly Muslim texts and documents in Arabic
+        characters.</p>
+    <p><em>The Second Firkovich Collection was
+        sold to the Imperial Public Library of the Russian Empire in
+        1876</em>.</p>
+</note>
                   </acquisition>
                </history>
                <additional>

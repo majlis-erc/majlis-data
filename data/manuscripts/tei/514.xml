@@ -55,7 +55,8 @@
 <lb/>                    </p></p>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
+      <revisionDesc><change who="#mmoliere" when="2024-07-02">Updated heritage data introductions 
+    and quotations, and provenance descriptions to extended tag set.</change>
          <change who="#mmoliere" when="2024-06-21T13:44:07.621Z">Linked work records.</change><change who="#rboehm" when="2024-06-10T22:07:14.711Z">Yevr.-Arab. I 19 fix</change>
             <change who="#mmoliere" when="2024-05-24T12:34:50.292Z">added mentioned person</change>
             <change who="#rboehm" when="2024-05-21T16:25:52.562Z">join</change>
@@ -234,7 +235,7 @@
 <lb/>                                    </p></note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="ru"><p>
-<lb/>                                        </p><p>                              p. 4 / </p><p>                              N. 19 (372) / </p><p>                              Изъ коммент. Jeфета на Второзаконіе (на 1ой стр. приписка) / </p><p>                              N. 20 (372) / </p><p>                              Изъ коммент. Второзаконіе Jeфета (въ концѣ отд. שופטים трехстишіе, имѣющ. въ акростихѣ Хасанъ - араб. эквивалентъ евр. Jeфета / </p><p>                              I / </p><p>                              p. 5 / </p><p>                              N. 19 (372) / </p><p>                              Изъ коммент. Jeфета на Второзаконіе / </p><p>                              II / </p><p>                              133 134 л. / </p><p>                              22.10.93 [подпись] / </p><p>                              corresponds to p. 2 / </p><p>                              LR /</p><p>
+<lb/>                                        </p><p>                              p. 4<lb/>  </p><p>                              N. 19 (372)<lb/>  </p><p>                              Изъ коммент. Jeфета на Второзаконіе (на 1ой стр. приписка)<lb/>  </p><p>                              N. 20 (372)<lb/>  </p><p>                              Изъ коммент. Второзаконіе Jeфета (въ концѣ отд. שופטים трехстишіе, имѣющ. въ акростихѣ Хасанъ - араб. эквивалентъ евр. Jeфета<lb/>  </p><p>                              I<lb/>  </p><p>                              p. 5<lb/>  </p><p>                              N. 19 (372)<lb/>  </p><p>                              Изъ коммент. Jeфета на Второзаконіе<lb/>  </p><p>                              II<lb/>  </p><p>                              133 134 л.<lb/>  </p><p>                              22.10.93 [подпись]<lb/>  </p><p>                              corresponds to p. 2<lb/>  </p><p>                              LR<lb/> </p><p>
 <lb/>                                    </p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
@@ -246,7 +247,7 @@
                            <note xml:lang="en"/>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="en"><p>
-<lb/>                                        p. 4 / </p><p>                              N. 19 (372) / </p><p>                              From the Commentary on Deuteronomy by Yefet (on the first page is an additional note) / </p><p>                              N. 20 (372) / </p><p>                              From the Commentary on the Book of Deuteronomy by Yefet (at the end of the section שופטים is a tercet with an acrostic of Ḥasan, the Arabic equivalent of Hebrew Yefet) / </p><p>                              I / </p><p>                              p. 5 / </p><p>                              N. 19 (372) / </p><p>                              From the Commentary on the Book of Deuteronomy by Yefet / </p><p>                              II / </p><p>                              133 134 folios / </p><p>                              22.10.93 [signature] / </p><p>                           </p><p>
+<lb/>                                        p. 4<lb/>  </p><p>                              N. 19 (372)<lb/>  </p><p>                              From the Commentary on Deuteronomy by Yefet (on the first page is an additional note)<lb/>  </p><p>                              N. 20 (372)<lb/>  </p><p>                              From the Commentary on the Book of Deuteronomy by Yefet (at the end of the section שופטים is a tercet with an acrostic of Ḥasan, the Arabic equivalent of Hebrew Yefet)<lb/>  </p><p>                              I<lb/>  </p><p>                              p. 5<lb/>  </p><p>                              N. 19 (372)<lb/>  </p><p>                              From the Commentary on the Book of Deuteronomy by Yefet<lb/>  </p><p>                              II<lb/>  </p><p>                              133 134 folios<lb/>  </p><p>                              22.10.93 [signature]<lb/>  </p><p>                           </p><p>
 <lb/>                                    </p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
@@ -260,7 +261,7 @@
 <lb/>                                    </p></note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="he"><p>
-<lb/>                                        </p><p>                              מפי' דברים (ליפת; רשימת ההקדש / </p><p>                           </p><p>
+<lb/>                                        </p><p>                              מפי' דברים (ליפת; רשימת ההקדש<lb/>  </p><p>                           </p><p>
 <lb/>                                    </p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Inventory.</title>
