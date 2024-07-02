@@ -2,127 +2,116 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 1456</title>
-            <title level="m" xml:lang="en">Judeo-Arabic Bible Exegesis and
-                                        Translations in the Firkovitch Manuscript
-                                        Collections</title>
-            <sponsor ref="https://en.huji.ac.il/en">
-               <orgName>The Hebrew University of Jerusalem</orgName>
-                                            (<orgName xml:lang="he">האוניברסיטה העברית
-                                            בירושלים</orgName>)</sponsor>
-            <sponsor ref="https://en.arabic-lang.huji.ac.il/">
-               <orgName>Department of Arabic Language and
-                                            Literature</orgName> (<orgName xml:lang="he">החוג לשפה
-                                            וספרות ערבית</orgName>)</sponsor>
-            <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName>
-                                            (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                                            München</orgName>)</sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern
-                                            Studies</orgName> (<orgName xml:lang="de">Institut für
-                                            den Nahen und Mittleren Osten</orgName>)</sponsor>
-            <funder ref="https://www.bmbf.de/">
-               <orgName>Federal German Ministry for Education and
-                                            Research</orgName> (<orgName xml:lang="de">
-                                            Bundesministerium für Bildung und
-                                        Forschung</orgName>)</funder>
+            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I
+               1456</title>
+            <title level="m" xml:lang="en">Judeo-Arabic Bible Exegesis and Translations in the
+               Firkovitch Manuscript Collections</title>
+            <sponsor ref="https://en.huji.ac.il/en"> <orgName>The Hebrew University of
+               Jerusalem</orgName> (<orgName xml:lang="he">האוניברסיטה העברית
+               בירושלים</orgName>)</sponsor>
+            <sponsor ref="https://en.arabic-lang.huji.ac.il/"> <orgName>Department of Arabic
+               Language and Literature</orgName> (<orgName xml:lang="he">החוג לשפה וספרות
+               ערבית</orgName>)</sponsor>
+            <sponsor ref="https://www.uni-muenchen.de"> <orgName>Ludwig Maximilian University of
+               Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+               München</orgName>)</sponsor>
+            <sponsor ref="http://www.naher-osten.uni-muenchen.de"> <orgName>Institute of Near and
+               Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und
+               Mittleren Osten</orgName>)</sponsor>
+            <funder ref="https://www.bmbf.de/"> <orgName>Federal German Ministry for Education and
+               Research</orgName> (<orgName xml:lang="de"> Bundesministerium für Bildung und
+               Forschung</orgName>)</funder>
             <funder ref="https://www.minerva.mpg.de/arches/programme-information">
-               <orgName>Award for Research Cooperation and Highest
-                                            Excellence in Science (ARCHES) – Minerva
-                                            Stiftung</orgName>
+               <orgName>Award for Research Cooperation and Highest Excellence in Science (ARCHES) –
+                  Minerva Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
-            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+            <editor
+               ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220"
+               role="general" xml:id="mgoldstein">Miriam Goldstein</editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349"
+               role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+            <editor
+               ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926"
+               role="contributor" xml:id="eporat">Efraim ben Porat</editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235"
+               role="contributor" xml:id="dsklare">David Sklare</editor>
+            <editor role="contributor" xml:id="ykahan">Yinon Kahan</editor>
+            <editor ref="" role="creator"/>
+            <editor ref="" role="creator"/>
+            <editor ref="" role="creator"/>
          </titleStmt>
          <editionStmt>
-            <edition>Cataloging data from the ARCHES project re-used and
-                                        prepared for electronic publication in the project: MAJLIS:
-                                        The Transformation of Jewish Literature in Arabic in the
-                                        Islamicate World</edition>
-            <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName>
-                                            (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                                            München</orgName>) </sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern
-                                            Studies</orgName> (<orgName xml:lang="de">Institut für
-                                            den Nahen und Mittleren Osten</orgName>) </sponsor>
-            <funder ref="https://erc.europa.eu/">
-               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+            <edition>Cataloging data from the ARCHES project re-used and prepared for electronic
+               publication in the project: MAJLIS: The Transformation of Jewish Literature in Arabic
+               in the Islamicate World</edition>
+            <sponsor ref="https://www.uni-muenchen.de"> <orgName>Ludwig Maximilian University of
+               Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+               München</orgName>) </sponsor>
+            <sponsor ref="http://www.naher-osten.uni-muenchen.de"> <orgName>Institute of Near and
+               Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und
+               Mittleren Osten</orgName>) </sponsor>
+            <funder ref="https://erc.europa.eu/"> <orgName>ERC: European Research Council</orgName>
+               (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
-               Ronny Vollandt
-               
-            </editor>
-            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
-               Gregor Schwarb
-               
-            </editor>
-            
-            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
-               Maximilian de Molière
-               
-            </editor>
-            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
-               Nadine Urbiczek
-               
-            </editor>
-            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
-               Peter Tarras
-               
-            </editor>
-            <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
-               Annabelle Fuchs
-               
-            </editor>
-            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
-               Lea Gzella
-               
-            </editor>
-            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
-               Polina Lakteikina
-               
-            </editor>
-            <editor xml:id="rboehm" role="contributor">
-               Maurizio Boehm
-               
-            </editor>
-            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
-               Lea Poralla
-               
-            </editor>
-            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
-               Lukas Froschmeier
-               
-            </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
+               role="general"> Ronny Vollandt </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
+               role="contributor" xml:id="gschwarb"> Gregor Schwarb </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
+               role="contributor creator" xml:id="mmoliere"> Maximilian de Molière </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html"
+               role="contributor" xml:id="nurbiczek"> Nadine Urbiczek </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html"
+               role="contributor" xml:id="ptarras"> Peter Tarras </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html"
+               role="contributor" xml:id="afuchs"> Annabelle Fuchs </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html"
+               role="contributor" xml:id="lgzella"> Lea Gzella </editor>
+            <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor"
+               xml:id="plakteikina"> Polina Lakteikina </editor>
+            <editor role="contributor" xml:id="rboehm"> Maurizio Boehm </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html"
+               role="contributor" xml:id="lporalla"> Lea Poralla </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html"
+               role="contributor" xml:id="lfroschmeier"> Lukas Froschmeier </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person"
+                  >Winona Salesky</name>
+               <name
+                  ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html"
+                  type="person">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person"
+                  >Winona Salesky</name>
+               <name
+                  ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html"
+                  type="person">Maximilian de Molière</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
             <authority>
-               <ref target="https://jalit.org">jalit.org – Jewish-Arabic
-                                        Literature</ref>
+               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
             </authority>
             <idno type="URI">https://jalit.org/manuscript/81</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0
-                                            International (CC BY 4.0) License.</p>
+                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0)
+                     License.</p>
                </licence>
             </availability>
             <date>2023-12-13</date>
@@ -132,11 +121,14 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-05-11T13:45:38.734Z">join</change><change who="#rboehm" when="2024-04-14T01:22:57.156Z">Yevr.-Arab. I 1456</change>
-            <change who="#rboehm" when="2024-04-13T16:44:37.438Z">Yevr.-Arab. I 1456 (1)</change>
-            <change who="#eporat" when="2020-05-24">Cataloged the manuscript into a Word-File.</change>
-         <change who="#mmoliere" when="2023-12-13">Converted
-                                Zotero and Word data into TEI-File.</change>
+         <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and
+            quotations, and provenance descriptions to extended tag set.</change>
+         <change when="2024-05-11T13:45:38.734Z" who="#rboehm">join</change>
+         <change when="2024-04-14T01:22:57.156Z" who="#rboehm">Yevr.-Arab. I 1456</change>
+         <change when="2024-04-13T16:44:37.438Z" who="#rboehm">Yevr.-Arab. I 1456 (1)</change>
+         <change when="2020-05-24" who="#eporat">Cataloged the manuscript into a Word-File.</change>
+         <change when="2023-12-13" who="#mmoliere">Converted Zotero and Word data into
+            TEI-File.</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -146,8 +138,7 @@
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
-                  <repository>National Library of
-                    Russia</repository>
+                  <repository>National Library of Russia</repository>
                   <collection>Yevr.-Arab. I</collection>
                   <idno>1456</idno>
                   <altIdentifier type="Ktiv">
@@ -158,12 +149,48 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he">תוכן: פירוש ב:12-ג:1 (דפים 1+ 6-5); פירוש ג:8-ד:3 (דפים 8-7+ 2); פירוש טו:1 ותרגום טו:4-2 (דף 9); פירוש טו:5-טז:4 (דפים 173-172); פירוש טז:11-יז:1 (דף 10); פירוש יז:12-10 (דף 169); פירוש יח:3 (דף 168); פירוש יח:39-35 (דף 4); פירוש יט:11-כב:1 (דפים 30+ 28+ 18-11); פירוש כב:10-2 (דפים 117-115); פירוש כב:31-24 (דפים 120-118); פירוש כה:16-14 (דף 164); פירוש כו:2-1 (דף 165); פירוש כו:12-כח:5 (דפים 19+ 39-32+ 84); פירוש ל:8-6 (דף 3); פירוש לג:5-3 (דף 29); פירוש לג:9-לד:12 (דפים 27-20); פירוש לד:19-16 (דף 31); פירוש לה:16-לז:12 (דפים 155+ 51-42); פירוש לט:11-מ:18 (דפים 213-206); פירוש מא:14-8 (דפים 215-214); פירוש מה:6-4 (דף 52); פירוש מו:5-מח:15 (דפים 63-53+ 183); פירוש מט:3- 7 (דפים 167+ 170); פירוש מט:11- 14 (דפים 171+ 166); פירוש מט:15- 18 (דף 184); פירוש מט:21-נ:15 (דפים 71-64); פירוש נב:6-3 (דף 174); פירוש נב:11 ותרגום נג:6-1 (דף 175); פירוש סג:10-4 (דף 156); פירוש סד:11-סה:2 (דף 139); פירוש סה:14-סו:2 (דף 140); פירוש עג:1- 21 (דפים 87- 95); פירוש עה:1-עז:2 ( דפים 107+ 138-131+ 108); פירוש עח: 16-13 (דף 160); פירוש עח:24-22 (דף 161); פירוש עח:59-41 (דפים 181-176); פירוש עח:68-עט:1 (דף 158); פירוש עט:13-פ:2 (דף 159); פירוש פ:6-3 (דף 162); פירוש פא:8-7 ותרגום פא:10-9 (דף 163); פירוש פב:5-3 (דף 186); פירוש פג:6-3 (דף 185); פירוש פג:12-פה:4 (דפים 76-74+ 190-187+ 79-77); פירוש פה:9-7 (דף 154); פירוש פה:12-פו:8 (דפים 195-192); פירוש פו:12-10 (דף 153); פירוש פח:6-5 (דף 40); פירוש פח:9-פט:11 (דפים 130-123); פירוש פט:17-14 (דף 41); פירוש פט:26-23 ותרגום פט:28-27 (דף 121); פירוש פט:50-48 (דף 122); פירוש צה:5-צז:5 (דפים 203-196); פירוש צז:10-צח:1 (דף 204); פירוש צח:5-צט:4 (דפים 73-72); פירוש צט:9-8 (דף 205); פירוש ק:3-קב: 12 (דפים 149+ 148-141+ 150); פירוש קב:18-15 (דף 85); פירוש קב:25-23 (דף 105); פירוש קג:6-3 (דף 106); פירוש קג:13-10 (דף 86); פירוש קג:22-קד:15 (דפים 104-97); פירוש קד:19-קה:3 (דפים 151+ 114-109+ 152); פירוש קז:22, תרגום קז:32-23 ופירוש קז:23 (דף 182); פירוש קטו:11-6 (דף 216); פירוש קיח:17-14 (דף 217); פירוש קיח:20-קיט:1 (דפים 221-218); פירוש קיט:1 (דף 222); פירוש קיט:61-38 (דפים 229-223); פירוש קיט:155-132 (דפים 235-230); פירוש קלא:1-קלב:18 (דפים 241-236); פירוש קלג:3-קלו:15 (דפים 250-242+ 191);  פירוש קמג:3-קמד:2 (דפים 83-80); פירוש קמד:13-קמה:17 (דפים 258-251); פירוש קמה:21-קמז:9 (דפים 266-259); פירוש קמז:19-קמט:3 (דפים 273-267).
-מוזכר: ישמעאל (6א; 44ב; 94א; 133ב; 139א; 145א); אדום (6א; 133ב; 139א; 145א); אלמדוון (עורך המקרא; 6ב; 10ב; 78ב; 141א); אלתורה ואלמקרא (=התורה וספרי נביאים; 27ב); אלגלותיין (=בני הגולה; 27א, 50א; 78ב; 162ב; 211א-ב; 257ב); אלתרגום (28ב); לגה אלתרגום (ארמית; 28ב; 92ב); אלעבראני (=עברית; 28ב); סדר בראשית (מעשה בראשית; 29א); אלתהלות (=ספר תהלים; 43ב. ב140ב: ספר תהלות); אלערב (הערבים; שם); אלמקרא (=המקרא; 2א, 15א, 44ב; 169א; 172א; 207א); יום אלדינונה (=יום הדין; 68ב); אלכתאב (=המקרא; 129ב; 268ב); צמח בן דוד (המשיח; 218ב); מכות (מֶכָּה) בית תפלתם (95א); בחר יאפא (=ים יפו; 182ב).
-זהוי: התוכן מקביל לבא בכתבי יד פריס Hebreu 286-289.</summary>
+                  <summary xml:lang="he">תוכן: פירוש ב:12-ג:1 (דפים 1+ 6-5); פירוש ג:8-ד:3 (דפים
+                     8-7+ 2); פירוש טו:1 ותרגום טו:4-2 (דף 9); פירוש טו:5-טז:4 (דפים 173-172); פירוש
+                     טז:11-יז:1 (דף 10); פירוש יז:12-10 (דף 169); פירוש יח:3 (דף 168); פירוש
+                     יח:39-35 (דף 4); פירוש יט:11-כב:1 (דפים 30+ 28+ 18-11); פירוש כב:10-2 (דפים
+                     117-115); פירוש כב:31-24 (דפים 120-118); פירוש כה:16-14 (דף 164); פירוש כו:2-1
+                     (דף 165); פירוש כו:12-כח:5 (דפים 19+ 39-32+ 84); פירוש ל:8-6 (דף 3); פירוש
+                     לג:5-3 (דף 29); פירוש לג:9-לד:12 (דפים 27-20); פירוש לד:19-16 (דף 31); פירוש
+                     לה:16-לז:12 (דפים 155+ 51-42); פירוש לט:11-מ:18 (דפים 213-206); פירוש מא:14-8
+                     (דפים 215-214); פירוש מה:6-4 (דף 52); פירוש מו:5-מח:15 (דפים 63-53+ 183); פירוש
+                     מט:3- 7 (דפים 167+ 170); פירוש מט:11- 14 (דפים 171+ 166); פירוש מט:15- 18 (דף
+                     184); פירוש מט:21-נ:15 (דפים 71-64); פירוש נב:6-3 (דף 174); פירוש נב:11 ותרגום
+                     נג:6-1 (דף 175); פירוש סג:10-4 (דף 156); פירוש סד:11-סה:2 (דף 139); פירוש
+                     סה:14-סו:2 (דף 140); פירוש עג:1- 21 (דפים 87- 95); פירוש עה:1-עז:2 ( דפים 107+
+                     138-131+ 108); פירוש עח: 16-13 (דף 160); פירוש עח:24-22 (דף 161); פירוש
+                     עח:59-41 (דפים 181-176); פירוש עח:68-עט:1 (דף 158); פירוש עט:13-פ:2 (דף 159);
+                     פירוש פ:6-3 (דף 162); פירוש פא:8-7 ותרגום פא:10-9 (דף 163); פירוש פב:5-3 (דף
+                     186); פירוש פג:6-3 (דף 185); פירוש פג:12-פה:4 (דפים 76-74+ 190-187+ 79-77);
+                     פירוש פה:9-7 (דף 154); פירוש פה:12-פו:8 (דפים 195-192); פירוש פו:12-10 (דף
+                     153); פירוש פח:6-5 (דף 40); פירוש פח:9-פט:11 (דפים 130-123); פירוש פט:17-14 (דף
+                     41); פירוש פט:26-23 ותרגום פט:28-27 (דף 121); פירוש פט:50-48 (דף 122); פירוש
+                     צה:5-צז:5 (דפים 203-196); פירוש צז:10-צח:1 (דף 204); פירוש צח:5-צט:4 (דפים
+                     73-72); פירוש צט:9-8 (דף 205); פירוש ק:3-קב: 12 (דפים 149+ 148-141+ 150); פירוש
+                     קב:18-15 (דף 85); פירוש קב:25-23 (דף 105); פירוש קג:6-3 (דף 106); פירוש
+                     קג:13-10 (דף 86); פירוש קג:22-קד:15 (דפים 104-97); פירוש קד:19-קה:3 (דפים 151+
+                     114-109+ 152); פירוש קז:22, תרגום קז:32-23 ופירוש קז:23 (דף 182); פירוש
+                     קטו:11-6 (דף 216); פירוש קיח:17-14 (דף 217); פירוש קיח:20-קיט:1 (דפים 221-218);
+                     פירוש קיט:1 (דף 222); פירוש קיט:61-38 (דפים 229-223); פירוש קיט:155-132 (דפים
+                     235-230); פירוש קלא:1-קלב:18 (דפים 241-236); פירוש קלג:3-קלו:15 (דפים 250-242+
+                     191); פירוש קמג:3-קמד:2 (דפים 83-80); פירוש קמד:13-קמה:17 (דפים 258-251); פירוש
+                     קמה:21-קמז:9 (דפים 266-259); פירוש קמז:19-קמט:3 (דפים 273-267). מוזכר: ישמעאל
+                     (6א; 44ב; 94א; 133ב; 139א; 145א); אדום (6א; 133ב; 139א; 145א); אלמדוון (עורך
+                     המקרא; 6ב; 10ב; 78ב; 141א); אלתורה ואלמקרא (=התורה וספרי נביאים; 27ב);
+                     אלגלותיין (=בני הגולה; 27א, 50א; 78ב; 162ב; 211א-ב; 257ב); אלתרגום (28ב); לגה
+                     אלתרגום (ארמית; 28ב; 92ב); אלעבראני (=עברית; 28ב); סדר בראשית (מעשה בראשית;
+                     29א); אלתהלות (=ספר תהלים; 43ב. ב140ב: ספר תהלות); אלערב (הערבים; שם); אלמקרא
+                     (=המקרא; 2א, 15א, 44ב; 169א; 172א; 207א); יום אלדינונה (=יום הדין; 68ב); אלכתאב
+                     (=המקרא; 129ב; 268ב); צמח בן דוד (המשיח; 218ב); מכות (מֶכָּה) בית תפלתם (95א);
+                     בחר יאפא (=ים יפו; 182ב). זהוי: התוכן מקביל לבא בכתבי יד פריס Hebreu
+                     286-289.</summary>
                   <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="" cert="">פרוש כתובים (תהלים)</title>
+                     <title cert="" ref="" xml:lang="">פרוש כתובים (תהלים)</title>
                      <author ref="">Yefet ben ʿElī</author>
                      <textLang mainLang="ar" otherLangs=""/>
                      <incipit>
@@ -174,21 +201,39 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="ar-Hebr">15א: קיל פי "וארשׁת שפתיו" (תהלים כא:3) הי לפטׄה̈ פרדיה̈ פי אלמקרא ויוקף (בכה"י: ויקף) עליהא מן אלמגאורה̈ וקיל אן מענאהא כמעני "כרשיון כֹרש מלך פרס" (עזרא ג:7) יעני כמא אטלק להם ואן חרף אלאלף ליס הו מן גׄוהר אלכלמה̈ ואנה מתׄל "ואזרועי" (איוב לא:22; בכה"י: ואזרוע), "אגלי טל" (שם לח:28).   37א-ב: פקו' "עדי שקר" (תהלים כז:12) ישיר בה אלי מאי שהדון עליה באלכדׄב פי אמור אלדיאנאת ופי אמור אלדניאייה̈. פאמא פי אמור אלדיניה̈ פהו כקולהם אן ישראל נסכו אלתוראה̈ ובדלוהא ואיצׄא רבמא שהדו עלי אליהודי באנה קד שתם צאחבהם וטען פי דיניהם פלדׄלך קאל "עדי שקר". ואמא פי אמור אלדניא פהו פי מעאמלתהם וביעהם ושראהם ופי דׄלך קאל "ויפח חמס" (שם). קאל "ויפח חמס" לאנה שי יתפוה בה מא ליס לה אצל.    221ב: פנקול אן האולי "תמימי דרך" (תהלים קיט:1) הם מן גׄמלה̈ פריק אלקראין אלמתחזקים "בתורת ה'" (שם) העוזבים מצות אנשים מלמדה ולא נשענו על משנה ותלמוד והלכות ואגדות אשר הם מלאים דברי טעות חלוף תורת ה' כי אם צרפו את דבריהם על דברי תורה אשר היא אבן בחן עד אשר ידעו איזה דרך הטוב וילכו בה ועוד עזבו את דברי הראשונים אשר שגו בדרכי אנשי משנה ותלמוד כי לא נפקחו עיניהם כראוי ועוד נפרדו מאבותם ומאחיהם אשר נשענו על דעת הראשונים האוכלים בשר כרים ואילים והשותים במזרקי יין זוללים וסבאים והלובשים טוב מלבוש ורקחים שמן וקטרת וכל מיני בשמים השוכחים אבל ציון ושבר ישראל "העורכים לגד שלחן" וג' (ישעיהו סה:11) האמרים "אתיו אקחה יין ונסבאה שכר והיה כזה יום מחר" (ישעיהו נו:12) צררי צדיק המתעשׂקים תמיד בעשׂקי העולם הזה ועם כל זה ישנאו וישטנו...</note>
+                     <note xml:lang="ar-Hebr">15א: קיל פי "וארשׁת שפתיו" (תהלים כא:3) הי לפטׄה̈
+                        פרדיה̈ פי אלמקרא ויוקף (בכה"י: ויקף) עליהא מן אלמגאורה̈ וקיל אן מענאהא כמעני
+                        "כרשיון כֹרש מלך פרס" (עזרא ג:7) יעני כמא אטלק להם ואן חרף אלאלף ליס הו מן
+                        גׄוהר אלכלמה̈ ואנה מתׄל "ואזרועי" (איוב לא:22; בכה"י: ואזרוע), "אגלי טל" (שם
+                        לח:28). 37א-ב: פקו' "עדי שקר" (תהלים כז:12) ישיר בה אלי מאי שהדון עליה
+                        באלכדׄב פי אמור אלדיאנאת ופי אמור אלדניאייה̈. פאמא פי אמור אלדיניה̈ פהו
+                        כקולהם אן ישראל נסכו אלתוראה̈ ובדלוהא ואיצׄא רבמא שהדו עלי אליהודי באנה קד
+                        שתם צאחבהם וטען פי דיניהם פלדׄלך קאל "עדי שקר". ואמא פי אמור אלדניא פהו פי
+                        מעאמלתהם וביעהם ושראהם ופי דׄלך קאל "ויפח חמס" (שם). קאל "ויפח חמס" לאנה שי
+                        יתפוה בה מא ליס לה אצל. 221ב: פנקול אן האולי "תמימי דרך" (תהלים קיט:1) הם מן
+                        גׄמלה̈ פריק אלקראין אלמתחזקים "בתורת ה'" (שם) העוזבים מצות אנשים מלמדה ולא
+                        נשענו על משנה ותלמוד והלכות ואגדות אשר הם מלאים דברי טעות חלוף תורת ה' כי אם
+                        צרפו את דבריהם על דברי תורה אשר היא אבן בחן עד אשר ידעו איזה דרך הטוב וילכו
+                        בה ועוד עזבו את דברי הראשונים אשר שגו בדרכי אנשי משנה ותלמוד כי לא נפקחו
+                        עיניהם כראוי ועוד נפרדו מאבותם ומאחיהם אשר נשענו על דעת הראשונים האוכלים בשר
+                        כרים ואילים והשותים במזרקי יין זוללים וסבאים והלובשים טוב מלבוש ורקחים שמן
+                        וקטרת וכל מיני בשמים השוכחים אבל ציון ושבר ישראל "העורכים לגד שלחן" וג'
+                        (ישעיהו סה:11) האמרים "אתיו אקחה יין ונסבאה שכר והיה כזה יום מחר" (ישעיהו
+                        נו:12) צררי צדיק המתעשׂקים תמיד בעשׂקי העולם הזה ועם כל זה ישנאו
+                        וישטנו...</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
                      <objectType rend="vertical-rectangle" style="codex">Single
-                                                  manuscript</objectType>
-                     <listBibl><bibl>
-      <idno type="">Yevr.-Arab. I 211</idno><ptr target="https://jalit.org/manuscript/96"/>
-      
-      
-   </bibl>
+                        manuscript</objectType>
+                     <listBibl>
+                        <bibl>
+                           <idno type="">Yevr.-Arab. I 211</idno>
+                           <ptr target="https://jalit.org/manuscript/96"/>
+                        </bibl>
                         <bibl>
                            <idno type="manuscript-join">Yevr.-Arab. I 280</idno>
-                           
                            <ptr target="https://jalit.org/manuscript/304"/>
                         </bibl>
                      </listBibl>
@@ -197,16 +242,34 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note xml:lang="he">19-14 שורות. חלק גדול מהתוכן מוכתם. חלקו דהה, וחלקו חסר בשל קרעים. השלמות ומחיקות של הסופר. בגיליונות הדפים 128ב, 191א יש תיקוני "צח" של סופר אחר. בגיליונות הדפים 159א, 234ב יש השלמות שלו. כמו כן הוא מילא את הגיליונות והשוליים של דפים 197ב-199א בבקשות מה'. הפסוקים כתובים בכתיבה מזרחית מרובעת. הם מנוקדים ניקוד טברני ומוטעמים. בגדכפת רפות מסומנות בקו קצר מעליהן. בגיליון באים מספרי המזמורים. בגיליונות הדפים 50ב, 165א באות גרסות קרי. מילוי גרפי של שורות. בחלק מהדפים יש שומרי דפים. בדפים הבאים יש מספרי קונטרסים: ספר שלישי: 54א: ז'; 74א: י"א; 40א: י"ד; ספר חמישי: 216א: ה'; 242א: ט"ז. בדף 107א יש מספר קונטרס. לא ברור מהו, כי ראשיתו חסרה. הדף הבא אחרי דף 156 ממוספר 158! דף 96 הוא פירוש ירמיהו כ:17-15. אפשר של יפת. פסוקים מה: 6-5 (דף 52) אינם מתורגמים; פסוקים מו:7-מז:3 (דפים 53ב-56א), מז:5-מח:7 (דפים 56ב-61א) אינם מתורגמים; פסוק מט:14 (דף 166ב) אינו מתורגם; פסוקים מט:16 (דף 184א), מט:18-17 (דף 184ב) אינם מתורגמים; פסוקים סג:5-4 (דף 156א), סה:11-8 (דף 156ב) אינם מתורגמים. המזמורים קיט, קלב, קלד, קלה, קלו, קמד, קמה, קמו, קמז, קמח, קמט ממוספרים בכתב היד קי"ח (221א), קל"א (236ב), קל"ג (242א), קל"ד (242ב), קל"ה (247ב), קמ"ד (252ב), קמ"ה (259א), קמ"ו (263ב), קמ"ז (267ב), קמ"ח (272ב). כתב היד מצטרף לכתבי היד St. Petersburg, RNL Yevr.-Arab. I: 211, 280.</note>
+                           <note xml:lang="he">19-14 שורות. חלק גדול מהתוכן מוכתם. חלקו דהה, וחלקו
+                              חסר בשל קרעים. השלמות ומחיקות של הסופר. בגיליונות הדפים 128ב, 191א יש
+                              תיקוני "צח" של סופר אחר. בגיליונות הדפים 159א, 234ב יש השלמות שלו. כמו
+                              כן הוא מילא את הגיליונות והשוליים של דפים 197ב-199א בבקשות מה'.
+                              הפסוקים כתובים בכתיבה מזרחית מרובעת. הם מנוקדים ניקוד טברני ומוטעמים.
+                              בגדכפת רפות מסומנות בקו קצר מעליהן. בגיליון באים מספרי המזמורים.
+                              בגיליונות הדפים 50ב, 165א באות גרסות קרי. מילוי גרפי של שורות. בחלק
+                              מהדפים יש שומרי דפים. בדפים הבאים יש מספרי קונטרסים: ספר שלישי: 54א:
+                              ז'; 74א: י"א; 40א: י"ד; ספר חמישי: 216א: ה'; 242א: ט"ז. בדף 107א יש
+                              מספר קונטרס. לא ברור מהו, כי ראשיתו חסרה. הדף הבא אחרי דף 156 ממוספר
+                              158! דף 96 הוא פירוש ירמיהו כ:17-15. אפשר של יפת. פסוקים מה: 6-5 (דף
+                              52) אינם מתורגמים; פסוקים מו:7-מז:3 (דפים 53ב-56א), מז:5-מח:7 (דפים
+                              56ב-61א) אינם מתורגמים; פסוק מט:14 (דף 166ב) אינו מתורגם; פסוקים מט:16
+                              (דף 184א), מט:18-17 (דף 184ב) אינם מתורגמים; פסוקים סג:5-4 (דף 156א),
+                              סה:11-8 (דף 156ב) אינם מתורגמים. המזמורים קיט, קלב, קלד, קלה, קלו,
+                              קמד, קמה, קמו, קמז, קמח, קמט ממוספרים בכתב היד קי"ח (221א), קל"א
+                              (236ב), קל"ג (242א), קל"ד (242ב), קל"ה (247ב), קמ"ד (252ב), קמ"ה
+                              (259א), קמ"ו (263ב), קמ"ז (267ב), קמ"ח (272ב). כתב היד מצטרף לכתבי היד
+                              St. Petersburg, RNL Yevr.-Arab. I: 211, 280.</note>
                         </support>
                         <extent>
-                           <measure unit="folio">273 </measure>
+                           <measure unit="folio">273 </measure>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation style="" rendition=""/>
+                        <foliation rendition="" style=""/>
                         <collation>
                            <formula/>
                            <unit/>
@@ -215,7 +278,7 @@
                         </collation>
                         <condition>
                            <note xml:lang=""/>
-                           <ab type="writing" rend=""/>
+                           <ab rend="" type="writing"/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -223,7 +286,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="layout-1111">
+                        <layout columns="" writtenLines="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -247,7 +310,7 @@
                      </handNote>
                   </handDesc>
                   <scriptDesc>
-                     <scriptNote xml:lang="" script="" rend="" style="">
+                     <scriptNote rend="" script="" style="" xml:lang="">
                         <note xml:lang="he">מזרחית בינונית</note>
                      </scriptNote>
                   </scriptDesc>
@@ -319,53 +382,82 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang="en">The manuscripts of
-                        the First Firkovitch Collection (now known as RNL Yevr. I) were collected by
-                        Abraham ben Samuel Firkovitch (1787–1874) on the Crimean Peninsula, in the
-                        Caucasus, and during his first trip to the Near East in 1830. This
-                        collection contains 830 manuscripts, 277 of them (numbers 554–830) being
-                        Qaraite. Even though this collection is basically a Hebrew one, it does
-                        contain 75 Arabic manuscripts, mostly containing Qaraite works (many of them
-                        biblical commentaries by Yefet ben ʿEli and Salmon b. Yeruḥim). (David
-                        Sklare, “A Guide to Collections of Karaite Manuscripts,” in Karaite Judaism:
-                        A Guide to its History and Literary Sources, edited by Meira Polliack
-                        (Leiden: Brill, 2003), pp. 893–924 [p. 907].) Most of these 75 Arabic
-                        manuscripts were acquired in 1830, probably by the agency of David ben
-                        Avraham ha-Levi (in Jerusalem), brother of Moshe ben Avraham ha-Levi
-                        (1810–1905, Qaraite chief rabbi in Cairo). (See Zeev Elkin and Menahem
-                        Ben-Sasson, “Abraham Firkovitch and the Cairo Genizas in the Light of his
-                        Personal Archive” [Hebrew], Peʿamim 90 (2002): pp. 51–95 [p. 65, n. 48].)
-                        The First Firkovitch Collection was sold to the Imperial Public Library of
-                        the Russian Empire in 1862 for 100,000 silver roubles. The Second Firkovitch
-                        Collection was acquired by Abraham ben Samuel Firkovitch (1787–1874) during
-                        his second trip to the Near East between the years 1863 and 1865 and was
-                        sold to the Imperial Public Library of the Russian Empire in 1876. It
-                        consists of more than 15,000 items, including Hebrew, Arabic, Judeo-Arabic,
-                        and Samaritan manuscripts. The majority of the collection appears to have
-                        originated from the Qaraite synagogue in Cairo. The Hebrew manuscripts of
-                        the Second Firkovitch Collection are divided into several separate
-                        collections. RNL Yevr. II A: Contains Hebrew works of law, exegesis, grammar
-                        and philology, theology, documents, etc. This collection contains 2,947
-                        manuscripts. These include 896 bibliographical items (including different
-                        texts found in a single miscellany) which are Qaraite. The manuscripts are
-                        almost entirely of a later date, including many of a Eastern European
-                        provenance containing liturgical texts, piyyutim, and documents. RNL Yevr.
-                        II B: Contains biblical manuscripts written on vellum (1,582 items). RNL
-                        Yevr. II C: Contains biblical manuscripts written on paper (728 items). Most
-                        of them are Hebrew biblical texts, but the collection also contains some
-                        other works, such as RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr
-                        comprising 550 folios, copied at the end of the tenth century or the very
-                        beginning of the eleventh, and RNL Yevr. II C:725, Yefet ben ʿEli's
-                        commentary to Ezekiel. RNL Yevr. II K: Contains 76 ketubbot, mostly, if not
-                        entirely, Qaraite. (Sklare, “Karaite Manuscripts,” p. 907.) The Judeo-Arabic
-                        manuscripts of the Second Firkovitch Collection are divided into two series:
-                        RNL Yevr.-Arab. I (previously known as II Firk. Yevr.-Arab., First Series):
-                        Contains 4,933 items (although only 4,924 are on microfilm at the Institute
-                        for Microfilmed Hebrew Manuscripts). RNL Yevr.-Arab. II (previously known as
-                        II Firk. Yevr.-Arab., New Series): Contains 3,430 items. RNL Arab.-Yevr.:
-                        Contains 382 manuscripts of Jewish texts in Arabic characters. RNL Firk.
-                        Arab.: Contains 656 items of mostly Muslim texts and documents in Arabic
-                        characters. </note>
+                     <note xml:lang="en">
+                        <p>
+                           <em>Yevr. I</em>
+                        </p>
+                        <p>The manuscripts of the <em>First Firkovich Collection</em> (now known as
+                           RNL Yevr. I) were collected by Abraham ben Samuel Firkovich (1787-1874)
+                           on the Crimean Peninsula, in the Caucasus, and during his first trip to
+                           the Near East in 1830. This collection contains 830 manuscripts, 277 of
+                           them (numbers 554-830) being Qaraite. Even though this collection is
+                           basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly
+                           containing Qaraite works (many of them biblical commentaries by Yefet ben
+                           ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of
+                           Karaite Manuscripts”, in <em>Karaite Judaism: A Guide to its History and
+                           Literary Sources</em>, ed. M. Polliack, Leiden: Brill, 2003, 893–924
+                           [907]). Most of these 75 Arabic manuscripts were acquired in 1830,
+                           probably by the agency of David ben Avraham ha-Levi (Jerusalem), brother
+                           of Moshe ben Avraham ha-Levi (1810-1905, Qaraite chief rabbi in Cairo)
+                           (see Zeev Elkin / Menahem Ben-Sasson, “Abraham Firkovich and the Cairo
+                           Genizas in the Light of his Personal Archive” [Hebrew], <em>Peʿamim</em>
+                           90 (2002), 51–95, [65, n. 48]). The First Firkovich Collection was sold
+                           to the Imperial Public Library of the Russian Empire in 1862 for 100,000
+                           silver roubles.</p>
+                        <p>The Second Firkovich collection was acquired by Abraham ben Samuel
+                           Firkovich (1787-1874) during his second trip to the Near East between the
+                           years 1863 and 1865. It consists of more than 15,000 items, including
+                           Hebrew, Arabic, Judaeo-Arabic and Samaritan manuscripts. The majority of
+                           the collection appears to have originated from the Qaraite synagogue in
+                           Cairo. The Hebrew manuscripts of the Second Firkovich Collection were
+                           divided into several separate collections.</p>
+                        <p>
+                           <em>RNL Yevr. II A</em>
+                        </p>
+                        <p>Contains Hebrew works of law, exegesis, grammar and philology, theology,
+                           documents, etc. This collection contains 2,947 manuscripts. These include
+                           896 bibliographical items (including different texts found in a single
+                           miscellany) which are Qaraite. The manuscripts are almost entirely later,
+                           Eastern European ones containing liturgical texts, piyyutim and
+                           documents.</p>
+                        <p>
+                           <em>RNL Yevr. II B</em>
+                        </p>
+                        <p>Contains biblical manuscripts written on vellum (1,582 items).</p>
+                        <p>
+                           <em>RNL Yevr. II C</em>
+                        </p>
+                        <p>Contains biblical manuscripts written on paper (728 items). Most of them
+                           are Hebrew biblical texts, but it also contains some other works, such as
+                           RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios,
+                           copied at the end of the tenth century or the very beginning of the
+                           eleventh, or RNL Yevr. II C:725, Yefet ben ʿEli's commentary to
+                           Ezekiel.</p>
+                        <p>
+                           <em>RNL Yevr. II K</em>
+                        </p>
+                        <p>Contains 76 ketubbot, mostly Qaraite if not all. (Sklare 2003, 907).</p>
+                        <p>The Judeo-Arabic manuscripts of the Second Firkovich Collection are
+                           divided into two series:</p>
+                        <p><em>RNL Yevr.-Arab. I</em> (previously known as II Firk. Yevr.-Arab.,
+                           First Series)</p>
+                        <p>Contains 4,933 items (although only 4,924 are in microfilm at the
+                           IMHM).</p>
+                        <p><em>RNL Yevr.Arab. II</em> (previously known as II Firk. Yevr.-Arab., New
+                           Series)</p>
+                        <p>Contains 3,430 items.</p>
+                        <p>
+                           <em>RNL Arab.-Yevr.</em>
+                        </p>
+                        <p>Contains 382 manuscripts of Jewish texts in Arabic characters.</p>
+                        <p>
+                           <em>RNL Firk. Arab.</em>
+                        </p>
+                        <p>Contains 656 items of mostly Muslim texts and documents in Arabic
+                           characters.</p>
+                        <p><em>The Second Firkovich Collection was sold to the Imperial Public
+                           Library of the Russian Empire in 1876</em>.</p>
+                     </note>
                   </acquisition>
                </history>
                <additional>
@@ -373,16 +465,19 @@
                      <listBibl>
                         <bibl>
                            <title>Digital image online</title>
-                           <publisher>National Library of
-                        Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001533190205171"/>
+                           <publisher>National Library of Israel</publisher>
+                           <ptr
+                              target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001533190205171"
+                           />
                         </bibl>
                      </listBibl>
                   </surrogates>
                   <listBibl>
                      <bibl>
                         <title>Ktiv</title>
-                        <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001533190205171"/>
+                        <ptr
+                           target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001533190205171"
+                        />
                      </bibl>
                      <bibl>
                         <title/>
