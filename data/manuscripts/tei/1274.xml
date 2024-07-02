@@ -74,7 +74,8 @@
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
+      <revisionDesc><change who="#mmoliere" when="2024-07-02">Updated heritage data introductions 
+    and quotations, and provenance descriptions to extended tag set.</change>
          <change who="#mmoliere" when="2024-05-14">Converted Zotero data into TEI-File.</change>
          <change who="#external" when="2024-05-14">Identified by Nasir Basal.</change>
       </revisionDesc>

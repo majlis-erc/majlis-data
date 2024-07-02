@@ -129,7 +129,8 @@
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc status="unpublished">
+      <revisionDesc status="unpublished"><change who="#mmoliere" when="2024-07-02">Updated heritage data introductions 
+    and quotations, and provenance descriptions to extended tag set.</change>
          <change who="#rboehm" when="2023-12-15T11:01:32.495Z">Pilot III</change><change who="#eporat" when="2019-12-09">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
@@ -294,8 +295,8 @@
     Yevr.-Arab. section of the Second Firkovich Collection.</p></note>
                            <persName>Avraham Harkavy</persName>
                            <quote xml:lang="he">
-דף א׳ מפי׳ משלי<lb/>  
-Bundle number: 388<lb/>  
+דף א׳ מפי׳ משלי / 
+Bundle number: 388 / 
 </quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Inventory.</title>

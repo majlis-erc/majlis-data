@@ -129,7 +129,8 @@
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc status="unpublished">
+      <revisionDesc status="unpublished"><change who="#mmoliere" when="2024-07-02">Updated heritage data introductions 
+    and quotations, and provenance descriptions to extended tag set.</change>
          <change who="#rboehm" when="2024-01-26T19:01:05.454Z">Yevr.-Arab. I 230 + 231</change><change who="#eporat" when="2019-12-04">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
