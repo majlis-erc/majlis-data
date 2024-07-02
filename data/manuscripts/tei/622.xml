@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 2469 (633) / 2 л. изъ Альмухтави / Юсуфа Альбасира / кр. поврежд. / I / p. 5 / N. 2469 (633) II / Изъ Альмухтави / Юсуфа Альбасира / II / 2 л. /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -264,7 +264,7 @@
                    / II / 2 folios / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

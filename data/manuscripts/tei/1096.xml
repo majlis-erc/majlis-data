@@ -249,7 +249,7 @@
                            <quote xml:lang="ru">p. 4 / N. 4490 (167b) / 2 л. изъ грамматич. соч. / I / p. 5 / N. 4490 (167b) / Изъ грамматич. соч. / 2 л. / II /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -259,7 +259,7 @@
                            <quote xml:lang="en">p. 4 / N. 4490 (167b) / 2 folios from a grammatical work / I / p. 5 / N. 4490 (167b) / From a grammatical work / 2 folios / II / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

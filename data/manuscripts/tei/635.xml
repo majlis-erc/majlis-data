@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 833 (494) / 12 л. изъ Китабъ аль-Анваръ / Киркисани, часть поврежд. (м.б. писаны как 2 … предыдущ. №) / Не двенадцать, а четырнадцать (14) листов. [подпись] / I / p. 5 / N. 833 (494) / Изъ соч. Китабъ аль-Анваръ / Караима Якуба аль-Киркисани / 12 частью поврежд. л. / Не двенадцать, а четырнадцать (14) листов. [подпись] / II /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -258,7 +258,7 @@
                    al-Qirqisānī / 12 partly damaged folios / Not twelve, but fourteen (14) folios. [signature] / II / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 3 / N. 4897 / Изъ евр. оригинала Кн. Езекiиля написан. араб. шрифтомъ / 21 бум. л., 12°, поврежд. / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">p. 3 / N. 4897 / From the Hebrew original of the Book of Ezechiel, written in Arabic script / 21 paper folios, 12°, damaged / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

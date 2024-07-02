@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 1957 (347) / Изъ коммент. на Когелетъ / II / 1 л. / p. 5 / N. 1957 (347) / 1 л. изъ коммент. на Когелетъ / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -258,7 +258,7 @@
                    /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

@@ -248,7 +248,7 @@
                            <quote xml:lang="ru">p. 4 / N. 4040 (316) / Изъ араб. перев. и коммент. Кн. Эздры / II / 12 л. / p. 5 / N. 4040 (316) / 12 л. изъ араб. перев. и коммент. Кн. Эздры / (Йефета?) / поврежд. / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -277,7 +277,7 @@
                            <quote xml:lang="ru">p. 4 / N. 3792 (297) / Изъ араб. перев. и коммент. Притчей Соломона / II / 5 л. / p. 5 / N. 3792 (297) / 5 л. изъ араб. перев. и коммент. на Притчи Соломона / поврежд. / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -287,7 +287,7 @@
                            <quote xml:lang="en">p. 4 / N. 4040 (316) / From an Arabic translation and commentary of the Book of Ezra / II / 12 folios / p. 5 / N. 4040 (316) / 12 folios from an Arabic translation and commentary of the Book of Ezra / (By Yefet?) / Damaged / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -297,7 +297,7 @@
                            <quote xml:lang="en">p. 4 / N. 3792 (297) / From an Arabic translation and commentary of Proverbs / II / 5 folios / p. 5 / N. 3792 (297) / 5 folios from an Arabic translation and commentary on Proverbs / Damaged / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

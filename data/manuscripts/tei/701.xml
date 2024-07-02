@@ -246,7 +246,7 @@
                            <quote xml:lang="de">3e Massoet. 1 Bl. / N. 274 / Epigraph / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">3e Massoretic 1 folio / N. 274 / Epigraph / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

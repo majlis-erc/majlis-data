@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">Евр.-араб. I / p. 4 / N. 80 (384) / 1 л. изъ коммент. на Кн. Левитъ (верхн. ч. сгнила) / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -258,7 +258,7 @@
                    / I / corresponds to p. 2 / LG</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -275,7 +275,7 @@
                   Bundle number: </quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Inventory.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/IBUQXI8Q"/>
                            </bibl>
                         </item>

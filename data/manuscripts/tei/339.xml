@@ -247,7 +247,7 @@
                            <quote xml:lang="ru">p. 4 / N. 2117 (363) / 20 л. изъ Пятикн. съ араб. перев. и коммент., все напис. араб. шрифт., а евр. текстъ снабженъ евр. пунктуаціей ч. поврежд. караима / I / p. 5 / N. 2117 (363) / Изъ Пятикн. съ араб. перев. и коммент. караима / II / 20 л. / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -261,7 +261,7 @@
                   Arabic translation and commentary, Qaraite / II / 20 л. /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 845 (495) / 11 л. Изъ Китабъ аль-Анваръ / Киркисани (поврежден.) / Въ сей рукописи двенадцать (12) листов. [подпись] / I / p. 5 / N. 845 (495) / Изъ Китабъ аль-Анваръ / Киркисани / 11 поврежден. л. / 12 л. / II /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">p. 4 / N. 845 (495) / 11 folios from the Kitāb al-Anwār / By Qirqisānī (damaged) / In this manuscript are twelve (12) folios. [signature] / I / p. 5 / N. 845 (495) / From the Kitab al-Anwar / By Qirqisānī / 11 damaged folios / 12 folios / II / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / Ед. хр. № 377 / II Собрание Фирковича / Арабско-еврейские рукописи № 377 / Трактат о брачном праве  / Фрагмент / Количество листов: 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">p. 4 / Depository item: 377 / II Firkovich Collection / Arabic-Hebrew manuscripts N. 377 / Treatise on marriage law / Fragment / Number of folios: 2 / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

@@ -247,7 +247,7 @@
                            <quote xml:lang="ru">p. 4 / N. 865 (499) / Изъ Кн. Законовъ / Караима / 12 пергамен. л. / II /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -257,7 +257,7 @@
                            <quote xml:lang="en">p. 4 / N. 865 (499) / From a book of precepts / Qaraite / 12 parchment folios / II /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

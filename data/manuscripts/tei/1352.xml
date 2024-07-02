@@ -246,7 +246,7 @@
                            <quote xml:lang="de">p. 4 / N. 61a 261 / I Chron. 1,1–1,28~ / 1 Bl., 3 Col., x Z., Gr. u. kl. Massora / (Epigr.) / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">p. 4 / N. 61a 261 / I Chronicles 1,1–1,28~ / 1 folio, 3 columns, x lines, Large and Small Masorah / (epigraphs) / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

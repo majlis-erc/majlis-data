@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 823 (491) / 95 пергамен. л. изъ Кн. Законовъ и коммент. на Пятикнижiе / Караима (Кир[к]исани?) / (м.б. изъ 2 рукоп.) / I / p. 5 / N. 4784 (218) / Изъ араб. перев. и коммент. на Пятикн. / Караима (Киркисани?) / 95 л. / II /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">p. 4 / N. 823 (491) / 95 parchment folios from a book of laws and commentary on the Pentateuch / Qaraite (by Qirqisānī?) / (Perhaps from 2 manuscripts) / I / p. 5 / N. 823 (491) / From a book of laws and commentary on the Pentateuch / Qaraite (by Qirqisānī?) / 95 folios / II / roughly corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

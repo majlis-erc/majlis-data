@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 144 (396) / Изъ коммент. на Кн. Чиселъ / I / 11 л. /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">p. 4 / N. 144 (396) / From a commentary on the Book of Numbers / I / 11 folios / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -273,7 +273,7 @@
                   Bundle number: </quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Inventory.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/IBUQXI8Q"/>
                            </bibl>
                         </item>

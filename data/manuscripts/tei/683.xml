@@ -250,7 +250,7 @@
                            <quote xml:lang="ru">p. 4 / N. 1467 (79) / Изъ 3хъ тадмудическихъ соч. Самуила Ибнъ Хофни / 90 л. / [подпись] / I / 7.V.1892 / При нумерацiи листовъ карандашем (перед выдачею читателю) оказалось 90 (девяносто), а не 80 восемьдестят / 80 пергамен. л. / 90 листовъ /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -260,7 +260,7 @@
                            <quote xml:lang="en">p. 4 / N. 1467 (79) / From three talmudic works by Samuel ibn Ḥofni / 90 folios / [signature] / I / 7.V.1892 / According to numeration of the folios by pencil (before distribution to the reader) there turned out to be 90 (ninety) folios, not 80 (eighty). / 80 parchment folios / 90 folios / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

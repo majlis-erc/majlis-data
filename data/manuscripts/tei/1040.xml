@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 3 / N. 4500 (167b) / 9 л. изъ Шархуль-Алфатъ (на Кн. мал. пророк. и Паралипоменонъ) / Абульфар. Гаруна / ч. поврежд. / I / p. 4 / N. 4500 (167b) / Изъ Шархуль-Алфатъ / Абульфар. Гаруна / II / 9 л. /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -264,7 +264,7 @@
                    / II / 9 folios / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

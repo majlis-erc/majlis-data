@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 3204 (231) / 113 144 л. изъ кратк. коммент. на Бытiе / Абульф. Фуркана / поврежд., составл. въ 445 = 1056 г. / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -258,7 +258,7 @@
                    / Damaged, compiled in 445=1056 / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

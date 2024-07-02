@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 89 (385) / 1 л. изъ коммент. на Исходъ / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">p. 4 / N. 89 (385) / 1 folio from a commentary on Exodus / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -273,7 +273,7 @@
                   Bundle number: </quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Inventory.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/IBUQXI8Q"/>
                            </bibl>
                         </item>

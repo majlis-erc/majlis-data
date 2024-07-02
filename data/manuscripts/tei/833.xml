@@ -252,7 +252,7 @@
                            <quote xml:lang="ru">p. 4 / N. 2052 (356) / 2 пергамен. л. изъ коммент. конца Кн. Бытiя / кр. поврежд., послед. стр. пуста / I / p. 5 / N. 2052 (356) / Изъ коммент. Кн. Бытiя / II / 2 пергам. л. /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -281,7 +281,7 @@
                            <quote xml:lang="ru">p. 4 / N. 1983 (348) / 2 л. изъ коммент. на Псалтырь / (араб. шр.) / I / p. 5 / N. 1983 (348) / Изъ коммент. на Псалтырь / II / 2 л. /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -310,7 +310,7 @@
                            <quote xml:lang="ru">p. 4 / N. 1982 (348) / Изъ коммент. на Псалтырь / II / 4 л. / p. 5 / N. 1982 (348) / 4 л. изъ коммент. на Псалтырь / (араб. шр.) / немн. поврежд. / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -339,7 +339,7 @@
                            <quote xml:lang="ru">p. 4 / N. 1981 (348) / 8 л. изъ коммент. на Псалтырь / (араб. шр.) / поврежд. / I / p. 5 / N. 1981 (348) / Изъ коммент. на Псалтырь / II / 8 л. /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -349,7 +349,7 @@
                            <quote xml:lang="en">p. 4 / N. 2052 (356) / 2 parchment folios from a commentary on the end of the Book of Genesis / Edge is damaged, last page is empty / I / p. 5 / N. 2052 (356) / From a commentary on the Book of Genesis / II / 2 parchment folios / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -359,7 +359,7 @@
                            <quote xml:lang="en">p. 4 / N. 1983 (348) / 2 folios from a commentary on the Psalter / (Arabic script) / I / p. 5 / N. 1983 (348) / From a commentary on the Psalter / II / 2 folios / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -369,7 +369,7 @@
                            <quote xml:lang="en">p. 4 / N. 1982 (348) / From a commentary on the Psalter / II / 4 folios / p. 5 / N. 1982 (348) / 4 folios from a commentary on the Psalter / (Arabic script) / Slightly damaged / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -379,7 +379,7 @@
                            <quote xml:lang="en">p. 4 / N. 1981 (348) / 8 folios from a commentary on the Psalter / (Arabic script) / Damaged / I / p. 5 / N. 1981 (348) / From a commentary on the Psalter / II / 8 folios / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 4499 (167b) / Изъ Шархуль-Алфатъ / Абульфар. Гаруна / 3 л. / II / N. 4499 (167b) / 3 л. изъ Шархуль-Алфатъ (на Кн. пр. Иеремiи) / Абульфар. Гаруна / поврежд. / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -262,7 +262,7 @@
                    / Damaged / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

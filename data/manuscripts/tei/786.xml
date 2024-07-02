@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / Нов. серiя № 262 / (изъ пачки № 22) / 1 л. изъ грамматического сочиненiя / (“Kitāb al-Muschtamil” Абуль-фараджа?) / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -258,7 +258,7 @@
                   ) / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

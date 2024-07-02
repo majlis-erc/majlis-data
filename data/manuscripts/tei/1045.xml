@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 1793 (141) / 105 л. изъ Китабуль-Истибсаръ / Караима Юсуфа аль-Басира / (изъ перв. и третьяго отделовъ) / ч. поврежд. / I / p. 5 / N. 1793 (141) / изъ Китабуль-Истибсаръ / Караима Юсуфа аль-Басира / 105 л. / II /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -264,7 +264,7 @@
                    / 105 folios / II / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>

@@ -246,7 +246,7 @@
                            <quote xml:lang="ru">p. 4 / N. 1626 (91) / 42 л. изъ коммент. на Кн. Чиселъ / Караима (м.б. тожд. съ №1623) / поврежд. / I /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
@@ -256,7 +256,7 @@
                            <quote xml:lang="en">p. 4 / N. 1626 (91) / 42 folios from a commentary on the Book of Numbers  / Qaraite (could be identical with N. 1623) / Damaged / I / corresponds to p. 2 /</quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                              <citedRange unit="p"/>
+                              
                               <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
                            </bibl>
                         </item>
