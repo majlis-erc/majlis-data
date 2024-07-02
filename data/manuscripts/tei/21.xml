@@ -2,129 +2,118 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 3812</title>
-            <title level="m" xml:lang="en">Judeo-Arabic Bible Exegesis and
-                                        Translations in the Firkovitch Manuscript
-                                        Collections</title>
-            <sponsor ref="https://en.huji.ac.il/en">
-               <orgName>The Hebrew University of Jerusalem</orgName>
-                                            (<orgName xml:lang="he">האוניברסיטה העברית
-                                            בירושלים</orgName>)</sponsor>
-            <sponsor ref="https://en.arabic-lang.huji.ac.il/">
-               <orgName>Department of Arabic Language and
-                                            Literature</orgName> (<orgName xml:lang="he">החוג לשפה
-                                            וספרות ערבית</orgName>)</sponsor>
-            <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName>
-                                            (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                                            München</orgName>)</sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern
-                                            Studies</orgName> (<orgName xml:lang="de">Institut für
-                                            den Nahen und Mittleren Osten</orgName>)</sponsor>
-            <funder ref="https://www.bmbf.de/">
-               <orgName>Federal German Ministry for Education and
-                                            Research</orgName> (<orgName xml:lang="de">
-                                            Bundesministerium für Bildung und
-                                        Forschung</orgName>)</funder>
+            <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I
+               3812</title>
+            <title level="m" xml:lang="en">Judeo-Arabic Bible Exegesis and Translations in the
+               Firkovitch Manuscript Collections</title>
+            <sponsor ref="https://en.huji.ac.il/en"> <orgName>The Hebrew University of
+               Jerusalem</orgName> (<orgName xml:lang="he">האוניברסיטה העברית
+               בירושלים</orgName>)</sponsor>
+            <sponsor ref="https://en.arabic-lang.huji.ac.il/"> <orgName>Department of Arabic
+               Language and Literature</orgName> (<orgName xml:lang="he">החוג לשפה וספרות
+               ערבית</orgName>)</sponsor>
+            <sponsor ref="https://www.uni-muenchen.de"> <orgName>Ludwig Maximilian University of
+               Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+               München</orgName>)</sponsor>
+            <sponsor ref="http://www.naher-osten.uni-muenchen.de"> <orgName>Institute of Near and
+               Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und
+               Mittleren Osten</orgName>)</sponsor>
+            <funder ref="https://www.bmbf.de/"> <orgName>Federal German Ministry for Education and
+               Research</orgName> (<orgName xml:lang="de"> Bundesministerium für Bildung und
+               Forschung</orgName>)</funder>
             <funder ref="https://www.minerva.mpg.de/arches/programme-information">
-               <orgName>Award for Research Cooperation and Highest
-                                            Excellence in Science (ARCHES) – Minerva
-                                            Stiftung</orgName>
+               <orgName>Award for Research Cooperation and Highest Excellence in Science (ARCHES) –
+                  Minerva Stiftung</orgName>
             </funder>
             <principal ref="#mgoldstein">Miriam Goldstein</principal>
-            <editor xml:id="mgoldstein" role="general" ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220">Miriam Goldstein</editor>
-            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-            <editor xml:id="eporat" role="contributor" ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926">Efraim ben Porat</editor>
-            <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
-            <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+            <editor
+               ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220"
+               role="general" xml:id="mgoldstein">Miriam Goldstein</editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349"
+               role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+            <editor
+               ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926"
+               role="contributor" xml:id="eporat">Efraim ben Porat</editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235"
+               role="contributor" xml:id="dsklare">David Sklare</editor>
+            <editor role="contributor" xml:id="ykahan">Yinon Kahan</editor>
+            <editor ref="" role="creator"/>
+            <editor ref="" role="creator"/>
+            <editor ref="" role="creator"/>
+            <editor ref="" role="creator"/>
+            <editor ref="" role="creator"/>
          </titleStmt>
          <editionStmt>
-            <edition>Cataloging data from the ARCHES project re-used and
-                                        prepared for electronic publication in the project: MAJLIS:
-                                        The Transformation of Jewish Literature in Arabic in the
-                                        Islamicate World</edition>
-            <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName>
-                                            (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                                            München</orgName>) </sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern
-                                            Studies</orgName> (<orgName xml:lang="de">Institut für
-                                            den Nahen und Mittleren Osten</orgName>) </sponsor>
-            <funder ref="https://erc.europa.eu/">
-               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+            <edition>Cataloging data from the ARCHES project re-used and prepared for electronic
+               publication in the project: MAJLIS: The Transformation of Jewish Literature in Arabic
+               in the Islamicate World</edition>
+            <sponsor ref="https://www.uni-muenchen.de"> <orgName>Ludwig Maximilian University of
+               Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
+               München</orgName>) </sponsor>
+            <sponsor ref="http://www.naher-osten.uni-muenchen.de"> <orgName>Institute of Near and
+               Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und
+               Mittleren Osten</orgName>) </sponsor>
+            <funder ref="https://erc.europa.eu/"> <orgName>ERC: European Research Council</orgName>
+               (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
             <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
-               Ronny Vollandt
-               
-            </editor>
-            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
-               Gregor Schwarb
-               
-            </editor>
-            
-            <editor xml:id="mmoliere" role="contributor creator" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
-               Maximilian de Molière
-               
-            </editor>
-            <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
-               Nadine Urbiczek
-               
-            </editor>
-            <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
-               Peter Tarras
-               
-            </editor>
-            <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
-               Annabelle Fuchs
-               
-            </editor>
-            <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
-               Lea Gzella
-               
-            </editor>
-            <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
-               Polina Lakteikina
-               
-            </editor>
-            <editor xml:id="rboehm" role="contributor">
-               Maurizio Boehm
-               
-            </editor>
-            <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
-               Lea Poralla
-               
-            </editor>
-            <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
-               Lukas Froschmeier
-               
-            </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
+               role="general"> Ronny Vollandt </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
+               role="contributor" xml:id="gschwarb"> Gregor Schwarb </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
+               role="contributor creator" xml:id="mmoliere"> Maximilian de Molière </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html"
+               role="contributor" xml:id="nurbiczek"> Nadine Urbiczek </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html"
+               role="contributor" xml:id="ptarras"> Peter Tarras </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html"
+               role="contributor" xml:id="afuchs"> Annabelle Fuchs </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html"
+               role="contributor" xml:id="lgzella"> Lea Gzella </editor>
+            <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor"
+               xml:id="plakteikina"> Polina Lakteikina </editor>
+            <editor role="contributor" xml:id="rboehm"> Maurizio Boehm </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html"
+               role="contributor" xml:id="lporalla"> Lea Poralla </editor>
+            <editor
+               ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html"
+               role="contributor" xml:id="lfroschmeier"> Lukas Froschmeier </editor>
             <respStmt>
                <resp>manuForma app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person"
+                  >Winona Salesky</name>
+               <name
+                  ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html"
+                  type="person">Maximilian de Molière</name>
             </respStmt>
             <respStmt>
                <resp>Srophé app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-               <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
+               <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person"
+                  >Winona Salesky</name>
+               <name
+                  ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html"
+                  type="person">Maximilian de Molière</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
             <authority>
-               <ref target="https://jalit.org">jalit.org – Jewish-Arabic
-                                        Literature</ref>
+               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
             </authority>
             <idno type="URI">https://jalit.org/manuscript/21</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0
-                                            International (CC BY 4.0) License.</p>
+                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0)
+                     License.</p>
                </licence>
             </availability>
             <date>2023-12-13</date>
@@ -134,13 +123,16 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="unpublished">
-         <change who="#rboehm" when="2024-05-11T16:58:06.269Z">join</change><change who="#rboehm" when="2024-04-28T22:20:54.983Z">Yevr.-Arab. I 3812 (4)</change>
-            <change who="#rboehm" when="2024-04-21T20:25:03.348Z">Yevr.-Arab. I 3812 (3)</change>
-            <change who="#rboehm" when="2024-04-21T19:46:59.453Z">Yevr.-Arab. I 3812</change>
-            <change who="#rboehm" when="2024-04-21T13:45:08.040Z">Yevr.-Arab. I 3812 (1)</change>
-            <change who="#eporat" when="2021-02-21">Cataloged the manuscript into a Word-File.</change>
-         <change who="#mmoliere" when="2023-12-13">Converted
-                                Zotero and Word data into TEI-File.</change>
+         <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and
+            quotations, and provenance descriptions to extended tag set.</change>
+         <change when="2024-05-11T16:58:06.269Z" who="#rboehm">join</change>
+         <change when="2024-04-28T22:20:54.983Z" who="#rboehm">Yevr.-Arab. I 3812 (4)</change>
+         <change when="2024-04-21T20:25:03.348Z" who="#rboehm">Yevr.-Arab. I 3812 (3)</change>
+         <change when="2024-04-21T19:46:59.453Z" who="#rboehm">Yevr.-Arab. I 3812</change>
+         <change when="2024-04-21T13:45:08.040Z" who="#rboehm">Yevr.-Arab. I 3812 (1)</change>
+         <change when="2021-02-21" who="#eporat">Cataloged the manuscript into a Word-File.</change>
+         <change when="2023-12-13" who="#mmoliere">Converted Zotero and Word data into
+            TEI-File.</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -150,8 +142,7 @@
                <msIdentifier>
                   <country>Russia</country>
                   <settlement>St. Petersburg</settlement>
-                  <repository>National Library of
-                    Russia</repository>
+                  <repository>National Library of Russia</repository>
                   <collection>Yevr.-Arab. I</collection>
                   <idno>3812</idno>
                   <altIdentifier type="Ktiv">
@@ -162,14 +153,55 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he">תוכן:  פירוש איוב לאהרן בן דוד הכהן: פירוש א:1-ב:1 (דפים 3ב-4); פירוש ג:13-ד:18 (דפים 7-5); פירוש ה:4-יד:12 (דפים 34-15+ 47+ 44-37+ 48+ 62); פירוש יד:19-טז:10 (דפים 54-49); פירוש טז:15-כ:26 (דפים 63+ 82+ 58+ 61+ 36+ 46+ 45+ 35+ 60+ 59+ 83); פירוש כא:29-כב:29 (דפים 72+ 57+ 56+ 73); פירוש כד:13-4 (דף 55); פירוש כה:2-כו:13 (דפים 13+ 8); פירוש כח:1- 11 (דפים 9+ 14); פירוש כח:25-כט:6 (דף 79); פירוש ל:9-לא:7 (דפים  68+ 11-10+ 69); פירוש לב:6-לג:10 (דפים 70+ 67); פירוש לד:33-לו:4 (דפים 66+ 71); פירוש לו:14- 24 (דפים 74+ 77); פירוש לו:30-לז:4 (דף 64); פירוש לז:22-16 (דף 65); פירוש לח:4- 14(דפים 78+ 75); פירוש לח:37-לט:12 (דפים 12+ 76); פירוש מ:28-מא:4 (דפים 93-92); פירוש מא:23-מב:6 (דפים 95+ 94). פירוש איוב לרבי יהודה אבן בלעם: פירוש ג:22-ז:5 (דפים 85-84; ההמשך בא בכתב יד I: 2425, דף 1); פירוש יא:12-ל:3 (דפים 86- 87+ 80+ 88- 89+ 81+ 90- 91; ההמשך בא בכתב יד I: 2425, דף 2).
-מוזכר: פירוש איוב לדוד בן אהרן הכהן: אלפלאספה (=הפילוסופים; 9ב); בלד אלפרס (=פרס; 9ב); אלגרב (=ארצות המערב; 9ב); אלחאויה (שם מקום; 9ב); סקליה (=סיציליה; 9ב). אלמקרא (=המקרא; 10א, 56ב); יהודה בן קריש (12ב, 39ב); לגה אלתרג'ום (=לשון התרגום, ארמית; 14א); אלמשנה (=המשנה; 10א, 15א, 17ב, 36א); אלאואיל (=הראשונים, חז"ל; 11ב, 18ב, 50ב); אלשאם (=ארץ ישראל; 19ב); אהל אלשאם (=אנשי ארץ ישראל; 20א); סלמון (סלמון בן ירוחים; 22א); אלקראן (=המקרא; 22א, 25ב); לגה אלקדמא (=לשון הקדמונים, לשון חז"ל; 26א); אלעבראני (=עברית; 28ב, 65ב, 76א); אלמפסר (=המתרגם, דוד אלפסי; 32א, 53א, 73א, 76ב, 78ב); אהל אלעראק (=אנשי בבל; 36ב); לגה אליהוד (=לשון היהודים, עברית; 38א); עבראנין (=העִברים; 39ב); לגה אלאואיל (=לשון הראשונים, לשון חז"ל; 39ב); אלפשאט (התרגום; 50ב); צאחב אלדקדוק (=איש הדקדוק, המדקדק; 52ב); אהל סדום (=אנשי סדום; 56ב); אלסריאני (ארמית; 57א); לגה אלמשנה (=לשון המשנה; 61א); יום אלבעת ואלנשר (=יום תחיית המתים; 75ב); לגה אלכשדים (=לשון כשדים, ארמית; 76א); ישמעאל (93ב); אלערבי (=ערבית; 95ב); סדום ועמורה (46א); אלנאיח (=המקונן, ירמיהו הנביא; 45ב); נוח (56ב); בני נוח (56ב); דהרי (=מי שמאמין בנצחיות העולם; 56א); אלדניא (=העולם הזה; 22א, 23א, 29א, 33ב, 36א, 39א, 42א, 62ב, 63ב, 72ב, 73א, 93א) .
-פירוש איוב לרבי יהודה אבן בלעם: אלאואיל (=הראשונים; 89ב); אלעבראני (=עברית; 88ב); אהל סדום (=אנשי סדום; 81א); אלערב (=הערבים; 80ב, 89ב); ר' האיי ז"ל (81א, 87א); אלחאוי (מילונו של רב האיי; 81א); אהל אלמבול (=אנשי המבול; 81א); בן ג'קטלה (רבי משה הכהן אבן ג'יקטילה; 81ב); אלאולין (=הראשונים, חז"ל; 84ב, 85א-ב, 86א, 87ב, 90ב, 91א-ב); שאער אלערב (=אחד המשוררים הערבים; 88א); אלמסורת (=המסורה; 89א); אלמצאחף (=טופסי מקרא; 89א).
-זהוי: "תלכׄיץ עבארה̈ ספר איוב מנכתה בנכת תנבהא עלי אלמעאני בלפטׄ וגׄיז מכׄתצר מקתצׄב מן אקאויל אלפהמא ותפאסיר אלעלמא רצׄי (בכה"י: רצׄא) אללה ענהם והם סלמון בן רחים ואלסגׄלמאסי ויהודה בן קריש ואלמעלם אבו סעיד לוי בן אלחסן אלבצרי (לוי בן יפת) ואלשיךׄ‎ אבו יעקוב יוסף בן נח ושויא מן עבארה̈ ראס אלמתׄיבה̈ סעדיה אלפיומי (רבי סעדיה גאון) רחמה אללה תע' עלי גׄמיעהם. עני בגׄמעה̈ ותאליף נסקה̈ אהרן בן דוד הכהן רחמה אללה תע'" (2א). המחבר קראי. ההוכחות לכך הן שתיים. האחת רוב מקורותיו קראיים. ההוכחה השנייה הִשתמשוֹ בכלל מושך עצמו ומושך אחרים בפירוש איוב לב:3: "'לא מצאו מענה' (איוב לב:3) הו משך עצמו ומשך אחרים אעני לא מצאו מעני! ולא הרשיעו את איוב" (כתב יד I: 3848, דף 1ב); ובפירוש איוב לו:14: "'תָמוֹת' (איוב לו:14) מושך עצמו ומושך אחרים", כלומר תמות בנוער נפשם ותמות חיתם בקדשים (כתב יד I: 3848, דף 2ב). כלל זה רווח בכתבי הפרשנים והמדקדקים הקראים.
-דפים 81-80, 91-84 הם מפירוש רבי יהודה אבן בלעם לאיוב. אבן בלעם הזכיר בפירוש "על כן דברי לעו" (איוב ו:3; 84ב) את חיבורו "כתאב אלאפעאל אלמשתקה מן אלאסמא" (=הספר על הפעלים הנגזרים מהשמות; ראו המובאה להלן).</summary>
+                  <summary xml:lang="he">תוכן: פירוש איוב לאהרן בן דוד הכהן: פירוש א:1-ב:1 (דפים
+                     3ב-4); פירוש ג:13-ד:18 (דפים 7-5); פירוש ה:4-יד:12 (דפים 34-15+ 47+ 44-37+ 48+
+                     62); פירוש יד:19-טז:10 (דפים 54-49); פירוש טז:15-כ:26 (דפים 63+ 82+ 58+ 61+ 36+
+                     46+ 45+ 35+ 60+ 59+ 83); פירוש כא:29-כב:29 (דפים 72+ 57+ 56+ 73); פירוש כד:13-4
+                     (דף 55); פירוש כה:2-כו:13 (דפים 13+ 8); פירוש כח:1- 11 (דפים 9+ 14); פירוש
+                     כח:25-כט:6 (דף 79); פירוש ל:9-לא:7 (דפים 68+ 11-10+ 69); פירוש לב:6-לג:10 (דפים
+                     70+ 67); פירוש לד:33-לו:4 (דפים 66+ 71); פירוש לו:14- 24 (דפים 74+ 77); פירוש
+                     לו:30-לז:4 (דף 64); פירוש לז:22-16 (דף 65); פירוש לח:4- 14(דפים 78+ 75); פירוש
+                     לח:37-לט:12 (דפים 12+ 76); פירוש מ:28-מא:4 (דפים 93-92); פירוש מא:23-מב:6 (דפים
+                     95+ 94). פירוש איוב לרבי יהודה אבן בלעם: פירוש ג:22-ז:5 (דפים 85-84; ההמשך בא
+                     בכתב יד I: 2425, דף 1); פירוש יא:12-ל:3 (דפים 86- 87+ 80+ 88- 89+ 81+ 90- 91;
+                     ההמשך בא בכתב יד I: 2425, דף 2). מוזכר: פירוש איוב לדוד בן אהרן הכהן: אלפלאספה
+                     (=הפילוסופים; 9ב); בלד אלפרס (=פרס; 9ב); אלגרב (=ארצות המערב; 9ב); אלחאויה (שם
+                     מקום; 9ב); סקליה (=סיציליה; 9ב). אלמקרא (=המקרא; 10א, 56ב); יהודה בן קריש (12ב,
+                     39ב); לגה אלתרג'ום (=לשון התרגום, ארמית; 14א); אלמשנה (=המשנה; 10א, 15א, 17ב,
+                     36א); אלאואיל (=הראשונים, חז"ל; 11ב, 18ב, 50ב); אלשאם (=ארץ ישראל; 19ב); אהל
+                     אלשאם (=אנשי ארץ ישראל; 20א); סלמון (סלמון בן ירוחים; 22א); אלקראן (=המקרא;
+                     22א, 25ב); לגה אלקדמא (=לשון הקדמונים, לשון חז"ל; 26א); אלעבראני (=עברית; 28ב,
+                     65ב, 76א); אלמפסר (=המתרגם, דוד אלפסי; 32א, 53א, 73א, 76ב, 78ב); אהל אלעראק
+                     (=אנשי בבל; 36ב); לגה אליהוד (=לשון היהודים, עברית; 38א); עבראנין (=העִברים;
+                     39ב); לגה אלאואיל (=לשון הראשונים, לשון חז"ל; 39ב); אלפשאט (התרגום; 50ב); צאחב
+                     אלדקדוק (=איש הדקדוק, המדקדק; 52ב); אהל סדום (=אנשי סדום; 56ב); אלסריאני
+                     (ארמית; 57א); לגה אלמשנה (=לשון המשנה; 61א); יום אלבעת ואלנשר (=יום תחיית
+                     המתים; 75ב); לגה אלכשדים (=לשון כשדים, ארמית; 76א); ישמעאל (93ב); אלערבי
+                     (=ערבית; 95ב); סדום ועמורה (46א); אלנאיח (=המקונן, ירמיהו הנביא; 45ב); נוח
+                     (56ב); בני נוח (56ב); דהרי (=מי שמאמין בנצחיות העולם; 56א); אלדניא (=העולם הזה;
+                     22א, 23א, 29א, 33ב, 36א, 39א, 42א, 62ב, 63ב, 72ב, 73א, 93א) . פירוש איוב לרבי
+                     יהודה אבן בלעם: אלאואיל (=הראשונים; 89ב); אלעבראני (=עברית; 88ב); אהל סדום
+                     (=אנשי סדום; 81א); אלערב (=הערבים; 80ב, 89ב); ר' האיי ז"ל (81א, 87א); אלחאוי
+                     (מילונו של רב האיי; 81א); אהל אלמבול (=אנשי המבול; 81א); בן ג'קטלה (רבי משה
+                     הכהן אבן ג'יקטילה; 81ב); אלאולין (=הראשונים, חז"ל; 84ב, 85א-ב, 86א, 87ב, 90ב,
+                     91א-ב); שאער אלערב (=אחד המשוררים הערבים; 88א); אלמסורת (=המסורה; 89א); אלמצאחף
+                     (=טופסי מקרא; 89א). זהוי: "תלכׄיץ עבארה̈ ספר איוב מנכתה בנכת תנבהא עלי אלמעאני
+                     בלפטׄ וגׄיז מכׄתצר מקתצׄב מן אקאויל אלפהמא ותפאסיר אלעלמא רצׄי (בכה"י: רצׄא)
+                     אללה ענהם והם סלמון בן רחים ואלסגׄלמאסי ויהודה בן קריש ואלמעלם אבו סעיד לוי בן
+                     אלחסן אלבצרי (לוי בן יפת) ואלשיךׄ‎ אבו יעקוב יוסף בן נח ושויא מן עבארה̈ ראס
+                     אלמתׄיבה̈ סעדיה אלפיומי (רבי סעדיה גאון) רחמה אללה תע' עלי גׄמיעהם. עני בגׄמעה̈
+                     ותאליף נסקה̈ אהרן בן דוד הכהן רחמה אללה תע'" (2א). המחבר קראי. ההוכחות לכך הן
+                     שתיים. האחת רוב מקורותיו קראיים. ההוכחה השנייה הִשתמשוֹ בכלל מושך עצמו ומושך
+                     אחרים בפירוש איוב לב:3: "'לא מצאו מענה' (איוב לב:3) הו משך עצמו ומשך אחרים אעני
+                     לא מצאו מעני! ולא הרשיעו את איוב" (כתב יד I: 3848, דף 1ב); ובפירוש איוב לו:14:
+                     "'תָמוֹת' (איוב לו:14) מושך עצמו ומושך אחרים", כלומר תמות בנוער נפשם ותמות חיתם
+                     בקדשים (כתב יד I: 3848, דף 2ב). כלל זה רווח בכתבי הפרשנים והמדקדקים הקראים.
+                     דפים 81-80, 91-84 הם מפירוש רבי יהודה אבן בלעם לאיוב. אבן בלעם הזכיר בפירוש "על
+                     כן דברי לעו" (איוב ו:3; 84ב) את חיבורו "כתאב אלאפעאל אלמשתקה מן אלאסמא" (=הספר
+                     על הפעלים הנגזרים מהשמות; ראו המובאה להלן).</summary>
                   <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
-                     <title xml:lang="" ref="" cert="">פרוש כתובים (איוב)</title>
+                     <title cert="" ref="" xml:lang="">פרוש כתובים (איוב)</title>
                      <author ref="">Yehūda ben Šmūʾel b. Balʿam</author>
                      <author ref="">אהרן בן דוד הכהן</author>
                      <textLang mainLang="ar" otherLangs=""/>
@@ -181,17 +213,56 @@
                         <locus from="" to=""/>
                         <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="ar-Hebr">פירוש איוב לאהרן בן דוד הכהן 19ב: "בְעֵת יְזֹרְבוּ" (איוב ו:17) פי וקת יסילו אנקמעו בסכונתה אנדעמו מן מואצׄעהם. וק' פי וקת יסילו אנקמעו ענד חמא אלזמאן אנטפו וסאלו מן מואצׄעהם. "יְזֹרְבוּ" מתׄל יזרמו מן "זֶרֶם מַיִם עָבָר" (חבקוק ג:10) מן טריק אלאבדאל מתׄל "מכתם" (תהלים טז:1), "מכתב" (ישעיהו לח:9); "והחרים ה'" (ישעיהו יא:15), והחריב ה'. וקיל פי וקת יזרבו אנקמעו וג'. ופס' "נדעכו" אנטפו נט' (נט'יר) "ידעך נרו" (משלי כ:20). "יזרבו" הי כלמה̈ פרדיה̈ פק' הי ערביה̈ מחץׄ ואלזרב באלשאם הו אסם ללגלק יעני פי וקת יגלקו עלי אלאודיה̈ יחמא עליהא אלזמאן פתסיל ותתלאשא ותדׄהב. וק' "נִצְמָתוּ" (איוב ו:17) הו מקאם נִכְרָתוּ אנקטעו מן "לצמיתות" (ויקרא כה:23). והו מן טריק אלאבדאל כ' בצ' מן אח"ס בט"ע גי"ף דכ"ץ ונטׄ (ונטׄיר) "מצבעין" (דניאל ד:22) הו מתׄל ובבורית מכבסין.        76ב: ואלמפסר ר' [אללה] פסרה (את "יְתוּר הרים מרעהו" [איוב לט:8]) יגׄס וטׄן אנה תור נטׄיר "מתור הארץ" (במדבר יג:25) וליס [הו] כדׄלך לאן לו כאן אמרה תור כאן יָתֻור בוזן שוב יש[ו]ב, קום יקום, רום ירום. פצח אנה אסם אלתגׄסיס.   93ב: פסרת "בדיו" (איוב מא:4) בדאיעה̈ מן "כי מלבך אתה בודאם" (נחמיה ו:8), "בדיך מתים יחרישו" (איוב יא:3) עלי אחד אלתפאסיר פיה, "בחֹדש אשר בדא מלבו" (מל"א יב:33). ומתׄלה "עברתו (בכתב היד: "ועברתו" [ישעיהו טז:6]) לא כן בדיו לא כן עשו" (ירמיהו מח:30). עבארתה ותלכׄיץ מענאה̈ קאל אנא עלמת קאל אללה אן חלטתה מא מתׄלהא יעני מא אחד תחלט עלי ישראל מתׄל חלטה מואב "בדיו לא כן עשו" ואן בדאיעה̈ איצׄא אלתי אבתדע מא כדי עמלו אלאולין. יעני אן מדׄאהב אבתדעהא ישמעאל מחקיהם ומשפטיהם אשר לא כמשפטי הגוים אשר לפניו, כהרמת קול חמשה פעמים בכל יום וצום חדש ימים וחג אל בית תפלתם תמיד וכאלה רבות אשר לא כתוב, עליו אמר "יוצר עמל עלי חֹק" (תהלים צד:20), וכתוב... 95א: "הֶעָשׂוּ" (איוב מא:25) תחת אלה' תׄלתׄה̈ נקט (סגול) והי ה' תמוה (ה"א השאלה). ואלה' אדׄא כאנת בג' נקט (סגול) פלא תקע אלא מרכבה̈ עלי אהח"ע חסב ללאסתפהאם נטׄ (נטׄיר) "הֶאנכי הריתי" (במדבר יא:12), "הֶהָמֵת" (ירמיהו כו:19), "הֶחכם" (קהלת ב:19), "הֶעָשׂוּ". פאפהם הדׄא פאן אלמפסרין כתׄיר יגלטון פי מעני "הֶעָשׂוּ לבלי חָת".   9ב: "ארץ ממנה יצא" (איוב כח:5): וההנא ארץׄ מנהא יכׄרגׄ טעאם ופי מכאנהא אנקלב מתׄל נאר דׄאת מאכול ומאדה̈: דׄכר אן פי בלד אלפרס הדׄא משאהד ודׄלך אן תם בלד כתׄיר אלכׄיר חסן אלכׄצב פיה מכאן נאר מתׄל אלאתון אלעטׄים ישתעל ליל ונהאר לא ינטפי בתה ולא יקדר אחד יקרב מנה מן טריק פרסךׄ (בכתב היד: מן פרסךׄ טריק): וכדׄלך קיל אן פי אלגרב מוצׄע יסמא אלחאויה̈ והו בהדׄא אלוצף. וקיל אן מצׄא אליה קום מן אלפלאספה̈ ליקפו עלי סבבה̈ פלם יצלו. וקיל אן ואחד טרח נפסה פיה פהלך. וקיל אן פי גׄבאל סקליה̈ (=סיציליה) מתׄל דׄלך והי נאר יצעד מנהא אלדכׄאן אלעטׄים מן גיר מאכול להא, טׄאהרה̈ לא יעלם אלסר פיהא:            פירוש איוב לרבי יהודה אבן בלעם 81א: "ועל גדיש ישקוד" (כא:32): קאל פיה ר' האיי ז"ל פי אלחאוי אתקביב אלדׄי עלי אלקבר אי ילאזם אלגׄדתׄ. 84ב: "על כן דברי לעו" (ו:3): כפית כאנהא קד אבתלעת והו פעל משתק מן "ושמת סכין בלועיך" (משלי כג:2) וקד דׄכרתה מע אצחאבה פימא אשתק מן אסם מע "ואפרוחיו יעלעו דם" (איוב לט:30; אברמסון, שלשה ספרים, עמ' 169). 88א: "בדי שאול תרדנה" (יז:16) פסר פיה אלי ערוק אלתרי תנזל ישיר אלי אלפרש אלמדׄכורה̈ ואסתעאר הנא ללתרי ערוקא וקד קאל שאער אלערב מתׄלה: "אלי ערוק אלתרי נסגׄת ערוקי".</note>
+                     <note xml:lang="ar-Hebr">פירוש איוב לאהרן בן דוד הכהן 19ב: "בְעֵת יְזֹרְבוּ"
+                        (איוב ו:17) פי וקת יסילו אנקמעו בסכונתה אנדעמו מן מואצׄעהם. וק' פי וקת יסילו
+                        אנקמעו ענד חמא אלזמאן אנטפו וסאלו מן מואצׄעהם. "יְזֹרְבוּ" מתׄל יזרמו מן
+                        "זֶרֶם מַיִם עָבָר" (חבקוק ג:10) מן טריק אלאבדאל מתׄל "מכתם" (תהלים טז:1),
+                        "מכתב" (ישעיהו לח:9); "והחרים ה'" (ישעיהו יא:15), והחריב ה'. וקיל פי וקת
+                        יזרבו אנקמעו וג'. ופס' "נדעכו" אנטפו נט' (נט'יר) "ידעך נרו" (משלי כ:20).
+                        "יזרבו" הי כלמה̈ פרדיה̈ פק' הי ערביה̈ מחץׄ ואלזרב באלשאם הו אסם ללגלק יעני
+                        פי וקת יגלקו עלי אלאודיה̈ יחמא עליהא אלזמאן פתסיל ותתלאשא ותדׄהב. וק'
+                        "נִצְמָתוּ" (איוב ו:17) הו מקאם נִכְרָתוּ אנקטעו מן "לצמיתות" (ויקרא כה:23).
+                        והו מן טריק אלאבדאל כ' בצ' מן אח"ס בט"ע גי"ף דכ"ץ ונטׄ (ונטׄיר) "מצבעין"
+                        (דניאל ד:22) הו מתׄל ובבורית מכבסין. 76ב: ואלמפסר ר' [אללה] פסרה (את "יְתוּר
+                        הרים מרעהו" [איוב לט:8]) יגׄס וטׄן אנה תור נטׄיר "מתור הארץ" (במדבר יג:25)
+                        וליס [הו] כדׄלך לאן לו כאן אמרה תור כאן יָתֻור בוזן שוב יש[ו]ב, קום יקום,
+                        רום ירום. פצח אנה אסם אלתגׄסיס. 93ב: פסרת "בדיו" (איוב מא:4) בדאיעה̈ מן "כי
+                        מלבך אתה בודאם" (נחמיה ו:8), "בדיך מתים יחרישו" (איוב יא:3) עלי אחד אלתפאסיר
+                        פיה, "בחֹדש אשר בדא מלבו" (מל"א יב:33). ומתׄלה "עברתו (בכתב היד: "ועברתו"
+                        [ישעיהו טז:6]) לא כן בדיו לא כן עשו" (ירמיהו מח:30). עבארתה ותלכׄיץ מענאה̈
+                        קאל אנא עלמת קאל אללה אן חלטתה מא מתׄלהא יעני מא אחד תחלט עלי ישראל מתׄל
+                        חלטה מואב "בדיו לא כן עשו" ואן בדאיעה̈ איצׄא אלתי אבתדע מא כדי עמלו אלאולין.
+                        יעני אן מדׄאהב אבתדעהא ישמעאל מחקיהם ומשפטיהם אשר לא כמשפטי הגוים אשר לפניו,
+                        כהרמת קול חמשה פעמים בכל יום וצום חדש ימים וחג אל בית תפלתם תמיד וכאלה רבות
+                        אשר לא כתוב, עליו אמר "יוצר עמל עלי חֹק" (תהלים צד:20), וכתוב... 95א:
+                        "הֶעָשׂוּ" (איוב מא:25) תחת אלה' תׄלתׄה̈ נקט (סגול) והי ה' תמוה (ה"א השאלה).
+                        ואלה' אדׄא כאנת בג' נקט (סגול) פלא תקע אלא מרכבה̈ עלי אהח"ע חסב ללאסתפהאם
+                        נטׄ (נטׄיר) "הֶאנכי הריתי" (במדבר יא:12), "הֶהָמֵת" (ירמיהו כו:19), "הֶחכם"
+                        (קהלת ב:19), "הֶעָשׂוּ". פאפהם הדׄא פאן אלמפסרין כתׄיר יגלטון פי מעני
+                        "הֶעָשׂוּ לבלי חָת". 9ב: "ארץ ממנה יצא" (איוב כח:5): וההנא ארץׄ מנהא יכׄרגׄ
+                        טעאם ופי מכאנהא אנקלב מתׄל נאר דׄאת מאכול ומאדה̈: דׄכר אן פי בלד אלפרס הדׄא
+                        משאהד ודׄלך אן תם בלד כתׄיר אלכׄיר חסן אלכׄצב פיה מכאן נאר מתׄל אלאתון
+                        אלעטׄים ישתעל ליל ונהאר לא ינטפי בתה ולא יקדר אחד יקרב מנה מן טריק פרסךׄ
+                        (בכתב היד: מן פרסךׄ טריק): וכדׄלך קיל אן פי אלגרב מוצׄע יסמא אלחאויה̈ והו
+                        בהדׄא אלוצף. וקיל אן מצׄא אליה קום מן אלפלאספה̈ ליקפו עלי סבבה̈ פלם יצלו.
+                        וקיל אן ואחד טרח נפסה פיה פהלך. וקיל אן פי גׄבאל סקליה̈ (=סיציליה) מתׄל דׄלך
+                        והי נאר יצעד מנהא אלדכׄאן אלעטׄים מן גיר מאכול להא, טׄאהרה̈ לא יעלם אלסר
+                        פיהא: פירוש איוב לרבי יהודה אבן בלעם 81א: "ועל גדיש ישקוד" (כא:32): קאל פיה
+                        ר' האיי ז"ל פי אלחאוי אתקביב אלדׄי עלי אלקבר אי ילאזם אלגׄדתׄ. 84ב: "על כן
+                        דברי לעו" (ו:3): כפית כאנהא קד אבתלעת והו פעל משתק מן "ושמת סכין בלועיך"
+                        (משלי כג:2) וקד דׄכרתה מע אצחאבה פימא אשתק מן אסם מע "ואפרוחיו יעלעו דם"
+                        (איוב לט:30; אברמסון, שלשה ספרים, עמ' 169). 88א: "בדי שאול תרדנה" (יז:16)
+                        פסר פיה אלי ערוק אלתרי תנזל ישיר אלי אלפרש אלמדׄכורה̈ ואסתעאר הנא ללתרי
+                        ערוקא וקד קאל שאער אלערב מתׄלה: "אלי ערוק אלתרי נסגׄת ערוקי".</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <ab type="codicological-definition">
                      <objectType rend="vertical-rectangle" style="codex">Single
-                                                  manuscript</objectType>
+                        manuscript</objectType>
                      <listBibl>
                         <bibl>
                            <idno type="manuscript-join">Yevr.-Arab. I 3848</idno>
-                           
                            <ptr target="https://jalit.org/manuscript/284"/>
                         </bibl>
                      </listBibl>
@@ -200,10 +271,135 @@
                      <supportDesc>
                         <support>
                            <material>Paper</material>
-                           <note xml:lang="he">כתב היד כולל שני פירושים לאיוב: פירוש אהרן בן דוד הכהן ופירוש רבי יהודה אבן בלעם. פירוש איוב לאהרן בן דוד הכהן בא בדפים 79-1, 82- 83, 95-92. דפים אלה מצטרפים לכתב יד I: 3848. 18 שורות. חלק מהתוכן חסר בשל קרעים, חלקו מוכתם וחלקו דהה. דף 1ב ריק. בדף 1א יש כתובות בעלות. מימין להן ומעליהן יש ניסויי קולמוס. ב2א יש פרטי החיבור. דפים 2ב-3א לא צולמו, כי אי אפשר היה להפרידם. השלמות ומחיקות של הסופר. מילוי גרפי של שורות. בדפים 24, 34, 48, 75 יש שומרי דפים. בסיום פירוש פרק בא עיגול או שני עיגולים ונקודה במרכזם (23ב, 25ב ועוד; 33ב, 38א ועוד). בסיום פירוש פרק לד באים שלושה עיגולים ללא נקודה במרכזם (66ב). לפני פסוק מב:1 ואחריו בא עיגול ונקודה במרכזו (95ב). לפני המילים הראשונות של פסוק מב:7 ואחריהן בא עיגול ונקודה במרכזו. בגיליונות הדפים 16ב, 38א, 58א כתובה סמ"ך, לציין תחילת סדר חדש. בדפים 38א, 58א היא מקושטת. משמאולהּ באים מספרי הסדרים: ג, ד. בגיליון השמאלי של דף 17א, לצד המילים "ויען איוב" (איוב ו:1), כתובה סמ"ך, ומימין לה א. זו טעות, כי הסדר החדש התחיל באיוב ה:27. זהו סדר ב. בדף 16ב אכן כתובה סמ"ך בגיליון הימני לצד הפסוק הזה. לצד כל פסוק חדש בַפנים כתוב בגיליון "פס'" (פסוק) והמילים הראשונות שלו. בגיליון באות לעיתים גרסות חלופיות (נ"א) למילים בַפנים, כגון  "אלצלחא" (תרגום "נְקִיִּם" [איוב ט:23]; 28א). הגרסה בַפנים: "אלאבריא". הסופר קיצר לעיתים את לשון המילים המקראיות. כמו כן קיצר מילים ערביות, כגון "נט'"/"נט'י'" (74א) (נט'יר), "פסר'"/"פס'" (פסרת), "וקי'"/"וק'" (וקיל), "אלקט'" (אלקטע; 58א), "מת'" (מתל; 67ב). ציטוט ראשי הפסוקים בתרגום. יש מהם הכתובים בכתיבה מזרחית מרובעת (דפים 6ב-7ב). חלקם מנוקדים ניקוד טברני. בגדכפת רפות וה"א נחה מסומנות לעיתים בקו קצר מעליהן. כותרות מַעֲנֵי איוב ורעיו כתובות לעיתים בכתיבה מזרחית מרובעת (6א, 13א, 23ב, 33ב, 38א, 46ב, 49א, 53ב, 72ב), לעיתים בכתיבה מזרחית בינונית (66ב, 71ב, 95ב) ולעיתים בשילוב שתי הכתיבות (25ב, 60ב, 61א). רק הכותרת "ויען אליפז התימני ויאמר" (איוב ד:1; 6א) מנוקדת ניקוד טברני. ניקוד טברני של מילים מהפסוקים בפירוש, של מובאות מקראיות וחז"ליות ומילים אחרות. סימון בגדכפת רפות וה"א נחה במילים מקראיות ובמילים אחרות. חילופי פתח-סגול: "הֵן אַצְעָק" (איוב יט:7: "אֶצְעַק"; 45א); "אֶל יֵרֶא" (איוב כ:17: "אַל יֵרֶא"; 59ב). ניקוד טברני של מילים ערביות. תיעתוק של האות צ'א"ד ט': "ויט'בט" (ויצ'בט; 58א). ניקוד ערבי ספורדי.
-המחבר תרגם את כל הפסוקים. פירש את חלקם. הביא תרגומים ופירושים אנונימיים רבים. השתמש במילה קול ובקיצור קו', לציין את כוונת דברי הפסוק, כגון "'את מי הגדת' (איוב כו:4): מע מן אכׄברת כלאם ונסמה̈ מן כׄרגׄת מנך: פקו' (פקולה=פירושו) מע מן חצׄרת מן אלעלמא אכׄברת ענהם כלאם עלם ועלום משבהה̈ בנסמה̈ אלאחיא אלי מן מן אלתלאמידׄ כׄרגׄת מנך אליה: ואן כנת תערף טרף מן עגׄיב אפעאל אללה אלדׄי אשגלת אלזמאן באיראדהא פמא אנת לאעלם מני בה פאסמע איראדי פיה:" (13ב). לעיתים השתמש בלשון "פקו' מנכתא" (37ב, 38ב). ענייני הלשון רבים בפירושו. המינוח הלשוני שלו: "ה' תמוה" (ה"א השאלה; 6א, 95א); "אצל" (=שורש המילה; 40ב, 47א, 50ב); "צׄמיר אלגׄמאעה̈" (=כינוי הנוכחים; 60); "אלכתׄרה̈" (=הרבים; 8א); "כלמה̈ פרדיה̈" (=מילה יחידאית; 19ב, 52ב, 95ב); "כלמה̈ גריבה̈" (=מילה נדירה; 28ב); "פצאחה" (=צחות לשון; 39ב); "סמוך"/"מכרת" (40ב); "אבדאל" (=חילוף אותיות; 19ב); "תקלב אלחרוף" (=שׂיכול אותיות; 45א, 52ב); "טפל" (אות לא שורשית; 46ב, 52ב, 67ב); "תלחין" (הטעמה; 53א); "תפכים" (=פיאור מילה; 61א); "דגש"/"רפֵי" (49ב, 78א). "עלי מסמועה̈" (=כמשמעו בערבית; 52ב). "בי מרכבה" (=בי"ת מצורפת, מילית יחס; 40ב). פירוש מילים בחילוף אותיות של הצירופים אלב"ם גנד"ס העו"ף זצח"ק (14א; 95ב; "שחץ" [כח:8; מא:26]=שקץ); אח"ס בט"ע גי"ף דכ"ץ (19ב; "נצמתו" [ו:17]=נכרתו); א"ת ב"ש ח"ס (42ב; "יסלף" [יב:19]=יחלף);  במקומות שיש כתיב וקרי פירש הן לפי הכתיב והן לפי הקרי: "'יִתְרִי' (איוב ל:11) מכתוב בואו ("יִתְרִו") פתקול ותרי אלדׄי כאן ותרה חל פקו' עלי הדׄא אלתפסיר ותרי אלדׄי הו רבאט דולתי אלדׄי כאן ותרה ומן גׄהתי חל מני פאשקאני בזואלה̈ פענד דׄאך גׄסרו אעדאיי אן טרחו מן קדאמי רסן אלשרך פאוהקני בכלאמהם. ואן פסרתה עלי אלקראה̈ פקו' ותרי אלדׄי הו רבאט דולתי חל מני פאשקאני בזואלה̈ ולולא דׄאך למא גׄסרו האולי אן ילקו קדאמי רסן שבאבהם לאקלו פיהא" (68א); "יכתב 'מאום' (איוב לא:7) ויקרא מוּם ותפסיר 'מאום' שי ותפסיר מום עיב פפסרתה עלי אלגׄמיע פקלת שי מן עיב" (69ב). בנוסח המקרא שלנו איכא "מאום" בלבד! "'לא אחריש' (איוב מא:4): לה לא אמסך מן וצף דהוקה ואסבאב אלגׄברואת וחטׄ מקדארה̈. קלת לה לא אמסך לאנה קרי לֹא מן דאכׄל ולֹו מן ברא פפסרתה עלי אלגׄמיע" (92ב). בפירוש יח:13 דיבר על ההבדל במסורת הקריאה של המילה "בְּכוֹר" (יח:13) בין אנשי בבל לאנשי ארץ ישראל: "אהל אלעראק יקרון 'בכֻור מות'. ואלמעני עלי קראה̈ אלשאמי אצח" (36ב); בפירוש כב:21 כתב שאנשי בבל קוראים "תְבוּאָתְךָ" ולא "תְּבוֹאַתְךָ" (כב:21): "ואן פסרת 'בהם תְּבוֹאַתְךָ טובה' פבהם תכון גלתך גׄידה̈ פהו עלי קראה̈ אלעראקי לאנה יקרא 'תְבוּאָתְךָ טובה'" (73א); בפירוש ו:21 כתב: "ויק' (ויקאל) אן אלאן צרתם לא אצדקא בל אעדא פארגׄו אן תנטׄרו דער מתלי ותפזעון כפזעי לאן אהל אלשאם יכתבו 'תִראו' (ו:21) בלא יוד פפסר דעא" (20א). ביאר מילים שונות לפי דברי חז"ל: "'פרחח' (איוב ל:12) טיור מן תרגום צפור ומן קולהם 'מפריחי יונים' (עדיות ב ז) מטירי אלחמאם" (68א); "'עָגְמָה' (איוב ל:25) מן קול אלאואיל 'עגומה' (ברכות נה ע"ב), עגומים" (11ב); "קנצין פי לגה̈ אלמשנה̈ חג'ג'. 'קִנְצֵי' (איוב יח:2) מצׄאף, חג'ג' אלכלאם" (61א). השתמש במילה פשט בהוראת תַרגום: "'ירזמון' (איוב טו:12) מא להא נטׄיר. וקד פסרת תפאסיר קד מצׄא אחדהא פי אלפשאט" (50ב; המחבר תרגמהּ "ירמקון" [=יסתכלו]). בחמישה מקומות הביא את דברי "אלמפסר" (=המתרגם). בשלושה מהם חלק עליו (דפים 32א, 53א, 76ב). "אלמפסר" הוא דוד אלפסי, מחבר המילון "כתאב גׄאמע אלאלפאטׄ". אהרן בן דוד הכהן עיבד את מילונו של דוד אלפסי. כינה את המחבר "אלמפסר". שרידים מהעיבוד הזה נשתמרו בכתבי היד I: 1460, 1461, 1972, 2605. סקוס, גׄאמע, א, עמ' xxxv, הזכיר את כתבי היד I: 1460-1461. ציין שהמחבר הזכיר בין השאר גם את "אבו סלימאן אלפאסי". הוא לא דן שם בכינוי "אלמפסר". בכתב יד I: 1460, דף 4ב, כתוב: "אלגׄזו אלאול מן כתאב אלגׄאמע והו גׄז אלף: אלאלף הו אלחרף אלאול מן אלאחרף אלכאדמה ללאלפאטׄ אלדׄי קדמנא דׄכרהא: אנא ארי אן אעיד שרח מא כנת דׄכרתה ען אלמפסר (דוד אלפסי) פי אלמדכׄל ההנא. קאל...". "אלמפסר" הוא הכינוי השכיח לדוד אלפסי בעיבוד "גׄאמע אלאלפאטׄ" לאהרן בן דוד הכהן. כינהו גם "אבו סלימאן אלפאסי" (כתב יד I: 1460, דף 8). חלק מהאישים הנזכרים בדף 2ב בכתב היד הנידון כאן נזכרים גם בעיבוד ל"גׄאמע אלאלפטׄ": יהודה בן קריש, אלמעלם אבו סעיד לוי (לוי בן יפת). אהרן בן דוד הכהן הזכיר את קיצורו ל"גׄאמע אלאלפאטׄ": קאל אלמכׄתצר להדׄא אלכתאב פי מכׄתצרה" (=אמר מקצר הספר הזה בקיצורו; כתב יד I: 1460, דף 50א), אלפיומי (רבי סעדיה גאון; כתב יד I: 1460, דף 62ב), אבן נוח (כתב יד I: 2605, דף 3א). בנוסף לאלה נזכרו גם בנימין אלנהאונדי (כתב יד I: 1460, דף 67ב), אלמעלם אבו אלליתׄ (כתב יד I: 1460, דף 79ב), אלמעלם אבו עלי (יפת בן עלי; כתב יד I: 2605, דף 3א), יהודה בן עלאן אלטבראני (כתב יד I: 2605, דף 1ב), אלשיךׄ‎ אבו אלפרגׄ הרון. פעמים הרבה הביא אהרן בן דוד הכהן את דברי "גיר צאחב אלכתאב" (=מי שאינו בעל הספר [כינויו של דוד אלפסי, בעל "גׄאמע אלאלפאטׄ"]). בכתב יד I: 2605, דף 5ב, , שורה ראשונה, כתוב "קאל גיר אלמפסר". בגיליון הימני באה ההערה הבאה: "והו אלשיךׄ אבו אלפרגׄ הרון בן אלפרגׄ רצׄי אללה ענה". אהרן בן דוד הכהן כינה את עצמו "אלנאסך" (=המעתיק; "קאל אלנאסך להדׄא אלכתאב"; כתב ידI: 1460 , דף 33א). בכתב היד הנידון כאן, דף 32א, השיג אהרן בן דוד הכהן על תרגום דוד אלפסי ("אלמפסר") לאיוב י:13: "'ואלה צפנת' והאולי דׄכרת פי קלבך עלמת אן הדׄה מעך: סהא אלמפסר פי תפסיר 'ואלה' לאן אדׄא כאן מקול פי אלנאס יפסר האולי ופי סואהם יפסר הדׄה. פקו' (פירושו) והדׄה אלמחן כזנתהא פי חכמתך וקד עלמת אן מתׄל הדׄה אלאפעאל גׄאיזה̈ ענדך". כיוצא בו בא בעיבודו ל"גׄאמע אלאלפאטׄ", כתב יד I: 2605, דף 8ב. בַפנים בא תרגומו של אלפסי לקהלת יא:9: "ואעלם אן עלי כל האולי אלאמור יגׄיבך אלאלאה ללחכם" (התרגום הזה אינו בגׄאמע אלאלפאטׄ, מהדורת סולומון סקוס, א, עמ' 395, שורש ד"ע. אפשר שבא בנוסח הארוך של החיבור). בגיליון הימני כתב אהרן בן דוד הכהן: "יגׄב אן יכון הדׄה אלאמור ולכן דׄלך מן עאדה̈ אלמפסר (דוד אלפסי) והו גלט לאן האולי לא יקע אלא עלי אלעקלא מתׄל 'אלה האנשים' (יחזקאל יא:2) פתקול האולי: 'אלה המשפטים' (שמות כא:1) פתקול הדׄה אלאחכאם: 'אלה הדברים' (דברים א:1) מתׄלה". בכתב היד הנידון כאן, דף 37ב, כתוב "פקול עבארה̈ הדׄה אלתׄלתׄה̈ פואסיק מנכתה"; ובדף 38ב: "פקו' מנכתא". כיוצא בו בא בעיבוד אהרן בן דוד הכהן ל"גׄאמע אלאלפאטׄ": "תפסיר עבארה̈ אלפסוק מנכת" (כתב יד I: 1460, דף 77א); "עברת הדׄה אלארבע פואסיק מנכתה" (כתב יד I: 2605, דף 3א).
-דברי "אלמפסר", שהביא אהרן בן דוד הכהן בארבעה מחמשת המקומות הנזכרים לעיל, אינם בגׄאמע אלאלפאטׄ, מהדורת סולומון סקוס. נראה שמקורם בנוסח הארוך של החיבור. תרגום אלפסי לאיוב טו:31 בדף 53א מתאים חלקית לבא בגׄאמע אלאלפאטׄ, ב, שורש ש"ו, עמודים 656-655. הנוסח בדף 53א: "לא יתק פי אלזור אנצׄל אן אדׄ תכון תבדילה". הנוסח בגׄאמע אלאלפאטׄ: "לא יתבתׄ פי אלזור אלצׄאל...לאן אלזור תכון בדילתה".
-פירוש איוב לרבי יהודה אבן בלעם בא בדפים 81-80, 91-84. דפים אלה מצטרפים לכתב יד I: 2425. 18-17 שורות. חלק מהתוכן מוכתם. מעט ממנו דהה. בדף 81 יש קפלים. השלמות ומחיקות של הסופר. מילוי גרפי של שורות. בגיליונות הדפים 81ב, 84ב, 86א, 91ב כתובה סמ"ך, להורות על תחילת סדר חדש. היא מקושטת. המילים המבוארות כתובות לרוב בכתיבה מזרחית מרובעת. לעיתים הן כתובות בשילוב של כתיבה מזרחית מרובעת ובינונית. מקצתן מנוקדות ניקוד טברני.</note>
+                           <note xml:lang="he">כתב היד כולל שני פירושים לאיוב: פירוש אהרן בן דוד
+                              הכהן ופירוש רבי יהודה אבן בלעם. פירוש איוב לאהרן בן דוד הכהן בא בדפים
+                              79-1, 82- 83, 95-92. דפים אלה מצטרפים לכתב יד I: 3848. 18 שורות. חלק
+                              מהתוכן חסר בשל קרעים, חלקו מוכתם וחלקו דהה. דף 1ב ריק. בדף 1א יש
+                              כתובות בעלות. מימין להן ומעליהן יש ניסויי קולמוס. ב2א יש פרטי החיבור.
+                              דפים 2ב-3א לא צולמו, כי אי אפשר היה להפרידם. השלמות ומחיקות של הסופר.
+                              מילוי גרפי של שורות. בדפים 24, 34, 48, 75 יש שומרי דפים. בסיום פירוש
+                              פרק בא עיגול או שני עיגולים ונקודה במרכזם (23ב, 25ב ועוד; 33ב, 38א
+                              ועוד). בסיום פירוש פרק לד באים שלושה עיגולים ללא נקודה במרכזם (66ב).
+                              לפני פסוק מב:1 ואחריו בא עיגול ונקודה במרכזו (95ב). לפני המילים
+                              הראשונות של פסוק מב:7 ואחריהן בא עיגול ונקודה במרכזו. בגיליונות הדפים
+                              16ב, 38א, 58א כתובה סמ"ך, לציין תחילת סדר חדש. בדפים 38א, 58א היא
+                              מקושטת. משמאולהּ באים מספרי הסדרים: ג, ד. בגיליון השמאלי של דף 17א,
+                              לצד המילים "ויען איוב" (איוב ו:1), כתובה סמ"ך, ומימין לה א. זו טעות,
+                              כי הסדר החדש התחיל באיוב ה:27. זהו סדר ב. בדף 16ב אכן כתובה סמ"ך
+                              בגיליון הימני לצד הפסוק הזה. לצד כל פסוק חדש בַפנים כתוב בגיליון "פס'"
+                              (פסוק) והמילים הראשונות שלו. בגיליון באות לעיתים גרסות חלופיות (נ"א)
+                              למילים בַפנים, כגון "אלצלחא" (תרגום "נְקִיִּם" [איוב ט:23]; 28א).
+                              הגרסה בַפנים: "אלאבריא". הסופר קיצר לעיתים את לשון המילים המקראיות.
+                              כמו כן קיצר מילים ערביות, כגון "נט'"/"נט'י'" (74א) (נט'יר),
+                              "פסר'"/"פס'" (פסרת), "וקי'"/"וק'" (וקיל), "אלקט'" (אלקטע; 58א), "מת'"
+                              (מתל; 67ב). ציטוט ראשי הפסוקים בתרגום. יש מהם הכתובים בכתיבה מזרחית
+                              מרובעת (דפים 6ב-7ב). חלקם מנוקדים ניקוד טברני. בגדכפת רפות וה"א נחה
+                              מסומנות לעיתים בקו קצר מעליהן. כותרות מַעֲנֵי איוב ורעיו כתובות לעיתים
+                              בכתיבה מזרחית מרובעת (6א, 13א, 23ב, 33ב, 38א, 46ב, 49א, 53ב, 72ב),
+                              לעיתים בכתיבה מזרחית בינונית (66ב, 71ב, 95ב) ולעיתים בשילוב שתי
+                              הכתיבות (25ב, 60ב, 61א). רק הכותרת "ויען אליפז התימני ויאמר" (איוב
+                              ד:1; 6א) מנוקדת ניקוד טברני. ניקוד טברני של מילים מהפסוקים בפירוש, של
+                              מובאות מקראיות וחז"ליות ומילים אחרות. סימון בגדכפת רפות וה"א נחה
+                              במילים מקראיות ובמילים אחרות. חילופי פתח-סגול: "הֵן אַצְעָק" (איוב
+                              יט:7: "אֶצְעַק"; 45א); "אֶל יֵרֶא" (איוב כ:17: "אַל יֵרֶא"; 59ב).
+                              ניקוד טברני של מילים ערביות. תיעתוק של האות צ'א"ד ט': "ויט'בט"
+                              (ויצ'בט; 58א). ניקוד ערבי ספורדי. המחבר תרגם את כל הפסוקים. פירש את
+                              חלקם. הביא תרגומים ופירושים אנונימיים רבים. השתמש במילה קול ובקיצור
+                              קו', לציין את כוונת דברי הפסוק, כגון "'את מי הגדת' (איוב כו:4): מע מן
+                              אכׄברת כלאם ונסמה̈ מן כׄרגׄת מנך: פקו' (פקולה=פירושו) מע מן חצׄרת מן
+                              אלעלמא אכׄברת ענהם כלאם עלם ועלום משבהה̈ בנסמה̈ אלאחיא אלי מן מן
+                              אלתלאמידׄ כׄרגׄת מנך אליה: ואן כנת תערף טרף מן עגׄיב אפעאל אללה אלדׄי
+                              אשגלת אלזמאן באיראדהא פמא אנת לאעלם מני בה פאסמע איראדי פיה:" (13ב).
+                              לעיתים השתמש בלשון "פקו' מנכתא" (37ב, 38ב). ענייני הלשון רבים בפירושו.
+                              המינוח הלשוני שלו: "ה' תמוה" (ה"א השאלה; 6א, 95א); "אצל" (=שורש המילה;
+                              40ב, 47א, 50ב); "צׄמיר אלגׄמאעה̈" (=כינוי הנוכחים; 60); "אלכתׄרה̈"
+                              (=הרבים; 8א); "כלמה̈ פרדיה̈" (=מילה יחידאית; 19ב, 52ב, 95ב); "כלמה̈
+                              גריבה̈" (=מילה נדירה; 28ב); "פצאחה" (=צחות לשון; 39ב); "סמוך"/"מכרת"
+                              (40ב); "אבדאל" (=חילוף אותיות; 19ב); "תקלב אלחרוף" (=שׂיכול אותיות;
+                              45א, 52ב); "טפל" (אות לא שורשית; 46ב, 52ב, 67ב); "תלחין" (הטעמה; 53א);
+                              "תפכים" (=פיאור מילה; 61א); "דגש"/"רפֵי" (49ב, 78א). "עלי מסמועה̈"
+                              (=כמשמעו בערבית; 52ב). "בי מרכבה" (=בי"ת מצורפת, מילית יחס; 40ב).
+                              פירוש מילים בחילוף אותיות של הצירופים אלב"ם גנד"ס העו"ף זצח"ק (14א;
+                              95ב; "שחץ" [כח:8; מא:26]=שקץ); אח"ס בט"ע גי"ף דכ"ץ (19ב; "נצמתו"
+                              [ו:17]=נכרתו); א"ת ב"ש ח"ס (42ב; "יסלף" [יב:19]=יחלף); במקומות שיש
+                              כתיב וקרי פירש הן לפי הכתיב והן לפי הקרי: "'יִתְרִי' (איוב ל:11) מכתוב
+                              בואו ("יִתְרִו") פתקול ותרי אלדׄי כאן ותרה חל פקו' עלי הדׄא אלתפסיר
+                              ותרי אלדׄי הו רבאט דולתי אלדׄי כאן ותרה ומן גׄהתי חל מני פאשקאני
+                              בזואלה̈ פענד דׄאך גׄסרו אעדאיי אן טרחו מן קדאמי רסן אלשרך פאוהקני
+                              בכלאמהם. ואן פסרתה עלי אלקראה̈ פקו' ותרי אלדׄי הו רבאט דולתי חל מני
+                              פאשקאני בזואלה̈ ולולא דׄאך למא גׄסרו האולי אן ילקו קדאמי רסן שבאבהם
+                              לאקלו פיהא" (68א); "יכתב 'מאום' (איוב לא:7) ויקרא מוּם ותפסיר 'מאום'
+                              שי ותפסיר מום עיב פפסרתה עלי אלגׄמיע פקלת שי מן עיב" (69ב). בנוסח
+                              המקרא שלנו איכא "מאום" בלבד! "'לא אחריש' (איוב מא:4): לה לא אמסך מן
+                              וצף דהוקה ואסבאב אלגׄברואת וחטׄ מקדארה̈. קלת לה לא אמסך לאנה קרי לֹא
+                              מן דאכׄל ולֹו מן ברא פפסרתה עלי אלגׄמיע" (92ב). בפירוש יח:13 דיבר על
+                              ההבדל במסורת הקריאה של המילה "בְּכוֹר" (יח:13) בין אנשי בבל לאנשי ארץ
+                              ישראל: "אהל אלעראק יקרון 'בכֻור מות'. ואלמעני עלי קראה̈ אלשאמי אצח"
+                              (36ב); בפירוש כב:21 כתב שאנשי בבל קוראים "תְבוּאָתְךָ" ולא
+                              "תְּבוֹאַתְךָ" (כב:21): "ואן פסרת 'בהם תְּבוֹאַתְךָ טובה' פבהם תכון
+                              גלתך גׄידה̈ פהו עלי קראה̈ אלעראקי לאנה יקרא 'תְבוּאָתְךָ טובה'" (73א);
+                              בפירוש ו:21 כתב: "ויק' (ויקאל) אן אלאן צרתם לא אצדקא בל אעדא פארגׄו אן
+                              תנטׄרו דער מתלי ותפזעון כפזעי לאן אהל אלשאם יכתבו 'תִראו' (ו:21) בלא
+                              יוד פפסר דעא" (20א). ביאר מילים שונות לפי דברי חז"ל: "'פרחח' (איוב
+                              ל:12) טיור מן תרגום צפור ומן קולהם 'מפריחי יונים' (עדיות ב ז) מטירי
+                              אלחמאם" (68א); "'עָגְמָה' (איוב ל:25) מן קול אלאואיל 'עגומה' (ברכות נה
+                              ע"ב), עגומים" (11ב); "קנצין פי לגה̈ אלמשנה̈ חג'ג'. 'קִנְצֵי' (איוב
+                              יח:2) מצׄאף, חג'ג' אלכלאם" (61א). השתמש במילה פשט בהוראת תַרגום:
+                              "'ירזמון' (איוב טו:12) מא להא נטׄיר. וקד פסרת תפאסיר קד מצׄא אחדהא פי
+                              אלפשאט" (50ב; המחבר תרגמהּ "ירמקון" [=יסתכלו]). בחמישה מקומות הביא את
+                              דברי "אלמפסר" (=המתרגם). בשלושה מהם חלק עליו (דפים 32א, 53א, 76ב).
+                              "אלמפסר" הוא דוד אלפסי, מחבר המילון "כתאב גׄאמע אלאלפאטׄ". אהרן בן דוד
+                              הכהן עיבד את מילונו של דוד אלפסי. כינה את המחבר "אלמפסר". שרידים
+                              מהעיבוד הזה נשתמרו בכתבי היד I: 1460, 1461, 1972, 2605. סקוס, גׄאמע,
+                              א, עמ' xxxv, הזכיר את כתבי היד I: 1460-1461. ציין שהמחבר הזכיר בין
+                              השאר גם את "אבו סלימאן אלפאסי". הוא לא דן שם בכינוי "אלמפסר". בכתב יד
+                              I: 1460, דף 4ב, כתוב: "אלגׄזו אלאול מן כתאב אלגׄאמע והו גׄז אלף: אלאלף
+                              הו אלחרף אלאול מן אלאחרף אלכאדמה ללאלפאטׄ אלדׄי קדמנא דׄכרהא: אנא ארי
+                              אן אעיד שרח מא כנת דׄכרתה ען אלמפסר (דוד אלפסי) פי אלמדכׄל ההנא.
+                              קאל...". "אלמפסר" הוא הכינוי השכיח לדוד אלפסי בעיבוד "גׄאמע אלאלפאטׄ"
+                              לאהרן בן דוד הכהן. כינהו גם "אבו סלימאן אלפאסי" (כתב יד I: 1460, דף
+                              8). חלק מהאישים הנזכרים בדף 2ב בכתב היד הנידון כאן נזכרים גם בעיבוד
+                              ל"גׄאמע אלאלפטׄ": יהודה בן קריש, אלמעלם אבו סעיד לוי (לוי בן יפת).
+                              אהרן בן דוד הכהן הזכיר את קיצורו ל"גׄאמע אלאלפאטׄ": קאל אלמכׄתצר להדׄא
+                              אלכתאב פי מכׄתצרה" (=אמר מקצר הספר הזה בקיצורו; כתב יד I: 1460, דף
+                              50א), אלפיומי (רבי סעדיה גאון; כתב יד I: 1460, דף 62ב), אבן נוח (כתב
+                              יד I: 2605, דף 3א). בנוסף לאלה נזכרו גם בנימין אלנהאונדי (כתב יד I:
+                              1460, דף 67ב), אלמעלם אבו אלליתׄ (כתב יד I: 1460, דף 79ב), אלמעלם אבו
+                              עלי (יפת בן עלי; כתב יד I: 2605, דף 3א), יהודה בן עלאן אלטבראני (כתב
+                              יד I: 2605, דף 1ב), אלשיךׄ‎ אבו אלפרגׄ הרון. פעמים הרבה הביא אהרן בן
+                              דוד הכהן את דברי "גיר צאחב אלכתאב" (=מי שאינו בעל הספר [כינויו של דוד
+                              אלפסי, בעל "גׄאמע אלאלפאטׄ"]). בכתב יד I: 2605, דף 5ב, , שורה ראשונה,
+                              כתוב "קאל גיר אלמפסר". בגיליון הימני באה ההערה הבאה: "והו אלשיךׄ אבו
+                              אלפרגׄ הרון בן אלפרגׄ רצׄי אללה ענה". אהרן בן דוד הכהן כינה את עצמו
+                              "אלנאסך" (=המעתיק; "קאל אלנאסך להדׄא אלכתאב"; כתב ידI: 1460 , דף 33א).
+                              בכתב היד הנידון כאן, דף 32א, השיג אהרן בן דוד הכהן על תרגום דוד אלפסי
+                              ("אלמפסר") לאיוב י:13: "'ואלה צפנת' והאולי דׄכרת פי קלבך עלמת אן הדׄה
+                              מעך: סהא אלמפסר פי תפסיר 'ואלה' לאן אדׄא כאן מקול פי אלנאס יפסר האולי
+                              ופי סואהם יפסר הדׄה. פקו' (פירושו) והדׄה אלמחן כזנתהא פי חכמתך וקד
+                              עלמת אן מתׄל הדׄה אלאפעאל גׄאיזה̈ ענדך". כיוצא בו בא בעיבודו ל"גׄאמע
+                              אלאלפאטׄ", כתב יד I: 2605, דף 8ב. בַפנים בא תרגומו של אלפסי לקהלת
+                              יא:9: "ואעלם אן עלי כל האולי אלאמור יגׄיבך אלאלאה ללחכם" (התרגום הזה
+                              אינו בגׄאמע אלאלפאטׄ, מהדורת סולומון סקוס, א, עמ' 395, שורש ד"ע. אפשר
+                              שבא בנוסח הארוך של החיבור). בגיליון הימני כתב אהרן בן דוד הכהן: "יגׄב
+                              אן יכון הדׄה אלאמור ולכן דׄלך מן עאדה̈ אלמפסר (דוד אלפסי) והו גלט לאן
+                              האולי לא יקע אלא עלי אלעקלא מתׄל 'אלה האנשים' (יחזקאל יא:2) פתקול
+                              האולי: 'אלה המשפטים' (שמות כא:1) פתקול הדׄה אלאחכאם: 'אלה הדברים'
+                              (דברים א:1) מתׄלה". בכתב היד הנידון כאן, דף 37ב, כתוב "פקול עבארה̈
+                              הדׄה אלתׄלתׄה̈ פואסיק מנכתה"; ובדף 38ב: "פקו' מנכתא". כיוצא בו בא
+                              בעיבוד אהרן בן דוד הכהן ל"גׄאמע אלאלפאטׄ": "תפסיר עבארה̈ אלפסוק מנכת"
+                              (כתב יד I: 1460, דף 77א); "עברת הדׄה אלארבע פואסיק מנכתה" (כתב יד I:
+                              2605, דף 3א). דברי "אלמפסר", שהביא אהרן בן דוד הכהן בארבעה מחמשת
+                              המקומות הנזכרים לעיל, אינם בגׄאמע אלאלפאטׄ, מהדורת סולומון סקוס. נראה
+                              שמקורם בנוסח הארוך של החיבור. תרגום אלפסי לאיוב טו:31 בדף 53א מתאים
+                              חלקית לבא בגׄאמע אלאלפאטׄ, ב, שורש ש"ו, עמודים 656-655. הנוסח בדף 53א:
+                              "לא יתק פי אלזור אנצׄל אן אדׄ תכון תבדילה". הנוסח בגׄאמע אלאלפאטׄ: "לא
+                              יתבתׄ פי אלזור אלצׄאל...לאן אלזור תכון בדילתה". פירוש איוב לרבי יהודה
+                              אבן בלעם בא בדפים 81-80, 91-84. דפים אלה מצטרפים לכתב יד I: 2425.
+                              18-17 שורות. חלק מהתוכן מוכתם. מעט ממנו דהה. בדף 81 יש קפלים. השלמות
+                              ומחיקות של הסופר. מילוי גרפי של שורות. בגיליונות הדפים 81ב, 84ב, 86א,
+                              91ב כתובה סמ"ך, להורות על תחילת סדר חדש. היא מקושטת. המילים המבוארות
+                              כתובות לרוב בכתיבה מזרחית מרובעת. לעיתים הן כתובות בשילוב של כתיבה
+                              מזרחית מרובעת ובינונית. מקצתן מנוקדות ניקוד טברני.</note>
                         </support>
                         <extent>
                            <measure unit="folio">95</measure>
@@ -212,7 +408,7 @@
                               <width unit="mm"/>
                            </dimensions>
                         </extent>
-                        <foliation style="" rendition=""/>
+                        <foliation rendition="" style=""/>
                         <collation>
                            <formula/>
                            <unit/>
@@ -221,7 +417,7 @@
                         </collation>
                         <condition>
                            <note xml:lang=""/>
-                           <ab type="writing" rend=""/>
+                           <ab rend="" type="writing"/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -229,7 +425,7 @@
                            <desc/>
                            <note xml:lang=""/>
                         </summary>
-                        <layout writtenLines="" columns="" xml:id="layout-1111">
+                        <layout columns="" writtenLines="" xml:id="layout-1111">
                            <locus from="" to=""/>
                            <dimensions type="written">
                               <height unit="mm"/>
@@ -253,8 +449,8 @@
                      </handNote>
                   </handDesc>
                   <scriptDesc>
-                     <scriptNote xml:lang="" script="" rend="" style="">
-                        <note xml:lang="he">מזרחית בינונית </note>
+                     <scriptNote rend="" script="" style="" xml:lang="">
+                        <note xml:lang="he">מזרחית בינונית </note>
                      </scriptNote>
                   </scriptDesc>
                   <decoDesc>
@@ -271,8 +467,9 @@
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
                            <quote xml:lang=""/>
-                           <note xml:lang="he">כתובות בעלים: "אנתקל אלמלך אלי (ליתא בכתב היד) שלמה בן ר' ישראל בן ר' מימון המערבי נ"ע מן ורתה ר' יצחק בן ר' ישועה מן יד אכיה אלשיך אלספ... נט'" (1א).
-        </note>
+                           <note xml:lang="he">כתובות בעלים: "אנתקל אלמלך אלי (ליתא בכתב היד) שלמה
+                              בן ר' ישראל בן ר' מימון המערבי נ"ע מן ורתה ר' יצחק בן ר' ישועה מן יד
+                              אכיה אלשיך אלספ... נט'" (1א). </note>
                         </item>
                      </list>
                   </additions>
@@ -326,53 +523,82 @@
                      <persName ref="" role=""/>
                      <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang="en">The manuscripts of
-                        the First Firkovitch Collection (now known as RNL Yevr. I) were collected by
-                        Abraham ben Samuel Firkovitch (1787–1874) on the Crimean Peninsula, in the
-                        Caucasus, and during his first trip to the Near East in 1830. This
-                        collection contains 830 manuscripts, 277 of them (numbers 554–830) being
-                        Qaraite. Even though this collection is basically a Hebrew one, it does
-                        contain 75 Arabic manuscripts, mostly containing Qaraite works (many of them
-                        biblical commentaries by Yefet ben ʿEli and Salmon b. Yeruḥim). (David
-                        Sklare, “A Guide to Collections of Karaite Manuscripts,” in Karaite Judaism:
-                        A Guide to its History and Literary Sources, edited by Meira Polliack
-                        (Leiden: Brill, 2003), pp. 893–924 [p. 907].) Most of these 75 Arabic
-                        manuscripts were acquired in 1830, probably by the agency of David ben
-                        Avraham ha-Levi (in Jerusalem), brother of Moshe ben Avraham ha-Levi
-                        (1810–1905, Qaraite chief rabbi in Cairo). (See Zeev Elkin and Menahem
-                        Ben-Sasson, “Abraham Firkovitch and the Cairo Genizas in the Light of his
-                        Personal Archive” [Hebrew], Peʿamim 90 (2002): pp. 51–95 [p. 65, n. 48].)
-                        The First Firkovitch Collection was sold to the Imperial Public Library of
-                        the Russian Empire in 1862 for 100,000 silver roubles. The Second Firkovitch
-                        Collection was acquired by Abraham ben Samuel Firkovitch (1787–1874) during
-                        his second trip to the Near East between the years 1863 and 1865 and was
-                        sold to the Imperial Public Library of the Russian Empire in 1876. It
-                        consists of more than 15,000 items, including Hebrew, Arabic, Judeo-Arabic,
-                        and Samaritan manuscripts. The majority of the collection appears to have
-                        originated from the Qaraite synagogue in Cairo. The Hebrew manuscripts of
-                        the Second Firkovitch Collection are divided into several separate
-                        collections. RNL Yevr. II A: Contains Hebrew works of law, exegesis, grammar
-                        and philology, theology, documents, etc. This collection contains 2,947
-                        manuscripts. These include 896 bibliographical items (including different
-                        texts found in a single miscellany) which are Qaraite. The manuscripts are
-                        almost entirely of a later date, including many of a Eastern European
-                        provenance containing liturgical texts, piyyutim, and documents. RNL Yevr.
-                        II B: Contains biblical manuscripts written on vellum (1,582 items). RNL
-                        Yevr. II C: Contains biblical manuscripts written on paper (728 items). Most
-                        of them are Hebrew biblical texts, but the collection also contains some
-                        other works, such as RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr
-                        comprising 550 folios, copied at the end of the tenth century or the very
-                        beginning of the eleventh, and RNL Yevr. II C:725, Yefet ben ʿEli's
-                        commentary to Ezekiel. RNL Yevr. II K: Contains 76 ketubbot, mostly, if not
-                        entirely, Qaraite. (Sklare, “Karaite Manuscripts,” p. 907.) The Judeo-Arabic
-                        manuscripts of the Second Firkovitch Collection are divided into two series:
-                        RNL Yevr.-Arab. I (previously known as II Firk. Yevr.-Arab., First Series):
-                        Contains 4,933 items (although only 4,924 are on microfilm at the Institute
-                        for Microfilmed Hebrew Manuscripts). RNL Yevr.-Arab. II (previously known as
-                        II Firk. Yevr.-Arab., New Series): Contains 3,430 items. RNL Arab.-Yevr.:
-                        Contains 382 manuscripts of Jewish texts in Arabic characters. RNL Firk.
-                        Arab.: Contains 656 items of mostly Muslim texts and documents in Arabic
-                        characters. </note>
+                     <note xml:lang="en">
+                        <p>
+                           <em>Yevr. I</em>
+                        </p>
+                        <p>The manuscripts of the <em>First Firkovich Collection</em> (now known as
+                           RNL Yevr. I) were collected by Abraham ben Samuel Firkovich (1787-1874)
+                           on the Crimean Peninsula, in the Caucasus, and during his first trip to
+                           the Near East in 1830. This collection contains 830 manuscripts, 277 of
+                           them (numbers 554-830) being Qaraite. Even though this collection is
+                           basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly
+                           containing Qaraite works (many of them biblical commentaries by Yefet ben
+                           ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of
+                           Karaite Manuscripts”, in <em>Karaite Judaism: A Guide to its History and
+                           Literary Sources</em>, ed. M. Polliack, Leiden: Brill, 2003, 893–924
+                           [907]). Most of these 75 Arabic manuscripts were acquired in 1830,
+                           probably by the agency of David ben Avraham ha-Levi (Jerusalem), brother
+                           of Moshe ben Avraham ha-Levi (1810-1905, Qaraite chief rabbi in Cairo)
+                           (see Zeev Elkin / Menahem Ben-Sasson, “Abraham Firkovich and the Cairo
+                           Genizas in the Light of his Personal Archive” [Hebrew], <em>Peʿamim</em>
+                           90 (2002), 51–95, [65, n. 48]). The First Firkovich Collection was sold
+                           to the Imperial Public Library of the Russian Empire in 1862 for 100,000
+                           silver roubles.</p>
+                        <p>The Second Firkovich collection was acquired by Abraham ben Samuel
+                           Firkovich (1787-1874) during his second trip to the Near East between the
+                           years 1863 and 1865. It consists of more than 15,000 items, including
+                           Hebrew, Arabic, Judaeo-Arabic and Samaritan manuscripts. The majority of
+                           the collection appears to have originated from the Qaraite synagogue in
+                           Cairo. The Hebrew manuscripts of the Second Firkovich Collection were
+                           divided into several separate collections.</p>
+                        <p>
+                           <em>RNL Yevr. II A</em>
+                        </p>
+                        <p>Contains Hebrew works of law, exegesis, grammar and philology, theology,
+                           documents, etc. This collection contains 2,947 manuscripts. These include
+                           896 bibliographical items (including different texts found in a single
+                           miscellany) which are Qaraite. The manuscripts are almost entirely later,
+                           Eastern European ones containing liturgical texts, piyyutim and
+                           documents.</p>
+                        <p>
+                           <em>RNL Yevr. II B</em>
+                        </p>
+                        <p>Contains biblical manuscripts written on vellum (1,582 items).</p>
+                        <p>
+                           <em>RNL Yevr. II C</em>
+                        </p>
+                        <p>Contains biblical manuscripts written on paper (728 items). Most of them
+                           are Hebrew biblical texts, but it also contains some other works, such as
+                           RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios,
+                           copied at the end of the tenth century or the very beginning of the
+                           eleventh, or RNL Yevr. II C:725, Yefet ben ʿEli's commentary to
+                           Ezekiel.</p>
+                        <p>
+                           <em>RNL Yevr. II K</em>
+                        </p>
+                        <p>Contains 76 ketubbot, mostly Qaraite if not all. (Sklare 2003, 907).</p>
+                        <p>The Judeo-Arabic manuscripts of the Second Firkovich Collection are
+                           divided into two series:</p>
+                        <p><em>RNL Yevr.-Arab. I</em> (previously known as II Firk. Yevr.-Arab.,
+                           First Series)</p>
+                        <p>Contains 4,933 items (although only 4,924 are in microfilm at the
+                           IMHM).</p>
+                        <p><em>RNL Yevr.Arab. II</em> (previously known as II Firk. Yevr.-Arab., New
+                           Series)</p>
+                        <p>Contains 3,430 items.</p>
+                        <p>
+                           <em>RNL Arab.-Yevr.</em>
+                        </p>
+                        <p>Contains 382 manuscripts of Jewish texts in Arabic characters.</p>
+                        <p>
+                           <em>RNL Firk. Arab.</em>
+                        </p>
+                        <p>Contains 656 items of mostly Muslim texts and documents in Arabic
+                           characters.</p>
+                        <p><em>The Second Firkovich Collection was sold to the Imperial Public
+                           Library of the Russian Empire in 1876</em>.</p>
+                     </note>
                   </acquisition>
                </history>
                <additional>
@@ -380,16 +606,19 @@
                      <listBibl>
                         <bibl>
                            <title>Digital image online</title>
-                           <publisher>National Library of
-                        Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001555740205171"/>
+                           <publisher>National Library of Israel</publisher>
+                           <ptr
+                              target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001555740205171"
+                           />
                         </bibl>
                      </listBibl>
                   </surrogates>
                   <listBibl>
                      <bibl>
                         <title>Ktiv</title>
-                        <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001555740205171"/>
+                        <ptr
+                           target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001555740205171"
+                        />
                      </bibl>
                      <bibl>
                         <title/>
