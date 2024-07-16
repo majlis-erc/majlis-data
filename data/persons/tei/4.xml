@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Yefet ben ʿElī</title>
+            <title level="a" xml:lang="en">Yefet ben ʿEli</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -54,7 +54,7 @@
          <listPerson>
             <person xml:id="person-4">
                <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
-                  <name>Yefet ben ʿElī</name>
+                  <name>Yefet ben ʿEli</name>
                </persName>
                <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
                   <name>Abū ʿAlī Ḥasan al-Baṣrī</name>
