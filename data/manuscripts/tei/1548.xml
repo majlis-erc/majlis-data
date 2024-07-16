@@ -94,7 +94,7 @@
                         <msItem class="" xml:id="">
                             <locus from="" to=""/>
                             <title cert="" ref="" xml:lang="">קצור פרוש יפת בן עלי לשמות</title>
-                            <author ref="">Yefet ben ʿEli</author>
+                            <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit> <locus from="" to=""/> <quote xml:lang="ar-Hebr"></quote> </incipit>
                             <explicit> <locus from="" to=""/> <quote xml:lang="ar"></quote> </explicit>
