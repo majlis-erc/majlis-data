@@ -279,8 +279,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="en"> <p> p. 4<lb/> N. 2587 (639)<lb/> 1 folio from a commentary on the Book of Job<lb/> Damaged<lb/> I<lb/> corresponds to p. 2<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (en.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -291,8 +291,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="ru"> <p> p. 4<lb/> N. 2587 (639)<lb/> 1 л. изъ коммент. на кн. Jова<lb/> поврежд.<lb/> I<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (ru.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -302,7 +302,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -354,7 +354,7 @@
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>

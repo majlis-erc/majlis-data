@@ -280,8 +280,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="en"> <p> p. 4<lb/> N. 3792 (297)<lb/> From an Arabic translation and commentary of Proverbs<lb/> II<lb/> 5 folios<lb/> p. 5<lb/> N. 3792 (297)<lb/> 5 folios from an Arabic translation and commentary on Proverbs<lb/> Damaged<lb/> I<lb/> corresponds to p. 2<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (en.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -292,8 +292,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="ru"> <p> p. 4<lb/> N. 3792 (297)<lb/> Изъ араб. перев. и коммент. Притчей Соломона<lb/> II<lb/> 5 л.<lb/> p. 5<lb/> N. 3792 (297)<lb/> 5 л. изъ араб. перев. и коммент. на Притчи Соломона<lb/> поврежд.<lb/> I<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (ru.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -303,7 +303,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -350,7 +350,7 @@
                             <bibl>
                                 <title>Paul B. Fenton. A Tentative Handlist of Judeo-Arabic
                                     Manuscripts in the Firkovich Collections.</title>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA/"/>
                             </bibl>
                             <bibl>
@@ -361,7 +361,7 @@
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>

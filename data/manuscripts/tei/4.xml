@@ -282,8 +282,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="en"> <p> p 4<lb/> N. 3833 (304)<lb/> From an Arabic translation of the Book of Job<lb/> II + 56 46 folios<lb/> N. 3833 (304)<lb/> 56 46 folios from an Arabic translation of the Book of Job<lb/> Damaged, written in Arabic script, beginnings of the verses in Hebrew<lb/> corresponds to p. 2<lb/> LG<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (en.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -294,8 +294,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="ru"> <p> p. 4<lb/> N. 3833 (304)<lb/> Изъ араб. перев. Кн. Jова<lb/> II + 56 46 л.<lb/> N. 3833 (304)<lb/> 56 46 л. изъ араб. перев. Кн. Jова<lb/> поврежд., пис. араб. шрифтомъ, начала стиховъ по-еврейски<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (ru.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -305,7 +305,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -357,7 +357,7 @@
                             </bibl>
                             <bibl>
                                 <title> </title>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>

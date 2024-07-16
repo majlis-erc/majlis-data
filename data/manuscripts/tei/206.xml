@@ -288,8 +288,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="en"> <p> p. 4<lb/> N. 3809 (299)<lb/> 70 folios from an Arabic translation and commentary of the Book of Job<lb/> Edge is damaged<lb/> I<lb/> p. 5<lb/> N. 3809 (299)<lb/> From an Arabic translation and commentary of the Book of Job<lb/> II<lb/> 70 folios<lb/> corresponds to p. 2<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (en.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -299,7 +299,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -351,7 +351,7 @@
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>

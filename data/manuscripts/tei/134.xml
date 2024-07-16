@@ -284,8 +284,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="en"> <p> p. 4<lb/> N. 1983 (348)<lb/> 2 folios from a commentary on the Psalter<lb/> (Arabic script)<lb/> I<lb/> p. 5<lb/> N. 1983 (348)<lb/> From a commentary on the Psalter<lb/> II<lb/> 2 folios<lb/> corresponds to p. 2<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (en.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -296,8 +296,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="ru"> <p> p. 4<lb/> N. 1983 (348)<lb/> 2 л. изъ коммент. на Псалтырь<lb/> (араб. шр.)<lb/> I<lb/> p. 5<lb/> N. 1983 (348)<lb/> Изъ коммент. на Псалтырь<lb/> II<lb/> 2 л.<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (ru.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -307,7 +307,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -359,7 +359,7 @@
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>

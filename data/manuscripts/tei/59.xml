@@ -278,8 +278,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="ru"> <p> p. 4<lb/> N. 1429 (55)<lb/> Изъ араб. перевода Псалмовъ<lb/> начала стиховъ напис. евр., а перев. араб. письменами<lb/> 20 л., ч. поврежд.<lb/> I<lb/> p. 5<lb/> N. 1429 (55)<lb/> Изъ араб. перевода Псалмовъ<lb/> II<lb/> 20 л.<lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (ru.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -289,7 +289,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -336,7 +336,7 @@
                             <bibl>
                                 <title>Paul B. Fenton. A Tentative Handlist of Judeo-Arabic
                                     Manuscripts in the Firkovich Collections.</title>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA/"/>
                             </bibl>
                             <bibl>
@@ -347,7 +347,7 @@
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>

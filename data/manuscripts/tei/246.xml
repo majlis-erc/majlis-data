@@ -286,7 +286,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -338,12 +338,12 @@
                             </bibl>
                             <bibl>
                                 <title> </title>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                             <bibl>
                                 <title> </title>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>
