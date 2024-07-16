@@ -282,7 +282,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -329,7 +329,7 @@
                             <bibl>
                                 <title>Paul B. Fenton. A Tentative Handlist of Judeo-Arabic
                                     Manuscripts in the Firkovich Collections.</title>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA/"/>
                             </bibl>
                             <bibl>
@@ -340,7 +340,7 @@
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>

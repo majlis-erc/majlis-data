@@ -292,8 +292,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="en"> <p> p. 4<lb/> N. 201<lb/> [Hebrew]<lb/> 10.V.1899: 166 (one hundred and six) folios [?]<lb/> I<lb/> N. 4632 (201[?])<lb/> 166 folios from the Book of Genesis and Leviticus with Aramaic and Arabic translations<lb/> By Saadia Gaon<lb/> Partly damaged<lb/> II<lb/> p. 5<lb/> N. 4632 (201)<lb/> From the Book of Genesis and Leviticus with Aramaic and Arabic translations (the latter [is] by Saadia Gaon)<lb/> III<lb/> 166 folios<lb/> corresponds to p. 2<lb/> LG<lb/> <lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (en.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -304,8 +304,8 @@
                                     <persName>Avraham Harkavy</persName>
                                     <quote xml:lang="ru"> <p> p. 4<lb/> N. 201<lb/> [Hebrew]<lb/> 10.V.1899: 166 (сто шестьдесятъ шесть) л. [?]<lb/> I<lb/> N. 4632 (201[?])<lb/> 166 л. изъ кн. Бытiя и Левитъ съ арамейскимъ и араб. перев.<lb/> Саадiи Гаона<lb/> ч. поврежд.<lb/> II<lb/> p. 5<lb/> N. 4632 (201)<lb/> Изъ кн. Бытiя и Левитъ съ арам. и араб. переводами<lb/> (послѣд. Саадiи Гаона)<lb/> III<lb/> 166 л.<lb/> LG<lb/> <lb/> </p> </quote>
                                     <bibl>
-                                        <title>Avraham E. Harkavy. Harkavy Cards.</title>
-                                        <citedRange unit="p"/>
+                                        <title>Avraham E. Harkavy. Harkavy Cards (ru.).</title>
+                                        
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB/"/>
                                     </bibl>
                                 </item>
@@ -315,7 +315,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -367,12 +367,12 @@
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>

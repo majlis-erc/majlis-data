@@ -278,7 +278,7 @@
                                     <quote xml:lang="he"> דף א׳ מפי׳ תהלים. / Bundle number: 390 </quote>
                                     <bibl>
                                         <title>Avraham E. Harkavy. Harkavy Inventory.</title>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target="https://jalit.org/bibl/IBUQXI8Q/"/>
                                     </bibl>
                                 </item>
@@ -288,7 +288,7 @@
                                     <quote xml:lang=""/>
                                     <bibl>
                                         <title/>
-                                        <citedRange unit="p"/>
+                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -340,7 +340,7 @@
                             </bibl>
                             <bibl>
                                 <title/>
-                                <citedRange unit="p"/>
+                                
                                 <ptr target=""/>
                             </bibl>
                         </listBibl>
