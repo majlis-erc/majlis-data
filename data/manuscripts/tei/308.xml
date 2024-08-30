@@ -45,7 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-08-30T00:06:23.425Z">work title</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
+            <change who="#rboehm" when="2024-08-30T00:06:23.425Z">work title (ii)</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-17T18:04:56.661Z" who="#rboehm">Yevr.-Arab. I 82</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
@@ -71,10 +71,10 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang="en"><p>Yefet ben ʿEli's Commentary on Numbers 31:35–40</p></summary>
+                        <summary xml:lang="en"><p>Commentary on the Book of Numbers</p></summary>
                         <msItem class="" xml:id="item-11">
                             <locus from="1r" to="1v"/>
-                            <title cert="" ref="" xml:lang="">Commentary on the Book of Numbers containing Numbers 31:35–40</title>
+                            <title cert="" ref="" xml:lang="">Commentary on the Book of Numbers</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
@@ -85,7 +85,7 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar"/>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang=""><p>Containing Numbers 31:35–40.</p></note>
                         </msItem>
                     </msContents>
                     <physDesc>
