@@ -44,7 +44,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-08-30T08:22:18.367Z">work title</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
+            <change who="#rboehm" when="2024-08-30T08:22:18.367Z">work title (ii)</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
             <change when="2022-10-01" who="#lgzella">Transcribed Harkavy heritage data.</change>
@@ -74,12 +74,12 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem class="" xml:id="item-11">
-                            <locus from="" to=""/>
+                            <locus from="1" to="92, 100"/>
                             <title cert="" ref="" xml:lang="">Kitāb al-Istibṣār</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="1" to="92, 100"/>
+                                <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr"/>
                             </incipit>
                             <explicit>
@@ -89,12 +89,12 @@
                             <note xml:lang=""><p>Containing discourse 1 (on circumcision; fols 1–88) and discourse 2 (on Sabbath; fols 89–92, 100).
 <lb/></p></note>
                         </msItem><msItem class="" xml:id="item-12">
-      <locus from="" to=""/>
+      <locus from="93" to="99, 100v"/>
       <title cert="" ref="" xml:lang="">Responsa</title>
       <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
       <textLang mainLang="" otherLangs=""/>
       <incipit>
-         <locus from="93" to="99, 100v"/>
+         <locus from="" to=""/>
          <quote xml:lang=""/>
       </incipit>
       <explicit>
