@@ -44,7 +44,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-08-30T10:20:26.380Z">work title</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
+            <change who="#rboehm" when="2024-08-30T10:20:26.380Z">work title (ii)</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
             <change when="2022-10-01" who="#lgzella">Transcribed Harkavy heritage data.</change>
@@ -70,10 +70,10 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11"><locus from="24" to="33"/><locus from="66" to="90"/>
+                        <msItem class="" xml:id="item-11"><locus from="1" to="19"/><locus from="24" to="33"/><locus from="66" to="90"/>
                             
                             <title cert="" ref="" xml:lang="">Commentary on the Book of Kings</title>
-                            <locus from="1" to="19"/><author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
+                            <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
@@ -83,10 +83,10 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar"/>
                             </explicit>
-                            <note xml:lang=""><p>Containing Commentary on 1 Kings 3-7, 21-22 and 2 Kings 1, 17-21 (acc. to NLI 2 Kings 1:17-21).</p></note>
+                            <note xml:lang=""><p>Containing Commentary on the Book of 1 Kings 3-7, 21-22 and 2 Kings 1, 17-21 (acc. to NLI 2 Kings 1:17-21).</p></note>
                         </msItem><msItem class="" xml:id="item-12"><locus from="20" to="23"/><locus from="34" to="39"/><locus from="42" to="43"/>
       <locus from="49" to="57"/>
-      <title cert="" ref="" xml:lang="">Commentary on Psalms</title>
+      <title cert="" ref="" xml:lang="">Commentary on the Book of Psalms</title>
       <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
       <textLang mainLang="" otherLangs=""/>
       <incipit>
@@ -97,10 +97,10 @@
          <locus from="" to=""/>
          <quote xml:lang=""/>
       </explicit>
-      <note xml:lang=""><p>Containing Commentary on Psalms 5-6, 78-79, 96-99, 100-104.</p></note>
+      <note xml:lang=""><p>Containing Commentary on the Book of Psalms 5-6, 78-79, 96-99, 100-104.</p></note>
    </msItem><msItem class="" xml:id="item-13">
       <locus from="40" to="41"/>
-      <title cert="" ref="" xml:lang="">Abridgement of Yefet b. Eli’s Commentary on Deuteronomy</title>
+      <title cert="" ref="" xml:lang="">Abridgement of Yefet b. Eli’s Commentary on the Book of Deuteronomy</title>
       <author cert="" ref=""/>
       <textLang mainLang="" otherLangs=""/>
       <incipit>
@@ -111,10 +111,10 @@
          <locus from="" to=""/>
          <quote xml:lang=""/>
       </explicit>
-      <note xml:lang=""><p>Containing Abridgement of Yefet b. Eli’s Commentary on Deuteronomy 33.</p></note>
+      <note xml:lang=""><p>Containing Abridgement of Yefet b. Eli’s Commentary on the Book of Deuteronomy 33.</p></note>
    </msItem><msItem class="" xml:id="item-14"><locus from="44" to="48"/>
       <locus from="58" to="65"/>
-      <title cert="" ref="" xml:lang="">Commentary on Leviticus and Deuteronomy</title>
+      <title cert="" ref="" xml:lang="">Commentary on the Books of Leviticus and Deuteronomy</title>
       <author cert="" ref="">anonymous</author>
       <textLang mainLang="" otherLangs=""/>
       <incipit>
@@ -125,7 +125,7 @@
          <locus from="" to=""/>
          <quote xml:lang=""/>
       </explicit>
-      <note xml:lang=""><p>Containing Commentary on Leviticus 13, Deuteronomy 4, 5.</p></note>
+      <note xml:lang=""><p>Containing Commentary on the Books of Leviticus 13, Deuteronomy 4, 5.</p></note>
    </msItem>
                     </msContents>
                     <physDesc>
