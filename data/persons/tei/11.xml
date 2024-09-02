@@ -100,6 +100,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
+            <change when="2024-09-02" who="#mmoliere">Revised heritage data.</change>
             <change when="2024-07-01T16:16:29.726Z" who="#mmoliere">Updated heritage data.</change>
             <change when="2024-05-03T07:37:53.498Z" who="#gschwarb">Reihenfolge der Namenselemente
                 angepasst</change>
@@ -844,28 +845,10 @@
                     <ptr target="https://jalit.org/bibl/KYQS5YIX"/>
                 </bibl>
             </item>
-            <item><persName>Samuel Poznański</persName>
-                <note>
-                    <p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent,
-                        renowned for his research on Karaism and the Hebrew calendar. He was a
-                        pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized
-                        authority on contemporary and historic Qaraism. Additionally, he served as a
-                        rabbi at the Great Synagogue in Warsaw. </p>
-                    <p>Poznański harbored a profound aspiration to compile a biographical dictionary
-                        of Qaraite scholars and a historical dictionary of Qaraite literature,
-                        considering them the apex of his scholarly endeavors. Unfortunately, his
-                        sudden demise thwarted the realization of these ambitions, and he only
-                        managed to publish a limited number of bibliographical essays on the
-                        subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found
-                        at the Samuel Poznański Archive of the National Library of Israel. </p>
-                    <p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU,
-                        Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor) </p>
-                    <p>Literature: <lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission:
-                        From Wissenschaft to Jewish Nationalism,” in <em>Modern Jewish Scholarship
-                        on Islam in Context: Rationality, European Borders, and the Search for
-                        Belonging</em>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp.
-                        121–144 [134].</p>
-                </note>
+            <item>
+                <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  </p><p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the  
+                    <lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found in the Samuel Poznański Archive at the National Library of Israel  (ARC 4﹡ 1180, Series 5).  Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p><p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  </p><p>Literature:  
+                        <lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em>Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging</em>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
                 <quote xml:lang="he">
                     <p> ישועה בן יהודה</p>
                     <p> </p>
@@ -1376,13 +1359,9 @@
                         ar.-jüd. Lit., 50-51; idem, KLO no. 17; idem REJ XLIV:46, 307; idem,
                         Hastings׳ Enc. of Rel., VII:666-667; Husik, A</p>
                 </quote>
-                <bibl xml:id="jalit-orgbiblKYQS5YI2">
-                    <idno/>
-                    <title type="citation">Samuel Abraham Poznański, “Encyclopedia of Qaraites”
-                        (Jerusalem, n.d.), סדרה 5: אנציקלופדיה בני מקרא, The National Library of
-                        Israel: Samuel Poznanski Archive, ARC. 4* 1180,
-                        https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL990032439840205171/NLI</title>
-                    <ptr target="https://jalit.org/bibl/KYQS5YI2"/>
+                <bibl xml:id="jalit-orgbiblDJV65BQJ">
+                    <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\_ARCHIVE\_AL990032439840205171/NLI.</title>
+                    <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
                 </bibl>
             </item>
         </list>
