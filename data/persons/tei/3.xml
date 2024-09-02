@@ -1,68 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Sahl ben Maṣliaḥ</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                        München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                        Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-                    >Ronny Vollandt
-                    </editor>
-                <editor xml:id="gschwarb" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-                    >Gregor Schwarb
-                    </editor>
-                <editor xml:id="mmoliere" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-                    >Maximilian de Molière
-                    </editor>
-                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
-                    Nadine Urbiczek
-                    
-                </editor>
-                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
-                    Peter Tarras
-                    
-                </editor>
-                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
-                    Annabelle Fuchs
-                    
-                </editor>
-                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
-                    Lea Gzella
-                    
-                </editor>
-                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
-                    Polina Lakteikina
-                    
-                </editor>
-                <editor xml:id="rboehm" role="contributor">
-                    Maurizio Boehm
-                    
-                </editor>
-                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
-                    Lea Poralla
-                    
-                </editor>
-                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
-                    Lukas Froschmeier
-                    
-                </editor>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
+                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
+                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
+                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">Lea Gzella</editor>
+                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">Polina Lakteikina</editor>
+                <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">Lea Poralla</editor>
+                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
+                </respStmt><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -71,110 +34,109 @@
                 <idno type="URI">https://jalit.org/person/3</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Born digital.</p>
+                <p><p>Born digital.</p></p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-09-02T13:02:54.490Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listPerson>
-                <person>
-                    <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
-                        <name source="">Sahl ben Maṣliaḥ</name>
+                <person xml:id="person-3">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                        <name>Sahl ben Maṣliaḥ</name>
                     </persName>
-                    <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                        <name source=""/>
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                        <name/>
                     </persName>
-                    <persName xml:id="" type="attested" xml:lang="he">
-                        <name source=""/>
+                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                        <name/>
                     </persName>
-                    <persName xml:id="" type="attested" xml:lang="ar">
-                        <name source=""/>
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                        <name/>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
-                        <name source="">Abū al-Sarī</name>
+                    <persName type="alternate" xml:lang="he" xml:id="name-5">
+                        <name>Abū al-Sarī</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-6">
                         <name source="#viaf">סהל בן מצליח</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-7">
                         <name source="#viaf">Sahl ben Matsliaḥ</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="">
+                    <persName type="alternate" xml:lang="" xml:id="name-8">
                         <name source="#viaf">Sahl ben Matzliah</name>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
-                        <name source=""/>
+                    <persName type="alternate" xml:lang="he" xml:id="name-9">
+                        <name/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar">
-                        <addName source="" xml:id="sh-ar" type="shuhra"/>
-                        <addName source="" xml:id="is-ar" type="ism"/>
-                        <addName source="" xml:id="na-ar" type="nasab"/>
-                        <addName source="" xml:id="ni-ar" type="nisbah"/>
-                        <addName source="" xml:id="ku-ar" type="kunya"/>
-                        <addName source="" xml:id="la-ar" type="laqab"/>
+                    <persName type="canon" xml:lang="ar" xml:id="name-10">
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar-Hebr">
-                        <addName source="" ref="#sh-ar" type="shuhra"/>
-                        <addName source="" ref="#is-ar" type="ism"/>
-                        <addName source="" ref="#na-ar" type="nasab"/>
-                        <addName source="" ref="#ni-ar" type="nisbah"/>
-                        <addName source="" ref="#ku-ar" type="kunya"/>
-                        <addName source="" ref="#la-ar" type="laqab"/>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-11">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar-Latn"
-                        >
-                        <addName source="" ref="#sh-ar" type="shuhra"/>
-                        <addName source="" ref="#is-ar" type="ism"/>
-                        <addName source="" ref="#na-ar" type="nasab"/>
-                        <addName source="" ref="#ni-ar" type="nisbah"/>
-                        <addName source="" ref="#ku-ar" type="kunya"/>
-                        <addName source="" ref="#la-ar" type="laqab"/>
+                    <persName type="canon" xml:lang="ar-Latn" xml:id="name-12">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" xml:lang="he">
-                        <forename source="" xml:id="fn-he"/>
-                        <addName source="" xml:id="pa-he" type="patronym"/>
-                        <addName source="" xml:id="ep-he" type="epithet"/>
-                        <addName source="" xml:id="ac-he" type="acronym"/>
-                        <addName source="" xml:id="sh-he" type="shuhra"/>
+                    <persName xml:lang="he" xml:id="name-13">
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="he-Latn">
-                        <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName source="" ref="#pa-he" type="patronym"/>
-                        <addName source="" ref="#ep-he" type="epithet"/>
-                        <addName source="" ref="#ac-he" type="acronym"/>
-                        <addName source="" ref="#sh-he" type="shuhra"/>
+                    <persName type="canon" xml:lang="he-Latn" xml:id="name-14">
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="" source="wiki">910</date>
-                        <placeName ref="" cert="" source="wiki">Jerusalem</placeName>
+                        <date cert="" source="#">910</date>
+                        <placeName ref="" cert="" source="#">Jerusalem</placeName>
                     </birth>
                     <death>
-                        <date cert="" source="wiki">990</date>
-                        <placeName ref="" cert="" source=""/>
+                        <date cert="" source="#">990</date>
+                        <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="" source=""/>
-                        <placeName ref="" cert="" source=""/>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
                     </floruit>
-                    <sex cert="" source=""/>
-                    <faith cert="" source=""/>
-                    <occupation type="" cert="" source=""/>
+                    <sex cert=""/>
+                    <faith cert=""/>
+                    <occupation type="" cert=""/>
                     <residence>
-                        <placeName ref="" cert="" source=""/>
+                        <placeName ref="" cert=""/>
                     </residence>
                     <bibl type="bibliography" xml:id="jalit-orgbiblU38PSHB2">
-                        <title>“סהל בן מצליח הכהן.” , () http://www.daat.ac.il/encyclopedia. </title>
+                        <title>“סהל בן מצליח הכהן.” , () http://www.daat.ac.il/encyclopedia.</title>
                         <ptr target="https://jalit.org/bibl/U38PSHB2"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblADULIRTV">
@@ -198,15 +160,15 @@
                         <ptr target="https://jalit.org/bibl/CFX6DWHQ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFI7MS3NT">
-                        <title>Abrahams, Israel. “Sahl b Maṣliah.” In Chapters on Jewish Literature, 1, (Philadelphia: The Jewish Publication Society of America, 1899), pp. 78-79. http://archive.org/details/abrahamsi1899chap1. </title>
+                        <title>Abrahams, Israel. “Sahl b Maṣliah.” In Chapters on Jewish Literature, 1, (Philadelphia: The Jewish Publication Society of America, 1899), pp. 78-79. http://archive.org/details/abrahamsi1899chap1.</title>
                         <ptr target="https://jalit.org/bibl/FI7MS3NT"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblAGRWCVEX">
-                        <title>Ankori, Zvi. “Sahl b Maṣliah.” In Karaites In Byzantium: The Formative Years 970-1100, (New York: AMS Press, 1959) http://archive.org/details/book-history-zvi-ankori-karaites-in-byzantium-the-formative-years-970-1100-by-zvi-ankori. </title>
+                        <title>Ankori, Zvi. “Sahl b Maṣliah.” In Karaites In Byzantium: The Formative Years 970-1100, (New York: AMS Press, 1959) http://archive.org/details/book-history-zvi-ankori-karaites-in-byzantium-the-formative-years-970-1100-by-zvi-ankori.</title>
                         <ptr target="https://jalit.org/bibl/AGRWCVEX"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblWCDFTVX">
-                        <title>Beer, Peter. “Sahl b Maṣliah.” In Geschichte, Lehren und Meinungen aller bestandenen und noch bestehenden religiösen Sekten der Juden und der Geheimlehre oder Cabbalah, 1, (Brünn: J.G. Traßler, 1822), p. 165. https://books.google.de/books?id=35QkSZZ_ycwC. </title>
+                        <title>Beer, Peter. “Sahl b Maṣliah.” In Geschichte, Lehren und Meinungen aller bestandenen und noch bestehenden religiösen Sekten der Juden und der Geheimlehre oder Cabbalah, 1, (Brünn: J.G. Traßler, 1822), p. 165. https://books.google.de/books?id=35QkSZZ_ycwC.</title>
                         <ptr target="https://jalit.org/bibl/WCDFTVX"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl27PAQEE">
@@ -214,7 +176,7 @@
                         <ptr target="https://jalit.org/bibl/27PAQEE"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblVFST3M8">
-                        <title>Büchler, Adolf. “Schechter's Jewish Sectaries.” The Jewish Quarterly Review 3, no. 3 (1913): pp. 429-485. doi: 10.2307/1450850. </title>
+                        <title>Büchler, Adolf. “Schechter's Jewish Sectaries.” The Jewish Quarterly Review 3, no. 3 (1913): pp. 429-485. doi: 10.2307/1450850.</title>
                         <ptr target="https://jalit.org/bibl/VFST3M8"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl8HVEQXT5">
@@ -222,7 +184,7 @@
                         <ptr target="https://jalit.org/bibl/8HVEQXT5"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl7R5I8TH7">
-                        <title>Frank, Daniel. “Sahl b Maṣliah.” In Search Scripture well: Karaite exegetes and the origins of the Jewish Bible commentary in the Islamic East, (Leiden &amp; Boston: Brill, 2004) https://doi.org/10.1163/9789047405566. </title>
+                        <title>Frank, Daniel. “Sahl b Maṣliah.” In Search Scripture well: Karaite exegetes and the origins of the Jewish Bible commentary in the Islamic East, (Leiden &amp; Boston: Brill, 2004) https://doi.org/10.1163/9789047405566.</title>
                         <ptr target="https://jalit.org/bibl/7R5I8TH7"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblABXXLEFU">
@@ -234,11 +196,11 @@
                         <ptr target="https://jalit.org/bibl/ZAWGGAR"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblWFFBAQH8">
-                        <title>Fürst, Julius. “Sahl b Maṣliah.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 90- [§59-. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl. </title>
+                        <title>Fürst, Julius. “Sahl b Maṣliah.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 90- [§59-. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl.</title>
                         <ptr target="https://jalit.org/bibl/WFFBAQH8"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblXLKLAKH2">
-                        <title>Goldstein, Miriam. “Sahl (Abū ʾl-Sarrī) ben Maṣliaḥ.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/sahl-abu-l-sarri-ben-masliah-SIM_0018900. </title>
+                        <title>Goldstein, Miriam. “Sahl (Abū ʾl-Sarrī) ben Maṣliaḥ.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/sahl-abu-l-sarri-ben-masliah-SIM_0018900.</title>
                         <ptr target="https://jalit.org/bibl/XLKLAKH2"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl3DVIWMN">
@@ -246,11 +208,11 @@
                         <ptr target="https://jalit.org/bibl/3DVIWMN"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblES5CBQIK">
-                        <title>Graetz, Heinrich. “Sahl b Maṣliah.” In Geschichte der Juden von den ältesten Zeiten bis auf die Gegenwart: Vom Abschluß des Talmud (500) bis zum Aufblühen der jüdisch-spanischen Kultur (1027), 5, (Leipzig: Oskar Leiner, 1871), pp. 301-. http://archive.org/details/Bd.05VomAbschlussDesTalmudsBisZumAufbluhenDerJudischSpanischenKultur5001027Chr.1871. </title>
+                        <title>Graetz, Heinrich. “Sahl b Maṣliah.” In Geschichte der Juden von den ältesten Zeiten bis auf die Gegenwart: Vom Abschluß des Talmud (500) bis zum Aufblühen der jüdisch-spanischen Kultur (1027), 5, (Leipzig: Oskar Leiner, 1871), pp. 301-. http://archive.org/details/Bd.05VomAbschlussDesTalmudsBisZumAufbluhenDerJudischSpanischenKultur5001027Chr.1871.</title>
                         <ptr target="https://jalit.org/bibl/ES5CBQIK"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl3IURSRZN">
-                        <title>Hamburger, Jacob. “Sahl b Maṣliah.” In Die jüdische Litteratur seit Abschluss des Kanons: Geschichte der rabbinischen Litteratur während des Mittelalters und ihrer Nachblüthe in der neueren Zeit, 2, edited by Jakob Winter, and August Wünsche. (Trier: Sigmund Mayer, 1894), pp. 78-79; 81-86. https://books.google.de/books?id=Kme8rCRb8tYC. </title>
+                        <title>Hamburger, Jacob. “Sahl b Maṣliah.” In Die jüdische Litteratur seit Abschluss des Kanons: Geschichte der rabbinischen Litteratur während des Mittelalters und ihrer Nachblüthe in der neueren Zeit, 2, edited by Jakob Winter, and August Wünsche. (Trier: Sigmund Mayer, 1894), pp. 78-79; 81-86. https://books.google.de/books?id=Kme8rCRb8tYC.</title>
                         <ptr target="https://jalit.org/bibl/3IURSRZN"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl3I3TQBGR">
@@ -258,7 +220,7 @@
                         <ptr target="https://jalit.org/bibl/3I3TQBGR"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblBAJGTVI">
-                        <title>Löw, Leopold. “Sahl b Maṣliah.” In המפתח: Praktische Einleitung in die heilige Schrift und Geschichte der Schriftauslegung, ein Lehrbuch für die reifere Jugend, ein Handbuch für Gebildete, (Groß-Kanischa: J. Markbreiter, 1855), pp. 153-154 [§279]. https://mdz-nbn-resolving.de/details:bsb10411668. </title>
+                        <title>Löw, Leopold. “Sahl b Maṣliah.” In המפתח: Praktische Einleitung in die heilige Schrift und Geschichte der Schriftauslegung, ein Lehrbuch für die reifere Jugend, ein Handbuch für Gebildete, (Groß-Kanischa: J. Markbreiter, 1855), pp. 153-154 [§279]. https://mdz-nbn-resolving.de/details:bsb10411668.</title>
                         <ptr target="https://jalit.org/bibl/BAJGTVI"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblTCEJ56Y">
@@ -278,7 +240,7 @@
                         <ptr target="https://jalit.org/bibl/B5MSIHIQ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblCFAQL3V">
-                        <title>Munk, Salomon. “Sahl b Maṣliah.” In Notice sur Abou'l-Walid Merwan ibn-Djana'h et sur quelques autres grammairiens Hébreux du Xe et du XIe siècle: suivie de l'introduction du Kitab al-Luma' D'ibn-Djana'h en arabe avec une traduction française et des notes, (Paris: Imprimerie Nationale, 1851), pp. 5-6. https://books.google.es/books?id=KF8_AQAAMAAJ&amp;vq. </title>
+                        <title>Munk, Salomon. “Sahl b Maṣliah.” In Notice sur Abou'l-Walid Merwan ibn-Djana'h et sur quelques autres grammairiens Hébreux du Xe et du XIe siècle: suivie de l'introduction du Kitab al-Luma' D'ibn-Djana'h en arabe avec une traduction française et des notes, (Paris: Imprimerie Nationale, 1851), pp. 5-6. https://books.google.es/books?id=KF8_AQAAMAAJ&amp;vq.</title>
                         <ptr target="https://jalit.org/bibl/CFAQL3V"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl3VHDH2E">
@@ -302,15 +264,15 @@
                         <ptr target="https://jalit.org/bibl/A8LNKRYL"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblSUJFR">
-                        <title>Neubauer, Adolf. “Sahl b Maṣliah.” In Aus der Petersburger Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und der karäischen Literatur, (Leipzig: Oskar Leiner, 1866), p. 19. https://books.google.de/books?id=amJSAAAAcAAJ&amp;newbks. </title>
+                        <title>Neubauer, Adolf. “Sahl b Maṣliah.” In Aus der Petersburger Bibliothek: Beiträge und Documente zur Geschichte des Karäerthums und der karäischen Literatur, (Leipzig: Oskar Leiner, 1866), p. 19. https://books.google.de/books?id=amJSAAAAcAAJ&amp;newbks.</title>
                         <ptr target="https://jalit.org/bibl/SUJFR"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblERFJ3KXU">
-                        <title>Obermann, Julian. “The Sepulchre of the Maccabean Martyrs.” Journal of Biblical Literature 50, no. 4 (1931): pp. 250-265. doi: 10.2307/3259793. </title>
+                        <title>Obermann, Julian. “The Sepulchre of the Maccabean Martyrs.” Journal of Biblical Literature 50, no. 4 (1931): pp. 250-265. doi: 10.2307/3259793.</title>
                         <ptr target="https://jalit.org/bibl/ERFJ3KXU"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl5SKCIH2">
-                        <title>Ochser, Schulim. “Sahl ben Maẓliaḥ ha-Kohen al-Muʿallim Abu al-Sari.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1905), p. 636. https://www.jewishencyclopedia.com/articles/12994-sahl-ben-mazliah-ha-kohen-al-mu-allim-abu-al-sari. </title>
+                        <title>Ochser, Schulim. “Sahl ben Maẓliaḥ ha-Kohen al-Muʿallim Abu al-Sari.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1905), p. 636. https://www.jewishencyclopedia.com/articles/12994-sahl-ben-mazliah-ha-kohen-al-mu-allim-abu-al-sari.</title>
                         <ptr target="https://jalit.org/bibl/5SKCIH2"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl7SU7PF6">
@@ -318,7 +280,7 @@
                         <ptr target="https://jalit.org/bibl/7SU7PF6"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl2SSBUBCZ">
-                        <title>Poznański, Samuel. “Sahl b Maṣliah.” In The Karaite literary opponents of Saadiah Gaon, (London: Luzac, 1908), pp. 30-41. https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1339524. </title>
+                        <title>Poznański, Samuel. “Sahl b Maṣliah.” In The Karaite literary opponents of Saadiah Gaon, (London: Luzac, 1908), pp. 30-41. https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1339524.</title>
                         <ptr target="https://jalit.org/bibl/2SSBUBCZ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblXANHFN5C">
@@ -330,15 +292,15 @@
                         <ptr target="https://jalit.org/bibl/BMK3BP3D"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl866GDH7">
-                        <title>Röhricht, Reinhold. “Sahl b Maṣliah.” In Bibliotheca Geographica Palaestinae: Chronologisches Verzeichniss der auf die Geographie des Heiligen Landes bezüglichen Literatur von 333 bis 1878, (Berlin: H. Reuther, 1890), p. 19 [§37]. https://sammlungen.ub.uni-frankfurt.de/freimann/urn/urn:nbn:de:hebis:30:1-122141. </title>
+                        <title>Röhricht, Reinhold. “Sahl b Maṣliah.” In Bibliotheca Geographica Palaestinae: Chronologisches Verzeichniss der auf die Geographie des Heiligen Landes bezüglichen Literatur von 333 bis 1878, (Berlin: H. Reuther, 1890), p. 19 [§37]. https://sammlungen.ub.uni-frankfurt.de/freimann/urn/urn:nbn:de:hebis:30:1-122141.</title>
                         <ptr target="https://jalit.org/bibl/866GDH7"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblCU7YGTJW">
-                        <title>Schechter, Solomon. “Reply to Dr Büchler's Review of Schechter's 'Jewish Sectaries'.” The Jewish Quarterly Review 4, no. 3 (1914): pp. 449-474. doi: 10.2307/1451246. </title>
+                        <title>Schechter, Solomon. “Reply to Dr Büchler's Review of Schechter's 'Jewish Sectaries'.” The Jewish Quarterly Review 4, no. 3 (1914): pp. 449-474. doi: 10.2307/1451246.</title>
                         <ptr target="https://jalit.org/bibl/CU7YGTJW"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblZYB5RW">
-                        <title>Selden, John. “Sahl b Maṣliah.” In Uxor Ebraica: seu de nuptiis &amp; divortiis ex iure civili, id est, divino &amp; tamuldico, veterum ebraeorum, libri tres, (London: R. Bishop, 1646), p. 11. https://books.google.es/books?id=wIv9ha3OZ0MC. </title>
+                        <title>Selden, John. “Sahl b Maṣliah.” In Uxor Ebraica: seu de nuptiis &amp; divortiis ex iure civili, id est, divino &amp; tamuldico, veterum ebraeorum, libri tres, (London: R. Bishop, 1646), p. 11. https://books.google.es/books?id=wIv9ha3OZ0MC.</title>
                         <ptr target="https://jalit.org/bibl/ZYB5RW"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFBFB2EGJ">
@@ -346,7 +308,7 @@
                         <ptr target="https://jalit.org/bibl/FBFB2EGJ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblT3KHFHD8">
-                        <title>Sokolow, Moshe. “Kidnapping in Karaite Law according to the Commentary of Sahl ben Maṣlī’aḥ.” The Jewish Quarterly Review 73, no. 2 (1982): pp. 176-188. doi: 10.2307/1454590. </title>
+                        <title>Sokolow, Moshe. “Kidnapping in Karaite Law according to the Commentary of Sahl ben Maṣlī’aḥ.” The Jewish Quarterly Review 73, no. 2 (1982): pp. 176-188. doi: 10.2307/1454590.</title>
                         <ptr target="https://jalit.org/bibl/T3KHFHD8"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblL7BJFZQ">
@@ -358,11 +320,11 @@
                         <ptr target="https://jalit.org/bibl/GKA22CIZ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblS8WFC6QZ">
-                        <title>Steinschneider, Moritz. “Jüdische Literatur.” Allgemeine Encyclopädie der Wissenschaften und Künste, edited by Johann Samuel Ersch, and Johann Gottfried Gruber (Leipzig: F. A. Brockhaus, 1850), pp. 357-471. https://gdz.sub.uni-goettingen.de/id/PPN362303401. </title>
+                        <title>Steinschneider, Moritz. “Jüdische Literatur.” Allgemeine Encyclopädie der Wissenschaften und Künste, edited by Johann Samuel Ersch, and Johann Gottfried Gruber (Leipzig: F. A. Brockhaus, 1850), pp. 357-471. https://gdz.sub.uni-goettingen.de/id/PPN362303401.</title>
                         <ptr target="https://jalit.org/bibl/S8WFC6QZ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblZHZQF2HB">
-                        <title>Steinschneider, Moritz. “Sahl b Maṣliah.” In Polemische und apologetische Literatur in arabischer Sprache, zwischen Muslimen, Christen und Juden, nebst Anhängen verwandten Inhalts: mit Benutzung handschriftlicher Quellen, (Leipzig: F.A. Brockhaus, 1877), p. 347 [3.]. https://archive.org/details/polemischeundap00steigoog. </title>
+                        <title>Steinschneider, Moritz. “Sahl b Maṣliah.” In Polemische und apologetische Literatur in arabischer Sprache, zwischen Muslimen, Christen und Juden, nebst Anhängen verwandten Inhalts: mit Benutzung handschriftlicher Quellen, (Leipzig: F.A. Brockhaus, 1877), p. 347 [3.]. https://archive.org/details/polemischeundap00steigoog.</title>
                         <ptr target="https://jalit.org/bibl/ZHZQF2HB"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFBSMUZZJ">
@@ -370,27 +332,27 @@
                         <ptr target="https://jalit.org/bibl/FBSMUZZJ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl2AHY8CU">
-                        <title>Vidro, Nadia. “Aviv barley and calendar diversity among Jews in eleventh-century Palestine.” Journal of Jewish Studies 72, no. 2 (2021): pp. 283-312. doi: https://doi.org/10.18647/3504/jjs-2021. </title>
+                        <title>Vidro, Nadia. “Aviv barley and calendar diversity among Jews in eleventh-century Palestine.” Journal of Jewish Studies 72, no. 2 (2021): pp. 283-312. doi: https://doi.org/10.18647/3504/jjs-2021.</title>
                         <ptr target="https://jalit.org/bibl/2AHY8CU"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFYYN7G">
-                        <title>Wieder, Naphtali. “The Qumran sectaries and the Karaites (Continued).” The Jewish Quarterly Review 47, no. 3 (1957): pp. 269-292. doi: 10.2307/1452954. </title>
+                        <title>Wieder, Naphtali. “The Qumran sectaries and the Karaites (Continued).” The Jewish Quarterly Review 47, no. 3 (1957): pp. 269-292. doi: 10.2307/1452954.</title>
                         <ptr target="https://jalit.org/bibl/FYYN7G"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblHJYJMVCR">
-                        <title>Wieder, Naphtali. “Three Terms for Tradition.” The Jewish Quarterly Review 49, no. 2 (1958): pp. 108-121. doi: 10.2307/1452683. </title>
+                        <title>Wieder, Naphtali. “Three Terms for Tradition.” The Jewish Quarterly Review 49, no. 2 (1958): pp. 108-121. doi: 10.2307/1452683.</title>
                         <ptr target="https://jalit.org/bibl/HJYJMVCR"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblKVNYD3HB">
-                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 929 [n.1745]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl. </title>
+                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 929 [n.1745]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl.</title>
                         <ptr target="https://jalit.org/bibl/KVNYD3HB"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl7FE8HMU">
-                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Bibliothecæ Hebrææ, III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam, 1727), p. 858 [n.1745]. ttps://books.google.es/books?id=9dW-cp2_N8oC&amp;pg. </title>
+                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Bibliothecæ Hebrææ, III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam, 1727), p. 858 [n.1745]. ttps://books.google.es/books?id=9dW-cp2_N8oC&amp;pg.</title>
                         <ptr target="https://jalit.org/bibl/7FE8HMU"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblBTMRRPN3">
-                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Notitia Karaeorum, (Hamburg &amp; Leipzig: Christian Liebezeit, 1714), p. 139. http://archive.org/details/bub_gb_bzXY5TBXpA8C. </title>
+                        <title>Wolf, Johann Christoph. “Sahl b Maṣliah.” In Notitia Karaeorum, (Hamburg &amp; Leipzig: Christian Liebezeit, 1714), p. 139. http://archive.org/details/bub_gb_bzXY5TBXpA8C.</title>
                         <ptr target="https://jalit.org/bibl/BTMRRPN3"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblHXXIMS7">
@@ -402,7 +364,7 @@
                         <ptr target="https://jalit.org/bibl/FYPH73Z"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblYKL7ML">
-                        <title>גאטטלאבער, אברהם בער. “סהל הכהן בן מצליח.” In בקורת לתולדות הקראים, (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), pp. 71-72; 206. https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq. </title>
+                        <title>גאטטלאבער, אברהם בער. “סהל הכהן בן מצליח.” In בקורת לתולדות הקראים, (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), pp. 71-72; 206. https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq.</title>
                         <ptr target="https://jalit.org/bibl/YKL7ML"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblGRCTQI">
@@ -410,7 +372,7 @@
                         <ptr target="https://jalit.org/bibl/GRCTQI"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblBNR78PQQ">
-                        <title>מאהלער, רפאל. “Sahl b Maṣliah.” In קאראימער: א יידישע גאולה-באווענגונג אין מיטלאלטער, (ניו-יארק: אליהו שולמאן, 1947) http://archive.org/details/nybc200372. </title>
+                        <title>מאהלער, רפאל. “Sahl b Maṣliah.” In קאראימער: א יידישע גאולה-באווענגונג אין מיטלאלטער, (ניו-יארק: אליהו שולמאן, 1947) http://archive.org/details/nybc200372.</title>
                         <ptr target="https://jalit.org/bibl/BNR78PQQ"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
@@ -428,14 +390,14 @@
     <standOff>
         <list>
             <item>
-                <note/>
+                <note xml:lang="en"/>
                 <persName/>
-                <quote xml:lang=""/>
-                <bibl>
-                    <title/>
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+                <quote xml:lang="he"><p>סהל בן מצליח הכהן (אבו אלסרי)</p><p>שמו הערבי Abu-l-Sari ולא Abu-l-Surri כמו שחשבתי בספרי Literary Opponents (וגם בן זוטא נתכנה אולי אבו אלסרי, ועי' Steinschneider, JQR XI:315, 620). והמחברים הכותבים עברית יקראוהו פעמים הרבה אבוסרי (וגם אבושרי).</p><p>אחד היותר חשובים בין חכמי הקראים הקדמונים ונקרא "המלמד הגדול" (אשכול הכפר רנ"ז מ'), "המשכיל הגדול" (חלוק הקראים והרבנים) ואף "החכם השר" (זכרונות). הוא חי בירושלים כמו שנראה מספריו שיוזכרו להלן ובפרט מאגרת התוכחת ומהקדמת ספר המצוות. זמנו נוכל להוכיח מזה כי מצד אחד התוכח עם יעקב בן שמואל תלמידו של רס"ג בלשון נוכח ואם כן חי בערך 970 (ועי' גם דבריו: ולפני מזה בימי הפיתומי) ומצד השני נמצא אותו מביא בין החכמים שחלקו על רס"ג גם את יפת בן עלי אשר חי בערך 1000 (וכן חלק עוד על יוסף בן נח שחי בערך 1002), כמו שלהיפך יפת מביאו בפירושיו (וכן לוי בן יפת קיצר כבר לפי אבן אלהיתי פירושו על התורה וחילק עליו בספר המצוות שלו, ולוי חי 1007, אבל דברי אבן אלהיתי מסובכים) וזה יוצא מדברי בעל ספר המבחר לויקרא (דף כ"ה ע"א) להכתוב או כי תזוב (ט"ו:כ"ז) וזה לשונו: "ודעת הכהן רבינו סהל ידועה שאם תהיה בסוף יום השביעי טהורה ותטבול ואחרי שטבלה ראתה דם בתחלת יום שמיני היא נדה ולא זבה ... ודעת הלוי ז"ל להיפך וטען לכהן במאמר על נדתה שלא יצא משלשה דברים וכו'" (ועל הרוב סהל ויפת מצויינים במלות הכהן והלוי, ועי' מונק, Notice, 17 n.2). ועוד יותר ברור יוצא זה מדברי אפנדופולו באדרת ענין שבועה פרק י"ב: "... וה"ר יפת הלוי בפסוק והוא עד ז"ל ואמר אבוסרי והוא עד הם שני עדים כי לא יפסק הדין כ"א בשני עדים, אבל השומע קול אלה חייב להגיד אפילו אם הוא לבדו ... עד כאן לשונו." אבל בודאי היה בן דורו הבכור של יפת וכן יזכירו שלמה הנשיא אחרי הקרקסאני אבל לפני יפת (עי' אבן אלהיתי JQR IX:434, ושם דברים מסובכים ושבושים בכ"י ואי אפשר להוציא דבר ברור, עי' Steinschneider, ZHB 19:184 וספרי KLO.</p><p>סהל היה אחד הקנאים היותר גדולים במלחמתו עם הרבנים וטופל עליהם אשמות שונות ועבירות שיפורטו להלן ועם תכונתו זאת מתאים שהיה על הרוב מן המחמירים. עם זה היה בעל סגנון נפלא (וגם הוא לא ניצל מלחקות בכל קנאתו את מליצות רז"ל, עי' ספרי KLO עמ' 35 הערה 3) ואומן גדול במלאכת הנצוח והדרוש וכתב ספרים בערבית ובעברית והשפיע גם על הבאים אחריו אשר יזכירו הרבה דברים ממנו, כמו ישועה בן יהודה, בעל ספר העשר, הדסי, אהרן הראשון והשני, אליהו בשייצי וכו'. ספריו משתרעים במקצועות שונים וכוללים פירושים לכתבי הקודש, ספרי מצוות והלכה, דקדוק הלשון ווכוח וכדומה, ואלה הם:</p><p>1)	פירוש על התורה בערבית ונמצא ממנו חלק לדברים בכ"י פטרסבורג (עי' הרכבי ZATW ח"א 157) ואולי גם מעט לשמות (אבל עי' ספרי עמ' 33) ובעל או"צ מביאו בשם "משנה תורה" ור' שמואל אשכנזי אומר כי היה פירוש לסהל בשם כזה בידי יש"ר (נובלות חכמה נ"ו). וסהל חולק פה על הקרקסאני וגם על יוסף בן נח בן דורו (אבן אלהיתי). ואולי יוצא מדברי המחבר הזה כי נתקצר פירושו על ידי לוי בן יפת. פירושו זה היה לפני ישועה בן יהודה (עי' רשימת מרגליות ה"א סי' 318314), לפני בעל הפירוש לשמות ויקרא משנת 1086 (עי' ל"ק 73 וכו'), בעל ספר הפתרון (ע"ש 87), בעל ספר העשר, בעל ספר המבחר, בעל פירוש דברים משנת 1351 (כ"י בר' מוז' 1337) שקיצר, כמו שאומר בעצמו, דבריו ומשתמש בו הרבה עד שמביאו שלש עשרה פעמים, אהרן בן אליהו וכו'. ולהלן נביא דברים מפירושיו לפסוקי התורה.</p><p>2)	פירוש על ספר ישעיה, לא נזכר בפירוש בשום מקום, אבל הוא בהכרח ממה שבעל ספר המבחר מביא הרבה פירושים ממנו לזה הספר (לסי' ג', ו', י"ח, כ"א (פעמים), כ"ג, כ"ט, ל', ל"ב, ל"ד, ל"ח, מ"ב ומ"ח). (פירסט וההולכים בעקבותיו מייחסים לו עוד פירוש על דניאל וזה מפני שבעל ספר העשר לספר זה מביא פירושו בדבר לימים אלף מאתיים ותשעים, אבל זה אינו מספיק עוד לייחס לו פירוש לדניאל כי סהל יכול היה לדבר מזה באיזה ספר מספריו).</p><p>3)	ספר דינים, בודאי בערבית. מביאו שמואל המערבי בראש כתאב אלמרשד מקאלה י"א (עי' ל"ק 144=מהדורת יוליוס כהן עמ' 1): "פאן קד קאם מן אלאמה קום אחרקו אליחושים אלד'י ביד אכת'ר אלאמה. ופסל ד'לך הם אלרבאנין עלי מא נקלה ענהם אלמעלם אבו אלסרי זכ' לב' פי כתאבה אלמסמי בספר דינים." וכנראה הוא שונה מן:</p><p>4)	ספר המצוות, גם כן בערבית עם הקדמה בעברית (שטיינשניידר סובר שספר דינים הוא הוא ספר המצוות, אבל למשל גם בנימין הנהואנדי חיבר ספר דינים לחוד וספר מצוות לחוד עי"ע). נמצאו חלקים ממנו בכ"י בפטרסבורג (ועי' הערות שטיינשניידר בהמזכיר כ':108, ואולי הובא ספר המצוות בכ"י בר' מוז' 724, עי' רשימת מרגליות ח"ב 457, הערה a, ועי' כל כתבי רס"ג חלק ט' עמ' xlii). הרכבי במאמרו על דבר אספה ב' של פירקוויץ בZh.I.L.Pr. 178  (1875), p. 44 (רוסית) יאמר שנמצא בה חבור על קדוש החודש לסהל בערבית, ואולי זה חלק מספר המצות שלו. ההקדמה נדפסה על ידי הרכבי במאסף נדחים סי' י"ג (המליץ 1879 עמ' 643639) ובה דברים יקרים הנוגעים לקורות ארץ הקודש בזמנו וקורא לבני ישראל "לבא ולגור בארץ יי' ולעמוד על שעריו ולעלות אל הר הזיתים" "כי מירושלים בזמן הזה מנוס לכל בורח ומנוחה לכל סובל ומרגוע לכל עני ודל" ולמופת הם אותם אשר "עזבו הרים ושכנו הרים אשר על פת חרבה רצו ומאכילת בשר ושתיית יין נואשו ובתורת ה' דבקו ועל דלתותיו שקדו ושמרו ואל הר הזיתים עולים וצועקים." (בדבר עליית הר הזיתים שהיה נהוג גם אצל הרבנים גם אצל הקראים, עי' מאמרי ב-REJ 48:153, n. 2, ושם הבאתי גם דברי סהל אלו). ודבריו אלו הם היחידים שמורים על קראותו, היינו ההשתמרות לאכול בשר ולשתות יין בעיר הקודש מלבד מה שמליצותיו אלו והן שנמצאו כמעט מלה במלה באגרת התוכחת שלו שתיזכר להלן (עי' ספרי עמ' 35 הערה 2). וגם פה מליצות פייטניות כמו על דבר ירושלים: חשופה חרופה כפופה שאופה רפופה.</p><p>5)	ספר דקדוק. מובא באשכול הכופר פעמיים: א"ב קס"ז ש' (... ויש מהם שיוסר האחד כמו בבבת אינו בת עין ודומיה ... ויש שניהם נכפלים ... ודומיהם תמצאם באר היטב בספר דקדוק סהל בן מצליח אבו אלסרי נ"ע משכילי וכו') וא"ב קע"ג צ' (... ואותיות אהו"י תל"ן משתמשין זה לזה כאשר ביארנו ברמז מבאור דקדוק סהל בן מצליח אבו אלסרי יר"א משכילי ואלופי נ"ע). (ברשימת זקני לשון הקודש בראש ספר מאזנים שנזדייפה מקראי יכונה בתור ראשון: הרב ר' סהל הנקרא בן מצליח נ"ע (ראה ל"ק קכ"ו) וכן בהקדמת כתאב אלביאן לר' תנחום ירושלמי שנזדייפה כמו כן מקראי, ראה זכרון לראשונים ה' קל"א). והנה פינסקר בל"ק 138 מביא דבר בענין דקדוק בשמו של משה בן אדונים המדקדק מספר לשון למודים לסהל שהוא כנראה ספר דקדוק שלנו, אבל לא הודיע לנו המקור שכפי הנראה הוא מקור אכזב, היינו פירקוויץ וספר כזה וגם מדקדק בשם משה בן אדונים בודאי לא היו ולא נבראו (ועי' שטניינשניידר על ההעתקות 946 הערה 306).</p><p>6)	תשובה על רס"ג, לא נודע לא תוכנו ולא לשון חיבורו. (לפי השערת הרכבי אולי כ"י שהובא בו ממחברתו של ר' אהרן בן סרגאדו ומכתב החרם של דוד בן זכאי נגד הרס"ג הוא מסהל, אבל עי' מה שהעירותי נגד זה בספרי ע' 34). הספר נודע רק ממה שמביאו סהל בתשובה אחרת שחיבר והיא:</p><p>7)	אגרת התוכחת או תוכחת מגולה (מובאה גם באו"צ בערכה, ונראה שהשמות אגרת התוכחת ותוכחת מגולה הוסיף המעתיק אליהו בן ברוך כי הקדמונים לא הורגלו בכך וסהל כינה אותה בודאי רק אגרת סתם), חיברה נגד יעקב בן שמואל תלמידו של רס"ג ונדפסה על ידי פינסקר בל"ק עמ' 4224 ונמצאת בכ"י טישענדארף B III 5 כעת בפטרסבורג, עי' המזכיר ד' 45-48, כ"י אדלר 248, כ"י ליידן 73 (בלקוטים שם) וכ"י 75, כ"י גייגר 123. האגרת חוברה בעברית, אבל סהל אומר (עמ' 25) "ואולי אכתוב פתשגן הכתב הזה בלשון ישמעאל למען שיקרא בו מי שלא ידע לשון יהודית", אולם לא ידענו אם הפיק זממו. ואמנם לפי חיבור האגרת הזאת עבר בינו ובין יעקב בן שמואל מרוץ אגרות ותשובות כמו שאומר המעתיק אליהו בן ברוך אשר מצא את האגרות בירושלים (שם) "ועוד מזולת זאת האגרת יש לו עשר תשובות ... שהשיב לאיש זה עושה רשעה ושמו יעקב בן שמואל", ועוד "ומפני שיש לו ז"ל תשובות כתובות לפני זאת האגרת כתב בזה הלשון" וסהל אומר בתחלת דבריו (שם) "ועוד כתבת לאחר אלה אחרי זאת שיהיו תשובותיך בלשון הקדש" ומראה פה על שגגות יעקב בלשון כמו שבכלל מחשיבו לבער ומקנטרו בדברים קשים "עד הנה קרוב לששים שגגות מצאתי באגרותיך" ואחרי זה אומר (שם): "כי כתבת אלי אגרת בלשון ישמעאל וראיתי בה דברים קשים אינם דברי יראי ה' ולא דברי חרדיו וכו'". (סהל מתאונן תמיד על הדברים הקשים של יעקב ועוד יאמר למשל (עי' 31) ולולי כי דבריך כ.תלהלה(?) היורה זקים לא הייתי כותב אלה הדברים וכדומה, ועי' ספרי עמ' 35.) אחרי זה יבוא פיוט ור"ת שלו "סהל בן מצליח הכהן הקראי מקצת החרדים חזק" (עמ' 24, 26; וכבר היטיבו לראות שטיינשניידר וגייגר כי הפיוט "מספרי חכמיך" הוא ההמשך מן "סרעפי יעצוני" ואיננו של יפת כמו שסבר פינסקר, וראיה על זה עוד דבריו "באת בחרדה" וכזה בעמ' 27, 30 ועוד "באמרך בלשון הקדש יהיה כסדורי סדוריך" וכדומה). וגם באגרת לפעמים לשונו לשון פייטן ונמצאה אצלו פה גם קינה שלימה (ראש עמ' 31): מלכי ואלהי עד מתי חולת אהבה אני עד מתי לא תרחמני וכו'. ובפיוט זה מתקומם סהל נגד קדמות תורה שבעל פה ונתינתה מסיני בהראותו שבעלי התלמוד בעצמם סומכים על י"ג מדות ותלמוד לומר וכי יש ביניהם חלוקי דעות וכדומה.</p><p>גוף התשובה מתחילה מהמלות (עמ' 27): "אני מבית המקדש (=בית אלמקדס = ירושלים) באתי להזהיר את בני עמי וכו'" וכוונתו בתחלה להזהיר את עם ה' מן דברים אסורים שנוהגים בהם (לפי תורת הרבנים) היתר כמו באמרם שמותר לקחת את השמן מכלי הגויים הנעשים מעורות הגמלים או כי מותר במי שתצא ממנו שכבת זרע לרחוץ בבקר ולנגוע בכתבי הקודש, או שחיטת ההרה, או שכיבה עם היולדת בתוך ארבעים יום לזכר ושמונים יום לנקבה וכדומה וכדומה דברים שנפרדו בהם הקראים מהרבנים לחומרא ואחרי זה שונה דבריו עוד הפעם ואומר (עמ' 30): "ועתה אחי יעקב בן שמואל דע כי אני באתי מבית המקדש להזהיר כמו אלה הדברים ... ומי יתן שיהיה לי יכולת ללכת בכל עיר ועיר להזהיר ולהעיר את עם ה'" (אבל אין לדון מזה כי באמת סבב בערים וארצות לקרוא לתורת הקראות, כמו שאומר פינסקר ואחריו פירסט) ובהמשך דבריו יאמר (עמ' 31): "אתה חשבת בלבבך כי אני באתי למען בצוע בצע כמו שיעשו אחרים שישמנו פני עניים ושארם מעל עצמותם יאכלו וכו'." אבל באמת כל מגמתו הוא לעורר את לב עם ישראל ולהשיבם אל תורת ה' (היינו על פי תורת הקראים) ולהזהירם לבל השען על מצוות אנשים מלומדה ודתי שתי נשים (הכוונה פה לסורא ופומבדיתא כמו שנראה מע' 42: ואחריו יגדע את מקלו השני והוא עול שתי נשים אשר מלכו על ישראל בסורא ואנבאר (ר"ל פומבדיתא) וכו'. ואולם יפת פותר הכתוב הזה על שתי הישיבות בארץ ישראל ובבבל (עי' ספרי עמ' 38 הערה 1) ואולי כוונתו אל ישיבות גאוני ארץ ישראל שהיו בזמנו, עי' ספרי על גאוני בגדאד עמ' 85 הערה 2.) ומתרעם על אלו אשר "רחקו מעל ה' והלכו בדרך לא טוב בהקל מנהגיהם עליהם בלא חמלה" ועם זה רודים בחזקה ובפרך על עם ה' "ומתגדלים ומתגאים ומתגברים עליהם בנידוי ובחרם ובשליטי הנכרים ועונשים ענייהם ומצריכים אותם לקחת ברבית ולתת להם וכו' וכו'" (אל מי כיון פה? האם אל הגאונים בירושלים? וגם אליהם כיון באמרו עמ' 32: ויודע אני ושומע כי יש מן הרועים ומנהיגי עם ה' ... ואומרים כי הם סנהדרין באים אל בתי ישראל ביום השבת לאכול ולשתות ועמהם מן הגוים אנשים אוכלים ושותים וכו'). ועוד יאמר: "ואיך אחריש ודרכי עובדי עבודה זרה בין מקצת ישראל יושבים בקברים ולנים בנצורים ודורשים אל המתים ואומרים יא ר' יוסי הגלילי רפאני הבטינני וכו'" ומונה עוד הפעם חטאים ועוונם כמו למעלה. ומספר כי אמנם יש רבנים בהר הקדש ובכרמל אשר הם רחוקים מן המעשים האלה, אבל הם כמעשה בני מקרא עשו ומהם למדו (עמ' 33) עד כי עושים את המועדים שני ימים יום אחד בראיית הירח ויום אחד כאשר היו עושים לפנים ועם כל זה הם חוקרים ודורשים כמו שעושים כזה גם בני מקרא. ובהמשך דבריו (עמ' 36) יספר מה שהיה בימי הפיתומי איך נחלקו אנשי ארץ ישראל ואנשי בבל בענין המועדות והכוונה בזה לענין בן מאיר ומחלוקתו עם רס"ג. אחרי זה יספר על דבר יחוסו של רס"ג להקראים כי לא חפץ להתווכח עמהם ומונה את הקראים אשר השיבו עליו בחייו ואחרי מותו ולבסוך (עמ' 37): "וגם אני כתבתי תשובה לדבריו כאחד מהם." ואחרי זה מדבר בארוכה מראיותיו של רס"ג להוכיח כי חשבון העבור היה מקדם קדמתה וסותר אותן ומביא עם זה דברים מהלכות גדולות מבלי להזכיר את שמם (עמ' 40, עי' ספרי) ועוד מעשה מתלמוד על דבר העבור שאמנם בתלמוד הדברים מפוזרים ובשינוי הרבה (עמ' 41, ע"ש הערת פינסקר). ומי יודע עם לא היה לפניו איזה ברייתות בלתי נודעות (וכנראה שממנו שאב הדסי קצ"ב ת' - קצ"ד ז'). ומסיים את דבריו (עמ' 43): "אחינו למה תשמעו את דברי אדם אומרים שבני מקרא מבקשים לכם רעה חלילה לנו מעשות זאת האשמה וכו'." וכבר מלתי אמורה כי יש פה מאמרים וביטויים קרובים להקדמת ספר המצוות (עי' ספרי). ותקונים מגייגר קבוצת מאמרים 363358 (אוצר נחמד ד' 2723).
+<lb/>	מדעותיו של סהל המובאות בספרי הבאים אחריו יש להזכיר קודם כל כי הוא היה הראשון אשר הציב מדות לתורה ואמר כי הם ארבע והם: חכמת הדעת, משמע (ר"ל הכתוב), הקש ועדה (והוא גם כן קבוץ ר"ל דבר שהסכים עליו כל ישראל = אג'מאע). "ואמנם בהקש מכליל כלל המדות כי בהקיש זה בזה יגלה כח התורה (אשכל הכופר קס"ח ב') ואם כן בכל קנאותו הכיר בחכמת הדעת. (וכן קושר לה כתרים באגרת התוכחת שלו, עי' עמ' 34: ואם יאמר אדם איך יהיו המצות תלוים בדעת חכמת הלב נאמר לו ואיך לא יהיה כן והלא בחכמת הלב ובשכל ידענו כי העולם ברוא ואחד בראו ואין לו שני ולא ידמה לו שום דבר וכו' וכו'.) והדברים בדעת לא יצאו משלשה פנים חוב וכשר ונמנע ויש שיבא ספק בין החוב והנמנע או בין הנמנע והעובר ואז "ספק הנמנע יהדוף את החייב והחייב ימנע את העובר" (שם ק"ע ו'). החיוב במצוות הוא מעת שיתחיל הנער לראות חלומות מכוונים שמאז הוא בן בינה ובר מצוה בראיה מדברי הכתוב "בסעפים מחביונות לילה וגו' אז יגלה אזן אנשים וכו'" (שם א"ב ד' ש'). כמו רוב הקראים האמין גם הוא בקול נברא וכבוד נברא (ספר העשר יתרו, מבחר ישעיה ו', פירוש שהובא לרגנשפורק, עי' כתב תמים באוצר נחמד ג' 81, ואבוסרי נזכר שם עוד על ידי משה תקו עמ' 64 בצד ענן ושאול). הבדל שנה משנה תלוי באביב ושם הקציר מוסכם על הזרע שישיג בצורה ידועה שיוקצר ועל כן צריך שיהיה האביב בצורת זהב כדי שישיג הזרע עד ט"ו לחדש קציר שלם (גן עדן ט"ז ג', כ"א א'; אדרת אליהו ענין קדוש החודש פרק ל"ד; ולפי דברי אבן אלהיתי חלק סהל על יוסף בן נח בענין האביב וגם זה מורה על זמנו). בעניני שבת היה מחמיר מאד עד כי בית יפת הלוי הקילו לעומתו בדינים אלו עד שלש עשרה דברים (אשכול הכופר קע"ח כ'). לפי דעתו מלאכה כוללת כל המעשים כי מצאנוה נאמרת במקרא לשבעה זמנים למיני אומנויות, כמו שנאמר "וירא משה את כל המלאכה," לענין תקון הספינות והליכתם שנאמר "עושי מלאכה במים רבים," להעתק הדברים ונשיאתם והנחתם, כגון "כל איש יבואו ויעשו מלאכה," לענין הדבור המשפט, כמו "והמלאכה לא ליום אחד ולא לשניים," למראה עיניים ורעיון הלב, כמו "ואקום ואעש את מלאכת המלך," למעשה הלב והעין בעבר ובעתיד, כמו "גם מתרפה במלאכתו," ולמעשה הנולד בדברים נקדמים כאמרו "ויכל משה את המלאכה" ואם כן במאמר "כל מלאכה לא תעשו" נכללים כל המעשים ויצא מה שהוא בחוב כמו מילה וקרבן ומה שהוא בראייה בהיתר (גן עדן כ"ב ג', אדרת אליהו ענין שבת פרק ד'). וברוח זה פתר גם הכתוב "שבו איש תחתיו" (גן עדן ל"א א', אדרת שם פרק י"ג) וענין הכנה (גן עדן ל"ד ב', אדרת שם פרק ה'). בענין עריות היה מבעלי הרכוב וראייתו מהכתוב "ערות אשת אביך לא תגלה ערות אביך הוא," אם כן אשת האב והאב הם בדין גוף אחד. ואמר כי אסור הערוות נלמד מחמש דרכים, והם: הכתוב, ההפוך, העלה, ההקשה והשם (א' כמו ערות אביך, ב' ערות אשה ובתה עד סוף כל הדורות, ג' כי ערותך הנה, ד' ערות אחי אביך והקשתו ערות אחי אמך, ה' דודתך היא לאסור ממנה אשר יאסור מקרובי הדוד וע"ש) (ס' הישר לישועה 51, 133; אשכול הכופר קס"ט ה', י'). כן החזיק (לעומת ענן) בדיני טומאה בזמן הזה ואמר כי אף על פי שהטהרה נפלה בגלות הטומאה לא נפלה (אדרת אליהו ענין טומאה וטהרה פרק י"ט) ואסר כפי הנראה לאכול בשר בזמן הזה כמו שנראה מדבריו באגרת התוכחת ומשאר ביטויו (עי' אשכול הכופר רל"ו ח' ופירוש שמות ויקרא בל"ק 75). וכן באו ממנו דברים בענין ירושות (אשכול הכופר רנ"ז מ', ספר העשר פרשת פנחס, גן עדן דיני ירושה פרק ג'-ד', אדרת אליהו ענין ירושה פרק ג').</p><p>מפירושיו למקרא ראויים להזכיר: <em>בראשית</em> ט':כ"ה: נח ידע כי כנען יהיה רע מעללים על כן קיללו (מבחר). - שם י"ח:א': זה היה חזיון משה (שם). - שם כ"א:י"ד: לא נתן אברהם להגר בהמה ומשרת כדי שלא יהיה לה חזקה בנחלה בלי צורך (שם). - שם כ"ג:א': ויהיו חיי שרה ... חלק שנותיה כנגד שלשה מקומות שהיו שם באור כשדים וכנען וארץ פלשתים כי בארץ מצרים מעט זמן עשו (שם), וזה דרך דרש. - שם ל':ל"ו: צאן לבן הוא תאר כלומר צאן הלבנים, וזה פירוש מוזר (שם). - שם ל"ה:י"ח: ואביו קרא לו בנימין ... קראו על שם המקום כי ארץ ישראל בפאת נגד כלומר בימין שנאמר והטף אל דרום (שם). - שם מ"ב:ט"ז: חי פרעה ... לא נשבע בחיי פרעה לשקר כי כוונת יוסף אם לא יבוא אחיכם הקטן הנה אתם מרגלים לעיני מצרים. - שם מ"ח:כ"ב: ואני הנה נתתי לך שכם, ואני סמוכה על ויקרא לבנו ליוסף ויאמר אליו אם נא מצאתי חן בעיניך, וענינו ראיתי גם אני ברוח הקודש בעבור הטרח שתטרח לקברני בקברי אבותי אתן לך את שכם שיהיה גם הוא לך מקום קבר (שם).</p><p><em>שמות</em> ה':ה': הן רבים, דרך התול [הן רבים] בונים עתה ערים בעולם לכו והשביתו אותם (שם). - שם ט':י"ז: עודך מסתולל, עד מתי תהיה נרמס כמו מסלה בעבור עמי, וגם זה פירוש מוזר (שם). - שם י"ב:ל': ופסחתי עליכם, זה על דרך נסיון כמו שניסם במן איש אל יותר ממנו ושם נסו העם, אבל עתה לא כן (כתר תורה והכוונה אולי אל "ואתם לא תצאו). - שם י"ג:י"ג: וערפתי, תכתב בערפו קדש (פירוש זה הביא הראב"ע בשם יש אומרים אבל בכ"י בשם אבושרי, עי' מונק, Notice, 5 n.2. והראב"ע מוסיף: והאומר כזה אומר אני שהוא חמור קשה ערף). (גם ר' יהודה מושקוני מביא באבן העזר שלו את אבו שרי (עי' מאגאזין ג' 143), האם ידע אותו על ידי הראב"ע?)</p><p><em>ויקרא</em> ה':ט"ו: נפש כי תמעול, כמו אמר ומעלה מעל בה' ולכן אמר מעלו אבותיכם ולא אמר חטאו כי המעולות (צ"ל המעילות) ובקדושה ובמקדש ה' (פי' שמות ויקרא, ל"ק 73). - שם ה':כ"ט: תשומת יד הוא אשר ישים דבר בפני חברו או יתנהו בביתו ויאמר להד"מ או לא נתת לי דבר (אדרת אליהו ענין שבועה פרק ה'). - שם ו':י"ד: תפיני, שם למנחה כי תקרא כן בלשון טברייא (?) תופניי ובלשון ערב תפונייא, הלחם העשוי בדפוס ארבעה פנים (מבחר).</p><p><em>במדבר</em> ה':י"ב: במלת אשתו פה נכללת גם הארושה ומעלה הוא שהוכרחה ולא הגידה (ס' העשר). - שם כ"ג:כ"א: לא הביט און ביעקב, לא הביט איש ביעקב און ר"ל עבודה זרה אז ה' אלהיו עמו ומזה לקח בלק רמז והחטיא את ישראל בבנות מדין כנרמז למסור מעל ה' בדבר בלעם (כתר תורה). - שם כ"ד:כ"ד: וענו עבר, ארץ כנען נקראה עבר וראיה מן גנב גנבתי מארץ העברים וזה ידוע כי כל שדר במקום יקרא ארץ פלוני (מבחר).</p><p><em>יהושע</em> ה':ז': כי לא מלו בדרך, בעת שהיו הולכים בדרך לא היו נמולים, אבל בעת חנייתם היו נמולים וראייה מהכתוב וכל הילודים במדבר בדרך לא מלו בצאתם ממצרים (אשכול הכופר ר"א מ'; ויותר נראה שהוא מספר המצוות, דיני מילה).</p><p><em>ישעיה</em> (פה הכל לקוח מהמבחר): ג':י"ז: פתהן, הוא כפל קדקד כמנהג הנבואות. - כ"א:ז': רכב צמד פרשים, זה מליצה על תמימי דרך אשר יקומו באחרית הגאולה כנזכר על חומותיך ירושלים הפקדתי שומרים ויתפללו אלי אלי למה עזבתני וכו'. - ל':ו': בהמות, זה על יהודה שדימה אותם כן לרוב שטותם ולביא וליש הם מלכי יהודה. - ל"ד:ט"ז: דרשו מעל ספר ה', הוא ספר ישעיה. - מ"ב:א': הן עבדי, זה הוא משיחנו. - מ"ח:א': וממי יהודה יצאו, כי עזבו מי השלוח ולקחום מי הנהר העצומים שהיגלם מלך אשור.</p><p>זכריה י"א:ז': נעם הוא ישמעאל ואדום וחבלים הם הרבנים אשר הם מחבלים ומשחיתים לישראל וכאשר יוגדע ישמעאל ואדום אז יראו מי גבורים (כ"י ליידן 12, Steinschneider, Cat. Leyden, p. 33). ואולי לקוח זה מאגרת התוכחת, עמ' 42.</p><p><em>דניאל</em> י"ב:י"ב: ימים פה יש לפתור ימים באמת ואלה שלשה המועדים הם אחד אחר אחד ביאורו זה שא' אלפים וש' הוא העדן הא' ואלף ור"צ העדן השני ואלף ושל"ה הוא שלישי וכו' (ס' העשר).</p><p>אביו של סהל הוא מצליח הוא לפי דעת פינסקר אבו סהל הכהן שמובא ממנו דבר בספר הפתרון (ל"ק 87) ומי יודע אם כן הוא. והיה לסהל בן ושמו מצליח שהיו לו שני בנים דוד ויחזקאל, עי' חלוק הקראים והרבנים (ל"ק 106: , Steinschneider, Cat. Leyden, p. 309) "... וסהל בן מצליח הכהן הידוע המשכיל הגדול ובנו מצליח [המשכיל] ועזרא המשכיל וצדוק המשכיל ומצליח הכהן ושני בניו דוד ויחזקאל." אבל אצל יוסף בגי נשמטו השמות מן "הידוע ... הכהן" עד כי מצליח לא יזכר כלל ודוד ויחזקאל היו בני סהל (וכן באו"צ כ"א ב' י"א: הר"ר סהל הכהן בן הר"ר מצליח ושני בניו הר"ר יחזקאל והר"ר דוד ע"ה). אבל זה בלתי נראה בשגם מצאנו את מצליח הכהן מובא פעמים באשכל הכופר, אם לא שנאמר כי הוא אבי סהל (עי' מצליח בן סהל הכהן). </p><p>ובתורה כ"י שנמצאה בית כנסת הקראים בקהיר כתוב בסופה: "אני מישאל בן עזיאל בן יוסף בן הללי (בודאי צ"ל הלל) בדקתי זאת התורה של קדש חצר בן בכתויה ירחמהו אל על יד מצליח הכהן יחיהו אלוה בן סהל המלמד הכהן נוח נפש וכו' (JQR 17:602). ואחרי כי מישאל חי במאה הי"ב הנה מצליח זה הוא בודאי בנו של סהל שלנו, אבל אולי מיוצאי חלציו. ועוד שם (על דף מיוחד): "זה הספר התורה קודש ליהוה אלהי ישראל הקדיש אותו נסי בן פצ'לאן אלכרגי בירושלים עיר הקדש ... והפקיד אותו נסי בן פצ'לאן בעל התורה הזאת על יד סהל בן צלח להיות תחת ידו כל ימי היותו בירושלם ... ואם יצאו בניו מן העולם בלא בנים יהיה הספר הזה לבעלי המקרא אשר בירושלים וכו'." האם סהל בן צלח הוא סהל שלנו או אחד מיוצאי חלציו? (ועי' ספרי KLO, עמ' 30, הערה 3).</p><p>ביבליוגרפיה:</p><p>פינסקר, ל"ק קי"ב-קי"ד, קס"ח-קס"ט; גוטלובר, בקרת, 196; פוזננסקי, ראשית התישבות הקראים בירושלים, 19-22; אוצר ישראל, ח"ב, 147.</p><p>Hamburger, RE d. Jud., Abteil. III, Suppl. VI )1901(, p. 119; Winter-Wunsche II:81-86; Munk, Notice sur Abulwalid, p. 5-6; Jost, II:345; Steinschneider, Cat. Leyden, p. 293-294; idem, Pol. Lit., p. 347; idem, Übersetz. 946; idem, JQR XI:315, 619 no. 746; idem, Ar. Lit., 241; idem, ZfHB VI:184; Fürst, II:90-97; Graetz, V )see index( )די"י ח"ג 013, 413, 254(; Sinani, II:59-67; Poznanski, Kaufmann Gedenkbuch, 180-181; idem, Zur jud. arab. Lit., 86; idem, KLO, 30-41; idem, Encycl. of Rel. VII:666a; JE X:636; Entz. Yev. XIII:808-809.</p></quote>
+                <bibl xml:id="jalit-orgbiblDJV65BQJ">
+                        <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
+                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
+                    </bibl>
             </item>
         </list>
     </standOff>
