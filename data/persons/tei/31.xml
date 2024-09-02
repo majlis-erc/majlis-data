@@ -3,30 +3,30 @@
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Saʿid Širan</title>
-                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
-                    Arabic in the Islamicate World</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt </editor>
-                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb </editor>
-                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière </editor>
-                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html"> Nadine Urbiczek </editor>
-                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html"> Peter Tarras </editor>
-                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html"> Annabelle Fuchs </editor>
-                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html"> Lea Gzella </editor>
-                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3"> Polina Lakteikina </editor>
-                <editor xml:id="rboehm" role="contributor"> Maurizio Boehm </editor>
-                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html"> Lea Poralla </editor>
-                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html"> Lukas Froschmeier </editor>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
+                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
+                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
+                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">Lea Gzella</editor>
+                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">Polina Lakteikina</editor>
+                <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">Lea Poralla</editor>
+                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +48,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-07-01T16:39:17.127Z">Updated heritage data.</change><change who="#mmoliere" when="2024-07-01T16:11:31.134Z">Added heritage data.</change>
+            <change who="#mmoliere" when="2024-09-02T11:47:10.912Z">Added heritage data.</change><change who="#mmoliere" when="2024-07-01T16:39:17.127Z">Updated heritage data.</change>
+            <change who="#mmoliere" when="2024-07-01T16:11:31.134Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
@@ -132,71 +133,47 @@
                         <placeName ref="" cert=""/>
                     </residence>
                     <bibl type="bibliography" xml:id="jalit-orgbiblWWNYMM">
-                        <title>Bacher, Wilhelm. “Die Anfänge der hebräischen Grammatik [1 Teil].”
-                            Zeitschrift der Deutschen Morgenländischen Gesellschaft 49 (1895): pp.
-                            1-62.</title>
+                        <title>Bacher, Wilhelm. “Die Anfänge der hebräischen Grammatik [1 Teil].” Zeitschrift der Deutschen Morgenländischen Gesellschaft 49 (1895): pp. 1-62.</title>
                         <ptr target="https://jalit.org/bibl/WWNYMM"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFVIRRXF">
-                        <title>Gil, Moshe. “Saʿīd Shīrān.” In A History of Palestine, 634-1009,
-                            (Cambridge: Cambridge University Press, 1992), p. 789.</title>
+                        <title>Gil, Moshe. “Saʿīd Shīrān.” In A History of Palestine, 634-1009, (Cambridge: Cambridge University Press, 1992), p. 789.</title>
                         <ptr target="https://jalit.org/bibl/FVIRRXF"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblQMSMFQBD">
-                        <title>Harkavy, Albert. “Saʿīd Shīrān.” In Studien und Mittheilungen aus der
-                            Kaiserlichen Oeffentlichen Bibliothek zu St Petersburg, (Leipzig: Voss'
-                            Sortiment (G. Haessel), 1891), pp. 74-84.</title>
+                        <title>Harkavy, Albert. “Saʿīd Shīrān.” In Studien und Mittheilungen aus der Kaiserlichen Oeffentlichen Bibliothek zu St Petersburg, (Leipzig: Voss' Sortiment (G. Haessel), 1891), pp. 74-84.</title>
                         <ptr target="https://jalit.org/bibl/QMSMFQBD"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblZI5B6QAQ">
-                        <title>Howard, Yonathan. “לשון קודש, לשון כשדים, לשון יוונים: רשימת הלשונות
-                            במאור עין ומסירתו של דקדוקי המקרא.” מחקרים בלשון: ספר היובל לאהרן ממן
-                            יז-יח (2017): pp. 316-301.</title>
+                        <title>Howard, Yonathan. “לשון קודש, לשון כשדים, לשון יוונים: רשימת הלשונות במאור עין ומסירתו של דקדוקי המקרא.” מחקרים בלשון: ספר היובל לאהרן ממן יז-יח (2017): pp. 316-301.</title>
                         <ptr target="https://jalit.org/bibl/ZI5B6QAQ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl5KS7LILV">
-                        <title>Khan, Geoffrey. “Saʿīd Shīrān.” In Early Karaite Grammatical Texts,
-                            (Atlanta: Society of Biblical Literature, 2000), pp. 13-240.</title>
+                        <title>Khan, Geoffrey. “Saʿīd Shīrān.” In Early Karaite Grammatical Texts, (Atlanta: Society of Biblical Literature, 2000), pp. 13-240.</title>
                         <ptr target="https://jalit.org/bibl/5KS7LILV"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblWHSY736L">
-                        <title>Khan, Geoffrey. “Saʿīd Shīrān.” In The Early Karaite Tradition of
-                            Hebrew Grammatical Thought: Including a Critical Edition, Translation
-                            and Analysis of the Diqduq of ’Abū Ya‘qūb Yūsuf ibn Nūḥ on the
-                            Hagiographa, (Leiden: Brill, 2000), p. 7.</title>
+                        <title>Khan, Geoffrey. “Saʿīd Shīrān.” In The Early Karaite Tradition of Hebrew Grammatical Thought: Including a Critical Edition, Translation and Analysis of the Diqduq of ’Abū Ya‘qūb Yūsuf ibn Nūḥ on the Hagiographa, (Leiden: Brill, 2000), p. 7.</title>
                         <ptr target="https://jalit.org/bibl/WHSY736L"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblGFGN8DUI">
-                        <title>Khan, Geoffrey. “The Medieval Karaite Tradition of Hebrew Grammar.”
-                            In The Foundations of Arabic Linguistics: Sībawayhi and Early Arabic
-                            Grammatical Theory, edited by Amal Elesha Marogy. (Leiden: Brill, 2012),
-                            pp. 211-230.</title>
+                        <title>Khan, Geoffrey. “The Medieval Karaite Tradition of Hebrew Grammar.” In The Foundations of Arabic Linguistics: Sībawayhi and Early Arabic Grammatical Theory, edited by Amal Elesha Marogy. (Leiden: Brill, 2012), pp. 211-230.</title>
                         <ptr target="https://jalit.org/bibl/GFGN8DUI"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblS3RMB3I">
-                        <title>Mann, Jacob. “Saʿīd Shīrān.” In Texts and Studies in Jewish History
-                            and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish
-                            Publication Society, 1935), p. 30.</title>
+                        <title>Mann, Jacob. “Saʿīd Shīrān.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), p. 30.</title>
                         <ptr target="https://jalit.org/bibl/S3RMB3I"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblGUCAZ37N">
-                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly
-                            Review 8, no. 4 (1896): pp. 681-704. doi:
-                            https://doi.org/10.2307/1450208. </title>
+                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly Review 8, no. 4 (1896): pp. 681-704. doi: https://doi.org/10.2307/1450208.</title>
                         <ptr target="https://jalit.org/bibl/GUCAZ37N"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl83CLUH7Q">
-                        <title>Steinschneider, Moritz. “Saʿīd Shīrān.” In Die arabische Literatur
-                            der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils
-                            aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902),
-                            p. 89 [§49b].
-                            https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033. </title>
+                        <title>Steinschneider, Moritz. “Saʿīd Shīrān.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), p. 89 [§49b]. https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033.</title>
                         <ptr target="https://jalit.org/bibl/83CLUH7Q"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblCSV88USX">
-                        <title>Vidro, Nadia. “Saʿīd Shīrān.” In Verbal Morphology in the Karaite
-                            Treatise on Hebrew Grammar: Kitāb al-ʾUqūd fī Taṣārīf al-Luġa
-                            al-ʾIbrāniyya, (Leiden: Brill, 2011), pp. 20-21.</title>
+                        <title>Vidro, Nadia. “Saʿīd Shīrān.” In Verbal Morphology in the Karaite Treatise on Hebrew Grammar: Kitāb al-ʾUqūd fī Taṣārīf al-Luġa al-ʾIbrāniyya, (Leiden: Brill, 2011), pp. 20-21.</title>
                         <ptr target="https://jalit.org/bibl/CSV88USX"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblK25ILHYZ">
@@ -204,8 +181,7 @@
                         <ptr target="https://jalit.org/bibl/K25ILHYZ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblWQPYLFDI">
-                        <title>פוזננסקי, שמואל אברהם. “יוסף בן בכתוי.” אוצר ישראל, edited by J. D.
-                            Eisenstein (New York: J. D. Eisenstein, 1911), pp. 135-136.</title>
+                        <title>פוזננסקי, שמואל אברהם. “יוסף בן בכתוי.” אוצר ישראל, edited by J. D. Eisenstein (New York: J. D. Eisenstein, 1911), pp. 135-136.</title>
                         <ptr target="https://jalit.org/bibl/WQPYLFDI"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
@@ -222,19 +198,30 @@
     </text>
     <standOff>
         <list>
-            <item><persName>Moritz Steinschneider</persName>
-                <note><p>While Moritz Steinschneider (1816–1907) is primarily known for having laid the modern foundations of Jewish bibliography, he also devoted himself to a systematic survey of Jewish literature. In Steinschneider’s work the investigation of Jewish writings in Arabic takes a central place. In 1845, he proposed to the Verein für Kultur und Wissenschaft der Juden his <em>magnum opus</em>, a “Jüdisch-Arabische Bibliothek” (Steinschneider, <em>Die arabische Literatur</em>, xlvii). It was well received, and he obtained modest funding for it. It seems that the first part, the <em>Bibliotheca Judaeo-Arabica</em>, which consisted of a chronological survey of Judeo-Arabic literature, had already been completed in 1845. It contained a short biographical sketch of each author known to Steinschneider, arranged chronologically, and an account of their works, including details of available manuscripts and translations, mainly taken from unpublished sources. However, it only reached publication some sixty years later with the appearance of his seminal series of articles “An Introduction to the Arabic Literature of the Jews,” which appeared in 1897–1901 in the <em>Jewish Quarterly Review</em>, and also his <em>Arabische Literatur der Juden</em> (1902), which Steinschneider rightly calls in its foreword his “Lebensarbeit” (p. viii). The former, in which he describes his arduous search for manuscripts throughout Europe, serves as a voluminous introduction to the latter. The <em>Arabische Literatur der Juden</em> is divided into seven sections: (1) Jewish authors in Ancient Arabia; (2) Jewish authors in the East until the end of the Geonic period (1040); (3) Jewish authors in the Muslim West; (4) Jewish in the East, 1041–1500; (5) later Jewish authors (1500–1894); (6) Jewish authors of uncertain date; and (7) anonymous Jewish authors according to subject.  </p><p>Literature:  
-<lb/>Paul Fenton, “Moritz Steinschneider’s Contribution to Judaeo-Arabic Studies,” in <em>Studies on Steinschneider: Moritz Steinschneider and the Emergence of the Science of Judaism in Nineteenth-Century Germany</em>, edited by Reimund Leicht and Gad Freudenthal (Leiden: Brill, 2012), pp. 363–383.  
-<lb/>Moritz Steinschneider, “An Introduction to the Arabic Literature of the Jews,” <em>Jewish Quarterly Review</em> 9–13 (1897–1901).  
-<lb/>Moritz Steinschneider, Die  arabische Literatur der Juden (Frankfurt am Main: Kauffmann, 1902).</p></note>
+            <item>
+                <persName>Moritz Steinschneider</persName>
+                <note><p>While Moritz Steinschneider (1816–1907) is primarily known for having laid the modern foundations of Jewish bibliography, he also devoted himself to a systematic survey of Jewish literature. In Steinschneider’s work the investigation of Jewish writings in Arabic takes a central place. In 1845, he proposed to the Verein für Kultur und Wissenschaft der Juden his <em> magnum opus </em> , a “Jüdisch-Arabische Bibliothek” (Steinschneider, <em> Die arabische Literatur </em> , xlvii). It was well received, and he obtained modest funding for it. It seems that the first part, the <em> Bibliotheca Judaeo-Arabica </em> , which consisted of a chronological survey of Judeo-Arabic literature, had already been completed in 1845. It contained a short biographical sketch of each author known to Steinschneider, arranged chronologically, and an account of their works, including details of available manuscripts and translations, mainly taken from unpublished sources. However, it only reached publication some sixty years later with the appearance of his seminal series of articles “An Introduction to the Arabic Literature of the Jews,” which appeared in 1897–1901 in the <em> Jewish Quarterly Review </em> , and also his <em> Arabische Literatur der Juden </em> (1902), which Steinschneider rightly calls in its foreword his “Lebensarbeit” (p. viii). The former, in which he describes his arduous search for manuscripts throughout Europe, serves as a voluminous introduction to the latter. The <em> Arabische Literatur der Juden </em> is divided into seven sections: (1) Jewish authors in Ancient Arabia; (2) Jewish authors in the East until the end of the Geonic period (1040); (3) Jewish authors in the Muslim West; (4) Jewish in the East, 1041–1500; (5) later Jewish authors (1500–1894); (6) Jewish authors of uncertain date; and (7) anonymous Jewish authors according to subject. </p><p> Literature: 
+<lb/> Paul Fenton, “Moritz Steinschneider’s Contribution to Judaeo-Arabic Studies,” in <em> Studies on Steinschneider: Moritz Steinschneider and the Emergence of the Science of Judaism in Nineteenth-Century Germany </em> , edited by Reimund Leicht and Gad Freudenthal (Leiden: Brill, 2012), pp. 363–383. 
+<lb/> Moritz Steinschneider, “An Introduction to the Arabic Literature of the Jews,” <em> Jewish Quarterly Review </em> 9–13 (1897–1901). 
+<lb/> Moritz Steinschneider, Die arabische Literatur der Juden (Frankfurt am Main: Kauffmann, 1902). </p><p/></note>
                 <persName/>
-                <quote xml:lang="ge"><p>§ 49b</p><p>Sa’id al-Schiran (  אלשיראן? ), ein Schüler in der Sprachwissenschaft des Josef ibn Bakhtawi, also wohl ein Karäer, vf. wahrscheinlich Etwas über Sprache, nach dem Citat eines anon. Kar., ms. Br. Mus. Or. 2523, bei Pozn., Jew. Qu. VIII, 698. – Ein relat. Schiraui haben Sujuti und Kairuwani nicht, ob etwa Schirazi, aus Schiraz, zu lesen ist?</p><p/></quote>
+                <quote xml:lang="ge"><p>§ 49b </p><p> Sa’id al-Schiran ( אלשיראן? ), ein Schüler in der Sprachwissenschaft des Josef ibn Bakhtawi, also wohl ein Karäer, vf. wahrscheinlich Etwas über Sprache, nach dem Citat eines anon. Kar., ms. Br. Mus. Or. 2523, bei Pozn., Jew. Qu. VIII, 698. – Ein relat. Schiraui haben Sujuti und Kairuwani nicht, ob etwa Schirazi, aus Schiraz, zu lesen ist? </p><p> </p><p/></quote>
                 <bibl xml:id="jalit-orgbibl83CLUH7Q">
-                        <title>"Saʿīd Shīrān" Moritz Steinschneider, Saʿīd Shīrān, in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902).</title>
-                        <citedRange unit="page">89</citedRange>
+                    <title>Moritz Steinschneider, "Saʿīd Shīrān", in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902).</title>
+                    <citedRange unit="page">89</citedRange>
                     <ptr target="https://jalit.org/bibl/83CLUH7Q"/>
+                </bibl>
+            </item><item>
+      <quote xml:lang="he"><p>סעיד שיראן</p><p>בספר קראי בערבית כולל וכוח נגד מחבר רבני ונמצא בכ"י בר' מוז' 2523 Or. (רשימת מרגליות 1098) דף נ"ח ע"א כתוב: "ואמא אללגה פליסת לך בל אלכתאב פיהא כאן לסעיד שיראן רחמה אללה אלד'י סעיד שיראן כאן תלמיד' פיהא לאבי יעקוב יוסף בן בכ'תוי מעלם אלג'אליה רצ'י אללה ענה." ובעברית: "אבל במה שנוגע לחכמת הלשון אינה מעניניך, אבל יש בה ספר לסעיד שיראן יר"א אשר זה סעיד שיראן היה בחכמה זאת תלמידו של אבו יעקוב יוסף בן בכ'תוי מלמד הגולה רא"ע." ואם כן חי סעיד במאה העשירית. השם שיראן לא ימצא יותר בספרות ישראל ושערתי כי אולי צריך לקרא שירואני או שיריני (היינו משירואן בבכ'ארא או משירין בארץ מדי), ושטיינשניידר משער כי אולי צריך לקרא שיראזי (היינו משיראז בארץ פרס), אבל קשה לומר כי נשתבש השם פעמיים זה אחרי זה.</p><p>ביבליוגרפיה:
+<lb/>Poznanski, JQR VIII:698; Steinschneider, JQR XI:616, no. 74c; idem, Ar. Lit., sec. 49b.</p></quote>
+      <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  </p><p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the  
+<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found in the Samuel Poznański Archive at the National Library of Israel  (ARC 4﹡ 1180, Series 5).  Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p><p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  </p><p>Literature:  
+<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em>Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging</em>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
+      <bibl xml:id="jalit-orgbiblDJV65BQJ">
+                        <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
+                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
                     </bibl>
-            </item>
+   </item>
         </list>
     </standOff>
 </TEI>
