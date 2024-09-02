@@ -1,259 +1,246 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="a" xml:lang="en">Abū l-Ḥasan ʿAlī b. Sulaymān</title>
-            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
-            <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                  München</orgName>) </sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                  Osten</orgName>) </sponsor>
-            <funder ref="https://erc.europa.eu/">
-               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
-            <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-               >Ronny Vollandt
-               </editor>
-            <editor xml:id="gschwarb" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-               >Gregor Schwarb
-               </editor>
-            <editor xml:id="mmoliere" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-               >Maximilian de Molière
-               </editor>
-            <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-            <respStmt>
-               <resp>Srophé app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>
-               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
-            </authority>
-            <idno type="URI">https://jalit.org/person/14</idno>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
-               </licence>
-            </availability>
-            <date>2021-10-23</date>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Born digital.</p>
-         </sourceDesc>
-      </fileDesc>
-      <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
-         <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <listPerson>
-            <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                  <name source="">Abū l-Ḥasan ʿAlī b. Sulaymān</name>
-               </persName>
-               <persName xml:id="" type="attested" xml:lang="he">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="attested" xml:lang="ar">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar-Latn">
-                  <name source="">al-Muqaddasī</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="ar">
-                  <name source="">أبو الحسن
-                     علي بن سليمان</name>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="ar">
-                  <addName source="" xml:id="sh-ar" type="shuhra"/>
-                  <addName source="" xml:id="is-ar" type="ism"/>
-                  <addName source="" xml:id="na-ar" type="nasab"/>
-                  <addName source="" xml:id="ni-ar" type="nisbah"/>
-                  <addName source="" xml:id="ku-ar" type="kunya"/>
-                  <addName source="" xml:id="la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="ar-Hebr">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
-                  >
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="he">
-                  <forename source="" xml:id="fn-he"/>
-                  <addName source="" xml:id="pa-he" type="patronym"/>
-                  <addName source="" xml:id="ep-he" type="epithet"/>
-                  <addName source="" xml:id="ac-he" type="acronym"/>
-                  <addName source="" xml:id="sh-he" type="shuhra"/>
-               </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn">
-                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName source="" ref="#pa-he" type="patronym"/>
-                  <addName source="" ref="#ep-he" type="epithet"/>
-                  <addName source="" ref="#ac-he" type="acronym"/>
-                  <addName source="" ref="#sh-he" type="shuhra"/>
-               </persName>
-               <birth>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
-               </birth>
-               <death>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
-               </death>
-               <floruit>
-    <date cert="" source=""/>
-                  <placeName ref="" cert="" source="">Palestine</placeName>
-</floruit>
-               <sex cert="" source=""/>
-               <faith cert="" source=""/>
-               <occupation type="" cert="" source=""/>
-               <residence>
-                  <placeName ref="" cert="" source=""/>
-               </residence>
-               <bibl type="bibliography" xml:id="jalit-orgbiblE6LEVQ">
-                  <title>“Ali Ibn Suleimen.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 660.</title>
-                  <ptr target="https://jalit.org/bibl/E6LEVQ"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblP76NY5JQ">
-                  <title>“Ali Ibn Suleimen.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 632.</title>
-                  <ptr target="https://jalit.org/bibl/P76NY5JQ"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblKDBFZNL">
-                  <title>“Ali ibn Suleiman.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), pp. 183-184.</title>
-                  <ptr target="https://jalit.org/bibl/KDBFZNL"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblIWAMWBKG">
-                  <title>Gascoigne, Alison L, and John P. Cooper. “Tinkers, tailors, soldiers and sailors The city of Tinnīs in the 11th-13th centuries.” In Guerre et paix dans le Proche-Orient médiéval (Xe-XVe siècle), edited by Mathieu Eychenne, Stéphane Pradines , and Abbès Zouache. (Cairo: Institut Français d'Archéologie Orientale, 2019), pp. 371-384. https://www.academia.edu/11895753/. </title>
-                  <ptr target="https://jalit.org/bibl/IWAMWBKG"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblID7FG6">
-                  <title>Gascoigne, Alison L, and John P. Cooper. “The topography of the city of Tinnīs.” In The Island City of Tinnīs: a Postmortem, (Cairo: Institut Francais D’Archeologie Orientale, 2020), pp. 85-141. https://eprints.soton.ac.uk/451803/. </title>
-                  <ptr target="https://jalit.org/bibl/ID7FG6"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblYP5YFYNT">
-                  <title>Gascoigne, Alison L, and John P. Cooper. The island city of Tinnīs: a postmortem. (Cairo: Institut Français d'Archéologie Orientale, 2020).</title>
-                  <ptr target="https://jalit.org/bibl/YP5YFYNT"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblHIVZC2W">
-                  <title>Gascoigne, Alison L, John P. Cooper, and Ziad Morsy. مدينة تِنّيس في العصرين الروماني واإلسالمي مدخل تاريخي وأثري || The Roman and Islamic city of Tinnis: a historical and archaeological introduction. ().</title>
-                  <ptr target="https://jalit.org/bibl/HIVZC2W"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbibl5TKTZK8">
-                  <title>Gil, Moshe. “Salmon ben Jeroham.” In A History of Palestine, 634–1099, (Cambridge: Cambridge University Press, 1992), pp. 67; 72; 112; 180; 347; 618; 620; 652; 782; 796; 798; 806.</title>
-                  <ptr target="https://jalit.org/bibl/5TKTZK8"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblRID7IXD6">
-                  <title>Goldstein, Miriam. Karaite exegesis in medieval Jerusalem: The Judeo-Arabic Pentateuch commentary of Yūsuf ibn Nūḥ and Abū al-Faraj Hārūn. (Tübingen: Mohr Siebeck, 2011).</title>
-                  <ptr target="https://jalit.org/bibl/RID7IXD6"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblNLMAEUIB">
-                  <title>Mann, Jacob. Texts and studies in Jewish history and literature. (Cincinnati; Philadelphia: Hebrew Union College Press; Jewish Publication Society, 1931).</title>
-                  <ptr target="https://jalit.org/bibl/NLMAEUIB"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblQR5RQ2HX">
-                  <title>Margoliouth, George. “Ibn al-Hītī’s Arabic Chronicle of Karaite Doctors.” Jewish Quarterly Review 9 (1897): pp. 429-443.</title>
-                  <ptr target="https://jalit.org/bibl/QR5RQ2HX"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblW3ZI8VB">
-                  <title>Margoliouth, George. Catalogue of the Hebrew and Samaritan manuscripts in the British Museum. (London1899).</title>
-                  <ptr target="https://jalit.org/bibl/W3ZI8VB"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblMDP7PR3W">
-                  <title>Neubauer, Adolf ed. كتاب اللأصول لأبي الوليد مروان بن جناح القرطبي (The Book of Hebrew Roots by Abu ʾl-Walîd Marwân ibn Janâh, called Rabbî Jônâh). (Oxford: Clarendon Press, 1875).</title>
-                  <ptr target="https://jalit.org/bibl/MDP7PR3W"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblXQGKLC7">
-                  <title>Pinsker, Simḥa. “Daniel ben Moses al-Qumisi.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), p. 38.</title>
-                  <ptr target="https://jalit.org/bibl/XQGKLC7"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblRHD5LLU">
-                  <title>Polliack, Meira. The Karaite tradition of Arabic Bible translation: A linguistic and exegetical study of Karaite translations of the Pentateuch from the tenth and eleventh centuries CE. (Leiden: Brill, 1997).</title>
-                  <ptr target="https://jalit.org/bibl/RHD5LLU"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblLLJ52HJ7">
-                  <title>Skoss, Solomon L. “The Arabic Commentary of Ali ben Suleiman the Karaite on the Book of Genesis.” Jewish Quarterly Review new series 18 Printed separately (1927): pp. 1-35,153-206,267-314,385-435. doi: https://doi.org/10.2307/1451756. </title>
-                  <ptr target="https://jalit.org/bibl/LLJ52HJ7"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblGIEM8E">
-                  <title>Skoss, Solomon Leon ed. David ben Abraham al-Fāsī (the Karaite): The Hebrew-Arabic Dictionary of the Bible Known as Kitāb Jāmiʿ al-Alfāẓ (Agron). (New Haven: Yale University Press, 1936).</title>
-                  <ptr target="https://jalit.org/bibl/GIEM8E"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblBXKTJXYT">
-                  <title>Skoss, Solomon L. The Arabic Commentary of Ali Ben Suleiman the Karaite on the Book of Genesis. (Dropsie College, 1926).</title>
-                  <ptr target="https://jalit.org/bibl/BXKTJXYT"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblAF7SFGTG">
-                  <title>Skoss, Solomon Leon ed. The Arabic commentary of ‘Ali ben Suleimān the Karaite on the Book of Genesis. (Philadelphia: Dropsie College, 1928).</title>
-                  <ptr target="https://jalit.org/bibl/AF7SFGTG"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblIE7WW6D2">
-                  <title>Wechsler, Michael G. “ʿAlī ibn Sulaymān.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/*-SIM_000401. </title>
-                  <ptr target="https://jalit.org/bibl/IE7WW6D2"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblZDHCPG">
-                  <title>Борисов, А Я. “О времени и месте жизни караимского писателя ‘Али ибн Сулеймана.” Палестинский Сборник 2 (1956): pp. 109-114.</title>
-                  <ptr target="https://jalit.org/bibl/ZDHCPG"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbibl2WB68E">
-                  <title>Познанский, Самуил. “Али бен-Сулейман.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 866-868.</title>
-                  <ptr target="https://jalit.org/bibl/2WB68E"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblGPKZFGPH">
-                  <title>בנעט, דצ. “לקביעת זמנו של עלי בן סלימאן הקראי.” תרביץ ב (1931): pp. 117-115.</title>
-                  <ptr target="https://jalit.org/bibl/GPKZFGPH"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblBWYZWIGU">
-                  <title>סקוז, שלמה ל. “לקביעת תקופת חייו של עלי בן סלימאן הקראי.” תרביץ ב (1931): pp. 513-510.</title>
-                  <ptr target="https://jalit.org/bibl/BWYZWIGU"/>
-               </bibl>
-               <idno type="URI" subtype="isni"/>
-               <idno type="URI" subtype="viaf"/>
-               <idno type="URI" subtype="wiki"/>
-               <idno type="URI" subtype="gnd"/>
-               <idno type="URI" subtype="merhav"/>
-               <idno type="URI" subtype="rambi"/>
-               <idno type="URI" subtype="imhm"/>
-               <idno type="URI" subtype="ktiv"/>
-            </person>
-         </listPerson>
-      </body>
-   </text>
-   <standOff>
-      <list>
-         <item>
-            <note/>
-            <persName/>
-            <quote xml:lang=""/>
-            <bibl>
-               <title/>
-               <citedRange unit="p"/>
-               <ptr target=""/>
-            </bibl>
-         </item>
-      </list>
-   </standOff>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Abū l-Ḥasan ʿAlī b. Sulaymān</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
+                <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
+                <funder ref="https://erc.europa.eu/">
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
+                <principal ref="#rvollandt">Ronny Vollandt</principal>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt><editor role="creator" ref=""/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+                </authority>
+                <idno type="URI">https://jalit.org/person/14</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                    </licence>
+                </availability>
+                <date>2021-10-23</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><p>Born digital.</p></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2024-09-02T10:25:14.321Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="person-14">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                        <name/>
+                    </persName>
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                        <name>Abū l-Ḥasan ʿAlī b. Sulaymān</name>
+                    </persName>
+                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                        <name/>
+                    </persName>
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                        <name/>
+                    </persName>
+                    <persName type="alternate" xml:lang="ar-Latn" xml:id="name-5">
+                        <name>al-Muqaddasī</name>
+                    </persName>
+                    <persName type="alternate" xml:lang="ar" xml:id="name-6">
+                        <name>أبو الحسن علي بن سليمان</name>
+                    </persName>
+                    <persName type="canon" xml:lang="ar" xml:id="name-7">
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="he" xml:id="name-10">
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
+                    </persName>
+                    <birth>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </birth>
+                    <death>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </death>
+                    <floruit>
+                        <date cert=""/>
+                        <placeName ref="" cert="">Palestine</placeName>
+                    </floruit>
+                    <sex cert=""/>
+                    <faith cert=""/>
+                    <occupation type="" cert=""/>
+                    <residence>
+                        <placeName ref="" cert=""/>
+                    </residence>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblE6LEVQ">
+                        <title>“Ali Ibn Suleimen.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 660.</title>
+                        <ptr target="https://jalit.org/bibl/E6LEVQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblP76NY5JQ">
+                        <title>“Ali Ibn Suleimen.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 632.</title>
+                        <ptr target="https://jalit.org/bibl/P76NY5JQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKDBFZNL">
+                        <title>“Ali ibn Suleiman.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), pp. 183-184.</title>
+                        <ptr target="https://jalit.org/bibl/KDBFZNL"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIWAMWBKG">
+                        <title>Gascoigne, Alison L, and John P. Cooper. “Tinkers, tailors, soldiers and sailors The city of Tinnīs in the 11th-13th centuries.” In Guerre et paix dans le Proche-Orient médiéval (Xe-XVe siècle), edited by Mathieu Eychenne, Stéphane Pradines , and Abbès Zouache. (Cairo: Institut Français d'Archéologie Orientale, 2019), pp. 371-384. https://www.academia.edu/11895753/.</title>
+                        <ptr target="https://jalit.org/bibl/IWAMWBKG"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblID7FG6">
+                        <title>Gascoigne, Alison L, and John P. Cooper. “The topography of the city of Tinnīs.” In The Island City of Tinnīs: a Postmortem, (Cairo: Institut Francais D’Archeologie Orientale, 2020), pp. 85-141. https://eprints.soton.ac.uk/451803/.</title>
+                        <ptr target="https://jalit.org/bibl/ID7FG6"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblYP5YFYNT">
+                        <title>Gascoigne, Alison L, and John P. Cooper. The island city of Tinnīs: a postmortem. (Cairo: Institut Français d'Archéologie Orientale, 2020).</title>
+                        <ptr target="https://jalit.org/bibl/YP5YFYNT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblHIVZC2W">
+                        <title>Gascoigne, Alison L, John P. Cooper, and Ziad Morsy. مدينة تِنّيس في العصرين الروماني واإلسالمي مدخل تاريخي وأثري || The Roman and Islamic city of Tinnis: a historical and archaeological introduction. ().</title>
+                        <ptr target="https://jalit.org/bibl/HIVZC2W"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl5TKTZK8">
+                        <title>Gil, Moshe. “Salmon ben Jeroham.” In A History of Palestine, 634–1099, (Cambridge: Cambridge University Press, 1992), pp. 67; 72; 112; 180; 347; 618; 620; 652; 782; 796; 798; 806.</title>
+                        <ptr target="https://jalit.org/bibl/5TKTZK8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRID7IXD6">
+                        <title>Goldstein, Miriam. Karaite exegesis in medieval Jerusalem: The Judeo-Arabic Pentateuch commentary of Yūsuf ibn Nūḥ and Abū al-Faraj Hārūn. (Tübingen: Mohr Siebeck, 2011).</title>
+                        <ptr target="https://jalit.org/bibl/RID7IXD6"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNLMAEUIB">
+                        <title>Mann, Jacob. Texts and studies in Jewish history and literature. (Cincinnati; Philadelphia: Hebrew Union College Press; Jewish Publication Society, 1931).</title>
+                        <ptr target="https://jalit.org/bibl/NLMAEUIB"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQR5RQ2HX">
+                        <title>Margoliouth, George. “Ibn al-Hītī’s Arabic Chronicle of Karaite Doctors.” Jewish Quarterly Review 9 (1897): pp. 429-443.</title>
+                        <ptr target="https://jalit.org/bibl/QR5RQ2HX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblW3ZI8VB">
+                        <title>Margoliouth, George. Catalogue of the Hebrew and Samaritan manuscripts in the British Museum. (London1899).</title>
+                        <ptr target="https://jalit.org/bibl/W3ZI8VB"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMDP7PR3W">
+                        <title>Neubauer, Adolf ed. كتاب اللأصول لأبي الوليد مروان بن جناح القرطبي (The Book of Hebrew Roots by Abu ʾl-Walîd Marwân ibn Janâh, called Rabbî Jônâh). (Oxford: Clarendon Press, 1875).</title>
+                        <ptr target="https://jalit.org/bibl/MDP7PR3W"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblXQGKLC7">
+                        <title>Pinsker, Simḥa. “Daniel ben Moses al-Qumisi.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), p. 38.</title>
+                        <ptr target="https://jalit.org/bibl/XQGKLC7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRHD5LLU">
+                        <title>Polliack, Meira. The Karaite tradition of Arabic Bible translation: A linguistic and exegetical study of Karaite translations of the Pentateuch from the tenth and eleventh centuries CE. (Leiden: Brill, 1997).</title>
+                        <ptr target="https://jalit.org/bibl/RHD5LLU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLLJ52HJ7">
+                        <title>Skoss, Solomon L. “The Arabic Commentary of Ali ben Suleiman the Karaite on the Book of Genesis.” Jewish Quarterly Review new series 18 Printed separately (1927): pp. 1-35,153-206,267-314,385-435. doi: https://doi.org/10.2307/1451756.</title>
+                        <ptr target="https://jalit.org/bibl/LLJ52HJ7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGIEM8E">
+                        <title>Skoss, Solomon Leon ed. David ben Abraham al-Fāsī (the Karaite): The Hebrew-Arabic Dictionary of the Bible Known as Kitāb Jāmiʿ al-Alfāẓ (Agron). (New Haven: Yale University Press, 1936).</title>
+                        <ptr target="https://jalit.org/bibl/GIEM8E"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBXKTJXYT">
+                        <title>Skoss, Solomon L. The Arabic Commentary of Ali Ben Suleiman the Karaite on the Book of Genesis. (Dropsie College, 1926).</title>
+                        <ptr target="https://jalit.org/bibl/BXKTJXYT"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblAF7SFGTG">
+                        <title>Skoss, Solomon Leon ed. The Arabic commentary of ‘Ali ben Suleimān the Karaite on the Book of Genesis. (Philadelphia: Dropsie College, 1928).</title>
+                        <ptr target="https://jalit.org/bibl/AF7SFGTG"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIE7WW6D2">
+                        <title>Wechsler, Michael G. “ʿAlī ibn Sulaymān.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/*-SIM_000401.</title>
+                        <ptr target="https://jalit.org/bibl/IE7WW6D2"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZDHCPG">
+                        <title>Борисов, А Я. “О времени и месте жизни караимского писателя ‘Али ибн Сулеймана.” Палестинский Сборник 2 (1956): pp. 109-114.</title>
+                        <ptr target="https://jalit.org/bibl/ZDHCPG"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2WB68E">
+                        <title>Познанский, Самуил. “Али бен-Сулейман.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 866-868.</title>
+                        <ptr target="https://jalit.org/bibl/2WB68E"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGPKZFGPH">
+                        <title>בנעט, דצ. “לקביעת זמנו של עלי בן סלימאן הקראי.” תרביץ ב (1931): pp. 117-115.</title>
+                        <ptr target="https://jalit.org/bibl/GPKZFGPH"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBWYZWIGU">
+                        <title>סקוז, שלמה ל. “לקביעת תקופת חייו של עלי בן סלימאן הקראי.” תרביץ ב (1931): pp. 513-510.</title>
+                        <ptr target="https://jalit.org/bibl/BWYZWIGU"/>
+                    </bibl>
+                    <idno type="URI" subtype="isni"/>
+                    <idno type="URI" subtype="viaf"/>
+                    <idno type="URI" subtype="wiki"/>
+                    <idno type="URI" subtype="gnd"/>
+                    <idno type="URI" subtype="merhav"/>
+                    <idno type="URI" subtype="rambi"/>
+                    <idno type="URI" subtype="imhm"/>
+                    <idno type="URI" subtype="ktiv"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+    <standOff>
+        <list>
+            <item>
+                <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  </p><p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the  
+<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found in the Samuel Poznański Archive at the National Library of Israel  (ARC 4﹡ 1180, Series 5).  Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p><p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  </p><p>Literature:  
+<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging*, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
+                <persName/>
+                <quote xml:lang="he"><p>עלי בן סלימאן</p><p>מבאר לכתבי הקדש, ליכסוגראף ופילוסוף קראי. פינסקר עורר ספקות אם היה עלי זה רבני או קראי אף שנטה לדעת האחרונה ושור החליט בדבר ברור שהיה רבני מזמן מאוחר, אבל עתה אין כל סיבה לפוק בקראותו אחרי כי מלבד שאבן אלהיתי יחשבהו בכרוניקה שלו (JQR IX:435) בין חכמי הקראים, הנה ראש מפעליו היה לקצר את חבורי הקראים שקדמו לו ולבנות את ספריו ודבריו על היסודות אשר הניחו הם, וכן מצאנוהו מובא גם כן רק אצל מחברים קראים. את ארץ מגורו לא נדע, אך מזה שחיבר את כל ספריו בערבית נוכל לשער כי חי אם בארצות המזרח של אסיה (כנראה בעיראק או באפריקה הצפונית. בקולופון של כתב יד שמכיל פירושו של דוד בן בועז לבמדבר (Br. Lib. Or. 2561, see Margoliouth, Cat. I:227b) כתוב: הקדיש אותו המשכיל עלי [בן] שלמה ז"ל על (=אל) המשכיל משה (?) בן השר חסד ועל דורות ב[ניו] אחריו בכל מקום שיהיו ... אם מדובר כאן בעלי שלנו אז הוא נתן את הספר הזה כמתנה כשהוא היה בפוסטאט לאחיו של סהל בן פצ'ל אלתסתרי, משה. אמנם את זמנו נוכל לגבול בקירוב, כי המחבר האחרון אשר הוא מביאו בשם הוא אבו אלפרג' הרון בן אלפרג' וספרו משתמל אשר נתחבר בשנת 1026 (ע"ע) ושאר המחברים המביאם בסתם בלי קרוא את שמם הנה גם הם כפי הנראה הם מהמאה הי' והי"א עד כי נוכל לומר כי חי בסוף המאה הי"א ותחילת הי"ב. ומה שמחזק השערה זאת הוא כי הובאו דברים משמו כפי שנודע עד עתה רק בפירוש קראי אחד לשמות בלשון ערבית אשר חלק ממנו נשאר בכ"י בברי' מוז' סי'Or. 2493 (רשימת מרגליות ח"א סי' 332) ובפירוש ההוא יזכרו מלבד רב סעדיה גאון רק מחברים קראים מהמאה הי' והי"א, היינו: דוד בן בועז, יפת בן עלי וישועה בן יהודה (ע"ע). זמנו גם כן נקבע על ידי שתי מחברות בפילוסופיה (ראה למטה) שהוא כתב בשנות 1072/3 ו-1098. ספריו אשר חיבר אלה הם:</p><p>1) פירוש על התורה בערבית, אשר נלקט על ידי מחברו מפירוש אבו סעיד ומהקצור אשר קיצר אבו אלפרג' הרון הנ"ל מן פירוש רבו אבו יעקב יוסף בן נח (ע"ע). והנה בשם אבו סעיד יכונו שני מחברים קראים, האחד הוא דוד בן בועז אשר חי במאה העשירית והשני הוא לוי בן יפת אשר חי במחצית הראשונה למאה הי"א, וקרוב הדבר כי הכוונה פה אל דוד בן בועז אשר כתב פירושים ארוכים למקרא ולא אל לוי בן יפת אשר פירושיו היו כבר קצרים כפי אשר יצאו מתחת ידי מחברם (ע"ע) ולא היו צריכים איפוא לקיצור. ואולי כעין ראייה לזה הוא ממה שמצאנו כי פירוש ערבי לפרשת פנחס מאת דוד בן בועז (כ"י ברי' מוז' Or. 25612 (רשימת מרגליות ח"א סי' 305) היה בידי עלי בן שלמה, אשר אין ספק כי הוא אחד עם עלי שלנו (וכן אבן אלהיתי יקראהו בשם עלי בן שלמה ולא בן סלימאן. מפירושו זה של עלי ימצאו לקוטים לספר במדבר ודברים בברי' מוז' סי' Or. 25631 (רשימת מרגליות ח"א סי' 309) ועוד חלקים שונים בפטרסבורג (עי' Harkavy, ZATW I:158) (לפי מאמרו של הרכבי על דבר אספה שניה של פירקוויץ ב-ZH. K. M. Pr. 178 (1875) נמצא בה גם חלק מפירוש לנביאים לעלי בן סלימן אבל במאמריו האחרים לא יזכירו). בבית המדרש לרבנים בניו יורק קנו מדיינארד כ"י המכיל "אלגז אלאול ממא אנתזעה עלי בן סלימאן אלמערוף אלש' אבו אלחסן אלמקדסי רח' אללה לנפסה מן תלכ'יץ אלש' אלגליל אבו אלפרג הרון בן אלפרג רח' אללה לתפסיר אלתוראה ללשיך אבו יעקוב בן נוח רצ'י אללה ענה. וגעלה מלכתה אלש' אבו אלחסן אלמד'כור מע בקיה אלתורה קדש לי"י אלהי ישראל לעדת בני מקרא לא ימכר ולא יגאל." דף א'-כ' ע"ב מכיל פרשת בראשית, כ' ב' פרשת נח. שאר הדפים עדיין לא נסדרו ונמצאו בם למשל תחלת פרשת נצבים. הכ"י מתחיל עם הקדמה קצרה.</p><p>2) אגרון, היינו ספר מלים עבריות בלשון ערבית. ואמנם גם זה הוא קצור מתוך אגרון שקיצר אותו קודם לו אבו סעיד אללוי בן אלחסן אלבצרי (הוא לוי בן יפת הנ"ל) מתוך אגרונו של דוד בן אברהם אלפאסי מחבר קראי מהמאה העשירית (ע"ע). ודרכו של עלי היא להביא בכל מלה ומלה מתחילה פירושו של דוד בן אברהם (שהוא קוראו בשם "צאחב אלכתאב", ר"ל מחבר הספר) ודבריו ממש ואחר זה מוסיף מה שמצא אצל מחברים אחרים מבלי להזכיר את שמם ורק בלשון ויש אומרים או בדומה לזה. ורק במקום שדוד בן אברהם מרחיב הדבור בפירוש של פסוק יותר מדי הוא מקצר דבריו, אך לעומת זה הוא מוסיף כמה שרשים ומלות החסרים אצל דוד. בשם עצמו הוא מוסיף על הרוב ענייני דקדוק ומראה את רוב ידיעותיו בחכמה, זאת אף שחסר לו עוד ציור נכון מן הבנינים ומן ההבדל בין קל להפעיל ובפרט במה שנוגע לשרשים חסרים ונחים שהוא מערבם יחדיו. ולכן אף שהוא קורא בשם גם את יחיא בן דאוד הוא יהודה חיוג ובפרט בהקדמתו בבארו את תכונת האותיות המיוחדות, בכל זאת הוא דורך בעקבות דוד בן אברהם באמרו כי שרש כל מלה הם שתי אותיות ולפעמים אף אות אחת. (על דבר השתמשותו של עלי בספריו של ר"י חיוג ור"י בן ג'נאח עיין ספרי על ר' משה הכהן, עמ' 75.) אבל אל נא נשכח כי זה היה דרך הקראים אף אותם אשר חיו במאה הי"ב (כמו יהודה הדסי) שלא להניח שרשים בעלי שלש אותיות אולי כדי שלא לסמוך יותר מדי על המדקדקים הרבנים. ואמנם עם כל זאת מסתייע עלי הרבה בפירוש המלות מן המשנה והתלמוד ומכנה את בעליהם (כמו הרבה מבעלי דתו) בשם "הראשונים" (אלקדמא או אלאולון). כן יסתייע הרבה מן התרגומים ומחשיבם הרבה אף ישווה הרבה שרשים עבריים עם שרשים ארמיים וערביים בדרך נכונה (אשר כזה אמנם עשה גם דוד בן אברהם אלפאסי אשר בעקבותיו הלך). אגרונו של עלי ימצא אך בכ"י אחד בפטרסבורג סי' 605 אשר נכתב על ידי אליהו בן מרדכי בן יוסף תעריפא מבצרה (עי' Geigers Wissensch. Zeitschrift II:442, no. 1, , ושם נתייחס האגרון בטעות ללוי בן יפת) והעתקה שלמה מכ"י זה כתובה בידי פינסקר תמצא בעזבונו בבית המדרש בווינה סי' 24 (ועוד לקוטים ממנו שם סי' 28). דוגמאות ממנו הדפיסו פינסקר (לקוטי קדמוניות I 183 והלאה) ונויבאואר (בהוספה לכתאב אלאצול לאבו אלוליד בן ג'נאח, אוקספורד 1875, עמ' 773 והלאה, והדוגמאות מסומנות פה באות A), ודוגמאות במה שנוגע להכתובות של ספר תהלים הדפיס נויבאואר במחברתו.</p><p>3) מחברת (טראקטאט) בפילוסופיה גם כן בשפה הערבית אשר תמצא בכ"י בברי' מוז' סי'  Or. 2572 (רשימת מרגליות, מס' 8961) שהוא שתי מחברות קצרות בפילוסופיה ואלהות מחוברות יחדיו, האחת משנת 465 להג'רה (= 1073) והשניה משנת 486 (=1098) (עי' REJ 57:314).
+<lb/>דברים אחדים ממנו על דבר האשמה שהאשים מחמד את היהודים כי זייפו את התורה הדפיס הירשפעלד ב- Z.A. XXVI )1912(:111-113.</p><p>ביבליוגרפיה:</p><p>פינסקר, ל"ק I 175-216; שור, החלוץ ו' 64; גוטלובר, בקרת 197;</p><p>Schwan ??????, 478; Fürst, II:122; Graetz, VI3:57 (די"י ד' 47); Sinani, II:75; Bacher, REJ XXX:252, 255; Steinschneider, Ar. Lit., sec. 180; Poznanski, Aboul-Faradj Haroun ben al-Faradj )Paris, 1896(, p. 36; idem, REJ XLI:307; idem, KLO, p. 54; . ., I:866-868.</p></quote>
+                <bibl xml:id="jalit-orgbiblDJV65BQJ">
+                        <title>Encyclopedia of Qaraites Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.), סדרה 5: אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL990032439840205171/NLI. </title>
+                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
+                    </bibl>
+            </item>
+        </list>
+    </standOff>
 </TEI>
