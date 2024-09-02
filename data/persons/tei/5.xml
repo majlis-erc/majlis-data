@@ -1,181 +1,180 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="a" xml:lang="en">Abū l-Surrī b. Zīṭā</title>
-            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
-            <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                  München</orgName>) </sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                  Osten</orgName>) </sponsor>
-            <funder ref="https://erc.europa.eu/">
-               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
-            <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
-               </editor>
-            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
-               </editor>
-            <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
-               </editor>
-            <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-            <respStmt>
-               <resp>Srophé app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt><editor role="creator" ref="">admin</editor>
-         </titleStmt>
-         <publicationStmt>
-            <authority>
-               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
-            </authority>
-            <idno type="URI">https://jalit.org/person/5</idno>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
-               </licence>
-            </availability>
-            <date>2021-10-23</date>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Born digital.</p>
-         </sourceDesc>
-      </fileDesc>
-      <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
-         <change who="#mmoliere" when="2024-04-24T13:49:10.561Z">updated spelling</change><change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <listPerson>
-            <person xml:id="person-5">
-               <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
-                  <name source=""/>
-               </persName>
-               <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                  <name source="">Abū l-Surrī b. Zīṭā</name>
-               </persName>
-               <persName type="attested" xml:lang="he" xml:id="name-3">
-                  <name source=""/>
-               </persName>
-               <persName type="attested" xml:lang="ar" xml:id="name-4">
-                  <name source=""/>
-               </persName>
-               <persName type="alternate" xml:lang="he" xml:id="name-5">
-                  <name source=""/>
-               </persName>
-               <persName type="alternate" xml:lang="he" xml:id="name-6">
-                  <name source=""/>
-               </persName>
-               <persName type="canon" xml:lang="ar" xml:id="name-7">
-                  <addName source="" xml:id="sh-ar" type="shuhra"/>
-                  <addName source="" xml:id="is-ar" type="ism"/>
-                  <addName source="" xml:id="na-ar" type="nasab"/>
-                  <addName source="" xml:id="ni-ar" type="nisbah"/>
-                  <addName source="" xml:id="ku-ar" type="kunya"/>
-                  <addName source="" xml:id="la-ar" type="laqab"/>
-               </persName>
-               <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
-               </persName>
-               <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
-               </persName>
-               <persName type="canon" xml:lang="he" xml:id="name-10">
-                  <forename source="" xml:id="fn-he"/>
-                  <addName source="" xml:id="pa-he" type="patronym"/>
-                  <addName source="" xml:id="ep-he" type="epithet"/>
-                  <addName source="" xml:id="ac-he" type="acronym"/>
-                  <addName source="" xml:id="sh-he" type="shuhra"/>
-               </persName>
-               <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
-                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName source="" ref="#pa-he" type="patronym"/>
-                  <addName source="" ref="#ep-he" type="epithet"/>
-                  <addName source="" ref="#ac-he" type="acronym"/>
-                  <addName source="" ref="#sh-he" type="shuhra"/>
-               </persName>
-               <birth>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
-               </birth>
-               <death>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
-               </death>
-               <floruit>
-    <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
-</floruit>
-               <sex cert="" source=""/>
-               <faith cert="" source=""/>
-               <occupation type="" cert="" source=""/>
-               <residence>
-                  <placeName ref="" cert="" source=""/>
-               </residence>
-               <bibl type="bibliography" xml:id="jalit-orgbiblLD6G7RI">
-                  <title>“Ben Zuta (Ben Zita), Abu al-Surrī.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 393.</title>
-                  <ptr target="https://jalit.org/bibl/LD6G7RI"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblV5MTI23">
-                  <title>“Ben Zuta (Ben Zita), Abu al-Surrī.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 576-577.</title>
-                  <ptr target="https://jalit.org/bibl/V5MTI23"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblSGZSN6U">
-                  <title>Gottheil, Richard, and Kaufmann Kohler. “Eleazar ben Ziṭa Abu al-Sari.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), p. 105.</title>
-                  <ptr target="https://jalit.org/bibl/SGZSN6U"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbibl6YWXM8U">
-                  <title>Israelsohn, Jacob Izraelevich. “Le surnom du caraïte Ben-Sita.” Revue des études juives 23 (1891): pp. 132-133.</title>
-                  <ptr target="https://jalit.org/bibl/6YWXM8U"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblZ3X2C5Y2">
-                  <title>Познанский, Самуил. “Бен-Зута (Бен-Зита).” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 152-154.</title>
-                  <ptr target="https://jalit.org/bibl/Z3X2C5Y2"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblV5VY6VF">
-                  <title>אברמסון, שרגא. “בירורים.” סיני פט (1981): pp. ריז-רלד.</title>
-                  <ptr target="https://jalit.org/bibl/V5VY6VF"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbibl6735VYBV">
-                  <title>אנקורי, צבי. “בן זוטא, אבו אלסורי.” אנציקלופדיה העברית, (ירושלים), pp. 102-101.</title>
-                  <ptr target="https://jalit.org/bibl/6735VYBV"/>
-               </bibl>
-               <idno type="URI" subtype="isni"/>
-               <idno type="URI" subtype="viaf"/>
-               <idno type="URI" subtype="wiki"/>
-               <idno type="URI" subtype="gnd"/>
-               <idno type="URI" subtype="merhav"/>
-               <idno type="URI" subtype="rambi"/>
-               <idno type="URI" subtype="imhm"/>
-               <idno type="URI" subtype="ktiv"/>
-            </person>
-         </listPerson>
-      </body>
-   </text>
-   <standOff>
-      <list>
-         <item>
-            <note/>
-            <persName/>
-            <quote xml:lang=""/>
-            <bibl>
-               <title/>
-               <citedRange unit="p"/>
-               <ptr target=""/>
-            </bibl>
-         </item>
-      </list>
-   </standOff>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Abū l-Surrī b. Zīṭā</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
+                <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
+                <funder ref="https://erc.europa.eu/">
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
+                <principal ref="#rvollandt">Ronny Vollandt</principal>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt>
+                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+                </authority>
+                <idno type="URI">https://jalit.org/person/5</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                    </licence>
+                </availability>
+                <date>2021-10-23</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><p>Born digital.</p></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2024-09-02T11:42:04.309Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-04-24T13:49:10.561Z">updated spelling</change>
+            <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="person-5">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                        <name/>
+                    </persName>
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                        <name>Abū l-Surrī b. Zīṭā</name>
+                    </persName>
+                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                        <name/>
+                    </persName>
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                        <name/>
+                    </persName>
+                    <persName type="alternate" xml:lang="he" xml:id="name-5">
+                        <name/>
+                    </persName>
+                    <persName type="alternate" xml:lang="he" xml:id="name-6">
+                        <name/>
+                    </persName>
+                    <persName type="canon" xml:lang="ar" xml:id="name-7">
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="he" xml:id="name-10">
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
+                    </persName>
+                    <birth>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </birth>
+                    <death>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </death>
+                    <floruit>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </floruit>
+                    <sex cert=""/>
+                    <faith cert=""/>
+                    <occupation type="" cert=""/>
+                    <residence>
+                        <placeName ref="" cert=""/>
+                    </residence>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLD6G7RI">
+                        <title>“Ben Zuta (Ben Zita), Abu al-Surrī.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 393.</title>
+                        <ptr target="https://jalit.org/bibl/LD6G7RI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblV5MTI23">
+                        <title>“Ben Zuta (Ben Zita), Abu al-Surrī.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 576-577.</title>
+                        <ptr target="https://jalit.org/bibl/V5MTI23"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblSGZSN6U">
+                        <title>Gottheil, Richard, and Kaufmann Kohler. “Eleazar ben Ziṭa Abu al-Sari.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), p. 105.</title>
+                        <ptr target="https://jalit.org/bibl/SGZSN6U"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6YWXM8U">
+                        <title>Israelsohn, Jacob Izraelevich. “Le surnom du caraïte Ben-Sita.” Revue des études juives 23 (1891): pp. 132-133.</title>
+                        <ptr target="https://jalit.org/bibl/6YWXM8U"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZ3X2C5Y2">
+                        <title>Познанский, Самуил. “Бен-Зута (Бен-Зита).” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 152-154.</title>
+                        <ptr target="https://jalit.org/bibl/Z3X2C5Y2"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblV5VY6VF">
+                        <title>אברמסון, שרגא. “בירורים.” סיני פט (1981): pp. ריז-רלד.</title>
+                        <ptr target="https://jalit.org/bibl/V5VY6VF"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl6735VYBV">
+                        <title>אנקורי, צבי. “בן זוטא, אבו אלסורי.” אנציקלופדיה העברית, (ירושלים), pp. 102-101.</title>
+                        <ptr target="https://jalit.org/bibl/6735VYBV"/>
+                    </bibl>
+                    <idno type="URI" subtype="isni"/>
+                    <idno type="URI" subtype="viaf"/>
+                    <idno type="URI" subtype="wiki"/>
+                    <idno type="URI" subtype="gnd"/>
+                    <idno type="URI" subtype="merhav"/>
+                    <idno type="URI" subtype="rambi"/>
+                    <idno type="URI" subtype="imhm"/>
+                    <idno type="URI" subtype="ktiv"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+    <standOff>
+        <list>
+            <item>
+                <note><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  </p><p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the  
+<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found in the Samuel Poznański Archive at the National Library of Israel  (ARC 4﹡ 1180, Series 5).  Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p><p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  </p><p>Literature:  
+<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em>Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging</em>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
+                <persName/>
+                <quote xml:lang="he"><p>בן זוטא (או בן זיטא)</p><p>חכם קראי בתחלת המאה העשירית. שמו הפרטי לא נודע ושם אביו יכתב בשתי צורות: זוטא וזיטא, ונראה כי הראשונה עיקר ויהי זוטא שם נרדף לשמות ארמיים דומים כאלו הנמצאים בתלמוד כי זוטרא, זעירא וקטינא; בן זוטא יהיה איפוא דומה ממש לשם בן קטין שנזכר גם הוא בתלמוד (יומא ל"ז א').  והנה מצאנו איש אחד ושמו זוטא (או זוטה) המכונה שר שלום (ע"ע) בארץ מצרים במאה הי"ב (ואמנם הוא היה רבני ולא קראי), וקרוב הדבר כי גם בן זוטא שלנו חי בארץ ההיא וכי שם התוכח עמו הגאון רב סעדיה על עניינים שונים בפירושי המקרא. (נמצא גם שם פרסי זוטא ובשם זה היה נקרא אבי זקנו של אבו חניפה עי' Encykl. d. Islams I:96a.  ועי' יהושוע בן עלי הכהן בן זיטא חותם בתור עד תחת כתובה קראית מירושלים משנת ד"א תשפ"ח (1028), עי' ירושלים ו' 239).</p><p>המחבר היחידי שמסר לנו את דברי הויכוח הוא הראב"ע בפירושו לפסוק: עין תחת עין (שמות כ"א:כ"ד): "אמר רב סעדיה לא נוכל לפרש זה הפסוק כמשמעו... אמר לו בן זוטא והלא כתוב במקום אחר כאשר ינתן מום באדם כן ינתן בו והגאון השיב לו ... ובן זיטא השיב לו ... והגאון השיב ... ובן זוטא השיב ... והגאון השיב וכו'".  ומהמלים אמר לו בן זיטא נוכל ללמוד כי הוכוח היה בעל פה.  גם זה מראה כי היה זה לנכון עוד בארץ מצרים בימי נעוריו של רב סעדיה כי אחרי עלותו על כסא הגאונות נמנע רב סעדיה כפי הנראה להתוכח עם הקראים פה אל פה (ואל התקופה הזאת יוסבו בלי ספק דברי הקראי סהל בן מצליח אצל פינסקר ל"ק II 37).  עוד מביא הראב"ע בהחלק הנשאר לפליטה ממהדורה שנייה לפירושו לויקרא כ"ג:ט"ו (נדפס אצל Friedlander, Examp on the Writings of Abraham ibn Esra, Hebrew Appendix, p. 79) קושית בן זוטא על רב סעדיה בדבר ממחרת השבת ושתי תשובות הגאון עליו וגם הוכוח הזה היה לנכון בעל פה. ;עוד מביא הראב"ע בביאורו לשמות פירושים מוזרים שונים בשם בן זוטא לכתובים אלו: 1) ב':ב'. פה היתה דעת בן זוטא כי משה היה גדול ממרים בעבור שנזכר לפניה בספר במדבר כ"ו:נ"ט (ואם כן אחות משה הנזכרת כאן איננה מרים); 2) כ':כ"ג מלת "מעלות" נגזרה מן מעל (ונזכר הפירוש הזה מהראב"ע גם בהקדמתו לפירושו הארוך); 3) כ"א:ל"ה מלת רעהו בכתוב זה תסוב לא על בעל השור כי אם על השור בעצמו; 4) כ"ב:כ"ח. פה באר בן זוטא מלת מלאתך על ההריון ודמעך כנוי לשכבת זרע והיא הטפה ואמר כי פירוש לא תאחר הוא שלא יעכב האדם מלקחת לו אשה ועל כן אמר אחריו בכור בניך תתן לי (ואמנם בהקדמתו הנ"ל לפירושו הארוך יביא הראב"ע את הבאור הזה בשם הקראי בנימין בן משה הנהאונדי, ע"ע). ומזה נראה עוד כי לא נמנע בן זוטא מלבאר כתובי התורה גם בדרך רמז כמו שעשה כזה גם מיסד כת הקראים ענן בן דוד (ע"ע). חוץ מזה מביא הראב"ע בספר העבור (מהד' האלברשטאם דף ד' ע"א) את ראיותיו של בן זוטא מכתובים שונים המוכיחים כי מפורש הוא במקרא איך לקצוב את החדשים והמועדים על פי ראית הירח וראש ראיותיו היה הכתוב בראשית א':י"ד. ונראה כי גם פה עברו דברי וכוח בינו ובין רב סעדיה.</p><p>בן זוטא לא חיבר כפי הנראה שום ספר ולכן קרוב הדבר כי הראב"ע שאב את כל דברי הקראי הזה מכתבי רב סעדיה. אמנם גם הגאון לא חיבר נגדו ספר מיוחד כמו שחשב דוקס (עי' ל"ק I 43) כי אם הביא את דעותיו בספריו האחרים ובפרט בפירושו לתורה אשר כפי שידענו היה כולל גם דברי וכוח נגד הקראים.</p><p>חוץ מהראב"ע יזכור את בן זוטא בשמו רק עוד מחבר אחד רבני והוא  רבי יהודה בן בלעם בפירושו הערבי ליחזקאל י"ח:ו' (נדפס ע"י פוזננסקי, REJ XLV:194). והוא יכונה פה בשם אבו סרי בן זיטא (עי' איזראילזאן REJ XX:132). פה נשמע כי נלחם בן זוטא נגד דברי ענן אשר רצה להוכיח מהכתוב הזה אסור שכיבה עם אשתו ההרה (בבארו הרים כמו לשון רבים ממלת הרה ואכל במובן שכיבה). על כל פנים לפלא יחשב כי לא נמצא שום רמז מבן זוטא שלנו בספרות הקראים, ונראה כי היה אביו יותר מפורסם ולכן נקרא גם בשמו. וידוע כי המנהג לציין אף איש מפורסם אך בשם אביו ימצא גם בתלמוד (כמו למשל בן עזאי, בן זומא) גם בספרות שאחרי התלמוד (כמו בן אשר, בן נפתלי, בן מאיר וכדומה).</p><p>ביבליוגרפיה:</p><p>Poznanski, MGWJ XLI:203-212; idem, The Karaite Literary Opponents of Saadiah Gaon, p. 4; idem, אוצר ישראל, III:98-99; idem, . . IV:152-154; Kohler and Gottheit, JE V:105 (כאן בטעות יכונה בשם אלעזר); Geiger, Jos. Zeitsch. II:151; Graetz V4:290, 529 (די"י ח"ג 964, 274).
+<lb/></p></quote>
+                <bibl xml:id="jalit-orgbiblDJV65BQJ">
+                        <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
+                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
+                    </bibl>
+            </item>
+        </list>
+    </standOff>
 </TEI>
