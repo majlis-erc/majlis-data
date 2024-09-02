@@ -1,230 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="a" xml:lang="en">Yaʿqov ben Šimʿon</title>
-            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
-            <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                  München</orgName>) </sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                  Osten</orgName>) </sponsor>
-            <funder ref="https://erc.europa.eu/">
-               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
-            <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-               >Ronny Vollandt
-               </editor>
-            <editor xml:id="gschwarb" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-               >Gregor Schwarb
-               </editor>
-            <editor xml:id="mmoliere" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-               >Maximilian de Molière
-               </editor>
-            <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-            <respStmt>
-               <resp>Srophé app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>
-               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
-            </authority>
-            <idno type="URI">https://jalit.org/person/22</idno>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
-               </licence>
-            </availability>
-            <date>2021-10-23</date>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Born digital.</p>
-         </sourceDesc>
-      </fileDesc>
-      <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
-         <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <listPerson>
-            <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
-                  <name source="">Yaʿqov ben Šimʿon</name>
-               </persName>
-               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="attested" xml:lang="he">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="attested" xml:lang="ar">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="he">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="he">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="ar">
-                  <addName source="" xml:id="sh-ar" type="shuhra"/>
-                  <addName source="" xml:id="is-ar" type="ism"/>
-                  <addName source="" xml:id="na-ar" type="nasab"/>
-                  <addName source="" xml:id="ni-ar" type="nisbah"/>
-                  <addName source="" xml:id="ku-ar" type="kunya"/>
-                  <addName source="" xml:id="la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="ar-Hebr">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
-                  >
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="he">
-                  <forename source="" xml:id="fn-he"/>
-                  <addName source="" xml:id="pa-he" type="patronym"/>
-                  <addName source="" xml:id="ep-he" type="epithet"/>
-                  <addName source="" xml:id="ac-he" type="acronym"/>
-                  <addName source="" xml:id="sh-he" type="shuhra"/>
-               </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn">
-                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName source="" ref="#pa-he" type="patronym"/>
-                  <addName source="" ref="#ep-he" type="epithet"/>
-                  <addName source="" ref="#ac-he" type="acronym"/>
-                  <addName source="" ref="#sh-he" type="shuhra"/>
-               </persName>
-               <birth>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
-               </birth>
-               <death>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
-               </death>
-               <floruit>
-    <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
-</floruit>
-               <sex cert="" source=""/>
-               <faith cert="" source=""/>
-               <occupation type="" cert="" source=""/>
-               <residence>
-                  <placeName ref="" cert="" source=""/>
-               </residence>
-               <bibl type="bibliography" xml:id="jalit-orgbiblMAJXM8K">
-                  <title>Ankori, Zvi. “Jacob ben Simeon.” In Karaites In Byzantium: The Formative Years 970-1100, (New York: AMS Press, 1959), pp. 188-189, 199n109, 446. http://archive.org/details/book-history-zvi-ankori-karaites-in-byzantium-the-formative-years-970-1100-by-zvi-ankori. </title>
-                  <ptr target="https://jalit.org/bibl/MAJXM8K"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblNTPCUMHM">
-                  <title>Ewald, Heinrich. “Jacob ben Simeon.” In Über die arabisch geschriebenen Werke jüdischer Sprachgelehrten: Mit einer Abhandlung über den gegenwärtigen Zustand der alttestamentlichen Wissenschaft, (Stuttgart: A. Krabbe, 1844), p. 29. https://books.google.de/books?id=B7rmyuhQ-LwC. </title>
-                  <ptr target="https://jalit.org/bibl/NTPCUMHM"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbibl2RKY7PAD">
-                  <title>Fürst, Julius. “Jacob ben Simeon.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 180; 196-198; 199; 203; 206. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl. </title>
-                  <ptr target="https://jalit.org/bibl/2RKY7PAD"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblGMHVDZP">
-                  <title>Graetz, Heinrich. “Jacob ben Simeon.” In Geschichte der Juden von den ältesten Zeiten bis auf die Gegenwart: Vom Aufblühen der jüdisch-spanischen Kultur (1027) bis Maimuni's Tod (1205), 6, (Leipzig: Nies'sche Buchdruckerei, 1861), p. 95. https://books.google.de/books?id=N_pr8dTuAx8C&amp;hl. </title>
-                  <ptr target="https://jalit.org/bibl/GMHVDZP"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblZU3A8ETQ">
-                  <title>Mann, Jacob. “Jacob ben Simeon.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), p. 3, 39, 43, 287, 1414.</title>
-                  <ptr target="https://jalit.org/bibl/ZU3A8ETQ"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbibl7Y3GZ3DY">
-                  <title>Markon, Isaak ed. ספר העריות המכונה ספר הישר. (St. Petersburg: יוסף לוריא ושותפו, 1908).</title>
-                  <ptr target="https://jalit.org/bibl/7Y3GZ3DY"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblSLY67QZ">
-                  <title>Nemoy, Leon. “Jacob ben Simeon.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 1223-1224.</title>
-                  <ptr target="https://jalit.org/bibl/SLY67QZ"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblE5SNX5I">
-                  <title>Nemoy, Leon. “Jacob ben Simeon.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 36.</title>
-                  <ptr target="https://jalit.org/bibl/E5SNX5I"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblCFWGJPK">
-                  <title>“Jacob ben Simeon.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, edited by Leon Nemoy. (New Haven &amp; London: Yale University Press, 1952), p. 124.</title>
-                  <ptr target="https://jalit.org/bibl/CFWGJPK"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblIXI28F3N">
-                  <title>Pinsker, Simḥa. “Jacob ben Simeon.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), pp. 168-.</title>
-                  <ptr target="https://jalit.org/bibl/IXI28F3N"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblBDQGF3G3">
-                  <title>Schreiner, Martin. Studien über Jeschuʿa ben Jehuda. (Berlin: Itzkowski, 1900).</title>
-                  <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblIJ6TAJS">
-                  <title>Steinschneider, Moritz. “Jacob ben Simeon.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 92-93. https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033. </title>
-                  <ptr target="https://jalit.org/bibl/IJ6TAJS"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblZYPWN7YY">
-                  <title>Steinschneider, Moritz. “Jacob ben Simeon.” In Die hebraeischen Uebersetzungen des Mittelalters und die Juden als Dolmetscher: Ein Beitrag zur Literaturgeschichte des Mittelalters, meist nach handschriftlichen Quellen, (Berlin: Kommissionsverlag des Bibliographischen Bureaus, 1893), pp. 942-943. http://archive.org/details/diehebraeischen00steigoog. </title>
-                  <ptr target="https://jalit.org/bibl/ZYPWN7YY"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblL5QSCTFS">
-                  <title>Wolf, Johann Christoph. “Jacob ben Simeon.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 618 [n.1120]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl. </title>
-                  <ptr target="https://jalit.org/bibl/L5QSCTFS"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblBRXLQV">
-                  <title>Wolf, Johann Christoph. “Jacob ben Simeon.” In Bibliothecæ Hebrææ, III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam, 1727), pp. 530 [n.1120]; 623. https://books.google.es/books?id=9dW-cp2_N8oC&amp;pg. </title>
-                  <ptr target="https://jalit.org/bibl/BRXLQV"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblW3UV7DGI">
-                  <title>אנקורי, צבי. “Elijah Bashyachi: An Inquiry into his Traditions Concerning the Beginings of Karaism in Byzantium / אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביצנץ.” Tarbiz / תרביץ כה, no. א (1955): pp. 65-44.</title>
-                  <ptr target="https://jalit.org/bibl/W3UV7DGI"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblQM8837R">
-                  <title>גאטטלאבער, אברהם בער. “יעקב בן שמעון.” In בקורת לתולדות הקראים, (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), p. 181. https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq. </title>
-                  <ptr target="https://jalit.org/bibl/QM8837R"/>
-               </bibl>
-               <idno type="URI" subtype="isni"/>
-               <idno type="URI" subtype="viaf"/>
-               <idno type="URI" subtype="wiki"/>
-               <idno type="URI" subtype="gnd"/>
-               <idno type="URI" subtype="merhav"/>
-               <idno type="URI" subtype="rambi"/>
-               <idno type="URI" subtype="imhm"/>
-               <idno type="URI" subtype="ktiv"/>
-            </person>
-         </listPerson>
-      </body>
-   </text>
-   <standOff>
-      <list>
-         <item>
-            <note/>
-            <persName/>
-            <quote xml:lang=""/>
-            <bibl>
-               <title/>
-               <citedRange unit="p"/>
-               <ptr target=""/>
-            </bibl>
-         </item>
-      </list>
-   </standOff>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Yaʿqov ben Šimʿon</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
+                <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
+                <funder ref="https://erc.europa.eu/">
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
+                <principal ref="#rvollandt">Ronny Vollandt</principal>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt><editor role="creator" ref=""/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+                </authority>
+                <idno type="URI">https://jalit.org/person/22</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                    </licence>
+                </availability>
+                <date>2021-10-23</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><p>Born digital.</p></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2024-09-02T13:32:52.305Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="person-22">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                        <name>Yaʿqov ben Šimʿon</name>
+                    </persName>
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                        <name/>
+                    </persName>
+                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                        <name/>
+                    </persName>
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                        <name/>
+                    </persName>
+                    <persName type="alternate" xml:lang="he" xml:id="name-5">
+                        <name/>
+                    </persName>
+                    <persName type="alternate" xml:lang="he" xml:id="name-6">
+                        <name/>
+                    </persName>
+                    <persName type="canon" xml:lang="ar" xml:id="name-7">
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="he" xml:id="name-10">
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
+                    </persName>
+                    <birth>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </birth>
+                    <death>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </death>
+                    <floruit>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </floruit>
+                    <sex cert=""/>
+                    <faith cert=""/>
+                    <occupation type="" cert=""/>
+                    <residence>
+                        <placeName ref="" cert=""/>
+                    </residence>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMAJXM8K">
+                        <title>Ankori, Zvi. “Jacob ben Simeon.” In Karaites In Byzantium: The Formative Years 970-1100, (New York: AMS Press, 1959), pp. 188-189, 199n109, 446. http://archive.org/details/book-history-zvi-ankori-karaites-in-byzantium-the-formative-years-970-1100-by-zvi-ankori.</title>
+                        <ptr target="https://jalit.org/bibl/MAJXM8K"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNTPCUMHM">
+                        <title>Ewald, Heinrich. “Jacob ben Simeon.” In Über die arabisch geschriebenen Werke jüdischer Sprachgelehrten: Mit einer Abhandlung über den gegenwärtigen Zustand der alttestamentlichen Wissenschaft, (Stuttgart: A. Krabbe, 1844), p. 29. https://books.google.de/books?id=B7rmyuhQ-LwC.</title>
+                        <ptr target="https://jalit.org/bibl/NTPCUMHM"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl2RKY7PAD">
+                        <title>Fürst, Julius. “Jacob ben Simeon.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 180; 196-198; 199; 203; 206. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl.</title>
+                        <ptr target="https://jalit.org/bibl/2RKY7PAD"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblGMHVDZP">
+                        <title>Graetz, Heinrich. “Jacob ben Simeon.” In Geschichte der Juden von den ältesten Zeiten bis auf die Gegenwart: Vom Aufblühen der jüdisch-spanischen Kultur (1027) bis Maimuni's Tod (1205), 6, (Leipzig: Nies'sche Buchdruckerei, 1861), p. 95. https://books.google.de/books?id=N_pr8dTuAx8C&amp;hl.</title>
+                        <ptr target="https://jalit.org/bibl/GMHVDZP"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZU3A8ETQ">
+                        <title>Mann, Jacob. “Jacob ben Simeon.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), p. 3, 39, 43, 287, 1414.</title>
+                        <ptr target="https://jalit.org/bibl/ZU3A8ETQ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl7Y3GZ3DY">
+                        <title>Markon, Isaak ed. ספר העריות המכונה ספר הישר. (St. Petersburg: יוסף לוריא ושותפו, 1908).</title>
+                        <ptr target="https://jalit.org/bibl/7Y3GZ3DY"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblSLY67QZ">
+                        <title>Nemoy, Leon. “Jacob ben Simeon.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 1223-1224.</title>
+                        <ptr target="https://jalit.org/bibl/SLY67QZ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblE5SNX5I">
+                        <title>Nemoy, Leon. “Jacob ben Simeon.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 36.</title>
+                        <ptr target="https://jalit.org/bibl/E5SNX5I"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCFWGJPK">
+                        <title>“Jacob ben Simeon.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, edited by Leon Nemoy. (New Haven &amp; London: Yale University Press, 1952), p. 124.</title>
+                        <ptr target="https://jalit.org/bibl/CFWGJPK"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIXI28F3N">
+                        <title>Pinsker, Simḥa. “Jacob ben Simeon.” In לקוטי קדמוניות: לקורות דת בני מקרא והליטעראטור שלהם עפ״י כתבי יד עבריים וערביים (Zur Geschichte des Karaismus und der karäischen Literatur), (Wien: Adalbert della Torre, 1860), pp. 168-.</title>
+                        <ptr target="https://jalit.org/bibl/IXI28F3N"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBDQGF3G3">
+                        <title>Schreiner, Martin. Studien über Jeschuʿa ben Jehuda. (Berlin: Itzkowski, 1900).</title>
+                        <ptr target="https://jalit.org/bibl/BDQGF3G3"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIJ6TAJS">
+                        <title>Steinschneider, Moritz. “Jacob ben Simeon.” In Die arabische Literatur der Juden Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, (Frankfurt am Main: J. Kauffmann, 1902), pp. 92-93. https://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/1115033.</title>
+                        <ptr target="https://jalit.org/bibl/IJ6TAJS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblZYPWN7YY">
+                        <title>Steinschneider, Moritz. “Jacob ben Simeon.” In Die hebraeischen Uebersetzungen des Mittelalters und die Juden als Dolmetscher: Ein Beitrag zur Literaturgeschichte des Mittelalters, meist nach handschriftlichen Quellen, (Berlin: Kommissionsverlag des Bibliographischen Bureaus, 1893), pp. 942-943. http://archive.org/details/diehebraeischen00steigoog.</title>
+                        <ptr target="https://jalit.org/bibl/ZYPWN7YY"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblL5QSCTFS">
+                        <title>Wolf, Johann Christoph. “Jacob ben Simeon.” In Bibliotheca Hebraea, I, (Hamburg &amp; Leipzig: Christian Liebezeit, 1715), p. 618 [n.1120]. https://books.google.es/books?id=u9peAAAAcAAJ&amp;hl.</title>
+                        <ptr target="https://jalit.org/bibl/L5QSCTFS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblBRXLQV">
+                        <title>Wolf, Johann Christoph. “Jacob ben Simeon.” In Bibliothecæ Hebrææ, III, (Hamburg &amp; Leipzig: B. Theod. Christoph. Felgineri Viduam, 1727), pp. 530 [n.1120]; 623. https://books.google.es/books?id=9dW-cp2_N8oC&amp;pg.</title>
+                        <ptr target="https://jalit.org/bibl/BRXLQV"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblW3UV7DGI">
+                        <title>אנקורי, צבי. “Elijah Bashyachi: An Inquiry into his Traditions Concerning the Beginings of Karaism in Byzantium / אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביצנץ.” Tarbiz / תרביץ כה, no. א (1955): pp. 65-44.</title>
+                        <ptr target="https://jalit.org/bibl/W3UV7DGI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblQM8837R">
+                        <title>גאטטלאבער, אברהם בער. “יעקב בן שמעון.” In בקורת לתולדות הקראים, (ווילנא: [Fünn und Rozenkrancz] פין וראזענקראנץ, 1865), p. 181. https://books.google.es/books?id=Duc5AQAAMAAJ&amp;dq.</title>
+                        <ptr target="https://jalit.org/bibl/QM8837R"/>
+                    </bibl>
+                    <idno type="URI" subtype="isni"/>
+                    <idno type="URI" subtype="viaf"/>
+                    <idno type="URI" subtype="wiki"/>
+                    <idno type="URI" subtype="gnd"/>
+                    <idno type="URI" subtype="merhav"/>
+                    <idno type="URI" subtype="rambi"/>
+                    <idno type="URI" subtype="imhm"/>
+                    <idno type="URI" subtype="ktiv"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+    <standOff>
+        <list>
+            <item>
+                <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  </p><p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the  
+<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found in the Samuel Poznański Archive at the National Library of Israel  (ARC 4﹡ 1180, Series 5).  Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p><p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  </p><p>Literature:  
+<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em>Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging</em>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
+                <persName/>
+                <quote xml:lang="he"><p>יעקב בן שמעון</p><p>תרגם את ספר העריות לישועה בן יהודה מערבית לעברית, כמו שכתוב בתחילת הספר: "דע ישכילך אלהים כי שאל (ר"ל ביקש) יעקב בן שמעון להשיב (ר"ל להעתיק) את דברי הזקן היקר בעל תושיה משכיל כל בני גולה ישועה בן יהודה זקן עדת בני מקרא האלהים יאריך ימיו ויוסיף על שנותיו וירחמהו אל כי העתיקו מן לשון ערבית אל לשון עברית אל לשון הקדש והדבור הוא בעריות וכו'."  בתרגום ההוא נמצאים מלות ומליצות שלמות בערבית שלא נעתקו כמו שרגיל זה בתרגומים דומים לזה ואף הרבה מלות יווניות ומזה נראה כי חי יעקב (כמו טוביה) בארץ ביצנץ וגם המלות "האלהים יאריך ימיו" מוסבות על ישועה כי אז יצא מזה שחי יעקב בימיו ואולי היה גם תלמידו כמו טוביה.  ונמצאות בתרגום מלות מוזרות כמו "יזימה" (יזימת מחשבת האותיות), "שדול" וכדומה.  ובכלל ההעתקה היא קשה ולזה יאמר כבר יהודה פוקי ב"שער יהודה" שאין לסמוך על ספר העריות של ר' ישועה כי ההעתקה אינה נכונה. והנה באו"צ (כ"ד א') יזכר "ספר הישר חיבורו של הר"ר ישועה בבאור דיני העריות וכו'" ועוד שם (כ"ה א') "פירוש ארוך על דיני העריות מספר הישר של הר"ר ישועה נ"ע חבורו של הר"ר יעקב בכמ"ר שמעון ומביא לשם כל דברי החכמים הקדמונים הגדולים וגם דברי הר"ר ענן הנשיא הקדוש יר"א ומפרש אותם יפה ובתחילת הספר כתב דרושים רבים מחכמת האלהות." ואין כל ספק כי שני אלה ספר אחד הם וש"י לוצקי חילקו מחוסר ידיעה לשניים. (ועוד נזכר יעקב בן שמעון שם כ"א ב' כ"א בין חכמי ארץ בינצנץ בין אליהו בן אברהם ומשה הכהן). והנה מתעורר ספק אחד כי ספרו של ישועה יכונה פעם "ספר העריות" (כמו אצל הדסי באשכל הכפר של"ז ג', אהרן בן אליה בעץ חיים פרק ע', יהודה פוקי וכן בכ"י ליידן), ופעם "ספר הישר." ומדברי אליהו בשייצי (אדרת אליהו עריות סוף פ"ה "והנם כתובים בספרו הידוע בענין העריות הנקרא ספר הישר") נראה כי הכיל רק דיני עריות. אמנם מרדכי בן ניסן יאמר על ישועה (דד מרדכי י"א ב' ושם בטעות ישועה בן עלי) כי ישועה עשה ספר הישר על כל המצוות, אמנם הודעתו של זה אין לסמוך עליה. ולכן אין ממש בדברי פירסט כי יעקב העתיק ספר המצוות לישועה וכינה אותו בשם ספר הישר, ומלבד זה העתיק ספר הישר בעריות והרחיב אותו הענין מספר המצוות לישועה בצרוף תשובה שהשיב ישועה על שאלות יעקב. כיוצא בזה, שאר קביעותיו של פירסט כי העתיק יעקב גם את בראשית רבה לישועה וכי מוצאו מסוריה או מבבל וכדומה, הם דברים הפורחים באויר. וכן דברי פינסקר האומר כי יעקב בן שמעון שאל שאלות מישועה והוא השיב לו עליהן (והוא גורס שאל יעקב בן שמעון והשיב עליו הזקן וכו') תשובות שתרגמם יעקב מערבית לעברית וכדומה הם בלי כל יסוד.</p><p>ביבליוגרפיה:</p><p>פינסקר, ל"ק, ר"ס, 171-172; גוטלובר, בקרת, 181; מרקון, מבוא למהדרותו של ספר העריות IXX-IIXX.</p><p>J.C. Wolf, Notitia Karaeorum et Mardochoi, III:530; Steinschneider, Cat. Leyden, 190ff.; idem, HU 454, 942; Fürst II:166, 196, 206; Graetz VI2:87; Schreiner, Studien uber Jeschua ben Jehuda, 70.</p></quote>
+                <bibl xml:id="jalit-orgbiblDJV65BQJ">
+                        <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
+                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
+                    </bibl>
+            </item>
+        </list>
+    </standOff>
 </TEI>
