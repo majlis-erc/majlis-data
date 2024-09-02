@@ -5,56 +5,28 @@
                 <title level="a" xml:lang="en">Daniʾel al-Qūmisī</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                        München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                        Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt
-                    </editor>
-                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb
-                    </editor>
-                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière
-                    </editor>
-                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
-                    Nadine Urbiczek
-                    
-                </editor>
-                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
-                    Peter Tarras
-                    
-                </editor>
-                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
-                    Annabelle Fuchs
-                    
-                </editor>
-                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
-                    Lea Gzella
-                    
-                </editor>
-                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
-                    Polina Lakteikina
-                    
-                </editor>
-                <editor xml:id="rboehm" role="contributor">
-                    Maurizio Boehm
-                    
-                </editor>
-                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
-                    Lea Poralla
-                    
-                </editor>
-                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
-                    Lukas Froschmeier
-                    
-                </editor>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
+                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
+                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
+                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">Lea Gzella</editor>
+                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">Polina Lakteikina</editor>
+                <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">Lea Poralla</editor>
+                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -63,18 +35,19 @@
                 <idno type="URI">https://jalit.org/person/1</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Born digital.</p>
+                <p><p>Born digital.</p></p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
-            <change who="#mmoliere" when="2024-03-04T08:41:25.828Z">testing source references</change><change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
+            <change who="#mmoliere" when="2024-09-02T07:54:05.075Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-03-04T08:41:25.828Z">testing source references</change>
+            <change who="mmoliere" when="2024-02-05">Added alternate names and identifiers.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -82,10 +55,10 @@
             <listPerson>
                 <person xml:id="person-1">
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
-                        <name source="">Daniʾel al-Qūmisī</name>
+                        <name>Daniʾel al-Qūmisī</name>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name source=""/>
+                        <name/>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-3">
                         <name source="#gnd">Daniyel ben Mosheh, al-Ḳumisi</name>
@@ -190,7 +163,7 @@
                         <name source="#gnd">הקומסי, דניאל</name>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-37">
-                        <name source="#gnd">-קומסי, דניאל בן משה ה </name>
+                        <name source="#gnd">-קומסי, דניאל בן משה ה</name>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-38">
                         <name source="#gnd">-קומסי, דניאל ה</name>
@@ -199,7 +172,7 @@
                         <name source="#gnd">Daniyel ben Mosheh al-Ḳumisi 870-910</name>
                     </persName>
                     <persName type="alternate" xml:lang="he-Latn" xml:id="name-40">
-                        <name source="">al-Dāmaġānī</name>
+                        <name>al-Dāmaġānī</name>
                     </persName>
                     <persName type="alternate" xml:lang="he-Latn" xml:id="name-41">
                         <name source="#viaf">Ḳūmissi, Daniel al-</name>
@@ -208,60 +181,60 @@
                         <name source="#viaf">Qūmisī, Danīʾel ʾal-</name>
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-43">
-                        <addName source="" xml:id="sh-ar" type="shuhra"/>
-                        <addName source="" xml:id="is-ar" type="ism"/>
-                        <addName source="" xml:id="na-ar" type="nasab"/>
-                        <addName source="" xml:id="ni-ar" type="nisbah"/>
-                        <addName source="" xml:id="ku-ar" type="kunya"/>
-                        <addName source="" xml:id="la-ar" type="laqab"/>
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-44">
-                        <addName source="" ref="#sh-ar" type="shuhra"/>
-                        <addName source="" ref="#is-ar" type="ism"/>
-                        <addName source="" ref="#na-ar" type="nasab"/>
-                        <addName source="" ref="#ni-ar" type="nisbah"/>
-                        <addName source="" ref="#ku-ar" type="kunya"/>
-                        <addName source="" ref="#la-ar" type="laqab"/>
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Latn" xml:id="name-45">
-                        <addName source="" ref="#sh-ar" type="shuhra"/>
-                        <addName source="" ref="#is-ar" type="ism"/>
-                        <addName source="" ref="#na-ar" type="nasab"/>
-                        <addName source="" ref="#ni-ar" type="nisbah"/>
-                        <addName source="" ref="#ku-ar" type="kunya"/>
-                        <addName source="" ref="#la-ar" type="laqab"/>
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:lang="he" xml:id="name-46">
-                        <forename source="" xml:id="fn-he"/>
-                        <addName source="" xml:id="pa-he" type="patronym"/>
-                        <addName source="" xml:id="ep-he" type="epithet"/>
-                        <addName source="" xml:id="ac-he" type="acronym"/>
-                        <addName source="" xml:id="sh-he" type="shuhra"/>
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
                     <persName type="canon" xml:lang="he-Latn" xml:id="name-47">
-                        <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName source="" ref="#pa-he" type="patronym"/>
-                        <addName source="" ref="#ep-he" type="epithet"/>
-                        <addName source="" ref="#ac-he" type="acronym"/>
-                        <addName source="" ref="#sh-he" type="shuhra"/>
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="" source="dnb">870</date>
-                        <placeName ref="" cert="" source="dnb">Damghan</placeName>
+                        <date cert="" source="#">870</date>
+                        <placeName ref="" cert="" source="#">Damghan</placeName>
                     </birth>
                     <death>
-                        <date cert="" source="dnb">910</date>
-                        <placeName ref="" cert="" source=""/>
+                        <date cert="" source="#">910</date>
+                        <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="" source=""/>
-                        <placeName ref="" cert="" source="dnb">Jerusalem</placeName>
+                        <date cert=""/>
+                        <placeName ref="" cert="" source="#">Jerusalem</placeName>
                     </floruit>
-                    <sex cert="high" source="jalit-orgbiblH2RX9HNC">Male</sex>
-                    <faith cert="" source=""/>
-                    <occupation type="" cert="" source=""/>
+                    <sex cert="high" source="#">Male</sex>
+                    <faith cert=""/>
+                    <occupation type="" cert=""/>
                     <residence>
-                        <placeName ref="" cert="" source=""/>
+                        <placeName ref="" cert=""/>
                     </residence>
                     <bibl type="bibliography" xml:id="jalit-orgbiblEPIWJ6P">
                         <title>“Daniel ben Moises al-Kumisi.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 381.</title>
@@ -284,11 +257,11 @@
                         <ptr target="https://jalit.org/bibl/YBCGJCJ7"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblPD2LWH63">
-                        <title>Bacher, Wilhelm. “Qirqisani, the Karaite, and his Work on Jewish Sects.” The Jewish Quarterly Review 7, no. 4 (1895): pp. 687-710. doi: 10.2307/1449971. </title>
+                        <title>Bacher, Wilhelm. “Qirqisani, the Karaite, and his Work on Jewish Sects.” The Jewish Quarterly Review 7, no. 4 (1895): pp. 687-710. doi: 10.2307/1449971.</title>
                         <ptr target="https://jalit.org/bibl/PD2LWH63"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl86URLB">
-                        <title>Ben-Shammai, Haggai. “Fragments of Daniel al-Qumisi's commentary on the Book of Daniel as a historical source.” </title>
+                        <title>Ben-Shammai, Haggai. “Fragments of Daniel al-Qumisi's commentary on the Book of Daniel as a historical source.”</title>
                         <ptr target="https://jalit.org/bibl/86URLB"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblRUQCKK7">
@@ -304,7 +277,7 @@
                         <ptr target="https://jalit.org/bibl/UFQEIGR"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblDT27IJ3B">
-                        <title>Fürst, Julius. “Daniel ben Moses al-Qumisi.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 19; 37; 234; 257. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl. </title>
+                        <title>Fürst, Julius. “Daniel ben Moses al-Qumisi.” In Geschichte des Karäerthums: Von 900 bis 1575 der gewöhnlichen Zeitrechnung, 2, (Leipzig: Oskar Leiner, 1865), pp. 19; 37; 234; 257. https://books.google.es/books?id=AtU9AAAAIAAJ&amp;hl.</title>
                         <ptr target="https://jalit.org/bibl/DT27IJ3B"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblVSC52VAX">
@@ -316,19 +289,19 @@
                         <ptr target="https://jalit.org/bibl/GXN6QZJ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblGW3ILVWD">
-                        <title>Kalimi, Isaak. “Die Auseinandersetzung mit den internen und äußeren Opponenten in mittelalterlicher-jüdischer Schriftauslegung.”  115, no. 1 (2003): pp. 73-87. doi: 10.1515/zatw.2003.007. </title>
+                        <title>Kalimi, Isaak. “Die Auseinandersetzung mit den internen und äußeren Opponenten in mittelalterlicher-jüdischer Schriftauslegung.” 115, no. 1 (2003): pp. 73-87. doi: 10.1515/zatw.2003.007.</title>
                         <ptr target="https://jalit.org/bibl/GW3ILVWD"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl3NRNXDJP">
-                        <title>Lasker, Daniel J. “Rabbanism and Karaism: the contest for supremacy.” </title>
+                        <title>Lasker, Daniel J. “Rabbanism and Karaism: the contest for supremacy.”</title>
                         <ptr target="https://jalit.org/bibl/3NRNXDJP"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblVECEXFFS">
-                        <title>Lasker, Daniel J. “Karaite Attitudes towards Religion and Science.” In From Judah Hadassi to Elijah Bashyatchi, (Leiden: Brill, 2008), pp. 15-28. https://brill.com/display/book/9789047442271/B9789047442271-s003.xml. </title>
+                        <title>Lasker, Daniel J. “Karaite Attitudes towards Religion and Science.” In From Judah Hadassi to Elijah Bashyatchi, (Leiden: Brill, 2008), pp. 15-28. https://brill.com/display/book/9789047442271/B9789047442271-s003.xml.</title>
                         <ptr target="https://jalit.org/bibl/VECEXFFS"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblATFAQ">
-                        <title>Lowin, Shari L. “A Prophet Like Moses?: What can we know about the early Jewish responses to Muḥammad's claims of Mosesness?.” </title>
+                        <title>Lowin, Shari L. “A Prophet Like Moses?: What can we know about the early Jewish responses to Muḥammad's claims of Mosesness?.”</title>
                         <ptr target="https://jalit.org/bibl/ATFAQ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl5JX3VNKN">
@@ -344,7 +317,7 @@
                         <ptr target="https://jalit.org/bibl/NAC6NGDJ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblBHV6HEL">
-                        <title>Marmorstein, Arthur. “Fragments du Commentaire De Daniel Al-Kumissi Sur Les Psaumes.” </title>
+                        <title>Marmorstein, Arthur. “Fragments du Commentaire De Daniel Al-Kumissi Sur Les Psaumes.”</title>
                         <ptr target="https://jalit.org/bibl/BHV6HEL"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl7EPYVL5B">
@@ -356,7 +329,7 @@
                         <ptr target="https://jalit.org/bibl/6F6T2KF8"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblBUH3EFW2">
-                        <title>Netzer, Amnon. “Dānīāl b Mošeh Qūmesī.” Encyclopedia Iranica, (1993), pp. 656-657. http://www.iranica.com. </title>
+                        <title>Netzer, Amnon. “Dānīāl b Mošeh Qūmesī.” Encyclopedia Iranica, (1993), pp. 656-657. http://www.iranica.com.</title>
                         <ptr target="https://jalit.org/bibl/BUH3EFW2"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblXQGKLC7">
@@ -364,19 +337,19 @@
                         <ptr target="https://jalit.org/bibl/XQGKLC7"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblLITJ6U8F">
-                        <title>Polliack, Meira. “Wherein lies the Pesher?: Re-questioning the Connection Between the Medieval Karaite and Qumranic Modes of Biblical Interpretation.” </title>
+                        <title>Polliack, Meira. “Wherein lies the Pesher?: Re-questioning the Connection Between the Medieval Karaite and Qumranic Modes of Biblical Interpretation.”</title>
                         <ptr target="https://jalit.org/bibl/LITJ6U8F"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl5RL5S5D">
-                        <title>Polliack, Meira. “Historicizing prophetic literature: Yefet ben ʿEli’s commentary on Hosea and its relationship to al-Qūmisī’s Pitrōn.” In Pesher Naḥum: texts and studies in Jewish history and literature from Antiquity through the Middle Ages, presented to Norman (Naḥum) Golb, edited by Joel L. Kraemer, and Michael G. Wechsler. (Chicago: The Oriental Institute of the University of Chicago, 2012), pp. 149-186. https://oi-idb.uchicago.edu/id/9d6f8f84-e638-4b4c-9179-ef52d36c4a6d. </title>
+                        <title>Polliack, Meira. “Historicizing prophetic literature: Yefet ben ʿEli’s commentary on Hosea and its relationship to al-Qūmisī’s Pitrōn.” In Pesher Naḥum: texts and studies in Jewish history and literature from Antiquity through the Middle Ages, presented to Norman (Naḥum) Golb, edited by Joel L. Kraemer, and Michael G. Wechsler. (Chicago: The Oriental Institute of the University of Chicago, 2012), pp. 149-186. https://oi-idb.uchicago.edu/id/9d6f8f84-e638-4b4c-9179-ef52d36c4a6d.</title>
                         <ptr target="https://jalit.org/bibl/5RL5S5D"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblGUCAZ37N">
-                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly Review 8, no. 4 (1896): pp. 681-704. doi: https://doi.org/10.2307/1450208. </title>
+                        <title>Poznański, Samuel. “Karaite Miscellanies.” The Jewish Quarterly Review 8, no. 4 (1896): pp. 681-704. doi: https://doi.org/10.2307/1450208.</title>
                         <ptr target="https://jalit.org/bibl/GUCAZ37N"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
-                        <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104. </title>
+                        <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104.</title>
                         <ptr target="https://jalit.org/bibl/EFVRVADD"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl7ZW8ZILW">
@@ -384,11 +357,11 @@
                         <ptr target="https://jalit.org/bibl/7ZW8ZILW"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFD2VEYJE">
-                        <title>Rosenkranz Verhelst, Simone. “Juden, Christen, Muslime und die Erwähnung der Ka'ba bei Daniel al-Qumisi.” </title>
+                        <title>Rosenkranz Verhelst, Simone. “Juden, Christen, Muslime und die Erwähnung der Ka'ba bei Daniel al-Qumisi.”</title>
                         <ptr target="https://jalit.org/bibl/FD2VEYJE"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl2U7HBX7C">
-                        <title>Scheiber, Sandor. “Daniel al-Qûmisî's commentary on Leviticus, from the Geniza.” </title>
+                        <title>Scheiber, Sandor. “Daniel al-Qûmisî's commentary on Leviticus, from the Geniza.”</title>
                         <ptr target="https://jalit.org/bibl/2U7HBX7C"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblBYK27JAP">
@@ -400,7 +373,7 @@
                         <ptr target="https://jalit.org/bibl/HJ22ZT3W"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblZ7H573">
-                        <title>Walfish, Barry, and Meira Polliack. “The Role of Gog in Daniel al-Qūmisī’s Eschatology.” In Polemical and Exegetical Polarities in Medieval Jewish Cultures: Studies in Honour of Daniel J Lasker, (Berlin &amp; Boston: De Gruyter, 2021), pp. 59-76. https://www.degruyter.com/document/doi/10.1515/9783110702262/html. </title>
+                        <title>Walfish, Barry, and Meira Polliack. “The Role of Gog in Daniel al-Qūmisī’s Eschatology.” In Polemical and Exegetical Polarities in Medieval Jewish Cultures: Studies in Honour of Daniel J Lasker, (Berlin &amp; Boston: De Gruyter, 2021), pp. 59-76. https://www.degruyter.com/document/doi/10.1515/9783110702262/html.</title>
                         <ptr target="https://jalit.org/bibl/Z7H573"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFT2L6TLT">
@@ -408,15 +381,15 @@
                         <ptr target="https://jalit.org/bibl/FT2L6TLT"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl2WPY62Z3">
-                        <title>Wieder, N. “The Qumran Sectaries and the Karaites.” The Jewish Quarterly Review 47, no. 2 (1956): pp. 97-113. doi: 10.2307/1453223. </title>
+                        <title>Wieder, N. “The Qumran Sectaries and the Karaites.” The Jewish Quarterly Review 47, no. 2 (1956): pp. 97-113. doi: 10.2307/1453223.</title>
                         <ptr target="https://jalit.org/bibl/2WPY62Z3"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFYYN7G">
-                        <title>Wieder, Naphtali. “The Qumran sectaries and the Karaites (Continued).” The Jewish Quarterly Review 47, no. 3 (1957): pp. 269-292. doi: 10.2307/1452954. </title>
+                        <title>Wieder, Naphtali. “The Qumran sectaries and the Karaites (Continued).” The Jewish Quarterly Review 47, no. 3 (1957): pp. 269-292. doi: 10.2307/1452954.</title>
                         <ptr target="https://jalit.org/bibl/FYYN7G"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblDAFTZRQ">
-                        <title>Zawanowska, Marzena. “Daniel ben Moses al-Qumisi.” In The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Abraham Narratives (Genesis 11:10–25:18), (Leiden: Brill, 2012), pp. 4;18-19. https://brill.com/view/book/edcoll/9789004226388/B9789004226388_002.xml. </title>
+                        <title>Zawanowska, Marzena. “Daniel ben Moses al-Qumisi.” In The Arabic Translation and Commentary of Yefet ben ʿEli the Karaite on the Abraham Narratives (Genesis 11:10–25:18), (Leiden: Brill, 2012), pp. 4;18-19. https://brill.com/view/book/edcoll/9789004226388/B9789004226388_002.xml.</title>
                         <ptr target="https://jalit.org/bibl/DAFTZRQ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblYVQ2HCUF">
@@ -428,15 +401,15 @@
                         <ptr target="https://jalit.org/bibl/7ELVQ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl28LMT5BE">
-                        <title>אנקורי, צבי. “על פתרון שנים עשר לדניאל אלקומסי &lt;מאמר ביקורת&gt;.” </title>
+                        <title>אנקורי, צבי. “על פתרון שנים עשר לדניאל אלקומסי &lt;מאמר ביקורת&gt;.”</title>
                         <ptr target="https://jalit.org/bibl/28LMT5BE"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblN5QJI3Z">
-                        <title>ארדר, יורם. “פרשנותו של הקרא דניאל אלקומסי לסיפור הקמת המשכן.” </title>
+                        <title>ארדר, יורם. “פרשנותו של הקרא דניאל אלקומסי לסיפור הקמת המשכן.”</title>
                         <ptr target="https://jalit.org/bibl/N5QJI3Z"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl8D2H5VHX">
-                        <title>בן שמאי, חגי. “שרידי פירוש דניאל לדניאל אלקומסי כמקור היסטורי לתולדות ארץ ישראל.” </title>
+                        <title>בן שמאי, חגי. “שרידי פירוש דניאל לדניאל אלקומסי כמקור היסטורי לתולדות ארץ ישראל.”</title>
                         <ptr target="https://jalit.org/bibl/8D2H5VHX"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl8HYCQXK">
@@ -444,11 +417,11 @@
                         <ptr target="https://jalit.org/bibl/8HYCQXK"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblBSPCHGZ8">
-                        <title>פוליאק, מאירה. “על תודעת הפשט הימי-ביניימית ותרומתו של דניאל אלקומיסי לעיון סמנטי במקרא.” </title>
+                        <title>פוליאק, מאירה. “על תודעת הפשט הימי-ביניימית ותרומתו של דניאל אלקומיסי לעיון סמנטי במקרא.”</title>
                         <ptr target="https://jalit.org/bibl/BSPCHGZ8"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl7AEDP8G">
-                        <title>שוחט, עזריאל. “השקפותיו של דניאל אלקומסי על הנבואה, התורה שבעל פה, הגלות והגאולה.” </title>
+                        <title>שוחט, עזריאל. “השקפותיו של דניאל אלקומסי על הנבואה, התורה שבעל פה, הגלות והגאולה.”</title>
                         <ptr target="https://jalit.org/bibl/7AEDP8G"/>
                     </bibl>
                     <idno type="URI" subtype="isni">https://isni.org/isni/0000000393588642</idno>
@@ -466,11 +439,16 @@
     <standOff>
         <list>
             <item>
-                <note/>
+                <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  
+<lb/>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the  
+<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found in the Samuel Poznański Archive at the National Library of Israel  (ARC 4﹡ 1180).  
+<lb/>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  
+<lb/>Literature:  
+<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging*, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
                 <persName/>
-                <quote xml:lang=""/>
+                <quote xml:lang="he"><p>דניאל בן משה אלקומסי או דמגאני</p><p>אחד מגדולי חכמי הקראים הראשונים וחשוביהם והמחבר היהודי שנודע מיד לאחרי בנימין הנהאונדי (עי"ע), ואולי היה גם תלמידו (עי' דד מרדכי, דף י"א, ע"ב). את זמנו נוכל להגביל מזה שהקראי קרקסאני יחשבהו בספרו "כתאב אלאנואר" אשר נתחבר בשנת 937 ברשמו שם במאמרו הראשון את מיסדי הכתות בישראל ואת מנהיגי הקראים הראשונים לבסוף. ואם כן, חי בסוף המאה התשיעית או תחילת העשירית. וממה שנקרא בשם קומסי (וזה על פי הרוב) וגם בשם דמגאני נראה שהיה ממחוז קומס אשר בטבריסטאן (בארץ פרס) ואשר העיר הראשית שלו היתה דמגאן. מקורות ימי חייו לא נדע מאומה. [מתברר מן ה"אגרת" של אלקומסי שהוא עזב את ארץ מולדתו והתיישב בירושלים. מן הפרטים ההיסטוריים שהוא מזכיר בפירושו לספר דניאל אפשר ללמוד שהוא עזב את קומס לכל המאוחר בשנת 873, יצא מח'ראסאן בשנת 875 לכל המאוחר, נסע לארץ ישראל דרך סוריה, וכנראה הגיע לירושלים בסביבות השנה 880 והיה פעיל שם עוד עשרים או עשרים וחמש שנה בערך. אלקומסי היה הקראי החשוב הראשון להתיישב בירושלים וכנראה בואו לעיר היה מפנה חשוב בשביל קהילת הקראים שם. בתחילת דרכו, אלקומסי השתייך כנראה לכת של הענניים, חסידי ענן שדבקו במסורת ההלכתית שלו. בשלב מסויים בחייו, הוא שינה את מגמתו וניסה לבסס את הדת רק על חקר המקרא בלי מסורת, ובזה נפרד מן הענניים. ולכן, בכך אפשר לראות אותו כמחבר הקראי הראשון שגיבש אידיאולוגיה קראית. ונכבד מאד מה שמספר קרקסאני מהתיחסותו של דניאל לענן והוא כי בראשונה החשיבו למאד והזכירו הרבה בספריו ואף קראו בשם "ראש המשכילים", ואולם אחרי כן לעג לו וקרא לו בשם "ראש הכסילים". ואמנם בכל זאת לא איבד דניאל את ערכו אצל הקראים הבאים אחריו אשר יביאו את דעותיו בכבוד ונושאים ונותנים בהם. (ואולם נפלא הדבר כי לא ייזכר דניאל בזכרונות גדולי הקראים שנזכרים בכל שבת בבתי כנסיות שלהם.) המחבר אשר הציל לנו הרוב מדבריו ודעותיו הוא קרקסאני. ועוד יביאוהו למשל: הדסי הרבה פעמים בספרו אשכל הכפר (אלף בית קכ"ו אות נ', רל"ג ו', רל"ח ח', ר"מ, ר', רנ"ו נ', רפ"ז ג', ש"ח ע', שי"ו ח', ושע"ג ב'); אהרן בן אליהו בספרו גן עדן (דף ס"ה ב' וקס"ט ד'); יפת בן צעיר בספר המצות שלו (עי' זכרון לראשונים להרכבי, חלק ח', עמ' 191189); אליהו בשייצי באדרת אליהו (ענין ירושות, פרק ב' וג') וכדומה.</p><p>את ספריו כתב דניאל כמו כל הקראים בתקופה הראשונה בשפה העברית. ואלה ספריו:</p><p>1)	פירושים למקרא. ברשימת ספרים, כ"י מן הגניזה, נזכר ממנו "פתרון חומש [ויהושע] ושופטים." (עי' פוזננסקי, Schechter's Saadyana, עמ' 19.) "חלק מס' איש חמודות הרב דניאל אלקומסי על התורה ביאורים" היה בידי יש"ר דילמדגו מקנדיא במאה הי"ז, עי' ספרו נובלות חכמה, דף נ"ו. נותרו מפירושיו שרידים מעטים כדלקמן:</p><p>ויקרא: 1) לפסוקים א':א'-ט"ו ולפסוקים ו':כ"א-ז':כ"א (הדפיס שכטר מתוך כ"י מהגניזה בספרו Saadyana, סי' 55); [2) פירוש לפסוקים כ':כ'-כ"ג:כ"ח (שני קטעים שמהווים רצף אחד פורסמו בגנזי שכטר ב', עמ' 481-486). חלק מן הקטע הזה פורסם שנית עם תקונים על ידי ווידר, Judean Scrolls, עמ' 60.] 3) כ"ה:ט-כ"ו:ה' (הדפיס הרכבי מתוך כ"י פטרסבורג בהחוקר שנה א' עמ' 173169. הוא חשב בתחלה כי הפירוש הוא לבנימין הנהאונדי ואחר כך הכיר שהוא מדניאל, עי' זכרון לראשונים ח' עמ' 187 הערה 2.)</p><p>ומתוך מה שנשאר מן הפירוש לתורה נראה שאינו פירוש במובן הרגיל לבאר כל כתוב וכתוב על הסדר כי אם כעין פירושים והערות לכתובים נפרדים עם אריכות דברים מן הצד על דבר עניני אמונה וחקירה המסתעפים מהכתובים המבוארים. כן למשל יאריך אצל פרשת "אם בחקותי" על דבר העולם הזה שקוראהו בית המעשה בנגוד לעולם הבא שהוא בית התגמול ועל דבר יסורי הצדיקים ושלוות הרשעים בעולם הזה וכדומה. כן הוא משתמש כבר פה במלים ובטויים ערביים [ופרסיים] לבאר על ידם את הוראת הכתובים. מפירושו זה נובע בלי ספק מה שמביא בשמו הדסי (א"ב קכ"ו אות נ') על דבר מושב בני ישראל בארץ מצרים. ויש להעיר כי הדסי (א"ב שע"ג אות ב') מביא עוד בשם דניאל כי יש בארץ אדום עוף מתעופף ורוגש ואינו יושב ולא שוקט והדבר הזה כתוב באיוב ל"ט:כ"ו, ואולי נובע זה מפירוש דניאל לאיוב.</p><p>תהלים: ועוד חיבר פירוש לתהלים וחלק ממנו שנשאר בכ"י הדפיס מרמורשטיין, "Fragments de Commentaire de Daniel al-Koumisi sur les Psaumes," JA 7 )1916(, pp. 177-237 (= הצופה לחכמת ישראל ח' (1924), עמ' 337-331, ט'; עמ' 143-129).</p><p>ברשימת ספרים מהגניזה נזכר "מסלה ללקומסי" (REJ 39, עמ' 200, מס' 45) והרכבי במאמרו על דבר האספה השניה של פירקוויץ' (  1875, . 178, No. 3, עמ' 34) מזכיר פירוש נביאים לדניאל בערבית אבל במאמריו האחרים לא יזכירו.</p><p>3)	ספר המצות. מובא בשמו רק על ידי הקראי יפת בן צעיר אבל ממנו נובעים בלי ספק כל מה שמובא בשם דניאל בעניני הלכה ודת. ומהמובא ממנו נראה כי הסתעף ספרו של דניאל על דיני קדוש החדש, שבת ומועדים, על עניני אסור והיתר, אישות ועריות, טומאה וטהרה, אבל לא על דיני ממונות. ומה שמובא ממנו בלשונו ממש נאסף על ידי הרכבי בספרו זכרון לראשונים, חלק ח', עמ' 192-187.</p><p>4)	ספר בדיני ירושות. כ"י אחד מהגניזה (נדפס על ידי שכטר בספרו Saadyana, סי' 13) מכיל שורות אחדות "ממה שנלחם רב סעדיה גאון נגד ספר אשר חיבר אותו דניאל בן משה הנודע קומסי להשכיל את העם בירושותיהם" וכנראה היה זה ספר מיוחד ואפשר גם כי היה זה פרק אחד מספר דינים שלם שחיבר דניאל.</p><p>מדעותיו בעניני אמונה וחקירה יש להזכיר קודם כל כי לפי דניאל אין להשתמש בשכל בעניני דת, אף לעג על המשתמשים בו. ובשביל זה אמר למשל גם כן כי "לא תבשל גדי בחלב אמו" איננו מוסב על בישול פירות הבכורים שנזכרו לפני זה (גדי מלשון מגדים, והיא דעת ענן שהתיר לפי זה בשר בחלב) כי אם הוא על אופניו על בשר המתגדל והנולד בחלב יולדתהו "כי מצות ה' לא במשל צוה."</p><p>כן לא האמין דניאל במציאת המלאכים על דרך שיאמינו בזה כל בני ישראל, דהיינו שהם נמצאים חיים ובעלי דבור הנשלחים מה', כמו הנביאים. ואמנם לדעתו השם מלאך ומלאכים יורה על הדברים שיפעל ה' על ידם את פעולותיו כמו האש, הענן, הרוח וכדומה. ואף נקראו בשם זה הצרות והיסורים הבאים על האדם מאת ה' לייסרו ולנסותו והראיה מן הכתובים בתהלים ע"ח:מ"ט וק"ד:ד' (ועי' גם כן מורה נבוכים, חלק ב', פרק ו') ועוד ממה שבשמות י"ד:י"ט נקרא אף עמוד הענן בשם מלאך. ואם נמצא הכתוב מספר כי ראו הנבראים את המלאכים בצורת אדם אף יקראום בשמם (כמו גבריאל וכדומה) נאמר כי הם ברואים לשעתם כמו הבגדים אשר עליהם אשר בעל כרחם נבראו לשעתם. ולפי השערת קרקסאני אולי רצה דניאל להרוס בזה את שיטת בנימין הנהאונדי אשר אמר כי ברא ה' מלאך והמלאך הוא אשר ברא את העולם ובא דניאל והכחיש במציאת המלאכים בכלל. ואפשר גם כן כי מתקלטת פה השפעת הצדוקים אשר גם הם לא האמינו במלאכים (עי' למשל פעלי השליחים, כ"ג:ח'). ונודע כי היו בעת דניאל בארצות המזרח ספרים שנתיחסו להצדוקים (REJ 44, עמ' 176). התנגדותו של דניאל [לשמוש בעיון שכלי] בעניני הדת נתבטאה גם בזה ממה שאסר לקצוב את החודשים והמועדים על פי חשבון באמרו שזה הוא חשבון קוסמים וחוברי שמים דבר שאסרו הכתוב בדברים י"ח:י'. אף אמר כי העושים כזה מזומנים הם לשרפה בראיה מן הכתוב בישעיה מ"ז:י"ג-י"ד. אמנם לעומת זה התיר להשתמש לראיית הירח בעדות בעלי דת אסלאם.</p><p>בעניני דין והלכה הוא לרוב מן המחמירים ומדעותיו בנידון זה יש להזכיר: אסור לרחוץ את ידיו בשבת בדבר המלבנים את הגוף וכן אסור להיעשות המלאכה בשבת על ידי גוים אם בחנם ואם בשכר יום ואף לא אם השכר קצוב בעד כל המלאכה. אסור כי יהיה נר דולק לא רק בשבת כי אם גם ביום טוב. וכן שווים יום טוב ושבת בדבר הוצאת משא ובדבר יציאה מחוץ לגבול המותר. ואם נמצא כי יצאו ישראל ממצרים ביום ט"ו ניסן והוציאו עמם את משאיהם הוא מפני שבשנה הראשונה ליציאתם נצטוו רק על זביחת הפסח ולא על בטול מלאכה. כמו כל מייסדי הכתות וכמו ענן ובנימין הנהאונדי אמר גם דניאל כי יום הנפת העמר הוא יום הראשון, היינו כי פתרון "ממחרת השבת" (ויקרא כ"ג:י"א) הוא שבת בראשית. תחלת השנה הוא יום י' תשרי, היינו יום הכפורים ועל כן שם בו י"י כפור עונות לכפר בו על כל עונות השנה ועל כן העבירו בו גם שופר בכל הארץ. בדבר ארבעת המינים שגם לדעת דניאל נצטוו רק לפאר בהם הסוכה, אמר שכפות תמרים הוא באור לפרי עץ הדר לפי שהתמר הוא הפרי היותר מהודר בראיה מן הכתוב בשיר השירים ז':ח'.</p><p>כמו ענן והרבה ממיסדי הכתות בזמן הגאונים אסר גם דניאל לאכול בשר בגולה ועיקר ראייתו ממה שנאמר (דברים י"ב:כ"ז) "ודם זבחיך ישפך על מזבח ה' אלהיך והבשר תאכל" ואם כן הותר לאכול בשר רק אז כאשר ישפך הדם של הקרבנות על המזבח ועכשיו שבטלו קרבנות אסור לאכול כל בשר. וגם מדברי הושע (ט':ד') נראה שכל זמן שהקרבנות אינם מובאים בית ה', כל אכילת בשר היא כלחם אונים ומטמא את אוכליו. ואף דברי ישעיה ס"ו:ג': "שוחט השור מכה איש וכו'", מוסבים על כל מי שזובח בקר וצאן בגלות. העופות הטהורים ניכרים לא באותותיהם כי אם בשמותיהם ואחרי כי דבור לשון הקדש שבת ממנו ולא נדע את שמות העופות בברור על כן מותר לנו לאכול רק תורים ובני יונה שנודעו גם בשמותיהם הערבים שפנין וחמאם. וזה מכוון לא רק נגד התלמוד כי אם גם נגד ענן שגם הוא נתן סימנים לעופות טהורים (עי' זכרון לראשונים ח', עמ' 154). וכן מן הארבה לא הותר לאכול רק אותם ארבעת המינים שנזכרו בשמותיהם (ויקרא י"א:כ"ב). אסור לאכול דגים בלא שחיטה ואף דגים מתים וכן אסור לאכול דם דגים ולהיפך מן הביצים מותרים רק ביצי דגים ולא שאר ביצים וזה ממה שאמר הכתוב (בראשית ט':ג') כי רק כל רמש אשר הוא חי הוא לאכלה והביצים אינם רומשים חיים. ועוד ממה שצוה הכתוב לשלח את האם וליקח את הבנים ואם כן הותרו לאכול רק אפרוחים אבל לא ביצים. ומזה נראה עד כמה רדף דניאל למצא אסורים וחומרות בלי טעם. בדבר מליקה שנתחלפו בו הקראים (עי' REJ 45, עמ' 196), אמר דניאל כי היא פעולה שתעשה בעוף אחרי השחיטה.</p><p>פרוש "שאר בשר" (ויקרא י"ח:ו') הוא לפי דעת דניאל קרובי הקרובים שבשם "בשר" נקראו ששת הקרובים אשר אין ביניהם אמצעי והם: האב והאם, הבן והבת, האח והאחות, ובשם "שאר" נקראו קרובי אלו כמו למשל אם האב ואם האם ואחיהם ואחיותיהם ובני האח והאחות ובנותיהם וכדומה. עוד אמר כי אסור הערוות על האנשים והנשים הוא אסור אחד ומה שנאסר על האיש נאסר כמותו גם על האשה (ואם כן הקיש גם הוא בעריות) וזה יוצא מהכתוב בויקרא כ':י"ז. כמו ענן והבאים אחריו אמר גם דניאל כי יבום איננו נוהג באשת האח וכי פרוש "אחים" בדברים כ"ה:ה' הוא קרובים ואם נמצא כי אונן יבם את אשת אחיו הוא לפי שהיה זה קודם מתן תורה אמנם אחר זה נאסרה אשת האח בכל אופן בין בחיים בין לאחר מיתת האח. כן אמר עם שאר הקראים כי אחות האשה אסורה בכל אופן אף לאחר מיתת האשה ומה שנאמר (ויקרא י"ח:י"ח) "ואשה אל אחותה וכו'" אין זה אחות הנולדה מאבי האשה או מן אמה כי אם הנולדה מאשת האב או מן בעל האם אשר גם היא אסורה בחיי האשה אמנם מותרת אחרי מותה אבל אחות האשה אסורה לא משום צרה כי אם למען כי זאת שאר זאת וכל שתי נשים שהן שאר זאת לזאת אסורות אסור עולם (ועי' REJ 45, עמ' 186).</p><p>בנגוד לענן שאמר כי אין טומאה בזמן הזה (עי' REJ 45, עמ' 195), אמר דניאל כי המצורע מטמא בזמן הזה. אבל נבלת בהמה טהורה אחרי אשר תעשה למלאכה לא תטמא. כן חולק הוא על האומרים כי אם יהיו כמה כלים מחוברים זו בצד זו כלם יטמאו כי זה מתנגד לדברי הכתוב (במדבר י"ט:ט"ו) שלפיהו אף בטומאה חמורה כמו טמא מת מטמאים רק הכלים אשר אין צמיד פתיל עליהם.</p><p>בדבר ירושה שאולי חיבר עליו דניאל ספר מיוחד נשתמרו דעותיו רק בדבר ירושת הבת, ופה נטה יותר לדעת בעלי התלמוד ואמר כי הבן קודם להבת וכל יוצאי ירכו של בן קודמים לבת, בת קודמת לאחים וכל יוצאי ירכה של בת קודמים לאחים, האחים קודמים לאחי האב וכל יוצאי ירכם קודמים לאחי האב, אחי האב קודמים להשאר (והם הקרובים הרחוקים, עי' לעיל) וכל יוצאי ירכם של אחי האב קודמים להשאר. לעומת זה אמר כי צריך ליתן להבת שלישית הנחלה וזה בהיקש מן הערכים (ויקרא כ"ז:א'-ז') אשר גם שם ערך הנקבה קטן מערך הזכר אבל אין כל ספק כי ניכרת פה השפעת האסלאם כי גם לפי הקראן (ד' י"ב קע"ה) חלק הבת הוא שליש (ועי' JQR os 8, עמ' 691). גם ירושת האם הוא שלישית הנחלה בהיקש מן הבת.</p><p>ביבליוגרפיה:</p><p>פינסקר, ל"ק א' 45, ב' 188; גוטלובר, בקרת, 164; פין, כנסת ישראל, 264; ווייס, דדו"ד ד' 87, 116; הרכבי, לקורת הכתות בישראל, 2, 17; הנ"ל, זכרון לראשונים ח', 1, 192-185.</p><p>de Rossi, I:47 )Leipzig, 38(; Jost, II:345; Fürst, I:78; Frankl, in Ersch u. Gruber, II, Vol. 33, p. 15; Sinani, II:26; Harkavy, , 271; idem, Magazin XX:228; J. Hamburger, in Winter-Wünsche, II:72-73; Poznanski, JQR os 8 )1896(, pp. 681-684; idem, JE IV:432-434; idem, Schechter's Saadyana, p. 4, 10, 19; idem, . . VI:945-950; idem, Hastings' Enc. of Rel. VII:664; Steinschneider, JQR XI:606; Eppenstein, in Graetz, V:269, n. 3.</p></quote>
                 <bibl>
-                    <title/>
+                    <title>Abraham Poznański. Encyclopedia of Qaraites.</title>
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
