@@ -41,7 +41,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-09-03T08:15:24.136Z">Updated bibliography.</change><change who="#mmoliere" when="2024-09-03T06:45:43.547Z">Added short biography by Gregor Schwarb.</change>
+            <change who="#mmoliere" when="2024-09-03T06:45:43.547Z">Added short biography by Gregor Schwarb.</change>
             <change who="#mmoliere" when="2024-09-02T11:44:07.137Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-07-01T16:56:23.714Z">Updated heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -141,31 +141,6 @@
                     <residence>
                         <placeName ref="" cert=""/>
                     </residence>
-                    <bibl type="bibliography" xml:id="jalit-orgbiblFB5CSK8">
-                        <title>“Levi ben Jafet.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 771.</title>
-                        <ptr target="https://jalit.org/bibl/FB5CSK8"/>
-                    </bibl><bibl xml:id="jalit-orgbiblDJV65BQJ">
-                        <title>Poznański, Samuel Abraham. Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL990032439840205171/NLI.</title>
-                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
-                    </bibl><bibl xml:id="jalit-orgbiblNLMAEUIB">
-                        <title>Jacob, Mann. Texts and Studies in Jewish History and Literature, 2 vols. (Cincinnati; Philadelphia: Hebrew Union College Press; Jewish Publication Society, 1931). </title>
-                        <ptr target="https://jalit.org/bibl/NLMAEUIB"/>
-                    </bibl><bibl xml:id="jalit-orgbiblGTR9L7TG">
-                        <title>Erder, Yoram. "The Mourners of Zion: The Karaites in Jerusalem of the Tenth and Eleventh Centuries," in Karaite Judaism: A Guide to Its History and Literary Sources, ed. Meira Polliack (Leiden &amp; Boston: Brill, 2003), 213–35.</title>
-                        <ptr target="https://jalit.org/bibl/GTR9L7TG"/>
-                    </bibl>
-                    <bibl type="bibliography" xml:id="jalit-orgbiblV5KU3L">
-                        <title>“Levi ben Japheth (Abu Sa‛id).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 99-100.</title>
-                        <ptr target="https://jalit.org/bibl/V5KU3L"/>
-                    </bibl>
-                    <bibl type="bibliography" xml:id="jalit-orgbibl8YJPKD5E">
-                        <title>“Levi ben Japheth (Abu Sa‛id).” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 702.</title>
-                        <ptr target="https://jalit.org/bibl/8YJPKD5E"/>
-                    </bibl>
-                    <bibl type="bibliography" xml:id="jalit-orgbiblRSCHAHP">
-                        <title>“Levi ben Japhet.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 622.</title>
-                        <ptr target="https://jalit.org/bibl/RSCHAHP"/>
-                    </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblAGSNQZE">
                         <title>Ankori, Zvi. Karaites in Byzantium: the formative years, 970-1100. (New York &amp; Jerusalem: Columbia University Press &amp; Weizmann Science Press of Israel, 1959).</title>
                         <ptr target="https://jalit.org/bibl/AGSNQZE"/>
@@ -194,6 +169,10 @@
                         <title>Erder, Yoram. “Early Karaite Conceptions about Commandments Given before the Revelation of the Torah.” Proceedings of the American Academy for Jewish Research 60 (1994): pp. 101-140. doi: 10.2307/3622571.</title>
                         <ptr target="https://jalit.org/bibl/W6VZEFBB"/>
                     </bibl>
+                    <bibl xml:id="jalit-orgbiblGTR9L7TG">
+                        <title>Erder, Yoram. "The Mourners of Zion: The Karaites in Jerusalem of the Tenth and Eleventh Centuries," in Karaite Judaism: A Guide to Its History and Literary Sources, ed. Meira Polliack (Leiden &amp; Boston: Brill, 2003), 213–35.</title>
+                        <ptr target="https://jalit.org/bibl/GTR9L7TG"/>
+                    </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblQ76DVNAT">
                         <title>Frank, Daniel. “The Shoshanim of tenth-century Jerusalem: Karaite exegesis, prayer, and communal identity.” In The Jews of Medieval Islam, (Leiden: Brill, 1995), pp. 207-212. https://brill.com/view/book/edcoll/9789004493230/B9789004493230_s015.xml.</title>
                         <ptr target="https://jalit.org/bibl/Q76DVNAT"/>
@@ -202,9 +181,29 @@
                         <title>Kokowzow, P. “Notitia codicum hebraicorum a Museo Asiatico Academiae Imperialis Scientiarum Petropolitanae anno 1904 acquisitorum.” Bulletin de l’Académie Impériale des Sciences de St.-Pétersbourg ser. 5, t. 23 (1905): pp. 1-10.</title>
                         <ptr target="https://jalit.org/bibl/WN7PTG7J"/>
                     </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFB5CSK8">
+                        <title>“Levi ben Jafet.” Biblioteca de cultura judaica, (Rio de Janeiro: Biblos), p. 771.</title>
+                        <ptr target="https://jalit.org/bibl/FB5CSK8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblV5KU3L">
+                        <title>“Levi ben Japheth (Abu Sa‛id).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 99-100.</title>
+                        <ptr target="https://jalit.org/bibl/V5KU3L"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl8YJPKD5E">
+                        <title>“Levi ben Japheth (Abu Sa‛id).” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 702.</title>
+                        <ptr target="https://jalit.org/bibl/8YJPKD5E"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRSCHAHP">
+                        <title>“Levi ben Japhet.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 622.</title>
+                        <ptr target="https://jalit.org/bibl/RSCHAHP"/>
+                    </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblGYA5T6XN">
                         <title>Madelung, Wilferd. “Muʿtazilī theology in Levi ben Yefet’s Kitāb al-Niʿma.” Intellectual History of the Islamicate World 2, no. 1-2 (2014): pp. 9-17. doi: 10.1163/2212943X-00201002.</title>
                         <ptr target="https://jalit.org/bibl/GYA5T6XN"/>
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblNLMAEUIB">
+                        <title>Mann, Jacob. Texts and Studies in Jewish History and Literature, 2 vols. (Cincinnati; Philadelphia: Hebrew Union College Press; Jewish Publication Society, 1931). </title>
+                        <ptr target="https://jalit.org/bibl/NLMAEUIB"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblQXQ5MQ8L">
                         <title>Markon, Isaac. “Levi ben Jafet.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), pp. 1067-1068.</title>
@@ -237,6 +236,10 @@
                     <bibl type="bibliography" xml:id="jalit-orgbibl2VWGYI2">
                         <title>Polliack, Meira. “The Jerusalem Karaites and their Concepts of Translation and Scriptural Interpretation.” In The Karaite Tradition of Arabic Bible Translation, 17, (Leiden: Brill, 1997)</title>
                         <ptr target="https://jalit.org/bibl/2VWGYI2"/>
+                    </bibl>
+                    <bibl xml:id="jalit-orgbiblDJV65BQJ">
+                        <title>Poznański, Samuel Abraham. Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL990032439840205171/NLI.</title>
+                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblEFVRVADD">
                         <title>Poznański, Samuel Abraham. “The Karaite Literary Opponents of Saadiah Gaon in the Eleventh Century.” Jewish Quarterly Review 18 (1906): pp. 59-83. doi: https://doi.org/10.2307/1451104.</title>
