@@ -26,7 +26,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -35,16 +36,19 @@
                 <idno type="URI">https://jalit.org/manuscript/1551</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p><p>
+<lb/>                            </p></p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p><p>
+<lb/>                    </p></p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#rboehm" when="2024-09-03T16:16:09.648Z">Yevr.-Arab. I 102 created</change><change who="#" when=""/>
+            <change who="#rboehm" when="2024-09-03T16:20:55.638Z">work title</change><change who="#rboehm" when="2024-09-03T16:16:09.648Z">Yevr.-Arab. I 102 created</change>
+            <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -75,8 +79,8 @@
                         <summary xml:lang=""/>
                         <msItem class="" xml:id="item-11">
                             <locus from="" to=""/>
-                            <title xml:lang="" ref="" cert=""/>
-                            <author ref="" cert=""/>
+                            <title xml:lang="" ref="" cert="">Commentary on the Book of Deuteronomy </title>
+                            <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
@@ -86,8 +90,22 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang=""/>
                             </explicit>
-                            <note xml:lang=""/>
-                        </msItem>
+                            <note xml:lang=""><p>Containing the Commentary on the Book of Deuteronomy 16:18-22, 17:1-15, 18:4-22, 19:1-21, 20:1-17, 21:15-23, 22:1-10, 22-29, 23:1-26, 24:1-3, 10-22, 25:1-19, 26:1-19, 27:1-26, 28:1-69, 29:1-28, 30:1-20, 31:1-30, 32:1-25, 36, 39–52, 33:1-29, 34:1-12.</p></note>
+                        </msItem><msItem class="" xml:id="item-12"><locus from="2v" to="19v"/><locus from="65r" to="84r"/><locus from="108r" to="127v"/>
+      <locus from="136"/>
+      <title cert="" ref="" xml:lang="">A Commentary on the Book of Deuteronomy </title>
+      <author cert="" ref="">anonymous</author>
+      <textLang mainLang="" otherLangs=""/>
+      <incipit>
+         <locus from="" to=""/>
+         <quote xml:lang=""/>
+      </incipit>
+      <explicit>
+         <locus from="" to=""/>
+         <quote xml:lang=""/>
+      </explicit>
+      <note xml:lang=""><p>Not by Yeshuʿah b. Yehudah.</p></note>
+   </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
@@ -127,7 +145,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <summary><p>
-<lb/>                                    </p></summary>
+<lb/>  </p><p/></summary>
                                 <layout writtenLines="" columns="" xml:id="layout-1111">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
