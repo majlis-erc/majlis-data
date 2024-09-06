@@ -48,7 +48,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-09-06T12:21:59.274Z">work title linked</change><change who="#rboehm" when="2024-09-03T15:14:38.902Z">work title (iii)</change>
+            <change who="#rboehm" when="2024-09-06T12:21:59.274Z">work title linked (ii)</change><change who="#rboehm" when="2024-09-03T15:14:38.902Z">work title (iii)</change>
             <change who="#rboehm" when="2024-08-30T08:22:18.367Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
@@ -91,7 +91,7 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar"/>
                             </explicit>
-                            <note xml:lang=""><p>Containing discourse 1 (on circumcision; fols 1–88) and discourse 2 (on Sabbath; fols 89–92, 100). 
+                            <note xml:lang=""><p>Containing discourse 1 (on circumcision; fols 1r–88v) and discourse 2 (on Sabbath; fols 89r–92v, 100r). 
 <lb/>  </p><p> </p><p/></note>
                         </msItem>
                         <msItem class="" xml:id="item-12"><locus from="93r" to="99v"/>
