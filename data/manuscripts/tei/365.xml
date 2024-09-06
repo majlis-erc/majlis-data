@@ -47,7 +47,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-09-06T10:51:08.211Z">work title linked</change><change who="#rboehm" when="2024-08-30T01:37:39.798Z">work title</change>
+            <change who="#rboehm" when="2024-09-06T10:51:08.211Z">work title linked (ii)</change><change who="#rboehm" when="2024-08-30T01:37:39.798Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#lgzella">Translated Harkavy heritage data.</change>
@@ -87,7 +87,7 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar"/>
                             </explicit>
-                            <note xml:lang=""><p>Containing Leviticus 2:11-14. </p><p/></note>
+                            <note xml:lang=""><p>Containing the Long Commentary on the Book of Leviticus 2:11-14. </p><p/></note>
                         </msItem>
                     </msContents>
                     <physDesc>
