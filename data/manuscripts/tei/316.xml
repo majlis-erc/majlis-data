@@ -47,7 +47,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-09-06T12:36:06.152Z">work title linked</change><change who="#rboehm" when="2024-08-30T12:58:24.650Z">work title</change>
+            <change who="#rboehm" when="2024-09-06T12:36:06.152Z">work title linked (ii)</change><change who="#rboehm" when="2024-08-30T12:58:24.650Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
@@ -79,7 +79,7 @@
                         <summary xml:lang=""/>
                         <msItem class="" xml:id="item-11">
                             <locus from="57r" to="64v"/>
-                            <locus from="66"/>
+                            <locus from="66r" to="v"/>
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="" otherLangs=""/>
@@ -91,7 +91,7 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang=""/>
                             </explicit>
-                            <note xml:lang=""><p>Containing discourse 1 (on circumcision; fols 57r–64v) and discourse 8 (on ritual purity; fol. 66)(?). </p><p/></note>
+                            <note xml:lang=""><p>Containing discourse 1 (on circumcision; fols 57r–64v) and discourse 8 (on ritual purity; fol. 66r–v) (?). </p><p/></note>
                         </msItem>
                     </msContents>
                     <physDesc>
