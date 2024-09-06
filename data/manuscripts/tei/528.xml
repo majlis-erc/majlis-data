@@ -47,7 +47,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-09-06T10:09:24.156Z">work title</change><change who="#rboehm" when="2024-08-30T13:22:26.049Z">work title</change>
+            <change who="#rboehm" when="2024-09-06T10:09:24.156Z">work title linked</change><change who="#rboehm" when="2024-08-30T13:22:26.049Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#lgzella">Translated Harkavy heritage data.</change>
@@ -91,7 +91,7 @@
                         </msItem>
                         <msItem class="" xml:id="item-12">
                             <locus from="53r" to="66v"/>
-                            <locus from="110"/>
+                            <locus from="110r-v"/>
                             <title ref="https://jalit.org/work/13">Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="" otherLangs=""/>
