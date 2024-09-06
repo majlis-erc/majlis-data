@@ -47,7 +47,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-09-06T14:30:03.344Z">work title linked</change><change who="#rboehm" when="2024-08-30T09:10:47.042Z">work title</change>
+            <change who="#rboehm" when="2024-09-06T14:30:03.344Z">work title linked (ii)</change><change who="#rboehm" when="2024-08-30T09:10:47.042Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
@@ -94,9 +94,9 @@
 <lb/></p></note>
                         </msItem>
                         <msItem class="" xml:id="item-12">
-                            <locus from="2r" to="v"/>
+                            <locus from="2r"/>
                             <title cert="" ref="" xml:lang="">Commentary on Zechariah (?)</title>
-                            <author cert="" ref=""/>
+                            <author cert="" ref="">unknown</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
