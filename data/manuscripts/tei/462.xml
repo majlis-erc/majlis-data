@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Jerusalem, Ben Zvi Institute, Israel Ms. 1</title>
+                <title level="a" xml:lang="en">Jerusalem, Ben Zvi Institute, Ms. 1</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -47,7 +47,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#mmoliere" when="2024-09-13T10:30:34.562Z">Corrected title.</change><change who="#mmoliere" when="2024-09-13T10:28:10.451Z">Corrected title.</change>
+            <change who="#mmoliere" when="2024-09-13T11:36:55.184Z">Corrected identification.</change><change who="#mmoliere" when="2024-09-13T10:28:10.451Z">Corrected title.</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
