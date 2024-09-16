@@ -47,7 +47,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#S.Mattutat" when="2024-09-16T09:38:59.352Z">Heritage Data (Notes and Referenced section)</change><change who="#S.Mattutat" when="2024-09-16T09:21:49.471Z">Heritage Data (Note, Author, Transcription, Title of publication)</change>
+            <change who="#S.Mattutat" when="2024-09-16T09:38:59.352Z">Heritage Data (Note)</change><change who="#S.Mattutat" when="2024-09-16T09:21:49.471Z">Heritage Data (Note, Author, Transcription, Title of publication)</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
         </revisionDesc>
@@ -194,9 +194,7 @@
                                     <note xml:lang="en"><p>Karl Julius Reinhart Hoerning (1855–1937) was born in in Meiningen, Thuringia. He entered the University of Leipzig in 1874 at the age of 18, initially to study theology and oriental languages. However, his focus soon shifted exclusively to oriental languages. He studied various languages, including Sanskrit, Arabic, Persian, Turkish, Syriac, Ethiopic, and Rabbinic Hebrew under different professors. The turning point came when Friedrich Delitzsch began Assyriology lectures in the summer semester of 1875, and Hoerning, captivated by the subject, decided to specialize in this new field. 
 <lb/> In 1879 he was appointed assistant to the Keeper of Oriental Manuscripts, Charles Pierre Henri Rieu (1820–1902), at the British Museum, London. His handwritten descriptions of the (mostly) Qaraite manuscripts from the Shapira Collection (today held at the British Library) served as the basis for subsequent catalogs, especially the Catalogue of the Hebrew and Samaritan manuscripts in the British Museum by G. Margoliouth. </p><p> Literature: 
 <lb/> Karl Julius Reinhart Hoerning, “Das sechsseitige Prisma des Sanherib in transcribirtem Grundtext und Uebersetzung nebst Beiträgen zu seiner Erklärung” (Inaugural dissertation, University of Leipzig, 1878). 
-<lb/> Benjamin Richler, “Hoerning, Reinhardt,” in his Guide to Hebrew Manuscript 
-<lb/> Collections 
-<lb/> , 2nd ed. (Jerusalem: The Israel Academy of Sciences and Humanities, 2014), p. 96. </p><p/></note>
+<lb/> Benjamin Richler, “Hoerning, Reinhardt,” in his Guide to Hebrew Manuscript Collections, 2nd ed. (Jerusalem: The Israel Academy of Sciences and Humanities, 2014), p. 96. </p></note>
                                     <persName>Karl Julius Reinhart Hoerning</persName>
                                     <quote xml:lang="en"><p>Two fragments of choral service books. Hebrew, but written in the Arabic char., with instructions for the pieces in Arabic. XIIth and XIVth cent. </p><p> Fragments of Genesis and Deuteronomy, and of Numbers, viz. Gen. xiv 12 - xvii 8, xxi 7 - xxiii 6, xxiv 1 - xxv 17; Deut. iii 19 - iv 34, vii 1 - ix 1; xviii 19 - xxi 14, 19 - xxiii19; Numb. vi 1 - vii 72, ix 2 - x 4, xiv 39 - xv 14, 35 - xx14, xxii 22 - xxv 4: Heb. text written in the Arabic char. and provided with the Heb. vowel-points and accents. XIIth and XIth cent. </p><p> Paper, ff. 132. Sm. 4o. 
 <lb/> </p><p/></quote>
