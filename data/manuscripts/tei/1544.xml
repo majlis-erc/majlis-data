@@ -25,7 +25,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -34,17 +35,20 @@
                 <idno type="URI">https://jalit.org/manuscript/1544</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p><p>
+<lb/>                            </p></p>
                     </licence>
                 </availability>
                 <date>2024-05-14</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p><p>
+<lb/>                    </p></p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#S.Mattutat" when="2024-09-16T11:37:13.477Z">Heritage Data (Note, Author, Transcription, Title of publication)</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
+            <change who="#S.Mattutat" when="2024-09-16T13:10:24.805Z">Heritage Data (Referenced section)</change><change who="#S.Mattutat" when="2024-09-16T11:37:13.477Z">Heritage Data (Note, Author, Transcription, Title of publication)</change>
+            <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
         </revisionDesc>
     </teiHeader>
@@ -121,7 +125,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <summary><p>
-<lb/>                                    </p></summary>
+<lb/>  </p><p/></summary>
                                 <layout columns="" writtenLines="" xml:id="layout-1111">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
@@ -146,7 +150,7 @@
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="" script="" style="" xml:lang="ar">
-                                <note xml:lang=""><p/><p/></note>
+                                <note xml:lang=""><p/><p> </p><p/></note>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
@@ -190,13 +194,13 @@
                                     <note xml:lang="en"><p>Karl Julius Reinhart Hoerning (1855–1937) was born in in Meiningen, Thuringia. He entered the University of Leipzig in 1874 at the age of 18, initially to study theology and oriental languages. However, his focus soon shifted exclusively to oriental languages. He studied various languages, including Sanskrit, Arabic, Persian, Turkish, Syriac, Ethiopic, and Rabbinic Hebrew under different professors. The turning point came when Friedrich Delitzsch began Assyriology lectures in the summer semester of 1875, and Hoerning, captivated by the subject, decided to specialize in this new field. 
 <lb/> In 1879 he was appointed assistant to the Keeper of Oriental Manuscripts, Charles Pierre Henri Rieu (1820–1902), at the British Museum, London. His handwritten descriptions of the (mostly) Qaraite manuscripts from the Shapira Collection (today held at the British Library) served as the basis for subsequent catalogs, especially the Catalogue of the Hebrew and Samaritan manuscripts in the British Museum by G. Margoliouth. </p><p> Literature: 
 <lb/> Karl Julius Reinhart Hoerning, “Das sechsseitige Prisma des Sanherib in transcribirtem Grundtext und Uebersetzung nebst Beiträgen zu seiner Erklärung” (Inaugural dissertation, University of Leipzig, 1878). 
-<lb/> Benjamin Richler, “Hoerning, Reinhardt,” in his Guide to Hebrew Manuscript Collections, 2nd ed. (Jerusalem: The Israel Academy of Sciences and Humanities, 2014), p. 96. </p></note>
+<lb/> Benjamin Richler, “Hoerning, Reinhardt,” in his Guide to Hebrew Manuscript Collections, 2nd ed. (Jerusalem: The Israel Academy of Sciences and Humanities, 2014), p. 96. </p><p/></note>
                                     <persName>Karl Julius Reinhart Hoerning</persName>
-                                    <quote xml:lang="en"><p>Two fragments of choral service books. Hebrew, but written in the Arabic char., with instructions for the pieces in Arabic. XIIth and XIVth cent.</p><p>Fragments of Genesis and Deuteronomy, and of Numbers, viz. Gen. xiv 12 - xvii 8, xxi 7 - xxiii 6, xxiv 1 - xxv 17; Deut. iii 19 - iv 34, vii 1 - ix 1; xviii 19 - xxi 14, 19 - xxiii19; Numb. vi 1 - vii 72, ix 2 - x 4, xiv 39 - xv 14, 35 - xx14, xxii 22 - xxv 4: Heb. text written in the Arabic char. and provided  with the Heb. vowel-points and accents. XIIth and XIth cent. </p><p>Paper, ff. 132. Sm. 4o.
-<lb/></p></quote>
+                                    <quote xml:lang="en"><p>Two fragments of choral service books. Hebrew, but written in the Arabic char., with instructions for the pieces in Arabic. XIIth and XIVth cent. </p><p> Fragments of Genesis and Deuteronomy, and of Numbers, viz. Gen. xiv 12 - xvii 8, xxi 7 - xxiii 6, xxiv 1 - xxv 17; Deut. iii 19 - iv 34, vii 1 - ix 1; xviii 19 - xxi 14, 19 - xxiii19; Numb. vi 1 - vii 72, ix 2 - x 4, xiv 39 - xv 14, 35 - xx14, xxii 22 - xxv 4: Heb. text written in the Arabic char. and provided with the Heb. vowel-points and accents. XIIth and XIth cent. </p><p> Paper, ff. 132. Sm. 4o. 
+<lb/> </p><p/></quote>
                                     <bibl>
                                         <title>Hoerning, Karl Julius Reinhart. “List of Karaite Manuscripts in the British Museum”</title>
-                                        <citedRange unit="p">24</citedRange>
+                                        <citedRange/>
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
@@ -221,7 +225,7 @@
                             <persName ref="" role=""/>
                             <quote xml:lang=""/>
                             <stamp/>
-                            <note xml:lang="en"><p>This manuscript was collected by Moses Wilhelm Shapira (1830–1884). He was a dealer of antiquities and manuscripts who sold his goods from a store in the Old City of Jerusalem. He is most known for the controversy over his purported scrolls of Deuteronomy and the fake Moabite pottery created among scholars; at the end of his life, he was publicly disgraced as a fraudster. </p><p>  The sources of the manuscripts he sold are not clear. In <em> The Athenaeum </em> no. 2855, dated July 15, 1882, Shapira declared that his sources preferred to remain anonymous. He claims to have traveled to Yemen to acquire some of his merchandise. Because of the similarity of Shapira’s manuscripts to those sold by Avraham Firkovitch to St. Petersburg, it has been argued that Shapira too acquired them from the Karaite synagogue in Cairo. (David Sklare, “A Guide to Collections of Karaite Manuscripts”, in <em> Karaite Judaism: A Guide to its History and Literary Sources </em> , ed. M. Polliack, Leiden: Brill, 2003, 893–924 [896]; On the provenance of Shapira's manuscripts, see the introduction in R. Hoerning, <em> Six Karaite Manuscripts </em> , London, 1889, V.) Shapira prepared a catalog, now at Staatsbibliothek zu Berlin, Ms. or. fol. 1342, of the manuscripts he hoped to sell to institutional libraries. A transcription may be found in the “Heritage data” section. </p><p>  Shapira sold it to the British Museum (now British Library), London, in 1877–83. Overall, the British Library owns some 200 Karaite manuscripts which can be traced back to Shapira. However, the volumes do not always align with Shapira's catalogue; the librarians of the 19th century rebound and combined incomplete and separate leafs into complete books. </p><p>  Other libraries where Shapira manuscripts are housed today include: Staatsbibliothek zu Berlin and the Sutro Library at the California State Library, San Francisco. </p><p> </p></note>
+                            <note xml:lang="en"><p>This manuscript was collected by Moses Wilhelm Shapira (1830–1884). He was a dealer of antiquities and manuscripts who sold his goods from a store in the Old City of Jerusalem. He is most known for the controversy over his purported scrolls of Deuteronomy and the fake Moabite pottery created among scholars; at the end of his life, he was publicly disgraced as a fraudster. </p><p> The sources of the manuscripts he sold are not clear. In <em> The Athenaeum </em> no. 2855, dated July 15, 1882, Shapira declared that his sources preferred to remain anonymous. He claims to have traveled to Yemen to acquire some of his merchandise. Because of the similarity of Shapira’s manuscripts to those sold by Avraham Firkovitch to St. Petersburg, it has been argued that Shapira too acquired them from the Karaite synagogue in Cairo. (David Sklare, “A Guide to Collections of Karaite Manuscripts”, in <em> Karaite Judaism: A Guide to its History and Literary Sources </em> , ed. M. Polliack, Leiden: Brill, 2003, 893–924 [896]; On the provenance of Shapira's manuscripts, see the introduction in R. Hoerning, <em> Six Karaite Manuscripts </em> , London, 1889, V.) Shapira prepared a catalog, now at Staatsbibliothek zu Berlin, Ms. or. fol. 1342, of the manuscripts he hoped to sell to institutional libraries. A transcription may be found in the “Heritage data” section. </p><p> Shapira sold it to the British Museum (now British Library), London, in 1877–83. Overall, the British Library owns some 200 Karaite manuscripts which can be traced back to Shapira. However, the volumes do not always align with Shapira's catalogue; the librarians of the 19th century rebound and combined incomplete and separate leafs into complete books. </p><p> Other libraries where Shapira manuscripts are housed today include: Staatsbibliothek zu Berlin and the Sutro Library at the California State Library, San Francisco. </p><p>  </p><p/></note>
                         </acquisition>
                     </history>
                     <additional>
