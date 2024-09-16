@@ -205,7 +205,7 @@
                             </binding>
                         </bindingDesc>
                         <accMat>
-                            <list/>
+                            <list>                                 <item>                                     <note xml:lang=""/>                                     <persName/>                                     <quote xml:lang=""/>                                     <bibl>                                         <title/>                                         <citedRange unit="p"/>                                         <ptr target=""/>                                     </bibl>                                 </item>                             </list>
                         </accMat>
                     </physDesc>
                     <history>
