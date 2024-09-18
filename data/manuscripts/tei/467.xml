@@ -47,7 +47,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#S.Mattutat" when="2024-09-18T13:54:43.786Z">Karl Julius Reinhart Hoerning</change><change who="#S.Mattutat" when="2024-09-18T13:48:23.297Z">Heritage Data (Note, Author, Transcription, Title of Publication).</change>
+            <change who="#S.Mattutat" when="2024-09-18T13:54:43.786Z">Heritage Data ( Author).
+</change><change who="#S.Mattutat" when="2024-09-18T13:48:23.297Z">Heritage Data (Note, Author, Transcription, Title of Publication).</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
