@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">New York, Jewish Theological Seminary, Ms. 18</title>
+                <title level="a" xml:lang="en">Cairo, Karaite Synagogue, Ms. 18</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de"> <orgName>Ludwig Maximilian University of
@@ -79,9 +79,9 @@
                     <msIdentifier>
                         <country>Egypt</country>
                         <settlement>Cairo</settlement>
-                        <repository>Jewish Theological Seminary</repository>
-                        <collection>Ms.</collection>
-                        <idno>Ms. 18</idno>
+                        <repository>Karaite Synagogue</repository>
+                        <collection></collection>
+                        <idno>18</idno>
                         <altIdentifier type="SfarData">
                             <idno>ZD077</idno>
                         </altIdentifier>
@@ -89,7 +89,7 @@
                             <idno>PNX_MANUSCRIPTS 990001740820205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
-                            <idno>F 40163 , PH 4682 ; Cat. Gottheil No: 18</idno>
+                            <idno>F 40163, PH 4682; Cat. Gottheil No: 18</idno>
                         </altIdentifier>
                         <altIdentifier type="main-shelfmark">
                             <idno/>

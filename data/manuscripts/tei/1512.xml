@@ -4,8 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">New York, Jewish Theological Seminary, Ms.Or. 10599 =
-                    Gaster Ms. 1448</title>
+                <title level="a" xml:lang="en">London, British Library, Or. 10599</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de"> <orgName>Ludwig Maximilian University of
@@ -79,11 +78,11 @@
                     <msIdentifier>
                         <country>Great Britain</country>
                         <settlement>London</settlement>
-                        <repository>Jewish Theological Seminary</repository>
-                        <collection>Ms.</collection>
-                        <idno>Or. 10599 = Gaster Ms. 1448</idno>
-                        <altIdentifier type="Ktiv">
-                            <idno/>
+                        <repository>British Library</repository>
+                        <collection>Or.</collection>
+                        <idno>10599</idno>
+                        <altIdentifier type="old">
+                            <idno>Gaster Ms. 1448</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
@@ -165,7 +164,7 @@
                             <persName role=""/> <quote xml:lang=""></quote> <stamp/> <note xml:lang=""></note> </provenance>
                         <acquisition> <date/> <placeName ref=""/> <locus from="" to=""/>
                             <persName ref="" role=""/> <quote xml:lang=""/> <stamp/> <note
-                            xml:lang="en"><p>This manuscript was collected by Moses Wilhelm Shapira                           (1830–1884). He was a dealer of antiquities and manuscripts who sold his                           goods from a store in the Old City of Jerusalem. He is most known for                           the controversy over his purported scrolls of Deuteronomy and the fake                           Moabite pottery created among scholars; at the end of his life, he was                           publicly disgraced as a fraudster.</p> <p>The sources of the manuscripts                           he sold are not clear. In <em>The Athenaeum</em> no. 2855, dated July                           15, 1882, Shapira declared that his sources preferred to remain                           anonymous. He claims to have traveled to Yemen to acquire some of his                           merchandise. Because of the similarity of Shapira’s manuscripts to those                           sold by Avraham Firkovitch to St. Petersburg, it has been argued that                           Shapira too acquired them from the Karaite synagogue in Cairo. (David                           Sklare, “A Guide to Collections of Karaite Manuscripts”, in <em>Karaite                           Judaism: A Guide to its History and Literary Sources</em>, ed. M.                           Polliack, Leiden: Brill, 2003, 893–924 [896]; On the provenance of                           Shapira's manuscripts, see the introduction in R. Hoerning, <em>Six                           Karaite Manuscripts</em>, London, 1889, V.) Shapira prepared a catalog,                           now at Staatsbibliothek zu Berlin, Ms. or. fol. 1342, of the manuscripts                           he hoped to sell to institutional libraries. A transcription may be                           found in the “Heritage data” section.</p> <p>Shapira sold it to the                           British Museum (now British Library), London, in 1877–83. Overall, the                           British Library owns some 200 Karaite manuscripts which can be traced                           back to Shapira. However, the volumes do not always align with Shapira's                           catalogue; the librarians of the 19th century rebound and combined                           incomplete and separate leafs into complete books.</p> <p>Other                           libraries where Shapira manuscripts are housed today include:                           Staatsbibliothek zu Berlin and the Sutro Library at the California State                           Library, San Francisco.</p> </note> </acquisition>
+                            xml:lang="en"></note> </acquisition>
                     </history>
                     <additional>
                         <surrogates> <listBibl>
