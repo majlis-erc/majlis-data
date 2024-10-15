@@ -61,8 +61,8 @@
                         <country>Egypt</country>
                         <settlement>Cairo</settlement>
                         <repository>Karaite Synagogue</repository>
-                        <collection>Ms.</collection>
-                        <idno>Ms. 13</idno>
+                        <collection></collection>
+                        <idno>13</idno>
                         <altIdentifier type="SfarData">
                             <idno>0M002</idno>
                         </altIdentifier>

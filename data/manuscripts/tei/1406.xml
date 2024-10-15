@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">New York, Jewish Theological Seminary, Ms. 38</title>
+                <title level="a" xml:lang="en">Princeton, Princeton University Library, Ms. 38</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de"> <orgName>Ludwig Maximilian University of
@@ -76,10 +76,11 @@
             <listBibl>
                 <msDesc>
                     <msIdentifier>
+                        <country>USA</country>
                         <settlement>Princeton</settlement>
-                        <repository>Jewish Theological Seminary</repository>
-                        <collection>Ms.</collection>
-                        <idno>Ms. 38</idno>
+                        <repository>Princeton University Library</repository>
+                        <collection></collection>
+                        <idno>38</idno>
                         <altIdentifier type="SfarData">
                             <idno>0Y122</idno>
                         </altIdentifier>
