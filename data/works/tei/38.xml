@@ -26,7 +26,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -35,20 +36,25 @@
                 <idno type="URI">https://jalit.org/work/38</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
-                        <p><p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p></p>
-                        <p><p>Under the following terms: Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p></p>
+                        <p><p>
+<lb/>                            </p></p>
+                        <p><p>
+<lb/>                            </p></p>
+                        <p><p>
+<lb/>                            </p></p>
                     </licence>
                 </availability>
                 <date/>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p><p>
+<lb/>                    </p></p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p><p>This record created following the Jalit.org guidelines. Documentation available at:</p></p>
+                <p><p>
+<lb/>                    </p></p>
             </editorialDecl>
             <classDecl>
                 <taxonomy>
@@ -67,13 +73,15 @@
             <textClass>
                 <keywords>
                     <list>
-                        <item>Polemics</item><item>Kabbalah</item>
+                        <item>Polemics</item>
+                        <item>Kabbalah</item>
                     </list>
                 </keywords>
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#mmoliere" when="2024-10-17T13:15:41.983Z">Test entry.</change><change who="" when=""/>
+            <change who="#mmoliere" when="2024-10-17T13:24:02.012Z">Test.</change><change who="#mmoliere" when="2024-10-17T13:15:41.983Z">Test entry.</change>
+            <change who="" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -84,17 +92,17 @@
                 <title xml:lang="" xml:id="title-3"/>
                 <author ref="" cert=""/>
                 <persName role="" ref="" cert=""/>
-                <textLang mainLang="" otherLangs=""/>
-                <term type="script"/>
+                <textLang mainLang="he" otherLangs=""/>
+                <term type="script">Hebrew</term>
                 <date/>
                 <incipit xml:lang=""/>
                 <explicit xml:lang=""/>
                 <quote xml:lang="" type="" source=""/>
-                <bibl xml:id="jalit-orgbiblZS456QGQ">
-                        <idno>Alfasi, David Ben Abraham,</idno>
-                        <title>Solomon Leon Skoss, Alfasi, David Ben Abraham, in Encyclopaedia Judaica (Detroit: Gale, 2007).</title>
-                        <ptr target="https://jalit.org/bibl/ZS456QGQ"/>
-                    </bibl>
+                <bibl xml:id="jalit-orgbiblZS456QGQ" type="mentioned">
+                    <idno>Alfasi, David Ben Abraham,</idno>
+                    <title>Solomon Leon Skoss, Alfasi, David Ben Abraham, in Encyclopaedia Judaica (Detroit: Gale, 2007).</title>
+                    <ptr target="https://jalit.org/bibl/ZS456QGQ"/>
+                </bibl>
             </bibl>
         </body>
     </text>
