@@ -28,6 +28,7 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
@@ -81,7 +82,8 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#mmoliere" when="2024-10-18T16:54:03.911Z">Test.</change><change who="#mmoliere" when="2024-10-17T13:24:02.012Z">Test.</change>
+            <change who="#mmoliere" when="2024-10-18T16:58:01.585Z">Test</change><change who="#mmoliere" when="2024-10-18T16:54:03.911Z">Test.</change>
+            <change who="#mmoliere" when="2024-10-17T13:24:02.012Z">Test.</change>
             <change who="#mmoliere" when="2024-10-17T13:15:41.983Z">Test entry.</change>
             <change who="" when=""/>
         </revisionDesc>
@@ -99,12 +101,16 @@
                 <date>13th century</date>
                 <incipit xml:lang="en">Incipit</incipit>
                 <explicit xml:lang="en">Explicit</explicit>
-                <quote xml:lang="en" type="chapter" source=""><p>Transcription</p></quote>
+                <quote xml:lang="en" type="chapter" source=""><p>Transcription </p><p/></quote>
                 <bibl xml:id="jalit-orgbiblZS456QGQ" type="mentioned">
                     <idno>Alfasi, David Ben Abraham,</idno>
                     <title>Solomon Leon Skoss, Alfasi, David Ben Abraham, in Encyclopaedia Judaica (Detroit: Gale, 2007).</title>
                     <ptr target="https://jalit.org/bibl/ZS456QGQ"/>
-                </bibl>
+                </bibl><bibl xml:id="jalit-orgbibl845CMUL7" type="translated">
+                        <idno>The Karaite Tradition of Hebrew Grammatical Thought in Its Classical Form-A Critical Edition and English Translation of  by 'Abu l-Faraj Harun ibn al-Faraj</idno>
+                        <title>Nasir Basal, The Karaite Tradition of Hebrew Grammatical Thought in Its Classical Form-A Critical Edition and English Translation of  by ’Abu l-Faraj Harun Ibn al-Faraj, Arabica 55, no. 1 (2008): 140–46.</title>
+                        <ptr target="https://jalit.org/bibl/845CMUL7"/>
+                    </bibl>
             </bibl>
         </body>
     </text>
