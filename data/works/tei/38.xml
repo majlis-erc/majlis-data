@@ -82,7 +82,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#mmoliere" when="2024-10-18T16:58:01.585Z">Test</change><change who="#mmoliere" when="2024-10-18T16:54:03.911Z">Test.</change>
+            <change who="#mmoliere" when="2024-10-21T13:54:21.507Z">Test</change><change who="#mmoliere" when="2024-10-18T16:54:03.911Z">Test.</change>
             <change who="#mmoliere" when="2024-10-17T13:24:02.012Z">Test.</change>
             <change who="#mmoliere" when="2024-10-17T13:15:41.983Z">Test entry.</change>
             <change who="" when=""/>
@@ -90,7 +90,7 @@
     </teiHeader>
     <text>
         <body>
-            <bibl xml:id="">
+            <bibl xml:id=""><note xml:lang="de"><p>Ein weiterer Test.</p></note>
                 <title xml:lang="en" type="majlis-headword" xml:id="title-1">Zohar</title>
                 <title xml:lang="" type="attested" xml:id="title-2">Sohar</title>
                 <title xml:lang="" xml:id="title-3"/>
@@ -106,10 +106,10 @@
                     <idno>Alfasi, David Ben Abraham,</idno>
                     <title>Solomon Leon Skoss, Alfasi, David Ben Abraham, in Encyclopaedia Judaica (Detroit: Gale, 2007).</title>
                     <ptr target="https://jalit.org/bibl/ZS456QGQ"/>
-                </bibl><bibl xml:id="jalit-orgbibl845CMUL7" type="translated">
-                        <idno>The Karaite Tradition of Hebrew Grammatical Thought in Its Classical Form-A Critical Edition and English Translation of  by 'Abu l-Faraj Harun ibn al-Faraj</idno>
-                        <title>Nasir Basal, The Karaite Tradition of Hebrew Grammatical Thought in Its Classical Form-A Critical Edition and English Translation of  by ’Abu l-Faraj Harun Ibn al-Faraj, Arabica 55, no. 1 (2008): 140–46.</title>
-                        <ptr target="https://jalit.org/bibl/845CMUL7"/>
+                </bibl><bibl xml:id="jalit-orgbibl2U7HBX7C" type="translated">
+                        <idno>Daniel al-Qûmisî's commentary on Leviticus, from the Geniza</idno>
+                        <title>Sandor Scheiber, Daniel Al-Qûmisî’s Commentary on Leviticus, from the Geniza, Acta Orientalia (Budapest), 1984, 201–14.</title>
+                        <ptr target="https://jalit.org/bibl/2U7HBX7C"/>
                     </bibl>
             </bibl>
         </body>
