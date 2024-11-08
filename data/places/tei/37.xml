@@ -120,7 +120,7 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>66.73715, 36.82704</geo>
+                        <geo>36.82704 66.73715</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>

@@ -64,7 +64,9 @@
                 <language ident="ar">Arabic</language>
             </langUsage>
         </profileDesc>
-        <revisionDesc status="draft"/>
+        <revisionDesc status="draft">
+            <change when="2024-11-07" who="#mmoliere">Compiled and converted data to TEI.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -76,7 +78,7 @@
                     <desc><p>
 <lb/>                        </p></desc>
                     <location>
-                        <geo>35.95283, 39.00788</geo>
+                        <geo>35.95283 39.00788</geo>
                         <settlement ref=""/>
                         <region ref=""/>
                     </location>

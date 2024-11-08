@@ -120,12 +120,12 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>24.9361, 54.639</geo>
+                        <geo>54.639 24.9361</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
                     <idno type="URI">https://www.wikidata.org/wiki/Q191015</idno>
-                    <idno type="URI"/>
+                    <idno type="URI">https://www.geonames.org/864523</idno>
                     <bibl>
                         <title/>
                         <citedRange unit="p"/>

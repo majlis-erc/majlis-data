@@ -120,12 +120,11 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>12.482777777778, 41.893055555556</geo>
+                        <geo>41.89193 12.51133</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
                     <idno type="URI">https://www.wikidata.org/wiki/Q220</idno>
-                    <idno type="URI">https://www.geonames.org/7000874</idno>
                     <idno type="URI">http://viaf.org/viaf/145348938</idno>
                     <idno type="URI">http://viaf.org/viaf/124652723</idno>
                     <idno type="URI">https://d-nb.info/gnd/4050471-2</idno>

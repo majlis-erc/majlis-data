@@ -120,7 +120,7 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>-0.75, 39.5</geo>
+                        <geo>39.5 -0.75</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
@@ -128,7 +128,6 @@
                     <idno type="URI">https://www.geonames.org/2593113</idno>
                     <idno type="URI">https://d-nb.info/gnd/4354544-0</idno>
                     <idno type="URI">http://viaf.org/viaf/141448251</idno>
-                    <idno type="URI">https://www.geonames.org/7002793</idno>
                     <idno type="URI"/>
                     <bibl>
                         <title/>

@@ -120,13 +120,12 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>44.2, 15.35</geo>
+                        <geo>15.45037 44.221</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
                     <idno type="URI">https://www.wikidata.org/wiki/Q2471</idno>
                     <idno type="URI">https://www.geonames.org/71137</idno>
-                    <idno type="URI">https://www.geonames.org/6940571</idno>
                     <idno type="URI">https://d-nb.info/gnd/4051533-3</idno>
                     <idno type="URI">http://viaf.org/viaf/148922407</idno>
                     <idno type="URI">https://id.loc.gov/authorities/names/n80086523.html</idno>

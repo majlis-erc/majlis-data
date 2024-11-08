@@ -120,12 +120,11 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>10, 34</geo>
+                        <geo>34 10</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
                     <idno type="URI">https://www.wikidata.org/wiki/Q948</idno>
-                    <idno type="URI">https://www.geonames.org/1000205</idno>
                     <idno type="URI">http://viaf.org/viaf/151897393</idno>
                     <idno type="URI">https://www.geonames.org/2464461</idno>
                     <idno type="URI">https://d-nb.info/gnd/4061206-5</idno>
