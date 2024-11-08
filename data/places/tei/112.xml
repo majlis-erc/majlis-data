@@ -120,12 +120,11 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>59.517538888888886, 36.486130555555555</geo>
+                        <geo>36.4861 59.5175</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
                     <idno type="URI">https://www.wikidata.org/wiki/Q681427</idno>
-                    <idno type="URI">https://www.geonames.org/112467</idno>
                     <idno type="URI">http://viaf.org/viaf/132975443</idno>
                     <idno type="URI"/>
                     <bibl>

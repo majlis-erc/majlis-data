@@ -120,12 +120,13 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>3.606669, 37.188169</geo>
+                        <geo>37.18863 -3.59078</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
                     <idno type="URI">https://www.wikidata.org/wiki/Q8810</idno>
                     <idno type="URI">https://d-nb.info/gnd/4021815-6</idno>
+                    <idno type="URI">https://www.geonames.org/6357709</idno>
                     <bibl>
                         <title/>
                         <citedRange unit="p"/>

@@ -120,7 +120,7 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>12.331944444444, 45.439722222222</geo>
+                        <geo>45.4389 12.33092</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
@@ -130,7 +130,6 @@
                     <idno type="URI">https://id.loc.gov/authorities/names/n79018142.html</idno>
                     <idno type="URI">https://catalogue.bnf.fr/ark:/12148/cb11933474v</idno>
                     <idno type="URI">https://www.geonames.org/6542284</idno>
-                    <idno type="URI">https://www.geonames.org/7018159</idno>
                     <idno type="URI"/>
                     <bibl>
                         <title/>

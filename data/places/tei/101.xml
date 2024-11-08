@@ -120,7 +120,7 @@
                         <quote source="" xml:lang=""/>
                     </desc>
                     <location>
-                        <geo>46.283333333333, 38.083333333333</geo>
+                        <geo>38.08 46.2919</geo>
                         <settlement ref="" source=""/>
                         <region ref="" source=""/>
                     </location>
@@ -130,7 +130,6 @@
                     <idno type="URI">http://viaf.org/viaf/145406585</idno>
                     <idno type="URI">https://catalogue.bnf.fr/ark:/12148/cb136187340</idno>
                     <idno type="URI">https://id.loc.gov/authorities/names/n79117301.html</idno>
-                    <idno type="URI">https://www.geonames.org/7002156</idno>
                     <idno type="URI"/>
                     <bibl>
                         <title/>
