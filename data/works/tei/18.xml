@@ -27,6 +27,7 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <editionStmt>
@@ -102,17 +103,18 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2024-11-08T14:10:47.394Z">test iii</change><change who="#rboehm" when="2024-09-06T10:32:39.152Z">work record created</change>
+            <change who="#rboehm" when="2024-11-09T11:59:34.548Z">test iv</change><change who="#rboehm" when="2024-11-08T14:10:47.394Z">test iii</change>
+            <change who="#rboehm" when="2024-09-06T10:32:39.152Z">work record created</change>
             <change who="" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <bibl xml:id=""><title type="majlis-headword" xml:lang="en" xml:id="title-1">Book of Lights and Watchtowers</title>
+            <bibl xml:id="">
+                <title type="majlis-headword" xml:lang="en" xml:id="title-1">Book of Lights and Watchtowers</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-2">كتاب الأنوار والمراقب</title>
                 <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-3">כתאב אלאנואר ואלמראקב</title>
-                
-                <author ref="https://manuforma-staging.jalit.org/exist/apps/majlis/person/279" cert="high">Yaʿqūb b. Yiṣḥaq al-Qirqisānī</author>
+                <author ref="https://jalit.org/person/279" cert="high">Yaʿqūb b. Yiṣḥaq al-Qirqisānī</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>
                 <incipit xml:lang=""/>
@@ -120,7 +122,7 @@
                 <quote xml:lang="" type="" source=""/>
                 <date>c. 927</date>
                 <note><p>
-<lb/>  </p><p/></note>
+<lb/>  </p><p> </p><p/></note>
                 <bibl xml:id="">
                     <title/>
                     <citedRange unit="p"/>
