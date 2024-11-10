@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Zohar</title>
+                <title level="a" xml:lang="en">Work Test</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -27,6 +27,7 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
@@ -76,13 +77,14 @@
                 <keywords>
                     <list>
                         <item>Polemics</item>
-                        <item>Kabbalah</item>
+                        <item>Bible</item>
                     </list>
                 </keywords>
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#mmoliere" when="2024-10-21T13:54:21.507Z">Test</change><change who="#mmoliere" when="2024-10-18T16:54:03.911Z">Test.</change>
+            <change who="#mmoliere" when="2024-11-10T18:17:36.078Z">Test data.</change><change who="#mmoliere" when="2024-10-21T13:54:21.507Z">Test</change>
+            <change who="#mmoliere" when="2024-10-18T16:54:03.911Z">Test.</change>
             <change who="#mmoliere" when="2024-10-17T13:24:02.012Z">Test.</change>
             <change who="#mmoliere" when="2024-10-17T13:15:41.983Z">Test entry.</change>
             <change who="" when=""/>
@@ -90,27 +92,29 @@
     </teiHeader>
     <text>
         <body>
-            <bibl xml:id=""><note xml:lang="de"><p>Ein weiterer Test.</p></note>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-1">Zohar</title>
-                <title xml:lang="" type="attested" xml:id="title-2">Sohar</title>
+            <bibl xml:id="">
+                <note xml:lang="de"><p>Ein weiterer Test. </p><p/></note>
+                <title xml:lang="en" type="majlis-headword" xml:id="title-1">Work Title</title>
+                <title xml:lang="" type="attested" xml:id="title-2">Work Attested Title</title>
                 <title xml:lang="" xml:id="title-3"/>
-                <author ref="" cert="">Shimon bar Yochai</author>
-                <persName role="translator" ref="" cert="">Shimon bar Yochai</persName>
+                <author ref="" cert="">Author</author>
+                <persName role="translator" ref="" cert="">Translator</persName>
                 <textLang mainLang="he" otherLangs=""/>
                 <term type="script">Hebrew</term>
-                <date>13th century</date>
+                <date>11th century</date>
                 <incipit xml:lang="en">Incipit</incipit>
                 <explicit xml:lang="en">Explicit</explicit>
-                <quote xml:lang="en" type="chapter" source=""><p>Transcription </p><p/></quote>
+                <quote xml:lang="en" type="chapter" source=""><p>Chapter heading</p><p> </p><p/></quote>
                 <bibl xml:id="jalit-orgbiblZS456QGQ" type="mentioned">
                     <idno>Alfasi, David Ben Abraham,</idno>
                     <title>Solomon Leon Skoss, Alfasi, David Ben Abraham, in Encyclopaedia Judaica (Detroit: Gale, 2007).</title>
                     <ptr target="https://jalit.org/bibl/ZS456QGQ"/>
-                </bibl><bibl xml:id="jalit-orgbibl2U7HBX7C" type="translated">
-                        <idno>Daniel al-Qûmisî's commentary on Leviticus, from the Geniza</idno>
-                        <title>Sandor Scheiber, Daniel Al-Qûmisî’s Commentary on Leviticus, from the Geniza, Acta Orientalia (Budapest), 1984, 201–14.</title>
-                        <ptr target="https://jalit.org/bibl/2U7HBX7C"/>
-                    </bibl>
+                </bibl>
+                <bibl xml:id="jalit-orgbibl2U7HBX7C" type="translated">
+                    <idno>Daniel al-Qûmisî's commentary on Leviticus, from the Geniza</idno>
+                    <title>Sandor Scheiber, Daniel Al-Qûmisî’s Commentary on Leviticus, from the Geniza, Acta Orientalia (Budapest), 1984, 201–14.</title>
+                    <ptr target="https://jalit.org/bibl/2U7HBX7C"/>
+                </bibl>
             </bibl>
         </body>
     </text>
