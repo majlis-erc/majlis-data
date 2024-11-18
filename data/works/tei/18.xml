@@ -104,7 +104,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2024-11-18T09:57:25.088Z">test v</change><change who="#rboehm" when="2024-11-09T11:59:34.548Z">test iv</change>
+            <change who="#rboehm" when="2024-11-18T09:57:25.088Z">test vi</change><change who="#rboehm" when="2024-11-09T11:59:34.548Z">test iv</change>
             <change who="#rboehm" when="2024-11-08T14:10:47.394Z">test iii</change>
             <change who="#rboehm" when="2024-09-06T10:32:39.152Z">work record created</change>
             <change who="" when=""/>
@@ -114,7 +114,7 @@
         <body>
             <bibl xml:id="">
                 <title type="majlis-headword" xml:lang="en" xml:id="title-1">Book of Lights and Watchtowers</title>
-                <title xml:lang="ar" type="majlis-headword" xml:id="title-2">Dummy title</title>
+                <title xml:lang="ar" type="majlis-headword" xml:id="title-2">كتاب الأنوار والمراقب</title>
                 <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-3">כתאב אלאנואר ואלמראקב</title>
                 <author ref="https://jalit.org/person/279" cert="high">Yaʿqūb b. Yiṣḥaq al-Qirqisānī</author>
                 <persName role="" ref="" cert=""/>
