@@ -1,303 +1,289 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="a" xml:lang="en">Ṭoviya ben Moše</title>
-            <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
-            <sponsor ref="https://www.uni-muenchen.de">
-               <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                  München</orgName>) </sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-               <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                  Osten</orgName>) </sponsor>
-            <funder ref="https://erc.europa.eu/">
-               <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
-            <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-               >Ronny Vollandt
-               </editor>
-            <editor xml:id="gschwarb" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-               >Gregor Schwarb
-               </editor>
-            <editor xml:id="mmoliere" role="contributor"
-               ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-               >Maximilian de Molière
-               </editor>
-            <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-            <respStmt>
-               <resp>Srophé app design and development by</resp>
-               <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>
-               <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
-            </authority>
-            <idno type="URI">https://jalit.org/person/12</idno>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by/3.0/">
-                  <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
-               </licence>
-            </availability>
-            <date>2021-10-23</date>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Born digital.</p>
-         </sourceDesc>
-      </fileDesc>
-      <revisionDesc status="unpublished">
-         <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
-         <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
-         <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <listPerson>
-            <person>
-               <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
-                  <name source="">Ṭoviya ben Moše</name>
-               </persName>
-               <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="attested" xml:lang="he">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="attested" xml:lang="ar">
-                  <name source=""/>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Tobia ben Moses (ha-Abel)</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Tobias ben Moses (ha-Avel)</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">Ṭoviyah ben Mosheh (ha-Avel)</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">בן משה, טוביה</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">טוביה בן משה</name>
-               </persName>
-               <persName xml:id="" type="alternate" xml:lang="">
-                  <name source="#isni">טוביה בן משה (האבל)</name>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="ar">
-                  <addName source="" xml:id="sh-ar" type="shuhra"/>
-                  <addName source="" xml:id="is-ar" type="ism"/>
-                  <addName source="" xml:id="na-ar" type="nasab"/>
-                  <addName source="" xml:id="ni-ar" type="nisbah"/>
-                  <addName source="" xml:id="ku-ar" type="kunya"/>
-                  <addName source="" xml:id="la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="ar-Hebr">
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="ar-Latn"
-                  >
-                  <addName source="" ref="#sh-ar" type="shuhra"/>
-                  <addName source="" ref="#is-ar" type="ism"/>
-                  <addName source="" ref="#na-ar" type="nasab"/>
-                  <addName source="" ref="#ni-ar" type="nisbah"/>
-                  <addName source="" ref="#ku-ar" type="kunya"/>
-                  <addName source="" ref="#la-ar" type="laqab"/>
-               </persName>
-               <persName xml:id="" type="canon" xml:lang="he">
-                  <forename source="" xml:id="fn-he"/>
-                  <addName source="" xml:id="pa-he" type="patronym"/>
-                  <addName source="" xml:id="ep-he" type="epithet"/>
-                  <addName source="" xml:id="ac-he" type="acronym"/>
-                  <addName source="" xml:id="sh-he" type="shuhra"/>
-               </persName>
-               <persName xml:id="" corresp="" type="canon" xml:lang="he-Latn">
-                  <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                  <addName source="" ref="#pa-he" type="patronym"/>
-                  <addName source="" ref="#ep-he" type="epithet"/>
-                  <addName source="" ref="#ac-he" type="acronym"/>
-                  <addName source="" ref="#sh-he" type="shuhra"/>
-               </persName>
-               <birth>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
-               </birth>
-               <death>
-                  <date cert="" source=""/>
-                  <placeName ref="" cert="" source=""/>
-               </death>
-               <floruit>
-    <date cert="" source=""/>
-    <placeName ref="" cert="" source=""/>
-</floruit>
-               <sex cert="" source=""/>
-               <faith cert="" source=""/>
-               <occupation type="" cert="" source=""/>
-               <residence>
-                  <placeName ref="" cert="" source=""/>
-               </residence>
-               <bibl type="bibliography" xml:id="jalit-orgbiblMVC2DJY8">
-                  <title>“Tovia ben Moshe ha-Avel.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 280.</title>
-                  <ptr target="https://jalit.org/bibl/MVC2DJY8"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblST7XKSRA">
-                  <title>Ankori, Zvi. “Some aspects of Karaite–Rabbanite relations in Byzantium on the eve of the First Crusade.” Proceedings of the American Academy of Jewish Research 24-25 (1955): pp. 1-38; 25; 157-182.</title>
-                  <ptr target="https://jalit.org/bibl/ST7XKSRA"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblKFE5HMFP">
-                  <title>Ankori, Zvi. “Tobias ben Moses ha-Avel (ha-Ma’tik).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 1182–1183.</title>
-                  <ptr target="https://jalit.org/bibl/KFE5HMFP"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblIFIVWVGI">
-                  <title>Ankori, Zvi. “Tobias ben Moses ha-Avel (ha-Ma’tik).” Encyclopaedia Judaica, (Detroit: Gale, 2007), pp. 11-12.</title>
-                  <ptr target="https://jalit.org/bibl/IFIVWVGI"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblARAE8XMS">
-                  <title>Ankori, Zvi. “The correspondance of Tobias ben Moses, the Karaite of Constantinople.” In Essays on Jewish Life and Thought: Presented in Honor of Salo Wittmayer Baron, edited by Joseph L. Blau. (New York: Columbia University Press, 1959), pp. 1-38.</title>
-                  <ptr target="https://jalit.org/bibl/ARAE8XMS"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblAGSNQZE">
-                  <title>Ankori, Zvi. Karaites in Byzantium: the formative years, 970-1100. (New York &amp; Jerusalem: Columbia University Press &amp; Weizmann Science Press of Israel, 1959).</title>
-                  <ptr target="https://jalit.org/bibl/AGSNQZE"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblLWYQH8ZA">
-                  <title>Astren, Fred. “Tovia ben Moshe.” In Karaite Judaism and historical understanding, (Columbia: University of South Carolina Press, 2004), pp. 125-130.</title>
-                  <ptr target="https://jalit.org/bibl/LWYQH8ZA"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblLG2SVRZX">
-                  <title>Attias, Jean-Christophe. “Review: Yūsuf al-Baṣīr, Al-Muḥtawī.” The Jewish Quarterly Review 84, no. 1 (1993): p. 81. doi: 10.2307/1454701. </title>
-                  <ptr target="https://jalit.org/bibl/LG2SVRZX"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblHRP5JM">
-                  <title>Frank, Daniel. “Karaite exegesis.” In Hebrew Bible/Old Testament: The history of its interpretation, 1, edited by Magne Sæbø. (Göttingen: Vandenhoeck &amp; Ruprecht, 2000), pp. 110-128.</title>
-                  <ptr target="https://jalit.org/bibl/HRP5JM"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblFFX37ELA">
-                  <title>Frank, Daniel. “Karaite exegetical and halakhic literature in Byzantium and Turkey.” In Karaite Judaism: a guide to its history and literary sources, edited by Meira Polliack. (Leiden &amp; Boston: Brill, 2003), pp. 529-558. https://doi.org/10.1163/9789004294264_024. </title>
-                  <ptr target="https://jalit.org/bibl/FFX37ELA"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblTJ7XVLI7">
-                  <title>Frankl, Pinkus Fritz. “Beiträge zur Literaturgeschichte der Karäer.” Bericht über die Lehranstalt für die Wissenschaft des Judenthums in Berlin 5 (1887): pp. 1-20.</title>
-                  <ptr target="https://jalit.org/bibl/TJ7XVLI7"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblNYEQTG73">
-                  <title>Gil, Moshe. “Tovia ben Moshe.” In A History of Palestine, 634–1099, (Cambridge: Cambridge University Press, 1992), p. index.</title>
-                  <ptr target="https://jalit.org/bibl/NYEQTG73"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblLTWIRQDI">
-                  <title>Gil, Moshe. “Tovia ben Moshe.” In Jews in Islamic countries in the Middle Ages, (Leiden: Brill, 2004), pp. 319-320 [194].</title>
-                  <ptr target="https://jalit.org/bibl/LTWIRQDI"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblEUM3R3FY">
-                  <title>Mann, Jacob. “Tovia ben Moshe.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), p. index.</title>
-                  <ptr target="https://jalit.org/bibl/EUM3R3FY"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblNJ72KYS">
-                  <title>Markon, Isaac. “Tobia ben Moses.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), p. 959.</title>
-                  <ptr target="https://jalit.org/bibl/NJ72KYS"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblDGQGMWU">
-                  <title>Nemoy, Leon. “Tovia ben Moshe.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, (New Haven &amp; London: Yale University Press, 1952), pp. 124; 249; 380.</title>
-                  <ptr target="https://jalit.org/bibl/DGQGMWU"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblKRA3GIW">
-                  <title>Nemoy, Leon. “Tobiah ben Moses.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 258.</title>
-                  <ptr target="https://jalit.org/bibl/KRA3GIW"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblNPGDCR">
-                  <title>Scheiber, Alexander. “Ein aus arabischer Gefangenschaft befreiter christlicher Proselyt in Jerusalem.” Hebrew Union College Annual 39 (1968): pp. 163–175.</title>
-                  <ptr target="https://jalit.org/bibl/NPGDCR"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblEQHICTW">
-                  <title>Scheiber, Alexander. “New Texts from the Geniza Concerning the Proselytes.” Hebrew Union College Annual 50 (1979): pp. 277-287.</title>
-                  <ptr target="https://jalit.org/bibl/EQHICTW"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblF7QUXPX">
-                  <title>Seligsohn, Max. “Tobias ben Moses ha-Abel.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), pp. 166-167.</title>
-                  <ptr target="https://jalit.org/bibl/F7QUXPX"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblCACSEAJY">
-                  <title>Sklare, David E. “Toviyyah ben Mosheh (11th c).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 701.</title>
-                  <ptr target="https://jalit.org/bibl/CACSEAJY"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblLU3KNXPS">
-                  <title>Wieder, Naphtali. “Three terms for tradition.” Jewish Quarterly Review 49 (1958): pp. 108-121.</title>
-                  <ptr target="https://jalit.org/bibl/LU3KNXPS"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblFWBUJLK7">
-                  <title>Wieder, Naphtali. “Three terms for tradition.” In The Judean Scrolls and Karaism, (Jerusalem: Yad Ben-Zvi Press, 2005), pp. 403-418.</title>
-                  <ptr target="https://jalit.org/bibl/FWBUJLK7"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblDSA5BWM8">
-                  <title>Zawanowska, Marzena. “Tobiah ben Moses ha-Avel.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/tobiah-ben-moses-ha-avel-SIM_0021320. </title>
-                  <ptr target="https://jalit.org/bibl/DSA5BWM8"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblRRTMILRI">
-                  <title>Зелигсон, Макс. “Тобия бен Моисей Га-Абель.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 885–887.</title>
-                  <ptr target="https://jalit.org/bibl/RRTMILRI"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblSUN3QAEZ">
-                  <title>אנקורי, צבי. “אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביצנץ.” תרביץ כה, no. א (1955): pp. 44-65.</title>
-                  <ptr target="https://jalit.org/bibl/SUN3QAEZ"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblULP3FMHU">
-                  <title>אנקורי, צבי. “אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביזנטיון.” תרביץ כה, no. ב (1956): pp. 183-201.</title>
-                  <ptr target="https://jalit.org/bibl/ULP3FMHU"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblR76I2IRK">
-                  <title>אנקורי, צבי. “טוביה בן משה המעתיק.” אנציקלופדיה העברית, (ירושלים), pp. 351-350.</title>
-                  <ptr target="https://jalit.org/bibl/R76I2IRK"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbibl3A275ST">
-                  <title>ממן, אהרן. “העברית של טוביה בן משה הקראי: הפעל, תצורה, שימוש ומילון עפ"י 10 פרקים מן ״אלכתאב אלמחתוי״.” (Ph.D, 1979). </title>
-                  <ptr target="https://jalit.org/bibl/3A275ST"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblJ5QALNDU">
-                  <title>פוזננסקי, שמואל אברהם. “טוביהו בן משה המעתיק.” אוצר ישראל, edited by יהודה דוד אייזענשטיין (ניו-יורק: אייזענשטיין, 1911), pp. 14-12.</title>
-                  <ptr target="https://jalit.org/bibl/J5QALNDU"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblK56GF5TE">
-                  <title>פלק, זאב. “מן הגניזה של קאהיר א איגרת של טוביה בן משה הקראי.” </title>
-                  <ptr target="https://jalit.org/bibl/K56GF5TE"/>
-               </bibl>
-               <bibl type="bibliography" xml:id="jalit-orgbiblRTHG2PQK">
-                  <title>שייבר, אלכסנדר. “לפעילותו של טוביה בן משה הקראי כמעתיק.” </title>
-                  <ptr target="https://jalit.org/bibl/RTHG2PQK"/>
-               </bibl>
-               <idno type="URI" subtype="isni">https://isni.org/isni/0000000066935221</idno>
-               <idno type="URI" subtype="viaf">http://viaf.org/viaf/79546326http://viaf.org/viaf/79546326</idno>
-               <idno type="URI" subtype="wiki"/>
-               <idno type="URI" subtype="gnd"/>
-               <idno type="URI" subtype="merhav"/>
-               <idno type="URI" subtype="rambi"/>
-               <idno type="URI" subtype="imhm"/>
-               <idno type="URI" subtype="ktiv"/>
-            </person>
-         </listPerson>
-      </body>
-   </text>
-   <standOff>
-      <list>
-         <item>
-            <note/>
-            <persName/>
-            <quote xml:lang=""/>
-            <bibl>
-               <title/>
-               <citedRange unit="p"/>
-               <ptr target=""/>
-            </bibl>
-         </item>
-      </list>
-   </standOff>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" xml:lang="en">Ṭoviya ben Moše</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
+                <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
+                <funder ref="https://erc.europa.eu/">
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
+                <principal ref="#rvollandt">Ronny Vollandt</principal>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt><editor role="creator" ref=""/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+                </authority>
+                <idno type="URI">https://jalit.org/person/12</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                    </licence>
+                </availability>
+                <date>2021-10-23</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><p>Born digital.</p></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2024-12-05T10:49:31.785Z">Corrected LOD.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
+            <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="person-12">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                        <name>Ṭoviya ben Moše</name>
+                    </persName>
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                        <name/>
+                    </persName>
+                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                        <name/>
+                    </persName>
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                        <name/>
+                    </persName>
+                    <persName type="alternate" xml:lang="" xml:id="name-5">
+                        <name source="#isni">Tobia ben Moses (ha-Abel)</name>
+                    </persName>
+                    <persName type="alternate" xml:lang="" xml:id="name-6">
+                        <name source="#isni">Tobias ben Moses (ha-Avel)</name>
+                    </persName>
+                    <persName type="alternate" xml:lang="" xml:id="name-7">
+                        <name source="#isni">Ṭoviyah ben Mosheh (ha-Avel)</name>
+                    </persName>
+                    <persName type="alternate" xml:lang="" xml:id="name-8">
+                        <name source="#isni">בן משה, טוביה</name>
+                    </persName>
+                    <persName type="alternate" xml:lang="" xml:id="name-9">
+                        <name source="#isni">טוביה בן משה</name>
+                    </persName>
+                    <persName type="alternate" xml:lang="" xml:id="name-10">
+                        <name source="#isni">טוביה בן משה (האבל)</name>
+                    </persName>
+                    <persName type="canon" xml:lang="ar" xml:id="name-11">
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-12">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-13">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="he" xml:id="name-14">
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-15">
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
+                    </persName>
+                    <birth>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </birth>
+                    <death>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </death>
+                    <floruit>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
+                    </floruit>
+                    <sex cert=""/>
+                    <faith cert=""/>
+                    <occupation type="" cert=""/>
+                    <residence>
+                        <placeName ref="" cert=""/>
+                    </residence>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblMVC2DJY8">
+                        <title>“Tovia ben Moshe ha-Avel.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 280.</title>
+                        <ptr target="https://jalit.org/bibl/MVC2DJY8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblST7XKSRA">
+                        <title>Ankori, Zvi. “Some aspects of Karaite–Rabbanite relations in Byzantium on the eve of the First Crusade.” Proceedings of the American Academy of Jewish Research 24-25 (1955): pp. 1-38; 25; 157-182.</title>
+                        <ptr target="https://jalit.org/bibl/ST7XKSRA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKFE5HMFP">
+                        <title>Ankori, Zvi. “Tobias ben Moses ha-Avel (ha-Ma’tik).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 1182–1183.</title>
+                        <ptr target="https://jalit.org/bibl/KFE5HMFP"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblIFIVWVGI">
+                        <title>Ankori, Zvi. “Tobias ben Moses ha-Avel (ha-Ma’tik).” Encyclopaedia Judaica, (Detroit: Gale, 2007), pp. 11-12.</title>
+                        <ptr target="https://jalit.org/bibl/IFIVWVGI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblARAE8XMS">
+                        <title>Ankori, Zvi. “The correspondance of Tobias ben Moses, the Karaite of Constantinople.” In Essays on Jewish Life and Thought: Presented in Honor of Salo Wittmayer Baron, edited by Joseph L. Blau. (New York: Columbia University Press, 1959), pp. 1-38.</title>
+                        <ptr target="https://jalit.org/bibl/ARAE8XMS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblAGSNQZE">
+                        <title>Ankori, Zvi. Karaites in Byzantium: the formative years, 970-1100. (New York &amp; Jerusalem: Columbia University Press &amp; Weizmann Science Press of Israel, 1959).</title>
+                        <ptr target="https://jalit.org/bibl/AGSNQZE"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLWYQH8ZA">
+                        <title>Astren, Fred. “Tovia ben Moshe.” In Karaite Judaism and historical understanding, (Columbia: University of South Carolina Press, 2004), pp. 125-130.</title>
+                        <ptr target="https://jalit.org/bibl/LWYQH8ZA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLG2SVRZX">
+                        <title>Attias, Jean-Christophe. “Review: Yūsuf al-Baṣīr, Al-Muḥtawī.” The Jewish Quarterly Review 84, no. 1 (1993): p. 81. doi: 10.2307/1454701.</title>
+                        <ptr target="https://jalit.org/bibl/LG2SVRZX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblHRP5JM">
+                        <title>Frank, Daniel. “Karaite exegesis.” In Hebrew Bible/Old Testament: The history of its interpretation, 1, edited by Magne Sæbø. (Göttingen: Vandenhoeck &amp; Ruprecht, 2000), pp. 110-128.</title>
+                        <ptr target="https://jalit.org/bibl/HRP5JM"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFFX37ELA">
+                        <title>Frank, Daniel. “Karaite exegetical and halakhic literature in Byzantium and Turkey.” In Karaite Judaism: a guide to its history and literary sources, edited by Meira Polliack. (Leiden &amp; Boston: Brill, 2003), pp. 529-558. https://doi.org/10.1163/9789004294264_024.</title>
+                        <ptr target="https://jalit.org/bibl/FFX37ELA"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblTJ7XVLI7">
+                        <title>Frankl, Pinkus Fritz. “Beiträge zur Literaturgeschichte der Karäer.” Bericht über die Lehranstalt für die Wissenschaft des Judenthums in Berlin 5 (1887): pp. 1-20.</title>
+                        <ptr target="https://jalit.org/bibl/TJ7XVLI7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNYEQTG73">
+                        <title>Gil, Moshe. “Tovia ben Moshe.” In A History of Palestine, 634–1099, (Cambridge: Cambridge University Press, 1992), p. index.</title>
+                        <ptr target="https://jalit.org/bibl/NYEQTG73"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLTWIRQDI">
+                        <title>Gil, Moshe. “Tovia ben Moshe.” In Jews in Islamic countries in the Middle Ages, (Leiden: Brill, 2004), pp. 319-320 [194].</title>
+                        <ptr target="https://jalit.org/bibl/LTWIRQDI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEUM3R3FY">
+                        <title>Mann, Jacob. “Tovia ben Moshe.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), p. index.</title>
+                        <ptr target="https://jalit.org/bibl/EUM3R3FY"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNJ72KYS">
+                        <title>Markon, Isaac. “Tobia ben Moses.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), p. 959.</title>
+                        <ptr target="https://jalit.org/bibl/NJ72KYS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDGQGMWU">
+                        <title>Nemoy, Leon. “Tovia ben Moshe.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, (New Haven &amp; London: Yale University Press, 1952), pp. 124; 249; 380.</title>
+                        <ptr target="https://jalit.org/bibl/DGQGMWU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblKRA3GIW">
+                        <title>Nemoy, Leon. “Tobiah ben Moses.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 258.</title>
+                        <ptr target="https://jalit.org/bibl/KRA3GIW"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblNPGDCR">
+                        <title>Scheiber, Alexander. “Ein aus arabischer Gefangenschaft befreiter christlicher Proselyt in Jerusalem.” Hebrew Union College Annual 39 (1968): pp. 163–175.</title>
+                        <ptr target="https://jalit.org/bibl/NPGDCR"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblEQHICTW">
+                        <title>Scheiber, Alexander. “New Texts from the Geniza Concerning the Proselytes.” Hebrew Union College Annual 50 (1979): pp. 277-287.</title>
+                        <ptr target="https://jalit.org/bibl/EQHICTW"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblF7QUXPX">
+                        <title>Seligsohn, Max. “Tobias ben Moses ha-Abel.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), pp. 166-167.</title>
+                        <ptr target="https://jalit.org/bibl/F7QUXPX"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblCACSEAJY">
+                        <title>Sklare, David E. “Toviyyah ben Mosheh (11th c).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 701.</title>
+                        <ptr target="https://jalit.org/bibl/CACSEAJY"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblLU3KNXPS">
+                        <title>Wieder, Naphtali. “Three terms for tradition.” Jewish Quarterly Review 49 (1958): pp. 108-121.</title>
+                        <ptr target="https://jalit.org/bibl/LU3KNXPS"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblFWBUJLK7">
+                        <title>Wieder, Naphtali. “Three terms for tradition.” In The Judean Scrolls and Karaism, (Jerusalem: Yad Ben-Zvi Press, 2005), pp. 403-418.</title>
+                        <ptr target="https://jalit.org/bibl/FWBUJLK7"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblDSA5BWM8">
+                        <title>Zawanowska, Marzena. “Tobiah ben Moses ha-Avel.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/tobiah-ben-moses-ha-avel-SIM_0021320.</title>
+                        <ptr target="https://jalit.org/bibl/DSA5BWM8"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRRTMILRI">
+                        <title>Зелигсон, Макс. “Тобия бен Моисей Га-Абель.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 885–887.</title>
+                        <ptr target="https://jalit.org/bibl/RRTMILRI"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblSUN3QAEZ">
+                        <title>אנקורי, צבי. “אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביצנץ.” תרביץ כה, no. א (1955): pp. 44-65.</title>
+                        <ptr target="https://jalit.org/bibl/SUN3QAEZ"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblULP3FMHU">
+                        <title>אנקורי, צבי. “אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביזנטיון.” תרביץ כה, no. ב (1956): pp. 183-201.</title>
+                        <ptr target="https://jalit.org/bibl/ULP3FMHU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblR76I2IRK">
+                        <title>אנקורי, צבי. “טוביה בן משה המעתיק.” אנציקלופדיה העברית, (ירושלים), pp. 351-350.</title>
+                        <ptr target="https://jalit.org/bibl/R76I2IRK"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbibl3A275ST">
+                        <title>ממן, אהרן. “העברית של טוביה בן משה הקראי: הפעל, תצורה, שימוש ומילון עפ"י 10 פרקים מן ״אלכתאב אלמחתוי״.” (Ph.D, 1979).</title>
+                        <ptr target="https://jalit.org/bibl/3A275ST"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblJ5QALNDU">
+                        <title>פוזננסקי, שמואל אברהם. “טוביהו בן משה המעתיק.” אוצר ישראל, edited by יהודה דוד אייזענשטיין (ניו-יורק: אייזענשטיין, 1911), pp. 14-12.</title>
+                        <ptr target="https://jalit.org/bibl/J5QALNDU"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblK56GF5TE">
+                        <title>פלק, זאב. “מן הגניזה של קאהיר א איגרת של טוביה בן משה הקראי.”</title>
+                        <ptr target="https://jalit.org/bibl/K56GF5TE"/>
+                    </bibl>
+                    <bibl type="bibliography" xml:id="jalit-orgbiblRTHG2PQK">
+                        <title>שייבר, אלכסנדר. “לפעילותו של טוביה בן משה הקראי כמעתיק.”</title>
+                        <ptr target="https://jalit.org/bibl/RTHG2PQK"/>
+                    </bibl>
+                    <idno type="URI" subtype="isni">https://isni.org/isni/0000000066935221</idno>
+                    <idno type="URI" subtype="viaf">http://viaf.org/viaf/79546326</idno>
+                    <idno type="URI" subtype="wiki"/>
+                    <idno type="URI" subtype="gnd"/>
+                    <idno type="URI" subtype="merhav"/>
+                    <idno type="URI" subtype="rambi"/>
+                    <idno type="URI" subtype="imhm"/>
+                    <idno type="URI" subtype="ktiv"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+    <standOff>
+        <list>
+            <item>
+                <note/>
+                <persName/>
+                <quote xml:lang=""/>
+                <bibl>
+                    <title/>
+                    <citedRange unit="p"/>
+                    <ptr target=""/>
+                </bibl>
+            </item>
+        </list>
+    </standOff>
 </TEI>
