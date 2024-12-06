@@ -1,69 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Abū Ḥātim al-Ḏahabi</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                        München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                        Osten</orgName>) </sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-                    >Ronny Vollandt
-                    </editor>
-                <editor xml:id="gschwarb" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-                    >Gregor Schwarb
-                    </editor>
-                
-                <editor xml:id="mmoliere" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-                    >Maximilian de Molière
-                    </editor>
-                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">
-                    Nadine Urbiczek
-                    
-                </editor>
-                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">
-                    Peter Tarras
-                    
-                </editor>
-                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">
-                    Annabelle Fuchs
-                    
-                </editor>
-                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">
-                    Lea Gzella
-                    
-                </editor>
-                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">
-                    Polina Lakteikina
-                    
-                </editor>
-                <editor xml:id="rboehm" role="contributor">
-                    Maurizio Boehm
-                    
-                </editor>
-                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
-                    Lea Poralla
-                    
-                </editor>
-                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">
-                    Lukas Froschmeier
-                    
-                </editor>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
+                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
+                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
+                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">Lea Gzella</editor>
+                <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">Polina Lakteikina</editor>
+                <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">Lea Poralla</editor>
+                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
+                </respStmt><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -72,97 +34,96 @@
                 <idno type="URI">https://jalit.org/person/28</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Born digital.</p>
+                <p><p>Born digital.</p></p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
+            <change who="#mmoliere" when="2024-12-06T18:17:50.060Z">Added place ID.</change><change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listPerson>
-                <person>
-                    <persName xml:id="" xml:lang="he-Latn" type="majlis-headword">
-                        <name source=""/>
+                <person xml:id="person-28">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                        <name/>
                     </persName>
-                    <persName xml:id="" xml:lang="ar-Latn" type="majlis-headword">
-                        <name source="">Abū Ḥātim al-Ḏahabi</name>
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                        <name>Abū Ḥātim al-Ḏahabi</name>
                     </persName>
-                    <persName xml:id="" type="attested" xml:lang="he">
-                        <name source=""/>
+                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                        <name/>
                     </persName>
-                    <persName xml:id="" type="attested" xml:lang="ar">
-                        <name source=""/>
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                        <name/>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
-                        <name source=""/>
+                    <persName type="alternate" xml:lang="he" xml:id="name-5">
+                        <name/>
                     </persName>
-                    <persName xml:id="" type="alternate" xml:lang="he">
-                        <name source=""/>
+                    <persName type="alternate" xml:lang="he" xml:id="name-6">
+                        <name/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar">
-                        <addName source="" xml:id="sh-ar" type="shuhra"/>
-                        <addName source="" xml:id="is-ar" type="ism"/>
-                        <addName source="" xml:id="na-ar" type="nasab"/>
-                        <addName source="" xml:id="ni-ar" type="nisbah"/>
-                        <addName source="" xml:id="ku-ar" type="kunya"/>
-                        <addName source="" xml:id="la-ar" type="laqab"/>
+                    <persName type="canon" xml:lang="ar" xml:id="name-7">
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar-Hebr">
-                        <addName source="" ref="#sh-ar" type="shuhra"/>
-                        <addName source="" ref="#is-ar" type="ism"/>
-                        <addName source="" ref="#na-ar" type="nasab"/>
-                        <addName source="" ref="#ni-ar" type="nisbah"/>
-                        <addName source="" ref="#ku-ar" type="kunya"/>
-                        <addName source="" ref="#la-ar" type="laqab"/>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="ar-Latn"
-                        >
-                        <addName source="" ref="#sh-ar" type="shuhra"/>
-                        <addName source="" ref="#is-ar" type="ism"/>
-                        <addName source="" ref="#na-ar" type="nasab"/>
-                        <addName source="" ref="#ni-ar" type="nisbah"/>
-                        <addName source="" ref="#ku-ar" type="kunya"/>
-                        <addName source="" ref="#la-ar" type="laqab"/>
+                    <persName type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="" xml:lang="he">
-                        <forename source="" xml:id="fn-he"/>
-                        <addName source="" xml:id="pa-he" type="patronym"/>
-                        <addName source="" xml:id="ep-he" type="epithet"/>
-                        <addName source="" xml:id="ac-he" type="acronym"/>
-                        <addName source="" xml:id="sh-he" type="shuhra"/>
+                    <persName xml:lang="he" xml:id="name-10">
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="" type="canon" xml:lang="he-Latn">
-                        <forename source="" ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName source="" ref="#pa-he" type="patronym"/>
-                        <addName source="" ref="#ep-he" type="epithet"/>
-                        <addName source="" ref="#ac-he" type="acronym"/>
-                        <addName source="" ref="#sh-he" type="shuhra"/>
+                    <persName type="canon" xml:lang="he-Latn" xml:id="name-11">
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="" source=""/>
-                        <placeName ref="" cert="" source=""/>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
                     </birth>
                     <death>
-                        <date cert="" source=""/>
-                        <placeName ref="" cert="" source=""/>
+                        <date cert=""/>
+                        <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="" source=""/>
-                        <placeName ref="" cert="" source="">al-Ramla</placeName>
+                        <date cert=""/>
+                        <placeName ref="https://jalit.org/place/85">Ramle</placeName>
                     </floruit>
-                    <sex cert="" source=""/>
-                    <faith cert="" source=""/>
-                    <occupation type="" cert="" source=""/>
+                    <sex cert=""/>
+                    <faith cert=""/>
+                    <occupation type="" cert=""/>
                     <residence>
-                        <placeName ref="" cert="" source=""/>
+                        <placeName ref="" cert=""/>
                     </residence>
                     <bibl xml:id="">
                         <title/>
