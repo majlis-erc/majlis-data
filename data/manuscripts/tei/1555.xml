@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><respStmt>
+      <resp>TEST Statement of resp</resp>
+      <name ref="" type="">TEST team 2</name>
+   </respStmt>
+                <title level="a" xml:lang="en">TEST RECORD</title>
+                
+                
+                
+                
+                <principal ref="#rvollandt">Ronny Vollandt</principal>
+                <editor xml:id="test" role="general">TEST TEAM MEMBER</editor>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+                </authority>
+                <idno type="URI">https://jalit.org/manuscript/1555</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p><p>Born digital.</p></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
+            <change who="#admin" when="2024-12-10T14:17:19.288Z">TESTING extra elements 638</change><change who="#" when=""/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <msDesc xml:id="ms-1555">
+                    <msIdentifier>
+                        <country/>
+                        <settlement/>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                        <altIdentifier type="SfarData">
+                            <idno/>
+                        </altIdentifier>
+                        <altIdentifier type="Ktiv">
+                            <idno/>
+                        </altIdentifier>
+                        <altIdentifier type="FGP">
+                            <idno/>
+                        </altIdentifier>
+                        <altIdentifier type="old">
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary xml:lang=""><p>Testing paragraph creation</p><p>This is a second paragraph</p></summary>
+                        <msItem class="" xml:id="item-11">
+                            <locus from="" to=""/>
+                            <title xml:lang="" ref="" cert=""/>
+                            <author ref="" cert=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote xml:lang=""/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote xml:lang=""/>
+                            </explicit>
+                            <note xml:lang=""/>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <ab type="codicological-definition">
+                            <objectType rend="" style="codex">Single manuscript</objectType>
+                            <listBibl>
+                                <bibl>
+                                    <idno type="manuscript-join"/>
+                                    <citedRange unit="folios"/>
+                                    <ptr target=""/>
+                                </bibl>
+                            </listBibl>
+                        </ab>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material/>
+                                    <note xml:lang=""/>
+                                </support>
+                                <extent>
+                                    <measure unit="folio"/>
+                                    <dimensions>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                    </dimensions>
+                                </extent>
+                                <foliation style="" rendition=""/>
+                                <collation>
+                                    <formula/>
+                                    <unit/>
+                                    <catchwords/>
+                                    <note xml:lang=""/>
+                                </collation>
+                                <condition>
+                                    <note xml:lang=""/>
+                                    <ab type="writing" rend=""/>
+                                </condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <summary/>
+                                <layout writtenLines="" columns="" xml:id="layout-1111">
+                                    <locus from="" to=""/>
+                                    <dimensions type="written">
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                    </dimensions>
+                                    <metamark function="justification"/>
+                                    <ab type="ruling"/>
+                                    <ab type="pricking"/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary xml:lang=""/>
+                            <handNote medium="" xml:id="hand-111">
+                                <locus from="" to=""/>
+                                <persName ref="" role=""/>
+                                <placeName ref=""/>
+                                <metamark function=""/>
+                                <origDate/>
+                                <note xml:lang=""/>
+                            </handNote>
+                        </handDesc>
+                        <scriptDesc>
+                            <scriptNote xml:lang="" script="" style="" rend="">
+                                <note xml:lang=""/>
+                            </scriptNote>
+                        </scriptDesc>
+                        <decoDesc>
+                            <summary xml:lang=""/>
+                            <decoNote>
+                                <desc/>
+                                <note xml:lang=""/>
+                            </decoNote>
+                        </decoDesc>
+                        <additions>
+                            <list>
+                                <item xml:id="add-1111">
+                                    <objectType/>
+                                    <locus from="" to=""/>
+                                    <quote xml:lang=""/>
+                                    <ab type="translation"/>
+                                    <note xml:lang=""/>
+                                    <listRelation>
+                                        <relation name="" active="" passive="" mutual=""/>
+                                    </listRelation>
+                                </item>
+                            </list>
+                        </additions>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote>
+                                    <objectType/>
+                                    <origPlace ref=""/>
+                                    <origDate/>
+                                    <material/>
+                                    <note xml:lang=""/>
+                                    <dimensions>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                        <depth unit="mm"/>
+                                    </dimensions>
+                                </decoNote>
+                                <condition key=""/>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <list>
+                                <item>
+                                    <note xml:lang=""/>
+                                    <persName/>
+                                    <quote xml:lang=""/>
+                                    <bibl>
+                                        <title/>
+                                        <citedRange unit="p"/>
+                                        <ptr target=""/>
+                                    </bibl>
+                                </item>
+                            </list>
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <summary xml:lang=""/>
+                        <provenance>
+                            <date/>
+                            <placeName ref=""/>
+                            <locus from="" to=""/>
+                            <persName ref="" role=""/>
+                            <quote xml:lang=""/>
+                            <stamp/>
+                            <note xml:lang=""/>
+                        </provenance>
+                        <acquisition>
+                            <date/>
+                            <placeName ref=""/>
+                            <locus from="" to=""/>
+                            <persName ref="" role=""/>
+                            <quote xml:lang=""/>
+                            <stamp/>
+                            <note xml:lang=""/>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <surrogates>
+                            <listBibl>
+                                <bibl>
+                                    <title/>
+                                    <publisher/>
+                                    <ptr target=""/>
+                                </bibl>
+                            </listBibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl xml:id="">
+                                <title/>
+                                <citedRange unit="p"/>
+                                <ptr target=""/>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
