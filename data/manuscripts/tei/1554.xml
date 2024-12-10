@@ -26,7 +26,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -35,16 +36,17 @@
                 <idno type="URI">https://jalit.org/manuscript/1554</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p/>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p/>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-11-12T11:29:31.246Z">Test</change><change who="#" when=""/>
+            <change who="#mmoliere" when="2024-12-10T08:23:43.131Z">p-test 1</change><change who="#mmoliere" when="2024-11-12T11:29:31.246Z">Test</change>
+            <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -73,11 +75,11 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11"><title ref="https://jalit.org/work/18">
-                    <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Yaʿqūb b. Yiṣḥaq al-Qirqisānī)</title>
-                </title>
+                        <msItem class="" xml:id="item-11">
+                            <title ref="https://jalit.org/work/18">
+                                <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Yaʿqūb b. Yiṣḥaq al-Qirqisānī)</title>
+                            </title>
                             <locus from="" to=""/>
-                            
                             <author ref="" cert=""/>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
@@ -96,11 +98,10 @@
                             <objectType rend="" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript457">
-                    <idno>St. Petersburg, National Library of Russia,                    Arab.-Yevr. 2</idno>
-                    <title>St. Petersburg, National Library of Russia,
-                    Arab.-Yevr. 2</title>
-                    <ptr target="https://jalit.org/manuscript/457"/>
-                </bibl>
+                                    <idno>St. Petersburg, National Library of Russia, Arab.-Yevr. 2</idno>
+                                    <title>St. Petersburg, National Library of Russia, Arab.-Yevr. 2</title>
+                                    <ptr target="https://jalit.org/manuscript/457"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -129,8 +130,7 @@
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary><p>
-<lb/>                                    </p></summary>
+                                <summary><p/></summary>
                                 <layout writtenLines="" columns="" xml:id="layout-1111">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
@@ -148,11 +148,11 @@
                             <handNote medium="" xml:id="hand-111">
                                 <locus from="" to=""/>
                                 <persName ref="https://jalit.org/person/25">
-                    <persName ref="https://jalit.org/person/25">David al-Fāsī</persName>
-                </persName>
+                                    <persName ref="https://jalit.org/person/25">David al-Fāsī</persName>
+                                </persName>
                                 <placeName ref="https://jalit.org/place/12">
-                    <placeName ref="https://jalit.org/place/12">Antioch</placeName>
-                </placeName>
+                                    <placeName ref="https://jalit.org/place/12">Antioch</placeName>
+                                </placeName>
                                 <metamark function=""/>
                                 <origDate/>
                                 <note xml:lang=""/>
@@ -175,14 +175,14 @@
                                 <item xml:id="add-1111">
                                     <objectType/>
                                     <persName ref="https://jalit.org/person/25">
-                    <persName ref="https://jalit.org/person/25">David al-Fāsī</persName>
-                </persName>
+                                        <persName ref="https://jalit.org/person/25">David al-Fāsī</persName>
+                                    </persName>
                                     <placeName ref="https://jalit.org/place/65">
-                    <placeName ref="https://jalit.org/place/65">London</placeName>
-                </placeName>
+                                        <placeName ref="https://jalit.org/place/65">London</placeName>
+                                    </placeName>
                                     <locus from="" to=""/>
-                                    <quote xml:lang=""/>
-                                    <ab type="translation"/>
+                                    <quote xml:lang="en"><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></quote>
+                                    <ab type="translation">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</ab>
                                     <note xml:lang=""/>
                                     <listRelation>
                                         <relation name="" active="" passive="" mutual=""/>
@@ -212,14 +212,14 @@
                                 <item>
                                     <note xml:lang=""/>
                                     <persName ref="https://jalit.org/person/25">
-                    <persName ref="https://jalit.org/person/25">David al-Fāsī</persName>
-                </persName>
+                                        <persName ref="https://jalit.org/person/25">David al-Fāsī</persName>
+                                    </persName>
                                     <quote xml:lang=""/>
                                     <bibl xml:id="jalit-orgbibl2V48HLBE">
-                        <idno>Early Karaite Grammatical Thought As Reflected In A Commentary On Hosea</idno>
-                        <title>Friedrich Niessen, Early Karaite Grammatical Thought As Reflected In A Commentary On Hosea, in From a Sacred Source, ed. Siam Bhayro and Ben Outhwaite, vol. 42, Études Sur Le Judaïsme Médiéval (Leiden: Brill, 2011), 219–35.</title>
-                        <ptr target="https://jalit.org/bibl/2V48HLBE"/>
-                    </bibl>
+                                        <idno>Early Karaite Grammatical Thought As Reflected In A Commentary On Hosea</idno>
+                                        <title>Friedrich Niessen, Early Karaite Grammatical Thought As Reflected In A Commentary On Hosea, in From a Sacred Source, ed. Siam Bhayro and Ben Outhwaite, vol. 42, Études Sur Le Judaïsme Médiéval (Leiden: Brill, 2011), 219–35.</title>
+                                        <ptr target="https://jalit.org/bibl/2V48HLBE"/>
+                                    </bibl>
                                 </item>
                             </list>
                         </accMat>
@@ -229,12 +229,12 @@
                         <provenance>
                             <date/>
                             <placeName ref="https://jalit.org/place/56">
-                    <placeName ref="https://jalit.org/place/56">Jerusalem</placeName>
-                </placeName>
+                                <placeName ref="https://jalit.org/place/56">Jerusalem</placeName>
+                            </placeName>
                             <locus from="" to=""/>
                             <persName ref="https://jalit.org/person/10">
-                    <persName ref="https://jalit.org/person/10">Levi ben Yefet ben ʿElī</persName>
-                </persName>
+                                <persName ref="https://jalit.org/person/10">Levi ben Yefet ben ʿElī</persName>
+                            </persName>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note xml:lang=""/>
