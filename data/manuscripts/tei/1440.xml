@@ -44,7 +44,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#S.Mattutat" when="2024-12-11T15:50:43.353Z">Heritage Data (Note, Author, Transcription, Title of Publication).</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
+            <change who="#S.Mattutat" when="2024-12-11T15:50:43.353Z">Heritage Data (Referenced section).</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
         </revisionDesc>
     </teiHeader>
@@ -200,7 +200,7 @@
                                     <quote xml:lang="en"><p>A Commentary on the first weekly section of Leviticus probably by Yefeth; imperfect at beginning and end. XIVth cent..- A fragment of a Commentary on Leviticus, ch. XI, probably part of the longer recension of Abūʾl- Faraj Furḳān‘s commentary on the Pentateuch. XIIIth cent</p><p>Arabic, but written in Hebrew char..</p><p>Paper, ff. 80. Sm. 4o</p></quote>
                                     <bibl>
                                         <title>Hoerning, Karl Julius Reinhart. “List of Karaite Manuscripts in the British Museum”</title>
-                                        <citedRange unit="p"/>
+                                        <citedRange/>
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
