@@ -25,7 +25,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -34,17 +35,22 @@
                 <idno type="URI">https://jalit.org/person/26</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p>
+                            <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p>
+                    <p>Born digital.</p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-12-06T18:16:10.969Z">Added place ID.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#S.Mattutat" when="2024-12-12T13:46:00.911Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-06T18:16:10.969Z">Added place ID.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -72,26 +78,26 @@
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-7">
                         <addName xml:id="sh-ar" type="shuhra"/>
-                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="is-ar" type="ism">شلوم</addName>
                         <addName xml:id="na-ar" type="nasab"/>
                         <addName xml:id="ni-ar" type="nisbah"/>
-                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="ku-ar" type="kunya">أبو الطيب</addName>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#is-ar" type="ism">שלום</addName>
                         <addName ref="#na-ar" type="nasab"/>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#ku-ar" type="kunya">אבו אלטייב</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Latn" xml:id="name-9">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#is-ar" type="ism">Šalom</addName>
                         <addName ref="#na-ar" type="nasab"/>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#ku-ar" type="kunya">Abū al-Ṭayyib</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:lang="he" xml:id="name-10">
