@@ -20,6 +20,7 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
@@ -29,19 +30,24 @@
                 <idno type="URI">https://jalit.org/person/16</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-12-06T18:02:17.596Z">Added place ID.</change><change who="#mmoliere" when="2024-09-02T11:25:20.027Z">Revised heritage data.</change>
+            <change who="#S.Mattutat" when="2024-12-12T11:16:20.227Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-06T18:02:17.596Z">Added place ID.</change>
+            <change who="#mmoliere" when="2024-09-02T11:25:20.027Z">Revised heritage data.</change>
             <change who="#mmoliere" when="2024-09-02T10:29:34.973Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
@@ -94,16 +100,16 @@
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="he" xml:id="name-10">
-                        <forename xml:id="fn-he"/>
-                        <addName xml:id="pa-he" type="patronym"/>
-                        <addName xml:id="ep-he" type="epithet"/>
+                        <forename xml:id="fn-he">עלי</forename>
+                        <addName xml:id="pa-he" type="patronym">בן אברהם</addName>
+                        <addName xml:id="ep-he" type="epithet">אלטוויל</addName>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
                     <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
-                        <forename ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName ref="#pa-he" type="patronym"/>
-                        <addName ref="#ep-he" type="epithet"/>
+                        <forename ref="#fn-he" xml:lang="he-Latn">ʿAlī</forename>
+                        <addName ref="#pa-he" type="patronym">ben Avraham</addName>
+                        <addName ref="#ep-he" type="epithet">al-Ṭawīl</addName>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
@@ -154,10 +160,10 @@
             <item>
                 <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw. </p><p> Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the 
 <lb/> realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em> Encyclopedia of Qaraites </em> is today found in the Samuel Poznański Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names. </p><p> Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor) </p><p> Literature: 
-<lb/> Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em> Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging </em> , edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134]. </p><p> </p><p/></note>
+<lb/> Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em> Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging </em> , edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134]. </p><p>  </p><p/></note>
                 <persName/>
                 <quote xml:lang="he"><p>עלי בן אברהם אלטויל </p><p> חכם קראי אשר כמעט שלא נודע בקהל. המחבר היחידי אשר מזכירו הוא אבן אלהיתי בכרוניקה של חכמי הקראים שלו אשר הוציא לאור מרגליות (JQR IX:434). והוא יאמר על עלי זה כי חי ברמלה בארץ ישראל אחרי ישועה בן יהודה (ע"ע אחרי כי הוא מזכירו בספרו בתור מת.) והנה אחרי אשר ישועה צמח באמצע המאה הי"א ואחרי כי עלי היה כנראה מן הקראים הבלתי מאוחרים בזמן הנה חי במחצית השנייה למאה הי"א או בהראשונה למאה הי"ב. עוד יאמר עליו אבן אלהיתי כי הוא תרגם (או פירש) את כל עשרים וארבעה ספרי הקדש ואולי בשפת ערבית. השם טויל (שהוראתו "ארוך") נמצא גם אצל הערבים וגם אצל הרבנים. </p><p> ביבליוגרפיה: 
-<lb/> Steinschneider, JQR XI:117, XII:130; Broyde, JE I:392; Poznanski, Zur arab.-jüd. Lit., 21; . ., I:866. </p><p> </p><p/></quote>
+<lb/> Steinschneider, JQR XI:117, XII:130; Broyde, JE I:392; Poznanski, Zur arab.-jüd. Lit., 21; . ., I:866. </p><p>  </p><p/></quote>
                 <bibl xml:id="jalit-orgbiblDJV65BQJ">
                     <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.), אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\_ARCHIVE\_AL990032439840205171/NLI.</title>
                     <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
