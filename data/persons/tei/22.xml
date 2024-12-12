@@ -18,7 +18,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -27,17 +28,22 @@
                 <idno type="URI">https://jalit.org/person/22</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p>
+                            <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p>
+                    <p>Born digital.</p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-09-02T13:32:52.305Z">Added heritage data.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#S.Mattutat" when="2024-12-12T12:01:33.082Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-09-02T13:32:52.305Z">Added heritage data.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -88,15 +94,15 @@
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="he" xml:id="name-10">
-                        <forename xml:id="fn-he"/>
-                        <addName xml:id="pa-he" type="patronym"/>
+                        <forename xml:id="fn-he">יעקב</forename>
+                        <addName xml:id="pa-he" type="patronym">בן שמעון</addName>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
                     <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
-                        <forename ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName ref="#pa-he" type="patronym"/>
+                        <forename ref="#fn-he" xml:lang="he-Latn">Yaʿqov</forename>
+                        <addName ref="#pa-he" type="patronym">ben Šimʿon</addName>
                         <addName ref="#ep-he" type="epithet"/>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
@@ -202,15 +208,15 @@
     <standOff>
         <list>
             <item>
-                <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  </p><p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the  
-<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found in the Samuel Poznański Archive at the National Library of Israel  (ARC 4﹡ 1180, Series 5).  Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p><p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  </p><p>Literature:  
-<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em>Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging</em>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
+                <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw. </p><p> Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the 
+<lb/> realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em> Encyclopedia of Qaraites </em> is today found in the Samuel Poznański Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names. </p><p> Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor) </p><p> Literature: 
+<lb/> Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em> Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging </em> , edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
                 <persName/>
-                <quote xml:lang="he"><p>יעקב בן שמעון</p><p>תרגם את ספר העריות לישועה בן יהודה מערבית לעברית, כמו שכתוב בתחילת הספר: "דע ישכילך אלהים כי שאל (ר"ל ביקש) יעקב בן שמעון להשיב (ר"ל להעתיק) את דברי הזקן היקר בעל תושיה משכיל כל בני גולה ישועה בן יהודה זקן עדת בני מקרא האלהים יאריך ימיו ויוסיף על שנותיו וירחמהו אל כי העתיקו מן לשון ערבית אל לשון עברית אל לשון הקדש והדבור הוא בעריות וכו'."  בתרגום ההוא נמצאים מלות ומליצות שלמות בערבית שלא נעתקו כמו שרגיל זה בתרגומים דומים לזה ואף הרבה מלות יווניות ומזה נראה כי חי יעקב (כמו טוביה) בארץ ביצנץ וגם המלות "האלהים יאריך ימיו" מוסבות על ישועה כי אז יצא מזה שחי יעקב בימיו ואולי היה גם תלמידו כמו טוביה.  ונמצאות בתרגום מלות מוזרות כמו "יזימה" (יזימת מחשבת האותיות), "שדול" וכדומה.  ובכלל ההעתקה היא קשה ולזה יאמר כבר יהודה פוקי ב"שער יהודה" שאין לסמוך על ספר העריות של ר' ישועה כי ההעתקה אינה נכונה. והנה באו"צ (כ"ד א') יזכר "ספר הישר חיבורו של הר"ר ישועה בבאור דיני העריות וכו'" ועוד שם (כ"ה א') "פירוש ארוך על דיני העריות מספר הישר של הר"ר ישועה נ"ע חבורו של הר"ר יעקב בכמ"ר שמעון ומביא לשם כל דברי החכמים הקדמונים הגדולים וגם דברי הר"ר ענן הנשיא הקדוש יר"א ומפרש אותם יפה ובתחילת הספר כתב דרושים רבים מחכמת האלהות." ואין כל ספק כי שני אלה ספר אחד הם וש"י לוצקי חילקו מחוסר ידיעה לשניים. (ועוד נזכר יעקב בן שמעון שם כ"א ב' כ"א בין חכמי ארץ בינצנץ בין אליהו בן אברהם ומשה הכהן). והנה מתעורר ספק אחד כי ספרו של ישועה יכונה פעם "ספר העריות" (כמו אצל הדסי באשכל הכפר של"ז ג', אהרן בן אליה בעץ חיים פרק ע', יהודה פוקי וכן בכ"י ליידן), ופעם "ספר הישר." ומדברי אליהו בשייצי (אדרת אליהו עריות סוף פ"ה "והנם כתובים בספרו הידוע בענין העריות הנקרא ספר הישר") נראה כי הכיל רק דיני עריות. אמנם מרדכי בן ניסן יאמר על ישועה (דד מרדכי י"א ב' ושם בטעות ישועה בן עלי) כי ישועה עשה ספר הישר על כל המצוות, אמנם הודעתו של זה אין לסמוך עליה. ולכן אין ממש בדברי פירסט כי יעקב העתיק ספר המצוות לישועה וכינה אותו בשם ספר הישר, ומלבד זה העתיק ספר הישר בעריות והרחיב אותו הענין מספר המצוות לישועה בצרוף תשובה שהשיב ישועה על שאלות יעקב. כיוצא בזה, שאר קביעותיו של פירסט כי העתיק יעקב גם את בראשית רבה לישועה וכי מוצאו מסוריה או מבבל וכדומה, הם דברים הפורחים באויר. וכן דברי פינסקר האומר כי יעקב בן שמעון שאל שאלות מישועה והוא השיב לו עליהן (והוא גורס שאל יעקב בן שמעון והשיב עליו הזקן וכו') תשובות שתרגמם יעקב מערבית לעברית וכדומה הם בלי כל יסוד.</p><p>ביבליוגרפיה:</p><p>פינסקר, ל"ק, ר"ס, 171-172; גוטלובר, בקרת, 181; מרקון, מבוא למהדרותו של ספר העריות IXX-IIXX.</p><p>J.C. Wolf, Notitia Karaeorum et Mardochoi, III:530; Steinschneider, Cat. Leyden, 190ff.; idem, HU 454, 942; Fürst II:166, 196, 206; Graetz VI2:87; Schreiner, Studien uber Jeschua ben Jehuda, 70.</p></quote>
+                <quote xml:lang="he"><p>יעקב בן שמעון </p><p> תרגם את ספר העריות לישועה בן יהודה מערבית לעברית, כמו שכתוב בתחילת הספר: "דע ישכילך אלהים כי שאל (ר"ל ביקש) יעקב בן שמעון להשיב (ר"ל להעתיק) את דברי הזקן היקר בעל תושיה משכיל כל בני גולה ישועה בן יהודה זקן עדת בני מקרא האלהים יאריך ימיו ויוסיף על שנותיו וירחמהו אל כי העתיקו מן לשון ערבית אל לשון עברית אל לשון הקדש והדבור הוא בעריות וכו'." בתרגום ההוא נמצאים מלות ומליצות שלמות בערבית שלא נעתקו כמו שרגיל זה בתרגומים דומים לזה ואף הרבה מלות יווניות ומזה נראה כי חי יעקב (כמו טוביה) בארץ ביצנץ וגם המלות "האלהים יאריך ימיו" מוסבות על ישועה כי אז יצא מזה שחי יעקב בימיו ואולי היה גם תלמידו כמו טוביה. ונמצאות בתרגום מלות מוזרות כמו "יזימה" (יזימת מחשבת האותיות), "שדול" וכדומה. ובכלל ההעתקה היא קשה ולזה יאמר כבר יהודה פוקי ב"שער יהודה" שאין לסמוך על ספר העריות של ר' ישועה כי ההעתקה אינה נכונה. והנה באו"צ (כ"ד א') יזכר "ספר הישר חיבורו של הר"ר ישועה בבאור דיני העריות וכו'" ועוד שם (כ"ה א') "פירוש ארוך על דיני העריות מספר הישר של הר"ר ישועה נ"ע חבורו של הר"ר יעקב בכמ"ר שמעון ומביא לשם כל דברי החכמים הקדמונים הגדולים וגם דברי הר"ר ענן הנשיא הקדוש יר"א ומפרש אותם יפה ובתחילת הספר כתב דרושים רבים מחכמת האלהות." ואין כל ספק כי שני אלה ספר אחד הם וש"י לוצקי חילקו מחוסר ידיעה לשניים. (ועוד נזכר יעקב בן שמעון שם כ"א ב' כ"א בין חכמי ארץ בינצנץ בין אליהו בן אברהם ומשה הכהן). והנה מתעורר ספק אחד כי ספרו של ישועה יכונה פעם "ספר העריות" (כמו אצל הדסי באשכל הכפר של"ז ג', אהרן בן אליה בעץ חיים פרק ע', יהודה פוקי וכן בכ"י ליידן), ופעם "ספר הישר." ומדברי אליהו בשייצי (אדרת אליהו עריות סוף פ"ה "והנם כתובים בספרו הידוע בענין העריות הנקרא ספר הישר") נראה כי הכיל רק דיני עריות. אמנם מרדכי בן ניסן יאמר על ישועה (דד מרדכי י"א ב' ושם בטעות ישועה בן עלי) כי ישועה עשה ספר הישר על כל המצוות, אמנם הודעתו של זה אין לסמוך עליה. ולכן אין ממש בדברי פירסט כי יעקב העתיק ספר המצוות לישועה וכינה אותו בשם ספר הישר, ומלבד זה העתיק ספר הישר בעריות והרחיב אותו הענין מספר המצוות לישועה בצרוף תשובה שהשיב ישועה על שאלות יעקב. כיוצא בזה, שאר קביעותיו של פירסט כי העתיק יעקב גם את בראשית רבה לישועה וכי מוצאו מסוריה או מבבל וכדומה, הם דברים הפורחים באויר. וכן דברי פינסקר האומר כי יעקב בן שמעון שאל שאלות מישועה והוא השיב לו עליהן (והוא גורס שאל יעקב בן שמעון והשיב עליו הזקן וכו') תשובות שתרגמם יעקב מערבית לעברית וכדומה הם בלי כל יסוד. </p><p> ביבליוגרפיה: </p><p> פינסקר, ל"ק, ר"ס, 171-172; גוטלובר, בקרת, 181; מרקון, מבוא למהדרותו של ספר העריות IXX-IIXX. </p><p> J.C. Wolf, Notitia Karaeorum et Mardochoi, III:530; Steinschneider, Cat. Leyden, 190ff.; idem, HU 454, 942; Fürst II:166, 196, 206; Graetz VI2:87; Schreiner, Studien uber Jeschua ben Jehuda, 70.</p></quote>
                 <bibl xml:id="jalit-orgbiblDJV65BQJ">
-                        <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
-                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
-                    </bibl>
+                    <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.), אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
+                    <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
+                </bibl>
             </item>
         </list>
     </standOff>
