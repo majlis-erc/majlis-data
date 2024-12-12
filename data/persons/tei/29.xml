@@ -25,7 +25,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -34,17 +35,22 @@
                 <idno type="URI">https://jalit.org/person/29</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p>
+                            <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p>
+                    <p>Born digital.</p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-12-06T18:18:41.563Z">Added place IDs and dates.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-06T18:18:41.563Z">Added place IDs and dates.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -95,15 +101,15 @@
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:lang="he" xml:id="name-10">
-                        <forename xml:id="fn-he"/>
-                        <addName xml:id="pa-he" type="patronym"/>
+                        <forename xml:id="fn-he">משאל </forename>
+                        <addName xml:id="pa-he" type="patronym">בן עזיאל</addName>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
                     <persName type="canon" xml:lang="he-Latn" xml:id="name-11">
-                        <forename ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName ref="#pa-he" type="patronym"/>
+                        <forename ref="#fn-he" xml:lang="he-Latn">Mišaʾel</forename>
+                        <addName ref="#pa-he" type="patronym">ben ʿUzziʾel</addName>
                         <addName ref="#ep-he" type="epithet"/>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
