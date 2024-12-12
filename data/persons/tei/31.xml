@@ -27,6 +27,7 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
@@ -36,19 +37,24 @@
                 <idno type="URI">https://jalit.org/person/31</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-09-02T11:47:10.912Z">Added heritage data.</change><change who="#mmoliere" when="2024-07-01T16:39:17.127Z">Updated heritage data.</change>
+            <change who="#S.Mattutat" when="2024-12-12T14:09:16.013Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-09-02T11:47:10.912Z">Added heritage data.</change>
+            <change who="#mmoliere" when="2024-07-01T16:39:17.127Z">Updated heritage data.</change>
             <change who="#mmoliere" when="2024-07-01T16:11:31.134Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
@@ -78,25 +84,25 @@
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-7">
                         <addName xml:id="sh-ar" type="shuhra"/>
-                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="is-ar" type="ism">سعيد</addName>
                         <addName xml:id="na-ar" type="nasab"/>
-                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ni-ar" type="nisbah">شيران</addName>
                         <addName xml:id="ku-ar" type="kunya"/>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#is-ar" type="ism">סעיד</addName>
                         <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ni-ar" type="nisbah">שיראן</addName>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Latn" xml:id="name-9">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#is-ar" type="ism">Saʿīd</addName>
                         <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ni-ar" type="nisbah">Šīrān</addName>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
@@ -205,23 +211,24 @@
 <lb/> Moritz Steinschneider, “An Introduction to the Arabic Literature of the Jews,” <em> Jewish Quarterly Review </em> 9–13 (1897–1901). 
 <lb/> Moritz Steinschneider, Die arabische Literatur der Juden (Frankfurt am Main: Kauffmann, 1902). </p><p/></note>
                 <persName/>
-                <quote xml:lang="ge"><p>§ 49b </p><p> Sa’id al-Schiran ( אלשיראן? ), ein Schüler in der Sprachwissenschaft des Josef ibn Bakhtawi, also wohl ein Karäer, vf. wahrscheinlich Etwas über Sprache, nach dem Citat eines anon. Kar., ms. Br. Mus. Or. 2523, bei Pozn., Jew. Qu. VIII, 698. – Ein relat. Schiraui haben Sujuti und Kairuwani nicht, ob etwa Schirazi, aus Schiraz, zu lesen ist? </p><p> </p><p/></quote>
+                <quote xml:lang="ge"><p>§ 49b </p><p> Sa’id al-Schiran ( אלשיראן? ), ein Schüler in der Sprachwissenschaft des Josef ibn Bakhtawi, also wohl ein Karäer, vf. wahrscheinlich Etwas über Sprache, nach dem Citat eines anon. Kar., ms. Br. Mus. Or. 2523, bei Pozn., Jew. Qu. VIII, 698. – Ein relat. Schiraui haben Sujuti und Kairuwani nicht, ob etwa Schirazi, aus Schiraz, zu lesen ist? </p><p>  </p><p/></quote>
                 <bibl xml:id="jalit-orgbibl83CLUH7Q">
                     <title>Moritz Steinschneider, "Saʿīd Shīrān", in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902).</title>
                     <citedRange unit="page">89</citedRange>
                     <ptr target="https://jalit.org/bibl/83CLUH7Q"/>
                 </bibl>
-            </item><item>
-      <quote xml:lang="he"><p>סעיד שיראן</p><p>בספר קראי בערבית כולל וכוח נגד מחבר רבני ונמצא בכ"י בר' מוז' 2523 Or. (רשימת מרגליות 1098) דף נ"ח ע"א כתוב: "ואמא אללגה פליסת לך בל אלכתאב פיהא כאן לסעיד שיראן רחמה אללה אלד'י סעיד שיראן כאן תלמיד' פיהא לאבי יעקוב יוסף בן בכ'תוי מעלם אלג'אליה רצ'י אללה ענה." ובעברית: "אבל במה שנוגע לחכמת הלשון אינה מעניניך, אבל יש בה ספר לסעיד שיראן יר"א אשר זה סעיד שיראן היה בחכמה זאת תלמידו של אבו יעקוב יוסף בן בכ'תוי מלמד הגולה רא"ע." ואם כן חי סעיד במאה העשירית. השם שיראן לא ימצא יותר בספרות ישראל ושערתי כי אולי צריך לקרא שירואני או שיריני (היינו משירואן בבכ'ארא או משירין בארץ מדי), ושטיינשניידר משער כי אולי צריך לקרא שיראזי (היינו משיראז בארץ פרס), אבל קשה לומר כי נשתבש השם פעמיים זה אחרי זה.</p><p>ביבליוגרפיה:
-<lb/>Poznanski, JQR VIII:698; Steinschneider, JQR XI:616, no. 74c; idem, Ar. Lit., sec. 49b.</p></quote>
-      <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.  </p><p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the  
-<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em>Encyclopedia of Qaraites</em> is today found in the Samuel Poznański Archive at the National Library of Israel  (ARC 4﹡ 1180, Series 5).  Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p><p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)  </p><p>Literature:  
-<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em>Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging</em>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
-      <bibl xml:id="jalit-orgbiblDJV65BQJ">
-                        <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.),  אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
-                        <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
-                    </bibl>
-   </item>
+            </item>
+            <item>
+                <quote xml:lang="he"><p>סעיד שיראן </p><p> בספר קראי בערבית כולל וכוח נגד מחבר רבני ונמצא בכ"י בר' מוז' 2523 Or. (רשימת מרגליות 1098) דף נ"ח ע"א כתוב: "ואמא אללגה פליסת לך בל אלכתאב פיהא כאן לסעיד שיראן רחמה אללה אלד'י סעיד שיראן כאן תלמיד' פיהא לאבי יעקוב יוסף בן בכ'תוי מעלם אלג'אליה רצ'י אללה ענה." ובעברית: "אבל במה שנוגע לחכמת הלשון אינה מעניניך, אבל יש בה ספר לסעיד שיראן יר"א אשר זה סעיד שיראן היה בחכמה זאת תלמידו של אבו יעקוב יוסף בן בכ'תוי מלמד הגולה רא"ע." ואם כן חי סעיד במאה העשירית. השם שיראן לא ימצא יותר בספרות ישראל ושערתי כי אולי צריך לקרא שירואני או שיריני (היינו משירואן בבכ'ארא או משירין בארץ מדי), ושטיינשניידר משער כי אולי צריך לקרא שיראזי (היינו משיראז בארץ פרס), אבל קשה לומר כי נשתבש השם פעמיים זה אחרי זה. </p><p> ביבליוגרפיה: 
+<lb/> Poznanski, JQR VIII:698; Steinschneider, JQR XI:616, no. 74c; idem, Ar. Lit., sec. 49b.</p></quote>
+                <note xml:lang="en"><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw. </p><p> Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the 
+<lb/> realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em> Encyclopedia of Qaraites </em> is today found in the Samuel Poznański Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names. </p><p> Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor) </p><p> Literature: 
+<lb/> Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em> Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging </em> , edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
+                <bibl xml:id="jalit-orgbiblDJV65BQJ">
+                    <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.), אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
+                    <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
+                </bibl>
+            </item>
         </list>
     </standOff>
 </TEI>
