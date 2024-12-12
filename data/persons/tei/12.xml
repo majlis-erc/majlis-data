@@ -18,7 +18,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -27,17 +28,22 @@
                 <idno type="URI">https://jalit.org/person/12</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p>
+                            <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p>
+                    <p>Born digital.</p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-12-05T10:49:31.785Z">Corrected LOD.</change><change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
+            <change who="#S.Mattutat" when="2024-12-12T10:50:21.691Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-05T10:49:31.785Z">Corrected LOD.</change>
+            <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
@@ -101,16 +107,16 @@
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="he" xml:id="name-14">
-                        <forename xml:id="fn-he"/>
-                        <addName xml:id="pa-he" type="patronym"/>
-                        <addName xml:id="ep-he" type="epithet"/>
+                        <forename xml:id="fn-he">טוביה</forename>
+                        <addName xml:id="pa-he" type="patronym">בן משה</addName>
+                        <addName xml:id="ep-he" type="epithet">האבל</addName>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
                     <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-15">
-                        <forename ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName ref="#pa-he" type="patronym"/>
-                        <addName ref="#ep-he" type="epithet"/>
+                        <forename ref="#fn-he" xml:lang="he-Latn">Ṭoviya</forename>
+                        <addName ref="#pa-he" type="patronym">ben Moše</addName>
+                        <addName ref="#ep-he" type="epithet">ha-Avel</addName>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
