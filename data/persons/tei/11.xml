@@ -187,7 +187,7 @@
                     </persName>
                     <birth>
                         <date>1001-1010</date>
-                        <placeName ref="https://jalit.org/place/56">Jerusalem</placeName>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </birth>
                     <death>
                         <date>1070–1099</date>
@@ -195,13 +195,13 @@
                     </death>
                     <floruit>
                         <date cert="">1041-1060</date>
-                        <placeName cert="" ref="https://jalit.org/place/56">Jerusalem</placeName>
+                        <placeName cert="" ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>
                     <faith>Judaism</faith>
                     <occupation>scholar</occupation>
                     <residence>
-                        <placeName cert="" ref="https://jalit.org/place/56">Jerusalem</placeName>
+                        <placeName cert="" ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </residence>
                     <bibl type="manuscript" xml:id="jalit-orgbiblH2RX9HN2">
                         <title>London, British Library, Or. 2493</title>

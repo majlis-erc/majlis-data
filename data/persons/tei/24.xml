@@ -113,7 +113,7 @@
                     </persName>
                     <birth>
                         <date cert=""/>
-                        <placeName ref="https://jalit.org/place/135" cert="">Maġrib</placeName>
+                        <placeName ref="https://jalit.org/place/5" cert="">Maġrib</placeName>
                     </birth>
                     <death>
                         <date cert=""/>
@@ -121,7 +121,7 @@
                     </death>
                     <floruit>
                         <date cert=""/>
-                        <placeName ref="https://jalit.org/place/85">Ramle</placeName>
+                        <placeName ref="https://jalit.org/place/2">Ramle</placeName>
                     </floruit>
                     <sex cert=""/>
                     <faith cert=""/>

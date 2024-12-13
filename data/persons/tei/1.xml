@@ -228,7 +228,7 @@
                     </persName>
                     <birth>
                         <date cert="" source="#">870</date>
-                        <placeName ref="https://jalit.org/place/133" cert="" source="#">Damghan</placeName>
+                        <placeName ref="https://jalit.org/place/4" cert="" source="#">Damghan</placeName>
                     </birth>
                     <death>
                         <date cert="" source="#">910</date>
@@ -236,7 +236,7 @@
                     </death>
                     <floruit>
                         <date cert=""/>
-                        <placeName ref="https://jalit.org/place/56">Jerusalem</placeName>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="high" source="#">Male</sex>
                     <faith cert=""/>

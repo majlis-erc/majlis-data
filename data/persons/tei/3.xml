@@ -125,7 +125,7 @@
                     </persName>
                     <birth>
                         <date cert="" source="#">910</date>
-                        <placeName ref="https://jalit.org/place/56">Jerusalem</placeName>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </birth>
                     <death>
                         <date cert="" source="#">990</date>

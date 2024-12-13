@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">Holy Land</title>
+            <title level="a" xml:lang="en">Iraq</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish
                                     Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -60,7 +60,7 @@
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic
                                         Literature</ref>
             </authority>
-            <idno type="URI">https://jalit.org/place/6</idno>
+            <idno type="URI">https://jalit.org/place/10</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0
@@ -81,22 +81,21 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-6">
-               <placeName xml:lang="en" type="#majlis-headword">Holy Land</placeName>
-               <placeName xml:lang="he">ארץ הקודש</placeName>
-               <placeName xml:lang="ar"> الأراضي المقدسة</placeName>
+            <place xml:id="place-10">
+               <placeName xml:lang="en" type="#majlis-headword">Iraq</placeName>
+               <placeName xml:lang="he">עיראק</placeName>
+               <placeName xml:lang="ar">العراق</placeName>
                <desc>
                   <quote source="" xml:lang=""/>
                </desc>
                <location>
-                  <geo>31.65393 35.10352</geo>
+                  <geo>33 44</geo>
                   <settlement source="" ref=""/>
                   <region source="" ref=""/>
                </location>
-               <idno type="URI" subtype="gnd">https://d-nb.info/gnd/4044381-4</idno>
-               <idno type="URI" subtype="loc">http://id.loc.gov/authorities/names/n80009667</idno>
-               <idno type="URI" subtype="geonames">https://www.geonames.org/12047392</idno>
-               <idno type="URI" subtype="viaf">http://viaf.org/viaf/233681848</idno>
+               <idno type="URI" subtype="wikidata">https://www.wikidata.org/wiki/Q796</idno>
+               <idno type="URI" subtype="geonames">https://www.geonames.org/99237</idno>
+               <idno type="URI" subtype="himme">https://medievalmideast.org/place/464</idno>
             </place>
          </listPlace>
       </body>

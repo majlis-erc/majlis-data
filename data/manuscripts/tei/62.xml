@@ -239,7 +239,7 @@
                             <handNote medium="" xml:id="hand-111">
                                 <locus from="" to=""/>
                                 <persName ref="" role="">עלי בן סולימן</persName>
-                                <placeName ref="">תניס (עיר במצרים; 3ב)</placeName>
+                                <placeName ref="https://jalit.org/place/7">תניס (עיר במצרים; 3ב)</placeName>
                                 <metamark function=""/>
                                 <origDate>465 להג'רה (1072 לספירה)</origDate>
                                 <note xml:lang=""></note>

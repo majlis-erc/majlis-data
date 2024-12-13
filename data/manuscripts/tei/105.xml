@@ -221,7 +221,7 @@
                             <handNote medium="" xml:id="hand-111">
                                 <locus from="" to=""/>
                                 <persName ref="" role="">אליהו בן שלמה</persName>
-                                <placeName ref="">קהיר</placeName>
+                                <placeName ref="https://jalit.org/place/1">קהיר</placeName>
                                 <metamark function=""/>
                                 <origDate>1580 </origDate>
                                 <note xml:lang=""></note>
