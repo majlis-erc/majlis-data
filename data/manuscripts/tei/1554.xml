@@ -228,13 +228,11 @@
                         <summary xml:lang=""/>
                         <provenance>
                             <date/>
-                            <placeName ref="https://jalit.org/place/56">
-                                <placeName ref="https://jalit.org/place/56">Jerusalem</placeName>
-                            </placeName>
+                                <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
+                            
                             <locus from="" to=""/>
-                            <persName ref="https://jalit.org/person/10">
                                 <persName ref="https://jalit.org/person/10">Levi ben Yefet ben ʿElī</persName>
-                            </persName>
+                            
                             <quote xml:lang=""/>
                             <stamp/>
                             <note xml:lang=""/>

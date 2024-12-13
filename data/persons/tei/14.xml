@@ -121,7 +121,7 @@
                     </death>
                     <floruit>
                         <date cert=""/>
-                        <placeName ref="" cert="">Palestine</placeName>
+                        <placeName ref="https://jalit.org/place/6" cert="">Palestine</placeName>
                     </floruit>
                     <sex cert=""/>
                     <faith cert=""/>

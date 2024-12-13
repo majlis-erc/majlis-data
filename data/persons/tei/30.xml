@@ -131,7 +131,7 @@
                     </persName>
                     <birth>
                         <date cert=""/>
-                        <placeName ref="https://jalit.org/place/134" cert="">Persia</placeName>
+                        <placeName ref="https://jalit.org/place/11" cert="">Persia</placeName>
                     </birth>
                     <death>
                         <date cert="high">950-960</date>
@@ -139,13 +139,13 @@
                     </death>
                     <floruit>
                         <date cert="">941-960</date>
-                        <placeName ref="https://jalit.org/place/56">Jerusalem</placeName>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>
                     <faith cert="">Karaite</faith>
                     <occupation type="" cert=""/>
                     <residence>
-                        <placeName ref="https://jalit.org/place/56">Jerusalem</placeName>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </residence>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFU58KXC">
                         <title>Bacher, Wilhelm. “Le grammairien anonyme de Jérusalem et son livre.” Revue des études juives 30, no. 60 (1895): pp. 232-256.</title>
