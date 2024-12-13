@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="a" xml:lang="en">al-Kāẓimiyya</title>
+            <title level="a" xml:lang="en">Courtyard of the Teacher</title>
             <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish
                                     Literature in Arabic in the Islamicate World</title>
             <sponsor ref="https://www.uni-muenchen.de">
@@ -24,9 +24,6 @@
             <editor xml:id="gschwarb"
                     role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
-            <editor xml:id="ngibson"
-                    role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
             <editor xml:id="mmoliere"
                     role="contributor"
                     ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
@@ -65,75 +62,37 @@
             </authority>
             <idno type="URI">https://jalit.org/place/8</idno>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0/">
+               <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Distributed under a Creative Commons Attribution 4.0
                                             International (CC BY 4.0) License.</p>
-                  <p>You are free to: Share — copy and redistribute the
-                                            material in any medium or format. Adapt — remix,
-                                            transform, and build upon the material for any purpose,
-                                            even commercially. </p>
-                  <p>Under the following terms: Attribution — You must give
-                                            appropriate credit, provide a link to the license, and
-                                            indicate if changes were made. You may do so in any
-                                            reasonable manner, but not in any way that suggests the
-                                            licensor endorses you or your use. No additional
-                                            restrictions — You may not apply legal terms or
-                                            technological measures that legally restrict others from
-                                            doing anything the license permits. </p>
                </licence>
             </availability>
-            <date/>
+            <date>2024-12-13</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <editorialDecl>
-            <p>This record created following the Syriaca.org guidelines.
-                                    Documentation available at: <ref target="http://syriaca.org/documentation">http://syriaca.org/documentation</ref>.</p>
-            <interpretation>
-               <p>Approximate dates described in terms of centuries or partial
-                                        centuries have been interpreted as documented in <ref target="http://syriaca.org/documentation/dates.html">Syriaca.org Dates</ref>.</p>
-            </interpretation>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="en">English</language>
-            <language ident="he">Hebrew</language>
-            <language ident="ar">Arabic</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="draft">
-         <change when="2024-11-06" who="#mmoliere">Compiled and converted data to TEI.</change>
+      <revisionDesc>
+         <change who="#mmoliere" when="2024-12-13">Converted
+                                Google Sheets data into TEI-File.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-            <listPlace>
-                <place>
-                    <placeName xml:lang="en" type="majlis-headword">al-Kāẓimiyya</placeName>
-                    <placeName xml:lang="he">כאזמיה</placeName>
-                    <placeName xml:lang="ar">الكاظمية</placeName>
-                    <desc>
-                        <quote source="" xml:lang=""/>
-                    </desc>
-                    <location>
-                        <geo>33.37646 44.34155</geo>
-                        <settlement ref="" source=""/>
-                        <region ref="" source=""/>
-                    </location>
-                    <idno type="URI">https://www.wikidata.org/wiki/Q311315</idno>
-                    <idno type="URI">https://www.geonames.org/99172</idno>
-                    <idno type="URI"/>
-                    <bibl>
-                        <title/>
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
-                    </bibl>
-                </place>
-            </listPlace>
-        </body>
+         <listPlace>
+            <place xml:id="place-8">
+               <placeName xml:lang="en" type="#majlis-headword">Courtyard of the Teacher</placeName>
+               <desc>
+                  <quote source="" xml:lang=""/>
+               </desc>
+               <location>
+                  <geo/>
+                  <settlement source="" ref="https://jalit.org/place/3">Jerusalem</settlement>
+                  <region source="" ref=""/>
+               </location>
+            </place>
+         </listPlace>
+      </body>
    </text>
 </TEI>
