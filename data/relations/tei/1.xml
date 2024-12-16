@@ -27,6 +27,7 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
+                <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +51,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-12-16T08:18:55.552Z">test</change><change who="#mmoliere" when="2024-09-30T15:09:23.746Z">Testeintrag</change>
+            <change who="#mmoliere" when="2024-12-16T16:26:20.955Z">test</change><change who="#mmoliere" when="2024-12-16T08:18:55.552Z">test</change>
+            <change who="#mmoliere" when="2024-09-30T15:09:23.746Z">Testeintrag</change>
             <change who="" when=""/>
         </revisionDesc>
     </teiHeader>
@@ -60,10 +62,11 @@
                 <listRelation>
                     <relation name="" ref="" active="https://jalit.org/place/12" passive="https://jalit.org/person/4" mutual="https://jalit.org/manuscript/992 https://jalit.org/work/13"/>
                 </listRelation>
-                <bibl type="primary">
-                    <ptr target=""/>
-                    <citedRange unit="p"/>
-                </bibl>
+                <bibl xml:id="jalit-orgbiblN5ZJ7PAI">
+                        <idno>Post-Biblical Bibliography, 1888-9</idno>
+                        <title>Adolf Neubauer, Post-Biblical Bibliography, 1888-9, The Jewish Quarterly Review 2, no. 2 (1890): 191–204, https://www.jstor.org/stable/1450104.</title>
+                        <ptr target="https://jalit.org/bibl/N5ZJ7PAI"/>
+                    </bibl>
             </ab>
         </body>
     </text>
