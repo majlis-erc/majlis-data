@@ -1,4 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><change who="#" when=""/>
+    <change who="#" when=""/>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -54,7 +55,7 @@
                         <name/>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name/>
+                        <name>Abū Saʿīd Lāwī b. Dāʾūd</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-3">
                         <name/>
@@ -70,26 +71,26 @@
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-7">
                         <addName xml:id="sh-ar" type="shuhra"/>
-                        <addName xml:id="is-ar" type="ism"/>
-                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="is-ar" type="ism">لاوي</addName>
+                        <addName xml:id="na-ar" type="nasab">ابن داود</addName>
                         <addName xml:id="ni-ar" type="nisbah"/>
-                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="ku-ar" type="kunya">أبو سعيد</addName>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#is-ar" type="ism">לאוי</addName>
+                        <addName ref="#na-ar" type="nasab">אבן דאוד</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#ku-ar" type="kunya">אבו סעיד</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#is-ar" type="ism">Lāwī</addName>
+                        <addName ref="#na-ar" type="nasab">b. Dāʾūd</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#ku-ar" type="kunya">Abū Saʿīd</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="he" xml:id="name-10">
