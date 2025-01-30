@@ -50,7 +50,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2025-01-30T08:58:42.329Z">Header: Title.</change><change who="#S.Mattutat" when="2025-01-30T00:13:25.337Z">Person: Personal name.</change>
+            <change who="#S.Mattutat" when="2025-01-30T10:13:31.363Z">Hearder: Title.</change><change who="#S.Mattutat" when="2025-01-30T08:58:42.329Z">Header: Title.</change>
+            <change who="#S.Mattutat" when="2025-01-30T00:13:25.337Z">Person: Personal name.</change>
             <change who="#mmoliere" when="2024-10-10T14:51:05.115Z">Added new entry.</change>
             <change who="mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
