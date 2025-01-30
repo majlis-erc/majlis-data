@@ -26,7 +26,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -35,17 +36,22 @@
                 <idno type="URI">https://jalit.org/person/36</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
+                        <p>
+                            <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p>
+                    <p>Born digital.</p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-10-10T14:51:05.115Z">Added new entry.</change><change who="mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
+            <change who="#S.Mattutat" when="2025-01-30T00:13:25.337Z">Person: Personal name.</change><change who="#mmoliere" when="2024-10-10T14:51:05.115Z">Added new entry.</change>
+            <change who="mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -56,7 +62,7 @@
                         <name/>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name/>
+                        <name>Abū l-Ḥasan Dāʾūd b. ʿImrān b. Lāwī</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-3">
                         <name/>
@@ -72,26 +78,26 @@
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-7">
                         <addName xml:id="sh-ar" type="shuhra"/>
-                        <addName xml:id="is-ar" type="ism"/>
-                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="is-ar" type="ism">داود</addName>
+                        <addName xml:id="na-ar" type="nasab">ابن عمران بن لاوي</addName>
                         <addName xml:id="ni-ar" type="nisbah"/>
-                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="ku-ar" type="kunya">أبو الحسن</addName>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#is-ar" type="ism">דאוד</addName>
+                        <addName ref="#na-ar" type="nasab">אבן עמראן אבן לאוי</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#ku-ar" type="kunya">אבו אלחסן</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#is-ar" type="ism">Dāʾūd</addName>
+                        <addName ref="#na-ar" type="nasab">b. ʿImrān b. Lāwī</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#ku-ar" type="kunya">Abū l-Ḥasan</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="he" xml:id="name-10">
