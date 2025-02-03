@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Abū ʿAlī Šmuʾel b. Saynāʾī(?)</title>
+                <title level="a" xml:lang="en">Abū ʿAlī Šmuʾel b. Saynāʾī</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -25,7 +25,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -44,7 +45,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T14:21:21.991Z">Person: Personal Name.</change><change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
+            <change who="#S.Mattutat" when="2025-02-03T08:09:45.944Z">Person: Header.</change><change who="#S.Mattutat" when="2024-12-12T14:21:21.991Z">Person: Personal Name.</change>
+            <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
     <text>
