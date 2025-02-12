@@ -26,7 +26,9 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -44,7 +46,11 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2024-12-11T20:31:26.796Z">Test 1</change><change who="#" when=""/>
+            <change who="#mmoliere" when="2025-02-12T15:29:08.724Z">Test</change><change who="#mmoliere" when="2025-01-21T14:54:40.811Z">test</change>
+            <change who="#mmoliere" when="2025-01-21T14:35:50.969Z">Test ab</change>
+            <change who="#mmoliere" when="2024-12-11T20:36:17.394Z">Test 2</change>
+            <change who="#mmoliere" when="2024-12-11T20:31:26.796Z">Test 1</change>
+            <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -90,16 +96,7 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <ab type="codicological-definition">
-                            <objectType rend="" style="codex">Single manuscript</objectType>
-                            <listBibl>
-                                <bibl>
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
-                            </listBibl>
-                        </ab>
+                        <ab type="codicological-definition"><p>Single manuscript</p></ab>
                         <objectDesc>
                             <supportDesc>
                                 <support>
@@ -127,7 +124,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <summary><p>
-<lb/>                                    </p></summary>
+<lb/> </p></summary>
                                 <layout writtenLines="" columns="" xml:id="layout-1111">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
@@ -166,13 +163,23 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1111">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <locus from="" to=""/>
-                                    <quote xml:lang="en"><p/><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus feugiat mi metus, nec gravida justo fermentum nec. Praesent ac placerat lacus. Cras sit amet est vitae mauris fermentum congue aliquam eu nisi. Vestibulum efficitur convallis maximus. Mauris quam dolor, vestibulum ac enim sit amet, sodales finibus sapien. Quisque ut mi pretium, hendrerit est ac, suscipit nulla. Curabitur elementum eros et urna elementum bibendum. Nunc ornare dolor at ipsum elementum faucibus. Nam placerat non orci non ornare. Nam efficitur suscipit ullamcorper. Morbi sit amet eros nec ipsum fringilla lacinia.</p><p>Proin at porta magna. Quisque id mauris egestas metus venenatis convallis. Duis ullamcorper iaculis tortor, et ullamcorper nulla gravida sit amet. Aliquam at feugiat velit. Maecenas lobortis odio sed volutpat imperdiet. Curabitur feugiat mauris nec leo faucibus, non tempor leo feugiat. Nam a nisi sed lectus pulvinar feugiat ac a quam. In venenatis neque mauris, ac fringilla nisi fringilla at. Aenean gravida et dui eget viverra. Cras eu nulla elementum, auctor lacus at, scelerisque elit. Nullam id turpis eget nibh viverra varius a eu arcu. Pellentesque nec mauris nec mi lacinia rhoncus quis placerat magna. Duis semper lorem arcu, a rhoncus ex ultrices iaculis. Pellentesque eleifend dictum mi nec luctus.</p><p>Sed vitae magna tortor. Donec at velit et tortor luctus porta a sed neque. Maecenas dapibus semper erat, sit amet porta diam fermentum non. Phasellus a nulla quis justo fermentum fermentum. Nulla facilisi. Morbi tristique aliquam auctor. Donec non accumsan ipsum. Praesent lobortis eu eros eget tincidunt. Aenean id lorem laoreet, varius nisi eget, imperdiet ligula. Donec viverra nulla sed tortor consequat, ac faucibus diam ornare. Ut facilisis tortor eget elit hendrerit dapibus. Nam imperdiet erat tristique ex vulputate maximus. Aliquam feugiat arcu et nisi tempus suscipit. Proin eget urna ac nisi finibus malesuada at ac enim. Vestibulum auctor nisi quis augue ornare laoreet. Duis eu ligula tristique, hendrerit nulla ut, convallis nunc.</p><p>Maecenas mollis ex ut ligula suscipit interdum. Etiam in sagittis erat. Aenean ut porttitor mauris, eget fermentum mauris. Proin cursus nulla ac lobortis dictum. Donec at congue risus. Nam viverra ante eget eros luctus, a tempor tellus tincidunt. Donec tellus elit, convallis in quam consequat, faucibus vehicula sem. Aenean eleifend fringilla est sed placerat. Donec luctus diam vitae neque aliquam molestie. Vestibulum porta hendrerit nisi vitae venenatis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam ullamcorper urna nulla, ultrices hendrerit ex tempus eget.</p><p>Curabitur eu consectetur dolor. Pellentesque luctus aliquam est sed aliquam. Morbi eget commodo justo. Vestibulum eu fringilla sem, nec pulvinar odio. Fusce sed porttitor mauris, nec sodales ligula. Aenean eleifend pulvinar tortor quis venenatis. Fusce felis nisi, imperdiet et nibh in, eleifend lobortis nunc. Nam sed ex in urna mollis placerat vitae sed elit. In ornare cursus mi efficitur fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse maximus mauris ipsum. Praesent at quam sit amet nulla faucibus consectetur. Ut justo dui, euismod at dolor et, scelerisque semper tortor. Aliquam faucibus lorem ac ex lobortis scelerisque. Donec ac ex at orci lacinia suscipit. Ut id tristique arcu. </p></quote>
+                                    <quote xml:lang="en"><p/><p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus feugiat mi metus, nec gravida justo fermentum nec. Praesent ac placerat lacus. Cras sit amet est vitae mauris fermentum congue aliquam eu nisi. Vestibulum efficitur convallis maximus. Mauris quam dolor, vestibulum ac enim sit amet, sodales finibus sapien. Quisque ut mi pretium, hendrerit est ac, suscipit nulla. Curabitur elementum eros et urna elementum bibendum. Nunc ornare dolor at ipsum elementum faucibus. Nam placerat non orci non ornare. Nam efficitur suscipit ullamcorper. Morbi sit amet eros nec ipsum fringilla lacinia. </p><p> Proin at porta magna. Quisque id mauris egestas metus venenatis convallis. Duis ullamcorper iaculis tortor, et ullamcorper nulla gravida sit amet. Aliquam at feugiat velit. Maecenas lobortis odio sed volutpat imperdiet. Curabitur feugiat mauris nec leo faucibus, non tempor leo feugiat. Nam a nisi sed lectus pulvinar feugiat ac a quam. In venenatis neque mauris, ac fringilla nisi fringilla at. Aenean gravida et dui eget viverra. Cras eu nulla elementum, auctor lacus at, scelerisque elit. Nullam id turpis eget nibh viverra varius a eu arcu. Pellentesque nec mauris nec mi lacinia rhoncus quis placerat magna. Duis semper lorem arcu, a rhoncus ex ultrices iaculis. Pellentesque eleifend dictum mi nec luctus. </p><p> Sed vitae magna tortor. Donec at velit et tortor luctus porta a sed neque. Maecenas dapibus semper erat, sit amet porta diam fermentum non. Phasellus a nulla quis justo fermentum fermentum. Nulla facilisi. Morbi tristique aliquam auctor. Donec non accumsan ipsum. Praesent lobortis eu eros eget tincidunt. Aenean id lorem laoreet, varius nisi eget, imperdiet ligula. Donec viverra nulla sed tortor consequat, ac faucibus diam ornare. Ut facilisis tortor eget elit hendrerit dapibus. Nam imperdiet erat tristique ex vulputate maximus. Aliquam feugiat arcu et nisi tempus suscipit. Proin eget urna ac nisi finibus malesuada at ac enim. Vestibulum auctor nisi quis augue ornare laoreet. Duis eu ligula tristique, hendrerit nulla ut, convallis nunc. </p><p> Maecenas mollis ex ut ligula suscipit interdum. Etiam in sagittis erat. Aenean ut porttitor mauris, eget fermentum mauris. Proin cursus nulla ac lobortis dictum. Donec at congue risus. Nam viverra ante eget eros luctus, a tempor tellus tincidunt. Donec tellus elit, convallis in quam consequat, faucibus vehicula sem. Aenean eleifend fringilla est sed placerat. Donec luctus diam vitae neque aliquam molestie. Vestibulum porta hendrerit nisi vitae venenatis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam ullamcorper urna nulla, ultrices hendrerit ex tempus eget. </p><p> Curabitur eu consectetur dolor. Pellentesque luctus aliquam est sed aliquam. Morbi eget commodo justo. Vestibulum eu fringilla sem, nec pulvinar odio. Fusce sed porttitor mauris, nec sodales ligula. Aenean eleifend pulvinar tortor quis venenatis. Fusce felis nisi, imperdiet et nibh in, eleifend lobortis nunc. Nam sed ex in urna mollis placerat vitae sed elit. In ornare cursus mi efficitur fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse maximus mauris ipsum. Praesent at quam sit amet nulla faucibus consectetur. Ut justo dui, euismod at dolor et, scelerisque semper tortor. Aliquam faucibus lorem ac ex lobortis scelerisque. Donec ac ex at orci lacinia suscipit. Ut id tristique arcu.</p></quote>
                                     <ab type="translation"/>
                                     <note xml:lang=""/>
                                     <listRelation>
                                         <relation name="snap:motherInLawOf" active="https://jalit.org/person/11" passive="https://jalit.org/person/10" mutual=""/>
+                                    </listRelation>
+                                </item>
+                                <item xml:id="add-1112">
+                                    <quote type="translation" xml:lang="en"><p>Test translation</p></quote>
+                                    <objectType/>
+                                    <locus from="" to=""/>
+                                    <quote type="transcription" xml:lang="he"><p>ברשית</p></quote>
+                                    <note xml:lang=""/>
+                                    <listRelation>
+                                        <relation name="" ref="" active="" passive="" mutual=""/>
                                     </listRelation>
                                 </item>
                             </list>
@@ -210,7 +217,7 @@
                         </accMat>
                     </physDesc>
                     <history>
-                        <summary xml:lang=""/>
+                        <summary xml:lang=""><p>Test</p></summary>
                         <provenance>
                             <date/>
                             <placeName ref=""/>
