@@ -29,7 +29,8 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -38,19 +39,24 @@
                 <idno type="URI">https://jalit.org/person/1</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-11T14:32:27.083Z">Person: Personal name</change><change who="#mmoliere" when="2024-12-06T17:36:04.799Z">Added place IDs.</change>
+            <change who="#rboehm" when="2025-02-25T11:00:05.420Z">.</change><change who="#S.Mattutat" when="2024-12-11T14:32:27.083Z">Person: Personal name</change>
+            <change who="#mmoliere" when="2024-12-06T17:36:04.799Z">Added place IDs.</change>
             <change who="#mmoliere" when="2024-09-02T11:01:00.600Z">Revised heritage data.</change>
             <change who="#mmoliere" when="2024-09-02T07:54:05.075Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -188,7 +194,8 @@
                     <persName type="alternate" xml:lang="he-Latn" xml:id="name-42">
                         <name source="#viaf">Qūmisī, Danīʾel ʾal-</name>
                     </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-43"><name/>
+                    <persName type="canon" xml:lang="ar" xml:id="name-43">
+                        <name/>
                         <addName xml:id="sh-ar" type="shuhra">القومسي</addName>
                         <addName xml:id="is-ar" type="ism">دانيال</addName>
                         <addName xml:id="na-ar" type="nasab"/>
@@ -200,7 +207,7 @@
                         <addName ref="#sh-ar" type="shuhra">אלקומיסי</addName>
                         <addName ref="#is-ar" type="ism">דניאל</addName>
                         <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah">אלקומיסי אלדאמֹֹגאני</addName>
+                        <addName ref="#ni-ar" type="nisbah">אלקומיסי אלדאמגׄאני</addName>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
