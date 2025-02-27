@@ -29,7 +29,8 @@
                 </respStmt>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <editionStmt>
                 <edition>File Reused in the Project: "MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World"</edition>
@@ -68,25 +69,35 @@
                 <idno type="URI">https://jalit.org/work/18</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">
-                        <p><p>
-<lb/>                            </p></p>
-                        <p><p>
-<lb/>                            </p></p>
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date/>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </editorialDecl>
             <classDecl>
                 <taxonomy>
@@ -104,7 +115,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2024-11-18T09:57:25.088Z">test vii</change><change who="#rboehm" when="2024-11-09T11:59:34.548Z">test iv</change>
+            <change who="#rboehm" when="2025-02-27T12:55:41.091Z">Bibl.</change><change who="#rboehm" when="2024-11-18T09:57:25.088Z">test v</change>
+            <change who="#rboehm" when="2024-11-09T11:59:34.548Z">test iv</change>
             <change who="#rboehm" when="2024-11-08T14:10:47.394Z">test iii</change>
             <change who="#rboehm" when="2024-09-06T10:32:39.152Z">work record created</change>
             <change who="" when=""/>
@@ -114,7 +126,7 @@
         <body>
             <bibl xml:id="">
                 <title type="majlis-headword" xml:lang="en" xml:id="title-1">Book of Lights and Watchtowers</title>
-                <title xml:lang="ar" type="majlis-headword" xml:id="title-2">كتاب الأنوار والمراقب</title>
+                <title xml:lang="ar" type="majlis-headword" xml:id="title-2">Dummy title</title>
                 <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-3">כתאב אלאנואר ואלמראקב</title>
                 <author ref="https://jalit.org/person/279" cert="high">Yaʿqūb b. Yiṣḥaq al-Qirqisānī</author>
                 <persName role="" ref="" cert=""/>
@@ -124,12 +136,20 @@
                 <quote xml:lang="" type="" source=""/>
                 <date>c. 927</date>
                 <note><p>
-<lb/>  </p><p>  </p><p> </p><p/></note>
-                <bibl xml:id="">
-                    <title/>
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+<lb/>  </p><p>  </p><p>  </p><p/></note>
+                <bibl xml:id="jalit-orgbibl3XIE4SF4">
+                        <idno/>
+                        <title>Leon Nemoy, ed., Kitāb al-Anwār wal-Marāqib: Code of Karaite Law, 5 vols. (New York: Alexander Kohut Memorial Foundation, 1939).</title>
+                        <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
+                    </bibl><bibl xml:id="jalit-orgbiblI6M2SV5V">
+                        <idno/>
+                        <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: الجزء الأول, ed. Leon Nemoy, Ḥusayn ʿAbd al-Badīʿ Ḥusayn, and Aḥmad Maḥmūd Huwaydī, 1 vols., Silsilat al-Turāṯ al-Ḥaḍārī (Cairo: al-Hayʾa al-Miṣriyya al-ʿĀmma lil-Kitāb, 2019).</title>
+                        <ptr target="https://jalit.org/bibl/I6M2SV5V"/>
+                    </bibl><bibl xml:id="jalit-orgbiblGPITFXIA">
+                        <idno/>
+                        <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: كتاب الشرائع الكبير, ed. Leon Nemoy et al., 7 vols., Dirāsāt Yahūdiyya wa-Isrāʾīliyya 11 (Cairo: al-Baḥr al-Aḥmar, 2024), https://www.neelwafurat.com/itempage.aspx?id=egb302820-5323132&amp;search=books.</title>
+                        <ptr target="https://jalit.org/bibl/GPITFXIA"/>
+                    </bibl>
             </bibl>
         </body>
     </text>
