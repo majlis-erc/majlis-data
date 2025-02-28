@@ -30,7 +30,8 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -39,25 +40,35 @@
                 <idno type="URI">https://jalit.org/work/38</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">
-                        <p><p>
-<lb/>                            </p></p>
-                        <p><p>
-<lb/>                            </p></p>
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date/>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </editorialDecl>
             <classDecl>
                 <taxonomy>
@@ -83,7 +94,8 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#mmoliere" when="2024-11-10T18:17:36.078Z">Test data.</change><change who="#mmoliere" when="2024-10-21T13:54:21.507Z">Test</change>
+            <change who="#mseydi" when="2025-02-28T14:33:21.150Z">bibl types removed</change><change who="#mmoliere" when="2024-11-10T18:17:36.078Z">Test data.</change>
+            <change who="#mmoliere" when="2024-10-21T13:54:21.507Z">Test</change>
             <change who="#mmoliere" when="2024-10-18T16:54:03.911Z">Test.</change>
             <change who="#mmoliere" when="2024-10-17T13:24:02.012Z">Test.</change>
             <change who="#mmoliere" when="2024-10-17T13:15:41.983Z">Test entry.</change>
@@ -104,13 +116,13 @@
                 <date>11th century</date>
                 <incipit xml:lang="en">Incipit</incipit>
                 <explicit xml:lang="en">Explicit</explicit>
-                <quote xml:lang="en" type="chapter" source=""><p>Chapter heading</p><p> </p><p/></quote>
-                <bibl xml:id="jalit-orgbiblZS456QGQ" type="mentioned">
+                <quote xml:lang="en" type="chapter" source=""><p>Chapter heading </p><p>  </p><p/></quote>
+                <bibl xml:id="jalit-orgbiblZS456QGQ">
                     <idno>Alfasi, David Ben Abraham,</idno>
                     <title>Solomon Leon Skoss, Alfasi, David Ben Abraham, in Encyclopaedia Judaica (Detroit: Gale, 2007).</title>
                     <ptr target="https://jalit.org/bibl/ZS456QGQ"/>
                 </bibl>
-                <bibl xml:id="jalit-orgbibl2U7HBX7C" type="translated">
+                <bibl xml:id="jalit-orgbibl2U7HBX7C">
                     <idno>Daniel al-Qûmisî's commentary on Leviticus, from the Geniza</idno>
                     <title>Sandor Scheiber, Daniel Al-Qûmisî’s Commentary on Leviticus, from the Geniza, Acta Orientalia (Budapest), 1984, 201–14.</title>
                     <ptr target="https://jalit.org/bibl/2U7HBX7C"/>
