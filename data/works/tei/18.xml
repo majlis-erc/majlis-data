@@ -70,16 +70,13 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -87,16 +84,14 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </editorialDecl>
             <classDecl>
@@ -115,7 +110,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2025-02-27T12:55:41.091Z">Bibl.</change><change who="#rboehm" when="2024-11-18T09:57:25.088Z">test v</change>
+            <change who="#rboehm" when="2025-03-01T12:17:28.202Z">bibl. added type</change><change who="#rboehm" when="2025-02-27T12:55:41.091Z">Bibl.</change>
+            <change who="#rboehm" when="2024-11-18T09:57:25.088Z">test v</change>
             <change who="#rboehm" when="2024-11-09T11:59:34.548Z">test iv</change>
             <change who="#rboehm" when="2024-11-08T14:10:47.394Z">test iii</change>
             <change who="#rboehm" when="2024-09-06T10:32:39.152Z">work record created</change>
@@ -137,19 +133,21 @@
                 <date>c. 927</date>
                 <note><p>
 <lb/>  </p><p>  </p><p>  </p><p/></note>
-                <bibl xml:id="jalit-orgbibl3XIE4SF4">
-                        <idno/>
-                        <title>Leon Nemoy, ed., Kitāb al-Anwār wal-Marāqib: Code of Karaite Law, 5 vols. (New York: Alexander Kohut Memorial Foundation, 1939).</title>
-                        <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
-                    </bibl><bibl xml:id="jalit-orgbiblI6M2SV5V">
-                        <idno/>
-                        <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: الجزء الأول, ed. Leon Nemoy, Ḥusayn ʿAbd al-Badīʿ Ḥusayn, and Aḥmad Maḥmūd Huwaydī, 1 vols., Silsilat al-Turāṯ al-Ḥaḍārī (Cairo: al-Hayʾa al-Miṣriyya al-ʿĀmma lil-Kitāb, 2019).</title>
-                        <ptr target="https://jalit.org/bibl/I6M2SV5V"/>
-                    </bibl><bibl xml:id="jalit-orgbiblGPITFXIA">
-                        <idno/>
-                        <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: كتاب الشرائع الكبير, ed. Leon Nemoy et al., 7 vols., Dirāsāt Yahūdiyya wa-Isrāʾīliyya 11 (Cairo: al-Baḥr al-Aḥmar, 2024), https://www.neelwafurat.com/itempage.aspx?id=egb302820-5323132&amp;search=books.</title>
-                        <ptr target="https://jalit.org/bibl/GPITFXIA"/>
-                    </bibl>
+                <bibl xml:id="jalit-orgbibl3XIE4SF4" type="edited">
+                    <idno/>
+                    <title>Leon Nemoy, ed., Kitāb al-Anwār wal-Marāqib: Code of Karaite Law, 5 vols. (New York: Alexander Kohut Memorial Foundation, 1939).</title>
+                    <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
+                </bibl>
+                <bibl xml:id="jalit-orgbiblI6M2SV5V" type="edited">
+                    <idno/>
+                    <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: الجزء الأول, ed. Leon Nemoy, Ḥusayn ʿAbd al-Badīʿ Ḥusayn, and Aḥmad Maḥmūd Huwaydī, 1 vols., Silsilat al-Turāṯ al-Ḥaḍārī (Cairo: al-Hayʾa al-Miṣriyya al-ʿĀmma lil-Kitāb, 2019).</title>
+                    <ptr target="https://jalit.org/bibl/I6M2SV5V"/>
+                </bibl>
+                <bibl xml:id="jalit-orgbiblGPITFXIA" type="edited">
+                    <idno/>
+                    <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: كتاب الشرائع الكبير, ed. Leon Nemoy et al., 7 vols., Dirāsāt Yahūdiyya wa-Isrāʾīliyya 11 (Cairo: al-Baḥr al-Aḥmar, 2024), https://www.neelwafurat.com/itempage.aspx?id=egb302820-5323132&amp;search=books.</title>
+                    <ptr target="https://jalit.org/bibl/GPITFXIA"/>
+                </bibl>
             </bibl>
         </body>
     </text>
