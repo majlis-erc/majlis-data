@@ -110,7 +110,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2025-03-01T12:17:28.202Z">bibl. added type</change><change who="#rboehm" when="2025-02-27T12:55:41.091Z">Bibl.</change>
+            <change who="#rboehm" when="2025-03-03T11:27:58.777Z">bibl. II</change><change who="#rboehm" when="2025-03-01T12:17:28.202Z">bibl. added type</change>
+            <change who="#rboehm" when="2025-02-27T12:55:41.091Z">Bibl.</change>
             <change who="#rboehm" when="2024-11-18T09:57:25.088Z">test v</change>
             <change who="#rboehm" when="2024-11-09T11:59:34.548Z">test iv</change>
             <change who="#rboehm" when="2024-11-08T14:10:47.394Z">test iii</change>
@@ -133,14 +134,14 @@
                 <date>c. 927</date>
                 <note><p>
 <lb/>  </p><p>  </p><p>  </p><p/></note>
-                <bibl xml:id="jalit-orgbibl3XIE4SF4" type="edited">
+                <bibl xml:id="jalit-orgbibl3XIE4SF4" type="edited"><date>1939-1943</date>
                     <idno/>
                     <title>Leon Nemoy, ed., Kitāb al-Anwār wal-Marāqib: Code of Karaite Law, 5 vols. (New York: Alexander Kohut Memorial Foundation, 1939).</title>
                     <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
                 </bibl>
                 <bibl xml:id="jalit-orgbiblI6M2SV5V" type="edited">
                     <idno/>
-                    <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: الجزء الأول, ed. Leon Nemoy, Ḥusayn ʿAbd al-Badīʿ Ḥusayn, and Aḥmad Maḥmūd Huwaydī, 1 vols., Silsilat al-Turāṯ al-Ḥaḍārī (Cairo: al-Hayʾa al-Miṣriyya al-ʿĀmma lil-Kitāb, 2019).</title>
+                    
                     <ptr target="https://jalit.org/bibl/I6M2SV5V"/>
                 </bibl>
                 <bibl xml:id="jalit-orgbiblGPITFXIA" type="edited">
