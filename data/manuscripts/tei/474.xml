@@ -49,7 +49,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#mmoliere" when="2025-03-21T08:50:02.175Z">relation test</change><change who="#S.Mattutat" when="2024-09-18T11:03:52.951Z">Heritage Data (Note, Author, Transcription, Title of Publication).</change>
+            <change who="#mmoliere" when="2025-03-21T10:19:47.944Z">Test relation</change><change who="#mmoliere" when="2025-03-21T08:50:02.175Z">relation test</change>
+            <change who="#S.Mattutat" when="2024-09-18T11:03:52.951Z">Heritage Data (Note, Author, Transcription, Title of Publication).</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
@@ -168,19 +169,22 @@
                         </decoDesc>
                         <additions>
                             <list>
-                                <item xml:id="add-1111">
-      <objectType>Certificates of endowment</objectType>
-      <locus from="109r" to=""/>
-      <quote type="transcription" xml:lang="he"><p>קדש] ליי׳ אלהי ישראל לא ימכר ולא יגאל הקדישה [או]תו בהיה בת המשכיל יוסף בן אברהם על 
-<lb/>[ע]דת בני מקרא השומרים המועדים על ראית [ה]יריח היושבים בירושלים</p></quote>
-      <quote type="translation" xml:lang="en"><p>An endowment to God, the God of Israel, it shall not be sold or redeemed. It was 
-<lb/>endowed by Bahiya, the daughter of the learned, Yosef ben Avraham, to the 
-<lb/>community of Qaraites, who observe the festivals according to the sighting of 
-<lb/>the new moon and settle in Jerusalem.</p></quote><note xml:lang=""/>
-      <listRelation>
-         <relation name="majlis:cited" ref="" active="https://jalit.org/person/34" passive="https://jalit.org/person/35" mutual=""/>
-      </listRelation>
-   </item>
+                                <item xml:id="add-1111"><listRelation>
+      <relation name="snap:daughterOf" ref="" active="https://jalit.org/person/34" passive="https://jalit.org/person/9" mutual=""/>
+   </listRelation>
+                                    <objectType>Certificates of endowment</objectType>
+                                    <locus from="109r" to=""/>
+                                    <quote type="transcription" xml:lang="he"><p>קדש] ליי׳ אלהי ישראל לא ימכר ולא יגאל הקדישה [או]תו בהיה בת המשכיל יוסף בן אברהם על 
+<lb/> [ע]דת בני מקרא השומרים המועדים על ראית [ה]יריח היושבים בירושלים</p></quote>
+                                    <quote type="translation" xml:lang="en"><p>An endowment to God, the God of Israel, it shall not be sold or redeemed. It was 
+<lb/> endowed by Bahiya, the daughter of the learned, Yosef ben Avraham, to the 
+<lb/> community of Qaraites, who observe the festivals according to the sighting of 
+<lb/> the new moon and settle in Jerusalem.</p></quote>
+                                    <note xml:lang=""/>
+                                    <listRelation>
+                                        <relation name="majlis:cited" ref="" active="https://jalit.org/person/34" passive="https://jalit.org/person/35" mutual=""/>
+                                    </listRelation>
+                                </item>
                             </list>
                         </additions>
                         <bindingDesc>
