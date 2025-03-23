@@ -110,7 +110,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2025-03-03T11:27:58.777Z">bibl. IV</change><change who="#rboehm" when="2025-03-01T12:17:28.202Z">bibl. added type</change>
+            <change who="#gschwarb" when="2025-03-23T08:23:52.231Z">Added Arabic script title</change><change who="#rboehm" when="2025-03-03T11:27:58.777Z">bibl. III</change>
+            <change who="#rboehm" when="2025-03-01T12:17:28.202Z">bibl. added type</change>
             <change who="#rboehm" when="2025-02-27T12:55:41.091Z">Bibl.</change>
             <change who="#rboehm" when="2024-11-18T09:57:25.088Z">test v</change>
             <change who="#rboehm" when="2024-11-09T11:59:34.548Z">test iv</change>
@@ -122,10 +123,10 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title type="majlis-headword" xml:lang="en" xml:id="title-1">Book of Lights and Watchtowers</title>
-                <title xml:lang="ar" type="majlis-headword" xml:id="title-2">Dummy title</title>
-                <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-3">כתאב אלאנואר ואלמראקב</title>
-                <author ref="https://jalit.org/person/279" cert="high">Yaʿqūb b. Yiṣḥaq al-Qirqisānī</author>
+                
+                <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-1">כתאב אלאנואר ואלמראקב</title><title xml:lang="ar" type="majlis-headword" xml:id="title-2">كتاب الأنوار والمراقب</title>
+                <title xml:lang="ar-Latn" xml:id="title-3">Kitāb al-Anwār wa-l-marāqib</title>
+                <title type="majlis-headword" xml:lang="en" xml:id="title-4">Book of Lights and Watchtowers</title><author ref="https://jalit.org/person/279" cert="high">Yaʿqūb b. Yiṣḥaq al-Qirqisānī</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>
                 <incipit xml:lang=""/>
@@ -140,10 +141,10 @@
                     <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
                 </bibl>
                 <bibl xml:id="jalit-orgbiblI6M2SV5V">
-                        <idno/>
-                        <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: الجزء الأول, ed. Leon Nemoy, Ḥusayn ʿAbd al-Badīʿ Ḥusayn, and Aḥmad Maḥmūd Huwaydī, 1 vols., Silsilat al-Turāṯ al-Ḥaḍārī (Cairo: al-Hayʾa al-Miṣriyya al-ʿĀmma lil-Kitāb, 2019).</title>
-                        <ptr target="https://jalit.org/bibl/I6M2SV5V"/>
-                    </bibl>
+                    <idno/>
+                    <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: الجزء الأول, ed. Leon Nemoy, Ḥusayn ʿAbd al-Badīʿ Ḥusayn, and Aḥmad Maḥmūd Huwaydī, 1 vols., Silsilat al-Turāṯ al-Ḥaḍārī (Cairo: al-Hayʾa al-Miṣriyya al-ʿĀmma lil-Kitāb, 2019).</title>
+                    <ptr target="https://jalit.org/bibl/I6M2SV5V"/>
+                </bibl>
                 <bibl xml:id="jalit-orgbiblGPITFXIA" type="edited">
                     <idno/>
                     <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, الأنوار والمراقب: كتاب الشرائع الكبير, ed. Leon Nemoy et al., 7 vols., Dirāsāt Yahūdiyya wa-Isrāʾīliyya 11 (Cairo: al-Baḥr al-Aḥmar, 2024).</title>
