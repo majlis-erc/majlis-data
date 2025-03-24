@@ -44,7 +44,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-03-24T12:11:23.378Z">Name correction</change><change who="#S.Mattutat" when="2024-12-13T14:50:03.786Z">Person: Personal Name</change>
+            <change who="#gschwarb" when="2025-03-24T12:11:23.378Z">Arabic name</change><change who="#S.Mattutat" when="2024-12-13T14:50:03.786Z">Person: Personal Name</change>
             <change who="#mmoliere" when="2024-07-01T16:53:10.627Z">Updated heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-05-07T12:40:34.447Z">Added heritage data</change>
@@ -61,35 +61,31 @@
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
                         <name>Abū l-Ṭayyib Šmuʾel b. Bišr b. Manṣūr</name>
                     </persName>
-                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                    
+                    
+                    <persName type="alternate" xml:lang="he" xml:id="name-3">
                         <name/>
                     </persName>
-                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                    <persName type="alternate" xml:lang="he" xml:id="name-4">
                         <name/>
                     </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-5">
-                        <name/>
-                    </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-6">
-                        <name/>
-                    </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-7">
-                        <addName xml:id="sh-ar" type="shuhra"/>
-                        <addName xml:id="is-ar" type="ism"/>
-                        <addName xml:id="na-ar" type="nasab"/>
+                    <persName type="canon" xml:lang="ar" xml:id="name-5">
+                        <addName xml:id="sh-ar" type="shuhra">أبو الطيب الجبلي</addName>
+                        <addName xml:id="is-ar" type="ism">شموال</addName>
+                        <addName xml:id="na-ar" type="nasab">ابن بشر بن منصور</addName>
                         <addName xml:id="ni-ar" type="nisbah">الجبلي</addName>
                         <addName xml:id="ku-ar" type="kunya">أبو الطيب</addName>
-                        <addName xml:id="la-ar" type="laqab"/>
+                        <addName xml:id="la-ar" type="laqab">الشيخ</addName>
                     </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah">אלג'בלי</addName>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-6">
+                        <addName ref="#sh-ar" type="shuhra">אבו אלטייב אלג̇בלי</addName>
+                        <addName ref="#is-ar" type="ism">שמואל</addName>
+                        <addName ref="#na-ar" type="nasab">אבן בשר אבן מצור</addName>
+                        <addName ref="#ni-ar" type="nisbah">אלג̇בלי</addName>
                         <addName ref="#ku-ar" type="kunya">אבו אלטייב</addName>
-                        <addName ref="#la-ar" type="laqab"/>
+                        <addName ref="#la-ar" type="laqab">אלשיך̇</addName>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-7">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
                         <addName ref="#na-ar" type="nasab"/>
@@ -97,14 +93,14 @@
                         <addName ref="#ku-ar" type="kunya">Abū l-Ṭayyib</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-10">
+                    <persName type="canon" xml:lang="he" xml:id="name-8">
                         <forename xml:id="fn-he"/>
                         <addName xml:id="pa-he" type="patronym"/>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
+                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-9">
                         <forename ref="#fn-he" xml:lang="he-Latn"/>
                         <addName ref="#pa-he" type="patronym"/>
                         <addName ref="#ep-he" type="epithet"/>
