@@ -20,7 +20,8 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -43,7 +44,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-13T14:50:03.786Z">Person: Personal Name</change><change who="#mmoliere" when="2024-07-01T16:53:10.627Z">Updated heritage data.</change>
+            <change who="#gschwarb" when="2025-03-24T12:11:23.378Z">Name correction</change><change who="#S.Mattutat" when="2024-12-13T14:50:03.786Z">Person: Personal Name</change>
+            <change who="#mmoliere" when="2024-07-01T16:53:10.627Z">Updated heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-05-07T12:40:34.447Z">Added heritage data</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
@@ -57,7 +59,7 @@
                         <name>Samuʾel ben Ašer b. Manṣūr</name>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Abū l-Ṭayyib al-Ǧabalī</name>
+                        <name>Abū l-Ṭayyib Šmuʾel b. Bišr b. Manṣūr</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-3">
                         <name/>
