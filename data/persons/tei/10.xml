@@ -23,7 +23,8 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -33,8 +34,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -42,13 +42,13 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T10:32:37.901Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-06T17:54:53.273Z">Added place IDs and dates.</change>
+            <change who="#gschwarb" when="2025-03-24T11:36:51.285Z">Headword name Ar-En</change><change who="#S.Mattutat" when="2024-12-12T10:32:37.901Z">Person: Personal Name.</change>
+            <change who="#mmoliere" when="2024-12-06T17:54:53.273Z">Added place IDs and dates.</change>
             <change who="#mmoliere" when="2024-11-05T08:01:05.010Z">Added biography author.</change>
             <change who="#mmoliere" when="2024-09-03T08:15:24.136Z">Updated bibliography.</change>
             <change who="#mmoliere" when="2024-09-03T06:45:43.547Z">Added short biography by Gregor Schwarb.</change>
@@ -69,7 +69,7 @@
                         <name>Levi ben Yefet ben ʿElī</name>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Abū Saʿīd Levi ben Yefet ben ʿElī</name>
+                        <name>Abū Saʿīd Lāwī b. al-Ḥasan b. ʿAlī al-Baṣrī</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-3">
                         <name source="##isni">Abu Saʻid</name>
