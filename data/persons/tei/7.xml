@@ -68,52 +68,52 @@
                         <name>Yūsuf b. Nūḥ</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-3">
-                        <name source="##isni">Abu Jakub Josef ben Noah</name>
+                        <name source="#isni">Abu Jakub Josef ben Noah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-4">
-                        <name source="##isni">Abu Yaqub Yusuf ibn Nuh</name>
+                        <name source="#isni">Abu Yaqub Yusuf ibn Nuh</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-5">
-                        <name source="##isni">A̕bū Yaʿqūb Yūsuf ibn Nūḥ</name>
+                        <name source="#isni">A̕bū Yaʿqūb Yūsuf ibn Nūḥ</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-6">
-                        <name source="##isni">Ben Noaḥ, Joseph</name>
+                        <name source="#isni">Ben Noaḥ, Joseph</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-7">
-                        <name source="##isni">Ibn Nuh, Abu Yaqub Yusuf</name>
+                        <name source="#isni">Ibn Nuh, Abu Yaqub Yusuf</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-8">
-                        <name source="##isni">Ibn Nūḥ, ʾAbū Yaʿqūb Yūsuf</name>
+                        <name source="#isni">Ibn Nūḥ, ʾAbū Yaʿqūb Yūsuf</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-9">
-                        <name source="##isni">Josef ben Noah</name>
+                        <name source="#isni">Josef ben Noah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-10">
-                        <name source="##isni">Joseph Ben-Noah</name>
+                        <name source="#isni">Joseph Ben-Noah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-11">
-                        <name source="##isni">Nuh, Abu Yaqub Yusuf ibn</name>
+                        <name source="#isni">Nuh, Abu Yaqub Yusuf ibn</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-12">
-                        <name source="##isni">Yūsuf ibn Nūḥ</name>
+                        <name source="#isni">Yūsuf ibn Nūḥ</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-13">
-                        <name source="##isni">ʼAbū Yaʻqūb Yūsuf ibn Bakhtawaih</name>
+                        <name source="#isni">ʼAbū Yaʻqūb Yūsuf ibn Bakhtawaih</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-14">
-                        <name source="##isni">ʼAbū Yaʻqūb Yūsuf ibn Bakhtawi</name>
+                        <name source="#isni">ʼAbū Yaʻqūb Yūsuf ibn Bakhtawi</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-15">
-                        <name source="##isni">ʼAbū Yaʻqūb Yūsuf ibn Nūḥ</name>
+                        <name source="#isni">ʼAbū Yaʻqūb Yūsuf ibn Nūḥ</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-16">
-                        <name source="##isni">ʾAbū Yaʿqūb Yūsuf b. Nūḥ</name>
+                        <name source="#isni">ʾAbū Yaʿqūb Yūsuf b. Nūḥ</name>
                     </persName>
                     <persName type="alternate" xml:lang="ar-Latn" xml:id="name-17">
-                        <name source="##isni">Abū Yaʿqūb, Ibn Bakhtawayh</name>
+                        <name source="#isni">Abū Yaʿqūb, Ibn Bakhtawayh</name>
                     </persName>
                     <persName type="alternate" xml:lang="ar" xml:id="name-18">
-                        <name source="##isni">يوسف بن نوح</name>
+                        <name source="#isni">يوسف بن نوح</name>
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-19">
                         <addName xml:id="sh-ar" type="shuhra"/>
