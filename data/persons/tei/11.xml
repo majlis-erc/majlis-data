@@ -53,8 +53,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -62,21 +61,18 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
                 <interpretation>
                     <p>
-                        <p>
- </p>
+                        <p/>
                     </p>
                 </interpretation>
             </editorialDecl>
@@ -92,7 +88,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2025-01-30T00:41:26.340Z">Person: Personal name.</change><change who="#mmoliere" when="2024-12-06T17:56:31.636Z">Added place IDs and dates.</change>
+            <change who="#gschwarb" when="2025-03-24T14:37:52.910Z">rearranging order of names (canonical before attested)</change><change who="#S.Mattutat" when="2025-01-30T00:41:26.340Z">Person: Personal name.</change>
+            <change who="#mmoliere" when="2024-12-06T17:56:31.636Z">Added place IDs and dates.</change>
             <change who="#mmoliere" when="2024-12-06T15:16:38.491Z">Small correction.</change>
             <change who="#gschwarb" when="2024-11-14T12:39:38.473Z">same step repeated (again not recorded on first attempt!!!!!!!!!!!!!)</change>
             <change who="#gschwarb" when="2024-11-14T12:33:13.358Z">the same step repeated (even though submitted, confirmed, and merged, change was not registered!!!!!!!!!!!!!!!!)</change>
@@ -123,51 +120,54 @@
                     <persName type="majlis-headword" xml:lang="ar-Latn" xml:id="name-2">
                         <name>Abū l-Faraǧ Furqān b. Asad</name>
                     </persName><!--Attested and alternate names – we only provide references to the sources, but the names are not subdivided.-->
-                    <persName type="attested" xml:lang="ar" xml:id="name-3">
-                        <name>al-Šayḫ Abū l-Faraǧ Furqān b. Asad</name>
-                    </persName>
-                    <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name source="#jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
-                    </persName>
-                    <persName type="attested" xml:lang="ar-Hebr" xml:id="name-5">
-                        <name source="#jalit-orgbiblH2RX9HN3">אלשיך אבו אלפרג̇ פרקאן אבן אסד</name>
-                    </persName><!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
-                    Both names are given in the original scripts and then supplemented with transliterations.-->
-                    <persName type="canon" xml:lang="ar" xml:id="name-6"><addName ref="la-ar" type="laqab" xml:id="">المعلم</addName>
-                        <addName type="kunya" xml:id="ku-ar">أبو الفرج</addName>
-                        <addName type="ism" xml:id="is-ar">فرقان</addName>
-                        <addName type="nasab" xml:id="na-ar">بن أسد</addName>
-                        <addName type="nisbah" xml:id="ni-ar"/>
-                        <addName type="shuhra" xml:id="sh-ar"/>
-                    </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-7"><addName ref="#la-ar" type="laqab" xml:id="">אלמעלם</addName>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-3">
+                        <addName ref="#la-ar" type="laqab" xml:id="">אלמעלם</addName>
                         <addName ref="#ku-ar" type="kunya">אבו אלפרג̇</addName>
                         <addName ref="#is-ar" type="ism">פרקאן</addName>
                         <addName ref="#na-ar" type="nasab">אבן אסד</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#sh-ar" type="shuhra"/>
-                    </persName>
-                    <persName corresp="#name1-10" type="canon" xml:lang="ar-Latn" xml:id="name-8"><addName ref="#la-ar" type="laqab" xml:id="">al-Muʿallim</addName>
+                    </persName><persName type="canon" xml:lang="ar" xml:id="name-4">
+                        <addName ref="la-ar" type="laqab" xml:id="">المعلم</addName>
+                        <addName type="kunya" xml:id="ku-ar">أبو الفرج</addName>
+                        <addName type="ism" xml:id="is-ar">فرقان</addName>
+                        <addName type="nasab" xml:id="na-ar">بن أسد</addName>
+                        <addName type="nisbah" xml:id="ni-ar"/>
+                        <addName type="shuhra" xml:id="sh-ar"/>
+                    </persName><persName corresp="#name1-10" type="canon" xml:lang="ar-Latn" xml:id="name-5">
+                        <addName ref="#la-ar" type="laqab" xml:id="">al-Muʿallim</addName>
                         <addName ref="#ku-ar" type="kunya">Abū l-Faraǧ</addName>
                         <addName ref="#is-ar" type="ism">Furqān</addName>
                         <addName ref="#na-ar" type="nasab">b. Asad</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#sh-ar" type="shuhra"/>
-                    </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-9">
+                    </persName><persName type="canon" xml:lang="he" xml:id="name-6">
                         <forename xml:id="fn-he">ישועה</forename>
                         <addName type="patronym" xml:id="pa-he">בן יהודה</addName>
                         <addName type="epithet" xml:id="ep-he"/>
                         <addName type="acronym" xml:id="ac-he"/>
                         <addName type="shuhra" xml:id="sh-he"/>
-                    </persName>
-                    <persName type="canon" xml:lang="he-Latn" xml:id="name-10">
+                    </persName><persName type="canon" xml:lang="he-Latn" xml:id="name-7">
                         <forename ref="#fn-he" xml:lang="he-Latn">Yešuʿa</forename>
                         <addName ref="#a-he" type="patronym">ben Yehuda</addName>
                         <addName ref="#ep-he" type="epithet"/>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
+                    </persName><persName type="attested" xml:lang="ar" xml:id="name-8">
+                        <name>al-Šayḫ Abū l-Faraǧ Furqān b. Asad</name>
                     </persName>
+                    <persName type="attested" xml:lang="ar" xml:id="name-9">
+                        <name source="#jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
+                    </persName>
+                    <persName type="attested" xml:lang="ar-Hebr" xml:id="name-10">
+                        <name source="#jalit-orgbiblH2RX9HN3">אלשיך אבו אלפרג̇ פרקאן אבן אסד</name>
+                    </persName><!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
+                    Both names are given in the original scripts and then supplemented with transliterations.-->
+                    
+                    
+                    
+                    
+                    
                     <persName type="alternate" xml:lang="" xml:id="name-11">
                         <name source="#isni">Abū l-Faraj Furqān ibn Asad</name>
                     </persName>
