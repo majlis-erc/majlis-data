@@ -27,7 +27,8 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -36,19 +37,24 @@
                 <idno type="URI">https://jalit.org/person/3</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-11T14:54:39.376Z">Person: Personal name</change><change who="#mmoliere" when="2024-12-06T17:38:48.311Z">Added place IDs.</change>
+            <change who="#gschwarb" when="2025-03-24T11:12:18.353Z">Added Hamza (أ) to kunya</change><change who="#S.Mattutat" when="2024-12-11T14:54:39.376Z">Person: Personal name</change>
+            <change who="#mmoliere" when="2024-12-06T17:38:48.311Z">Added place IDs.</change>
             <change who="#mmoliere" when="2024-09-02T13:02:54.490Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
@@ -90,7 +96,7 @@
                         <addName xml:id="is-ar" type="ism"/>
                         <addName xml:id="na-ar" type="nasab"/>
                         <addName xml:id="ni-ar" type="nisbah"/>
-                        <addName xml:id="ku-ar" type="kunya">ابو السري</addName>
+                        <addName xml:id="ku-ar" type="kunya">أبو السري</addName>
                         <addName xml:id="la-ar" type="laqab">المعلم</addName>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-11">
