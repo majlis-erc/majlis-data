@@ -26,7 +26,8 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref="">admin</editor><editor role="creator" ref=""/>
+                <editor role="creator" ref="">admin</editor>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -45,7 +46,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T14:17:09.325Z">Person: Personal Name.</change><change who="#admin" when="2024-04-24T13:46:54.524Z">updated spelling</change>
+            <change who="#gschwarb" when="2025-03-24T12:35:24.568Z">Hamza (أبو)</change><change who="#S.Mattutat" when="2024-12-12T14:17:09.325Z">Person: Personal Name.</change>
+            <change who="#admin" when="2024-04-24T13:46:54.524Z">updated spelling</change>
             <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -76,7 +78,7 @@
                         <addName xml:id="is-ar" type="ism"/>
                         <addName xml:id="na-ar" type="nasab"/>
                         <addName xml:id="ni-ar" type="nisbah"/>
-                        <addName xml:id="ku-ar" type="kunya">ابو شيبه</addName>
+                        <addName xml:id="ku-ar" type="kunya">أبو شيبه</addName>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
