@@ -26,7 +26,8 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -36,8 +37,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -45,13 +45,13 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T10:11:58.992Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-06T17:52:20.882Z">Added place IDs.</change>
+            <change who="#gschwarb" when="2025-03-24T11:25:16.340Z">diacritical dot added to laqab אלשיך̇</change><change who="#S.Mattutat" when="2024-12-12T10:11:58.992Z">Person: Personal Name.</change>
+            <change who="#mmoliere" when="2024-12-06T17:52:20.882Z">Added place IDs.</change>
             <change who="#mmoliere" when="2024-11-05T08:00:36.150Z">Added biography author.</change>
             <change who="#mmoliere" when="2024-09-03T08:05:47.535Z">Corrected biography.</change>
             <change who="#mmoliere" when="2024-09-03T06:59:44.237Z">Added short biography by Gregor Schwarb.</change>
@@ -230,7 +230,7 @@
                         <addName ref="#na-ar" type="nasab">אבן אברהים</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#ku-ar" type="kunya">אבו יעקוב</addName>
-                        <addName ref="#la-ar" type="laqab">אלשיך</addName>
+                        <addName ref="#la-ar" type="laqab">אלשיך̇</addName>
                     </persName>
                     <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-52">
                         <addName ref="#sh-ar" type="shuhra">al-Šayḫ Abū Yaʿqūb; Abū Yaʿqūb "al-Ḍarīr"</addName>
