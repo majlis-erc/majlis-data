@@ -127,10 +127,10 @@
                         <name>al-Šayḫ Abū l-Faraǧ Furqān b. Asad</name>
                     </persName>
                     <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name source="#######jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
+                        <name source="#jalit-orgbiblH2RX9HN1">الشيخ أبو الفرج فرقان بن أسد</name>
                     </persName>
                     <persName type="attested" xml:lang="ar-Hebr" xml:id="name-5">
-                        <name source="#######jalit-orgbiblH2RX9HN3">אלשיך אבו אלפרג̇ פרקאן אבן אסד</name>
+                        <name source="#jalit-orgbiblH2RX9HN3">אלשיך אבו אלפרג̇ פרקאן אבן אסד</name>
                     </persName><!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
                     Both names are given in the original scripts and then supplemented with transliterations.-->
                     <persName type="canon" xml:lang="ar" xml:id="name-6"><addName ref="la-ar" type="laqab" xml:id="">المعلم</addName>
@@ -169,31 +169,31 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-11">
-                        <name source="#######isni">Abū l-Faraj Furqān ibn Asad</name>
+                        <name source="#isni">Abū l-Faraj Furqān ibn Asad</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-12">
-                        <name source="#######isni">Abu Alfarag' Farḳan ibn Asad</name>
+                        <name source="#isni">Abu Alfarag' Farḳan ibn Asad</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-13">
-                        <name source="#######isni">Jeshua ben Judah</name>
+                        <name source="#isni">Jeshua ben Judah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-14">
-                        <name source="#######isni">Yeshuʻah ben Yehudah</name>
+                        <name source="#isni">Yeshuʻah ben Yehudah</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-15">
-                        <name source="#######isni">אבו אלפרג פרקאן אבן אסד</name>
+                        <name source="#isni">אבו אלפרג פרקאן אבן אסד</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-16">
-                        <name source="#######isni">ישועה בן יהודה</name>
+                        <name source="#isni">ישועה בן יהודה</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-17">
-                        <name source="#######isni">ישועה בן יהודה (הקראי)</name>
+                        <name source="#isni">ישועה בן יהודה (הקראי)</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-18">
-                        <name source="#######isni">ישועה המלמד</name>
+                        <name source="#isni">ישועה המלמד</name>
                     </persName>
                     <persName type="alternate" xml:lang="ar-Latn" xml:id="name-19">
-                        <name source="#######isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
+                        <name source="#isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
                     </persName>
                     <birth>
                         <date>1001-1010</date>

@@ -72,25 +72,25 @@
                         <name>Abū Saʿīd Lāwī b. al-Ḥasan b. ʿAlī al-Baṣrī</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-3">
-                        <name source="##isni">Abu Saʻid</name>
+                        <name source="#isni">Abu Saʻid</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-4">
-                        <name source="##isni">Batsri, Laṿi bin al-Ḥasan</name>
+                        <name source="#isni">Batsri, Laṿi bin al-Ḥasan</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-5">
-                        <name source="##isni">Haleṿi, Leṿi ben Yefet</name>
+                        <name source="#isni">Haleṿi, Leṿi ben Yefet</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-6">
-                        <name source="##isni">Levi ben Japhet</name>
+                        <name source="#isni">Levi ben Japhet</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-7">
-                        <name source="##isni">Leṿi ben Yefet (ha-Leṿi)</name>
+                        <name source="#isni">Leṿi ben Yefet (ha-Leṿi)</name>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-8">
-                        <name source="##isni">לוי בן יפת (החוי)</name>
+                        <name source="#isni">לוי בן יפת (החוי)</name>
                     </persName>
                     <persName type="alternate" xml:lang="ar" xml:id="name-9">
-                        <name source="##isni">لاوي بن يافث</name>
+                        <name source="#isni">لاوي بن يافث</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-10">
                         <name>al-Muʿallim Abū Saʿīd</name>
