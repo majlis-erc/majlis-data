@@ -26,7 +26,8 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -49,7 +50,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T13:57:07.989Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-06T18:17:50.060Z">Added place ID.</change>
+            <change who="#gschwarb" when="2025-03-24T18:18:18.688Z">Long ī in Ḏahabī</change><change who="#S.Mattutat" when="2024-12-12T13:57:07.989Z">Person: Personal Name.</change>
+            <change who="#mmoliere" when="2024-12-06T18:17:50.060Z">Added place ID.</change>
             <change who="mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -61,7 +63,7 @@
                         <name/>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Abū Ḥātim al-Ḏahabi</name>
+                        <name>Abū Ḥātim al-Ḏahabī</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-3">
                         <name/>
