@@ -21,7 +21,8 @@
                 </respStmt>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -30,19 +31,24 @@
                 <idno type="URI">https://jalit.org/person/4</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-11T15:04:40.994Z">Person: Personal name</change><change who="#mmoliere" when="2024-09-02T13:34:45.839Z">Added heritage data.</change>
+            <change who="#gschwarb" when="2025-03-24T11:17:31.880Z">Added Hamza (أ) to kunya</change><change who="#S.Mattutat" when="2024-12-11T15:04:40.994Z">Person: Personal name</change>
+            <change who="#mmoliere" when="2024-09-02T13:34:45.839Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-07-01T16:54:20.267Z">Updated heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-05-07T12:46:49.282Z">Added heritage data</change>
@@ -418,14 +424,14 @@
                         <name>Yefet ben ʿEli</name>
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-122">
-                        <name>Abū ʿAlī al-Ḥasan b. ʿAlī al-Baṣrī	</name>
+                        <name>Abū ʿAlī al-Ḥasan b. ʿAlī al-Baṣrī</name>
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-123">
                         <addName xml:id="sh-ar" type="shuhra">المعلم أبو علي</addName>
                         <addName xml:id="is-ar" type="ism">الحسن</addName>
                         <addName xml:id="na-ar" type="nasab">ابن علي</addName>
                         <addName xml:id="ni-ar" type="nisbah">البصري</addName>
-                        <addName xml:id="ku-ar" type="kunya">ابو علي</addName>
+                        <addName xml:id="ku-ar" type="kunya">أبو علي</addName>
                         <addName xml:id="la-ar" type="laqab">المعلم</addName>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-124">
