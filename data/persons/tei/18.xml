@@ -20,7 +20,8 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -30,8 +31,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -39,13 +39,13 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T11:43:33.159Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-09-02T11:26:16.902Z">Revised heritage data.</change>
+            <change who="#gschwarb" when="2025-03-24T11:52:19.190Z">Avraham</change><change who="#S.Mattutat" when="2024-12-12T11:43:33.159Z">Person: Personal Name.</change>
+            <change who="#mmoliere" when="2024-09-02T11:26:16.902Z">Revised heritage data.</change>
             <change who="#mmoliere" when="2024-09-02T10:37:22.913Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
@@ -54,12 +54,12 @@
         <body>
             <listPerson>
                 <person xml:id="person-18">
-                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-1">
+                        <name>Avraham al-Harzilānī</name>
+                    </persName><persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-2">
                         <name/>
                     </persName>
-                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Abraham al-Harzilānī</name>
-                    </persName>
+                    
                     <persName type="attested" xml:lang="he" xml:id="name-3">
                         <name/>
                     </persName>
