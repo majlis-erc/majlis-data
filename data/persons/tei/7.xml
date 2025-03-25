@@ -22,7 +22,8 @@
                 <editor role="creator" ref="">admin</editor>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -32,8 +33,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -41,13 +41,13 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T09:52:08.565Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-09-02T13:36:33.424Z">Revised heritage data.</change>
+            <change who="#gschwarb" when="2025-03-25T08:26:48.737Z">Headword name</change><change who="#S.Mattutat" when="2024-12-12T09:52:08.565Z">Person: Personal Name.</change>
+            <change who="#mmoliere" when="2024-09-02T13:36:33.424Z">Revised heritage data.</change>
             <change who="#mmoliere" when="2024-07-01T16:43:55.721Z">Updated heritage data.</change>
             <change who="#mmoliere" when="2024-05-21">Added heritage data</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -65,7 +65,7 @@
                         <name>Yosef ben Noaḥ</name>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Yūsuf b. Nūḥ</name>
+                        <name>Abū Yaʿqūb Yūsuf b. Nūḥ</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-3">
                         <name source="#isni">Abu Jakub Josef ben Noah</name>
