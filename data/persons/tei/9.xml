@@ -50,7 +50,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-03-24T11:25:16.340Z">diacritical dot added to laqab אלשיך̇</change><change who="#S.Mattutat" when="2024-12-12T10:11:58.992Z">Person: Personal Name.</change>
+            <change who="#gschwarb" when="2025-03-25T11:58:31.037Z">Moved Abū Yaʿqūb "al-Ḍarīr" from shuhra to attested name form</change><change who="#gschwarb" when="2025-03-24T11:25:16.340Z">diacritical dot added to laqab אלשיך̇</change>
+            <change who="#S.Mattutat" when="2024-12-12T10:11:58.992Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-06T17:52:20.882Z">Added place IDs.</change>
             <change who="#mmoliere" when="2024-11-05T08:00:36.150Z">Added biography author.</change>
             <change who="#mmoliere" when="2024-09-03T08:05:47.535Z">Corrected biography.</change>
@@ -233,7 +234,7 @@
                         <addName ref="#la-ar" type="laqab">אלשיך̇</addName>
                     </persName>
                     <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-52">
-                        <addName ref="#sh-ar" type="shuhra">al-Šayḫ Abū Yaʿqūb; Abū Yaʿqūb "al-Ḍarīr"</addName>
+                        <addName ref="#sh-ar" type="shuhra">al-Šayḫ Abū Yaʿqūb</addName>
                         <addName ref="#is-ar" type="ism">Yūsuf</addName>
                         <addName ref="#na-ar" type="nasab">b. Ibrāhīm</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
@@ -253,7 +254,11 @@
                         <addName ref="#ep-he" type="epithet">ha-Roʾe</addName>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
-                    </persName>
+                    </persName><persName type="attested" xml:lang="ar-Latn" xml:id="name-55">
+      
+      
+      <name>Abū Yaʿqūb "al-Ḍarīr"</name>
+   </persName>
                     <birth>
                         <date cert="">961-680</date>
                         <placeName ref="https://jalit.org/place/10">Iraq</placeName>
