@@ -49,7 +49,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-03-25T07:08:01.724Z">Majlis transliterated Arabic headword of David ben Boʿaz</change><change who="#S.Mattutat" when="2024-12-12T09:42:11.229Z">Person: Personal Name.</change>
+            <change who="#gschwarb" when="2025-03-25T08:31:26.998Z"> Rearrange order of names</change><change who="#gschwarb" when="2025-03-25T07:08:01.724Z">Majlis transliterated Arabic headword of David ben Boʿaz</change>
+            <change who="#S.Mattutat" when="2024-12-12T09:42:11.229Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-06T17:40:12.077Z">Added date.</change>
             <change who="#mmoliere" when="2024-11-05T07:59:47.714Z">Added biography author.</change>
             <change who="#mmoliere" when="2024-09-03T06:58:43.172Z">Added short biography by Gregor Schwarb.</change>
@@ -74,19 +75,22 @@
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
                         <name>Abū Saʿīd Dāʾūd b. Būʿaz</name>
                     </persName>
-                    <persName type="attested" xml:lang="he" xml:id="name-3">
-                        <name/>
-                    </persName>
-                    <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name/>
-                    </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-5">
+                    
+                    
+                    <persName type="alternate" xml:lang="he" xml:id="name-3">
                         <name>דוד בן בעז</name>
                     </persName>
-                    <persName type="alternate" xml:lang="he-Latn" xml:id="name-6">
+                    <persName type="alternate" xml:lang="he-Latn" xml:id="name-4">
                         <name>Daṿid ben Boʻaz</name>
                     </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-7">
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-5">
+                        <addName ref="#sh-ar" type="shuhra">אלרייס אבו סעיד</addName>
+                        <addName ref="#is-ar" type="ism">דאוד</addName>
+                        <addName ref="#na-ar" type="nasab">אבן בועז</addName>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya">אבו סעיד</addName>
+                        <addName ref="#la-ar" type="laqab">אלרייס</addName>
+                    </persName><persName type="canon" xml:lang="ar" xml:id="name-6">
                         <addName xml:id="sh-ar" type="shuhra">الرئيس أبو سعيد</addName>
                         <addName xml:id="is-ar" type="ism">داود</addName>
                         <addName xml:id="na-ar" type="nasab">ابن بوعز</addName>
@@ -94,15 +98,8 @@
                         <addName xml:id="ku-ar" type="kunya">أبو سعيد</addName>
                         <addName xml:id="la-ar" type="laqab">الرئيس</addName>
                     </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
-                        <addName ref="#sh-ar" type="shuhra">אלרייס אבו סעיד</addName>
-                        <addName ref="#is-ar" type="ism">דאוד</addName>
-                        <addName ref="#na-ar" type="nasab">אבן בועז</addName>
-                        <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya">אבו סעיד</addName>
-                        <addName ref="#la-ar" type="laqab">אלרייס</addName>
-                    </persName>
-                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                    
+                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-7">
                         <addName ref="#sh-ar" type="shuhra">al-Raʾīs Abū Saʿīd</addName>
                         <addName ref="#is-ar" type="ism">Dāʾūd</addName>
                         <addName ref="#na-ar" type="nasab">b. Būʿaz</addName>
@@ -110,21 +107,25 @@
                         <addName ref="#ku-ar" type="kunya">Abū Saʿīd</addName>
                         <addName ref="#la-ar" type="laqab">al-Raʾīs</addName>
                     </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-10">
+                    <persName type="canon" xml:lang="he" xml:id="name-8">
                         <forename xml:id="fn-he">דוד</forename>
                         <addName xml:id="pa-he" type="patronym">בן בועז</addName>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
+                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-9">
                         <forename ref="#fn-he" xml:lang="he-Latn">David</forename>
                         <addName ref="#pa-he" type="patronym">ben Boʿaz</addName>
                         <addName ref="#ep-he" type="epithet"/>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <birth>
+                    <persName type="attested" xml:lang="ar" xml:id="name-10">
+                        <name/>
+                    </persName><persName type="attested" xml:lang="he" xml:id="name-11">
+                        <name/>
+                    </persName><birth>
                         <date cert=""/>
                         <placeName ref="" cert=""/>
                     </birth>
