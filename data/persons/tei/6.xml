@@ -25,7 +25,8 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -35,8 +36,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -44,13 +44,13 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T09:42:11.229Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-06T17:40:12.077Z">Added date.</change>
+            <change who="#gschwarb" when="2025-03-25T07:08:01.724Z">Majlis transliterated Arabic headword of David ben Boʿaz</change><change who="#S.Mattutat" when="2024-12-12T09:42:11.229Z">Person: Personal Name.</change>
+            <change who="#mmoliere" when="2024-12-06T17:40:12.077Z">Added date.</change>
             <change who="#mmoliere" when="2024-11-05T07:59:47.714Z">Added biography author.</change>
             <change who="#mmoliere" when="2024-09-03T06:58:43.172Z">Added short biography by Gregor Schwarb.</change>
             <change who="#mmoliere" when="2024-09-02T11:28:05.523Z">Revised heritage data.</change>
@@ -72,7 +72,7 @@
                         <name>David ben Boʿaz</name>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>al-Raʾīs Abū Saʿīd</name>
+                        <name>Abū Saʿīd Dāʾūd b. Būʿaz</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-3">
                         <name/>
