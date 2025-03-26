@@ -21,7 +21,8 @@
                 </respStmt>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -31,8 +32,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -40,13 +40,13 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-12T13:40:36.020Z">Person: Personal Name.</change><change who="#mmoliere" when="2024-12-06T18:07:50.054Z">Added place ID.</change>
+            <change who="#gschwarb" when="2025-03-26T07:10:50.516Z">Added Headword name, Ar-La</change><change who="#S.Mattutat" when="2024-12-12T13:40:36.020Z">Person: Personal Name.</change>
+            <change who="#mmoliere" when="2024-12-06T18:07:50.054Z">Added place ID.</change>
             <change who="#mmoliere" when="2024-07-01T16:41:51.913Z">Updated heritage data.</change>
             <change who="#mmoliere" when="2024-07-01T16:02:36.957Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -62,7 +62,7 @@
                         <name>David al-Fāsī</name>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name/>
+                        <name>Dāʾūd b. Ibrāhīm al-Fāsī</name>
                     </persName>
                     <persName type="alternate" xml:lang="" xml:id="name-3">
                         <name source="#isni">Alfasi, David ben Abraham</name>
