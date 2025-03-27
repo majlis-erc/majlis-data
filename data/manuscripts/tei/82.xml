@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -136,7 +136,7 @@
             <change who="#eporat" when="2019-12-07">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
-      </revisionDesc>
+      <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -166,11 +166,11 @@
                      <textLang mainLang="ar" otherLangs=""/>
                      <incipit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar-Hebr"></quote>
+                        <quote xml:lang="ar-Hebr"/>
                      </incipit>
                      <explicit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar"></quote>
+                        <quote xml:lang="ar"/>
                      </explicit>
                      <note xml:lang="ar-Hebr"><p>66א: ואעלם אן אלחכים דׄכר ד' אשיא והי שמים ורוח ומים וארץ. ימכן אנה קצד אלי ד' ענאצר אלתי תכלמת אלפלאספה̈ עליהא וערף אנהא מחדתׄה̈ וכל מחדַתׄ יתעלק במחדִתׄ. ודׄלך אן הדׄה אלד' ליס תכׄלו מן חרכה̈ וסכון ואלחרכה̈ ואלסכון הי מעאני גירהא והי מחדתׄה̈ ואלאגׄסאם לא תנפך מנהא פיגׄב אן יכו[ן] חכם אלאגׄסאם חכמהא פי אנהא מחדתׄה̈ וכ[ל] מחדַתׄ מתעלק במחדִתׄ פדלת עלי אנה להא מחדתׄא קאדרא אדׄ לם יתעדר עליה אחדאתׄהא.   101ב: וקו' ראשית דרכו ערף אן הדׄא אלעאלם הו אול מא כׄלק לם יסבקה תורה̈ כ"ק בעץׄ אלאולין. ולא פכר כ"ק בעץׄ אלגׄהאל. ולא צורה̈ ולא טינה̈ כ"ק אהל אלדהר ולא כאן פי צפה̈ אלוגׄוד סוא אללה אלקדים אלאזלי וחדׄה ולא שריך לה כמא דלת אלדלאיל אלעקליה̈ ואלנצוץ אלסמעיה̈ מנהא קו' ראשית דרכו.   115א: ערף אלחכים פי הדׄא אלפצל אנה בעדם אלנבי ינהתך אלקום ויקע בינהם אלכׄלף כמא תעלם מן כׄלף בית הליל ובית שמ[אי ו]אחרים וצדוק וביתוס וחסידים ופירושים וגירהם כדׄאך אלאן כׄלף בין אהל אלשאם ואהל אלעראק  ו[כ]דׄאך אלקראין רפע אללה מחלהם ובעת אליהם מורה צדק כ"ק הנה אנכי שלח לכם את אליה הנביא וג' והשיב לב אבות וג'.   19א: וצׄרב לדׄלך מתׄ[ל      ]שך פיה אחד אנה מן כדם ארצׄה וחרתׄ וזרע חצל לה טעאם כדׄאך מן עני בכתאב אללה תע' וכתב אלעלמא אנתפע מנהא וחצל לסהרה ותעבה וכדהה תמרה וגלה. ובעכסה מרדף ריקים חסר לב טׄ‎אהרה̈ הו מן אשתגל באלתצאחב לקום פֻרַג ועיארין הו נאקץ אלעקל. באטנה מן אשתגל בכתב אלאחאדיתׄ ואלאסמאר ואלכראפאת וכתב אלבראני ומא ליס פ[י]ה פאידה̈ ותרך תורת ייי ועלומהא ה[ו] לא שך חסר לב. 37א: נסק אליה בז לדבר יחבל לו לאן פי אלגׄהאל מן יטען פי כלאם אללה תעאלי בגׄהלה̈ ועלי נבואת אלאנביא ע' אלס' ערף אנה יפסד נפסה ויהלכהא. וקיל אן מן סווף אלתובה̈ הו מזרי בכלאם אללה עז וגׄל לאנה תקדם תוחלת ממשכה וג' וירא מצוה הוא ישלם קאל ובעכסה מן אתקא אללה ואעטא אלוציה̈ בחקהא לא יצׄיע לה דׄלך בל יכאפא באלגׄ[מי]ל פחת אלי אלמבאדרה̈ באלתובה̈ וערף א[ן] לה עלי דׄלך מכאפאה וכדׄלך גׄמיע אלוצאיא.</p></note>
                   </msItem>
@@ -205,17 +205,17 @@
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </collation>
                         <condition>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </summary>
                         <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
@@ -237,7 +237,7 @@
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate/>
-                        <note xml:lang=""></note>
+                        <note xml:lang=""/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
@@ -249,7 +249,7 @@
                      <summary xml:lang=""/>
                      <decoNote>
                         <desc/>
-                        <note xml:lang=""></note>
+                        <note xml:lang=""/>
                      </decoNote>
                   </decoDesc>
                   <additions>
@@ -259,21 +259,21 @@
                            <persName ref="" role="mentioned"/>
                            <locus from=""/>
                            <quote xml:lang="ar"><p>תם תפסיר משלי בעון אללה פלה אלחמד ואלשכר והו ממא עני בתאליפה עלי בן אברהם נ"נ מן כתב אלעלמא וממא סמעה מנהם וממא סנח לה ומא סהי פיה ימחול ייי לו ויכפר ברחמיו וברוב חסדיו.</p></quote>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </item>
                         <item xml:id="add-1112">
                            <objectType>Colophon</objectType>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
                            <quote xml:lang=""><p> </p></quote>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </item>
                         <item xml:id="add-1113">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote xml:lang=""></quote>
-                           <note xml:lang="he"></note>
+                           <quote xml:lang=""/>
+                           <note xml:lang="he"/>
                         </item>
                      </list>
                   </additions>
@@ -284,7 +284,7 @@
                            <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -316,9 +316,9 @@
                      <placeName ref=""/>
                      <locus from="" to=""/>
                      <persName role=""/>
-                     <quote xml:lang=""></quote>
+                     <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang=""></note>
+                     <note xml:lang=""/>
                   </provenance>
                   <acquisition>
                      <date/>
@@ -340,7 +340,7 @@
                            <title>Digital image online</title>
                            <publisher>National Library of
                         Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001532650205171"/>
+                           <ptr target="https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS#d=[[PNX_MANUSCRIPTS990001532650205171-1]]"/>
                         </bibl>
                      </listBibl>
                   </surrogates>

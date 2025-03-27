@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -49,7 +49,7 @@
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
             <change when="2022-10-01" who="#lgzella">Transcribed Harkavy heritage data.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
-        </revisionDesc>
+        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -258,7 +258,7 @@
                                 <item>
                                     <note xml:lang="en"><p>The “Harkavy-Cards” were the foundation for his handwritten four-volume inventory of the Yevr.-Arab. section of the Second Firkovich Collection. This inventory is today held at the Vernadsky Library of the Ukrainian Academy of Sciences in Kiev, and also served as basis of the library’s card catalog prepared over the years by Harkavy, F. Kokovtzov, R. Ravrebe, A. Vasilev and V. Lebedev. </p><p> </p></note>
                                     <persName>Avraham Harkavy</persName>
-                                    <quote xml:lang="he"><p>/ מפי' במדבר (ליפת, ועל הדף הראשון נמצאת הרשימה:  / זה הספר יש בו פיתרון ויקח קרח עד פרשת פינחס מפתרון המלמד יפת בן עלי הנכר אלבצרי ז̇ל̇ הקדישה אותו שרה בת ראובן שנפטרה מן העולם הזה נ̇נ̇ ואישה משה בן יפתח הכהן אלרחבי על עדת בני מקרא יעזרם אלום להיות בירושלם עיר הקדש תב̇ במ̇ בחצר המלמד יוסף בן בכתויה ת̇נ̇צ̇ב̇ה̇ תחת ידי הז̇ עזריה בן מצליח בן סהל המשכיל הכהן נ̇ע̇ זכ̇ לב̇ יקראו בו כל הנקבצים אל המקום הזה בימי השבתות ובימי המועדים קדש לי̇י אלקי ישראל לא ימכר ולא יגאל ולא יעבט ארור מוכרו וארור קונהו וארור מוציאו מן החצר הזה כי אם יהי פחד במדינה וחביאהו בעת הצרות בלבד וישובהו אל מקומו. ואלקי שראל יתן שכר טוב וגורל נעים למקדישו וכל מי שישמר הספר הזה ברוך הוא לי̇י וכל ישראל בכלל כל הברכות אמן ואמן:  ובפ' חקת (כ״א י״ד) כתוב: /  וקולה בספר מלחמות ייי אלדי יקרב מני אנה כאן למשה כתאבא מפרדא מדוון פיה מלחמות ייי אלתי פעלהא פי מצרים והי עשר מכות וקריעת ים סוף ומלחמת עמלק פמא שרחנא פי כתב זאת זכרון בספר אנה ישיר בה אלי הדא אלדיואן בעינה ומכתוב פיה מלחמת כנעני מדכורה פי הדה אלפרשה ומלחמת סיחון ועוג פהדא הו ספר מלחמות ייי פאמרה רב אלעאלמין ינקלה אלי אלתורה וידוונה פיהא פי מואצ̇ע מכתלפה עלי תרתיב אלזמאן ואלחואדית נט̇יר מא כאן ללמלוך דואוין משרוח פיהא אכבארהם ואמר אלאנביא תנקל בעצ̇הא אלי כתב אלאנביא פערף האהנא אן קצה נחל ארץ כתבת פי ג̇מלה ספר מלחמות ייי. / Bundle number:</p></quote>
+                                    <quote xml:lang="he"><p>/ מפי' במדבר (ליפת, ועל הדף הראשון נמצאת הרשימה:&#x2028; / זה הספר יש בו פיתרון ויקח קרח עד פרשת פינחס מפתרון המלמד יפת בן עלי הנכר אלבצרי ז̇ל̇ הקדישה אותו שרה בת ראובן שנפטרה מן העולם הזה נ̇נ̇ ואישה משה בן יפתח הכהן אלרחבי על עדת בני מקרא יעזרם אלום להיות בירושלם עיר הקדש תב̇ במ̇ בחצר המלמד יוסף בן בכתויה ת̇נ̇צ̇ב̇ה̇ תחת ידי הז̇ עזריה בן מצליח בן סהל המשכיל הכהן נ̇ע̇ זכ̇ לב̇ יקראו בו כל הנקבצים אל המקום הזה בימי השבתות ובימי המועדים קדש לי̇י אלקי ישראל לא ימכר ולא יגאל ולא יעבט ארור מוכרו וארור קונהו וארור מוציאו מן החצר הזה כי אם יהי פחד במדינה וחביאהו בעת הצרות בלבד וישובהו אל מקומו. ואלקי שראל יתן שכר טוב וגורל נעים למקדישו וכל מי שישמר הספר הזה ברוך הוא לי̇י וכל ישראל בכלל כל הברכות אמן ואמן:&#x2028; ובפ' חקת (כ״א י״ד) כתוב: / &#x2028;וקולה בספר מלחמות ייי אלדי יקרב מני אנה כאן למשה כתאבא מפרדא מדוון פיה מלחמות ייי אלתי פעלהא פי מצרים והי עשר מכות וקריעת ים סוף ומלחמת עמלק פמא שרחנא פי כתב זאת זכרון בספר אנה ישיר בה אלי הדא אלדיואן בעינה ומכתוב פיה מלחמת כנעני מדכורה פי הדה אלפרשה ומלחמת סיחון ועוג פהדא הו ספר מלחמות ייי פאמרה רב אלעאלמין ינקלה אלי אלתורה וידוונה פיהא פי מואצ̇ע מכתלפה עלי תרתיב אלזמאן ואלחואדית נט̇יר מא כאן ללמלוך דואוין משרוח פיהא אכבארהם ואמר אלאנביא תנקל בעצ̇הא אלי כתב אלאנביא פערף האהנא אן קצה נחל ארץ כתבת פי ג̇מלה ספר מלחמות ייי. / Bundle number:</p></quote>
                                     <bibl>
                                         <title>Avraham E. Harkavy. Harkavy Inventory</title>
                                         <ptr target="https://jalit.org/bibl/IBUQXI8Q"/>
@@ -294,7 +294,7 @@
                                 <bibl>
                                     <title>Digital image online</title>
                                     <publisher>National Library of Israel</publisher>
-                                    <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001384140205171"/>
+                                    <ptr target="https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS#d=[[PNX_MANUSCRIPTS990001384140205171-1]]"/>
                                 </bibl>
                             </listBibl>
                         </surrogates>

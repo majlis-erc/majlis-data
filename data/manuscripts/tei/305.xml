@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -55,7 +55,7 @@
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
             <change when="2022-10-01" who="#lgzella">Transcribed Harkavy heritage data.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
-        </revisionDesc>
+        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -268,7 +268,7 @@
                                 <bibl>
                                     <title>Digital image online</title>
                                     <publisher>National Library of Israel</publisher>
-                                    <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001384120205171"/>
+                                    <ptr target="https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS#d=[[PNX_MANUSCRIPTS990001384120205171-1]]"/>
                                 </bibl>
                             </listBibl>
                         </surrogates>

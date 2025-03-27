@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -132,7 +132,7 @@
          <change who="#rboehm" when="2024-04-14T18:55:11.245Z">Yevr.-Arab. I 2153</change><change who="#ykahan" when="2022-02-16">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
-      </revisionDesc>
+      <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -161,13 +161,13 @@
                      <textLang mainLang="ar" otherLangs=""/>
                      <incipit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar-Hebr"></quote>
+                        <quote xml:lang="ar-Hebr"/>
                      </incipit>
                      <explicit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar"></quote>
+                        <quote xml:lang="ar"/>
                      </explicit>
-                     <note xml:lang="he"></note>
+                     <note xml:lang="he"/>
                   </msItem>
                </msContents>
                <physDesc>
@@ -200,17 +200,17 @@
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </collation>
                         <condition>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </summary>
                         <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
@@ -232,7 +232,7 @@
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate>מאה יז-יח ?</origDate>
-                        <note xml:lang=""></note>
+                        <note xml:lang=""/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
@@ -244,7 +244,7 @@
                      <summary xml:lang=""/>
                      <decoNote>
                         <desc/>
-                        <note xml:lang=""></note>
+                        <note xml:lang=""/>
                      </decoNote>
                   </decoDesc>
                   <additions>
@@ -253,8 +253,8 @@
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote xml:lang=""></quote>
-                           <note xml:lang="he"></note>
+                           <quote xml:lang=""/>
+                           <note xml:lang="he"/>
                         </item>
                      </list>
                   </additions>
@@ -265,7 +265,7 @@
                            <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -297,9 +297,9 @@
                      <placeName ref=""/>
                      <locus from="" to=""/>
                      <persName role=""/>
-                     <quote xml:lang=""></quote>
+                     <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang=""></note>
+                     <note xml:lang=""/>
                   </provenance>
                   <acquisition>
                      <date/>
@@ -321,7 +321,7 @@
                            <title>Digital image online</title>
                            <publisher>National Library of
                         Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001539590205171"/>
+                           <ptr target="https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS#d=[[PNX_MANUSCRIPTS990001539590205171-1]]"/>
                         </bibl>
                      </listBibl>
                   </surrogates>

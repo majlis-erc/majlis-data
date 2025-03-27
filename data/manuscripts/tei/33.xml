@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -132,7 +132,7 @@
          <change who="#rboehm" when="2024-04-14T12:26:06.903Z">Yevr.-Arab. I 1740</change><change who="#eporat" when="2020-06-28">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
-      </revisionDesc>
+      <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -163,11 +163,11 @@
                      <textLang mainLang="ar" otherLangs=""/>
                      <incipit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar-Hebr"></quote>
+                        <quote xml:lang="ar-Hebr"/>
                      </incipit>
                      <explicit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar"></quote>
+                        <quote xml:lang="ar"/>
                      </explicit>
                      <note xml:lang="he"><p>דף כותרת: "כמל אלגׄזו אלאול מן גׄמלה̈ ה' אגׄזא כתאב אלזבור בע[ו]ן אללה ותאיי[ד]ה ויליה אלגׄזו אל[ב']" (דף 23ב); "כמל אלגׄזו אלגׄ בפצׄל אללה ויליה אלגׄזו אלד' נסלה אלמעונה̈ פי אכמאלה̈ ותאיידה" (דף 42א); "כמל אלגׄזו אלד' בחמד אללה ויליה אלה'" (דף 47א); "כתאב טלב אלחכמה̈ תרגׄמה̈... אלפיומי רצׄי אללה ענה" (דף 71ב). 15א: ופסרת "למה עזבתני" (תהלים כב:2) לא תתרכני למא ראית גׄמלה̈ אלקצה̈ לם תקתץׄ מסלה̈ ען תרך אללה לעבדה פי גמומה לם פעל אללה בה דׄלך ואנמא תקתצׄי אלנגׄאה̈ ואלאנקאץׄ (ואלאנקאדׄ) מנהא. וגׄעלת אלכלאם מוצולא והו אן יכון "למה עזבתני" "ואתה קדוש" (שם שם 4) לא תתרכני ואנת אלקדוס. ווגׄדת ללאמה̈ מגׄאזא תגׄעל פיה אלאתי כאלמאצׄי מן דׄלך קול אללה "אשרקה להם ואקבצם כי פדיתים" (זכריה י:8). ואיצׄא "והושבותים כי רחמתים" (שם שם:6) ואמתׄאלהא יריד כי ארחמם וכי אפדם פלדׄלך קלת לא תתרכני.</p></note>
                   </msItem>
@@ -202,17 +202,17 @@
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </collation>
                         <condition>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </summary>
                         <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
@@ -234,7 +234,7 @@
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate/>
-                        <note xml:lang=""></note>
+                        <note xml:lang=""/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
@@ -246,7 +246,7 @@
                      <summary xml:lang=""/>
                      <decoNote>
                         <desc/>
-                        <note xml:lang=""></note>
+                        <note xml:lang=""/>
                      </decoNote>
                   </decoDesc>
                   <additions>
@@ -256,15 +256,15 @@
                            <persName ref="" role="mentioned"/>
                            <locus from="71r"/>
                            <quote xml:lang="ar"><p>"כמל כתאב אלזבור בחמד אללה ועונה פמנה נסל תאיידנא עלי אכמאל מא סנח לנא (בכה"י: אנחלנא) מן כתב אלתנזיל ברחמתה ואנכמל פי שהר מרחשון סנה̈...תצילהו".</p></quote>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </item>
                         
                         <item xml:id="add-1112">
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote xml:lang=""></quote>
-                           <note xml:lang="he"></note>
+                           <quote xml:lang=""/>
+                           <note xml:lang="he"/>
                         </item>
                      </list>
                   </additions>
@@ -275,7 +275,7 @@
                            <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -307,9 +307,9 @@
                      <placeName ref=""/>
                      <locus from="" to=""/>
                      <persName role=""/>
-                     <quote xml:lang=""></quote>
+                     <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang=""></note>
+                     <note xml:lang=""/>
                   </provenance>
                   <acquisition>
                      <date/>
@@ -331,7 +331,7 @@
                            <title>Digital image online</title>
                            <publisher>National Library of
                         Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001535610205171"/>
+                           <ptr target="https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS#d=[[PNX_MANUSCRIPTS990001535610205171-1]]"/>
                         </bibl>
                      </listBibl>
                   </surrogates>

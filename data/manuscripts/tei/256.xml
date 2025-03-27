@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,18 +26,10 @@
                         (ARCHES) – Minerva Stiftung</orgName>
                 </funder>
                 <principal ref="#mgoldstein">Miriam Goldstein</principal>
-                <editor
-                    ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220"
-                    role="general" xml:id="mgoldstein">Miriam Goldstein</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349"
-                    role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <editor
-                    ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926"
-                    role="contributor" xml:id="eporat">Efraim ben Porat</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235"
-                    role="contributor" xml:id="dsklare">David Sklare</editor>
+                <editor ref=" https://en.arabic-lang.huji.ac.il/people/miriam-goldstein http://orcid.org/0000-0002-7629-4637 https://viaf.org/viaf/98388220" role="general" xml:id="mgoldstein">Miriam Goldstein</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981 https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+                <editor ref="https://www.firkovitchmanuscripts.org/index.php/efraim-ben-porat/                       https://viaf.org/viaf/297978926" role="contributor" xml:id="eporat">Efraim ben Porat</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235" role="contributor" xml:id="dsklare">David Sklare</editor>
                 <editor role="contributor" xml:id="ykahan">Yinon Kahan</editor>
                 <editor ref="" role="creator"/>
             </titleStmt>
@@ -54,51 +46,26 @@
                 <funder ref="https://erc.europa.eu/"> <orgName>ERC: European Research
                     Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-                    role="general"> Ronny Vollandt </editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-                    role="contributor" xml:id="gschwarb"> Gregor Schwarb </editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-                    role="contributor creator" xml:id="mmoliere"> Maximilian de Molière </editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html"
-                    role="contributor" xml:id="nurbiczek"> Nadine Urbiczek </editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html"
-                    role="contributor" xml:id="ptarras"> Peter Tarras </editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html"
-                    role="contributor" xml:id="afuchs"> Annabelle Fuchs </editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html"
-                    role="contributor" xml:id="lgzella"> Lea Gzella </editor>
-                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3"
-                    role="contributor" xml:id="plakteikina"> Polina Lakteikina </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general"> Ronny Vollandt </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb"> Gregor Schwarb </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor creator" xml:id="mmoliere"> Maximilian de Molière </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek"> Nadine Urbiczek </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras"> Peter Tarras </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs"> Annabelle Fuchs </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella"> Lea Gzella </editor>
+                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina"> Polina Lakteikina </editor>
                 <editor role="contributor" xml:id="rboehm"> Maurizio Boehm </editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html"
-                    role="contributor" xml:id="lporalla"> Lea Poralla </editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html"
-                    role="contributor" xml:id="lfroschmeier"> Lukas Froschmeier </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla"> Lea Poralla </editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier"> Lukas Froschmeier </editor>
                 <respStmt>
                     <resp>manuForma app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person"
-                        >Winona Salesky</name>
-                    <name
-                        ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html"
-                        type="person">Maximilian de Molière</name>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                    <name ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html" type="person">Maximilian de Molière</name>
                 </respStmt>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person"
-                        >Winona Salesky</name>
-                    <name
-                        ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html"
-                        type="person">Maximilian de Molière</name>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                    <name ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html" type="person">Maximilian de Molière</name>
                 </respStmt>
             </editionStmt>
             <publicationStmt>
@@ -127,7 +94,7 @@
             <change when="2022-10-01" who="#plakteikina">Transcribed Harkavy heritage data.</change>
             <change when="2023-12-13" who="#mmoliere">Converted Zotero and Word data into
                 TEI-File.</change>
-        </revisionDesc>
+        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -192,11 +159,11 @@
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"></quote>
+                                <quote xml:lang="ar-Hebr"/>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar"></quote>
+                                <quote xml:lang="ar"/>
                             </explicit>
                             <note xml:lang="ar-Hebr"><p> 28ב: "בשגם" (בראשית ו:3) אצלהא גם וילחקהא שין פתציר שגם וילחקהא בי פתציר "בשגם" והי במנזלה כבר "בשכבר" (קהלת ב:16) יעני בסבב איצׄא הו צאר מתׄל אלבהאים אלבשרייה̈ אלדׄי ליס להא תמייז פירתכבון שהואתהם. 29ב: קיל פי "רעת האדם" (בראשית ו:5) אנהא תׄלתׄ עיון אחדהא עבודה̈ זרה וגילוי עריות ושפיכות דמים ואשדהא פסאד אלאעתקאד פי מעני אלתוחיד לקולה "וכל יצר מחשבות לבו" (שם) יעני שר מחץׄ. 24א-ב: "אז הוחל לקרא בשם יי" (בראשית ד:26) קיל כאן (אנוש) טאיע ופי זמאנה אנבת אלדׄין כמא קאל "לקרא כלם בשם יי" (צפניה ג:9), "והיה כל אשר יקרא בשם יי ימלט" (יואל ג:5). וקיל "אז הוחל" אבתדת אלאנביא פי זמאן אנוש אן תעטׄ אלנאס ותסתדעיהם אלי טאעה̈ אללה. וכאן לנח פוק אלתסעין סנה̈ חין מאת אנוש וכאן יסתדעי וכאן אדם וחנוך וגירהם איצׄא לאן עבאדה̈ אלאותׄאן טׄהרת פי זמאן שת כמ' קאל ... בני שת. וקיל אבתדי אלנאס אן יצׄי[פ]ו אסם אללה אלי אסמאיהם כקולה "מחוייאל" (בראשית ד:18), "מתושאל" (בראשית ד:18), "מהללאל" (בראשית ה:12). וקיל גׄעלו להם מחראב יגׄתמעון אלי[ה] "לקרא בשם יי". וקיל אבתדי אן יסמי אסם אללה עלי [אל]אצנאם ואלאותׄאן. וקיל אבתדי אן יצלי ברכוע וסגׄוד. 81ב+83א: "משתאה" (בראשית כד:21) ק[יל] מתחייר כק' "והאדמה תשאה שממה" (ישעיהו ו:11) והי מן "שואה" (ישעיהו מז:11) יעני מפכר מטרק. וקיל מסתסקי והו יבעד. ואלמתרגׄם (אונקלוס) קאל "משתכל" יעני מתפרס גׄעל באלה מנהא. 15א-ב: ופי הדׄה אלקצה̈ מן "ויהיו שניהם ערומים" (בראשית ג:1) אלי "ויאמר יי אלהים הן האדם היה כאחד ממנו" וג' (בראשית ג:22) עשר מסאיל ופי תפסירהא עשר מסאיל ופי פנון אלעקובאת עשר מסאיל אלגׄמלה̈ תׄלתׄין מסלה̈. (בעמוד 16ב כתב המחבר שישיב בקצרה על השאלות האלה: וסנבין אלאגׄובה̈ פי דׄכר אלנכת חתי לא יטול אלכתאב). 78א-ב: קד יעיד אלפרץׄ לסבעה̈ וגׄוה נבינהא פי גיר הדׄא אלמוצׄע. ואמא אלכׄבר לג' וגׄוה והי לזיאדה̈ שרח או פי זמאן אכׄר או לאכׄראגׄ אלכׄבר אלי תאכיד (פירוש בראשית כג:20). 81א: וקולה "הוכחת" (בראשית כד:14) יעני אוצׄחת או ופקת ויבין וישתהר בדׄלכ אנהא ליצחק. 102א: "הלוא אצלת לי ברכה" (בראשית כז:36) קיל פוצׄת וקיל עזלת. 109ב: "וידר יעקב נדר לאמר" (בראשית כח:20) אעלם אן אלנדׄר ליס הו עקלי בל הו מן אלשרעי. ואול נדׄר סמענא הדׄא ויגׄוז אנה תעלם דׄלך מן אלסלף ויגׄוז אנה מבתדא. ואמא מן קאל אנה מן חסן ראיה̈ הו בעיד אדׄ לא יגׄוז אן ישרע עאקל עלי נפסה אדׄ ליס יעלם וגׄה אלמצלחה̈ פיה או אלמפסדה̈. 129א: "על כן לא יאכלו בני ישראל את גיד הנשה" וג' (בראשית לב:33) הדׄא קול סידנא משה ען אהל עצרה. 91א: נסק אכׄבאר יצחק אלי אכׄבאר אברהם ואכׄתצר אכׄבאר בני קטורה ובני ישמעאל אדׄ כאן אלגרץׄ אן יערפנא אכׄבאר אצולנא (פירוש בראשית כה:19). 57ב+54א: מסלה̈ אליס אללה עז וגׄל יעלם מא יכון קבל יכון ולם קאל "ואם לא" (בראשית יח:21) קול ממכן. קיל ליס דׄלך ען נפסה ואנמא אראד אן יבקי אלאמר ענד אברהם ואלרסל עלי חאלה והו אצל עמל אברהם עליה אלשפאעה̈ ואכׄר נקמתהם אלי בעד אטׄהאר אלמעגׄז לילזמהם אלחגׄה̈ ובאב מן אלרחמה̈.</p></note>
                         </msItem>
@@ -231,17 +198,17 @@
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""></note>
+                                    <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""></note>
+                                    <note xml:lang=""/>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
                                     <desc/>
-                                    <note xml:lang=""></note>
+                                    <note xml:lang=""/>
                                 </summary>
                                 <layout columns="" writtenLines="" xml:id="layout-1111">
                                     <locus from="" to=""/>
@@ -263,7 +230,7 @@
                                 <placeName ref=""/>
                                 <metamark function=""/>
                                 <origDate/>
-                                <note xml:lang=""></note>
+                                <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -275,7 +242,7 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""></note>
+                                <note xml:lang=""/>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -284,8 +251,8 @@
                                     <objectType/>
                                     <persName ref="" role="mentioned"/>
                                     <locus from="" to=""/>
-                                    <quote xml:lang=""></quote>
-                                    <note xml:lang="he"></note>
+                                    <quote xml:lang=""/>
+                                    <note xml:lang="he"/>
                                 </item>
                             </list>
                         </additions>
@@ -296,7 +263,7 @@
                                     <origPlace ref=""/>
                                     <origDate/>
                                     <material/>
-                                    <note xml:lang=""></note>
+                                    <note xml:lang=""/>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
@@ -352,9 +319,9 @@
                             <placeName ref=""/>
                             <locus from="" to=""/>
                             <persName role=""/>
-                            <quote xml:lang=""></quote>
+                            <quote xml:lang=""/>
                             <stamp/>
-                            <note xml:lang=""></note>
+                            <note xml:lang=""/>
                         </provenance>
                         <acquisition>
                             <date/>
@@ -375,18 +342,14 @@
                                 <bibl>
                                     <title>Digital image online</title>
                                     <publisher>National Library of Israel</publisher>
-                                    <ptr
-                                        target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001549700205171"
-                                    />
+                                    <ptr target="https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS#d=[[PNX_MANUSCRIPTS990001549700205171-1]]"/>
                                 </bibl>
                             </listBibl>
                         </surrogates>
                         <listBibl>
                             <bibl>
                                 <title>Ktiv</title>
-                                <ptr
-                                    target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001549700205171"
-                                />
+                                <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001549700205171"/>
                             </bibl>
                             <bibl>
                                 <title/>

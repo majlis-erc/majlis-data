@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -51,7 +51,7 @@
             <change who="#rboehm" when="2024-09-06T10:28:08.458Z">work title linkes</change><change who="#rboehm" when="2024-09-03T16:20:55.638Z">work title</change>
             <change who="#rboehm" when="2024-09-03T16:16:09.648Z">Yevr.-Arab. I 102 created</change>
             <change who="#" when=""/>
-        </revisionDesc>
+        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
