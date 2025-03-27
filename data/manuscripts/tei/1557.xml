@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,7 +47,7 @@
         <revisionDesc status="unpublished">
             <change who="#admin" when="2025-03-17T10:47:46.176Z">Adam 17</change><change who="#mmoliere" when="2024-12-11T20:31:26.796Z">Test 1</change>
             <change who="#" when=""/>
-        </revisionDesc>
+        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>

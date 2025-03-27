@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -46,7 +46,7 @@
         <revisionDesc>
             <change who="#S.Mattutat" when="2024-12-11T15:48:05.760Z">Heritage Data (Note, Author, Transcription, Title of Publication).</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
-        </revisionDesc>
+        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>

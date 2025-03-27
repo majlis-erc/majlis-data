@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -134,7 +134,7 @@
             <change who="#eporat" when="2019-12-03">Cataloged the manuscript into a Word-File.</change>
          <change who="#mmoliere" when="2023-12-13">Converted
                                 Zotero and Word data into TEI-File.</change>
-      </revisionDesc>
+      <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -165,11 +165,11 @@
                      <textLang mainLang="ar" otherLangs=""/>
                      <incipit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar-Hebr"></quote>
+                        <quote xml:lang="ar-Hebr"/>
                      </incipit>
                      <explicit>
                         <locus from="" to=""/>
-                        <quote xml:lang="ar"></quote>
+                        <quote xml:lang="ar"/>
                      </explicit>
                      <note xml:lang="he"><p>113: קאלת הדא אלפצל עלי תרתיב חרוף א"ב וקד כנא קלנא פי א"ב אלתי פי תהלות אן כל פצל עלי א"ב אנה גאמע ללמעאני אלמקול פי גנס דלך אלמעני ואנה אדא נקץ מנה חרף אנה יוג'ב נקץ אלמעני מתל חרף אלנון אלנאק[ץ] פי תהלה לדוד וחרף אלעין אלנאקץ פי לדוד אל וקד יכון חרף מתקדם עלי חרף מתל (ליתא בכה"י) אלפא אלמקדם עלי אלעין פי ג' פצול איכה וליס פי גמיע אלף בית אלתי פי אלקראן (בכה"י: אלקרבן!) גיר ג' מקולה עלי תרתיב אלף בית עלי אלכמאל והי אשרי תמימי דרך ואיכה ישבה בדד והדה ("אשת חיל") אלג'.   </p></note>
                   </msItem>
@@ -204,17 +204,17 @@
                            <formula/>
                            <unit/>
                            <catchwords/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </collation>
                         <condition>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                            <ab type="writing" rend=""/>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <summary>
                            <desc/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                         </summary>
                         <layout writtenLines="" columns="" xml:id="layout-1111">
                            <locus from="" to=""/>
@@ -236,7 +236,7 @@
                         <placeName ref=""/>
                         <metamark function=""/>
                         <origDate/>
-                        <note xml:lang=""></note>
+                        <note xml:lang=""/>
                      </handNote>
                   </handDesc>
                   <scriptDesc>
@@ -248,7 +248,7 @@
                      <summary xml:lang=""/>
                      <decoNote>
                         <desc/>
-                        <note xml:lang=""></note>
+                        <note xml:lang=""/>
                      </decoNote>
                   </decoDesc>
                   <additions>
@@ -257,8 +257,8 @@
                            <objectType/>
                            <persName ref="" role="mentioned"/>
                            <locus from="" to=""/>
-                           <quote xml:lang=""></quote>
-                           <note xml:lang="he"></note>
+                           <quote xml:lang=""/>
+                           <note xml:lang="he"/>
                         </item>
                      </list>
                   </additions>
@@ -269,7 +269,7 @@
                            <origPlace ref=""/>
                            <origDate/>
                            <material/>
-                           <note xml:lang=""></note>
+                           <note xml:lang=""/>
                            <dimensions>
                               <height unit="mm"/>
                               <width unit="mm"/>
@@ -301,9 +301,9 @@
                      <placeName ref=""/>
                      <locus from="" to=""/>
                      <persName role=""/>
-                     <quote xml:lang=""></quote>
+                     <quote xml:lang=""/>
                      <stamp/>
-                     <note xml:lang=""></note>
+                     <note xml:lang=""/>
                   </provenance>
                   <acquisition>
                      <date/>
@@ -325,7 +325,7 @@
                            <title>Digital image online</title>
                            <publisher>National Library of
                         Israel</publisher>
-                           <ptr target="https://www.nli.org.il/he/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS&amp;docid=PNX_MANUSCRIPTS990001523540205171"/>
+                           <ptr target="https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/viewerpage?vid=MANUSCRIPTS#d=[[PNX_MANUSCRIPTS990001523540205171-1]]"/>
                         </bibl>
                      </listBibl>
                   </surrogates>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,50 +6,27 @@
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de"
-                        >Ludwig-Maximilians-Universität München</orgName>)</sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName
-                        xml:lang="de">Institut für den Nahen und Mittleren
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren
                     Osten</orgName>)</sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de"
-                        >Europäischer Forschungsrat</orgName>)</funder>
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349"
-                    role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472"
-                    role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393"
-                    role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html"
-                    role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html"
-                    role="contributor" xml:id="ptarras">Peter Tarras</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html"
-                    role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html"
-                    role="contributor" xml:id="lgzella">Lea Gzella</editor>
-                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3"
-                    role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
+                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
                 <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html"
-                    role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html"
-                    role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person"
-                        >Winona Salesky</name>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
             </titleStmt>
@@ -83,7 +60,7 @@
                 quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
-        </revisionDesc>
+        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -221,12 +198,8 @@
                                             settle in Jerusalem.</p>
                                     </quote>
                                     <listRelation>
-                                        <relation name="majlis:endowed" ref=""
-                                            active="https://jalit.org/person/34"
-                                            passive="https://jalit.org/person/35" mutual=""/>
-                                        <relation name="snap:daughterOf" ref=""
-                                            active="https://jalit.org/person/34"
-                                            passive="https://jalit.org/person/9" mutual=""/>
+                                        <relation name="majlis:endowed" ref="" active="https://jalit.org/person/34" passive="https://jalit.org/person/35" mutual=""/>
+                                        <relation name="snap:daughterOf" ref="" active="https://jalit.org/person/34" passive="https://jalit.org/person/9" mutual=""/>
                                     </listRelation>
                                 </item>
                             </list>
@@ -365,9 +338,7 @@
                                 <bibl>
                                     <title>Digital image online</title>
                                     <publisher>British Library</publisher>
-                                    <ptr
-                                        target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2572_fs001r"
-                                    />
+                                    <ptr target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_2572_fs001r"/>
                                 </bibl>
                             </listBibl>
                         </surrogates>
