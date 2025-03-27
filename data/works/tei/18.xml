@@ -3,7 +3,9 @@
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Book of Lights and Watchtowers (Yaʿqūb b. Isḥāq al-Qirqisānī)</title>
-                <title xml:lang="ar">كتاب الأنوار والمراقب</title><title xml:lang="ar-he">כתאב אלאנואר ואלמראקב</title><title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <title xml:lang="ar">كتاب الأنوار والمراقب</title>
+                <title xml:lang="ar-he">כתאב אלאנואר ואלמראקב</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
@@ -110,7 +112,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#gschwarb" when="2025-03-24T12:53:07.055Z">record title, language versions</change><change who="#gschwarb" when="2025-03-23T08:23:52.231Z">Mistake in canonical name</change>
+            <change who="#rboehm" when="2025-03-27T13:22:20.237Z">test vi</change><change who="#gschwarb" when="2025-03-24T12:53:07.055Z">record title, language versions</change>
+            <change who="#gschwarb" when="2025-03-23T08:23:52.231Z">Mistake in canonical name</change>
             <change who="#rboehm" when="2025-03-03T11:27:58.777Z">bibl. III</change>
             <change who="#rboehm" when="2025-03-01T12:17:28.202Z">bibl. added type</change>
             <change who="#rboehm" when="2025-02-27T12:55:41.091Z">Bibl.</change>
@@ -128,7 +131,7 @@
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-2">كتاب الأنوار والمراقب</title>
                 <title xml:lang="ar-Latn" xml:id="title-3">Kitāb al-Anwār wa-l-marāqib</title>
                 <title type="majlis-headword" xml:lang="en" xml:id="title-4">Book of Lights and Watchtowers</title>
-                <author ref="https://jalit.org/person/279" cert="high">Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī</author>
+                <author ref="https://jalit.org/person/279" cert="medium">Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>
                 <incipit xml:lang=""/>
