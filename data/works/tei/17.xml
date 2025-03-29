@@ -26,40 +26,39 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
-            </titleStmt><editionStmt>
-            <edition>File Reused in the Project: "MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World"</edition>
-            <sponsor ref="https://www.uni-muenchen.de">
-                <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                    München</orgName>) </sponsor>
-            <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                    Osten</orgName>) </sponsor>
-            <funder ref="https://erc.europa.eu/">
-                <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
-            <principal ref="#rvollandt">Ronny Vollandt</principal>
-            <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
-                <persName>Ronny Vollandt</persName>
-                <date from="2021">2021-present</date>
-            </editor>
-            <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
-                <persName>Gregor Schwarb</persName>
-                <date from="2021">2021-present</date>
-            </editor>
-            <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
-                <persName>Nathan P. Gibson</persName>
-                <date from="2021">2021-present</date>
-            </editor>
-            <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
-                <persName>Maximilian de Molière</persName>
-                <date from="2021">2021-present</date>
-            </editor>
-            <respStmt>
-                <resp>Srophé app design and development by</resp>
-                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-            </respStmt>
-        </editionStmt>
-            
+                </respStmt>
+                <editor role="creator" ref=""/>
+            </titleStmt>
+            <editionStmt>
+                <edition>File Reused in the Project: "MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World"</edition>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
+                <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
+                <funder ref="https://erc.europa.eu/">
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
+                <principal ref="#rvollandt">Ronny Vollandt</principal>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+                    <persName>Ronny Vollandt</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
+                    <persName>Gregor Schwarb</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+                    <persName>Nathan P. Gibson</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+                    <persName>Maximilian de Molière</persName>
+                    <date from="2021">2021-present</date>
+                </editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -67,20 +66,30 @@
                 <idno type="URI">https://jalit.org/work/17</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
-                        <p><p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p></p>
-                        <p><p>Under the following terms: Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p></p>
+                        <p>
+                            <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        </p>
+                        <p>
+                            <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                        </p>
+                        <p>
+                            <p>Under the following terms: Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                        </p>
                     </licence>
                 </availability>
                 <date/>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p>
+                    <p>Born digital.</p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p><p>This record created following the Jalit.org guidelines. Documentation available at:</p></p>
+                <p>
+                    <p>This record created following the Jalit.org guidelines. Documentation available at:</p>
+                </p>
             </editorialDecl>
             <classDecl>
                 <taxonomy>
@@ -98,16 +107,17 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2024-09-06T09:47:30.300Z">work entry created.</change><change who="" when=""/>
+            <change who="#rboehm" when="2025-03-29T10:20:44.588Z">meta data</change><change who="#rboehm" when="2024-09-06T09:47:30.300Z">work entry created.</change>
+            <change who="" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="" type="majlis-headword" xml:id="title-1"/>
+                <title xml:lang="en" type="majlis-headword" xml:id="title-1">Commentary on the Book of Numbers</title>
                 <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
                 <title xml:lang="" xml:id="title-3"/>
-                <author ref="" cert=""/>
+                <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <incipit xml:lang=""/>
@@ -115,7 +125,7 @@
                 <quote xml:lang="" type="" source=""/>
                 <date/>
                 <note><p>
-<lb/>                    </p></note>
+<lb/> </p></note>
                 <bibl xml:id="">
                     <title/>
                     <citedRange unit="p"/>
