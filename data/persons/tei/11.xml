@@ -19,31 +19,6 @@
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                 </respStmt>
-                <editor ref="" role="creator">admin</editor>
-                <editor ref="" role="creator">admin</editor>
-                <editor ref="" role="creator">admin</editor>
-                <editor ref="" role="creator">admin</editor>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator">admin</editor>
-                <editor ref="" role="creator">admin</editor>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator">admin</editor>
-                <editor ref="" role="creator">admin</editor>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator"/>
-                <editor ref="" role="creator"/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -91,8 +66,6 @@
             <change who="#gschwarb" when="2025-03-24T14:37:52.910Z">rearranging order of names (canonical before attested)</change><change who="#S.Mattutat" when="2025-01-30T00:41:26.340Z">Person: Personal name.</change>
             <change who="#mmoliere" when="2024-12-06T17:56:31.636Z">Added place IDs and dates.</change>
             <change who="#mmoliere" when="2024-12-06T15:16:38.491Z">Small correction.</change>
-            <change who="#gschwarb" when="2024-11-14T12:39:38.473Z">same step repeated (again not recorded on first attempt!!!!!!!!!!!!!)</change>
-            <change who="#gschwarb" when="2024-11-14T12:33:13.358Z">the same step repeated (even though submitted, confirmed, and merged, change was not registered!!!!!!!!!!!!!!!!)</change>
             <change who="#gschwarb" when="2024-11-14T12:14:30.770Z">Full name version for Canon name (Arabic) of Yešuʿa ben Yehuda</change>
             <change who="#mmoliere" when="2024-10-28T16:17:13.936Z">Added role.</change>
             <change when="2024-09-02" who="#mmoliere">Revised heritage data.</change>
