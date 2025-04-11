@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><change who="#" when=""/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Saʿadya Gaʾon</title>
+                <title level="a" xml:lang="en">Šmuʾel ben Ḥofni Gaʾon</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -75,23 +75,25 @@
                 <p>Born digital.</p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc status="unpublished"/>
+        <revisionDesc status="unpublished">
+            <change who="#rboehm" when="2025-03-29T11:36:02.672Z">Created entry.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listPerson>
                 <person xml:id="person-40">
-                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1"><name>Saʿadya ben Yosef Gaʾon</name>
-                        
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                        <name/>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Saʿīd b. Yūsuf al-Fayyūmī</name>
+                        <name/>
                     </persName>
                     <persName type="majlis-headword" xml:lang="he" xml:id="name-3">
-                        <name>סעדיה בן יוסף גאון</name>
+                        <name>שמואל בן חפני גאון</name>
                     </persName>
-                    <persName type="majlis-headword" xml:lang="ar" xml:id="name-4">
-                        <name>سعيد بن يوسف الفيومي</name>
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                        <name/>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-5">
                         <name/>
@@ -141,16 +143,16 @@
                     <state>
                         <label cert="">Author</label>
                     </state>
-                    <birth><placeName cert="" ref="">Dilāṣ</placeName><date cert="">882</date>
-                        
-                        
+                    <birth>
+                        <date when="" notBefore="" notAfter="" cert=""/>
+                        <placeName ref="" cert=""/>
                     </birth>
                     <death>
-                        <date when="" notBefore="" notAfter="" cert="">942</date>
+                        <date when="" notBefore="" notAfter="" cert="">1013</date>
                         <placeName ref="" cert="">Sura</placeName>
                     </death>
                     <floruit from="" to="" notBefore="" notAfter="" cert=""/>
-                    <sex cert="high" value="">Male</sex>
+                    <sex cert="" value="">Male</sex>
                     <faith cert="">Rabbanite</faith>
                     <occupation type="" cert=""/>
                     <residence>
