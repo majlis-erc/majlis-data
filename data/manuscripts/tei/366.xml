@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -27,7 +26,8 @@
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -36,25 +36,31 @@
                 <idno type="URI">https://jalit.org/manuscript/366</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2024-05-14</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-09-06T10:34:46.257Z">work title linked</change><change who="#rboehm" when="2024-08-30T01:13:34.594Z">work title</change>
+            <change who="#rboehm" when="2025-04-13T18:06:30.368Z">ID fix</change><change who="#rboehm" when="2024-09-06T10:34:46.257Z">work title linked</change>
+            <change who="#rboehm" when="2024-08-30T01:13:34.594Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#lgzella">Translated Harkavy heritage data.</change>
             <change when="2022-10-01" who="#lgzella">Transcribed Harkavy heritage data.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
-        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
+            <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -81,7 +87,7 @@
                         <msItem class="" xml:id="item-11">
                             <locus from="1r" to="28v"/>
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
-                            <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
+                            <author ref="https://jalit.org/person/38">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
@@ -158,7 +164,7 @@
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="" script="" style="" xml:lang="">
-                                <note xml:lang="he"><p/><p> </p><p/></note>
+                                <note xml:lang="he"><p/><p>  </p><p/></note>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
@@ -210,7 +216,7 @@
 <lb/> 28 л. 
 <lb/> II 
 <lb/> corresponds to p. 2 
-<lb/>  </p><p> </p><p/></quote>
+<lb/>  </p><p>  </p><p/></quote>
                                     <bibl>
                                         <title>Avraham E. Harkavy. Harkavy Cards (ru.)</title>
                                         <ptr target="https://jalit.org/bibl/BTVBSSXB"/>
@@ -227,7 +233,7 @@
 <lb/> From a Qaraite Book of Laws 
 <lb/> 28 folios 
 <lb/> II 
-<lb/>  </p><p> </p><p/></quote>
+<lb/>  </p><p>  </p><p/></quote>
                                     <bibl>
                                         <title>Avraham E. Harkavy. Harkavy Cards (en.)</title>
                                         <citedRange unit="p"/>
