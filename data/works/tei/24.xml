@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Grammar (Yūsuf Ibn Nūḥ)</title>
+                <title level="a" xml:lang="en">Grammar (Yosef ben Noaḥ)</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -90,7 +90,7 @@
                 <title xml:lang="en" type="majlis-headword" xml:id="title-1">Grammar</title>
                 <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
                 <title xml:lang="" xml:id="title-3"/>
-                <author ref="https://jalit.org/person/7">Yūsuf b. Nūḥ</author>
+                <author ref="https://jalit.org/person/7">Yosef ben Noaḥ</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <incipit xml:lang=""/>
