@@ -78,7 +78,7 @@
                 <title xml:lang="" type="majlis-headword" xml:id="title-1"/>
                 <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
                 <title xml:lang="" xml:id="title-3"/>
-                <author ref="" cert=""/>
+                <author ref="https://jalit.org/person/10" cert=""/>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <incipit xml:lang=""/>
