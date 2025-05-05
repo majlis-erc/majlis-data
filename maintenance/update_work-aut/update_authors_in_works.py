@@ -4,7 +4,7 @@ import os
 import re
 
 # === CONFIGURATION ===
-base_dir = '../../majlis-data'
+base_dir = '../..'
 work_aut_info = "works_authors_info.tsv"         # path to your original TSV file
 works_dir = "data/works/tei"                # folder containing work XML files
 works_authors_updated = "works_authors_info_updated.tsv"  # name of the new TSV file

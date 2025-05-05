@@ -5,7 +5,7 @@ import glob
 from lxml import etree
 
 # Directories containing the TEI XML files
-base_dir = '../../majlis-data'
+base_dir = '../..'
 works_dir = 'data/works/tei'
 persons_dir = 'data/persons/tei'
 # Output TSV file
@@ -52,6 +52,7 @@ NS = {
 
 # 3. Walk through every work file
 rows = []
+print(os.path.join(base_dir, works_dir, '*.xml'))
 for work_path in sorted(glob.glob(os.path.join(base_dir, works_dir, '*.xml'))):
     print(work_path)
     work_fname = os.path.basename(work_path)
