@@ -45,6 +45,7 @@ def patch_element(el: etree._Element):
 
 # ——— 3) Process each XML file ———
 for xml_file, file_rows in by_file.items():
+    # enable recover so duplicate xml:ids won't block parsing
     parser = etree.XMLParser(remove_blank_text=False, recover=True)
     tree   = etree.parse(xml_file, parser)
     updated_any = False
@@ -54,32 +55,27 @@ for xml_file, file_rows in by_file.items():
         fixed_val = fix_text(orig_val)
 
         if fixed_val != orig_val:
-            # mark for TSV
             row["updated_value"] = fixed_val
 
-            # locate the exact element
             elems = tree.xpath(row["xpath"], namespaces=NS)
             if not elems:
                 print(f"Warning: XPath {row['xpath']} not found in {xml_file}")
                 continue
 
-            # patch it in-memory
             patch_element(elems[0])
             updated_any = True
         else:
             row["updated_value"] = "not updated"
 
-    # ——— write new XML only if something changed ———
+    # overwrite the original file if any change occurred
     if updated_any:
-        base, ext    = os.path.splitext(xml_file)
-        updated_file = f"{base}_updated{ext}"
         tree.write(
-            updated_file,
+            xml_file,
             encoding="utf-8",
             xml_declaration=True,
-            pretty_print=False,    # minimize unrelated formatting changes
+            pretty_print=False,    # avoid unrelated formatting changes
         )
-        print(f"Wrote updated XML to: {updated_file}")
+        print(f"Overwrote original XML: {xml_file}")
 
 # ——— 4) Write the new TSV ———
 with open(OUTPUT_TSV, "w", newline="", encoding="utf-8") as f:
@@ -88,4 +84,4 @@ with open(OUTPUT_TSV, "w", newline="", encoding="utf-8") as f:
     for row in rows:
         writer.writerow(row)
 
-print(f"Done. Updated TSV written to {OUTPUT_TSV}")
+print(f"Done. Overwrote XMLs in place and wrote updated TSV to {OUTPUT_TSV}")
