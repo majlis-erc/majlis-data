@@ -37,8 +37,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -46,13 +45,13 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2025-04-13T17:49:42.150Z">ID fix</change><change who="#rboehm" when="2024-09-06T10:44:48.521Z">work title linked</change>
+            <change who="#rboehm" when="2025-05-07T11:21:19.747Z">Bundle Nr.</change><change who="#rboehm" when="2025-04-13T17:49:42.150Z">ID fix</change>
+            <change who="#rboehm" when="2024-09-06T10:44:48.521Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T15:41:34.065Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
@@ -232,7 +231,7 @@
                                 <item>
                                     <note xml:lang="en"><p>The “Harkavy-Cards” were the foundation for his handwritten four-volume inventory of the Yevr.-Arab. section of the Second Firkovich Collection. This inventory is today held at the Vernadsky Library of the Ukrainian Academy of Sciences in Kiev, and also served as basis of the library’s card catalog prepared over the years by Harkavy, F. Kokovtzov, R. Ravrebe, A. Vasilev and V. Lebedev. </p><p>  </p><p/></note>
                                     <persName>Avraham Harkavy</persName>
-                                    <quote xml:lang="he"><p>/ מפי׳ במדבר (בכתב ערבי / Bundle number: </p><p/></quote>
+                                    <quote xml:lang="he"><p>/ מפי׳ במדבר (בכתב ערבי / Bundle number: 396</p><p/></quote>
                                     <bibl>
                                         <title>Avraham E. Harkavy. Harkavy Inventory</title>
                                         <ptr target="https://jalit.org/bibl/IBUQXI8Q"/>
