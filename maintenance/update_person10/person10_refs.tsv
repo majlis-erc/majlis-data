@@ -1,0 +1,36 @@
+file_path	element_name	xpath	ref_value	element_value_old
+../../data/works/tei/21.xml	author	/*/*[2]/*/*/*[4]	https://jalit.org/person/10	Levi ben Yefet ben ʿElī
+../../data/works/tei/20.xml	author	/*/*[2]/*/*/*[4]	https://jalit.org/person/10	Levi ben Yefet ben ʿElī
+../../data/manuscripts/tei/801.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1541.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1283.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/485.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1168.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/360.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1210.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/949.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/953.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/484.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/311.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1315.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/955.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/946.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/361.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/313.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/561.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1540.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/656.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1133.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1131.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/787.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/954.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/345.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/948.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1288.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/486.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/952.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/947.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/951.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/331.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli (?)
+../../data/manuscripts/tei/1539.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
+../../data/manuscripts/tei/1130.xml	author	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	https://jalit.org/person/10	Levi ben Yefet ben ʿEli
