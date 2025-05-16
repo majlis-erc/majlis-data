@@ -26,7 +26,8 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref=""/>
+                </respStmt>
+                <editor role="creator" ref=""/>
             </titleStmt>
             <editionStmt>
                 <edition n="0.1-dev"/>
@@ -38,20 +39,30 @@
                 <idno type="URI">https://jalit.org/work/21</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">
-                        <p><p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p></p>
-                        <p><p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p></p>
-                        <p><p>Under the following terms: Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p></p>
+                        <p>
+                            <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        </p>
+                        <p>
+                            <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                        </p>
+                        <p>
+                            <p>Under the following terms: Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                        </p>
                     </licence>
                 </availability>
                 <date/>
             </publicationStmt>
             <sourceDesc>
-                <p><p>Born digital.</p></p>
+                <p>
+                    <p>Born digital.</p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p><p>This record created following the Jalit.org guidelines. Documentation available at:</p></p>
+                <p>
+                    <p>This record created following the Jalit.org guidelines. Documentation available at:</p>
+                </p>
             </editorialDecl>
             <classDecl>
                 <taxonomy>
@@ -69,13 +80,14 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2024-09-06T11:33:06.353Z">entry created</change><change who="" when=""/>
+            <change who="#rboehm" when="2025-05-16T10:40:55.490Z">title fix</change><change who="#rboehm" when="2024-09-06T11:33:06.353Z">entry created</change>
+            <change who="" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="" type="majlis-headword" xml:id="title-1"/>
+                <title xml:lang="en" type="majlis-headword" xml:id="title-1">The Book of Grace</title>
                 <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
                 <title xml:lang="" xml:id="title-3"/>
                 <author ref="https://jalit.org/person/10" cert="">Levi ben Yefet ben ʿEli</author>
@@ -86,7 +98,7 @@
                 <quote xml:lang="" type="" source=""/>
                 <date/>
                 <note><p>
-<lb/>                    </p></note>
+<lb/> </p></note>
                 <bibl xml:id="">
                     <title/>
                     <citedRange unit="p"/>
