@@ -38,8 +38,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>
- </p>
+                            <p/>
                         </p>
                     </licence>
                 </availability>
@@ -47,13 +46,13 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>
- </p>
+                    <p/>
                 </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-03-24T11:12:18.353Z">Added Hamza (أ) to kunya</change><change who="#S.Mattutat" when="2024-12-11T14:54:39.376Z">Person: Personal name</change>
+            <change who="#mmoliere" when="2025-05-21T11:09:08.347Z">Updated biography.</change><change who="#gschwarb" when="2025-03-24T11:12:18.353Z">Added Hamza (أ) to kunya</change>
+            <change who="#S.Mattutat" when="2024-12-11T14:54:39.376Z">Person: Personal name</change>
             <change who="#mmoliere" when="2024-12-06T17:38:48.311Z">Added place IDs.</change>
             <change who="#mmoliere" when="2024-09-02T13:02:54.490Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -63,7 +62,10 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="person-3">
+                <person xml:id="person-3"><floruit>
+      <date cert="">ca. 950</date>
+      <placeName cert="" ref=""/>
+   </floruit>
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
                         <name>Sahl ben Maṣliaḥ</name>
                     </persName>
@@ -130,22 +132,22 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="" source="#">910</date>
-                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
+                        <date cert="" source="#"/>
+                        <placeName ref="https://jalit.org/place/3"/>
                     </birth>
                     <death>
-                        <date cert="" source="#">990</date>
+                        <date cert="" source="#"/>
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
                         <date cert=""/>
                         <placeName ref="" cert=""/>
                     </floruit>
-                    <sex cert=""/>
-                    <faith cert=""/>
-                    <occupation type="" cert=""/>
+                    <sex cert="">Male</sex>
+                    <faith cert="">Karaite</faith>
+                    <occupation type="" cert="high">teacher</occupation>
                     <residence>
-                        <placeName ref="" cert=""/>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </residence>
                     <bibl type="bibliography" xml:id="jalit-orgbiblU38PSHB2">
                         <title>“סהל בן מצליח הכהן.” , () http://www.daat.ac.il/encyclopedia.</title>
