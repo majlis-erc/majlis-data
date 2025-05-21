@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"><change who="#" when=""/>
-    <teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Book of Commandments (Sahl ben Maṣliaḥ)</title>
@@ -72,7 +71,9 @@
                 </keywords>
             </textClass>
         </profileDesc>
-        <revisionDesc status="draft"/>
+                 <revisionDesc status="draft">
+                     <change who="#mmoliere" when="2025-05-21">Created record.</change>
+                 </revisionDesc>
     </teiHeader>
     <text>
         <body>
