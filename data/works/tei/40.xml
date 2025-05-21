@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"><change who="#" when=""/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -72,7 +72,9 @@
                 </keywords>
             </textClass>
         </profileDesc>
-        <revisionDesc status="draft"/>
+        <revisionDesc status="draft">
+            <change who="#mmoliere" when="2025-05-21">Created record.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
