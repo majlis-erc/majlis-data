@@ -31,11 +31,11 @@ def add_editor_to_file(file_path):
         editor.set('role', 'entry-editor')
         ts.append(editor)
 
-    tree.write(file_path.replace(".xml", "_new.xml"),
+    tree.write(file_path, #.replace(".xml", "_new.xml"),
                encoding='utf-8',
                xml_declaration=True,
                pretty_print=True)
-    print(f"  [+] updated {os.path.basename(file_path)}")
+    print(f"  [+] updated {file_path}")
 
 
 def main():
