@@ -41,7 +41,7 @@
             <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
-         </titleStmt>
+         <editor role="entry-editor"/></titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
                                         prepared for electronic publication in the project: MAJLIS:

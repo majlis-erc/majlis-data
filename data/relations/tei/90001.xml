@@ -23,7 +23,7 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-            <editor role="contributor">Jonathan Beise</editor><editor role="contributor">Nathan P. Gibson</editor><editor role="contributor">Sara Mattutat</editor><editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor></titleStmt>
+            <editor role="contributor">Jonathan Beise</editor><editor role="contributor">Nathan P. Gibson</editor><editor role="contributor">Sara Mattutat</editor><editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor role="entry-editor"/></titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>

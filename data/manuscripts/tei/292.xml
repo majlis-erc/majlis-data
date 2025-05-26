@@ -26,7 +26,7 @@
                 <editor role="contributor" xml:id="ykahan">Yinon Kahan</editor>
                 <editor ref="" role="creator"/>
                 <editor role="creator" ref=""/>
-            </titleStmt>
+            <editor role="entry-editor"/></titleStmt>
             <editionStmt>
                 <edition>Cataloging data from the ARCHES project re-used and prepared for electronic publication in the project: MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</edition>
                 <sponsor ref="https://www.uni-muenchen.de">
