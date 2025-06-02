@@ -14,12 +14,22 @@ EDITION_TITLE = (
 'MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World'
 )
 ADDITIONAL_NAMES = [
+    "Gregor Schwarb",
+    "Maximilian de Molière",
+    "Nadine Urbiczek",
+    "Peter Tarras",
+    "Annabelle Fuchs",
+    "Lea Gzella",
+    "Polina Lakteikina",
+    "Maurizio Boehm",
+    "Lea Poralla",
+    "Lukas Froschmeier",
     "Ezra Stadler",
     "Jakob Shub-Oseledchik",
     "Sara Mattutat",
     "Jonathan Beise",
     "Masoumeh Seydi",
-    "Nathan P. Gibson"
+    "Nathan P. Gibson",
 ]
 # Directory containing your XML files:
 INPUT_GLOB = r"../../data/*/tei/*.xml"  # adjust as needed
@@ -29,6 +39,7 @@ parser = etree.XMLParser(
     recover=True, ns_clean=False, remove_blank_text=False
 )
 # ————————————————————————————————————————————————————————————————
+
 
 def process_file(path):
     tree = etree.parse(path, parser)
@@ -116,7 +127,7 @@ def process_file(path):
             parent.append(new_el)
 
     # Write back, preserving pretty-print
-    tree.write(path,#.replace(".xml", "_new.xml"),
+    tree.write(path, #.replace(".xml", "_new.xml"),
                encoding="utf-8",
                xml_declaration=True,
                pretty_print=True)
@@ -129,7 +140,8 @@ def process_file(path):
     #     )
     #     w.writeheader()
     #     w.writerows(rows)
-    return True
+    # Return existing_names and updated list
+    return True, set(existing_map), sorted_names
 
 def main():
     all_xml = glob.glob(INPUT_GLOB)
@@ -138,10 +150,40 @@ def main():
         # fn = ../../data/<subdir>/tei/<file>
         if os.path.basename(os.path.dirname(os.path.dirname(fn))) != "bibl"
     ]
+
+    report_rows = []  # to collect (file_path, existing_names, updated_names)
+    updated_count = 0
     for filepath in xml_files:
         print(filepath)
-        updated = process_file(filepath)
-        print(f"{'Updated' if updated else 'Skipped '} {filepath}")
+        try:
+            changed, existing, updated = process_file(filepath)
+            if changed:
+                print(f"[UPDATED] {filepath}")
+                updated_count += 1
+            else:
+                print(f"[SKIPPED] {filepath} (no matching title/edition)")
+
+            # For skipped files, existing and updated are both []
+            report_rows.append((filepath, existing, updated))
+        except Exception as e:
+            print(f"[ERROR] {filepath}: {e}")
+            # In case of error, still append with empty lists
+            report_rows.append((filepath, [], []))
+
+    # 8) Write TSV report
+    # report_path = os.path.join(folder_path, "editor_report.tsv")
+    report_path = "majlis_missing-assoc_report.tsv"
+    with open(report_path, "w", encoding="utf-8") as out:
+        # Header
+        out.write("file_path\texisting_contributors\tafter_contributors\n")
+        for fpath, existing, updated in report_rows:
+            existing_str = "; ".join(existing)
+            updated_str = "; ".join(updated)
+            out.write(f"{fpath}\t{existing_str}\t{updated_str}\n")
+
+    print(f"\nDone. {updated_count} file(s) were modified.")
+    print(f"Report written to: {report_path}")
+
 
 if __name__ == "__main__":
     main()
