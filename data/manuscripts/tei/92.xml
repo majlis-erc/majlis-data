@@ -34,7 +34,7 @@
                 <editor role="contributor" xml:id="ykahan">Yinon Kahan</editor>
                 <editor ref="" role="creator"/>
                 <editor ref="" role="creator"/>
-            <editor role="entry-editor"/></titleStmt>
+            </titleStmt>
             <editionStmt>
                 <edition>Cataloging data from the ARCHES project re-used and prepared for electronic
                     publication in the project: MAJLIS: The Transformation of Jewish Literature in
@@ -69,7 +69,7 @@
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb"> Gregor Schwarb </editor>
                 <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras"> Peter Tarras </editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek"> Nadine Urbiczek </editor>
-                </editionStmt>
+                <editor role="entry-editor"/></editionStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>

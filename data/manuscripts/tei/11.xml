@@ -33,7 +33,7 @@
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235" role="contributor" xml:id="dsklare">David Sklare</editor>
                 <editor role="contributor" xml:id="ykahan">Yinon Kahan</editor>
                 <editor ref="" role="creator"/>
-            <editor role="entry-editor"/></titleStmt>
+            </titleStmt>
             <editionStmt>
                 <edition>Cataloging data from the ARCHES project re-used and prepared for electronic
                     publication in the project: MAJLIS: The Transformation of Jewish Literature in
@@ -65,7 +65,7 @@
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                     <name ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html" type="person">Maximilian de Molière</name>
                 </respStmt>
-            <editor role="contributor">Jonathan Beise</editor><editor role="contributor">Nathan P. Gibson</editor><editor role="contributor">Sara Mattutat</editor><editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor></editionStmt>
+            <editor role="contributor">Jonathan Beise</editor><editor role="contributor">Nathan P. Gibson</editor><editor role="contributor">Sara Mattutat</editor><editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor role="entry-editor"/></editionStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>

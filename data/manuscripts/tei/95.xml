@@ -40,7 +40,7 @@
             <editor xml:id="dsklare" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/david-sklare/index.html http://orcid.org/0000-0002-8607-4945                        https://viaf.org/viaf/19822235">David Sklare</editor>
             <editor xml:id="ykahan" role="contributor">Yinon Kahan</editor>
                 <editor role="creator" ref=""/><editor role="creator" ref=""/>
-         <editor role="entry-editor"/></titleStmt>
+         </titleStmt>
          <editionStmt>
             <edition>Cataloging data from the ARCHES project re-used and
                                         prepared for electronic publication in the project: MAJLIS:
@@ -112,7 +112,7 @@
                Nadine Urbiczek
                
             </editor>
-            </editionStmt>
+            <editor role="entry-editor"/></editionStmt>
          <publicationStmt>
             <authority>
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic
