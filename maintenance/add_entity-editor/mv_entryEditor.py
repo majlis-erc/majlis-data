@@ -92,7 +92,7 @@ def move_or_remove_editor(file_path, report_rows):
 
         # Write changes back to file
         tree.write(
-            file_path,
+            file_path.replace(".xml", "_new.xml"),
             encoding='utf-8',
             xml_declaration=True,
             pretty_print=True
@@ -148,7 +148,7 @@ def main():
             move_or_remove_editor(xml_path, report_rows)
 
     # Write report to TSV in the input directory
-    report_path = os.path.join(directory, "report.tsv")
+    report_path = os.path.join(directory, "maintenance/add_entry-editor/entry-editor_update_report.tsv")
     with open(report_path, 'w', encoding='utf-8') as out_f:
         # Header
         out_f.write(
