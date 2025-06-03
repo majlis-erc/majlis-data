@@ -74,7 +74,7 @@
                <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                <name type="person" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html">Maximilian de Molière</name>
             </respStmt>
-         <editor role="contributor">Jonathan Beise</editor><editor xml:id="rboehm" role="contributor">
+         <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor xml:id="rboehm" role="contributor">
                Maurizio Boehm
                
             </editor>
@@ -94,7 +94,7 @@
                Polina Lakteikina
                
             </editor>
-            <editor role="contributor">Sara Mattutat</editor><editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
+            <editor role="contributor">Sara Mattutat</editor><editor role="contributor">Maximilian de Molière</editor><editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">
                Lea Poralla
                
             </editor>
@@ -111,7 +111,7 @@
                Nadine Urbiczek
                
             </editor>
-            <editor role="entry-editor"/></editionStmt>
+            </editionStmt>
          <publicationStmt>
             <authority>
                <ref target="https://jalit.org">jalit.org – Jewish-Arabic

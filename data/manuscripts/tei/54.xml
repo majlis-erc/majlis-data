@@ -59,16 +59,16 @@
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                     <name ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html" type="person">Maximilian de Molière</name>
                 </respStmt>
-            <editor role="contributor">Jonathan Beise</editor><editor role="contributor" xml:id="rboehm"> Maurizio Boehm </editor>
+            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor" xml:id="rboehm"> Maurizio Boehm </editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier"> Lukas Froschmeier </editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs"> Annabelle Fuchs </editor>
                 <editor role="contributor">Nathan P. Gibson</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella"> Lea Gzella </editor>
                 <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina"> Polina Lakteikina </editor>
-                <editor role="contributor">Sara Mattutat</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla"> Lea Poralla </editor>
+                <editor role="contributor">Sara Mattutat</editor><editor role="contributor">Maximilian de Molière</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla"> Lea Poralla </editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb"> Gregor Schwarb </editor>
                 <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras"> Peter Tarras </editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek"> Nadine Urbiczek </editor>
-                <editor role="entry-editor"/></editionStmt>
+                </editionStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>

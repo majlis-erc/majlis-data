@@ -65,7 +65,7 @@
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                     <name ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html" type="person">Maximilian de Molière</name>
                 </respStmt>
-            <editor role="contributor">Jonathan Beise</editor><editor role="contributor">Nathan P. Gibson</editor><editor role="contributor">Sara Mattutat</editor><editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor role="entry-editor"/></editionStmt>
+            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor">Maurizio Boehm</editor><editor role="contributor">Lukas Froschmeier</editor><editor role="contributor">Annabelle Fuchs</editor><editor role="contributor">Nathan P. Gibson</editor><editor role="contributor">Lea Gzella</editor><editor role="contributor">Polina Lakteikina</editor><editor role="contributor">Sara Mattutat</editor><editor role="contributor">Maximilian de Molière</editor><editor role="contributor">Lea Poralla</editor><editor role="contributor">Gregor Schwarb</editor><editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor role="contributor">Peter Tarras</editor><editor role="contributor">Nadine Urbiczek</editor></editionStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
