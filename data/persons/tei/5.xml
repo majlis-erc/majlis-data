@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,10 +18,18 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref="">admin</editor>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
-            <editor role="contributor">Jonathan Beise</editor><editor role="contributor">Nathan P. Gibson</editor><editor role="contributor">Sara Mattutat</editor><editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor role="creator" ref=""/>
+                <editor role="creator" ref=""/>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Nathan P. Gibson</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
                 <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor role="entry-editor"/></titleStmt>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor role="entry-editor"/>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -30,19 +37,24 @@
                 <idno type="URI">https://jalit.org/person/5</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change><change who="#mmoliere" when="2024-09-02T11:42:04.309Z">Added heritage data.</change>
+            <change who="#tap" when="2025-06-04T13:56:03.078Z">changed canon name</change><change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
+            <change who="#mmoliere" when="2024-09-02T11:42:04.309Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-04-24T13:49:10.561Z">updated spelling</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
@@ -56,13 +68,13 @@
                         <name/>
                     </persName>
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Abū l-Surrī b. Zīṭā</name>
+                        <name>Abū l-Sarī b. Zūṭā</name>
                     </persName>
                     <persName type="attested" xml:lang="he" xml:id="name-3">
                         <name/>
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-4">
-                        <name>Abū l-Surrī b. Zīṭā</name>
+                        <name>Abū l-Sarī b. Zūṭā</name>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-5">
                         <name/>
