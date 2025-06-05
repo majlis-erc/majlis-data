@@ -57,9 +57,12 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#nurbiczek" when="2025-06-04T19:39:05.544Z">Biographical data</change><change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
+            <change who="#nurbiczek" when="2025-06-05T08:01:56.616Z">Personal name</change><change who="#nurbiczek" when="2025-06-05T07:44:06.590Z">Biographical data</change>
+            <change who="#nurbiczek" when="2025-06-04T19:39:05.544Z">Biographical data</change>
+            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
             <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
-            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change><change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
+            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
+            <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-06T18:18:41.563Z">Added place IDs and dates.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
@@ -75,11 +78,11 @@
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
                         <name/>
                     </persName>
-                    <persName type="attested" xml:lang="he" xml:id="name-3">
-                        <name/>
+                    <persName type="attested" xml:lang="he" xml:id="name-3"><forename>מישאל</forename><addName ref="#pa-he" type="patronym" xml:id="">בן עזיאל בן יוסף בן הלל</addName>
+                        
                     </persName>
-                    <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name/>
+                    <persName type="attested" xml:lang="he-Latn" xml:id="name-4"><addName ref="#pa-he" type="patronym" xml:id="">ben ʿUzziʾel ben Yosef ben Hillel</addName><forename>Mišaʾel</forename>
+                        
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-5">
                         <name/>
@@ -111,12 +114,12 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:lang="he" xml:id="name-10">
-                        <forename xml:id="fn-he">משאל</forename>
-                        <addName xml:id="pa-he" type="patronym">בן עזיאל</addName>
-                        <addName xml:id="ep-he" type="epithet"/>
-                        <addName xml:id="ac-he" type="acronym"/>
-                        <addName xml:id="sh-he" type="shuhra"/>
+                    <persName xml:lang="he" type="canon" xml:id="name-10">
+                        <forename xml:id="#fn-he">משאל</forename>
+                        <addName xml:id="#pa-he" type="patronym">בן עזיאל</addName>
+                        
+                        
+                        
                     </persName>
                     <persName type="canon" xml:lang="he-Latn" xml:id="name-11">
                         <forename ref="#fn-he" xml:lang="he-Latn">Mišaʾel</forename>
@@ -134,8 +137,8 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert=""/>
-                        <placeName ref="https://jalit.org/place/3">Jerusalem </placeName>
+                        <date cert="">ca. 1000</date>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>
                     <faith cert="">Karaite</faith>
