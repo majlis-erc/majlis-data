@@ -48,6 +48,10 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
+            <change who="#tap" when="2025-06-04T13:56:03.078Z">changed personal name nasab</change><change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#tap" when="2025-06-04T13:56:03.078Z">changed canon name</change><change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
           <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
@@ -85,7 +89,7 @@
                     <persName type="canon" xml:lang="ar" xml:id="name-7">
                         <addName xml:id="sh-ar" type="shuhra"/>
                         <addName xml:id="is-ar" type="ism"/>
-                        <addName xml:id="na-ar" type="nasab">ابن زوطا</addName>
+                        <addName xml:id="na-ar" type="nasab">ابن زوتا</addName>
                         <addName xml:id="ni-ar" type="nisbah"/>
                         <addName xml:id="ku-ar" type="kunya">أبو السري</addName>
                         <addName xml:id="la-ar" type="laqab"/>
