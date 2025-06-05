@@ -43,7 +43,7 @@
             <sourceDesc/>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#tap" when="2025-06-05T07:30:49.845Z">changed record title</change><change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
+            <change who="#tap" when="2025-06-05T07:30:49.845Z">edited personal name</change><change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
             <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#tap" when="2025-06-04T14:26:09.213Z">edited biographical data</change>
             <change who="#tap" when="2025-06-04T13:56:03.078Z">edited biographical data</change>
@@ -96,9 +96,9 @@
                     <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab">b. Zīṭā</addName>
+                        <addName ref="#na-ar" type="nasab">b. Zūṭā</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya">Abū l-Surrī</addName>
+                        <addName ref="#ku-ar" type="kunya">Abū l-Sarī</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName type="canon" xml:lang="he" xml:id="name-10">
