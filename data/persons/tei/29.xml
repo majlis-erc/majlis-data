@@ -57,9 +57,11 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#nurbiczek" when="2025-06-04T19:39:05.544Z">Biographical data</change><change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
+            <change who="#nurbiczek" when="2025-06-05T07:44:06.590Z">Biographical data</change><change who="#nurbiczek" when="2025-06-04T19:39:05.544Z">Biographical data</change>
+            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
             <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
-            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change><change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
+            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
+            <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-06T18:18:41.563Z">Added place IDs and dates.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
@@ -134,8 +136,8 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert=""/>
-                        <placeName ref="https://jalit.org/place/3">Jerusalem </placeName>
+                        <date cert="">ca. 1000</date>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>
                     <faith cert="">Karaite</faith>
