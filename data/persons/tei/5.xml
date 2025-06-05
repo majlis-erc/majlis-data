@@ -37,23 +37,23 @@
                 <idno type="URI">https://jalit.org/person/5</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>
-                            <p>
- </p>
-                        </p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p>
-                    <p>
- </p>
-                </p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
             <change who="#tap" when="2025-06-04T13:56:03.078Z">changed canon name</change><change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
+            <change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
+          <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
+            <change who="#tap" when="2025-06-04T14:26:09.213Z">edited biographical data</change>
+          <change who="#tap" when="2025-06-04T13:56:03.078Z">edited biographical data</change>
+            <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#mmoliere" when="2024-09-02T11:42:04.309Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-04-24T13:49:10.561Z">updated spelling</change>
@@ -63,7 +63,7 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="person-5">
+                <person xml:id="person-5"><note resp="ptarras" xml:lang="en"><p>Abū l-Sarī b. Zūṭā was a 10th-century Qaraite scholar, probably of Egyptian origin. He is not credited with any writings and everything that is known about him comes from later literary reports. Our sources are the following: Abraham Ibn Ezra’s Commentary on Exodus (Exodus 2:2; 21:24; 21:35; 22:28), Commentary on Leviticus (Leviticus 23:15), as well as his Book on the Calendar; Ali b. Israel Alluf, Commentary on Samuel; Judah Ibn Balʿam’s Commentary on Ezekiel; an excerpt from this book mentioning Ben Zūṭā also appears in a marginal note in MS Oxford, Bodleian Library, Huntington 155, containing David Qimḥi’s Commentary on Ezekiel, where it is falsely attributed to Ibn Janāḥ (Neubauer 1862: 230–231, n. 2; Israelsohn 1891). All these reports are believed to ultimately go back to Saadia Gaon’s Commentary on the Pentateuch. Ibn Ezra places Ben Zūṭā in a polemic with Saadia Gaon, which very likely took place orally during Saadia’s early years in Egypt. Ben Zūṭā’s opinions are primarily concerned with matters of exegesis. This also included the controversial topic of calendrical calculation and corresponding biblical proof texts. It is further reported that he disagreed with Anan b. David on certain interpretations.</p><p>As far as the form of the scholar’s name is concerned, Ibn Zīṭā is also documented alongside Ibn Zūṭā (probably the main form according to Poznański). The first component, Abū l-Sarī, is the kunya (tekonnym) and is also attested as a name of other Qaraites (and Samaritans), e.g. Sahl ben Maṣliaḥ (Israelsohn 1891).</p></note>
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
                         <name/>
                     </persName>
@@ -85,7 +85,7 @@
                     <persName type="canon" xml:lang="ar" xml:id="name-7">
                         <addName xml:id="sh-ar" type="shuhra"/>
                         <addName xml:id="is-ar" type="ism"/>
-                        <addName xml:id="na-ar" type="nasab">ابن زيتا</addName>
+                        <addName xml:id="na-ar" type="nasab">ابن زوطا</addName>
                         <addName xml:id="ni-ar" type="nisbah"/>
                         <addName xml:id="ku-ar" type="kunya">أبو السري</addName>
                         <addName xml:id="la-ar" type="laqab"/>
@@ -93,7 +93,7 @@
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab">אבן זיטא</addName>
+                        <addName ref="#na-ar" type="nasab">אבן זוטא</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#ku-ar" type="kunya">אבו אלסרי</addName>
                         <addName ref="#la-ar" type="laqab"/>
@@ -121,22 +121,23 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert=""/>
-                        <placeName ref="" cert=""/>
+                        <date cert="">10th century</date>
+                        <placeName ref="" cert="medium">Egypt</placeName>
                     </birth>
                     <death>
+                        <date cert="">10th century</date>
                         <date cert=""/>
-                        <placeName ref="" cert=""/>
+                        <placeName ref="" cert="low">Jerusalem</placeName>
                     </death>
                     <floruit>
                         <date cert=""/>
                         <placeName ref="" cert=""/>
                     </floruit>
-                    <sex cert=""/>
-                    <faith cert=""/>
-                    <occupation type="" cert=""/>
+                    <sex cert="high">Male</sex>
+                    <faith cert="high">Karaite</faith>
+                    <occupation type="" cert="">exegete</occupation>
                     <residence>
-                        <placeName ref="" cert=""/>
+                        <placeName ref="" cert="">Egypt</placeName>
                     </residence>
                     <bibl type="bibliography" xml:id="jalit-orgbiblLD6G7RI">
                         <title>“Ben Zuta (Ben Zita), Abu al-Surrī.” Encyclopaedia Judaica, (Detroit: Gale, 2007), p. 393.</title>
