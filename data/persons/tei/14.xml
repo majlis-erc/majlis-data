@@ -51,7 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#tap" when="2025-06-05T13:35:28.357Z">edited personal name</change><change who="#S.Mattutat" when="2024-12-12T10:57:33.059Z">Person: Personal Name.</change>
+            <change who="#tap" when="2025-06-05T13:35:28.357Z">edited biographical data</change><change who="#S.Mattutat" when="2024-12-12T10:57:33.059Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-09-02T11:02:25.555Z">Revised heritage data.</change>
             <change who="#mmoliere" when="2024-09-02T10:25:14.321Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -119,11 +119,11 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert=""/>
+                        <date cert="">before 436 AH/1045 CE</date>
                         <placeName ref="" cert=""/>
                     </birth>
                     <death>
-                        <date cert=""/>
+                        <date cert="">after 486 AH/1093-1094 CE</date>
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
