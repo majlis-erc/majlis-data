@@ -37,21 +37,18 @@
                 <idno type="URI">https://jalit.org/person/5</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>
-                            <p/>
-                        </p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p>
-                    <p/>
-                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#tap" when="2025-06-04T14:26:09.213Z">edited biographical data</change><change who="#tap" when="2025-06-04T13:56:03.078Z">edited biographical data</change>
+            <change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
+          <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
+            <change who="#tap" when="2025-06-04T14:26:09.213Z">edited biographical data</change>
+          <change who="#tap" when="2025-06-04T13:56:03.078Z">edited biographical data</change>
             <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#mmoliere" when="2024-09-02T11:42:04.309Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
