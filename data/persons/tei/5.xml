@@ -18,8 +18,6 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref="">admin</editor>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
                 <editor role="contributor">Jonathan Beise</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
                 <editor role="contributor">Sara Mattutat</editor>
@@ -54,8 +52,11 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="unpublished">
             <change who="#tap" when="2025-06-04T13:56:03.078Z">changed personal name nasab</change><change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
-            <change who="#tap" when="2025-06-04T13:56:03.078Z">changed canon name</change><change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
+            <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
           <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#tap" when="2025-06-04T14:26:09.213Z">edited biographical data</change>
@@ -131,8 +132,7 @@
                         <date cert="">10th century</date>
                         <placeName ref="" cert="medium">Egypt</placeName>
                     </birth>
-                    <death>
-                        <date cert="">10th century</date>
+                    <death><date cert="">10th century</date>
                         <date cert=""/>
                         <placeName ref="" cert="low">Jerusalem</placeName>
                     </death>
