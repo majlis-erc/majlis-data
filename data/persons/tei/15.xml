@@ -50,7 +50,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-06-06T04:10:15.629Z">al-Tustarī, canon. name</change><change who="#gschwarb" when="2025-06-04T14:39:51.900Z">Bio update al-Tustari</change>
+            <change who="#gschwarb" when="2025-06-06T04:10:15.629Z">al-Tustarī, canon. name 2</change><change who="#gschwarb" when="2025-06-04T14:39:51.900Z">Bio update al-Tustari</change>
             <change who="#gschwarb" when="2025-06-04T08:31:49.297Z">short-bio for al-Tustarī</change>
             <change who="#S.Mattutat" when="2024-12-13T14:33:16.045Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-09-02T13:11:10.982Z">Added heritage data.</change>
@@ -83,10 +83,10 @@
                         <name>Abū l-Faḍl Sahl b. al-Faḍl al-Tustarī</name>
                     </persName>
                     <persName type="canon" xml:lang="ar-Hebr" xml:id="name-3">
-                        <name source="#isni">אבו אלפצ̇ל סהל אבן אלפצ̇ל אלתסתרי</name><addName type="kunya" xml:id="">אבו אלפצ̇ל</addName><addName type="ism" xml:id="">סהל</addName><addName type="nasab" xml:id="">אבן אלפצ̇ל</addName><addName type="nisbah" xml:id="">אלתסתרי</addName>
+                        <addName type="kunya" xml:id="">אבו אלפצ̇ל</addName><addName type="ism" xml:id="">סהל</addName><addName type="nasab" xml:id="">אבן אלפצ̇ל</addName><addName type="nisbah" xml:id="">אלתסתרי</addName>
                     </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-4">
-                        <name source="#isni">أبو الفضل سهل بن الفضل التستري</name><addName type="kunya" xml:id="">أبو الفضل</addName><addName type="ism" xml:id="">سهل</addName><addName type="nasab" xml:id="">ابن الفضل</addName><addName type="nisbah" xml:id="">التستري</addName>
+                        <addName type="kunya" xml:id="">أبو الفضل</addName><addName type="ism" xml:id="">سهل</addName><addName type="nasab" xml:id="">بن الفضل</addName><addName type="nisbah" xml:id="">التستري</addName>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-5">
                         <name source="#isni">אלתסתרי, סהל בן פצ'ל</name>
