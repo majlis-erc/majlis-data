@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -17,7 +18,8 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
-                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="entry-editor"/>
+            <editor role="contributor">Jonathan Beise</editor>
                 <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
@@ -33,8 +35,7 @@
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
-                <editor role="entry-editor"/>
-            </titleStmt>
+                </titleStmt>
             <editionStmt>
                 <edition n="0.1-dev"/>
             </editionStmt>
