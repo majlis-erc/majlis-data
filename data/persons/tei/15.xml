@@ -50,7 +50,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-06-04T14:39:51.900Z">Bio update al-Tustari</change><change who="#gschwarb" when="2025-06-04T08:31:49.297Z">short-bio for al-Tustarī</change>
+            <change who="#gschwarb" when="2025-06-06T04:10:15.629Z">al-Tustarī, canon. name</change><change who="#gschwarb" when="2025-06-04T14:39:51.900Z">Bio update al-Tustari</change>
+            <change who="#gschwarb" when="2025-06-04T08:31:49.297Z">short-bio for al-Tustarī</change>
             <change who="#S.Mattutat" when="2024-12-13T14:33:16.045Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-09-02T13:11:10.982Z">Added heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -81,11 +82,11 @@
                     <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
                         <name>Abū l-Faḍl Sahl b. al-Faḍl al-Tustarī</name>
                     </persName>
-                    <persName type="attested" xml:lang="he" xml:id="name-3">
-                        <name source="#isni"/>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-3">
+                        <name source="#isni">אבו אלפצ̇ל סהל אבן אלפצ̇ל אלתסתרי</name><addName type="kunya" xml:id="">אבו אלפצ̇ל</addName><addName type="ism" xml:id="">סהל</addName><addName type="nasab" xml:id="">אבן אלפצ̇ל</addName><addName type="nisbah" xml:id="">אלתסתרי</addName>
                     </persName>
-                    <persName type="attested" xml:lang="ar" xml:id="name-4">
-                        <name source="#isni"/>
+                    <persName type="canon" xml:lang="ar" xml:id="name-4">
+                        <name source="#isni">أبو الفضل سهل بن الفضل التستري</name><addName type="kunya" xml:id="">أبو الفضل</addName><addName type="ism" xml:id="">سهل</addName><addName type="nasab" xml:id="">ابن الفضل</addName><addName type="nisbah" xml:id="">التستري</addName>
                     </persName>
                     <persName type="alternate" xml:lang="he" xml:id="name-5">
                         <name source="#isni">אלתסתרי, סהל בן פצ'ל</name>
@@ -109,7 +110,13 @@
                         <addName ref="#ku-ar" type="kunya">אבו אלפצ̇ל</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                    <persName type="canon" xml:lang="he" xml:id="name-9">
+                        <forename xml:id="fn-he">ישר</forename>
+                        <addName xml:id="pa-he" type="patronym">בן חסד בן ישר</addName>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
+                    </persName><persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-10">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism">Sahl</addName>
                         <addName ref="#na-ar" type="nasab">b. al-Faḍl</addName>
@@ -117,13 +124,7 @@
                         <addName ref="#ku-ar" type="kunya">Abū l-Faḍl</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-10">
-                        <forename xml:id="fn-he">ישר</forename>
-                        <addName xml:id="pa-he" type="patronym">בן חסד בן ישר</addName>
-                        <addName xml:id="ep-he" type="epithet"/>
-                        <addName xml:id="ac-he" type="acronym"/>
-                        <addName xml:id="sh-he" type="shuhra"/>
-                    </persName>
+                    
                     <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
                         <forename ref="#fn-he" xml:lang="he-Latn">Yašar</forename>
                         <addName ref="#pa-he" type="patronym">ben Ḥesed ben Yašar</addName>
@@ -141,7 +142,8 @@
                     </death>
                     <floruit>
                         <date cert="high">1045-1095</date>
-                        <placeName ref="https://jalit.org/place/3" cert="high">Jerusalem</placeName><placeName ref="https://jalit.org/place/1" cert="medium">Cairo</placeName>
+                        <placeName ref="https://jalit.org/place/3" cert="high">Jerusalem</placeName>
+                        <placeName ref="https://jalit.org/place/1" cert="medium">Cairo</placeName>
                     </floruit>
                     <sex cert="">Male</sex>
                     <faith cert="">Karaite</faith>
