@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -20,7 +19,7 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="entry-editor"/>
-            <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jonathan Beise</editor>
                 <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
@@ -36,7 +35,7 @@
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
-                </titleStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -58,9 +57,11 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#nurbiczek" when="2025-06-04T19:39:05.544Z">Biographical data</change><change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
+            <change who="#nurbiczek" when="2025-06-06T19:31:19.260Z">Person: Personal name</change><change who="#nurbiczek" when="2025-06-04T19:39:05.544Z">Biographical data</change>
+            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
             <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
-            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change><change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
+            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
+            <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-06T18:18:41.563Z">Added place IDs and dates.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
@@ -96,25 +97,25 @@
                         <addName xml:id="ku-ar" type="kunya"/>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
-                        <addName ref="#la-ar" type="laqab"/>
+                    <persName type="attested" xml:lang="he-Latn" xml:id="name-8"><forename>Mišaʾel </forename>
+                        <addName ref="#pa-he" type="patronym">ben ʿUzziʾel ben Yosef ben Hillel</addName>
+                        
+                        
+                        
+                        
+                        
                     </persName>
-                    <persName type="canon" xml:lang="ar-Latn" xml:id="name-9">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
-                        <addName ref="#la-ar" type="laqab"/>
+                    <persName type="attested" xml:lang="he" xml:id="name-9"><forename>משאל</forename>
+                        <addName ref="#pa-he" type="patronym">בן עזיאל בן יוסף בן הלל</addName>
+                        
+                        
+                        
+                        
+                        
                     </persName>
-                    <persName xml:lang="he" xml:id="name-10">
-                        <forename xml:id="fn-he">משאל</forename>
-                        <addName xml:id="pa-he" type="patronym">בן עזיאל</addName>
+                    <persName xml:lang="he" type="canon" xml:id="name-10">
+                        <forename xml:id="#fn-he">משאל</forename>
+                        <addName xml:id="#pa-he" type="patronym">בן עזיאל</addName>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
@@ -136,7 +137,7 @@
                     </death>
                     <floruit>
                         <date cert=""/>
-                        <placeName ref="https://jalit.org/place/3">Jerusalem </placeName>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>
                     <faith cert="">Karaite</faith>
