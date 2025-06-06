@@ -1,8 +1,9 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"><change who="#" when=""/>
+    <change who="#" when=""/>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Answers to Questions raised by (ʿAlī b. Sulaymān) al-Maqdisī/al-Muqaddasī</title>
+                <title level="a" xml:lang="en">Answers to Questions posed by ʿAlī b. Sulaymān al-Maqdisī</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -76,10 +77,13 @@
     </teiHeader>
     <text>
         <body>
-            <bibl xml:id=""><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-1">אלמקדסיאת</title><title type="majlis-headword" xml:lang="ar" xml:id="title-2">المقدسيات</title><title type="majlis-headword" xml:lang="ar-Latn" xml:id="title-3">al-Maqdisiyyāt</title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-4">Answers to Questions raised by (ʿAlī b. Sulaymān) al-Maqdisī/al-Muqaddasī</title>
-                <title xml:lang="ar" type="attested" xml:id="title-5">أجوبة المسائل والتعليقات</title>
-                <title xml:lang="ar-Hebr" type="attested" xml:id="title-6">אג̇ובה̈ אלמסאיל ואלתעליקאת</title>
+            <bibl xml:id="">
+                <title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-1">אלמקדסיאת</title>
+                <title type="majlis-headword" xml:lang="ar" xml:id="title-2">المقدسيات</title>
+                <title type="majlis-headword" xml:lang="ar-Latn" xml:id="title-3">al-Maqdisiyyāt</title>
+                <title xml:lang="en" type="majlis-headword" xml:id="title-4">Answers to Questions posed by ʿAlī b. Sulaymān al-Maqdisī</title>
+                <title xml:lang="ar" type="attested" xml:id="title-5">المقدسيات</title>
+                <title xml:lang="ar-Hebr" type="attested" xml:id="title-6">אלמקדסיאת</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>
