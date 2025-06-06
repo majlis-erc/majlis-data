@@ -50,7 +50,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-06-06T04:10:15.629Z">al-Tustarī, canon. name 2</change><change who="#gschwarb" when="2025-06-04T14:39:51.900Z">Bio update al-Tustari</change>
+            <change who="#gschwarb" when="2025-06-06T04:10:15.629Z">al-Tustarī, canon. name 3</change><change who="#gschwarb" when="2025-06-04T14:39:51.900Z">Bio update al-Tustari</change>
             <change who="#gschwarb" when="2025-06-04T08:31:49.297Z">short-bio for al-Tustarī</change>
             <change who="#S.Mattutat" when="2024-12-13T14:33:16.045Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-09-02T13:11:10.982Z">Added heritage data.</change>
@@ -76,62 +76,58 @@
 <lb/> Although no definitive record survives concerning Sahl’s profession, there is reason to believe that he may have served in an administrative capacity within the Fatimid state. His Muḫtaṣar fī ṣināʿat al-kitāba, a compendium of the Secretary’s Craft, hints at practical engagement with bureaucratic life and aligns with the career paths pursued by his father and other contemporaries. 
 <lb/> The date of Sahl’s death remains uncertain. A Geniza letter written shortly after the Crusader conquest of Jerusalem in 1099 refers to an "Abū Saʿd, the son of al-Tustarī’s wife,” who was being held captive by the Franks. Some have interpreted this phrase as implying that Sahl had already died, but the language is ambiguous. It was not customary for adult men to be identified matrilineally unless exceptional circumstances applied, such as step-kinship or political prominence. As such, it is plausible that this Abū Saʿd was a stepson of Sahl, and that the mention of “al-Tustarī” in the passage either points to Sahl still being alive or simply reflects his enduring renown. Either way, by the time of the First Crusade, Sahl was likely either deceased or of an advanced age. 
 <lb/> Sahl’s intellectual legacy comprises at least nine identifiable works. Of these, seven survive wholly or in part, some in his own handwriting. His subjects ranged from ritual and personal law to scriptural commentary and speculative theology. They point to a thinker deeply attuned to the evolving intellectual discourse of his time. He appears to have been among the earliest Jewish thinkers to incorporate Aristotelian methods into the field of legal methodology (uṣūl al-fiqh). In this respect, he stands alongside major contemporaneous Muslim intellectuals such as Imām al-Ḥaramayn al-Ǧuwaynī (d. 478/1085) and Abū Ḥāmid al-Ġazālī (d. 505/1111). Moreover, he was actively promoting the works of Abū l-Ḥusayn al-Baṣrī (d. 436/1044), who challenged key tenets of the Muʿtazilī-Bahšamī doctrine endorsed by his teachers.</p></note>
-                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-1">
+                        <name>Abū l-Faḍl Sahl b. al-Faḍl al-Tustarī</name>
+                    </persName><persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-2">
                         <name>Yašar ben Ḥesed ben Yašar</name>
                     </persName>
-                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
-                        <name>Abū l-Faḍl Sahl b. al-Faḍl al-Tustarī</name>
-                    </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-3">
-                        <addName type="kunya" xml:id="">אבו אלפצ̇ל</addName><addName type="ism" xml:id="">סהל</addName><addName type="nasab" xml:id="">אבן אלפצ̇ל</addName><addName type="nisbah" xml:id="">אלתסתרי</addName>
-                    </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-4">
-                        <addName type="kunya" xml:id="">أبو الفضل</addName><addName type="ism" xml:id="">سهل</addName><addName type="nasab" xml:id="">بن الفضل</addName><addName type="nisbah" xml:id="">التستري</addName>
-                    </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-5">
+                    
+                    
+                    
+                    <persName type="alternate" xml:lang="he" xml:id="name-3">
                         <name source="#isni">אלתסתרי, סהל בן פצ'ל</name>
                     </persName>
-                    <persName type="alternate" xml:lang="he-Latn" xml:id="name-6">
+                    <persName type="alternate" xml:lang="he-Latn" xml:id="name-4">
                         <name source="#isni">Tustari, sahl ben Fats'l</name>
                     </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-7">
-                        <addName xml:id="sh-ar" type="shuhra"/>
-                        <addName xml:id="is-ar" type="ism">سهل</addName>
-                        <addName xml:id="na-ar" type="nasab">ابن الفضل</addName>
+                    <persName type="canon" xml:lang="ar" xml:id="name-5">
+                        
+                        <addName xml:id="ku-ar" type="kunya">أبو الفضل</addName><addName xml:id="is-ar" type="ism">سهل</addName>
+                        <addName xml:id="na-ar" type="nasab">بن الفضل</addName>
                         <addName xml:id="ni-ar" type="nisbah">التستري</addName>
-                        <addName xml:id="ku-ar" type="kunya">أبو الفضل</addName>
-                        <addName xml:id="la-ar" type="laqab"/>
+                        
+                        
                     </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism">סהל</addName>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-6">
+                        
+                        <addName ref="#ku-ar" type="kunya">אבו אלפצ̇ל</addName><addName ref="#is-ar" type="ism">סהל</addName>
                         <addName ref="#na-ar" type="nasab">אבן אלפצ̇ל</addName>
                         <addName ref="#ni-ar" type="nisbah">אלתסתרי</addName>
-                        <addName ref="#ku-ar" type="kunya">אבו אלפצ̇ל</addName>
-                        <addName ref="#la-ar" type="laqab"/>
+                        
+                        
                     </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-9">
+                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-7">
+                        
+                        <addName ref="#ku-ar" type="kunya">Abū l-Faḍl</addName><addName ref="#is-ar" type="ism">Sahl</addName>
+                        <addName ref="#na-ar" type="nasab">b. al-Faḍl</addName>
+                        <addName ref="#ni-ar" type="nisbah">al-Tustarī</addName>
+                        
+                        
+                    </persName><persName type="canon" xml:lang="he" xml:id="name-8">
                         <forename xml:id="fn-he">ישר</forename>
                         <addName xml:id="pa-he" type="patronym">בן חסד בן ישר</addName>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
-                    </persName><persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-10">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism">Sahl</addName>
-                        <addName ref="#na-ar" type="nasab">b. al-Faḍl</addName>
-                        <addName ref="#ni-ar" type="nisbah">al-Tustarī</addName>
-                        <addName ref="#ku-ar" type="kunya">Abū l-Faḍl</addName>
-                        <addName ref="#la-ar" type="laqab"/>
-                    </persName>
-                    
-                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
+                    </persName><persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-9">
                         <forename ref="#fn-he" xml:lang="he-Latn">Yašar</forename>
                         <addName ref="#pa-he" type="patronym">ben Ḥesed ben Yašar</addName>
                         <addName ref="#ep-he" type="epithet"/>
                         <addName ref="#ac-he" type="acronym"/>
-                        <addName ref="#sh-he" type="shuhra"/>
+                        
                     </persName>
+                    
+                    
                     <birth>
                         <date cert="medium">1020-1030</date>
                         <placeName ref="" cert=""/>
