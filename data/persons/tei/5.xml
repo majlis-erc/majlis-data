@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -22,15 +21,23 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="entry-editor"/>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Maurizio Boehm</editor><editor role="contributor">Lukas Froschmeier</editor><editor role="contributor">Annabelle Fuchs</editor><editor role="contributor">Nathan P. Gibson</editor>
-                <editor role="contributor">Lea Gzella</editor><editor role="contributor">Polina Lakteikina</editor><editor role="contributor">Sara Mattutat</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Maurizio Boehm</editor>
+                <editor role="contributor">Lukas Froschmeier</editor>
+                <editor role="contributor">Annabelle Fuchs</editor>
+                <editor role="contributor">Nathan P. Gibson</editor>
+                <editor role="contributor">Lea Gzella</editor>
+                <editor role="contributor">Polina Lakteikina</editor>
+                <editor role="contributor">Sara Mattutat</editor>
                 <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
-                <editor role="contributor">Lea Poralla</editor><editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor role="contributor">Lea Poralla</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
-                <editor role="contributor">Peter Tarras</editor><editor role="contributor">Nadine Urbiczek</editor></titleStmt>
+                <editor role="contributor">Peter Tarras</editor>
+                <editor role="contributor">Nadine Urbiczek</editor>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -44,7 +51,8 @@
             <sourceDesc/>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#tap" when="2025-06-05T07:30:49.845Z">edited biographical data</change><change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
+            <change who="#mmoliere" when="2025-06-26T18:22:31.685Z">Corrected note type.</change><change who="#tap" when="2025-06-05T07:30:49.845Z">edited biographical data</change>
+            <change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
             <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#tap" when="2025-06-04T14:26:09.213Z">edited biographical data</change>
             <change who="#tap" when="2025-06-04T13:56:03.078Z">edited biographical data</change>
@@ -59,7 +67,7 @@
         <body>
             <listPerson>
                 <person xml:id="person-5">
-                    <note resp="ptarras" xml:lang="en"><p>Abū l-Sarī b. Zūṭā was a 10th-century Qaraite scholar, probably of Egyptian origin. He is not credited with any writings and everything that is known about him comes from later literary reports. Our sources are the following: Abraham Ibn Ezra’s Commentary on Exodus (Exodus 2:2; 21:24; 21:35; 22:28), Commentary on Leviticus (Leviticus 23:15), as well as his Book on the Calendar; Ali b. Israel Alluf, Commentary on Samuel; Judah Ibn Balʿam’s Commentary on Ezekiel; an excerpt from this book mentioning Ben Zūṭā also appears in a marginal note in MS Oxford, Bodleian Library, Huntington 155, containing David Qimḥi’s Commentary on Ezekiel, where it is falsely attributed to Ibn Janāḥ (Neubauer 1862: 230–231, n. 2; Israelsohn 1891). All these reports are believed to ultimately go back to Saadia Gaon’s Commentary on the Pentateuch. Ibn Ezra places Ibn Zūṭā in a polemic with Saadia Gaon, which very likely took place orally during Saadia’s early years in Egypt. Ibn Zūṭā’s opinions are primarily concerned with matters of exegesis. This also included the controversial topic of calendrical calculation and corresponding biblical proof texts. It is further reported that he disagreed with Anan b. David on certain interpretations. </p><p> As far as the form of the scholar’s name is concerned, Ibn Zīṭā is also documented alongside Ibn Zūṭā (probably the main form according to Poznański). The first component, Abū l-Sarī, is the kunya (tekonnym) and is also attested as a name of other Qaraites (and Samaritans), e.g. Sahl ben Maṣliaḥ (Israelsohn 1891).</p></note>
+                    <note resp="ptarras" xml:lang="en" type="biography"><p>Abū l-Sarī b. Zūṭā was a 10th-century Qaraite scholar, probably of Egyptian origin. He is not credited with any writings and everything that is known about him comes from later literary reports. Our sources are the following: Abraham Ibn Ezra’s Commentary on Exodus (Exodus 2:2; 21:24; 21:35; 22:28), Commentary on Leviticus (Leviticus 23:15), as well as his Book on the Calendar; Ali b. Israel Alluf, Commentary on Samuel; Judah Ibn Balʿam’s Commentary on Ezekiel; an excerpt from this book mentioning Ben Zūṭā also appears in a marginal note in MS Oxford, Bodleian Library, Huntington 155, containing David Qimḥi’s Commentary on Ezekiel, where it is falsely attributed to Ibn Janāḥ (Neubauer 1862: 230–231, n. 2; Israelsohn 1891). All these reports are believed to ultimately go back to Saadia Gaon’s Commentary on the Pentateuch. Ibn Ezra places Ibn Zūṭā in a polemic with Saadia Gaon, which very likely took place orally during Saadia’s early years in Egypt. Ibn Zūṭā’s opinions are primarily concerned with matters of exegesis. This also included the controversial topic of calendrical calculation and corresponding biblical proof texts. It is further reported that he disagreed with Anan b. David on certain interpretations. </p><p> As far as the form of the scholar’s name is concerned, Ibn Zīṭā is also documented alongside Ibn Zūṭā (probably the main form according to Poznański). The first component, Abū l-Sarī, is the kunya (tekonnym) and is also attested as a name of other Qaraites (and Samaritans), e.g. Sahl ben Maṣliaḥ (Israelsohn 1891).</p></note>
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
                         <name/>
                     </persName>
