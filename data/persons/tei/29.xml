@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -20,7 +19,7 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="entry-editor"/>
-            <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jonathan Beise</editor>
                 <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
@@ -36,7 +35,7 @@
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
-                </titleStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -58,9 +57,16 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#nurbiczek" when="2025-06-04T19:39:05.544Z">Biographical data</change><change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
+            <change who="#mmoliere" when="2025-06-26T18:24:31.777Z">Corrected note type.</change><change who="#nurbiczek" when="2025-06-26T08:04:01.443Z">Biographical data</change>
+            <change who="#nurbiczek" when="2025-06-25T20:37:53.556Z">Biographical data</change>
+            <change who="#nurbiczek" when="2025-06-25T20:12:16.857Z">Heritage data</change>
+            <change who="#nurbiczek" when="2025-06-25T19:44:57.530Z">Heritage data</change>
+            <change who="#nurbiczek" when="2025-06-06T19:31:19.260Z">Person: Personal name</change>
+            <change who="#nurbiczek" when="2025-06-04T19:39:05.544Z">Biographical data</change>
+            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
             <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
-            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change><change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
+            <change who="#nurbiczek" when="2025-06-04T18:39:54.299Z">Added links to viaf &amp; gnd in Linked Open Data</change>
+            <change who="#S.Mattutat" when="2024-12-12T13:59:39.639Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-06T18:18:41.563Z">Added place IDs and dates.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
             <change who="#mmoliere" when="2024-02-05">Adapted to schema modifications.</change>
@@ -70,6 +76,9 @@
         <body>
             <listPerson>
                 <person xml:id="person-29">
+                    <occupation cert="">Scribe</occupation>
+                    <note resp="nurbiczek" type="biography" xml:lang="en"><p>Mišaʾel ben ʿUzziʾel was a Qaraite scholar, likely active between the late 10th to mid 11th century. Little reliable information on his life is preserved, except for two sources directly linked to him: a Torah manuscript, known as Codex Cairo 3 (also known under C3/Q3/Gottheil 18), as well as his own work Kitāb al-Ḫilaf (Book of Differences). </p><p> In the colophon of Codex Cairo 3, Mišaʾel b. ʿUzziʾel identifies himself as the scribe who reviewed and corrected the manuscript. His annotations within the text are marked with AM, hebr.: amar Mišaʾel, i.e. Mišaʾel says. By including his full name, Mišaʾel b. ʿUzziʾel ben Yosef ben Hillel, we also learn about his extended patrilineal lineage. Notably, the short colophon informs us that Mišaʾel was working at the request of Maṣliaḥ b. Sahl, situating his activity in early 11th century Jerusalem. </p><p> Mišaʾel b. ʿUzziʾel’s concern for textual precision is also evident in his influential and only known work Kitāb al-Ḫilaf (hebr.: Sefer ha-Ḥilūfīm), a systematic comparison of the readings of the two Masoretic authorities of Ben Ašer and Ben Naftali, finding 867 differences as well as 406 cases of agreement, where the two authorities differ from other Masoretic traditions. The variations concern vocalisation, accentuation and subtle orthographic details. </p><p> The curious case of a 12th century Geniza letter written by a Mišaʾel b. ʿUzziʾel, might be explained as being the work of a descendant bearing the same name. 
+<lb/></p></note>
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
                         <name>Mišaʾel ben ʿUzziʾel</name>
                     </persName>
@@ -96,25 +105,17 @@
                         <addName xml:id="ku-ar" type="kunya"/>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
-                        <addName ref="#la-ar" type="laqab"/>
+                    <persName type="attested" xml:lang="he-Latn" xml:id="name-8">
+                        <forename>Mišaʾel</forename>
+                        <addName ref="#pa-he" type="patronym">ben ʿUzziʾel ben Yosef ben Hillel</addName>
                     </persName>
-                    <persName type="canon" xml:lang="ar-Latn" xml:id="name-9">
-                        <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya"/>
-                        <addName ref="#la-ar" type="laqab"/>
+                    <persName type="attested" xml:lang="he" xml:id="name-9">
+                        <forename>משאל</forename>
+                        <addName ref="#pa-he" type="patronym">בן עזיאל בן יוסף בן הלל</addName>
                     </persName>
-                    <persName xml:lang="he" xml:id="name-10">
-                        <forename xml:id="fn-he">משאל</forename>
-                        <addName xml:id="pa-he" type="patronym">בן עזיאל</addName>
+                    <persName xml:lang="he" type="canon" xml:id="name-10">
+                        <forename xml:id="#fn-he">משאל</forename>
+                        <addName xml:id="#pa-he" type="patronym">בן עזיאל</addName>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
@@ -135,12 +136,12 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert=""/>
-                        <placeName ref="https://jalit.org/place/3">Jerusalem </placeName>
+                        <date cert="">11th c.</date>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>
                     <faith cert="">Karaite</faith>
-                    <occupation type="" cert=""/>
+                    <occupation type="" cert="">Scholar</occupation>
                     <residence>
                         <placeName ref="" cert=""/>
                     </residence>
@@ -223,12 +224,13 @@
     <standOff>
         <list>
             <item>
-                <note/>
+                <note><p>While Moritz Steinschneider (1816–1907) is primarily known for having laid the modern foundations of Jewish bibliography, he also devoted himself to a systematic survey of Jewish literature. In Steinschneider’s work the investigation of Jewish writings in Arabic takes a central place. In 1845, he proposed to the Verein für Kultur und Wissenschaft der Juden his magnum opus , a “Jüdisch-Arabische Bibliothek” (Steinschneider, Die arabische Literatur , xlvii). It was well received, and he obtained modest funding for it. It seems that the first part, the Bibliotheca Judaeo-Arabica , which consisted of a chronological survey of Judeo-Arabic literature, had already been completed in 1845. It contained a short biographical sketch of each author known to Steinschneider, arranged chronologically, and an account of their works, including details of available manuscripts and translations, mainly taken from unpublished sources. However, it only reached publication some sixty years later with the appearance of his seminal series of articles “An Introduction to the Arabic Literature of the Jews,” which appeared in 1897–1901 in the Jewish Quarterly Review , and also his Arabische Literatur der Juden (1902), which Steinschneider rightly calls in its foreword his “Lebensarbeit” (p. viii). The former, in which he describes his arduous search for manuscripts throughout Europe, serves as a voluminous introduction to the latter. The Arabische Literatur der Juden is divided into seven sections: (1) Jewish authors in Ancient Arabia; (2) Jewish authors in the East until the end of the Geonic period (1040); (3) Jewish authors in the Muslim West; (4) Jewish in the East, 1041–1500; (5) later Jewish authors (1500–1894); (6) Jewish authors of uncertain date; and (7) anonymous Jewish authors according to subject. </p><p> Literature: </p><p> Paul Fenton, “Moritz Steinschneider’s Contribution to Judaeo-Arabic Studies,” in Studies on Steinschneider: Moritz Steinschneider and the Emergence of the Science of Judaism in Nineteenth-Century Germany , edited by Reimund Leicht and Gad Freudenthal (Leiden: Brill, 2012), pp. 363–383. </p><p> Moritz Steinschneider, “An Introduction to the Arabic Literature of the Jews,” Jewish Quarterly Review 9–13 (1897–1901). </p><p> Moritz Steinschneider, Die arabische Literatur der Juden (Frankfurt am Main: Kauffmann, 1902).</p></note>
                 <persName/>
-                <quote xml:lang=""/>
-                <bibl>
-                    <title/>
-                    <citedRange unit="p"/>
+                <quote xml:lang="ge"><p>§ 167. </p><p> Mischael1) b. Ussiel, der in einem arab. Briefe an Chananel [b. Samuel § 166] um ein Darlehn bittet und als Unterpfand einige Bücher, darunter die Makamen des Hariri und das medicinische al-Kafi [von Einzarbi, gest. 1153] geben wollte (das Bittschreiben edirt von Jos. Horovitz, ZfHB. IV, 155, vgl. S. 186 n. 4), verf. eine arab. Abhandl. über die Differenzen zwischen abu Sa'id Ahron b. Moses b. Ascher und Moses b. David b. Naftali; aus einigen defecten mss. in Pet. teilen Hk. (Chad. II, 10, Beil. zur Ztschr. ha-Mizpa, mir unzugänglich) und Pozn. (ZfHB. IV, 186) Einiges mit; Letzterer vermutet die Identität mit einem כתאב אלכ̇לף בין בן אשר in einer alten Bücherliste, Jew. Qu. XIII, 52. </p><p> 1) Dieser biblische Namen wurde selten; 1418 in תקנות קדמניות S. 10, 1585 s. Jew. Qu. XIV, 167 n. 48, ms. Halb. 93. 
+<lb/></p></quote>
+                <bibl xml:id="">
+                    <title>Moritz Steinschneider, "Mischael b. Ussiel", in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902)</title>
+                    <citedRange unit="page">227–228.</citedRange>
                     <ptr target=""/>
                 </bibl>
             </item>
