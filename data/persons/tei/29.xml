@@ -57,7 +57,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2025-06-26T18:24:31.777Z">Corrected note type.</change><change who="#nurbiczek" when="2025-06-26T08:04:01.443Z">Biographical data</change>
+            <change who="#nurbiczek" when="2025-06-27T12:51:49.854Z"/><change who="#mmoliere" when="2025-06-26T18:24:31.777Z">Corrected note type.</change>
+            <change who="#nurbiczek" when="2025-06-26T08:04:01.443Z">Biographical data</change>
             <change who="#nurbiczek" when="2025-06-25T20:37:53.556Z">Biographical data</change>
             <change who="#nurbiczek" when="2025-06-25T20:12:16.857Z">Heritage data</change>
             <change who="#nurbiczek" when="2025-06-25T19:44:57.530Z">Heritage data</change>
@@ -109,7 +110,7 @@
                         <forename>Mišaʾel</forename>
                         <addName ref="#pa-he" type="patronym">ben ʿUzziʾel ben Yosef ben Hillel</addName>
                     </persName>
-                    <persName type="attested" xml:lang="he" xml:id="name-9">
+                    <persName type="attested" xml:lang="he" source="#" xml:id="name-9">
                         <forename>משאל</forename>
                         <addName ref="#pa-he" type="patronym">בן עזיאל בן יוסף בן הלל</addName>
                     </persName>
@@ -148,6 +149,9 @@
                     <bibl type="bibliography" xml:id="jalit-orgbibl35Y6HRN">
                         <title>Gottheil, Richard. “Some Hebrew Manuscripts in Cairo.” The Jewish Quarterly Review 17, no. 4 (1905): pp. 609-655. doi: 10.2307/1451043.</title>
                         <ptr target="https://jalit.org/bibl/35Y6HRN"/>
+                    </bibl><bibl xml:id="jalit-orgmanuscript459"><citedRange unit=""/>
+                        <title>Cairo, Karaite Synagogue, Ms. 18</title>
+                        <ptr target="https://jalit.org/manuscript/459"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl27AZEMPS">
                         <title>Horovitz, Josef. “Ein arabischer Brief an R Chananel.” Zeitschrift für Hebraeische Bibliographie 4, no. 5 (1900): pp. 155-158.</title>
