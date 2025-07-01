@@ -95,7 +95,7 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="" style="codex">Single manuscript</objectType>
+                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript356">
                     <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1681</title>
