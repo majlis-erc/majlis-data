@@ -82,7 +82,7 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <ab type="codicological-definition" part="N"> <objectType rend="" style="codex">Composite manuscript</objectType> <listBibl default="false">
+                        <ab type="codicological-definition" part="N"> <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType> <listBibl default="false">
                             <bibl default="false" status="draft"> <idno type="manuscript-join"/> <citedRange unit="folios"/> <ptr target=""/> </bibl>
                             </listBibl> </ab>
                         <objectDesc>
