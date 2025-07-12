@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -24,9 +23,24 @@
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
                 <editor role="creator" ref=""/>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor">Maurizio Boehm</editor><editor role="contributor">Lukas Froschmeier</editor><editor role="contributor">Annabelle Fuchs</editor><editor role="contributor">Nathan P. Gibson</editor><editor role="contributor">Lea Gzella</editor><editor role="contributor">Polina Lakteikina</editor><editor role="contributor">Sara Mattutat</editor><editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
-                <editor role="contributor">Lea Poralla</editor><editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor role="contributor">Peter Tarras</editor><editor role="contributor">Nadine Urbiczek</editor></titleStmt>
+                <editor role="entry-editor"/>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Maurizio Boehm</editor>
+                <editor role="contributor">Lukas Froschmeier</editor>
+                <editor role="contributor">Annabelle Fuchs</editor>
+                <editor role="contributor">Nathan P. Gibson</editor>
+                <editor role="contributor">Lea Gzella</editor>
+                <editor role="contributor">Polina Lakteikina</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor role="contributor">Lea Poralla</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor role="contributor">Peter Tarras</editor>
+                <editor role="contributor">Nadine Urbiczek</editor>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -48,7 +62,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-03-24T11:36:51.285Z">Headword name Ar-En</change><change who="#S.Mattutat" when="2024-12-12T10:32:37.901Z">Person: Personal Name.</change>
+            <change who="#rboehm" when="2025-07-12T22:26:16.255Z">changed to longer bio</change><change who="#gschwarb" when="2025-03-24T11:36:51.285Z">Headword name Ar-En</change>
+            <change who="#S.Mattutat" when="2024-12-12T10:32:37.901Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-06T17:54:53.273Z">Added place IDs and dates.</change>
             <change who="#mmoliere" when="2024-11-05T08:01:05.010Z">Added biography author.</change>
             <change who="#mmoliere" when="2024-09-03T08:15:24.136Z">Updated bibliography.</change>
@@ -65,7 +80,13 @@
         <body>
             <listPerson>
                 <person xml:id="person-10">
-                    <note xml:lang="en" resp="gschwarb" type="biography"><p>Levi b. Yefet, generally known under the sobriquet of “al-muʿallim Abū Saʿīd”, was one of the most important Qaraite legal scholars and an eminent teacher at the Qaraite <em> dār al-ʿilm </em> during the first four decades of the 11th century. As such he is quoted in great frequency in the works of his most prominent student, Abū l-Faraǧ Furqān b. Asad (q.v.). Levi b. Yefet was the younger of the two known sons of Yefet ben ʿEli (q.v.). </p><p> Besides his seminal legal code ( <em> Sefer Miṣvot </em> ), likely written over an extended period of time from 399 AH/1009 CE onwards, he composed a compendium on theological fundamentals ( <em> Kitāb al-Niʿma [fī uṣūl al-dīn] </em> ), a compilation of differences and agreements between the legal doctrines of his father and Sahl ben Maṣliaḥ (q.v.), selected abridgements of some of his father’s Bible commentaries supplemented with his own annotations, an abridged version of Sahl ben Maṣliaḥ’s commentary on the Pentateuch, an abridgement of al-Fāsī’s <em> Ǧāmiʿ al-alfāẓ </em> , and a masoretic treatise related to Mišaʾel ben ʿUzziʾel’s <em> Book of Differences between the Readings of Ben Asher and Ben Naftali </em> . Levi b. Yefet’s legal code was translated into Hebrew as part of the 11th century Byzantine Qaraite translation movement and had a significant impact on later Qaraite religious law in Byzantium, Egypt and Syria. </p><p>  </p><p/></note>
+                    <note xml:lang="en" resp="gschwarb" type="biography"><p>Levi ben Yefet, also known as Abū Saʿīd Lāwī b. al-Ḥasan al-Baṣrī, was an eminent Qaraite scholar active in the first half of the eleventh century. He was the younger son of the renowned Karaite Bible exegete and legal scholar Yefet ben ʿEli (Abū ʿAlī al-Ḥasan b. ʿAlī al-Basrī). Levi resided in Jerusalem, where he was most likely born. By his own account, he was getting around quite a bit in his early years, possibly also in pursuit of education in areas under Buyid dominion. From around the turn of the first millennium C.E., he established himself as a leading figure within the Qaraite community of Jerusalem and became one of the principal teachers at the local compound of learning (dār al-ʿilm). His students included Yešuʿa ben Yehuda (Abū l-Faraǧ Furqān b. Asad), the foremost figure of the following generation, who in his writings frequently refers to Levi ben Yefet as “our teacher”. Three of Levi’s sons are known by name only: Isaiah, Azariah, and Ḥananiah.
+<lb/>Levi ben Yefet’s most significant work is an extensive legal code, known as Sefer ha-Miṣvot (Book of the Commandments), which he wrote and revised during the first quarter of the eleventh century. Around the middle of the same century, the book was translated into Hebrew by the Byzantine student Ṭovia ben Moše and thereby became a foundational text of Qaraite legal literature in Hebrew.
+<lb/>In the field of law, Levi also composed a treatise documenting the core points of agreement and disagreement between the legal interpretations of his father Abū ʿAlī and those of Abū l-Sarī, i.e. Sahl ben Maṣliaḥ, modeled on Muslim khilāf literature.
+<lb/>His Book of Blessing on the Fundamentals (Kitāb al-Niʿma fī l-uṣūl), very likely written at the behest of his father, counts among the earliest systematic presentations of Jewish theological tenets (uṣūl al-dīn) in keeping with the doctrines of the Bahšamī Muʿtazila, possibly preceded by al-Qirqisānī’s Kitāb al-Tawḥīd and David ben Boʿaz’s Kitāb al-Uṣūl. 
+<lb/>Additionally, Levi composed commentaries on notable points (nukat) of various biblical books, including Joshua, Judges, Samuel, Kings, Isaiah, Jeremiah, and Psalms. Whether or to what extent these commmentaries were extracted from earlier Qaraite commentaries remains to be seen. Extant are fragments of Levi’s compilation of his father’s Bible commentary and notable points extracted from Salmon ben Yeruḥam’s commentary on the Book of Daniel. In his chronicle of Qaraite scholars, Ibn al-Hītī (15th c.) also records Levi’s abridged version of the Bible commentary by Sahl b. Maṣliaḥ.
+<lb/>Also preserved are fragments of Levi’s Compendium of the Comprehensive Lexicon (Muḫtaṣar Kitāb al-Egron al-ǧāmiʿ uṣūl al-alfāẓ al-ʿibrāniyya) by David ben Abraham al-Fāsī and of a treatise concerning the differences between the two foremost Masoretic authorities in the first half of the tenth century, Aharon ben Ašer and Moše ben Naftali.
+<lb/></p></note>
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
                         <name>Levi ben Yefet ben ʿEli</name>
                     </persName>
@@ -146,8 +167,8 @@
                         <date cert="">1001-1040</date>
                         <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
-                    <sex cert=""/>
-                    <faith cert=""/>
+                    <sex cert="">Male</sex>
+                    <faith cert="">Karaite</faith>
                     <occupation type="" cert=""/>
                     <residence>
                         <placeName ref="" cert=""/>
