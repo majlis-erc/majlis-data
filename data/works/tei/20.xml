@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -18,18 +17,24 @@
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
                 <editor role="creator" ref=""/>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+                <editor role="entry-editor"/>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
                 <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
                 <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">Lea Gzella</editor>
                 <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">Polina Lakteikina</editor>
-                <editor role="contributor">Sara Mattutat</editor><editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
                 <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">Lea Poralla</editor>
                 <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
-                </titleStmt>
+            </titleStmt>
             <editionStmt>
                 <edition n="0.1-dev"/>
             </editionStmt>
@@ -81,16 +86,17 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#rboehm" when="2025-03-29T10:56:53.722Z">meta data</change><change who="#rboehm" when="2024-09-06T11:28:49.255Z">entry created</change>
+            <change who="#rboehm" when="2025-07-12T22:36:32.650Z">titles</change><change who="#rboehm" when="2025-03-29T10:56:53.722Z">meta data</change>
+            <change who="#rboehm" when="2024-09-06T11:28:49.255Z">entry created</change>
             <change who="" when=""/>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <bibl xml:id="">
-                <title xml:lang="en" type="majlis-headword" xml:id="title-1">Book of Commandments</title>
-                <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
-                <title xml:lang="" xml:id="title-3"/>
+            <bibl xml:id=""><title type="majlis-headword" xml:lang="he" xml:id="title-1">ספר מצוות</title>
+                <title xml:lang="ar" type="majlis-headword" xml:id="title-2">سيفر مصووث</title>
+                <title xml:lang="he-Latn" type="majlis-headword" xml:id="title-3">Sefer Miṣvot</title>
+                <title xml:lang="en" type="majlis-headword" xml:id="title-4">Book of Commandments</title>
                 <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
