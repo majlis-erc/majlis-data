@@ -141,7 +141,7 @@
                                     <material>Paper</material>
                                     <note xml:lang="he"><p>17 שורות. הדפים קריאים לגמרי. יש שומרי דפים. ניקוד ערבי ספורדי. המילים הראשונות של פסוק 2: "עטה אור" כתובות בכתיבה מזרחית מרובעת ומנוקדות ניקוד טברני.</p></note>
                                 </support>
-                                <extent>
+                                <extent><measure unit="">2</measure>
                                     <measure unit="folio">2</measure>
                                     
                                     <dimensions>
