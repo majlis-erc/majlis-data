@@ -81,7 +81,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#jbeise" when="2025-07-13T16:09:09.287Z">Add extent </change><change who="#jbeise" when="2025-07-13T11:48:44.872Z">Add extent</change>
+            <change who="#jbeise" when="2025-07-18T12:44:58.982Z">delete extra extent </change><change who="#jbeise" when="2025-07-13T16:09:09.287Z">Add extent</change>
+            <change who="#jbeise" when="2025-07-13T11:48:44.872Z">Add extent</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2023-12-15T10:56:32.923Z" who="#rboehm">pilot II</change>
             <change when="2020-01-23" who="#eporat">Cataloged the manuscript into a Word-File.</change>
@@ -141,9 +142,9 @@
                                     <material>Paper</material>
                                     <note xml:lang="he"><p>17 שורות. הדפים קריאים לגמרי. יש שומרי דפים. ניקוד ערבי ספורדי. המילים הראשונות של פסוק 2: "עטה אור" כתובות בכתיבה מזרחית מרובעת ומנוקדות ניקוד טברני.</p></note>
                                 </support>
-                                <extent><measure unit="">2</measure>
-                                    <measure unit="folio">2</measure>
+                                <extent>
                                     
+                                    <measure unit="folio">2</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
