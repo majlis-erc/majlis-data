@@ -56,8 +56,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#jbeise" when="2025-07-13T19:37:00.465Z">Add extent
-</change><change who="#rboehm" when="2025-05-07T08:34:27.292Z">Bundle Nr.</change>
+            <change who="#jbeise" when="2025-07-18T12:48:55.774Z">delete extra extent</change><change who="#jbeise" when="2025-07-13T19:37:00.465Z">Add extent</change>
+            <change who="#rboehm" when="2025-05-07T08:34:27.292Z">Bundle Nr.</change>
             <change who="#rboehm" when="2024-08-30T15:18:56.929Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
@@ -120,7 +120,8 @@
                                 </support>
                                 <extent>
                                     <measure unit="folio">8</measure>
-                                    <measure unit="">8</measure><dimensions>
+                                    
+                                    <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
