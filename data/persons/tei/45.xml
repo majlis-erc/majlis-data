@@ -60,7 +60,6 @@
                 <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
             </respStmt>
         </editionStmt>
-            </fileDesc>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -76,6 +75,7 @@
             <sourceDesc>
                 <p>Born digital.</p>
             </sourceDesc>
+          </fileDesc>
         </teiHeader>
         <revisionDesc status="unpublished"/>
     </TEI>
