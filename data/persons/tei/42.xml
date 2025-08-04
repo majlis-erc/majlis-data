@@ -17,7 +17,7 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+            <editor role="contributor">Jonathan Beise</editor><editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
                 <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
@@ -28,7 +28,7 @@
                 <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
-                </titleStmt><editionStmt>
+                <editor role="entry-editor"/></titleStmt><editionStmt>
             <edition>File Reused in the Project: "MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World"</edition>
             <sponsor ref="https://www.uni-muenchen.de">
                 <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
@@ -75,7 +75,118 @@
             <sourceDesc>
                 <p>Born digital.</p>
             </sourceDesc>
-          </fileDesc>
-        </teiHeader>
+        </fileDesc>
         <revisionDesc status="unpublished"/>
-    </TEI>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="person-42">
+                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                        <name>Hayya ben Šerira Gaʾon</name>
+                    </persName>
+                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                        <name/>
+                    </persName>
+                    <persName type="majlis-headword" xml:lang="he" xml:id="name-3">
+                        <name>האיי בן שרירא גאון</name>
+                    </persName>
+                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                        <name/>
+                    </persName>
+                    <persName type="alternate" xml:lang="he" xml:id="name-5">
+                        <name/>
+                    </persName>
+                    <persName type="alternate" xml:lang="he" xml:id="name-6">
+                        <name/>
+                    </persName>
+                    <persName type="canon" xml:lang="ar" xml:id="name-7">
+                        <addName xml:id="sh-ar" type="shuhra"/>
+                        <addName xml:id="is-ar" type="ism"/>
+                        <addName xml:id="na-ar" type="nasab"/>
+                        <addName xml:id="ni-ar" type="nisbah"/>
+                        <addName xml:id="ku-ar" type="kunya"/>
+                        <addName xml:id="la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                        <addName ref="#sh-ar" type="shuhra"/>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#ni-ar" type="nisbah"/>
+                        <addName ref="#ku-ar" type="kunya"/>
+                        <addName ref="#la-ar" type="laqab"/>
+                    </persName>
+                    <persName type="canon" xml:lang="he" xml:id="name-10">
+                        <forename xml:id="fn-he"/>
+                        <addName xml:id="pa-he" type="patronym"/>
+                        <addName xml:id="ep-he" type="epithet"/>
+                        <addName xml:id="ac-he" type="acronym"/>
+                        <addName xml:id="sh-he" type="shuhra"/>
+                    </persName>
+                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
+                        <forename ref="#fn-he" xml:lang="he-Latn"/>
+                        <addName ref="#pa-he" type="patronym"/>
+                        <addName ref="#ep-he" type="epithet"/>
+                        <addName ref="#ac-he" type="acronym"/>
+                        <addName ref="#sh-he" type="shuhra"/>
+                    </persName>
+                    <note xml:lang="" resp=""/>
+                    <state>
+                        <label cert=""/>
+                    </state>
+                    <birth>
+                        <date when="" notBefore="" notAfter="" cert="">939</date>
+                        <placeName ref="" cert=""/>
+                    </birth>
+                    <death>
+                        <date when="" notBefore="" notAfter="" cert="">1038</date>
+                        <placeName ref="" cert=""/>
+                    </death>
+                    <floruit from="" to="" notBefore="" notAfter="" cert=""/>
+                    <sex cert="" value="">Male</sex>
+                    <faith cert="">Rabbanite</faith>
+                    <occupation type="" cert=""/>
+                    <residence>
+                        <placeName ref="" cert="">Pumbedita</placeName>
+                    </residence>
+                    <bibl xml:id="" type="">
+                        <title/>
+                        <citedRange unit="p"/>
+                        <ptr target=""/>
+                    </bibl>
+                    <idno type="URI" subtype="jalit">https://jalit.org/person/</idno>
+                    <idno type="URI" subtype="isni"/>
+                    <idno type="URI" subtype="viaf"/>
+                    <idno type="URI" subtype="wiki"/>
+                    <idno type="URI" subtype="gnd"/>
+                    <idno type="URI" subtype="merhav"/>
+                    <idno type="URI" subtype="rambi"/>
+                    <idno type="URI" subtype="imhm"/>
+                    <idno type="URI" subtype="ktiv"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+    <standOff>
+        <list>
+            <item>
+                <note/>
+                <persName/>
+                <quote xml:lang=""/>
+                <bibl xml:id="">
+                    <title/>
+                    <citedRange unit="p"/>
+                    <ptr target=""/>
+                </bibl>
+            </item>
+        </list>
+    </standOff>
+</TEI>
