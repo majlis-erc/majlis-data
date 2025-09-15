@@ -127,7 +127,7 @@
                         <addName ref="#ep-he" type="epithet"/>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
-                    </persName><persName type="attested" xml:lang="ar" xml:id="name-8">
+                    </persName><persName type="attested" xml:lang="ar-Latn" xml:id="name-8">
                         <name>al-Šayḫ Abū l-Faraǧ Furqān b. Asad</name>
                     </persName>
                     <persName type="attested" xml:lang="ar" xml:id="name-9">
