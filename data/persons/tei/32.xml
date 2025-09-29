@@ -16,10 +16,7 @@
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
-                <editor role="creator" ref="">admin</editor>
-                <editor role="creator" ref=""/>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+                </respStmt>                <editor role="entry-editor">Nadine Urbiczek</editor><editor role="contributor">Jonathan Beise</editor><editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor><editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">Lea Gzella</editor>
