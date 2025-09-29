@@ -18,10 +18,7 @@
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="entry-editor"/>
+                <editor role="entry-editor">Peter Tarras</editor>
             <editor role="contributor">Jonathan Beise</editor>
                 <editor role="contributor">Maurizio Boehm</editor><editor role="contributor">Lukas Froschmeier</editor><editor role="contributor">Annabelle Fuchs</editor><editor role="contributor">Nathan P. Gibson</editor>
                 <editor role="contributor">Lea Gzella</editor><editor role="contributor">Polina Lakteikina</editor><editor role="contributor">Sara Mattutat</editor>
