@@ -80,7 +80,7 @@
             <bibl xml:id=""><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-1">רד עלי אלפיומי (&lt; אבן אלהיתי)</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-2">رد على لفيومي</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-3">Radd ʿalā l-Fayyūmī</title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-4">Rebuttal of Seʿadyah Gaon</title>
+                <title xml:lang="en" type="authorial" xml:id="title-4">Rebuttal of Seʿadyah Gaon</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>

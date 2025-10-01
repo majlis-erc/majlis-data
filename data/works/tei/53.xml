@@ -80,7 +80,7 @@
             <bibl xml:id=""><title type="alternate" xml:lang="ar-Latn" xml:id="title-1">Maqāla fī l-ʿarayot</title><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-2">מסלה̈ פי תחרים אלערוות</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-3">مسألة في تحريم العرووث</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-4">Masʾala fī taḥrīm al-ʿarayot/al-ʿervot</title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-5">Query about Prohibited Sexual Relations</title>
+                <title xml:lang="en" type="authorial" xml:id="title-5">Query about Prohibited Sexual Relations</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>

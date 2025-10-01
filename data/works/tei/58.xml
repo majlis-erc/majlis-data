@@ -80,7 +80,7 @@
             <bibl xml:id=""><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-1">כתאב פיה עיון מא בין אלשיכ̇ין אבי עלי ואבי אלסרי רצ̇י אללה ענהמא מן אלכ̇לף פי אלמצוות ומא אתפקא עליה</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-2">كتاب فيه عيون ما بين الشيخين أبي علي وأبي السري رضي الله عنهما من الخلف في المصووث وما اتفقا عليه</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-3">Kitāb fīhi ʿuyūn mā bayna l-šayḫayn Abī ʿAlī wa-Abī l-Sarī raḍiya llāh ʿanhumā min al-ḫulf fī l-miṣvot wa-mā ttafaqā ʿalayhi</title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-4">Book Containing the Core Points of Agreement and Disagreement Between the Two Sheikhs, Abū ʿAlī and Abū l-Sarī, may God be pleased with them both, in Matters of Law</title>
+                <title xml:lang="en" type="authorial" xml:id="title-4">Book Containing the Core Points of Agreement and Disagreement Between the Two Sheikhs, Abū ʿAlī and Abū l-Sarī, may God be pleased with them both, in Matters of Law</title>
                 <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>

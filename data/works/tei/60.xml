@@ -80,7 +80,7 @@
             <bibl xml:id=""><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-1">נכת ספר שופטים</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-2">نكت سيفر شوفطيم</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-3">Nukat Sefer Šofṭim</title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-4">Commentary on notable points of the Book of Judges</title>
+                <title xml:lang="en" type="authorial" xml:id="title-4">Commentary on notable points of the Book of Judges</title>
                 <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>

@@ -88,7 +88,7 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="en" type="majlis-headword" xml:id="title-1">Grammar</title>
+                <title xml:lang="en" type="authorial" xml:id="title-1">Grammar</title>
                 <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
                 <title xml:lang="" xml:id="title-3"/>
                 <author ref="https://jalit.org/person/7">Yosef ben Noaḥ</author>
