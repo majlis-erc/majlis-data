@@ -80,7 +80,7 @@
             <bibl xml:id=""><title type="majlis-headword" xml:lang="ar" xml:id="title-1">كتاب الأصول المهذّبية</title>
                 <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-2">כתאב אלאצול אלמהד̇ביה̈</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-3">Kitāb al-Uṣūl al-Muhaḏḏabiyya </title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-4">Book on the Fundamentals of Religion for al-Muhaḏḏab</title>
+                <title xml:lang="en" type="authorial" xml:id="title-4">Book on the Fundamentals of Religion for al-Muhaḏḏab</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>

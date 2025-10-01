@@ -83,7 +83,7 @@
         <body>
                 <bibl xml:id="">
                     <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-1">אלכתאב אלמשתמל עלי אלאצול ואלפצול פי אללגה̈ אלעבראניה̈</title>
-                    <title xml:lang="en" type="majlis-headword" xml:id="title-2">The Comprehensive Book of General Principles and Particular Rules of the Hebrew Language</title>
+                    <title xml:lang="en" type="authorial" xml:id="title-2">The Comprehensive Book of General Principles and Particular Rules of the Hebrew Language</title>
                     <title xml:lang="" xml:id="title-3"/>
                     <author ref="https://jalit.org/person/8">Aharon ben Yešuʿa</author>
                     <persName role="" ref="" cert=""/>

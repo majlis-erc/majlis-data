@@ -83,7 +83,7 @@
         <body>
                 <bibl xml:id="">
                     <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-1">כתאב אלתהד̇יב</title>
-                    <title xml:lang="en" type="majlis-headword" xml:id="title-2">The Book of Refinement </title>
+                    <title xml:lang="en" type="authorial" xml:id="title-2">The Book of Refinement </title>
                     <title xml:lang="" xml:id="title-3"/>
                     <author ref="https://jalit.org/person/8">Aharon ben Yešuʿa</author>
                     <persName role="" ref="" cert=""/>

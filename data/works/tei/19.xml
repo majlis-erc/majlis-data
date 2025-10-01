@@ -87,7 +87,7 @@
     </teiHeader>
     <text>
         <body>
-            <bibl xml:id=""><title type="majlis-headword" xml:lang="en" xml:id="title-1">Long Commentary on the Book of Leviticus</title><term type=""/>
+            <bibl xml:id=""><title type="authorial" xml:lang="en" xml:id="title-1">Long Commentary on the Book of Leviticus</title><term type=""/>
                 <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-2">אלתפסיר אלמבסוט פי ספר ויקרא</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-3">al-Tafsīr al-mabsūṭ fī sifr vay-yiqraʾ</title>
                 <title xml:lang="ar-Hebr" type="attested" xml:id="title-4">אלמשרוח / אלמבסוט</title>

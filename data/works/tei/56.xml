@@ -80,7 +80,7 @@
             <bibl xml:id=""><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-1">כתאב פי אלאעתדאל (&lt; אבן אלהיתי)</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-2">كتاب في الاعتدال</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-3">Kitāb fī l-iʿtidāl (descriptive title)</title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-4">Book on Equinox</title>
+                <title xml:lang="en" type="authorial" xml:id="title-4">Book on Equinox</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>

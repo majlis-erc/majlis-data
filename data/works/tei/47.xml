@@ -79,7 +79,7 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="en" type="majlis-headword" xml:id="title-1">Book Intimating the Ensemble of Theoretical and Practical Components of the Obligation Imposed by God</title><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-2">כתאב אלאימא אלי ג̇ואמע אלתכליף עלמא ועמלא</title>
+                <title xml:lang="en" type="authorial" xml:id="title-1">Book Intimating the Ensemble of Theoretical and Practical Components of the Obligation Imposed by God</title><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-2">כתאב אלאימא אלי ג̇ואמע אלתכליף עלמא ועמלא</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-3">كتاب الإيماء إلى جوامع التكليف علماً وعملاً</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-4">Kitāb al-Īmāʾ ilā ǧawāmiʿ al-taklīf ʿilman wa-ʿamalan</title>
                 

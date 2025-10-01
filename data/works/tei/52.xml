@@ -82,7 +82,7 @@
                 <title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-1">אג̇ובה̈ אלמסאיל ואלתעליקאת</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-2">أجوبة المسائل والتعليقات</title>
                 <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-3">Aǧwibat al-masāʾil wa-l-taʿlīqāt</title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-4">[Collection of] Answers to Questions along with Annotations</title>
+                <title xml:lang="en" type="authorial" xml:id="title-4">[Collection of] Answers to Questions along with Annotations</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>
