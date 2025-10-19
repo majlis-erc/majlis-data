@@ -88,7 +88,7 @@
     <text>
         <body>
             <bibl xml:id=""><title type="majlis-headword" xml:lang="ar-Latn" xml:id="title-1">Kitāb al-Istibṣār fī l-farāʾiḍ</title>
-                <title xml:lang="en" type="majlis-headword" xml:id="title-2">Book of the Examination of the Commandments</title>
+                <title xml:lang="en" type="authorial" xml:id="title-2">Book of the Examination of the Commandments</title>
                 <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-3">כתאב אלאסתבצאר פי אלפראיץ̇</title>
                 <title xml:lang="ar" type="majlis-headword" xml:id="title-4">كتاب الاستبصار في الفرائض</title>
                 <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
