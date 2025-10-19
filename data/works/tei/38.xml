@@ -87,7 +87,7 @@
         <body>
             <bibl xml:id=""><note type="authorship" xml:lang="en">Suggested author: David ben Boʿaz (who is known to have written an uṣūl al-dīn treatise). Other possible author: Yosef ha-Roʾeh (e.g. adaptation of uṣūl al-Labbād).</note>
                 <title xml:id="title-1" xml:lang="en" source="jalit-orgbiblJR4TY369" type="majlis-headword">Compendium on the fundamentals of religion</title>
-                <title xml:id="title-1" xml:lang="ar-Latn" source="jalit-orgbiblJR4TY369" type="canon">Muḫtaṣar fī uṣūl al-dīn</title>
+                <title xml:id="title-1" xml:lang="ar-Latn" source="jalit-orgbiblJR4TY369" type="majlis-headword">Muḫtaṣar fī uṣūl al-dīn</title>
                 <author source="jalit-orgbiblJR4TY369">unknown</author>
                 <author ref="https://jalit.org/person/6" cert="medium" source="jalit-orgbiblJR4TY369">David ben Boʿaz</author>
                 <author ref="https://jalit.org/person/9" cert="medium" source="jalit-orgbiblJR4TY369"> ha-Roʾeh</author>
