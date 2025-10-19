@@ -83,8 +83,8 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="ar-Hebr" type="canon" xml:id="title-1">כתאב אלמדכ̇ל אלי עלם פי טרק אללגה אלעבראניה</title>
-                <title xml:lang="en" type="canon" xml:id="title-2">Book of Introduction into the Discipline of Careful Investigation of the Ways of the Hebrew Language</title>
+                <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-1">כתאב אלמדכ̇ל אלי עלם פי טרק אללגה אלעבראניה</title>
+                <title xml:lang="en" type="majlis-headword" xml:id="title-2">Book of Introduction into the Discipline of Careful Investigation of the Ways of the Hebrew Language</title>
                 <title xml:lang="" xml:id="title-3"/>
                 <author ref="https://jalit.org/person/8">Aharon ben Yešuʿa</author>
                 <persName role="" ref="" cert=""/>
