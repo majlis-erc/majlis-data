@@ -14,11 +14,7 @@
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
                 <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
-                <editor role="entry-editor">Peter Tarras</editor>
+                <editor role="creator" ref="">admin</editor>
                 <editor role="contributor">Jonathan Beise</editor>
                 <editor role="contributor">Maurizio Boehm</editor>
                 <editor role="contributor">Lukas Froschmeier</editor>
@@ -35,6 +31,10 @@
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor role="contributor">Peter Tarras</editor>
                 <editor role="contributor">Nadine Urbiczek</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -49,7 +49,9 @@
             <sourceDesc/>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mmoliere" when="2025-06-26T18:22:31.685Z">Corrected note type.</change><change who="#tap" when="2025-06-05T07:30:49.845Z">edited biographical data</change>
+            <change who="#ttoliere" when="2025-11-03T17:35:32.516Z">test</change>
+            <change who="#mmoliere" when="2025-06-26T18:22:31.685Z">Corrected note type.</change>
+            <change who="#tap" when="2025-06-05T07:30:49.845Z">edited biographical data</change>
             <change who="#tap" when="2025-06-04T13:56:03.078Z">changed majlis-headword name</change>
             <change who="#S.Mattutat" when="2024-12-11T15:16:21.310Z">Person: Personal name</change>
             <change who="#tap" when="2025-06-04T14:26:09.213Z">edited biographical data</change>
@@ -65,26 +67,29 @@
         <body>
             <listPerson>
                 <person xml:id="person-5">
-                    <note resp="ptarras" xml:lang="en" type="biography"><p>Abū l-Sarī b. Zūṭā was a 10th-century Qaraite scholar, probably of Egyptian origin. He is not credited with any writings and everything that is known about him comes from later literary reports. Our sources are the following: Abraham Ibn Ezra’s Commentary on Exodus (Exodus 2:2; 21:24; 21:35; 22:28), Commentary on Leviticus (Leviticus 23:15), as well as his Book on the Calendar; Ali b. Israel Alluf, Commentary on Samuel; Judah Ibn Balʿam’s Commentary on Ezekiel; an excerpt from this book mentioning Ben Zūṭā also appears in a marginal note in MS Oxford, Bodleian Library, Huntington 155, containing David Qimḥi’s Commentary on Ezekiel, where it is falsely attributed to Ibn Janāḥ (Neubauer 1862: 230–231, n. 2; Israelsohn 1891). All these reports are believed to ultimately go back to Saadia Gaon’s Commentary on the Pentateuch. Ibn Ezra places Ibn Zūṭā in a polemic with Saadia Gaon, which very likely took place orally during Saadia’s early years in Egypt. Ibn Zūṭā’s opinions are primarily concerned with matters of exegesis. This also included the controversial topic of calendrical calculation and corresponding biblical proof texts. It is further reported that he disagreed with Anan b. David on certain interpretations. </p><p> As far as the form of the scholar’s name is concerned, Ibn Zīṭā is also documented alongside Ibn Zūṭā (probably the main form according to Poznański). The first component, Abū l-Sarī, is the kunya (tekonnym) and is also attested as a name of other Qaraites (and Samaritans), e.g. Sahl ben Maṣliaḥ (Israelsohn 1891).</p></note>
-                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                    <note resp="ptarras" xml:lang="en" type="biography">
+                        <p>Abū l-Sarī b. Zūṭā was a 10th-century Qaraite scholar, probably of Egyptian origin. He is not credited with any writings and everything that is known about him comes from later literary reports. Our sources are the following: Abraham Ibn Ezra’s Commentary on Exodus (Exodus 2:2; 21:24; 21:35; 22:28), Commentary on Leviticus (Leviticus 23:15), as well as his Book on the Calendar; Ali b. Israel Alluf, Commentary on Samuel; Judah Ibn Balʿam’s Commentary on Ezekiel; an excerpt from this book mentioning Ben Zūṭā also appears in a marginal note in MS Oxford, Bodleian Library, Huntington 155, containing David Qimḥi’s Commentary on Ezekiel, where it is falsely attributed to Ibn Janāḥ (Neubauer 1862: 230–231, n. 2; Israelsohn 1891). All these reports are believed to ultimately go back to Saadia Gaon’s Commentary on the Pentateuch. Ibn Ezra places Ibn Zūṭā in a polemic with Saadia Gaon, which very likely took place orally during Saadia’s early years in Egypt. Ibn Zūṭā’s opinions are primarily concerned with matters of exegesis. This also included the controversial topic of calendrical calculation and corresponding biblical proof texts. It is further reported that he disagreed with Anan b. David on certain interpretations. </p>
+                        <p> As far as the form of the scholar’s name is concerned, Ibn Zīṭā is also documented alongside Ibn Zūṭā (probably the main form according to Poznański). The first component, Abū l-Sarī, is the kunya (tekonnym) and is also attested as a name of other Qaraites (and Samaritans), e.g. Sahl ben Maṣliaḥ (Israelsohn 1891).</p>
+                    </note>
+                    <persName xml:id="name-1" xml:lang="he-Latn" type="majlis-headword">
                         <name/>
                     </persName>
-                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                    <persName xml:id="name-2" xml:lang="ar-Latn" type="majlis-headword">
                         <name>Abū l-Sarī b. Zūṭā</name>
                     </persName>
-                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                    <persName xml:id="name-3" type="attested" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-4">
+                    <persName xml:id="name-4" type="canon" xml:lang="ar">
                         <name>Abū l-Sarī b. Zūṭā</name>
                     </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-5">
+                    <persName xml:id="name-5" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-6">
+                    <persName xml:id="name-6" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-7">
+                    <persName xml:id="name-7" type="canon" xml:lang="ar">
                         <addName xml:id="sh-ar" type="shuhra"/>
                         <addName xml:id="is-ar" type="ism"/>
                         <addName xml:id="na-ar" type="nasab">ابن زوطا</addName>
@@ -92,7 +97,7 @@
                         <addName xml:id="ku-ar" type="kunya">أبو السري</addName>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-8">
+                    <persName xml:id="name-8" type="canon" xml:lang="ar-Hebr">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
                         <addName ref="#na-ar" type="nasab">אבן זוטא</addName>
@@ -100,7 +105,7 @@
                         <addName ref="#ku-ar" type="kunya">אבו אלסרי</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-9">
+                    <persName xml:id="name-9" corresp="" type="canon" xml:lang="ar-Latn">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
                         <addName ref="#na-ar" type="nasab">b. Zūṭā</addName>
@@ -108,14 +113,14 @@
                         <addName ref="#ku-ar" type="kunya">Abū l-Sarī</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-10">
+                    <persName xml:id="name-10" type="canon" xml:lang="he">
                         <forename xml:id="fn-he"/>
                         <addName xml:id="pa-he" type="patronym"/>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-11">
+                    <persName xml:id="name-11" corresp="" type="canon" xml:lang="he-Latn">
                         <forename ref="#fn-he" xml:lang="he-Latn"/>
                         <addName ref="#pa-he" type="patronym"/>
                         <addName ref="#ep-he" type="epithet"/>
@@ -184,12 +189,26 @@
     <standOff>
         <list>
             <item>
-                <note><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw. </p><p> Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the 
-<lb/> realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <emph rend="italic"> Encyclopedia of Qaraites </emph> is today found in the Samuel Poznański Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names. </p><p> Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor) </p><p> Literature: 
-<lb/> Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <emph rend="italic"> Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging </emph> , edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p></note>
+                <note>
+                    <p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw. </p>
+                    <p> Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the 
+<lb/> realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <em> Encyclopedia of Qaraites </em> is today found in the Samuel Poznański Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names. </p>
+                    <p> Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor) </p>
+                    <p> Literature: 
+<lb/> Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <em> Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging </em> , edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p>
+                </note>
                 <persName/>
-                <quote xml:lang="he"><p>בן זוטא (או בן זיטא) </p><p> חכם קראי בתחלת המאה העשירית. שמו הפרטי לא נודע ושם אביו יכתב בשתי צורות: זוטא וזיטא, ונראה כי הראשונה עיקר ויהי זוטא שם נרדף לשמות ארמיים דומים כאלו הנמצאים בתלמוד כי זוטרא, זעירא וקטינא; בן זוטא יהיה איפוא דומה ממש לשם בן קטין שנזכר גם הוא בתלמוד (יומא ל"ז א'). והנה מצאנו איש אחד ושמו זוטא (או זוטה) המכונה שר שלום (ע"ע) בארץ מצרים במאה הי"ב (ואמנם הוא היה רבני ולא קראי), וקרוב הדבר כי גם בן זוטא שלנו חי בארץ ההיא וכי שם התוכח עמו הגאון רב סעדיה על עניינים שונים בפירושי המקרא. (נמצא גם שם פרסי זוטא ובשם זה היה נקרא אבי זקנו של אבו חניפה עי' Encykl. d. Islams I:96a. ועי' יהושוע בן עלי הכהן בן זיטא חותם בתור עד תחת כתובה קראית מירושלים משנת ד"א תשפ"ח (1028), עי' ירושלים ו' 239). </p><p> המחבר היחידי שמסר לנו את דברי הויכוח הוא הראב"ע בפירושו לפסוק: עין תחת עין (שמות כ"א:כ"ד): "אמר רב סעדיה לא נוכל לפרש זה הפסוק כמשמעו... אמר לו בן זוטא והלא כתוב במקום אחר כאשר ינתן מום באדם כן ינתן בו והגאון השיב לו ... ובן זיטא השיב לו ... והגאון השיב ... ובן זוטא השיב ... והגאון השיב וכו'". ומהמלים אמר לו בן זיטא נוכל ללמוד כי הוכוח היה בעל פה. גם זה מראה כי היה זה לנכון עוד בארץ מצרים בימי נעוריו של רב סעדיה כי אחרי עלותו על כסא הגאונות נמנע רב סעדיה כפי הנראה להתוכח עם הקראים פה אל פה (ואל התקופה הזאת יוסבו בלי ספק דברי הקראי סהל בן מצליח אצל פינסקר ל"ק II 37). עוד מביא הראב"ע בהחלק הנשאר לפליטה ממהדורה שנייה לפירושו לויקרא כ"ג:ט"ו (נדפס אצל Friedlander, Examp on the Writings of Abraham ibn Esra, Hebrew Appendix, p. 79) קושית בן זוטא על רב סעדיה בדבר ממחרת השבת ושתי תשובות הגאון עליו וגם הוכוח הזה היה לנכון בעל פה. ;עוד מביא הראב"ע בביאורו לשמות פירושים מוזרים שונים בשם בן זוטא לכתובים אלו: 1) ב':ב'. פה היתה דעת בן זוטא כי משה היה גדול ממרים בעבור שנזכר לפניה בספר במדבר כ"ו:נ"ט (ואם כן אחות משה הנזכרת כאן איננה מרים); 2) כ':כ"ג מלת "מעלות" נגזרה מן מעל (ונזכר הפירוש הזה מהראב"ע גם בהקדמתו לפירושו הארוך); 3) כ"א:ל"ה מלת רעהו בכתוב זה תסוב לא על בעל השור כי אם על השור בעצמו; 4) כ"ב:כ"ח. פה באר בן זוטא מלת מלאתך על ההריון ודמעך כנוי לשכבת זרע והיא הטפה ואמר כי פירוש לא תאחר הוא שלא יעכב האדם מלקחת לו אשה ועל כן אמר אחריו בכור בניך תתן לי (ואמנם בהקדמתו הנ"ל לפירושו הארוך יביא הראב"ע את הבאור הזה בשם הקראי בנימין בן משה הנהאונדי, ע"ע). ומזה נראה עוד כי לא נמנע בן זוטא מלבאר כתובי התורה גם בדרך רמז כמו שעשה כזה גם מיסד כת הקראים ענן בן דוד (ע"ע). חוץ מזה מביא הראב"ע בספר העבור (מהד' האלברשטאם דף ד' ע"א) את ראיותיו של בן זוטא מכתובים שונים המוכיחים כי מפורש הוא במקרא איך לקצוב את החדשים והמועדים על פי ראית הירח וראש ראיותיו היה הכתוב בראשית א':י"ד. ונראה כי גם פה עברו דברי וכוח בינו ובין רב סעדיה. </p><p> בן זוטא לא חיבר כפי הנראה שום ספר ולכן קרוב הדבר כי הראב"ע שאב את כל דברי הקראי הזה מכתבי רב סעדיה. אמנם גם הגאון לא חיבר נגדו ספר מיוחד כמו שחשב דוקס (עי' ל"ק I 43) כי אם הביא את דעותיו בספריו האחרים ובפרט בפירושו לתורה אשר כפי שידענו היה כולל גם דברי וכוח נגד הקראים. </p><p> חוץ מהראב"ע יזכור את בן זוטא בשמו רק עוד מחבר אחד רבני והוא רבי יהודה בן בלעם בפירושו הערבי ליחזקאל י"ח:ו' (נדפס ע"י פוזננסקי, REJ XLV:194). והוא יכונה פה בשם אבו סרי בן זיטא (עי' איזראילזאן REJ XX:132). פה נשמע כי נלחם בן זוטא נגד דברי ענן אשר רצה להוכיח מהכתוב הזה אסור שכיבה עם אשתו ההרה (בבארו הרים כמו לשון רבים ממלת הרה ואכל במובן שכיבה). על כל פנים לפלא יחשב כי לא נמצא שום רמז מבן זוטא שלנו בספרות הקראים, ונראה כי היה אביו יותר מפורסם ולכן נקרא גם בשמו. וידוע כי המנהג לציין אף איש מפורסם אך בשם אביו ימצא גם בתלמוד (כמו למשל בן עזאי, בן זומא) גם בספרות שאחרי התלמוד (כמו בן אשר, בן נפתלי, בן מאיר וכדומה). </p><p> ביבליוגרפיה: </p><p> Poznanski, MGWJ XLI:203-212; idem, The Karaite Literary Opponents of Saadiah Gaon, p. 4; idem, אוצר ישראל, III:98-99; idem, . . IV:152-154; Kohler and Gottheit, JE V:105 (כאן בטעות יכונה בשם אלעזר); Geiger, Jos. Zeitsch. II:151; Graetz V4:290, 529 (די"י ח"ג 964, 274). 
-<lb/></p></quote>
+                <quote xml:lang="he">
+                    <p>בן זוטא (או בן זיטא) </p>
+                    <p> חכם קראי בתחלת המאה העשירית. שמו הפרטי לא נודע ושם אביו יכתב בשתי צורות: זוטא וזיטא, ונראה כי הראשונה עיקר ויהי זוטא שם נרדף לשמות ארמיים דומים כאלו הנמצאים בתלמוד כי זוטרא, זעירא וקטינא; בן זוטא יהיה איפוא דומה ממש לשם בן קטין שנזכר גם הוא בתלמוד (יומא ל"ז א'). והנה מצאנו איש אחד ושמו זוטא (או זוטה) המכונה שר שלום (ע"ע) בארץ מצרים במאה הי"ב (ואמנם הוא היה רבני ולא קראי), וקרוב הדבר כי גם בן זוטא שלנו חי בארץ ההיא וכי שם התוכח עמו הגאון רב סעדיה על עניינים שונים בפירושי המקרא. (נמצא גם שם פרסי זוטא ובשם זה היה נקרא אבי זקנו של אבו חניפה עי' Encykl. d. Islams I:96a. ועי' יהושוע בן עלי הכהן בן זיטא חותם בתור עד תחת כתובה קראית מירושלים משנת ד"א תשפ"ח (1028), עי' ירושלים ו' 239). </p>
+                    <p> המחבר היחידי שמסר לנו את דברי הויכוח הוא הראב"ע בפירושו לפסוק: עין תחת עין (שמות כ"א:כ"ד): "אמר רב סעדיה לא נוכל לפרש זה הפסוק כמשמעו... אמר לו בן זוטא והלא כתוב במקום אחר כאשר ינתן מום באדם כן ינתן בו והגאון השיב לו ... ובן זיטא השיב לו ... והגאון השיב ... ובן זוטא השיב ... והגאון השיב וכו'". ומהמלים אמר לו בן זיטא נוכל ללמוד כי הוכוח היה בעל פה. גם זה מראה כי היה זה לנכון עוד בארץ מצרים בימי נעוריו של רב סעדיה כי אחרי עלותו על כסא הגאונות נמנע רב סעדיה כפי הנראה להתוכח עם הקראים פה אל פה (ואל התקופה הזאת יוסבו בלי ספק דברי הקראי סהל בן מצליח אצל פינסקר ל"ק II 37). עוד מביא הראב"ע בהחלק הנשאר לפליטה ממהדורה שנייה לפירושו לויקרא כ"ג:ט"ו (נדפס אצל Friedlander, Examp on the Writings of Abraham ibn Esra, Hebrew Appendix, p. 79) קושית בן זוטא על רב סעדיה בדבר ממחרת השבת ושתי תשובות הגאון עליו וגם הוכוח הזה היה לנכון בעל פה. ;עוד מביא הראב"ע בביאורו לשמות פירושים מוזרים שונים בשם בן זוטא לכתובים אלו: 1) ב':ב'. פה היתה דעת בן זוטא כי משה היה גדול ממרים בעבור שנזכר לפניה בספר במדבר כ"ו:נ"ט (ואם כן אחות משה הנזכרת כאן איננה מרים); 2) כ':כ"ג מלת "מעלות" נגזרה מן מעל (ונזכר הפירוש הזה מהראב"ע גם בהקדמתו לפירושו הארוך); 3) כ"א:ל"ה מלת רעהו בכתוב זה תסוב לא על בעל השור כי אם על השור בעצמו; 4) כ"ב:כ"ח. פה באר בן זוטא מלת מלאתך על ההריון ודמעך כנוי לשכבת זרע והיא הטפה ואמר כי פירוש לא תאחר הוא שלא יעכב האדם מלקחת לו אשה ועל כן אמר אחריו בכור בניך תתן לי (ואמנם בהקדמתו הנ"ל לפירושו הארוך יביא הראב"ע את הבאור הזה בשם הקראי בנימין בן משה הנהאונדי, ע"ע). ומזה נראה עוד כי לא נמנע בן זוטא מלבאר כתובי התורה גם בדרך רמז כמו שעשה כזה גם מיסד כת הקראים ענן בן דוד (ע"ע). חוץ מזה מביא הראב"ע בספר העבור (מהד' האלברשטאם דף ד' ע"א) את ראיותיו של בן זוטא מכתובים שונים המוכיחים כי מפורש הוא במקרא איך לקצוב את החדשים והמועדים על פי ראית הירח וראש ראיותיו היה הכתוב בראשית א':י"ד. ונראה כי גם פה עברו דברי וכוח בינו ובין רב סעדיה. </p>
+                    <p> בן זוטא לא חיבר כפי הנראה שום ספר ולכן קרוב הדבר כי הראב"ע שאב את כל דברי הקראי הזה מכתבי רב סעדיה. אמנם גם הגאון לא חיבר נגדו ספר מיוחד כמו שחשב דוקס (עי' ל"ק I 43) כי אם הביא את דעותיו בספריו האחרים ובפרט בפירושו לתורה אשר כפי שידענו היה כולל גם דברי וכוח נגד הקראים. </p>
+                    <p> חוץ מהראב"ע יזכור את בן זוטא בשמו רק עוד מחבר אחד רבני והוא רבי יהודה בן בלעם בפירושו הערבי ליחזקאל י"ח:ו' (נדפס ע"י פוזננסקי, REJ XLV:194). והוא יכונה פה בשם אבו סרי בן זיטא (עי' איזראילזאן REJ XX:132). פה נשמע כי נלחם בן זוטא נגד דברי ענן אשר רצה להוכיח מהכתוב הזה אסור שכיבה עם אשתו ההרה (בבארו הרים כמו לשון רבים ממלת הרה ואכל במובן שכיבה). על כל פנים לפלא יחשב כי לא נמצא שום רמז מבן זוטא שלנו בספרות הקראים, ונראה כי היה אביו יותר מפורסם ולכן נקרא גם בשמו. וידוע כי המנהג לציין אף איש מפורסם אך בשם אביו ימצא גם בתלמוד (כמו למשל בן עזאי, בן זומא) גם בספרות שאחרי התלמוד (כמו בן אשר, בן נפתלי, בן מאיר וכדומה). </p>
+                    <p> ביבליוגרפיה: </p>
+                    <p> Poznanski, MGWJ XLI:203-212; idem, The Karaite Literary Opponents of Saadiah Gaon, p. 4; idem, אוצר ישראל, III:98-99; idem, . . IV:152-154; Kohler and Gottheit, JE V:105 (כאן בטעות יכונה בשם אלעזר); Geiger, Jos. Zeitsch. II:151; Graetz V4:290, 529 (די"י ח"ג 964, 274). 
+<lb/>
+                    </p>
+                </quote>
                 <bibl xml:id="jalit-orgbiblDJV65BQJ">
                     <title>Samuel Abraham Poznański, Encyclopedia of Qaraites (Jerusalem, n.d.), אנציקלופדיה בני מקרא, The National Library of Israel: Samuel Poznanski Archive, ARC 4﹡ 1180, Series 5, https://www.nli.org.il/he/archives/NNL\ARCHIVE\AL990032439840205171/NLI.</title>
                     <ptr target="https://jalit.org/bibl/DJV65BQJ"/>
