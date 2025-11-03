@@ -13,12 +13,6 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
-                <editor role="creator" ref=""/>
-                <editor role="entry-editor"/>
                 <editor role="contributor">Jonathan Beise</editor>
                 <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
@@ -35,6 +29,10 @@
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -56,7 +54,9 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#jbeise" when="2025-07-20T17:13:41.532Z">Add extent</change><change who="#rboehm" when="2024-09-03T16:34:36.719Z">work title</change>
+            <change who="#ttoliere" when="2025-11-03T11:47:39.383Z">test</change>
+            <change who="#jbeise" when="2025-07-20T17:13:41.532Z">Add extent</change>
+            <change who="#rboehm" when="2024-09-03T16:34:36.719Z">work title</change>
             <change who="#" when=""/>
             <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
         </revisionDesc>
@@ -87,7 +87,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11">
+                        <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="1v"/>
                             <title xml:lang="" ref="" cert="">A Commentary on and Translation of the Book of Exodus</title>
                             <author ref="" cert=""/>
@@ -100,7 +100,9 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang=""/>
                             </explicit>
-                            <note xml:lang=""><p>Containing a Commentary on the Book of Exodus 22:10–12 and a Translation of the Book of Exodus 22:13–14.</p></note>
+                            <note xml:lang="">
+                                <p>Containing a Commentary on the Book of Exodus 22:10–12 and a Translation of the Book of Exodus 22:13–14.</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -140,9 +142,11 @@
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary><p>
-<lb/> </p></summary>
-                                <layout writtenLines="" columns="" xml:id="layout-1111">
+                                <summary>
+                                    <p>
+<lb/> </p>
+                                </summary>
+                                <layout xml:id="layout-1.1.1.1" writtenLines="" columns="">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -156,7 +160,7 @@
                         </objectDesc>
                         <handDesc>
                             <summary xml:lang=""/>
-                            <handNote medium="" xml:id="hand-111">
+                            <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -179,7 +183,7 @@
                         </decoDesc>
                         <additions>
                             <list>
-                                <item xml:id="add-1111">
+                                <item xml:id="add-1.1.1.1">
                                     <objectType/>
                                     <persName ref="" role="mentioned"/>
                                     <placeName ref="" role="mentioned"/>
@@ -214,7 +218,7 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        <title/>
+                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -247,7 +251,7 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    <title/>
+                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
@@ -255,7 +259,7 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="">
-                                <title/>
+                                
                                 <citedRange unit="p"/>
                                 <ptr target=""/>
                             </bibl>
