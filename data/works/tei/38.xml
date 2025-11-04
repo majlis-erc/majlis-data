@@ -85,7 +85,7 @@
     </teiHeader>
     <text>
         <body>
-            <bibl xml:id=""><note type="authorship" xml:lang="en">Suggested author: David ben Boʿaz (who is known to have written an uṣūl al-dīn treatise). Other possible author: Yosef ha-Roʾeh (e.g. adaptation of uṣūl al-Labbād).</note>
+            <bibl xml:id=""><note type="authorship" xml:lang="en"><p>Suggested author: David ben Boʿaz (who is known to have written an uṣūl al-dīn treatise). Other possible author: Yosef ha-Roʾeh (e.g. adaptation of uṣūl al-Labbād).</p></note>
                 <title xml:id="title-1" xml:lang="en" source="jalit-orgbiblJR4TY369" type="majlis-headword">Compendium on the fundamentals of religion</title>
                 <title xml:id="title-1" xml:lang="ar-Latn" source="jalit-orgbiblJR4TY369" type="majlis-headword">Muḫtaṣar fī uṣūl al-dīn</title>
                 <author source="jalit-orgbiblJR4TY369">unknown</author>
@@ -93,11 +93,11 @@
                 <author ref="https://jalit.org/person/9" cert="medium" source="jalit-orgbiblJR4TY369"> ha-Roʾeh</author>
                 <textLang mainLang="ar" otherLangs="" source=""/>
                 <term type="script"/>
-                <note xml:lang="en">All other options of authorship are of low probability.</note>
+                <note xml:lang="en"><p>All other options of authorship are of low probability.</p></note>
                 <incipit xml:lang="" source=""/>
                 <explicit xml:lang="" source=""/>
                 <quote xml:lang="" type="" source=""/>
-                <note xml:lang="en" type="manuscripts">These three fragments derive from three distinct copies/codices.</note>
+                <note xml:lang="en" type="manuscripts"><p>These three fragments derive from three distinct copies/codices.</p></note>
                 <bibl xml:id="jalit-orgbiblJR4TY369">
                     <title>Gregor Schwarb, The Arabic Counterpart of the Byzantine Karaite Treatise Marpe La-ʿAṣem, March 7, 2025, 459–88, https://doi.org/10.11647/obp.0464.15.</title>
                     <ptr target="https://jalit.org/bibl/JR4TY369"/>
