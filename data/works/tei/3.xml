@@ -92,19 +92,7 @@
                     <explicit xml:lang=""/>
                     <quote xml:lang="" type=""/>
                     <date/>
-                    <note type="edition">
-                        <bibl xml:id="">
-                            <title/>
-                            <citedRange unit="p"/>
-                            <ptr target=""/>
-                        </bibl>
-                    </note>
-                    <note type="manuscript">
-                        <bibl xml:id="">
-                            <title/>
-                            <citedRange unit="p"/>
-                            <ptr target=""/>
-                        </bibl>
+                    <note xml:lang="" type="">
                     </note>
                     <bibl xml:id="">
                         <title/>
