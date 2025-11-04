@@ -35,15 +35,15 @@
                 <idno type="URI">https://jalit.org/person/2</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p><p>
-<lb/>                            </p></p>
+                        <p>
+                            </p>
                     </licence>
                 </availability>
                 <date>2024-02-05</date>
             </publicationStmt>
             <sourceDesc>
-                <p><p>
-<lb/>                    </p></p>
+                <p>
+                    </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">

@@ -38,7 +38,7 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-                            <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                            Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
                         </p>
                     </licence>
                 </availability>
@@ -46,7 +46,7 @@
             </publicationStmt>
             <sourceDesc>
                 <p>
-                    <p>Born digital.</p>
+                    Born digital.
                 </p>
             </sourceDesc>
         </fileDesc>
