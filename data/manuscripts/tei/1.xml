@@ -155,8 +155,8 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary xml:lang="he">תוכן: פירוש יד:21-17
-        </summary>
+                  <summary xml:lang="he"><p>תוכן: פירוש יד:21-17
+        </p></summary>
                   <msItem class="" xml:id="item-11">
                      <locus from="" to=""/>
                      <title xml:lang="" ref="" cert="">פרוש כתובים (משלי)</title>
@@ -285,10 +285,10 @@
     <p>The “Harkavy-Cards” were the foundation for his handwritten four-volume inventory of the  Yevr.-Arab. section of the Second Firkovich Collection. This inventory is today held at the  Vernadsky Library of the Ukrainian Academy of Sciences in Kiev, and also served as basis of  the library’s card catalog prepared over the years by Harkavy, F. Kokovtzov, R. Ravrebe, A.  Vasilev and V. Lebedev.</p>
 </note>
                            <persName>Avraham Harkavy</persName>
-                           <quote xml:lang="he">
+                           <quote xml:lang="he"><p>
 דף א׳ מפי׳ משלי / 
 Bundle number: 388 / 
-</quote>
+</p></quote>
                            <bibl>
                               <title>Avraham E. Harkavy. Harkavy Inventory</title>
                               
