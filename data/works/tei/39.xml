@@ -118,44 +118,44 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang=""/>
                 
-                <bibl xml:id="jalit-orgmanuscript351" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript351" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803, 92r </idno>
                     <ptr target="https://jalit.org/manuscript/351"/>
                 </bibl>
                 
-                <bibl xml:id="jalit-orgmanuscript1053" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript1053" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 818, 5v </idno>
                     <ptr target="https://jalit.org/manuscript/1053"/>
                 </bibl>
-                <bibl xml:id="jalit-orgmanuscript1345" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript1345" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 991, 7r </idno>
                     <ptr target="https://jalit.org/manuscript/1345"/>
                 </bibl>
-                <bibl xml:id="jalit-orgmanuscript353" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript353" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794, 54v, 103v </idno>
                     <ptr target="https://jalit.org/manuscript/353"/>
                 </bibl>
-                <bibl xml:id="jalit-orgmanuscript425" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript425" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. II 1029, 2r, 9r </idno>
                     <ptr target="https://jalit.org/manuscript/425"/>
                 </bibl>
 
-                <bibl xml:id="jalit-orgmanuscript1073" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript1073" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 513, 16r, 39v, 43r, 6v </idno>
                     <ptr target="https://jalit.org/manuscript/1073"/>
                 </bibl>
                 
-                <bibl xml:id="jalit-orgmanuscript1436" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript1436" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1805, 27r, 17r, 29r</idno>
                     <ptr target="https://jalit.org/manuscript/1436"/>
                 </bibl>
                 
-                <bibl xml:id="jalit-orgmanuscript1436" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript1436" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 3016, 4v</idno>
                     <ptr target="https://jalit.org/manuscript/1436"/>
                 </bibl>
                 
-                <bibl xml:id="jalit-orgmanuscript351" default="false" status="draft">
+                <bibl xml:id="jalit-orgmanuscript351" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803.1, 92r</idno>
                     <ptr target="https://jalit.org/manuscript/351"/>
                 </bibl>
