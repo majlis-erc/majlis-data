@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,23 +13,27 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
+                <editor role="contributor">Nathan P. Gibson</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
+                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
-                <editor role="contributor">Nathan P. Gibson</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
-                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
-                <editor role="contributor">Sara Mattutat</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -38,22 +42,29 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-<lb/>                            </p>
+                            <p>
+ </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2024-05-14</date>
             </publicationStmt>
             <sourceDesc>
                 <p>
-<lb/>                    </p>
+                    <p>
+ </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#S.Mattutat" when="2024-09-16T13:11:54.167Z">Heritage Data (Referenced section)</change><change who="#S.Mattutat" when="2024-09-16T09:38:59.352Z">Heritage Data (Note)</change>
+            <change who="#mmoliere" when="2025-11-24T16:47:42.846Z">test</change>
+            <change who="#S.Mattutat" when="2024-09-16T13:11:54.167Z">Heritage Data (Referenced section)</change>
+            <change who="#S.Mattutat" when="2024-09-16T09:38:59.352Z">Heritage Data (Note)</change>
             <change who="#S.Mattutat" when="2024-09-16T09:21:49.471Z">Heritage Data (Note, Author, Transcription, Title of publication)</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
-        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
+            <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -74,7 +85,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11">
+                        <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
                             <title cert="" ref="" xml:lang="">Two fragments of a Karaite service book</title>
                             <author ref=""/>
@@ -127,9 +138,13 @@
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary><p>
-<lb/>  </p><p> </p><p/></summary>
-                                <layout columns="" writtenLines="" xml:id="layout-1111">
+                                <summary>
+  
+
+  
+
+</summary>
+                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -143,7 +158,7 @@
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang=""/>
-                            <handNote medium="" xml:id="hand-111">
+                            <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -153,7 +168,12 @@
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="" script="" style="" xml:lang="ar">
-                                <note xml:lang=""><p/><p>  </p><p> </p><p/></note>
+                                <note xml:lang="">
+                                    <p/>
+                                    <p>  </p>
+                                    <p>  </p>
+                                    <p/>
+                                </note>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
@@ -165,7 +185,7 @@
                         </decoDesc>
                         <additions>
                             <list>
-                                <item xml:id="add-1111">
+                                <item xml:id="add-1.1.1.1">
                                     <objectType/>
                                     <persName ref="" role="mentioned"/>
                                     <locus from="" to=""/>
@@ -194,13 +214,23 @@
                         <accMat>
                             <list>
                                 <item>
-                                    <note xml:lang="en"><p>Karl Julius Reinhart Hoerning (1855–1937) was born in in Meiningen, Thuringia. He entered the University of Leipzig in 1874 at the age of 18, initially to study theology and oriental languages. However, his focus soon shifted exclusively to oriental languages. He studied various languages, including Sanskrit, Arabic, Persian, Turkish, Syriac, Ethiopic, and Rabbinic Hebrew under different professors. The turning point came when Friedrich Delitzsch began Assyriology lectures in the summer semester of 1875, and Hoerning, captivated by the subject, decided to specialize in this new field. 
-<lb/> In 1879 he was appointed assistant to the Keeper of Oriental Manuscripts, Charles Pierre Henri Rieu (1820–1902), at the British Museum, London. His handwritten descriptions of the (mostly) Qaraite manuscripts from the Shapira Collection (today held at the British Library) served as the basis for subsequent catalogs, especially the Catalogue of the Hebrew and Samaritan manuscripts in the British Museum by G. Margoliouth. </p><p> Literature: 
+                                    <note xml:lang="en">
+                                        <p>Karl Julius Reinhart Hoerning (1855–1937) was born in in Meiningen, Thuringia. He entered the University of Leipzig in 1874 at the age of 18, initially to study theology and oriental languages. However, his focus soon shifted exclusively to oriental languages. He studied various languages, including Sanskrit, Arabic, Persian, Turkish, Syriac, Ethiopic, and Rabbinic Hebrew under different professors. The turning point came when Friedrich Delitzsch began Assyriology lectures in the summer semester of 1875, and Hoerning, captivated by the subject, decided to specialize in this new field. 
+<lb/> In 1879 he was appointed assistant to the Keeper of Oriental Manuscripts, Charles Pierre Henri Rieu (1820–1902), at the British Museum, London. His handwritten descriptions of the (mostly) Qaraite manuscripts from the Shapira Collection (today held at the British Library) served as the basis for subsequent catalogs, especially the Catalogue of the Hebrew and Samaritan manuscripts in the British Museum by G. Margoliouth. </p>
+                                        <p> Literature: 
 <lb/> Karl Julius Reinhart Hoerning, “Das sechsseitige Prisma des Sanherib in transcribirtem Grundtext und Uebersetzung nebst Beiträgen zu seiner Erklärung” (Inaugural dissertation, University of Leipzig, 1878). 
-<lb/> Benjamin Richler, “Hoerning, Reinhardt,” in his Guide to Hebrew Manuscript Collections, 2nd ed. (Jerusalem: The Israel Academy of Sciences and Humanities, 2014), p. 96. </p><p/></note>
+<lb/> Benjamin Richler, “Hoerning, Reinhardt,” in his Guide to Hebrew Manuscript Collections, 2nd ed. (Jerusalem: The Israel Academy of Sciences and Humanities, 2014), p. 96. </p>
+                                        <p/>
+                                    </note>
                                     <persName>Karl Julius Reinhart Hoerning</persName>
-                                    <quote xml:lang="en"><p>Two fragments of choral service books. Hebrew, but written in the Arabic char., with instructions for the pieces in Arabic. XIIth and XIVth cent. </p><p> Fragments of Genesis and Deuteronomy, and of Numbers, viz. Gen. xiv 12 - xvii 8, xxi 7 - xxiii 6, xxiv 1 - xxv 17; Deut. iii 19 - iv 34, vii 1 - ix 1; xviii 19 - xxi 14, 19 - xxiii19; Numb. vi 1 - vii 72, ix 2 - x 4, xiv 39 - xv 14, 35 - xx14, xxii 22 - xxv 4: Heb. text written in the Arabic char. and provided with the Heb. vowel-points and accents. XIIth and XIth cent. </p><p> Paper, ff. 132. Sm. 4o. 
-<lb/>  </p><p> </p><p/></quote>
+                                    <quote xml:lang="en">
+                                        <p>Two fragments of choral service books. Hebrew, but written in the Arabic char., with instructions for the pieces in Arabic. XIIth and XIVth cent. </p>
+                                        <p> Fragments of Genesis and Deuteronomy, and of Numbers, viz. Gen. xiv 12 - xvii 8, xxi 7 - xxiii 6, xxiv 1 - xxv 17; Deut. iii 19 - iv 34, vii 1 - ix 1; xviii 19 - xxi 14, 19 - xxiii19; Numb. vi 1 - vii 72, ix 2 - x 4, xiv 39 - xv 14, 35 - xx14, xxii 22 - xxv 4: Heb. text written in the Arabic char. and provided with the Heb. vowel-points and accents. XIIth and XIth cent. </p>
+                                        <p> Paper, ff. 132. Sm. 4o. 
+<lb/>  </p>
+                                        <p>  </p>
+                                        <p/>
+                                    </quote>
                                     <bibl>
                                         <title>Hoerning, Karl Julius Reinhart. “List of Karaite Manuscripts in the British Museum”</title>
                                         <citedRange/>
@@ -228,7 +258,21 @@
                             <persName ref="" role=""/>
                             <quote xml:lang=""/>
                             <stamp/>
-                            <note xml:lang="en"><p>This manuscript was collected by Moses Wilhelm Shapira (1830–1884). He was a dealer of antiquities and manuscripts who sold his goods from a store in the Old City of Jerusalem. He is most known for the controversy over his purported scrolls of Deuteronomy and the fake Moabite pottery created among scholars; at the end of his life, he was publicly disgraced as a fraudster. </p><p> The sources of the manuscripts he sold are not clear. In <emph rend="italic"> The Athenaeum </emph> no. 2855, dated July 15, 1882, Shapira declared that his sources preferred to remain anonymous. He claims to have traveled to Yemen to acquire some of his merchandise. Because of the similarity of Shapira’s manuscripts to those sold by Avraham Firkovitch to St. Petersburg, it has been argued that Shapira too acquired them from the Karaite synagogue in Cairo. (David Sklare, “A Guide to Collections of Karaite Manuscripts”, in <emph rend="italic"> Karaite Judaism: A Guide to its History and Literary Sources </emph> , ed. M. Polliack, Leiden: Brill, 2003, 893–924 [896]; On the provenance of Shapira's manuscripts, see the introduction in R. Hoerning, <emph rend="italic"> Six Karaite Manuscripts </emph> , London, 1889, V.) Shapira prepared a catalog, now at Staatsbibliothek zu Berlin, Ms. or. fol. 1342, of the manuscripts he hoped to sell to institutional libraries. A transcription may be found in the “Heritage data” section. </p><p> Shapira sold it to the British Museum (now British Library), London, in 1877–83. Overall, the British Library owns some 200 Karaite manuscripts which can be traced back to Shapira. However, the volumes do not always align with Shapira's catalogue; the librarians of the 19th century rebound and combined incomplete and separate leafs into complete books. </p><p> Other libraries where Shapira manuscripts are housed today include: Staatsbibliothek zu Berlin and the Sutro Library at the California State Library, San Francisco. </p><p>  </p><p> </p><p/></note>
+                            <note xml:lang="en">
+                                <p>This manuscript was collected by Moses Wilhelm Shapira (1830–1884). He was a dealer of antiquities and manuscripts who sold his goods from a store in the Old City of Jerusalem. He is most known for the controversy over his purported scrolls of Deuteronomy and the fake Moabite pottery created among scholars; at the end of his life, he was publicly disgraced as a fraudster. </p>
+                                <p> The sources of the manuscripts he sold are not clear. In</p>
+                                <p>The Athenaeum</p>
+                                <p>no. 2855, dated July 15, 1882, Shapira declared that his sources preferred to remain anonymous. He claims to have traveled to Yemen to acquire some of his merchandise. Because of the similarity of Shapira’s manuscripts to those sold by Avraham Firkovitch to St. Petersburg, it has been argued that Shapira too acquired them from the Karaite synagogue in Cairo. (David Sklare, “A Guide to Collections of Karaite Manuscripts”, in</p>
+                                <p>Karaite Judaism: A Guide to its History and Literary Sources</p>
+                                <p>, ed. M. Polliack, Leiden: Brill, 2003, 893–924 [896]; On the provenance of Shapira's manuscripts, see the introduction in R. Hoerning,</p>
+                                <p>Six Karaite Manuscripts</p>
+                                <p>, London, 1889, V.) Shapira prepared a catalog, now at Staatsbibliothek zu Berlin, Ms. or. fol. 1342, of the manuscripts he hoped to sell to institutional libraries. A transcription may be found in the “Heritage data” section. </p>
+                                <p> Shapira sold it to the British Museum (now British Library), London, in 1877–83. Overall, the British Library owns some 200 Karaite manuscripts which can be traced back to Shapira. However, the volumes do not always align with Shapira's catalogue; the librarians of the 19th century rebound and combined incomplete and separate leafs into complete books. </p>
+                                <p> Other libraries where Shapira manuscripts are housed today include: Staatsbibliothek zu Berlin and the Sutro Library at the California State Library, San Francisco. </p>
+                                <p>  </p>
+                                <p>  </p>
+                                <p/>
+                            </note>
                         </acquisition>
                     </history>
                     <additional>
