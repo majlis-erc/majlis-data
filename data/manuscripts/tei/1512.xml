@@ -1,43 +1,48 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">London, British Library, Or. 10599</title>
-                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
-                    Arabic in the Islamicate World</title>
-                <sponsor ref="https://www.uni-muenchen.de"> <orgName>Ludwig Maximilian University of
-                    Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                    München</orgName>) </sponsor>
-                <sponsor ref="http://www.naher-osten.uni-muenchen.de"> <orgName>Institute of Near
-                    and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den
-                    Nahen und Mittleren Osten</orgName>) </sponsor>
-                <funder ref="https://erc.europa.eu/"> <orgName>ERC: European Research
-                    Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
+                <sponsor ref="https://www.uni-muenchen.de">
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
+                <sponsor ref="http://www.naher-osten.uni-muenchen.de">
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
+                <funder ref="https://erc.europa.eu/">
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
+                <editor role="contributor">Nathan P. Gibson</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
+                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                 </respStmt>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
-                <editor role="contributor">Nathan P. Gibson</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
-                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
-                <editor role="contributor">Sara Mattutat</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+            </titleStmt>
             <publicationStmt>
-                <authority> <ref target="https://jalit.org">jalit.org – Jewish-Arabic
-                    Literature</ref> </authority>
+                <authority>
+                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
+                </authority>
                 <idno type="URI">https://jalit.org/manuscript/1512</idno>
                 <availability>
-                    <licence target="http://creativecommons.org/licenses/by/3.0/"> <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p> </licence>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                    </licence>
                 </availability>
                 <date>2024-05-14</date>
             </publicationStmt>
@@ -46,15 +51,16 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
-            <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and
-                quotations, and provenance descriptions to extended tag set.</change>
+            <change who="#mmoliere" when="2025-11-24T16:28:53.036Z">test</change>
+            <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
-        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
+            <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listBibl>
-                <msDesc status="draft">
+                <msDesc xml:id="ms-1512" status="draft">
                     <msIdentifier>
                         <country>Great Britain</country>
                         <settlement>London</settlement>
@@ -66,83 +72,174 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
-                        <msItem class="" xml:id="">
+                        <summary xml:lang="">
+                            <p>test</p>
+                        </summary>
+                        <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
                             <title cert="" ref="" xml:lang="">כתאב אלאסתבצאר פי אלפראיץ̇</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="" otherLangs=""/>
-                            <incipit> <locus from="" to=""/> <quote xml:lang=""/> </incipit>
-                            <explicit> <locus from="" to=""/> <quote xml:lang=""/> </explicit>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote xml:lang=""/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote xml:lang=""/>
+                            </explicit>
                             <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <ab type="codicological-definition"> <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType> <listBibl>
-                            <bibl status="draft"> <idno type="manuscript-join"/> <citedRange unit="folios"/> <ptr target=""/> </bibl>
-                            </listBibl> </ab>
+                        <ab type="codicological-definition">
+                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <listBibl>
+                                <bibl status="draft">
+                                    <idno type="manuscript-join"/>
+                                    <citedRange unit="folios"/>
+                                    <ptr target=""/>
+                                </bibl>
+                            </listBibl>
+                        </ab>
                         <objectDesc>
                             <supportDesc>
-                                <support> <material>Paper</material> <note xml:lang=""/> </support>
-                                <extent> <measure unit="folio">20</measure> <dimensions>
-                                    <height unit="mm"/>
-                                    <width unit="mm"/>
-                                    </dimensions> </extent>
+                                <support>
+                                    <material>Paper</material>
+                                    <note xml:lang=""/>
+                                </support>
+                                <extent>
+                                    <measure unit="folio">20</measure>
+                                    <dimensions>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                    </dimensions>
+                                </extent>
                                 <foliation rendition="" style=""/>
-                                <collation> <formula/> <unit/> <catchwords/> <note xml:lang=""/> </collation>
-                                <condition> <note xml:lang=""/> <ab rend="" type="writing"/>
+                                <collation>
+                                    <formula/>
+                                    <unit/>
+                                    <catchwords/>
+                                    <note xml:lang=""/>
+                                </collation>
+                                <condition>
+                                    <note xml:lang=""/>
+                                    <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary> <desc/> <note xml:lang=""/> </summary>
-                                <layout columns="" writtenLines="" xml:id=""> <locus from="" to=""/>
+                                <summary>
+                                    <desc/>
+                                    <note xml:lang=""/>
+                                </summary>
+                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                    <locus from="" to=""/>
                                     <dimensions type="written">
-                                    <height unit="mm"/>
-                                    <width unit="mm"/>
-                                    </dimensions> <metamark function="justification"/> <ab type="ruling"/> <ab type="pricking"/> </layout>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                    </dimensions>
+                                    <metamark function="justification"/>
+                                    <ab type="ruling"/>
+                                    <ab type="pricking"/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang=""/>
-                            <handNote medium=""> <locus from="" to=""/>
-                                <persName ref="" role=""/> <placeName ref=""/> <metamark function=""/> <note xml:lang=""/> </handNote>
+                            <handNote xml:id="hand-1.1.1" medium="">
+                                <locus from="" to=""/>
+                                <persName ref="" role=""/>
+                                <placeName ref=""/>
+                                <metamark function=""/>
+                                <note xml:lang=""/>
+                            </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="" style="" xml:lang=""> <note xml:lang="he"><p/></note> </scriptNote>
+                            <scriptNote rend="" script="" style="" xml:lang="">
+                                <note xml:lang="he"/>
+                            </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
-                            <decoNote> <desc/> <note xml:lang=""/> </decoNote>
+                            <decoNote>
+                                <desc/>
+                                <note xml:lang=""/>
+                            </decoNote>
                         </decoDesc>
-                        <additions> <list>
-                            <item xml:id=""> <objectType/>
-                                <persName ref="" role="mentioned"/> <locus from="" to=""/> <quote xml:lang=""/> <note xml:lang=""/> </item>
-                            </list> </additions>
+                        <additions>
+                            <list>
+                                <item xml:id="add-1.1.1.1">
+                                    <objectType/>
+                                    <persName ref="" role="mentioned"/>
+                                    <locus from="" to=""/>
+                                    <quote xml:lang=""/>
+                                    <note xml:lang=""/>
+                                </item>
+                            </list>
+                        </additions>
                         <bindingDesc>
                             <binding>
-                                <decoNote> <objectType/> <origPlace ref=""/> <origDate/> <material/>
-                                    <note xml:lang=""/> <dimensions>
-                                    <height unit="mm"/>
-                                    <width unit="mm"/>
-                                    <depth unit="mm"/>
-                                    </dimensions> </decoNote>
+                                <decoNote>
+                                    <objectType/>
+                                    <origPlace ref=""/>
+                                    <origDate/>
+                                    <material/>
+                                    <note xml:lang=""/>
+                                    <dimensions>
+                                        <height unit="mm"/>
+                                        <width unit="mm"/>
+                                        <depth unit="mm"/>
+                                    </dimensions>
+                                </decoNote>
                                 <condition key=""/>
                             </binding>
                         </bindingDesc>
-                        <accMat> <list>                                 <item>                                     <note xml:lang=""/>                                     <persName/>                                     <quote xml:lang=""/>                                     <bibl status="draft">                                         <title/>                                         <citedRange unit="p"/>                                         <ptr target=""/>                                     </bibl>                                 </item>                             </list> </accMat>
+                        <accMat>
+                            <list>
+                                <item>
+                                    <note xml:lang=""/>
+                                    <persName/>
+                                    <quote xml:lang=""/>
+                                    <bibl status="draft">
+                                        
+                                        <citedRange unit="p"/>
+                                        <ptr target=""/>
+                                    </bibl>
+                                </item>
+                            </list>
+                        </accMat>
                     </physDesc>
                     <history>
                         <summary xml:lang=""/>
-                        <provenance> <date/> <placeName ref=""/> <locus from="" to=""/>
-                            <persName role=""/> <quote xml:lang=""/> <stamp/> <note xml:lang=""/> </provenance>
-                        <acquisition> <date/> <placeName ref=""/> <locus from="" to=""/>
-                            <persName ref="" role=""/> <quote xml:lang=""/> <stamp/> <note xml:lang="en"/> </acquisition>
+                        <provenance>
+                            <date/>
+                            <placeName ref=""/>
+                            <locus from="" to=""/>
+                            <persName role=""/>
+                            <quote xml:lang=""/>
+                            <stamp/>
+                            <note xml:lang=""/>
+                        </provenance>
+                        <acquisition>
+                            <date/>
+                            <placeName ref=""/>
+                            <locus from="" to=""/>
+                            <persName ref="" role=""/>
+                            <quote xml:lang=""/>
+                            <stamp/>
+                            <note xml:lang="en"/>
+                        </acquisition>
                     </history>
                     <additional>
-                        <surrogates> <listBibl>
-                            <bibl status="draft"> <title>Digital image online</title> <publisher>British
-                                Library</publisher> <ptr target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_10599_f001r"/> </bibl>
-                            </listBibl> </surrogates>
+                        <surrogates>
+                            <listBibl>
+                                <bibl status="draft">
+                                    <title>Digital image online</title>
+                                    <publisher>British Library</publisher>
+                                    <ptr target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_10599_f001r"/>
+                                </bibl>
+                            </listBibl>
+                        </surrogates>
                         <listBibl/>
                     </additional>
                 </msDesc>
