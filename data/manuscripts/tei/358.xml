@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,22 +13,27 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
+                <editor role="contributor">Nathan P. Gibson</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
+                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
-                <editor role="contributor">Nathan P. Gibson</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
-                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
-                <editor role="contributor">Sara Mattutat</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -37,24 +42,27 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-<lb/>                            </p>
+ </p>
                     </licence>
                 </availability>
                 <date>2024-05-14</date>
             </publicationStmt>
             <sourceDesc>
                 <p>
-<lb/>                    </p>
+ </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2024-09-06T10:57:47.084Z">work title linked</change><change who="#rboehm" when="2024-08-30T07:46:28.855Z">work title</change>
+            <change who="#jbeise" when="2025-12-05T13:47:31.026Z">Change Material</change>
+            <change who="#rboehm" when="2024-09-06T10:57:47.084Z">work title linked</change>
+            <change who="#rboehm" when="2024-08-30T07:46:28.855Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
             <change when="2022-10-01" who="#lgzella">Transcribed Harkavy heritage data.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
-        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
+            <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -74,8 +82,11 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""><p>Long Commentary on the Book of Leviticus </p><p/></summary>
-                        <msItem class="" xml:id="item-11">
+                        <summary xml:lang="">
+                            <p>Long Commentary on the Book of Leviticus </p>
+                            <p/>
+                        </summary>
+                        <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="75v"/>
                             <title ref="https://jalit.org/work/19">Long Commentary on the Book of Leviticus</title>
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
@@ -88,7 +99,10 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar"/>
                             </explicit>
-                            <note xml:lang="en"><p>Containing the Long Commentary on the Book of Leviticus chapters 1–7 (fragments). </p><p/></note>
+                            <note xml:lang="en">
+                                <p>Containing the Long Commentary on the Book of Leviticus chapters 1–7 (fragments). </p>
+                                <p/>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -105,7 +119,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material>Paper</material>
+                                    <material>Parchment</material>
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
@@ -128,9 +142,11 @@
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary><p>
-<lb/>  </p><p/></summary>
-                                <layout columns="" writtenLines="" xml:id="layout-1111">
+                                <summary>
+  
+
+</summary>
+                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -144,7 +160,7 @@
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang=""/>
-                            <handNote medium="" xml:id="hand-111">
+                            <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -167,7 +183,7 @@
                         </decoDesc>
                         <additions>
                             <list>
-                                <item xml:id="add-1111">
+                                <item xml:id="add-1.1.1.1">
                                     <objectType/>
                                     <persName ref="" role="mentioned"/>
                                     <locus from="" to=""/>
@@ -196,9 +212,14 @@
                         <accMat>
                             <list>
                                 <item>
-                                    <note xml:lang="en" xml:id="harkavy-cards"><p>Avraham E. Harkavy (1835-1919) was appointed to the department of Jewish literature and oriental manuscripts at the Imperial Public Library of St. Petersburg in 1868. In 1876, he was made head of the Department of Hebrew Books (Hebrew Department), and in 1877 appointed as ordinary librarian, a position which he held for the rest of his life. He was the first curator of the Firkovich collections. His unpublished cataloging of these collections consists of slips of paper (“Harkavy-Cards”) placed together with each manuscript that record his identification and/or brief description of the respective manuscript. These slips were the foundation for his handwritten four-volume inventory of the Yevr.-Arab. section of the Second Firkovich Collection. </p><p>  </p><p/></note>
+                                    <note xml:lang="en" xml:id="harkavy-cards">
+                                        <p>Avraham E. Harkavy (1835-1919) was appointed to the department of Jewish literature and oriental manuscripts at the Imperial Public Library of St. Petersburg in 1868. In 1876, he was made head of the Department of Hebrew Books (Hebrew Department), and in 1877 appointed as ordinary librarian, a position which he held for the rest of his life. He was the first curator of the Firkovich collections. His unpublished cataloging of these collections consists of slips of paper (“Harkavy-Cards”) placed together with each manuscript that record his identification and/or brief description of the respective manuscript. These slips were the foundation for his handwritten four-volume inventory of the Yevr.-Arab. section of the Second Firkovich Collection. </p>
+                                        <p>  </p>
+                                        <p/>
+                                    </note>
                                     <persName>Avraham Harkavy</persName>
-                                    <quote xml:lang="ru"><p>p. 4 
+                                    <quote xml:lang="ru">
+                                        <p>p. 4 
 <lb/> N. 1376 (19) 
 <lb/> Изъ коммент. на кн. Левитъ Абуль-фараджа Фуркана 
 <lb/> 73 пергам. л., ч. поврежд., м. б. не вс ѣ л. изъ одной рукоп. 
@@ -210,7 +231,10 @@
 <lb/> 73 75 л. 
 <lb/> (73 + ½ + 70/71) 
 <lb/> corresponds to p. 2 
-<lb/>  </p><p> </p><p/></quote>
+<lb/>  </p>
+                                        <p>  </p>
+                                        <p/>
+                                    </quote>
                                     <bibl>
                                         <title>Avraham E. Harkavy. Harkavy Cards (ru.)</title>
                                         <citedRange unit="p"/>
@@ -218,9 +242,14 @@
                                     </bibl>
                                 </item>
                                 <item>
-                                    <note xml:lang="en" xml:id="harkavy-cards"><p>Avraham E. Harkavy (1835-1919) was appointed to the department of Jewish literature and oriental manuscripts at the Imperial Public Library of St. Petersburg in 1868. In 1876, he was made head of the Department of Hebrew Books (Hebrew Department), and in 1877 appointed as ordinary librarian, a position which he held for the rest of his life. He was the first curator of the Firkovich collections. His unpublished cataloging of these collections consists of slips of paper (“Harkavy-Cards”) placed together with each manuscript that record his identification and/or brief description of the respective manuscript. These slips were the foundation for his handwritten four-volume inventory of the Yevr.-Arab. section of the Second Firkovich Collection. </p><p>  </p><p/></note>
+                                    <note xml:lang="en" xml:id="harkavy-cards">
+                                        <p>Avraham E. Harkavy (1835-1919) was appointed to the department of Jewish literature and oriental manuscripts at the Imperial Public Library of St. Petersburg in 1868. In 1876, he was made head of the Department of Hebrew Books (Hebrew Department), and in 1877 appointed as ordinary librarian, a position which he held for the rest of his life. He was the first curator of the Firkovich collections. His unpublished cataloging of these collections consists of slips of paper (“Harkavy-Cards”) placed together with each manuscript that record his identification and/or brief description of the respective manuscript. These slips were the foundation for his handwritten four-volume inventory of the Yevr.-Arab. section of the Second Firkovich Collection. </p>
+                                        <p>  </p>
+                                        <p/>
+                                    </note>
                                     <persName>Avraham Harkavy</persName>
-                                    <quote xml:lang="en"><p>p. 4 
+                                    <quote xml:lang="en">
+                                        <p>p. 4 
 <lb/> N. 1376 (19) 
 <lb/> From the commentary on the Book of Leviticus by Abū l-Faraǧ Furqān 
 <lb/> 73 parchment folios, partly damaged, perhaps not all folios are from one [single] manuscript 
@@ -230,7 +259,10 @@
 <lb/> From the commentary on the Book of Leviticus by Abū l-Faraǧ Furqān 
 <lb/> 73 75 folios 
 <lb/> (73 + ½ + 70/71) 
-<lb/>  </p><p> </p><p/></quote>
+<lb/>  </p>
+                                        <p>  </p>
+                                        <p/>
+                                    </quote>
                                     <bibl>
                                         <title>Avraham E. Harkavy. Harkavy Cards (en.)</title>
                                         <citedRange unit="p"/>
@@ -258,7 +290,58 @@
                             <persName ref="" role=""/>
                             <quote xml:lang=""/>
                             <stamp/>
-                            <note xml:lang="en"><p><emph rend="italic"> Yevr. I </emph>  </p><p> The manuscripts of the <emph rend="italic"> First Firkovich Collection </emph> (now known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovich (1787-1874) on the Crimean Peninsula, in the Caucasus, and during his first trip to the Near East in 1830. This collection contains 830 manuscripts, 277 of them (numbers 554-830) being Qaraite. Even though this collection is basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly containing Qaraite works (many of them biblical commentaries by Yefet ben ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of Karaite Manuscripts”, in <emph rend="italic"> Karaite Judaism: A Guide to its History and Literary Sources </emph> , ed. M. Polliack, Leiden: Brill, 2003, 893–924 [907]). Most of these 75 Arabic manuscripts were acquired in 1830, probably by the agency of David ben Avraham ha-Levi (Jerusalem), brother of Moshe ben Avraham ha-Levi (1810-1905, Qaraite chief rabbi in Cairo) (see Zeev Elkin / Menahem Ben-Sasson, “Abraham Firkovich and the Cairo Genizas in the Light of his Personal Archive” [Hebrew], <emph rend="italic"> Peʿamim </emph> 90 (2002), 51–95, [65, n. 48]). The First Firkovich Collection was sold to the Imperial Public Library of the Russian Empire in 1862 for 100,000 silver roubles. </p><p> The Second Firkovich collection was acquired by Abraham ben Samuel Firkovich (1787-1874) during his second trip to the Near East between the years 1863 and 1865. It consists of more than 15,000 items, including Hebrew, Arabic, Judaeo-Arabic and Samaritan manuscripts. The majority of the collection appears to have originated from the Qaraite synagogue in Cairo. The Hebrew manuscripts of the Second Firkovich Collection were divided into several separate collections. </p><p>  <emph rend="italic"> RNL Yevr. II A </emph>  </p><p> Contains Hebrew works of law, exegesis, grammar and philology, theology, documents, etc. This collection contains 2,947 manuscripts. These include 896 bibliographical items (including different texts found in a single miscellany) which are Qaraite. The manuscripts are almost entirely later, Eastern European ones containing liturgical texts, piyyutim and documents. </p><p>  <emph rend="italic"> RNL Yevr. II B </emph>  </p><p> Contains biblical manuscripts written on vellum (1,582 items). </p><p>  <emph rend="italic"> RNL Yevr. II C </emph>  </p><p> Contains biblical manuscripts written on paper (728 items). Most of them are Hebrew biblical texts, but it also contains some other works, such as RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios, copied at the end of the tenth century or the very beginning of the eleventh, or RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel. </p><p>  <emph rend="italic"> RNL Yevr. II K </emph>  </p><p> Contains 76 ketubbot, mostly Qaraite if not all. (Sklare 2003, 907). </p><p> The Judeo-Arabic manuscripts of the Second Firkovich Collection are divided into two series: </p><p>  <emph rend="italic"> RNL Yevr.-Arab. I </emph> (previously known as II Firk. Yevr.-Arab., First Series) </p><p> Contains 4,933 items (although only 4,924 are in microfilm at the IMHM). </p><p>  <emph rend="italic"> RNL Yevr.Arab. II </emph> (previously known as II Firk. Yevr.-Arab., New Series) </p><p> Contains 3,430 items. </p><p>  <emph rend="italic"> RNL Arab.-Yevr. </emph>  </p><p> Contains 382 manuscripts of Jewish texts in Arabic characters. </p><p>  <emph rend="italic"> RNL Firk. Arab. </emph>  </p><p> Contains 656 items of mostly Muslim texts and documents in Arabic characters. </p><p>  <emph rend="italic"> The Second Firkovich Collection was sold to the Imperial Public Library of the Russian Empire in 1876 </emph> . </p><p>  </p><p/></note>
+                            <note xml:lang="en">
+                                <p>
+<lb/>                                </p>
+                                <p>Yevr. I</p>
+                                <p/>
+                                <p> The manuscripts of the</p>
+                                <p>First Firkovich Collection</p>
+                                <p>(now known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovich (1787-1874) on the Crimean Peninsula, in the Caucasus, and during his first trip to the Near East in 1830. This collection contains 830 manuscripts, 277 of them (numbers 554-830) being Qaraite. Even though this collection is basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly containing Qaraite works (many of them biblical commentaries by Yefet ben ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of Karaite Manuscripts”, in</p>
+                                <p>Karaite Judaism: A Guide to its History and Literary Sources</p>
+                                <p>, ed. M. Polliack, Leiden: Brill, 2003, 893–924 [907]). Most of these 75 Arabic manuscripts were acquired in 1830, probably by the agency of David ben Avraham ha-Levi (Jerusalem), brother of Moshe ben Avraham ha-Levi (1810-1905, Qaraite chief rabbi in Cairo) (see Zeev Elkin / Menahem Ben-Sasson, “Abraham Firkovich and the Cairo Genizas in the Light of his Personal Archive” [Hebrew],</p>
+                                <p>Peʿamim</p>
+                                <p>90 (2002), 51–95, [65, n. 48]). The First Firkovich Collection was sold to the Imperial Public Library of the Russian Empire in 1862 for 100,000 silver roubles. </p>
+                                <p> The Second Firkovich collection was acquired by Abraham ben Samuel Firkovich (1787-1874) during his second trip to the Near East between the years 1863 and 1865. It consists of more than 15,000 items, including Hebrew, Arabic, Judaeo-Arabic and Samaritan manuscripts. The majority of the collection appears to have originated from the Qaraite synagogue in Cairo. The Hebrew manuscripts of the Second Firkovich Collection were divided into several separate collections. </p>
+                                <p> </p>
+                                <p>RNL Yevr. II A</p>
+                                <p/>
+                                <p> Contains Hebrew works of law, exegesis, grammar and philology, theology, documents, etc. This collection contains 2,947 manuscripts. These include 896 bibliographical items (including different texts found in a single miscellany) which are Qaraite. The manuscripts are almost entirely later, Eastern European ones containing liturgical texts, piyyutim and documents. </p>
+                                <p> </p>
+                                <p>RNL Yevr. II B</p>
+                                <p/>
+                                <p> Contains biblical manuscripts written on vellum (1,582 items). </p>
+                                <p> </p>
+                                <p>RNL Yevr. II C</p>
+                                <p/>
+                                <p> Contains biblical manuscripts written on paper (728 items). Most of them are Hebrew biblical texts, but it also contains some other works, such as RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios, copied at the end of the tenth century or the very beginning of the eleventh, or RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel. </p>
+                                <p> </p>
+                                <p>RNL Yevr. II K</p>
+                                <p/>
+                                <p> Contains 76 ketubbot, mostly Qaraite if not all. (Sklare 2003, 907). </p>
+                                <p> The Judeo-Arabic manuscripts of the Second Firkovich Collection are divided into two series: </p>
+                                <p> </p>
+                                <p>RNL Yevr.-Arab. I</p>
+                                <p>(previously known as II Firk. Yevr.-Arab., First Series) </p>
+                                <p> Contains 4,933 items (although only 4,924 are in microfilm at the IMHM). </p>
+                                <p> </p>
+                                <p>RNL Yevr.Arab. II</p>
+                                <p>(previously known as II Firk. Yevr.-Arab., New Series) </p>
+                                <p> Contains 3,430 items. </p>
+                                <p> </p>
+                                <p>RNL Arab.-Yevr.</p>
+                                <p/>
+                                <p> Contains 382 manuscripts of Jewish texts in Arabic characters. </p>
+                                <p> </p>
+                                <p>RNL Firk. Arab.</p>
+                                <p/>
+                                <p> Contains 656 items of mostly Muslim texts and documents in Arabic characters. </p>
+                                <p> </p>
+                                <p>The Second Firkovich Collection was sold to the Imperial Public Library of the Russian Empire in 1876</p>
+                                <p>. </p>
+                                <p>  </p>
+                                <p/>
+                            </note>
                         </acquisition>
                     </history>
                     <additional>
