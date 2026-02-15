@@ -76,15 +76,14 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#mmoliere" when="2024-06-12T08:15:09.655Z">Created entry.</change><change who="" when=""/>
+            <change who="#mmoliere" when="2024-06-12T08:15:09.655Z">Created entry.</change><change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="en" type="majlis-headword" xml:id="title-1">Commentary on the Book of Deuteronomy</title>
-                <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
-                <title xml:lang="" xml:id="title-3"/>
+                <title xml:lang="en" type="majlis-headword">Commentary on the Book of Deuteronomy</title>
+                <title xml:lang="en" type="descriptive">Commentary on the Book of Deuteronomy</title>
                 <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>

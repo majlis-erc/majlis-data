@@ -3,36 +3,73 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Commentary on the section “If a [legal] case is too
-                    baffling for you to decide” [Dtn 17:8-13] (descriptive title)</title>
+                <title level="a" xml:lang="en">Commentary on “If a legal case is too baffling for
+                    you to decide” [Dtn 17:8-13] (Yosef ha-Roʾeh)</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(
+                    <orgName xml:lang="de">Ludwig-Maximilians-Universität
+                    München</orgName>)</sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(
+                    <orgName xml:lang="de">Institut für den Nahen und Mittleren
                     Osten</orgName>)</sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
+                    <orgName>ERC: European Research Council</orgName>(
+                    <orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="rvollandt" role="general"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html
+                    http://orcid.org/0000-0002-1702-2981
+                    https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
+                        >Winona Salesky</name>
                 </respStmt>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
-                <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
-                <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
-                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
-                <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">Lea Gzella</editor>
-                <editor role="contributor">Polina Lakteikina</editor><editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">Polina
+                <editor role="entry-editor"/>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+                <editor xml:id="lfroschmeier" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html"
+                    >Lukas Froschmeier</editor>
+                <editor xml:id="afuchs" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html"
+                    >Annabelle Fuchs</editor>
+                <editor xml:id="ngibson" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html
+                    http://orcid.org/0000-0003-0786-8075
+                    https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
+                <editor xml:id="lgzella" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html"
+                    >Lea Gzella</editor>
+                <editor role="contributor">Polina Lakteikina</editor>
+                <editor xml:id="plakteikina" role="contributor"
+                    ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">Polina
                     Lakteikina</editor>
-                <editor role="contributor">Sara Mattutat</editor><editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
-                <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">Lea Poralla</editor>
-                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
-                <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
-                </titleStmt>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor xml:id="mmoliere" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html
+                    https://orcid.org/0000-0002-2168-8655
+                    http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor xml:id="lporalla" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html"
+                    >Lea Poralla</editor>
+                <editor xml:id="gschwarb" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html
+                    http://orcid.org/0000-0002-9090-1878
+                    https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor xml:id="ptarras" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html"
+                    >Peter Tarras</editor>
+                <editor xml:id="nurbiczek" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html"
+                    >Nadine Urbiczek</editor>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -63,7 +100,8 @@
         <encodingDesc>
             <editorialDecl>
                 <p>This record created following the Jalit.org guidelines. Documentation available
-                        at:<ref target="http://jalit.org/documentation">http://syriaca.org/documentation</ref>.</p>
+                        at:<ref target="http://jalit.org/documentation"
+                        >http://syriaca.org/documentation</ref>.</p>
             </editorialDecl>
             <classDecl>
                 <taxonomy>
@@ -92,24 +130,27 @@
         </profileDesc>
         <revisionDesc status="draft">
             <change who="#mmoliere" when="2025-05-07T11:40:21.687Z">Created entry.</change>
+            <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-
-                <title xml:lang="en" type="authorial" xml:id="title-1">Commentary on the
-                    section “If a [legal] case is too baffling for you to decide” [Dtn
-                    17:8-13]</title>
+                <title xml:lang="en">Commentary on “If a legal case is too baffling for you to
+                    decide” [Dtn 17:8-13]</title>
+                <title xml:lang="—" type="majlis-headword">Commentary on "If a legal case is too
+                    baffling for you to decide” [Dtn 17:8-13]</title>
+                <title xml:lang="ar-Latn" type="alternate">Tafsīr faṣl ki yippale mimḵa
+                    davar</title>
+                <title xml:lang="ar-Latn" type="alternate">Tafsīr ki yippale</title>
+                <title xml:lang="ar-Latn" type="alternate">Maqāla ki yippale mimḵa</title>
+                <title xml:lang="ar-Latn" type="alternate">Risāla ki yippale mimḵa</title>
+                <title xml:lang="ar-Latn" type="alternate">Maqālat al-qiyās</title>
+                <title xml:lang="ar-Latn" type="alternate">al-Kalām fī ki yippale</title>
+                <title xml:lang="ar-Latn" type="alternate">al-Kalām fī l-qiyās</title>
+                <title xml:lang="ar" type="authorial">تفسير כי יפלא ממך</title>
+                <title xml:lang="ar-Hebr" type="authorial">תפסיר כי יפלא ממך</title>
                 <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
-
-                <title xml:lang="ar-Latn" type="alternate" xml:id="title-2" source="#jalit-orgmanuscript351">Tafsīr faṣl ki yippale mimḵa davar</title>
-                <title xml:lang="ar-Latn" type="alternate" xml:id="title-3" source="#jalit-orgmanuscript1053 #jalit-orgmanuscript1345 #jalit-orgmanuscript353 #jalit-orgmanuscript425 #jalit-orgmanuscript351">Tafsīr ki yippale </title>
-                <title type="alternate" xml:lang="ar-Latn" xml:id="title-4" source="#jalit-orgmanuscript1073">Maqāla ki yippale mimḵa</title>
-                <title type="alternate" xml:lang="ar-Latn" xml:id="title-5" source="#jalit-orgmanuscript1073">Risāla ki yippale mimḵa</title>
-                <title type="alternate" xml:lang="ar-Latn" xml:id="title-6" source="#jalit-orgmanuscript1436">Maqālat al-qiyās</title>
-                <title type="alternate" xml:lang="ar-Latn" xml:id="title-7">al-Kalām fī ki yippale</title>
-                <title type="alternate" xml:lang="ar-Latn" xml:id="title-8" source="#jalit-orgmanuscript1053 #jalit-orgmanuscript351 #jalit-orgmanuscript1436">al-Kalām fī l-qiyās</title>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
                 <date/>
@@ -117,12 +158,10 @@
                 <explicit xml:lang=""/>
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang=""/>
-                
                 <bibl xml:id="jalit-orgmanuscript351" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803, 92r </idno>
                     <ptr target="https://jalit.org/manuscript/351"/>
                 </bibl>
-                
                 <bibl xml:id="jalit-orgmanuscript1053" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 818, 5v </idno>
                     <ptr target="https://jalit.org/manuscript/1053"/>
@@ -139,24 +178,23 @@
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. II 1029, 2r, 9r </idno>
                     <ptr target="https://jalit.org/manuscript/425"/>
                 </bibl>
-
                 <bibl xml:id="jalit-orgmanuscript1073" status="draft">
-                    <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 513, 16r, 39v, 43r, 6v </idno>
+                    <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 513, 16r, 39v,
+                        43r, 6v </idno>
                     <ptr target="https://jalit.org/manuscript/1073"/>
                 </bibl>
-                
                 <bibl xml:id="jalit-orgmanuscript1436" status="draft">
-                    <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1805, 27r, 17r, 29r</idno>
+                    <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1805, 27r, 17r,
+                        29r</idno>
                     <ptr target="https://jalit.org/manuscript/1436"/>
                 </bibl>
-                
                 <bibl xml:id="jalit-orgmanuscript1436" status="draft">
                     <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 3016, 4v</idno>
                     <ptr target="https://jalit.org/manuscript/1436"/>
                 </bibl>
-                
                 <bibl xml:id="jalit-orgmanuscript351" status="draft">
-                    <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803.1, 92r</idno>
+                    <idno> St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803.1,
+                        92r</idno>
                     <ptr target="https://jalit.org/manuscript/351"/>
                 </bibl>
             </bibl>

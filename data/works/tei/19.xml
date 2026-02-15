@@ -82,15 +82,17 @@
         </profileDesc>
         <revisionDesc status="draft">
             <change who="#rboehm" when="2025-03-29T10:28:07.068Z">meta data</change><change who="#rboehm" when="2024-09-06T10:48:46.573Z">work entry created</change>
-            <change who="" when=""/>
+            <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <bibl xml:id=""><title type="authorial" xml:lang="en" xml:id="title-1">Long Commentary on the Book of Leviticus</title><term type=""/>
-                <title xml:lang="ar-Hebr" type="majlis-headword" xml:id="title-2">אלתפסיר אלמבסוט פי ספר ויקרא</title>
-                <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-3">al-Tafsīr al-mabsūṭ fī sifr vay-yiqraʾ</title>
-                <title xml:lang="ar-Hebr" type="attested" xml:id="title-4">אלמשרוח / אלמבסוט</title>
+            <bibl xml:id=""><title xml:lang="en" type="majlis-headword">Long Commentary on the Book of Leviticus</title>
+                <title xml:lang="en" type="authorial">Long Commentary on the Book of Leviticus</title>
+                <title xml:lang="ar-Latn" type="authorial">al-Tafsīr al-mabsūṭ</title>
+                <title xml:lang="ar-Hebr" type="authorial">אלתפסיר אלמבסוט</title>
+                <title xml:lang="ar-Hebr" type="attested">אלמשרוח</title>
+                <title xml:lang="ar-Hebr" type="attested">אלמבסוט</title>
                 <author ref="https://jalit.org/person/11" cert="high">Yešuʿa ben Yehuda</author>
                 <persName role="" ref="" cert="high"/>
                 <textLang mainLang="" otherLangs=""/>

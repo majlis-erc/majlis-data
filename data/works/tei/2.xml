@@ -123,15 +123,16 @@
                 <language ident="ar">Arabic</language>
             </langUsage>
         </profileDesc>
-        <revisionDesc status="draft"/>
+        <revisionDesc status="draft">
+            <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-1">al-Mabsūṭ fī
-                    l-ʿarayot</title>
-                <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
-                <title xml:lang="" xml:id="title-3"/>
+                <title xml:lang="en" type="majlis-headword">The Large Treatise on Incest</title>
+                <title xml:lang="ar-Latn" type="authorial">al-Mabsūṭ fī l-ʿarayot</title>
+                <title xml:lang="en" type="authorial">The Large Treatise on Incest</title>
                 <author source="" ref="" cert="">Šlomo ben David ha-Nasi</author>
                 <persName role="" source="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs="" source=""/>
