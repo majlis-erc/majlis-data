@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Book Intimating the Ensemble of Theoretical and Practical Components of the Obligation Imposed by God</title>
+                <title level="a" xml:lang="en">Book Intimating the Ensemble of Theoretical and Practical Components of the Obligation Imposed by God (Yašar ben Ḥesed ben Yašar)</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -74,15 +74,16 @@
                 </keywords>
             </textClass>
         </profileDesc>
-        <revisionDesc status="draft"/>
+        <revisionDesc status="draft"><change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change></revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="en" type="authorial" xml:id="title-1">Book Intimating the Ensemble of Theoretical and Practical Components of the Obligation Imposed by God</title><title type="majlis-headword" xml:lang="ar-Hebr" xml:id="title-2">כתאב אלאימא אלי ג̇ואמע אלתכליף עלמא ועמלא</title>
-                <title xml:lang="ar" type="majlis-headword" xml:id="title-3">كتاب الإيماء إلى جوامع التكليف علماً وعملاً</title>
-                <title xml:lang="ar-Latn" type="majlis-headword" xml:id="title-4">Kitāb al-Īmāʾ ilā ǧawāmiʿ al-taklīf ʿilman wa-ʿamalan</title>
-                
+                <title xml:lang="en" type="authorial">Book Intimating the Ensemble of Theoretical and Practical Components of the Obligation Imposed by God</title>
+                <title xml:lang="en" type="majlis-headword">Book Intimating the Ensemble of Theoretical and Practical Components of the Obligation Imposed by God</title>
+                <title xml:lang="ar" type="authorial">كتاب الإيماء إلى جوامع التكليف علماً وعملاً</title>
+                <title xml:lang="ar-Latn" type="authorial">Kitāb al-īmāʾ ilā ǧawāmiʿ al-taklīf ʿilman wa-ʿamalan</title>
+                <title xml:lang="ar-Hebr" type="authorial">כתאב אלאימא אלי ג̇ואמע אלתכליף עלמא ועמלא</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>

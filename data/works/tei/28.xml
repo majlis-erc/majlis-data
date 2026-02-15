@@ -109,15 +109,14 @@
         </profileDesc>
         <revisionDesc status="draft">
             <change who="#rboehm" when="2025-03-29T11:33:55.593Z">meta data</change><change who="#rboehm" when="2024-09-06T14:51:43.724Z">entry created</change>
-            <change who="" when=""/>
+            <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="en" type="majlis-headword" xml:id="title-1">Commentary on the Book of Kings</title>
-                <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
-                <title xml:lang="" xml:id="title-3"/>
+                <title xml:lang="en" type="majlis-headword">Commentary on the Book of Kings</title>
+                <title xml:lang="en" type="descriptive">Commentary on the Book of Kings</title>
                 <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>

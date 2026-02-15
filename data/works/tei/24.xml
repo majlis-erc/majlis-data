@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Grammar (Yosef ben Noaḥ)</title>
+                <title level="a" xml:lang="en">Grammar on the Book of Chronicles (Yosef ben Noaḥ)</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -82,15 +82,18 @@
         </profileDesc>
         <revisionDesc status="draft">
             <change who="#rboehm" when="2025-03-29T11:25:50.477Z">meta data</change><change who="#rboehm" when="2024-09-06T12:42:27.771Z">entry created</change>
-            <change who="" when=""/>
+            <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="en" type="authorial" xml:id="title-1">Grammar</title>
-                <title xml:lang="" type="majlis-headword" xml:id="title-2"/>
-                <title xml:lang="" xml:id="title-3"/>
+                <title xml:lang="en" type="majlis-headword">Grammar on the Book of Chronicles</title>
+                <title xml:lang="en" type="authorial">Grammar on the Book of Chronicles</title>
+                <title xml:lang="he" type="authorial">הדקדוק</title>
+                <title xml:lang="he-Latn" type="authorial">ha-diqduq</title>
+                <title xml:lang="ar-Latn" type="authorial">al-Diqduq</title>
+                <title xml:lang="ar-Hebr">אלדקדוק</title>
                 <author ref="https://jalit.org/person/7">Yosef ben Noaḥ</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
