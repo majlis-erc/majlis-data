@@ -78,15 +78,7 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang="en">
-                            <hi rend="h1">Lorem ipsum dolor sit amet</hi>
-                            <p>consectetur adipiscing elit,<lb/>sed do eiusmod tempor<lb/>incididunt ut labore et<lb/>dolore magna aliqua.</p>
-                            <hi rend="h2">Ut enim ad <emph rend="bold">minim veniam</emph>
-                            </hi>
-                            <p>quis nostrud exercitation <emph rend="bold">ullamco laboris</emph> nisi ut aliquip ex ea <emph rend="italic">commodo consequat</emph>. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                            <hi rend="h3">Ut enim ad <emph rend="italic">minim</emph> veniam</hi>
-                            <p>quis nostrud exercitation <emph rend="bold">ullamco laboris</emph> nisi ut aliquip ex ea <emph rend="italic">commodo consequat</emph>. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        </summary>
+                        <summary xml:lang="en"></summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
                             <title cert="" ref="" xml:lang="">תורה</title>
