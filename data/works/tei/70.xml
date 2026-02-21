@@ -82,8 +82,8 @@
                 <title xml:id="title-1" source="#" xml:lang="en" type="majlis-headword">Test</title>
                 <title xml:id="title-2" source="#" xml:lang="en" type="canon">Test</title>
                 <title xml:id="title-3" source="#" xml:lang="he-Latn">Test</title>
-                <author xmlns="" ref="https://jalit.org/person/25">David al-Fāsī</author>
-                <persName xmlns="" ref="https://jalit.org/person/2">
+                <author ref="https://jalit.org/person/25">David al-Fāsī</author>
+                <persName ref="https://jalit.org/person/2">
                     <persName ref="https://jalit.org/person/2" role="translator">Salmon ben Yerūḥam</persName>
                 </persName>
                 <textLang mainLang="ar" otherLangs="he"/>
