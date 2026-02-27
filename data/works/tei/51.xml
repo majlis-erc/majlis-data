@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Answers to Questions posed by ʿAlī b. Sulaymān
+                <title level="a" xml:lang="en">Answers to Questions Posed by ʿAlī b. Sulaymān
                     al-Maqdisī (Yašar ben Ḥesed ben Yašar)</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
                     Arabic in the Islamicate World</title>
@@ -135,8 +135,8 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:lang="en" type="majlis-headword">Answers to Questions posed by ʿAlī b. Sulaymān al-Maqdisī</title>
-                <title xml:lang="en" type="authorial">Answers to Questions posed by ʿAlī b. Sulaymān al-Maqdisī</title>
+                <title xml:lang="en" type="majlis-headword">Answers to Questions Posed by ʿAlī b. Sulaymān al-Maqdisī</title>
+                <title xml:lang="en" type="authorial">Answers to Questions Posed by ʿAlī b. Sulaymān al-Maqdisī</title>
                 <title xml:lang="ar" type="attested">المقدسيات</title>
                 <title xml:lang="ar-Hebr" type="attested">אלמקדסיאת</title>
                 <title xml:lang="ar" type="attested" xml:id="title-5">المقدسيات</title>
