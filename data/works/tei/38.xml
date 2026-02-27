@@ -144,9 +144,9 @@
                 <title xml:lang="en" type="majlis-headword">Compendium on the fundamentals of
                     religion</title>
                 <title xml:lang="ar-Latn" type="majlis-headword">Muḫtaṣar fī uṣūl al-dīn</title>
-                <title xml:lang="ar-Latn">مختصر في أصول الدين</title>
-                <title xml:lang="ar-Hebr">מכ̇תצר פי אצול אלדין</title>
-                <title xml:lang="en">Compendium on the fundamentals of religion</title>
+                <title xml:lang="ar-Latn" type="descriptive">مختصر في أصول الدين</title>
+                <title xml:lang="ar-Hebr" type="descriptive">מכ̇תצר פי אצול אלדין</title>
+                <title xml:lang="en" type="descriptive">Compendium on the fundamentals of religion</title>
                 <author source="jalit-orgbiblJR4TY369">unknown</author>
                 <author ref="https://jalit.org/person/6" cert="medium"
                     source="jalit-orgbiblJR4TY369">David ben Boʿaz</author>
