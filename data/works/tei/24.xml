@@ -93,7 +93,7 @@
                 <title xml:lang="he" type="authorial">הדקדוק</title>
                 <title xml:lang="he-Latn" type="authorial">ha-diqduq</title>
                 <title xml:lang="ar-Latn" type="authorial">al-Diqduq</title>
-                <title xml:lang="ar-Hebr">אלדקדוק</title>
+                <title xml:lang="ar-Hebr" type="authorial">אלדקדוק</title>
                 <author ref="https://jalit.org/person/7">Yosef ben Noaḥ</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
