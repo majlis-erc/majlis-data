@@ -138,7 +138,7 @@
                 <title xml:lang="en" type="majlis-headword">Answers to Questions along with Annotations</title>
                 <title xml:lang="en" type="authorial">Answers to Questions along with Annotations</title>
                 <title xml:lang="ar" type="authorial">أجوبة المسائل والتعليقات</title>
-                <title xml:lang="ar-Latn">Aǧwibat al-masāʾil wa-l-taʿlīqāt</title>
+                <title xml:lang="ar-Latn" type="authorial">Aǧwibat al-masāʾil wa-l-taʿlīqāt</title>
                 <title xml:lang="ar-Hebr" type="authorial">אג̇ובה̈ אלמסאיל ואלתעליקאת</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
