@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,22 +13,27 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
+                <editor role="contributor">Nathan P. Gibson</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
+                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
-                <editor role="contributor">Nathan P. Gibson</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
-                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
-                <editor role="contributor">Sara Mattutat</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -37,22 +42,30 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-<lb/>                            </p>
+                            <p>
+                                <lb/>
+                            </p>
+                        </p>
                     </licence>
                 </availability>
                 <date>2024-05-14</date>
             </publicationStmt>
             <sourceDesc>
                 <p>
-<lb/>                    </p>
+                    <p>
+                        <lb/>
+                    </p>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#mmoliere" when="2024-09-13T11:36:55.184Z">Corrected identification.</change><change who="#mmoliere" when="2024-09-13T10:28:10.451Z">Corrected title.</change>
+            <change who="#mmoliere" when="2024-09-13T11:36:55.184Z">Corrected identification.</change>
+            <change who="#mmoliere" when="2024-09-13T10:28:10.451Z">Corrected title.</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
-        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
+            <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -75,8 +88,12 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11">
+                        <summary xml:lang="">
+                            <hi rend="h1">h1 title</hi>
+                            <p>
+                                <emph rend="italic">italic</emph> text, <emph rend="bold">bold</emph> text<lb/>line-<lb/>break</p>
+                        </summary>
+                        <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
                             <title cert="" ref="" xml:lang="">Aleppo Codex - תנ"ך</title>
                             <author ref=""/>
@@ -129,9 +146,13 @@
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary><p>
-<lb/>  </p><p/></summary>
-                                <layout columns="" writtenLines="" xml:id="layout-1111">
+                                <summary>
+                                    <p>
+                                        <lb/>
+                                    </p>
+                                    <p/>
+                                </summary>
+                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -145,7 +166,7 @@
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang=""/>
-                            <handNote medium="" xml:id="hand-111">
+                            <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">Šlomo ben Buyaʿa</persName>
@@ -157,7 +178,7 @@
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="" script="" style="" xml:lang="">
-                                <note xml:lang="he"><p/><p> </p><p/></note>
+                                <note xml:lang="he"/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
@@ -169,7 +190,7 @@
                         </decoDesc>
                         <additions>
                             <list>
-                                <item xml:id="add-1111">
+                                <item xml:id="add-1.1.1.1">
                                     <objectType/>
                                     <persName ref="" role="mentioned"/>
                                     <locus from="" to=""/>
@@ -196,7 +217,18 @@
                             </binding>
                         </bindingDesc>
                         <accMat>
-                            <list>                                 <item>                                     <note xml:lang=""/>                                     <persName/>                                     <quote xml:lang=""/>                                     <bibl>                                         <title/>                                         <citedRange unit="p"/>                                         <ptr target=""/>                                     </bibl>                                 </item>                             </list>
+                            <list>
+                                <item>
+                                    <note xml:lang=""/>
+                                    <persName/>
+                                    <quote xml:lang=""/>
+                                    <bibl>
+                                        
+                                        <citedRange unit="p"/>
+                                        <ptr target=""/>
+                                    </bibl>
+                                </item>
+                            </list>
                         </accMat>
                     </physDesc>
                     <history>
