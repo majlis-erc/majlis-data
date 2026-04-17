@@ -79,6 +79,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mmoliere" when="2026-04-17T10:18:08.541Z">Changed author.</change>
             <change who="#mmoliere" when="2026-04-17T10:11:24.775Z">Changed author.</change>
             <change who="#mmoliere" when="2025-05-27T06:40:18.351Z">Updated title and authors.</change>
             <change who="#mmoliere" when="2025-05-07T11:25:11.687Z">Created entry.</change>
@@ -98,7 +99,7 @@
                 <title xml:id="title-5" xml:lang="en" type="authorial">Compendium on the Fundamentals of Religion</title>
                 <author source="#">unknown</author>
                 
-                <author ref="https://jalit.org/person/9" cert="medium" source="#">ha-Roʾeh</author>
+                
                 <textLang mainLang="ar" otherLangs=""/>
                 <term type="script"/>
                 <note xml:lang="en" type="authorship">
