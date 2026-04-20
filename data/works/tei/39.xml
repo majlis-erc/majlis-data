@@ -93,14 +93,14 @@
                 <title xml:id="title-2" xml:lang="en" type="authorial">Commentary on "If a legal case is too baffling for you to decide" [Dtn 17:8-13]</title>
                 <title xml:id="title-3" xml:lang="ar" type="authorial">تفسير כי יפלא ממך</title>
                 <title xml:id="title-4" xml:lang="ar-Latn" type="authorial">Tafsīr ki yippale mimḵa</title>
-                <title xml:id="title-5" source="#jalit-orgbiblHB948BH5" xml:lang="ar-Latn" type="alternate">Tafsīr faṣl ki yippale mimḵa davar</title>
-                <title xml:id="title-6" xml:lang="ar-Hebr" type="authorial">תפסיר כי יפלא ממך</title>
-                <title xml:id="title-7" xml:lang="ar-Latn" type="alternate">Tafsīr ki yippale</title>
-                <title xml:id="title-8" xml:lang="ar-Latn" type="alternate">Maqāla ki yippale mimḵa</title>
-                <title xml:id="title-9" xml:lang="ar-Latn" type="alternate">Risāla ki yippale mimḵa</title>
-                <title xml:id="title-10" xml:lang="ar-Latn" type="alternate">Maqālat al-qiyās</title>
-                <title xml:id="title-11" xml:lang="ar-Latn" type="alternate">al-Kalām fī ki yippale</title>
-                <title xml:id="title-12" xml:lang="ar-Latn" type="alternate">al-Kalām fī l-qiyās</title>
+                <title xml:id="title-5" source="#jalit-orgbiblHB948BH5" xml:lang="ar-Latn" type="attested">Tafsīr faṣl ki yippale mimḵa davar</title>
+                <title xml:id="title-6" xml:lang="ar-Hebr" type="attested">תפסיר כי יפלא ממך</title>
+                <title xml:id="title-7" xml:lang="ar-Latn" type="attested">Tafsīr ki yippale</title>
+                <title xml:id="title-8" xml:lang="ar-Latn" type="attested">Maqāla ki yippale mimḵa</title>
+                <title xml:id="title-9" xml:lang="ar-Latn" type="attested">Risāla ki yippale mimḵa</title>
+                <title xml:id="title-10" xml:lang="ar-Latn" type="attested">Maqālat al-qiyās</title>
+                <title xml:id="title-11" xml:lang="ar-Latn" type="attested">al-Kalām fī ki yippale</title>
+                <title xml:id="title-12" xml:lang="ar-Latn" type="attested">al-Kalām fī l-qiyās</title>
                 <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -114,10 +114,10 @@
                     <ptr target="https://jalit.org/manuscript/351"/>
                 </bibl>
                 <bibl xml:id="jalit-orgbiblHB948BH5">
-                        <idno>The transmission in medieval manuscripts of "Al-Kitab al Kafi" by Abu al-Faraj Harun ibn al-Faraj.</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803.2, fol. 92r.</title>
-                        <ptr target="https://jalit.org/bibl/HB948BH5"/>
-                    </bibl>
+                    <idno>The transmission in medieval manuscripts of "Al-Kitab al Kafi" by Abu al-Faraj Harun ibn al-Faraj.</idno>
+                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803.2, fol. 92r.</title>
+                    <ptr target="https://jalit.org/bibl/HB948BH5"/>
+                </bibl>
                 <bibl xml:id="jalit-orgmanuscript1053" status="draft">
                     <idno>St. Petersburg, National Library of Russia, Yevr.-Arab. I 818, 5v</idno>
                     <ptr target="https://jalit.org/manuscript/1053"/>
