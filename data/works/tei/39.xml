@@ -80,6 +80,8 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mmoliere" when="2026-04-24T08:41:44.026Z">Added references
+</change>
             <change who="#mmoliere" when="2026-04-17T09:57:54.885Z">Reference added.</change>
             <change who="#mmoliere" when="2026-04-17T09:57:47.130Z">Reference added.</change>
             <change who="#mmoliere" when="2025-05-07T11:40:21.687Z">Created entry.</change>
@@ -96,10 +98,10 @@
                 <title xml:id="title-5" source="#jalit-orgbiblHB948BH5" xml:lang="ar-Latn" type="attested">Tafsīr faṣl ki yippale mimḵa davar</title>
                 <title xml:id="title-6" xml:lang="ar-Hebr" type="attested">תפסיר כי יפלא ממך</title>
                 <title xml:id="title-7" xml:lang="ar-Latn" type="attested">Tafsīr ki yippale</title>
-                <title xml:id="title-8" xml:lang="ar-Latn" type="attested">Maqāla ki yippale mimḵa</title>
+                <title xml:id="title-8" source="#jalit-orgbiblE34UECRA" xml:lang="ar-Latn" type="attested">Maqāla ki yippale mimḵa</title>
                 <title xml:id="title-9" xml:lang="ar-Latn" type="attested">Risāla ki yippale mimḵa</title>
                 <title xml:id="title-10" xml:lang="ar-Latn" type="attested">Maqālat al-qiyās</title>
-                <title xml:id="title-11" xml:lang="ar-Latn" type="attested">al-Kalām fī ki yippale</title>
+                <title xml:id="title-11" source="#jalit-orgbiblE5SNX59I" xml:lang="ar-Latn" type="attested">al-Kalām fī ki yippale</title>
                 <title xml:id="title-12" xml:lang="ar-Latn" type="attested">al-Kalām fī l-qiyās</title>
                 <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <textLang mainLang="" otherLangs=""/>
@@ -113,9 +115,22 @@
                     <idno>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803, 92r</idno>
                     <ptr target="https://jalit.org/manuscript/351"/>
                 </bibl>
+                <bibl xml:id="jalit-orgbiblE5SNX59I">
+                    <citedRange unit="">4v</citedRange>
+                        <idno>Jacob Ben Simeon,</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 3016</title>
+                        <ptr target="https://jalit.org/bibl/E5SNX59I"/>
+                    </bibl>
+                <bibl xml:id="jalit-orgbiblE34UECRA">
+                        <idno>An Introduction to the Arabic Literature of the Jews</idno>
+                        <citedRange unit="folio">16r, 39v, 43</citedRange>
+                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 513</title>
+                        <ptr target="https://jalit.org/bibl/E34UECRA"/>
+                    </bibl>
                 <bibl xml:id="jalit-orgbiblHB948BH5">
+                    <citedRange unit="">92r</citedRange>
                     <idno>The transmission in medieval manuscripts of "Al-Kitab al Kafi" by Abu al-Faraj Harun ibn al-Faraj.</idno>
-                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803.2, fol. 92r.</title>
+                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1803.2</title>
                     <ptr target="https://jalit.org/bibl/HB948BH5"/>
                 </bibl>
                 <bibl xml:id="jalit-orgmanuscript1053" status="draft">
