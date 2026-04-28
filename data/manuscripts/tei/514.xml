@@ -94,7 +94,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="en">
-                            <p>Yefet ben ʿEli's introduction to the commentary on the book of Deuteronomy and his commentary on the book of Deuteronomy.</p>
+                            <p>Yefet ben ʿEli's Introduction to the Commentary on the Book of Deuteronomy and his Commentary on the Book of Deuteronomy (beginning with Deut 1:1).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1v" to="8v"/>
@@ -102,14 +102,13 @@
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                
                                 <quote xml:lang="ar-Hebr">
                                     <p>בשם יי תבארך אסם אלאה יסראיל אלואחד אלאזלי אלחי אלקאדר אלכאלק אלדי אכתר עאל עאלם ומא פיה וגעלה דאלא עלי איסיתה וחכמתה גל תנאוה</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar">
+                                <quote xml:lang="ar-Hebr">
                                     <p>וקאל ואזניך תשמענה דבר וג̇ו וקאל עד יבוא ויורה צדק אמן ואמן ברחמתה</p>
                                 </quote>
                             </explicit>
@@ -121,20 +120,16 @@
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
-                                
                                 <quote xml:lang="ar-Hebr">
                                     <p>אלה הדברים שאר דבר:<lb/>הדה אלכטב אלדי כאטב משה אלי גמלה ישראל פי עבר אלארדן</p>
                                 </quote>
                             </incipit>
                             <explicit>
-                                
-                                <quote xml:lang="">
+                                <quote xml:lang="ar-Hebr">
                                     <p>אנתם מחבין טאעה אללה בכל ניאתכם ומראדכם אם לא יעני איאכם אן תגתרו אדא ראיתם הדא אלמדעי</p>
                                 </quote>
                             </explicit>
-                            <note xml:lang="en">
-                                <p>Beginning with Deuteronomy 1:1.</p>
-                            </note>
+                            <note xml:lang="en"/>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -161,20 +156,20 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="foliation"> Modern pencil foliation in Arabic numerals usually at the bottom of each recto page.</foliation>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals usually at the bottom of each recto page.</foliation>
                                 <collation>
-                                    <formula/>
+                                    
                                     <unit/>
                                     <catchwords>Signatures at the beginning of quires</catchwords>
                                     <note xml:lang="">
-                                        <p>Quire numbers on fol. 65r and 130r. Hebrew numerals at the beginning of a quire in the upper right margin.</p>
+                                        <p>Hebrew numerals at the beginning of a quire in the upper right margin.  Quire numbers on fol. 65r and 130r.</p>
                                     </note>
                                 </collation>
                                 <condition>
                                     <note xml:lang="">
                                         <p>Generally well preserved, worm-eaten and water-stained in some places with some loss of text.</p>
                                     </note>
-                                    <ab rend="" type="writing">Mostly legible</ab>
+                                    <ab rend="visible" type="writing">Mostly legible</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -209,15 +204,20 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="">
-                            <summary xml:lang=""/>
+                            <summary xml:lang="">
+                                <p>In the first line of each page the letter Lamed is written with an elongated ascender. Aleph-Lamed ligature. Long ascenders and descenders. Descender of final Nun slanting leftwards</p>
+                            </summary>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
+                                
                                 <metamark function="vocalization">sporadic use of Tiberian vocalization signs</metamark>
+                                <metamark function="">Letter pointing, diacritics: Mostly unpointed, a dot above the letter is used to mark abbreviated words</metamark>
+                                <metamark function="">Divine Name/Tetragrammaton: Yods with symbols/abbreviation signs</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang="">
-                                    <p>Divine Name/Tetragrammaton: Yods with symbols/abbreviation signs<lb/>Letter pointing, diacritics: Mostly unpointed, a dot above the letter is used to mark abbreviated words<lb/>Conspicuous graphic habits: In the first line of each page the letter Lamed is written with an elongated ascender. Aleph-Lamed ligature. Long ascenders and descenders. Descender of final Nun slanting leftwards<lb/>Some marginal notes.</p>
+                                    <p>Some marginal notes.</p>
                                 </note>
                             </handNote>
                         </handDesc>
@@ -317,7 +317,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <ptr target=""/>
                                     </bibl>
                                 </item>
