@@ -29,6 +29,7 @@
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
+                <editor xml:id="jbernhofer" role="contributor">Jasper Bernhofer</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
@@ -158,7 +159,6 @@
                                 </extent>
                                 <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals usually at the bottom of each recto page.</foliation>
                                 <collation>
-                                    
                                     <unit/>
                                     <catchwords>Signatures at the beginning of quires</catchwords>
                                     <note xml:lang="">
@@ -211,10 +211,9 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                
-                                <metamark function="vocalization">sporadic use of Tiberian vocalization signs</metamark>
-                                <metamark function="">Letter pointing, diacritics: Mostly unpointed, a dot above the letter is used to mark abbreviated words</metamark>
-                                <metamark function="">Divine Name/Tetragrammaton: Yods with symbols/abbreviation signs</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vocalization signs</metamark>
+                                <metamark function="diacritics">Mostly written without diacritics, a dot above the letter is used to mark abbreviated words</metamark>
+                                <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang="">
                                     <p>Some marginal notes.</p>
