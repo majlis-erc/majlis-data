@@ -82,12 +82,14 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
                             <locus from="128r" to="132v"/>
-                            <title cert="" ref="" xml:lang=""> Commentary on the Book of Deuteronomy</title>
+                            <title cert="" ref="" xml:lang="">Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>[פק̇ יגב עליכם אן] תרדפו עבידכם אדא אטלקת מנהם כמא פעלת [אנא] מעכם</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
@@ -166,7 +168,7 @@
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Mostly written without diacritics, a dot above the letter is used. to mark abbreviated words</metamark>
-                                <metamark function="vocalization"> Sporadic use of Tiberian vocalization signs.</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vocalization signs.</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
