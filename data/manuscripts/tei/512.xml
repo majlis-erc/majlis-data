@@ -91,12 +91,12 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
                             <note xml:lang=""/>
-                            <locus from="1r" to="239v"/>
+                            <locus from="1r" to="86r"/>
                             <title xml:lang="" ref="https://jalit.org/work/13" cert="">Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
-                                <locus from="1r" to="86r"/>
+                                <locus/>
                                 <quote xml:lang="ar-Hebr">
                                     <p>פי אלכתאב נטיר מא קלנא פי הדא ואדא קלת אלפאידה פי מנאגאתה להם בהדא אלקול</p>
                                 </quote>
