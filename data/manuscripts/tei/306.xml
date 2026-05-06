@@ -108,13 +108,17 @@
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript305">
+                                    <idno type="">Yevr.-Arab. I 87</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 87</title>
                         <ptr target="https://jalit.org/manuscript/305"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript308">
+                                    <idno type="">Yevr.-Arab. I 82</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 82</title>
                         <ptr target="https://jalit.org/manuscript/308"/>
                     </bibl>
+                                
+                                
                             </listBibl>
                         </ab>
                         <objectDesc>
