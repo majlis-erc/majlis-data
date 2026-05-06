@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 95</title>
+                <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 95.1</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -77,9 +77,9 @@
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
                         <collection>Yevr.-Arab. I</collection>
-                        <idno>95</idno>
+                        <idno>95.1</idno>
                         <altIdentifier type="Ktiv">
-                            <idno>PNX_MANUSCRIPTS990001522540205171</idno>
+                            <idno>990001522540205171 </idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 53846</idno>
@@ -87,24 +87,27 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="">
-                            <p>Commentary on the Book of Deuteronomy</p>
+                            <p>Commentary on the Book of Deuteronomy by Yefet ben ʿEli (Deut 5:6-10; 9:23-29; 10:1-15, 17-22; 11–13; 14:1, 12-29; 15:1, 5-6, 8-9, 10-12, 15-17, 19-23; 16:1, 9-12, 13-15).</p>
                         </summary>
-                        <msItem xml:id="item-1.1" class="">
+                        <msItem xml:id="item-1.1" class="bibleCommentary">
                             <note xml:lang=""/>
                             <locus from="1r" to="239v"/>
                             <title xml:lang="" ref="https://jalit.org/work/13" cert="">Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
-                            <textLang mainLang="ar" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r" to="86r"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פי אלכתאב נטיר מא קלנא פי הדא ואדא קלת אלפאידה פי מנאגאתה להם בהדא אלקול</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="85r"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>והו יום ראס] אלסנה ופי אלה̇י̇  מנה [ופי שמיני] עצרת פאמא]</p>
+                                </quote>
                             </explicit>
                             <note xml:lang="">
-                                <p>Containing Deuteronomy 5:6–10; 9:23–29; 10:1–15, 17–22; 11–13; 14:1, 12–29; 15:1, 5–6, 8-9, 10–12, 15–17, 19–23; 16:1, 9–12, 13–15, 18–22; 17:1–9, 14–18; 18–24; 25:1–8, 12–19; 33:8, 9, 11–12.</p>
                                 <p>Acc. to catalogue:<lb/>Yefet b. Eli, Commentary on the Book of Numbers 33:30–37.</p>
                             </note>
                         </msItem>
@@ -127,26 +130,34 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">239</measure>
+                                    <measure unit="folio">86</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style="foliation" rendition="modern">Modern pencil foliation in Arabic numerals at the bottom of each recto page.</foliation>
                                 <collation>
-                                    <formula/>
+                                    <formula>5</formula>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Hebrew numerals at top right corner of the first recto page of every quire (fol 33r quire number 7, fol 37r quire number 5, fol 47r quire number 6, fol 57r quire number 9, fol 70r quire number 11).</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab type="writing" rend=""/>
+                                    <note xml:lang="">
+                                        <p>Varying degrees, partly worm eaten, water-stained, some pages torn with loss of text.</p>
+                                    </note>
+                                    <ab type="writing" rend="visible">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
@@ -154,15 +165,17 @@
                                     <p/>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" writtenLines="" columns="">
+                                <layout xml:id="layout-1.1.1.1" writtenLines="26" columns="1">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
-                                        <height unit="mm"/>
+                                        
                                         <width unit="mm"/>
+                                        <height unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Space fillers</metamark>
+                                    <metamark function="justification">Extended letters</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -172,44 +185,39 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="divine-names">Tetragrammaton: 2 yods, 3 yods.</metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād  is frequently written a diacritic point, a dot or a short line above the letters is used for abbreviations.</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vocalization signs.</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote xml:lang="he" script="oriental" rend="" style="square">
+                            <scriptNote xml:lang="he" script="oriental" rend="current" style="square">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Paragraph marks and textual dividers</desc>
+                                <note xml:lang="">
+                                    <p>Headings of a weekly portion written in a separate line. Occasional use of the following signs to structure the text: Colon followed by blank space, single dot oriented on the headline, dotted circle.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType>Ownership statements</objectType>
-                                    <note xml:lang=""/>
-                                    <quote xml:lang="he"/>
-                                    <locus from="87r"/>
-                                    <persName ref="" role="mentioned"/>
                                     
-                                    <quote xml:lang="he"/>
-                                    <note xml:lang=""/>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
                                 </item>
-                                <item xml:id="add-1.1.1.2">
-                                    <objectType>Certificates of endowment</objectType>
-                                    <locus from="87r"/>
-                                    <persName ref="" role=""/>
-                                    <placeName ref="" role=""/>
-                                    <quote xml:lang="he"/>
-                                    <ab type="" xml:lang=""/>
-                                    <note xml:lang=""/>
-                                </item>
+                                
                             </list>
                         </additions>
                         <bindingDesc>
