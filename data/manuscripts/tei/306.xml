@@ -82,15 +82,7 @@
                         <summary xml:lang="">
                             <p>Commentary on the Book of Numbers by Yefet ben ʿEli (Nu 28:7–29:1, 29:8–15, 29:35–31:23, 31:29–40, 31:47–52, 32:8–42, 33:39–34:18).</p>
                         </summary>
-                        <msItem xml:id="item-1.1" class="">
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                        </msItem>
+                        <msItem xml:id="item-1.1" class=""/>
                         <msItem xml:id="item-1.2" class="bibleCommentary">
                             <locus from="68r-v, 105r" to="160v"/>
                             <title cert="" ref="" xml:lang="">Commentary on the Book of Numbers</title>
@@ -115,12 +107,14 @@
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
-                                <bibl>
-                                    <idno type="manuscript-join">Yevr.-Arab. I 82</idno>
-                                    <idno type="">Yevr.-Arab. I 87</idno>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript305">
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 87</title>
+                        <ptr target="https://jalit.org/manuscript/305"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript308">
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 82</title>
+                        <ptr target="https://jalit.org/manuscript/308"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -164,7 +158,6 @@
                                 <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="26">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
-                                        
                                         <width unit="mm"/>
                                         <height unit="mm"/>
                                     </dimensions>
