@@ -91,7 +91,7 @@
                 <title xml:id="title-7" source="#" type="authorial" xml:lang="ar-Hebr">ג̇ואבאת אלמסאיל אלמשכלה פי אלתרכיב</title>
                 <title xml:id="title-8" source="#" type="authorial" xml:lang="ar">جوابات المسائل المشكلة في التركيب</title>
                 <title xml:id="title-9" type="majlis-headword" xml:lang="en">Answers to Intricate Questions about Incest</title>
-                <author xmlns="" ref="https://jalit.org/person/11" cert="high">Yešuʿa ben Yehuda</author>
+                <author ref="https://jalit.org/person/11" cert="high">Yešuʿa ben Yehuda</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
