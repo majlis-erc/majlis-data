@@ -109,8 +109,6 @@
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl>
-                                    
-                                    
                                     <citedRange unit="folios"/>
                                     <ptr target=""/>
                                 </bibl>
@@ -198,14 +196,22 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    
-                                    
+                                    <objectType>Certificates of endowment</objectType>
                                     <locus from="1r" to=""/>
                                     <quote xml:lang="he">
                                         <p>זה הספר יש בו פתרון ויקח קרח עד פרשת פינחס מפתרון המלמד יפת בן עלי הנכר אלבצרי ז'ל' הקדישה אותו שרה בת ראובן שנפטרה מן העולם הזה נ'נ' ואישה משה בן יפתח הכהן אלרחבי על עדת בני מקרא יעזרם אלהים להיות בירושלם עיר הקדש תב' במ' בחצר המלמד יוסף בן בכתויה ת'נ'צ'ב'ה' תחת ידי הז' עזריה בן מצליח בן סהל המשכיל הכהן נ'ע' זכ' לב' יקראו בו כל הנקבצים אל המקום הזה בימי השבתות ובימי המועדים קדש לייי אלהי ישראל לא ימכר ולא יגאל ולא יעבט ארור מוכרו וארור קונהו וארור מוציאו מן החצר הזה כי אם יהי פחד במדינה יחביאהו בעת הצרות בלבד וישיבהו אל מקומו ואלהי ישראל יתן שכר טוב וגורל נעים למקדישו וכל מי שישמר הספר הזה ברוך הוא לייי וכל ישראל בכלל כל הברכות אמן ואמן:</p>
                                     </quote>
                                     <note xml:lang=""/>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType/>
+      <locus from="" to=""/>
+      <quote type="" xml:lang=""/>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
