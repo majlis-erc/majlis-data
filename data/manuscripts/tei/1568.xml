@@ -80,24 +80,25 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="">
-                            <p>Commentary on the Book of Numbers by Yefet ben ʿEli (Nu 28:7–29:1, 29:8–15, 29:35–31:23, 31:29–40, 31:47–52, 32:8–42, 33:39–34:18).</p>
+                            <p>Commentary on the Book of Numbers by Yefet ben ʿEli (Num 16:1–20:11, 20:17–22:4, 22:30–23:3, 23:7–9, 23:11–24:17).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class=""/>
                         <msItem xml:id="item-1.2" class="bibleCommentary">
-                            <locus from="68r-v, 105r" to="160v"/>
+                            <locus from="1r" to="67v"/>
+                            <locus from="69r" to="104v"/>
                             <title cert="" ref="" xml:lang="">Commentary on the Book of Numbers</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
-                                <locus from="" to=""/>
+                                <locus from="1v" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>וכנסכו יפידנא שי ואחד והו אנה אראד בקולה ונסכו רביעית [...]ך כבש געלת בקר</p>
+                                    <p>בשם ייי אלהי ישראל ויקח קרח בן יצהר ואכד קרח אבן יצהר אבן קהת אבן לוי ודתן ואבירם אבניי אליאב ואון אבן פלת בני ראובן אעלם אן הדא אלפצל ואן כאן פי אלתדוין</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>[...] אדא קאל ויצא קצד בה אלי נהאיה חד [...]א קאל וירד פהו נזול [...] ערף עבארתה [...]</p>
+                                    <p>הנה באתי עתה היכול אוכל דבר מאומה הדבר אשר ישים בפי אותו אדבר הדא אלקול לעמרי קאלה לרסלה פי וקת גו</p>
                                 </quote>
                             </explicit>
                             <note xml:lang=""/>
@@ -108,8 +109,8 @@
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl>
-                                    <idno type="manuscript-join">Yevr.-Arab. I 82</idno>
-                                    <idno type="">Yevr.-Arab. I 87</idno>
+                                    
+                                    
                                     <citedRange unit="folios"/>
                                     <ptr target=""/>
                                 </bibl>
@@ -134,7 +135,7 @@
                                     <unit/>
                                     <catchwords>Signatures at the beginning of quires</catchwords>
                                     <note xml:lang="">
-                                        <p>Hebrew numerals in top right corner of the recto of the first folio of each quire (fol. 111r quire number 5, fol. 129r quire number 7?, fol. 68r quire number 11?) , no catchwords.</p>
+                                        <p>Hebrew numerals in top right corner of the recto of the first folio of each quire (quire number 1 is not numbered; fol. 11r quire number 2; fol. 20r quire number 3; fol. 30r quire number 4; fol. 40r quire number 5, fol. 55r quire number 6, fol. 70r quire number 9, later quire numbers have not survived) , no catchwords.</p>
                                     </note>
                                 </collation>
                                 <condition>
@@ -146,6 +147,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
                                     <note xml:lang="">
                                         <p>Right-justified single column layout, even interlinear spacing.</p>
                                     </note>
@@ -196,10 +198,12 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
-                                    <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    
+                                    
+                                    <locus from="1r" to=""/>
+                                    <quote xml:lang="he">
+                                        <p>זה הספר יש בו פתרון ויקח קרח עד פרשת פינחס מפתרון המלמד יפת בן עלי הנכר אלבצרי ז'ל' הקדישה אותו שרה בת ראובן שנפטרה מן העולם הזה נ'נ' ואישה משה בן יפתח הכהן אלרחבי על עדת בני מקרא יעזרם אלהים להיות בירושלם עיר הקדש תב' במ' בחצר המלמד יוסף בן בכתויה ת'נ'צ'ב'ה' תחת ידי הז' עזריה בן מצליח בן סהל המשכיל הכהן נ'ע' זכ' לב' יקראו בו כל הנקבצים אל המקום הזה בימי השבתות ובימי המועדים קדש לייי אלהי ישראל לא ימכר ולא יגאל ולא יעבט ארור מוכרו וארור קונהו וארור מוציאו מן החצר הזה כי אם יהי פחד במדינה יחביאהו בעת הצרות בלבד וישיבהו אל מקומו ואלהי ישראל יתן שכר טוב וגורל נעים למקדישו וכל מי שישמר הספר הזה ברוך הוא לייי וכל ישראל בכלל כל הברכות אמן ואמן:</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
