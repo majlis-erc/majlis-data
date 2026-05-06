@@ -108,20 +108,6 @@
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <handDesc>
-                            <summary xml:lang=""/>
-                            <handNote xml:id="hand-1.1.1" source="#" medium="">
-                                <locus from="1r" to="2r"/>
-                                <locus from="6r" to="28v"/>
-                                <persName ref="" role=""/>
-                                <placeName ref=""/>
-                                <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization signs.</metamark>
-                                <metamark function="diacritics">Mostly unpointed, Ḍād frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
-                                <metamark function="divine-names">Yods with symbols/abbreviation signs</metamark>
-                                <origDate when=""/>
-                                <note xml:lang=""/>
-                            </handNote>
-                        </handDesc>
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
@@ -209,6 +195,17 @@
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang=""/>
+                             <handNote xml:id="hand-1.1.1" source="#" medium="">
+                                <locus from="1r" to="2r"/>
+                                <locus from="6r" to="28v"/>
+                                <persName ref="" role=""/>
+                                <placeName ref=""/>
+                                <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization signs.</metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs</metamark>
+                                <origDate when=""/>
+                                <note xml:lang=""/>
+                            </handNote>
                             <handNote xml:id="hand-1.2.1" medium="">
                                 <locus from="3r" to="4v"/>
                                 <persName ref="" role=""/>
