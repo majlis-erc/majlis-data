@@ -104,11 +104,10 @@
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Multiple text manuscript</objectType>
                             <listBibl>
-                                <bibl status="draft">
-                                    <idno type="manuscript-join">Yevr.-Arab. I 19</idno>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript514">
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 19</title>
+                        <ptr target="https://jalit.org/manuscript/514"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
