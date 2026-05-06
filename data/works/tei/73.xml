@@ -74,6 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-06T09:43:02.756Z">add title data</change>
             <change who="#mroozen" when="2026-05-05T14:52:13.523Z">add titles and author</change>
             <change who="#mroozen" when="2026-05-05T10:50:56.608Z">Create work entry</change>
         </revisionDesc>
@@ -81,15 +82,16 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">Ǧawābāt al-masāʾil fī l-ʿervot (Yevr.-Arab. I 2029, fol. 125v; Yevr.-Arab. I 3911, fol. 40v)</title>
-                <title xml:id="title-2" source="#" type="attested" xml:lang="ar-Latn">Ǧawābāt al-masāʾil al-muškila fī l-ʿervot (Yevr.-Arab. I 3910, fol. 121r; Yevr.-Arab. I 3912, fol. 13r)</title>
-                <title xml:id="title-3" source="#" type="attested" xml:lang="ar-Latn">Ǧawābāt al-masāʾil al-muškila (Yevr.-Arab. I 1128, fol. 70r)</title>
-                <title xml:id="title-4" source="#" type="attested" xml:lang="ar-Latn">Ǧawābāt ʿan masāʾil muškila fī l-tarkīb (Yevr.-Arab. I 2068, fol. 1v)</title>
-                <title xml:id="title-5" source="#" type="authorial" xml:lang="ar-Latn">Ǧawābāt al-masāʾil al-muškila fī l-tarkīb</title>
-                <title xml:id="title-6" source="#" type="authorial" xml:lang="ar-Hebr">ג̇ואבאת אלמסאיל אלמשכלה פי אלתרכיב</title>
-                <title xml:id="title-7" source="#" type="authorial" xml:lang="ar">جوابات المسائل المشكلة في التركيب</title>
-                <title xml:id="title-8" source="#" type="majlis-headword" xml:lang="en">Answers to Intricate Questions about Incest</title>
-                <author xmlns="" ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="en">Answers to Intricate Questions about Incest</title>
+                <title xml:id="title-2" source="#" type="attested" xml:lang="ar-Latn">Ǧawābāt al-masāʾil fī l-ʿervot (Yevr.-Arab. I 2029, fol. 125v; Yevr.-Arab. I 3911, fol. 40v)</title>
+                <title xml:id="title-3" source="#" type="attested" xml:lang="ar-Latn">Ǧawābāt al-masāʾil al-muškila fī l-ʿervot (Yevr.-Arab. I 3910, fol. 121r; Yevr.-Arab. I 3912, fol. 13r)</title>
+                <title xml:id="title-4" source="#" type="attested" xml:lang="ar-Latn">Ǧawābāt al-masāʾil al-muškila (Yevr.-Arab. I 1128, fol. 70r)</title>
+                <title xml:id="title-5" source="#" type="attested" xml:lang="ar-Latn">Ǧawābāt ʿan masāʾil muškila fī l-tarkīb (Yevr.-Arab. I 2068, fol. 1v)</title>
+                <title xml:id="title-6" source="#" type="authorial" xml:lang="ar-Latn">Ǧawābāt al-masāʾil al-muškila fī l-tarkīb</title>
+                <title xml:id="title-7" source="#" type="authorial" xml:lang="ar-Hebr">ג̇ואבאת אלמסאיל אלמשכלה פי אלתרכיב</title>
+                <title xml:id="title-8" source="#" type="authorial" xml:lang="ar">جوابات المسائل المشكلة في التركيب</title>
+                <title xml:id="title-9" type="majlis-headword" xml:lang="en">Answers to Intricate Questions about Incest</title>
+                <author xmlns="" ref="https://jalit.org/person/11" cert="high">Yešuʿa ben Yehuda</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
