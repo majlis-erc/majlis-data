@@ -204,14 +204,14 @@
                                     <note xml:lang=""/>
                                 </item>
                                 <item xml:id="add-1.1.1.2">
-      <objectType/>
-      <locus from="" to=""/>
-      <quote type="" xml:lang=""/>
-      <note xml:lang=""/>
-      <listRelation>
-         <relation name="" ref=""/>
-      </listRelation>
-   </item>
+                                    <objectType/>
+                                    <locus from="" to=""/>
+                                    <quote type="" xml:lang=""/>
+                                    <note xml:lang=""/>
+                                    <listRelation>
+                                        <relation name="" ref=""/>
+                                    </listRelation>
+                                </item>
                             </list>
                         </additions>
                         <bindingDesc>
@@ -348,10 +348,18 @@
                             </listBibl>
                         </surrogates>
                         <listBibl>
-                            <bibl>
-                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991).</title>
+                            <bibl xml:id="jalit-orgbibl3F4LJRKA">
+                        <idno/>
+                        <title>Jacob Mann, Texts and Studies in Jewish History and Literature, ed. Gerson David Cohen (Philadelphia: Hebrew Press of the Jewish Publication Society of America, 1935).</title>
+                        <citedRange unit="page">28-29</citedRange>
+                                <ptr target="https://jalit.org/bibl/3F4LJRKA"/>
+                    </bibl>
+                            <bibl xml:id="jalit-orgbiblCDYNP8XA">
+                        <idno/>
+                        <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991).</title>
+                        <citedRange unit="page">100</citedRange>
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
-                            </bibl>
+                    </bibl>
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001384140205171"/>
