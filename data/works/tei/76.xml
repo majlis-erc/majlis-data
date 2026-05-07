@@ -74,16 +74,20 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-07T09:57:08.573Z">add work titles and author</change>
             <change who="#mroozen" when="2026-05-07T09:47:16.700Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">Maqāla fī l-nuḏūr wa-l-aymān </title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Latn">Maqāla fī l-nuḏūr wa-l-aymān</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Hebr">מקאלה פי אלנד̇ור ואלאימאן</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="ar">مقالة في النذور والأيمان</title>
+                <title xml:id="title-5" source="#" type="authorial" xml:lang="en">Treatise on vows and oaths</title>
+                <title xml:id="title-6" source="#" type="majlis-headword" xml:lang="en">Treatise on vows and oaths</title>
+                <author xmlns="" ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +97,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
