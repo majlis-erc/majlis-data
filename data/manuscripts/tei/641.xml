@@ -78,7 +78,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="" to=""/>
+                            <locus from="1r" to="5v"/>
                             <title cert="" ref="" xml:lang="">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs="he"/>
@@ -185,7 +185,7 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function="diacritics">Mostly unpointed, dad frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
                                 <metamark function="vocalization">Sporadic use of Arabic vowel signs mainly to indicate the ending -an.</metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
