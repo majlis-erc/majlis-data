@@ -74,6 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-07T09:36:15.268Z">update attested title</change>
             <change who="#mroozen" when="2026-05-06T13:57:11.112Z">add work titles and author</change>
             <change who="#mroozen" when="2026-05-05T11:27:31.697Z">create work entry</change>
         </revisionDesc>
@@ -81,7 +82,7 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">Tafsīr ʿaseret ha-devarim al-mašrūḥ (Yevr.-Arab. I 2134, fol. 93r and frequently)</title>
+                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">Tafsīr ʿaseret ha-devarim al-mašrūḥ </title>
                 <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Latn">Tafsīr ʿaseret ha-devarim al-mašrūḥ</title>
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Hebr">תפסיר עשרת הדברים אלמשרוח</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="ar">تفسير عسارث هادباريم المشروح</title>
