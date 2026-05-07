@@ -76,7 +76,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Book of Lights and Watchtowers by Yaʿqūb b. Yiṣḥaq al-Qirqisānī (preserved chapter headings are for discourse XII, chapters 18, 20)</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="5v"/>
                             <title cert="" ref="" xml:lang="">Book of Lights and Watchtowers</title>
@@ -103,31 +105,29 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript341">
                                     <idno type="">Yevr.-Arab. I 2061</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
-                        <ptr target="https://jalit.org/manuscript/341"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
+                                    <ptr target="https://jalit.org/manuscript/341"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript630">
                                     <idno type="">Yevr.-Arab. I 845</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 845</title>
-                        <ptr target="https://jalit.org/manuscript/630"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 845</title>
+                                    <ptr target="https://jalit.org/manuscript/630"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1469">
                                     <idno type="">Yevr.-Arab. I 842</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 842</title>
-                        <ptr target="https://jalit.org/manuscript/1469"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 842</title>
+                                    <ptr target="https://jalit.org/manuscript/1469"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript366">
                                     <idno type="">Yevr.-Arab. I 756.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
-                        <ptr target="https://jalit.org/manuscript/366"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
+                                    <ptr target="https://jalit.org/manuscript/366"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript511">
                                     <idno type="">Yevr.-Arab. I 832.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832.1</title>
-                        <ptr target="https://jalit.org/manuscript/511"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832.1</title>
+                                    <ptr target="https://jalit.org/manuscript/511"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
