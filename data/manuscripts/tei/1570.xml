@@ -84,24 +84,24 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="">
-                            <p>Book of Lights and Watchtowers by Yaʿqūb b. Yiṣḥaq al-Qirqisānī (preserved chapter headings are for discourse III chapters 21-22, discourse IV chapter 63, discourse V chapters 3, 20-21, 31-35, 39-40)</p>
+                            <p>Book of Lights and Watchtowers by Yaʿqūb b. Yiṣḥaq al-Qirqisānī (discourse I chapter 4)</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
-                            <locus from="1r" to="4v"/>
-                            <locus from="6r" to="28v"/>
+                            <locus from="5r-v" to=""/>
+                            
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>תנאקץ בין<lb/>אלבאב אלתאני ואלתליתון פי לבס אלחאתם פי אלס[ב]ת [מ]ע סאיר אלחלי</p>
+                                    <p>תצור פי אלנפס אלא[...]אן אלדין קאלו הדא אנמא קצרו [...]</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>נטק בה אלכתאב איצ[א] פימא ליס הו דאכלא פי אלאפת[ראץ א]מא באב אלאמר ואל[פ…א] תתבענאה וגדנאה יוגב אלתולד עלי מ[...]</p>
+                                    <p>[פאנהם צ]דקו קולהם פי דלך [ויס]מון אלמלך אלדי פעל [דלך תלמי גיר אנמם יזעמון אן אלבארי] גל ועז לקנהם</p>
                                 </quote>
                             </explicit>
                             <note xml:lang=""/>
@@ -111,48 +111,28 @@
                         <handDesc>
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" source="#" medium="">
-                                <locus from="1r" to="2r"/>
-                                <locus from="6r" to="28v"/>
+                                
+                                
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization signs.</metamark>
-                                <metamark function="diacritics">Mostly unpointed, Ḍād frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
-                                <metamark function="divine-names">Yods with symbols/abbreviation signs</metamark>
-                                <origDate when=""/>
-                                <note xml:lang=""/>
+                                <metamark function="diacritics">Mostly unpointed.</metamark>
+                                
+                                
+                                
                             </handNote>
                         </handDesc>
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
-                                <bibl xml:id="jalit-orgmanuscript341">
-                                    <idno type="">Yevr.-Arab. I 2061</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
-                        <ptr target="https://jalit.org/manuscript/341"/>
+                                <bibl xml:id="jalit-orgmanuscript1571">
+                                    <idno type="">Yevr.-Arab. I 832.2</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832.2</title>
+                        <ptr target="https://jalit.org/manuscript/1571"/>
                     </bibl>
-                                <bibl xml:id="jalit-orgmanuscript630">
-                                    <idno type="">Yevr.-Arab. I 845</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 845</title>
-                        <ptr target="https://jalit.org/manuscript/630"/>
-                    </bibl>
-                                <bibl xml:id="jalit-orgmanuscript1469">
-                                    <idno type="">Yevr.-Arab. I 842</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 842</title>
-                        <ptr target="https://jalit.org/manuscript/1469"/>
-                    </bibl>
-                                <bibl xml:id="jalit-orgmanuscript511">
-                                    <idno type="">Yevr.-Arab. I 832.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832</title>
-                        <ptr target="https://jalit.org/manuscript/511"/>
-                    </bibl>
-                                <bibl xml:id="jalit-orgmanuscript641">
-                                    <idno type="">Yevr.-Arab. I 757</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 757</title>
-                        <ptr target="https://jalit.org/manuscript/641"/>
-                    </bibl>
+                                
+                                
+                                
                                 
                             </listBibl>
                         </ab>
@@ -163,13 +143,13 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">27</measure>
+                                    <measure unit="folio">1</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="pagination">Modern pencil foliation in Arabic numerals at the bottom of each recto page.</foliation>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -178,7 +158,7 @@
                                 </collation>
                                 <condition>
                                     <note xml:lang="">
-                                        <p>Partly worm-eaten, many pages torn, holes in the text, water-stained, faded in places with loss of text.</p>
+                                        <p>Partly worm-eaten with some loss of text; top right corner torn, holes in the text, faded in places, loss of text.</p>
                                     </note>
                                     <ab rend="visible" type="writing">Partly legible.</ab>
                                 </condition>
@@ -194,34 +174,20 @@
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="27">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="28">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                     <metamark function="">Space fillers</metamark>
-                                    <metamark function="justification">Extended letters</metamark>
+                                    
                                     <ab type="ruling">No ruling can be seen</ab>
                                     <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
-                            <summary xml:lang=""/>
-                            <handNote xml:id="hand-1.2.1" medium="">
-                                <locus from="3r" to="4v"/>
-                                <persName ref="" role=""/>
-                                <placeName ref=""/>
-                                <metamark function="vocalization">Mixed frequency. Tiberian and Arabic vowel signs. More vowel signs appear on fol. 4r-v, possibly to distinguish between Hebrew and Arabic text, Waw with Cholam is marked with a sign resembling a Segol-cantillation sign.</metamark>
-                                <metamark function="diacritics">Mostly written without diacritics, Ǧīm marked with a dot below the letter Gimel, the letter He for Tāʾ marbūṭa is occasionally written with two diacritical points when the word appears in the construct state, abbreviations are marked with a dot above the letter.</metamark>
-                                <metamark function="divine-names">Tetragrammaton written yod, waw, yod</metamark>
-                                <origDate>1048</origDate>
-                                <note xml:lang="">
-                                    <p>Marginal note written vertically on fol. 3v.</p>
-                                </note>
-                            </handNote>
-                        </handDesc>
+                        
                         <scriptDesc>
                             <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang="he"/>
@@ -232,7 +198,7 @@
                             <decoNote>
                                 <desc>Paragraph marks and textual dividers</desc>
                                 <note xml:lang="">
-                                    <p>Chapter headings written in a separate line, occasional use of a single dot to structure the text.</p>
+                                    <p>Occasional use of a single dot to structure the text.</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
