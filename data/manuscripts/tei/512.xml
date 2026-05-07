@@ -79,7 +79,7 @@
                         <collection>Yevr.-Arab. I</collection>
                         <idno>95.1</idno>
                         <altIdentifier type="Ktiv">
-                            <idno>990001522540205171 </idno>
+                            <idno>990001522540205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 53846</idno>
@@ -96,7 +96,7 @@
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
-                                <locus/>
+                                <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
                                     <p>פי אלכתאב נטיר מא קלנא פי הדא ואדא קלת אלפאידה פי מנאגאתה להם בהדא אלקול</p>
                                 </quote>
@@ -107,9 +107,7 @@
                                     <p>[והו יום ראס] אלסנה ופי אלה̇י̇  מנה [ופי שמיני] עצרת פאמא</p>
                                 </quote>
                             </explicit>
-                            <note xml:lang="">
-                                <p>Acc. to catalogue:<lb/>Yefet b. Eli, Commentary on the Book of Numbers 33:30–37.</p>
-                            </note>
+                            <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -168,7 +166,6 @@
                                 <layout xml:id="layout-1.1.1.1" writtenLines="26" columns="1">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
-                                        
                                         <width unit="mm"/>
                                         <height unit="mm"/>
                                     </dimensions>
@@ -186,7 +183,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: 2 yods, 3 yods.</metamark>
-                                <metamark function="diacritics">Mostly unpointed, Ḍād  is frequently written a diacritic point, a dot or a short line above the letters is used for abbreviations.</metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written a diacritic point, a dot or a short line above the letters is used for abbreviations.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vocalization signs.</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang=""/>
@@ -208,16 +205,7 @@
                         </decoDesc>
                         <additions>
                             <list>
-                                <item xml:id="add-1.1.1.1">
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                </item>
-                                
+                                <item xml:id="add-1.1.1.1"/>
                             </list>
                         </additions>
                         <bindingDesc>
