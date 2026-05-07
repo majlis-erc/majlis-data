@@ -75,6 +75,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-07T10:57:51.223Z">add attested title reference</change>
             <change who="#mroozen" when="2026-05-07T10:55:51.251Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-05-07T10:40:21.962Z">update and add work titles</change>
             <change who="#rboehm" when="2025-03-29T10:28:07.068Z">meta data</change>
@@ -85,7 +86,7 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">al-Tafsīr al-Mašrūḥ</title>
+                <title xml:id="title-1" source="#jalit-orgmanuscript832" type="attested" xml:lang="ar-Latn">al-Tafsīr al-Mašrūḥ</title>
                 <title xml:id="title-2" source="#" type="attested" xml:lang="ar-Latn">al-Tafsīr al-Muttasiʿ</title>
                 <title xml:id="title-3" source="#" type="attested" xml:lang="ar-Latn">al-Tafsīr al-Mabsūṭ</title>
                 <title xml:id="title-4" source="#" type="attested" xml:lang="ar-Latn">al-Tafsīr al-mabsūṭ fī sifr vay-yiqraʾ</title>
