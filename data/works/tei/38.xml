@@ -102,9 +102,6 @@
                 
                 <textLang mainLang="ar" otherLangs=""/>
                 <term type="script"/>
-                <note xml:lang="en" type="authorship">
-                    <p>All other options of authorship are of low probability.</p>
-                </note>
                 <incipit xml:lang=""/>
                 <explicit xml:lang=""/>
                 <quote xml:lang="" type="" source=""/>
