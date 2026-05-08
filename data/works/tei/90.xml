@@ -74,6 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-08T10:10:21.573Z">add bibliographic reference to attested title</change>
             <change who="#mroozen" when="2026-05-08T10:08:20.623Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-05-08T09:59:08.853Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-08T09:47:59.737Z">create work entry</change>
@@ -82,7 +83,7 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">Kitāb al-Muḥtawī fī ʿilm al-tawḥīd wa-l-ʿadl</title>
+                <title xml:id="title-1" source="#jalit-orgmanuscript623" type="attested" xml:lang="ar-Latn">Kitāb al-Muḥtawī fī ʿilm al-tawḥīd wa-l-ʿadl</title>
                 <title xml:id="title-2" source="#" type="attested" xml:lang="ar-Latn">Kitāb al-Muḥtawī</title>
                 <title xml:id="title-3" source="#" type="attested" xml:lang="ar-Latn">al-Muḥtawī</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="he">ספר נעימות</title>
@@ -102,10 +103,9 @@
                 <note xml:lang="" type=""/>
                 <bibl xml:id="jalit-orgmanuscript623">
                     <citedRange unit="folio">fol. 3r</citedRange>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 1690</title>
-                        <ptr target="https://jalit.org/manuscript/623"/>
-                    </bibl>
+                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1690</title>
+                    <ptr target="https://jalit.org/manuscript/623"/>
+                </bibl>
             </bibl>
         </body>
     </text>
