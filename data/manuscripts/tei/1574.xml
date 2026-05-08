@@ -77,7 +77,7 @@
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="13" to="23"/>
-                            <title xmlns="" ref="https://jalit.org/work/38">Compendium on the Fundamentals of Religion</title>
+                            <title ref="https://jalit.org/work/38">Compendium on the Fundamentals of Religion</title>
                             <author ref="" cert=""/>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
