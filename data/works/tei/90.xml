@@ -74,6 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-08T10:08:20.623Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-05-08T09:59:08.853Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-08T09:47:59.737Z">create work entry</change>
         </revisionDesc>
@@ -90,7 +91,6 @@
                 <title xml:id="title-7" source="#" type="authorial" xml:lang="ar">الكتاب المحتوي</title>
                 <title xml:id="title-8" source="#" xml:lang="en" type="authorial">The Comprehensive Book</title>
                 <title xml:id="title-9" source="#" xml:lang="en" type="majlis-headword">The Comprehensive Book</title>
-                
                 <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
@@ -100,11 +100,12 @@
                 <explicit xml:lang=""/>
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
-                <bibl xml:id="" type="">
-                    
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+                <bibl xml:id="jalit-orgmanuscript623">
+                    <citedRange unit="folio">fol. 3r</citedRange>
+                        <title>St. Petersburg, National Library of Russia,
+                    Yevr.-Arab. I 1690</title>
+                        <ptr target="https://jalit.org/manuscript/623"/>
+                    </bibl>
             </bibl>
         </body>
     </text>
