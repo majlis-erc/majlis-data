@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Treatise for Seeking Help (Yosef ha-Roʾe) </title>
+                <title level="a" xml:lang="en">Treatise for Seeking Help (Yosef ha-Roʾe)</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -74,16 +74,21 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-11T13:29:18.412Z">add work titles</change>
             <change who="#mroozen" when="2026-05-11T13:20:07.348Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">al-Naqḍ ʿalā baʿḍ al-goyyim </title>
+                <title xml:id="title-2" source="#" type="attested" xml:lang="ar-Latn">al-Naqḍ ʿalā Abī Ǧaʿfar al-Ṭabarī </title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Latn">Kitāb al-Istiʿāna </title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="ar-Hebr">כתאב אלאסתעאנה̈</title>
+                <title xml:id="title-5" source="#" type="authorial" xml:lang="ar">كتاب الاستعانة</title>
+                <title xml:id="title-6" source="#" type="authorial" xml:lang="en">Treatise for Seeking Help</title>
+                <title xml:id="title-7" source="#" type="majlis-headword" xml:lang="en">Treatise for Seeking Help</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +98,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
