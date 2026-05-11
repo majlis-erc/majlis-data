@@ -74,6 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-11T13:33:08.459Z">add attested title references</change>
             <change who="#mroozen" when="2026-05-11T13:29:18.412Z">add work titles</change>
             <change who="#mroozen" when="2026-05-11T13:20:07.348Z">create work entry</change>
         </revisionDesc>
@@ -81,9 +82,9 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">al-Naqḍ ʿalā baʿḍ al-goyyim </title>
-                <title xml:id="title-2" source="#" type="attested" xml:lang="ar-Latn">al-Naqḍ ʿalā Abī Ǧaʿfar al-Ṭabarī </title>
-                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Latn">Kitāb al-Istiʿāna </title>
+                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">al-Naqḍ ʿalā baʿḍ al-goyyim</title>
+                <title xml:id="title-2" source="#" type="attested" xml:lang="ar-Latn">al-Naqḍ ʿalā Abī Ǧaʿfar al-Ṭabarī</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Latn">Kitāb al-Istiʿāna</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="ar-Hebr">כתאב אלאסתעאנה̈</title>
                 <title xml:id="title-5" source="#" type="authorial" xml:lang="ar">كتاب الاستعانة</title>
                 <title xml:id="title-6" source="#" type="authorial" xml:lang="en">Treatise for Seeking Help</title>
@@ -97,10 +98,16 @@
                 <explicit xml:lang=""/>
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
-                <bibl xml:id="" type="">
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+                <bibl xml:id="jalit-orgmanuscript356">
+                    <citedRange unit="folio">fol. 30v, l. 14</citedRange>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1681</title>
+                        <ptr target="https://jalit.org/manuscript/356"/>
+                    </bibl>
+                <bibl xml:id="jalit-orgmanuscript1436">
+                    <citedRange unit="folio">fol. 35r, l. 14</citedRange>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1805</title>
+                        <ptr target="https://jalit.org/manuscript/1436"/>
+                    </bibl>
             </bibl>
         </body>
     </text>
