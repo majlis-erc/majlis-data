@@ -87,13 +87,13 @@
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>דכרהא פי אחרי מות ודלך פי קולה אך בעשור וג̇ וקולה ובעשור לחדש ה̇וג̇</p>
+                                    <p>ד̇כרהא פי אחרי מות וד̇לך פי קולה אך בעשור וג̇ וקולה ובעשור לחדש ה̇וג̇</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>אן עצת מעציה יגב עליהא פיהא אלקתל לא תקתל חתי תלד אד כאן פי קתלהא קתל ולדהא וקד [...]</p>
+                                    <p>אן עצת מעציה יג̇ב עליהא פיהא אלקתל לא תקתל חתי תלד אד̇ כאן פי קתלהא קתל ולדהא וקד [...]</p>
                                 </quote>
                             </explicit>
                             <note xml:lang=""/>
@@ -186,7 +186,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Mostly unpointed, Ḍād frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
-                                <metamark function="vocalization">Sporadic use of Arabic vowel signs mainly to indicate the ending -an.</metamark>
+                                <metamark function="vocalization">Sporadic use of Arabic vowel signs.</metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
