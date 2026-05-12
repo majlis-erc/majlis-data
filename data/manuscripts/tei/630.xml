@@ -80,7 +80,7 @@
                             <p>Book of Lights and Watchtowers by Yaʿqov ben Yiṣḥaq ha-Qirqisānī (preserved chapter headings are for discourse IV, chapters 3, 21, 23-24, 26-29, 31-32 and for discourse V, chapters 16,38).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="" to=""/>
+                            <locus from="1r" to="12v"/>
                             <title xmlns="" ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs="he"/>
