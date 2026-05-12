@@ -69,7 +69,7 @@
                         <collection>Yevr.-Arab. I</collection>
                         <idno>842</idno>
                         <altIdentifier type="Ktiv">
-                            <idno>990000859900205171 </idno>
+                            <idno>990000859900205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 54372</idno>
@@ -105,30 +105,29 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript341">
                                     <idno type="">Yevr.-Arab. I 2061</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
-                        <ptr target="https://jalit.org/manuscript/341"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
+                                    <ptr target="https://jalit.org/manuscript/341"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript630">
                                     <idno type="">Yevr.-Arab. I 845</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 845</title>
-                        <ptr target="https://jalit.org/manuscript/630"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 845</title>
+                                    <ptr target="https://jalit.org/manuscript/630"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript511">
                                     <idno type="">Yevr.-Arab. I 832.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832.1</title>
-                        <ptr target="https://jalit.org/manuscript/511"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832.1</title>
+                                    <ptr target="https://jalit.org/manuscript/511"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript641">
                                     <idno type="">Yevr.-Arab. I 757</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 757</title>
-                        <ptr target="https://jalit.org/manuscript/641"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 757</title>
+                                    <ptr target="https://jalit.org/manuscript/641"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript366">
                                     <idno type="">Yevr.-Arab. I 756.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
-                        <ptr target="https://jalit.org/manuscript/366"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
+                                    <ptr target="https://jalit.org/manuscript/366"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -144,7 +143,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the top or inner  margin of each recto page.</foliation>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the top or inner margin of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -184,7 +183,7 @@
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Arabic vocalization.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="diacritics">Mostly unpointed, dad is frequently written with a diacritic point.</metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic point.</metamark>
                                 <origDate/>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page.</p>
@@ -341,10 +340,10 @@
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
                             <bibl xml:id="jalit-orgbibl3XIE4SF4">
-                        <idno/>
-                        <title>Leon Nemoy, ed., Kitāb al-Anwār wal-Marāqib: Code of Karaite Law, 5 vols. (New York: Alexander Kohut Memorial Foundation, 1939).</title>
-                        <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
-                    </bibl>
+                                <idno/>
+                                <title>Leon Nemoy, ed., Kitāb al-Anwār wal-Marāqib: Code of Karaite Law, 5 vols. (New York: Alexander Kohut Memorial Foundation, 1939).</title>
+                                <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
+                            </bibl>
                             <bibl status="draft">
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000859900205171"/>
