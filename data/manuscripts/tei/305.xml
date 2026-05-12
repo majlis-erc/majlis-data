@@ -98,10 +98,9 @@
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>וגב עליהם אן יחכמו בין אלקאתל ובין גואל הדם במא יט̇הרון אמרה</p>
+                                    <p>וג̇ב עליהם אן יחכמו בין אלקאתל ובין גואל הדם במא יט̇הרון אמרה</p>
                                 </quote>
                             </explicit>
-                            
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -176,7 +175,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Tiberian vocalization</metamark>
-                                <metamark function="diacritics"> Mostly without diacritics, abbreviations marked by a dot above the letter.</metamark>
+                                <metamark function="diacritics">Mostly without diacritics, abbreviations marked by a dot above the letter.</metamark>
                                 <origDate>900-1100?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
