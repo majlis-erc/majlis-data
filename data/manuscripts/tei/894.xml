@@ -168,7 +168,7 @@
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Mostly written without diacritics, a dot above the letter is used to mark abbreviated words.</metamark>
-                                <metamark function="vocalization">Sporadic use of Tiberian vocalization signs.</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
