@@ -88,20 +88,19 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
                             <locus from="5r-v" to=""/>
-                            
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>תצור פי אלנפס אלא[...]אן אלדין קאלו הדא אנמא קצרו [...]</p>
+                                    <p>תצור פי אלנפס אלא[...]אן אלד̇ין קאלו הד̇א אנמא קצרו [...]</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>[פאנהם צ]דקו קולהם פי דלך [ויס]מון אלמלך אלדי פעל [דלך תלמי גיר אנמם יזעמון אן אלבארי] גל ועז לקנהם</p>
+                                    <p>[פאנהם צ]דקו קולהם פי ד̇לך [ויס]מון אלמלך אלד̇י פעל [ד̇לך תלמי גיר אנמם יזעמון אן אלבארי] ג̇ל ועז לקנהם</p>
                                 </quote>
                             </explicit>
                             <note xml:lang=""/>
@@ -111,15 +110,10 @@
                         <handDesc>
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" source="#" medium="">
-                                
-                                
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization signs.</metamark>
+                                <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
                                 <metamark function="diacritics">Mostly unpointed.</metamark>
-                                
-                                
-                                
                             </handNote>
                         </handDesc>
                         <ab type="codicological-definition">
@@ -127,13 +121,9 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1571">
                                     <idno type="">Yevr.-Arab. I 832.2</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832.2</title>
-                        <ptr target="https://jalit.org/manuscript/1571"/>
-                    </bibl>
-                                
-                                
-                                
-                                
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832.2</title>
+                                    <ptr target="https://jalit.org/manuscript/1571"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -181,13 +171,11 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                     <metamark function="">Space fillers</metamark>
-                                    
                                     <ab type="ruling">No ruling can be seen</ab>
                                     <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        
                         <scriptDesc>
                             <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang="he"/>
