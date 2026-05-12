@@ -104,7 +104,7 @@
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>בשם יי תבארך אסם אלאה יסראיל אלואחד אלאזלי אלחי אלקאדר אלכ̇אלק אלד̇י אכת̇ר עאל עאלם ומא פיה וג̇עלה דאלא עלי איסיתה וחכמתה גל תנאוה</p>
+                                    <p>בשם יי תבארך אסם אלאה יסראיל אלואחד אלאזלי אלחי אלקאדר אלכ̇אלק אלד̇י אכת̇ר עאל עאלם ומא פיה וג̇עלה דאלא עלי איסיתה וחכמתה ג̇ל תנאוה</p>
                                 </quote>
                             </incipit>
                             <explicit>
@@ -122,12 +122,12 @@
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>אלה הדברים שאר דבר:<lb/>הדה אלכטב אלדי כאטב משה אלי גמלה ישראל פי עבר אלארדן</p>
+                                    <p>אלה הדברים שאר דבר:<lb/>הד̇ה אלכ̇טב אלד̇י כ̇אטב משה אלי ג̇מלה ישראל פי עבר אלארדן</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>אנתם מחבין טאעה אללה בכל ניאתכם ומראדכם אם לא יעני איאכם אן תגתרו אדא ראיתם הדא אלמדעי</p>
+                                    <p>אנתם מחבין טאעה אללה בכל ניאתכם ומראדכם אם לא יעני איאכם אן תגתרו אד̇א ראיתם הד̇א אלמדעי</p>
                                 </quote>
                             </explicit>
                             <note xml:lang="en"/>
@@ -211,7 +211,7 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function="vocalization">Sporadic use of Tiberian vocalization signs.</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
                                 <metamark function="diacritics">Mostly written without diacritics, a dot above the letter is used to mark abbreviated words.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
                                 <origDate>1000-1100</origDate>
