@@ -74,16 +74,19 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-12T14:10:04.831Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-12T14:06:35.246Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">al-Naqḍ ʿalā iʿǧāz al-Qālūn</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">אלנקץ̇ עלי אעג̇אז אלקאלון</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">النقض على إعجاز القالون</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Refutation of the Inimitability of the ‘Disgrace’ (i.e., the Qurʾān)</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Refutation of the Inimitability of the ‘Disgrace’ (i.e., the Qurʾān)</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +96,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
