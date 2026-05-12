@@ -82,13 +82,13 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
                             <locus from="128r" to="132v"/>
-                            <title cert="" ref="" xml:lang="">Commentary on the Book of Deuteronomy</title>
+                            <title xmlns="" ref="https://jalit.org/work/13">Commentary on the Book of Deuteronomy (Yefet ben ʿEli)</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>[פק̇ יגב עליכם אן] תרדפו עבידכם אדא אטלקת מנהם כמא פעלת [אנא] מעכם</p>
+                                    <p>[פק̇ יג̇ב עליכם אן] תרדפו עבידכם אד̇א אטלקת מנהם כמא פעלת [אנא] מעכם</p>
                                 </quote>
                             </incipit>
                             <explicit>
@@ -160,14 +160,14 @@
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang="">
-                                <p>In the first line of each page the letter Lamed is written with an elongated ascender. Aleph-Lamed ligature. Long ascenders and descenders. Descender of final Nun slanting leftwards</p>
+                                <p>In the first line of each page the letter Lamed is written with an elongated ascender. Aleph-Lamed ligature. Long ascenders and descenders. Descender of final Nun slanting leftwards.</p>
                             </summary>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="diacritics">Mostly written without diacritics, a dot above the letter is used. to mark abbreviated words</metamark>
+                                <metamark function="diacritics">Mostly written without diacritics, a dot above the letter is used to mark abbreviated words.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vocalization signs.</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang=""/>
