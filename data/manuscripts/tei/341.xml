@@ -91,13 +91,13 @@
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>ולם ילזמה טמא אדא דכלה מצורע ואן דנא בה והדא בין ב[...] אללה גל ועז</p>
+                                    <p>ולם ילזמה טמא אד̇א דכ̇לה מצורע ואן דנא בה והד̇א בין ב[...] אללה ג̇ל ועז</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>ואדא כאן אלתיאב יטמא מן גיר אן יכון מאכולא ולא משרובא [...]אן אלמא אלדי הו משרוב וקד אכברנא</p>
+                                    <p>ואד̇א כאן אלת̇יאב יטמא מן גיר אן יכון מאכולא ולא משרובא [...]אן אלמא אלד̇י הו משרוב וקד אכ̇ברנא</p>
                                 </quote>
                             </explicit>
                             <note xml:lang="">
@@ -111,32 +111,29 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript630">
                                     <idno type="">Yevr.-Arab. I 845</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 845</title>
-                        <ptr target="https://jalit.org/manuscript/630"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 845</title>
+                                    <ptr target="https://jalit.org/manuscript/630"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1469">
                                     <idno type="">Yevr.-Arab. I 842</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 842</title>
-                        <ptr target="https://jalit.org/manuscript/1469"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 842</title>
+                                    <ptr target="https://jalit.org/manuscript/1469"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript511">
                                     <idno type="">Yevr.-Arab. I 832.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832</title>
-                        <ptr target="https://jalit.org/manuscript/511"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832</title>
+                                    <ptr target="https://jalit.org/manuscript/511"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript641">
                                     <idno type="">Yevr.-Arab. I 757</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 757</title>
-                        <ptr target="https://jalit.org/manuscript/641"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 757</title>
+                                    <ptr target="https://jalit.org/manuscript/641"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript366">
                                     <idno type="">Yevr.-Arab. I 756.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
-                        <ptr target="https://jalit.org/manuscript/366"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
+                                    <ptr target="https://jalit.org/manuscript/366"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -199,7 +196,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Arabic vowel signs.</metamark>
-                                <metamark function="diacritics"> Mostly unpointed, Ḍād is frequently written with a diacritic point</metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic pointز</metamark>
                                 <origDate>1048-1049?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
@@ -349,10 +346,10 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="jalit-orgbibl3XIE4SF4">
-                        <idno/>
-                        <title>Leon Nemoy, ed., Kitāb al-Anwār wal-Marāqib: Code of Karaite Law, 5 vols. (New York: Alexander Kohut Memorial Foundation, 1939).</title>
-                        <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
-                    </bibl>
+                                <idno/>
+                                <title>Leon Nemoy, ed., Kitāb al-Anwār wal-Marāqib: Code of Karaite Law, 5 vols. (New York: Alexander Kohut Memorial Foundation, 1939).</title>
+                                <ptr target="https://jalit.org/bibl/3XIE4SF4"/>
+                            </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
