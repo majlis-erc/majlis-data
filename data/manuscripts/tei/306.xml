@@ -85,19 +85,19 @@
                         <msItem xml:id="item-1.1" class=""/>
                         <msItem xml:id="item-1.2" class="bibleCommentary">
                             <locus from="68r-v, 105r" to="160v"/>
-                            <title cert="" ref="" xml:lang="">Commentary on the Book of Numbers</title>
+                            <title xmlns="" ref="https://jalit.org/work/17">Commentary on the Book of Numbers</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>וכנסכו יפידנא שי ואחד והו אנה אראד בקולה ונסכו רביעית [...]ך כבש געלת בקר</p>
+                                    <p>וכנסכו יפידנא שי ואחד והו אנה אראד בקולה ונסכו רביעית [...]ך כבש ג̇עלת בקר</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>[...] אדא קאל ויצא קצד בה אלי נהאיה חד [...]א קאל וירד פהו נזול [...] ערף עבארתה [...]</p>
+                                    <p>[...] אד̇א קאל ויצא קצד בה אלי נהאיה חד [...]א קאל וירד פהו נזול [...] ערף עבארתה [...]</p>
                                 </quote>
                             </explicit>
                             <note xml:lang=""/>
@@ -178,7 +178,7 @@
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Mostly without diacritics, abbreviations marked by a dot above the letter.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
-                                <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs or three yods</metamark>
+                                <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs or three yods.</metamark>
                                 <origDate>900-1100?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
@@ -193,7 +193,7 @@
                             <decoNote>
                                 <desc>Paragraph marks and textual dividers</desc>
                                 <note xml:lang="">
-                                    <p>Colon followed by blank space to separate Hebrew quotations from Arabic commentary and translations</p>
+                                    <p>Colon followed by blank space to separate Hebrew quotations from Arabic commentary and translations.</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -348,11 +348,11 @@
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
                             <bibl xml:id="jalit-orgbibl3F4LJRKA">
-                        <idno/>
-                        <title>Jacob Mann, Texts and Studies in Jewish History and Literature, ed. Gerson David Cohen (Philadelphia: Hebrew Press of the Jewish Publication Society of America, 1935).</title>
-                        <citedRange unit="page">28-29.</citedRange>
+                                <idno/>
+                                <title>Jacob Mann, Texts and Studies in Jewish History and Literature, ed. Gerson David Cohen (Philadelphia: Hebrew Press of the Jewish Publication Society of America, 1935).</title>
+                                <citedRange unit="page">28-29.</citedRange>
                                 <ptr target="https://jalit.org/bibl/3F4LJRKA"/>
-                    </bibl>
+                            </bibl>
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001384140205171"/>
