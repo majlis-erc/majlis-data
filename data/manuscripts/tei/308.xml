@@ -93,13 +93,13 @@
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>[...]פע [אחצא פי אלסבי] מן אלנאס ומן אלבהאים [אנת ואלעזר אלאמאם ו]רוסא אבא אלקאטבה<lb/>וחצית: תקסם אלפיי בין צ̇אבטין [אלחר]ב אלכארגין ללגיש ובין כל אלקאטבה</p>
+                                    <p>[...]פע [אחצא פי אלסבי] מן אלנאס ומן אלבהאים [אנת ואלעזר אלאמאם ו]רוסא אבא אלקאטבה<lb/>וחצית: תקסם אלפיי בין צ̇אבטין [אלחר]ב אלכ̇ארגין ללג̇יש ובין כל אלקאטבה</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>ואנמא אוגב עליה גאשיא פקט אחדהא רפע עדד אלכל וקסמתה בנצפין ואלתאני אעטא</p>
+                                    <p>ואנמא אוג̇ב עליה ג̇אשיא פקט אחדהא רפע עדד אלכל וקסמתה בנצפין ואלת̇אני אעטא</p>
                                 </quote>
                             </explicit>
                             <note xml:lang=""/>
@@ -339,10 +339,7 @@
                             </listBibl>
                         </surrogates>
                         <listBibl>
-                            <bibl>
-                                
-                                
-                            </bibl>
+                            <bibl/>
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001384150205171"/>
