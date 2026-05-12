@@ -74,6 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-12T14:20:27.701Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-12T14:12:41.683Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-05-12T14:06:35.246Z">create work entry</change>
         </revisionDesc>
@@ -81,7 +82,12 @@
     <text>
         <body>
             <bibl xml:id="">
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">al-Naqḍ ʿalā iʿǧāz al-Qālūn</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">אלנקץ̇ עלי אעג̇אז אלקאלון</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">النقض على إعجاز القالون</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Refutation of the Inimitability of the ‘Disgrace’ (i.e., the Qurʾān)</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Refutation of the Inimitability of the ‘Disgrace’ (i.e., the Qurʾān)</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -92,24 +98,22 @@
                 <note xml:lang="" type=""/>
                 <bibl xml:id="jalit-orgmanuscript1171">
                     <citedRange unit="folio">fol. 1v, l. 2</citedRange>
-                        <title>St. Petersburg, National Library of Russia,
-                    Arab.-Yevr. 160</title>
-                        <ptr target="https://jalit.org/manuscript/1171"/>
-                    </bibl>
+                    <title>St. Petersburg, National Library of Russia, Arab.-Yevr. 160</title>
+                    <ptr target="https://jalit.org/manuscript/1171"/>
+                </bibl>
                 <bibl type="" xml:id="">
-      
-      <author cert="" ref=""/>
-      <persName cert="" ref="" role=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <term type=""/>
-      <incipit xml:lang=""/>
-      <explicit xml:lang=""/>
-      <quote source="" type="" xml:lang=""/>
-      <note type="" xml:lang=""/>
-      <date/>
-      <ptr target=""/>
-      <citedRange unit=""/>
-   </bibl>
+                    <author cert="" ref=""/>
+                    <persName cert="" ref="" role=""/>
+                    <textLang mainLang="" otherLangs=""/>
+                    <term type=""/>
+                    <incipit xml:lang=""/>
+                    <explicit xml:lang=""/>
+                    <quote source="" type="" xml:lang=""/>
+                    <note type="" xml:lang=""/>
+                    <date/>
+                    <ptr target=""/>
+                    <citedRange unit=""/>
+                </bibl>
             </bibl>
         </body>
     </text>
