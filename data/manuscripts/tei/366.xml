@@ -95,13 +95,13 @@
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>תנאקץ בין<lb/>אלבאב אלתאני ואלתליתון פי לבס אלחאתם פי אלס[ב]ת [מ]ע סאיר אלחלי</p>
+                                    <p>תנאקץ̇ בין<lb/>אלבאב אלת̇אני ואלת̇לית̇ון פי לבס אלחאתם פי אלס[ב]ת [מ]ע סאיר אלחלי</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>נטק בה אלכתאב איצ[א] פימא ליס הו דאכלא פי אלאפת[ראץ א]מא באב אלאמר ואל[פ…א] תתבענאה וגדנאה יוגב אלתולד עלי מ[...]</p>
+                                    <p>נטק בה אלכתאב איצ̇[א] פימא ליס הו דאכלא פי אלאפת[ראץ א]מא באב אלאמר ואל[פ…א] תתבענאה וג̇דנאה יוג̇ב אלתולד עלי מ[...]</p>
                                 </quote>
                             </explicit>
                             <note xml:lang=""/>
@@ -113,33 +113,29 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript341">
                                     <idno type="">Yevr.-Arab. I 2061</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
-                        <ptr target="https://jalit.org/manuscript/341"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
+                                    <ptr target="https://jalit.org/manuscript/341"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript630">
                                     <idno type="">Yevr.-Arab. I 845</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 845</title>
-                        <ptr target="https://jalit.org/manuscript/630"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 845</title>
+                                    <ptr target="https://jalit.org/manuscript/630"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1469">
                                     <idno type="">Yevr.-Arab. I 842</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 842</title>
-                        <ptr target="https://jalit.org/manuscript/1469"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 842</title>
+                                    <ptr target="https://jalit.org/manuscript/1469"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript511">
                                     <idno type="">Yevr.-Arab. I 832.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832</title>
-                        <ptr target="https://jalit.org/manuscript/511"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 832</title>
+                                    <ptr target="https://jalit.org/manuscript/511"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript641">
                                     <idno type="">Yevr.-Arab. I 757</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 757</title>
-                        <ptr target="https://jalit.org/manuscript/641"/>
-                    </bibl>
-                                
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 757</title>
+                                    <ptr target="https://jalit.org/manuscript/641"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -195,24 +191,24 @@
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang=""/>
-                             <handNote xml:id="hand-1.1.1" source="#" medium="">
+                            <handNote xml:id="hand-1.1.1" source="#" medium="">
                                 <locus from="1r" to="2r"/>
                                 <locus from="6r" to="28v"/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization signs.</metamark>
+                                <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
                                 <metamark function="diacritics">Mostly unpointed, Ḍād frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
-                                <metamark function="divine-names">Yods with symbols/abbreviation signs</metamark>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <origDate when=""/>
                                 <note xml:lang=""/>
                             </handNote>
-                            <handNote xml:id="hand-1.2.1" medium="">
+                            <handNote xml:id="hand-1.1.2" medium="">
                                 <locus from="3r" to="4v"/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function="vocalization">Mixed frequency. Tiberian and Arabic vowel signs. More vowel signs appear on fol. 4r-v, possibly to distinguish between Hebrew and Arabic text, Waw with Cholam is marked with a sign resembling a Segol-cantillation sign.</metamark>
+                                <metamark function="vocalization">Mixed frequency. Palestino-Tiberian and Arabic vocalization. More vowel signs appear on fol. 4r-v, possibly to distinguish between Hebrew and Arabic text.</metamark>
                                 <metamark function="diacritics">Mostly written without diacritics, Ǧīm marked with a dot below the letter Gimel, the letter He for Tāʾ marbūṭa is occasionally written with two diacritical points when the word appears in the construct state, abbreviations are marked with a dot above the letter.</metamark>
-                                <metamark function="divine-names">Tetragrammaton written yod, waw, yod</metamark>
+                                <metamark function="divine-names">Tetragrammaton written yod, waw, yod.</metamark>
                                 <origDate>1048</origDate>
                                 <note xml:lang="">
                                     <p>Marginal note written vertically on fol. 3v.</p>
