@@ -98,7 +98,7 @@
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>פי אלכתאב נטיר מא קלנא פי הדא ואדא קלת אלפאידה פי מנאגאתה להם בהדא אלקול</p>
+                                    <p>פי אלכ̇תאב נט̇יר מא קלנא פי הד̇א ואד̇א קלת אלפאידה פי מנאג̇אתה להם בהד̇א אלקול</p>
                                 </quote>
                             </incipit>
                             <explicit>
@@ -184,7 +184,7 @@
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: 2 yods, 3 yods.</metamark>
                                 <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written a diacritic point, a dot or a short line above the letters is used for abbreviations.</metamark>
-                                <metamark function="vocalization">Sporadic use of Tiberian vocalization signs.</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
