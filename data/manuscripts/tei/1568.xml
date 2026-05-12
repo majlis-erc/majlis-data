@@ -86,13 +86,13 @@
                         <msItem xml:id="item-1.2" class="bibleCommentary">
                             <locus from="1r" to="67v"/>
                             <locus from="69r" to="104v"/>
-                            <title cert="" ref="" xml:lang="">Commentary on the Book of Numbers</title>
+                            <title xmlns="" ref="https://jalit.org/work/17">Commentary on the Book of Numbers</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="1v" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>בשם ייי אלהי ישראל ויקח קרח בן יצהר ואכד קרח אבן יצהר אבן קהת אבן לוי ודתן ואבירם אבניי אליאב ואון אבן פלת בני ראובן אעלם אן הדא אלפצל ואן כאן פי אלתדוין</p>
+                                    <p>בשם ייי אלהי ישראל ויקח קרח בן יצהר ואכד̇ קרח אבן יצהר אבן קהת אבן לוי ודתן ואבירם אבניי אליאב ואון אבן פלת בני ראובן אעלם אן הד̇א אלפצל ואן כאן פי אלתדוין</p>
                                 </quote>
                             </incipit>
                             <explicit>
@@ -174,7 +174,7 @@
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Mostly without diacritics, abbreviations marked by a dot above the letter.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
-                                <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs or three yods</metamark>
+                                <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs or three yods.</metamark>
                                 <origDate>900-1100?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
@@ -189,7 +189,7 @@
                             <decoNote>
                                 <desc>Paragraph marks and textual dividers</desc>
                                 <note xml:lang="">
-                                    <p>Colon followed by blank space to separate Hebrew quotations from Arabic commentary and translations</p>
+                                    <p>Colon followed by blank space to separate Hebrew quotations from Arabic commentary and translations.</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -349,17 +349,17 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="jalit-orgbibl3F4LJRKA">
-                        <idno/>
-                        <title>Jacob Mann, Texts and Studies in Jewish History and Literature, ed. Gerson David Cohen (Philadelphia: Hebrew Press of the Jewish Publication Society of America, 1935).</title>
-                        <citedRange unit="page">28-29</citedRange>
+                                <idno/>
+                                <title>Jacob Mann, Texts and Studies in Jewish History and Literature, ed. Gerson David Cohen (Philadelphia: Hebrew Press of the Jewish Publication Society of America, 1935).</title>
+                                <citedRange unit="page">28-29.</citedRange>
                                 <ptr target="https://jalit.org/bibl/3F4LJRKA"/>
-                    </bibl>
+                            </bibl>
                             <bibl xml:id="jalit-orgbiblCDYNP8XA">
-                        <idno/>
-                        <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991).</title>
-                        <citedRange unit="page">100</citedRange>
+                                <idno/>
+                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991).</title>
+                                <citedRange unit="page">100.</citedRange>
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
-                    </bibl>
+                            </bibl>
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001384140205171"/>
