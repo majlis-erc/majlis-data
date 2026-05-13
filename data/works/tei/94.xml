@@ -74,16 +74,19 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-13T15:13:35.962Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-13T15:09:19.620Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">al-Naqḍ ʿalā Šmuʾel raʾs al-maṯība </title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">אלנקץ̇ עלי שמואל ראס אלמת̇יבה̈</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">النقض على سماول راس المثيبة</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Refutation of Samuel, the Head of the (Sura) Academy</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Refutation of Samuel, the Head of the (Sura) Academy</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +96,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
