@@ -76,7 +76,7 @@
                             <idno>0R182</idno>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno>PNX_MANUSCRIPTS990000871090205171</idno>
+                            <idno>990000871090205171 </idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 54391</idno>
@@ -84,35 +84,42 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="">
-                            <p>Book of Lights and Watchtowers</p>
+                            <p>Book of Lights and Watchtowers by Yaʿqov ben Yiṣḥaq ha-Qirqisānī (discourse 1, list of chapters and chapters 1–19; discourse 2, list of chapters and chapters 4–14, 28).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="158v"/>
+                            
+                            <locus from="10r" to="31v"/>
+                            <locus from="37r" to="44v"/>
+                            <locus from="110r-v" to=""/>
+                            <locus from="125r-v" to=""/>
+                            <locus from="150r" to="158v"/>
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
-                            <textLang mainLang="ar" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="10r" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פי יום אלסבת ומנהם מן לא ירי אלאכ̇ראג̇ מן אלמוצ̇ע אלד̇י יסכנה אלי מוצ̇ע אכ̇ר מסבת איצ̇א</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="158v" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>אד̇ יקול אלכתאב ויאמר ירבעם בלבו עתה תשוב הממלכה לבית דוד אם יעלה העם הזה לע[שות זבח]ים בבית יי בירושלם ושב לב העם הזה אל אדוניהם אל רחבעם [מלך יהודה והרגוני] ושבו אל רחבעם מלך יהודה ויועץ המלך [...]</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang="">
-                                <p>Discourse 1, list of chapters and chapters 1-19; discourse 2, list of chapters and chapters 4-14, 28; discourse 3 chapters 6-7, 9-10; discourse 4, chapters 63-64; discourse 5, chapters 21-23; discourse 10, chapters 3-14, 16-23, 27-66; discourse 11, list of chapters and chapters 1-31; discourse 12, list of chapters and chapters 1-16, 20-22, 32-34, 38-42; discourse 13, list of chapters and chapters 1-7, 9-12</p>
-                            </note>
+                            <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
-                                <bibl>
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1570">
+                                    <idno type="">Yevr.-Arab. I 756.2</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.2</title>
+                        <ptr target="https://jalit.org/manuscript/1570"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -122,13 +129,13 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">158</measure>
+                                    <measure unit="folio">38</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals usually at the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -136,26 +143,33 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Partly worm-eaten with some loss of text; water-stained and faded in places, some pages torn at the top and at the bottom.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="28">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Space fillers</metamark>
+                                    <metamark function="justification">Extended letters</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -164,23 +178,29 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <persName ref="" role="scribe">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</persName>
+                                
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic point, abbreviations marked by a dot above the letter. </metamark>
                                 <origDate>1048</origDate>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Elongated ascenders of Lamed in the first line of a page or chapter.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="" style="" xml:lang="">
+                            <scriptNote rend="current" script="oriental" style="cursive" xml:lang="he">
                                 <note xml:lang="he"/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Other</desc>
+                                <note xml:lang="">
+                                    <p>Chapter headings written in a separate line, occasional use of a dot to structure the text.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
