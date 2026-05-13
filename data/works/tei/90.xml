@@ -92,7 +92,7 @@
                 <title xml:id="title-7" source="#" type="authorial" xml:lang="ar">الكتاب المحتوي</title>
                 <title xml:id="title-8" source="#" xml:lang="en" type="authorial">The Comprehensive Book</title>
                 <title xml:id="title-9" source="#" xml:lang="en" type="majlis-headword">The Comprehensive Book</title>
-                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>

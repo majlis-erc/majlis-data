@@ -88,7 +88,7 @@
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="ar">تفسير عسارث هادباريم المشروح</title>
                 <title xml:id="title-5" source="#" type="authorial" xml:lang="en">Long Commentary on the Ten Commandments</title>
                 <title xml:id="title-6" source="#" type="majlis-headword" xml:lang="en">Long Commentary on the Ten Commandments</title>
-                <author xmlns="" ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
+                <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>

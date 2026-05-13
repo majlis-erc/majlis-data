@@ -88,7 +88,7 @@
                 <title xml:id="title-3" source="#jalit-orgmanuscript1171" type="authorial" xml:lang="ar">النقض على إعجاز القالون</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Refutation of the Inimitability of the ‘Disgrace’ (i.e., the Qurʾān)</title>
                 <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Refutation of the Inimitability of the ‘Disgrace’ (i.e., the Qurʾān)</title>
-                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>

@@ -86,7 +86,7 @@
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">كتاب الهداية إلى صحة نقل معجزات موسى</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="en">The Book of Guidance on the Authenticity of the Transmission of Moses’ Miracles</title>
                 <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">The Book of Guidance on the Authenticity of the Transmission of Moses’ Miracles</title>
-                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
