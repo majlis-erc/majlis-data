@@ -87,7 +87,7 @@
                 <title xml:id="title-4" source="#" xml:lang="en" type="authorial">Commentary on the Torah</title>
                 <title xml:id="title-5" source="#" xml:lang="en" type="majlis-headword">Commentary on the Torah</title>
                 
-                <author xmlns="" ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
+                <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>

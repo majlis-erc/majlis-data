@@ -86,7 +86,7 @@
                         <msItem xml:id="item-1.2" class="bibleCommentary">
                             <locus from="1r" to="67v"/>
                             <locus from="69r" to="104v"/>
-                            <title xmlns="" ref="https://jalit.org/work/17">Commentary on the Book of Numbers</title>
+                            <title ref="https://jalit.org/work/17">Commentary on the Book of Numbers</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
