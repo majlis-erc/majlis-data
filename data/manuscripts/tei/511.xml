@@ -76,7 +76,7 @@
                             <idno>0R182</idno>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno>PNX_MANUSCRIPTS990000871090205171</idno>
+                            <idno>990000871090205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 54391</idno>
@@ -84,35 +84,61 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="">
-                            <p>Book of Lights and Watchtowers</p>
+                            <p>Book of Lights and Watchtowers by Yaʿqov ben Yiṣḥaq ha-Qirqisānī (discourse 3 chapters 6-7, 9-10; discourse 4, chapters 63-64; discourse 5, chapters 21-23; discourse 10, chapters 3-14, 16-23, 27-66; discourse 11, list of chapters and chapters 1-31; discourse 12, list of chapters and chapters 1-16, 20-22, 32-34, 38-42; discourse 13, list of chapters and chapters 1-7, 9-12)</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="158v"/>
+                            <locus from="1r" to="9v"/>
+                            <locus from="32r" to="36v"/>
+                            <locus from="45r" to="109v"/>
+                            <locus from="111r" to="124v"/>
+                            <locus from="126r" to="149v"/>
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פאמא אהל אלנט̇ר מן אצחאב ענן פאנהם יעתמדון פי אלאסתדלאל</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="149v" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>אלבאב אלכ̇אמס פי שמנה שרצים<lb/>קאל אלכתאב וזה לכם הטמא בשרץ השרץ על וג̇</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang="">
-                                <p>Discourse 1, list of chapters and chapters 1-19; discourse 2, list of chapters and chapters 4-14, 28; discourse 3 chapters 6-7, 9-10; discourse 4, chapters 63-64; discourse 5, chapters 21-23; discourse 10, chapters 3-14, 16-23, 27-66; discourse 11, list of chapters and chapters 1-31; discourse 12, list of chapters and chapters 1-16, 20-22, 32-34, 38-42; discourse 13, list of chapters and chapters 1-7, 9-12</p>
-                            </note>
+                            <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
-                                <bibl>
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript341">
+                                    <idno type="">Yevr.-Arab. I 2061</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
+                        <ptr target="https://jalit.org/manuscript/341"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript630">
+                                    <idno type="">Yevr.-Arab. I 845</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 845</title>
+                        <ptr target="https://jalit.org/manuscript/630"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1469">
+                                    <idno type="">Yevr.-Arab. I 842</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 842</title>
+                        <ptr target="https://jalit.org/manuscript/1469"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript641">
+                                    <idno type="">Yevr.-Arab. I 757</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 757</title>
+                        <ptr target="https://jalit.org/manuscript/641"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript366">
+                                    <idno type="">Yevr.-Arab. I 756.1</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
+                        <ptr target="https://jalit.org/manuscript/366"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -122,13 +148,13 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">158</measure>
+                                    <measure unit="folio">113</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals usually at the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -136,26 +162,33 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Partly worm-eaten with some loss of text; water-stained and faded in places, some pages torn at the top and at the bottom.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="28">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="justification">Space fillers</metamark>
+                                    <metamark function="">Extended letters</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -164,34 +197,53 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <persName ref="" role="scribe">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</persName>
+                                
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic point, abbreviations marked by a dot above the letter. </metamark>
                                 <origDate>1048</origDate>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Elongated ascenders of Lamed in the first line of a page or chapter.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="" style="" xml:lang="">
+                            <scriptNote rend="current" script="oriental" style="cursive" xml:lang="he">
                                 <note xml:lang="he"/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                
+                                <note xml:lang="">
+                                    <p>Chapter headings written in a separate line, occasional use of a dot to structure the text.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="124r" to=""/>
+                                    <quote xml:lang="ar">
+                                        <p>וכאן אלפראג מנהא יום אלת̇לת̇ה אלכ̇אמס ועשרין מן די אלחג̇ה סנה ארבעין וארבע מאיה למלכות קרן זעירה אלהים ישימה קץ לגלותנו ויחיש כל בשורותיו בימינו אמן</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Note</objectType>
+      <locus from="66v" to=""/>
+      <quote type="" xml:lang="ar">
+                                        <p>מן כתאב אלאנואר ואלמראקב תאליף אלשיך̇ אבו יוסף יעקוב בן יצחק בן סמעייה אלמערוף באלקרקסאני רצ̇י אללה ענה וארצ̇אה</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
