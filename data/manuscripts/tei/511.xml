@@ -116,29 +116,29 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript341">
                                     <idno type="">Yevr.-Arab. I 2061</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
-                        <ptr target="https://jalit.org/manuscript/341"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2061</title>
+                                    <ptr target="https://jalit.org/manuscript/341"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript630">
                                     <idno type="">Yevr.-Arab. I 845</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 845</title>
-                        <ptr target="https://jalit.org/manuscript/630"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 845</title>
+                                    <ptr target="https://jalit.org/manuscript/630"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1469">
                                     <idno type="">Yevr.-Arab. I 842</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 842</title>
-                        <ptr target="https://jalit.org/manuscript/1469"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 842</title>
+                                    <ptr target="https://jalit.org/manuscript/1469"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript641">
                                     <idno type="">Yevr.-Arab. I 757</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 757</title>
-                        <ptr target="https://jalit.org/manuscript/641"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 757</title>
+                                    <ptr target="https://jalit.org/manuscript/641"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript366">
                                     <idno type="">Yevr.-Arab. I 756.1</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
-                        <ptr target="https://jalit.org/manuscript/366"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.1</title>
+                                    <ptr target="https://jalit.org/manuscript/366"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -197,11 +197,10 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic point, abbreviations marked by a dot above the letter. </metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic point, abbreviations marked by a dot above the letter.</metamark>
                                 <origDate>1048</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page or chapter.</p>
@@ -216,7 +215,6 @@
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                
                                 <note xml:lang="">
                                     <p>Chapter headings written in a separate line, occasional use of a dot to structure the text.</p>
                                 </note>
@@ -234,16 +232,16 @@
                                     <note xml:lang=""/>
                                 </item>
                                 <item xml:id="add-1.1.1.2">
-      <objectType>Note</objectType>
-      <locus from="66v" to=""/>
-      <quote type="" xml:lang="ar">
+                                    <objectType>Note</objectType>
+                                    <locus from="66v" to=""/>
+                                    <quote type="" xml:lang="ar">
                                         <p>מן כתאב אלאנואר ואלמראקב תאליף אלשיך̇ אבו יוסף יעקוב בן יצחק בן סמעייה אלמערוף באלקרקסאני רצ̇י אללה ענה וארצ̇אה</p>
                                     </quote>
-      <note xml:lang=""/>
-      <listRelation>
-         <relation name="" ref=""/>
-      </listRelation>
-   </item>
+                                    <note xml:lang=""/>
+                                    <listRelation>
+                                        <relation name="" ref=""/>
+                                    </listRelation>
+                                </item>
                             </list>
                         </additions>
                         <bindingDesc>
@@ -366,9 +364,20 @@
                         </surrogates>
                         <listBibl>
                             <bibl>
+                                <citedRange unit="page">103</citedRange>
                                 <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991).</title>
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
+                            <bibl xml:id="jalit-orgbiblBTFPJM7V">
+                        <idno/>
+                        <title>Abū Yūsuf Yaʿqūb al-Qirqisānī, Kitāb al-Anwār wal-marāqib: Code of Karaite law by Yaʿqūb al-Qirqisānī (second quarter of the tenth century, ed. Leon Nemoy, 5 vols., Publications of the Alexander Kohut Memorial Foundation (New York: The Alexander Kohut Memorial Foundation, 1939).</title>
+                        <ptr target="https://jalit.org/bibl/BTFPJM7V"/>
+                    </bibl>
+                            <bibl xml:id="">
+      
+      <ptr target=""/>
+      <citedRange unit=""/>
+   </bibl>
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000871090205171"/>
