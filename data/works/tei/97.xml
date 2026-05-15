@@ -74,6 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-15T09:52:08.242Z">add bibliographic reference to attested title</change>
             <change who="#mroozen" when="2026-05-15T09:49:15.060Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-05-15T09:42:18.675Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-15T09:32:18.589Z">create work entry</change>
@@ -82,7 +83,7 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="attested" xml:lang="ar-Latn">Al-Kalām fī l-Istiẓhār ʿalā ayy waǧh yaǧrī maʿ al-kalām fī l-šukūk wa-mā yattaṣil bi-ḏālika</title>
+                <title xml:id="title-1" source="#jalit-orgmanuscript1444" type="attested" xml:lang="ar-Latn">Al-Kalām fī l-Istiẓhār ʿalā ayy waǧh yaǧrī maʿ al-kalām fī l-šukūk wa-mā yattaṣil bi-ḏālika</title>
                 <title xml:id="title-2" source="#" type="attested" xml:lang="ar-Latn">Al-Kalām fī l-Šukūk wa-l-istiẓhār wa-bayān kawn al-ẓann qāʾiman maqām al-ʿilm fī l-šarāʾiʿ wa-ḥusn al-ruǧūʿ ilā qawl al-wāḥid fī l-hilāl wa-mā yaǧrī maǧrāhu</title>
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Latn">Kitāb al-Šukūk</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="ar-Hebr">כתאב אלשכוך</title>
