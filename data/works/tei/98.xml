@@ -74,16 +74,19 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-15T10:24:14.641Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-15T10:20:54.691Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">Šarḥ Uṣūl al-Labbād</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">שרח אצול אללבאד</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">شرح أصول اللبّاد</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Commentary on al-Labbād’s Book of Fundamentals</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Commentary on al-Labbād’s Book of Fundamentals</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +96,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
