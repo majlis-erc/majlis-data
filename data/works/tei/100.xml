@@ -74,16 +74,19 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-15T10:42:14.136Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-15T10:39:01.534Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">Kitāb al-Radd ʿalā l-qāʾilīn bi-l-iʿtidāl</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">כתאב אלרד עלי אלקאילין באלאעתדאל</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">كتاب الردّ على القائلين بالاعتدال</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Treatise Refuting the Proponents of the Equinox</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Treatise Refuting the Proponents of the Equinox</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +96,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
