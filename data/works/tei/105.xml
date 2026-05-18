@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Answer to questions by Abū Bišr Sulaymān b. Bišr on oaths (Yosef ha-Roʾe) </title>
+                <title level="a" xml:lang="en">Answer to questions by Abū Bišr Sulaymān b. Bišr on oaths (Yosef ha-Roʾe)</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -74,16 +74,19 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-18T09:18:54.726Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-18T09:14:25.645Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">Ǧawāb masāʾil Abī Bišr Sulaymān b. Bišr fī l-aymān</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">ג̇ואב מסאיל אבי בשר סלימאן בן בשר פי אלאימאן</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">جواب مسائل أبي بشر سليمان بن بشر في الأيمان</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Answer to questions by Abū Bišr Sulaymān b. Bišr on oaths</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Answer to questions by Abū Bišr Sulaymān b. Bišr on oaths</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +96,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
