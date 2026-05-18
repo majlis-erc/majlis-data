@@ -74,16 +74,19 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-18T09:27:27.425Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-18T09:21:57.948Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">Al-Masāʾil al-Miṣriyya [fī muḫāṭabat al-ġayb/al-maʿdūm]</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">אלמסאיל אלמצריה [פי מכאטבה אלגיב אלמעדום]</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">المسائل المصرية [في مخاطبة الغيب/المعدوم]</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">The Egyptian Questions on Addressing the Absent / the Non-Existent</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">The Egyptian Questions on Addressing the Absent / the Non-Existent</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +96,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
