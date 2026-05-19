@@ -86,7 +86,7 @@
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">كتاب الردّ على القائلين بالاعتدال</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Treatise Refuting the Proponents of the Equinox</title>
                 <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Treatise Refuting the Proponents of the Equinox</title>
-                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>

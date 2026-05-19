@@ -86,7 +86,7 @@
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">المسائل المصرية [في مخاطبة الغيب/المعدوم]</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="en">The Egyptian Questions on Addressing the Absent / the Non-Existent</title>
                 <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">The Egyptian Questions on Addressing the Absent / the Non-Existent</title>
-                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
