@@ -86,7 +86,7 @@
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">جوابات مسائل ابي علي شمويل بن سيناي</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Answers to Questions by Abū ʿAlī Šmuʾel Saynāʾī</title>
                 <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Answers to Questions by Abū ʿAlī Šmuʾel Saynāʾī</title>
-                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>

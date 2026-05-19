@@ -86,7 +86,7 @@
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">جواب مسائل أبي بشر سليمان بن بشر في الأيمان</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Answer to questions by Abū Bišr Sulaymān b. Bišr on oaths</title>
                 <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Answer to questions by Abū Bišr Sulaymān b. Bišr on oaths</title>
-                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
