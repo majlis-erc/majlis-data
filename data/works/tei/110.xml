@@ -74,16 +74,19 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-19T09:38:07.772Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-19T09:27:10.224Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">Masʾala ʿalā man iddaʿa nasḫ šarīʿatinā</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">מסלה עלי מן אדעי נסך̇ שריעתנא</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">مسألة على من ادّعى نسخ شريعتنا</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Question Against Those Who Claim the Abrogation of Our Law</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Question Against Those Who Claim the Abrogation of Our Law</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +96,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
