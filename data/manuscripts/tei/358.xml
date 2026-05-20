@@ -100,40 +100,41 @@
                                     <p>פתזול חיניד̇ אמראץ̇ אלגלות ענהם כקולה ובל יאמר שכן חליתי העם הישב נשא עון והו אלמסול תקריב ד̇לך ברחמיו ובגדל חסדיו אמן</p>
                                 </quote>
                             </explicit>
-                            <note xml:lang="en"/>
+                            <note xml:lang="en">
+                                <p>More investigation is required to identify the second work included in this MS in the sections copied by Hand 2.</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
                             <listBibl>
-      <bibl xml:id="jalit-orgmanuscript364">
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 768</title>
-                        <ptr target="https://jalit.org/manuscript/364"/>
-                    </bibl>
-   </listBibl>
+                                <bibl xml:id="jalit-orgmanuscript364">
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 768</title>
+                                    <ptr target="https://jalit.org/manuscript/364"/>
+                                </bibl>
+                            </listBibl>
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript342">
                                     <idno type="">Yevr.-Arab. I 2054</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2054</title>
-                        <ptr target="https://jalit.org/manuscript/342"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2054</title>
+                                    <ptr target="https://jalit.org/manuscript/342"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1319">
                                     <idno type="">Yevr.-Arab. II 3113.2</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. II 3113.2</title>
-                        <ptr target="https://jalit.org/manuscript/1319"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3113.2</title>
+                                    <ptr target="https://jalit.org/manuscript/1319"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript364">
                                     <idno type="">Yevr.-Arab. I 768</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 768</title>
-                        <ptr target="https://jalit.org/manuscript/364"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 768</title>
+                                    <ptr target="https://jalit.org/manuscript/364"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript365">
                                     <idno type="">Yevr.-Arab. I 767</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 767</title>
-                        <ptr target="https://jalit.org/manuscript/365"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 767</title>
+                                    <ptr target="https://jalit.org/manuscript/365"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -149,7 +150,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the bottom of each recto page.Modern </foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -200,24 +201,22 @@
                                     <p>Descenders of Qof and final Kaf tilted towards the right.</p>
                                 </note>
                             </handNote>
-                        </handDesc>
-                        <handDesc>
-      <summary xml:lang=""/>
-      <handNote xml:id="hand-1.2.1" source="#" medium="">
-         <locus from="13, 15" to="19"/>
-         <locus from="50" to="59"/>
+                            <handNote xml:id="hand-1.1.2" source="#" medium="">
+      <locus from="13, 15" to="19"/>
+      <locus from="50" to="59"/>
                                 <locus from="61" to="75"/>
                                 <persName ref="" role=""/>
-         <placeName ref=""/>
-         <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
-                                <metamark function="diacritics">Mostly unpointed, a dot above the letter is used for abbreviations.</metamark>
+      <placeName ref=""/>
+      <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
+      <metamark function="diacritics">Mostly unpointed, a dot above the letter is used for abbreviations.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-         <origDate when=""/>
-         <note xml:lang="">
+                                <origDate when=""/>
+      <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page.</p>
                                 </note>
-      </handNote>
-   </handDesc>
+   </handNote>
+                        </handDesc>
+                        
                         <scriptDesc>
                             <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang=""/>
@@ -360,16 +359,16 @@
                         </surrogates>
                         <listBibl>
                             <bibl>
-                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991).</title>
+                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991),</title>
                                 <citedRange unit="page">107.</citedRange>
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
                             <bibl xml:id="jalit-orgbibl3F4LJRKA">
-                        <idno/>
-                        <title>Jacob Mann, Texts and Studies in Jewish History and Literature, ed. Gerson David Cohen (Philadelphia: Hebrew Press of the Jewish Publication Society of America, 1935).</title>
-                        <citedRange unit="page">37</citedRange>
+                                <idno/>
+                                <title>Jacob Mann, Texts and Studies in Jewish History and Literature, ed. Gerson David Cohen (Philadelphia: Hebrew Press of the Jewish Publication Society of America, 1935),</title>
+                                <citedRange unit="page">37.</citedRange>
                                 <ptr target="https://jalit.org/bibl/3F4LJRKA"/>
-                    </bibl>
+                            </bibl>
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000894630205171"/>
