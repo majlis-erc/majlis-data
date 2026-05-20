@@ -74,16 +74,19 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-20T09:23:00.401Z">add author and work titles</change>
             <change who="#mroozen" when="2026-05-20T09:16:52.844Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Latn">Ǧawābāt masāʾil al-Mubārak b. … b. Moše/Yoshiya(?) al-mutaṭabbib fī l-istiqtāl</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">ג̇ואבאת מסאיל אלמבארך בן ... בן משה/ישיע אלמתטבב פי אלאסתקתאל</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">جوابات مسائل المبارك بن ... بن موسى/يشيع المتطبّب في الاستقتال</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Answers to Questions by al-Mubārak b. … b. Moše/Josiah(?) the physician on the Defiance of Death</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Answers to Questions by al-Mubārak b. … b. Moše/Josiah(?) the physician on the Defiance of Death</title>
+                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +96,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
