@@ -114,26 +114,24 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript342">
                                     <idno type="">Yevr.-Arab. I 2054</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2054</title>
-                        <ptr target="https://jalit.org/manuscript/342"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2054</title>
+                                    <ptr target="https://jalit.org/manuscript/342"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1319">
                                     <idno type="">Yevr.-Arab. II 3113.2</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. II 3113.2</title>
-                        <ptr target="https://jalit.org/manuscript/1319"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3113.2</title>
+                                    <ptr target="https://jalit.org/manuscript/1319"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript358">
                                     <idno type="">Yevr.-Arab. I 1376</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1376</title>
-                        <ptr target="https://jalit.org/manuscript/358"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1376</title>
+                                    <ptr target="https://jalit.org/manuscript/358"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript364">
                                     <idno type="">Yevr.-Arab. I 768</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 768</title>
-                        <ptr target="https://jalit.org/manuscript/364"/>
-                    </bibl>
-                                
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 768</title>
+                                    <ptr target="https://jalit.org/manuscript/364"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -164,7 +162,7 @@
                                     <note xml:lang="">
                                         <p>Pages heavily damaged, torn, stained and faded in places with loss of text.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Partly legible. </ab>
+                                    <ab rend="visible" type="writing">Partly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -178,13 +176,13 @@
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="at least 24">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="At least 24">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="">Extended letters</metamark>
+                                    <metamark function="">Space fillers</metamark>
                                     <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling">No ruling can be seen</ab>
                                     <ab type="pricking">No pricking can be seen</ab>
