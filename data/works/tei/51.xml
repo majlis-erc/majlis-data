@@ -81,6 +81,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-21T11:16:10.093Z">update titles and add bibliographic reference</change>
             <change who="#mroozen" when="2026-05-21T11:11:44.620Z">add bibliographic reference</change>
             <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
@@ -88,10 +89,11 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" xml:lang="en" type="majlis-headword">Answers to Questions Posed by ʿAlī b. Sulaymān al-Maqdisī</title>
-                <title xml:id="title-2" xml:lang="en" type="authorial">Answers to Questions Posed by ʿAlī b. Sulaymān al-Maqdisī</title>
-                <title xml:id="title-3" xml:lang="ar" type="attested">المقدسيات</title>
-                <title xml:id="title-4" xml:lang="ar-Hebr" type="attested">אלמקדסיאת</title>
+                <title xml:id="title-1" source="#jalit-orgmanuscript497" type="authorial" xml:lang="ar-Latn">al-Maqdisiyyāt </title>
+                <title xml:id="title-2" xml:lang="en" type="majlis-headword">Answers to Questions raised by (ʿAlī b. Sulaymān) al-Maqdisī/al-Muqaddasī</title>
+                <title xml:id="title-3" xml:lang="en" type="authorial">Answers to Questions raised by (ʿAlī b. Sulaymān) al-Maqdisī/al-Muqaddasī</title>
+                <title xml:id="title-4" xml:lang="ar" type="authorial">المقدسيات</title>
+                <title xml:id="title-5" xml:lang="ar-Hebr" type="authorial">אלמקדסיאת</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs=""/>
@@ -103,10 +105,9 @@
                 <note xml:lang="" type=""/>
                 <bibl xml:id="jalit-orgmanuscript497">
                     <citedRange unit="folio">fol. 2r</citedRange>
-                        <title>St. Petersburg, National Library of Russia, Firk.
-                    Arab. 119</title>
-                        <ptr target="https://jalit.org/manuscript/497"/>
-                    </bibl>
+                    <title>St. Petersburg, National Library of Russia, Firk. Arab. 119</title>
+                    <ptr target="https://jalit.org/manuscript/497"/>
+                </bibl>
             </bibl>
         </body>
     </text>
