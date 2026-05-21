@@ -74,7 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#mroozen" when="2026-05-21T11:40:08.932Z">add bibliographic reference</change>
+            <change who="#mroozen" when="2026-05-21T11:41:58.833Z">add source to work title</change>
             <change who="#mroozen" when="2026-05-21T11:37:32.210Z">update work titles</change>
             <change who="#mroozen" when="2026-05-21T11:32:47.930Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-05-21T11:26:28.181Z">create work entry</change>
@@ -84,7 +84,7 @@
         <body>
             <bibl xml:id="">
                 <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Hebr">תפסיר אלתורה</title>
-                <title xml:id="title-2" type="authorial" xml:lang="ar">تفسير التوراة</title>
+                <title xml:id="title-2" source="#jalit-orgmanuscript457" type="authorial" xml:lang="ar">تفسير التوراة</title>
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="en">Commentary on the Book of Deuteronomy</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Commentary on the Book of Numeri</title>
                 <title xml:id="title-5" source="#" type="authorial" xml:lang="en">Commentary on the Book of Leviticus</title>
@@ -101,12 +101,11 @@
                 <explicit xml:lang=""/>
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
-                <bibl xml:id="jalit-orgmanuscript412">
-                    <citedRange unit="folio"> fol. 105r</citedRange>
-                        <title>St. Petersburg, National Library of Russia,
-                    Arab.-Yevr. 21</title>
-                        <ptr target="https://jalit.org/manuscript/412"/>
-                    </bibl>
+                <bibl xml:id="jalit-orgmanuscript457">
+                    <citedRange unit="folio">fol. 105r</citedRange>
+                    <title>St. Petersburg, National Library of Russia, Arab.-Yevr. 2</title>
+                    <ptr target="https://jalit.org/manuscript/457"/>
+                </bibl>
             </bibl>
         </body>
     </text>
