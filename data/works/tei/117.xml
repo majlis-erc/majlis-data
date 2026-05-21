@@ -74,23 +74,14 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
-            <change who="#mroozen" when="2026-05-21T11:30:41.477Z">add author and work titles</change>
+            <change who="#mroozen" when="2026-05-21T11:32:47.930Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-05-21T11:26:28.181Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar-Hebr">תפסיר אלתורה</title>
-                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar">تفسير التوراة </title>
-                <title xml:id="title-3" source="#" type="authorial" xml:lang="en">Commentary on the Book of Deuteronomy </title>
-                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Commentary on the Book of Numeri </title>
-                <title xml:id="title-5" source="#" type="authorial" xml:lang="en">Commentary on the Book of Leviticus </title>
-                <title xml:id="title-6" source="#" type="authorial" xml:lang="en">Commentary on the Book of Exodus </title>
-                <title xml:id="title-7" source="#" type="authorial" xml:lang="en">Commentary on the Book of Genesis </title>
-                <title xml:id="title-8" source="#" type="authorial" xml:lang="en">Commentary on the Torah </title>
-                <title xml:id="title-9" source="#" type="majlis-headword" xml:lang="en">Commentary on the Torah </title>
-                <author xmlns="" ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
+                <author ref="" cert=""/>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -99,10 +90,12 @@
                 <explicit xml:lang=""/>
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
-                <bibl xml:id="" type="">
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+                <bibl xml:id="jalit-orgmanuscript457">
+                    <citedRange unit="folio">fol. 105r</citedRange>
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 2</title>
+                        <ptr target="https://jalit.org/manuscript/457"/>
+                    </bibl>
             </bibl>
         </body>
     </text>
