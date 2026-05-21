@@ -80,6 +80,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-21T10:56:47.232Z">update work title</change>
             <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
     </teiHeader>
@@ -89,7 +90,7 @@
                 <title xml:id="title-1" xml:lang="en" type="majlis-headword">Query about Prohibited Sexual Relations</title>
                 <title xml:id="title-2" xml:lang="en" type="authorial">Query about Prohibited Sexual Relations</title>
                 <title xml:id="title-3" xml:lang="ar" type="authorial">مسألة في تحريم العرووث</title>
-                <title xml:id="title-4" xml:lang="ar-Latn" type="authorial">Masʾala fī taḥrīm al-ʿarayot</title>
+                <title xml:id="title-4" xml:lang="ar-Latn" type="authorial">Masʾala fī taḥrīm al-ʿarayot/al-ʿervot</title>
                 <title xml:id="title-5" xml:lang="ar-Hebr" type="authorial">מסלה̈ פי תחרים אלערוות</title>
                 <title xml:id="title-6" xml:lang="ar-Latn" type="attested">Maqāla fī l-ʿarayot</title>
                 <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
@@ -102,7 +103,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
