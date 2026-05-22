@@ -86,7 +86,7 @@
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">مسألة على من ادّعى نسخ شريعتنا</title>
                 <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Question Against Those Who Claim the Abrogation of Our Law</title>
                 <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Question Against Those Who Claim the Abrogation of Our Law</title>
-                <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
