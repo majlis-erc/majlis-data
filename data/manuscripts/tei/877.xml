@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mmoliere" when="2026-05-22T08:23:56.044Z">Changed folio range.</change>
             <change who="#mmoliere" when="2026-04-17T10:25:11.033Z">Added another work.</change>
             <change who="#rboehm" when="2025-05-07T08:40:51.525Z">Bundle Nr., Harkavy Invt.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -95,20 +96,20 @@
                             <note xml:lang=""/>
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
-      <locus from="" to=""/>
-      <title ref="https://jalit.org/work/38">Compendium on the Fundamentals of Religion</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote xml:lang=""/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote xml:lang=""/>
-      </explicit>
-      <note xml:lang=""/>
-   </msItem>
+                            <locus from="" to=""/>
+                            
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote xml:lang=""/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote xml:lang=""/>
+                            </explicit>
+                            <note xml:lang=""/>
+                        </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
