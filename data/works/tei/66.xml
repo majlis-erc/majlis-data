@@ -75,6 +75,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-22T10:28:45.212Z">add bibliographic reference to work title</change>
             <change who="#mroozen" when="2026-05-22T10:26:00.197Z">add bibliographic reference</change>
             <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
@@ -84,7 +85,7 @@
             <bibl xml:id="">
                 <title xml:id="title-1" xml:lang="en" type="majlis-headword">Notable Points Extracted from the Commentary by Salmon ben Yeruḥam on the Book of Daniel</title>
                 <title xml:id="title-2" xml:lang="en" type="authorial">Notable Points Extracted from the Commentary by Salmon ben Yeruḥam on the Book of Daniel</title>
-                <title xml:id="title-3" xml:lang="ar" type="authorial">نكت معلقة من تفسير سالمون رحمه الله لتفسير لسيفر دانيال</title>
+                <title xml:id="title-3" source="#jalit-orgmanuscript322" xml:lang="ar" type="authorial">نكت معلقة من تفسير سالمون رحمه الله لتفسير لسيفر دانيال</title>
                 <title xml:id="title-4" xml:lang="ar-Hebr" type="authorial">נכת מעלקה מן תפסיר סלמון רחמה אללה לתפסיר לספר דניאל</title>
                 <author ref="https://jalit.org/person/10" cert="medium">Levi ben Yefet ben ʿEli</author>
                 <persName role="" ref="" cert=""/>
@@ -97,9 +98,9 @@
                 <note xml:lang="" type=""/>
                 <bibl xml:id="jalit-orgmanuscript322">
                     <citedRange unit="folio">fol. 39v</citedRange>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 4696</title>
-                        <ptr target="https://jalit.org/manuscript/322"/>
-                    </bibl>
+                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 4696</title>
+                    <ptr target="https://jalit.org/manuscript/322"/>
+                </bibl>
             </bibl>
         </body>
     </text>
