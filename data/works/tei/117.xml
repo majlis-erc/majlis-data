@@ -92,7 +92,7 @@
                 <title xml:id="title-7" source="#" type="authorial" xml:lang="en">Commentary on the Book of Genesis</title>
                 <title xml:id="title-8" source="#" type="authorial" xml:lang="en">Commentary on the Torah</title>
                 <title xml:id="title-9" source="#" type="majlis-headword" xml:lang="en">Commentary on the Torah</title>
-                <author xmlns="" ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
+                <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>

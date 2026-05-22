@@ -81,7 +81,7 @@
                 <title xml:id="title-1" source="#" xml:lang="en" type="majlis-headword">Commentary on the Book of Leviticus</title>
                 <title xml:id="title-2" source="#" xml:lang="" type="authorial">Commentary on the Book of Leviticus</title>
                 
-                <author xmlns="" ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
+                <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>

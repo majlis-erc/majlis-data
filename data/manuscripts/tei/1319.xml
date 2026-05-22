@@ -82,7 +82,7 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="2r" to="4v"/>
-                            <title xmlns="" ref="https://jalit.org/work/19">Long Commentary on the Book of Leviticus (Yešuʿa ben Yehuda)</title>
+                            <title ref="https://jalit.org/work/19">Long Commentary on the Book of Leviticus (Yešuʿa ben Yehuda)</title>
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>

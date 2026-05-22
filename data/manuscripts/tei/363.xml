@@ -86,8 +86,8 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
                             <locus from="1r" to=""/>
-                            <title xmlns="" ref="https://jalit.org/work/115">Commentary on the Book of Leviticus</title>
-                            <author xmlns="" ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
+                            <title ref="https://jalit.org/work/115">Commentary on the Book of Leviticus</title>
+                            <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
