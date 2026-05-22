@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mmoliere" when="2026-05-22T08:22:19.249Z">Changed folio range.</change>
             <change who="#mmoliere" when="2026-05-08T15:14:54.289Z">Created record.</change>
             <change who="#" when=""/>
         </revisionDesc>
@@ -58,7 +59,7 @@
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
                         <collection>Yevr.-Arab. II</collection>
-                        <idno> 915.5</idno>
+                        <idno>915.5</idno>
                         <altIdentifier type="SfarData">
                             <idno/>
                         </altIdentifier>
@@ -76,7 +77,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="13" to="23"/>
+                            <locus from="1" to="11"/>
                             <title ref="https://jalit.org/work/38">Compendium on the Fundamentals of Religion</title>
                             <author ref="" cert=""/>
                             <textLang mainLang="" otherLangs=""/>
@@ -203,7 +204,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -236,7 +236,6 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
@@ -244,7 +243,6 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="">
-                                
                                 <citedRange unit="p"/>
                                 <ptr target=""/>
                             </bibl>
