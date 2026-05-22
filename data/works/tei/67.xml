@@ -75,6 +75,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-22T10:37:59.425Z">add bibliographic reference to work title</change>
             <change who="#mroozen" when="2026-05-22T10:36:54.191Z">add bibliographic reference</change>
             <change who="#rvollandt #mmoliere" when="2026-02-15">Updated titles.</change>
         </revisionDesc>
@@ -84,7 +85,7 @@
             <bibl xml:id="">
                 <title xml:id="title-1" xml:lang="en" type="majlis-headword">Compilation from the Discourse of the Teacher Abū ʿAlī</title>
                 <title xml:id="title-2" xml:lang="en" type="descriptive">Compilation from the Discourse of the Teacher Abū ʿAlī</title>
-                <title xml:id="title-3" xml:lang="ar" type="descriptive">مجموع من كلام المعلم ابي علي</title>
+                <title xml:id="title-3" source="#jalit-orgmanuscript322" xml:lang="ar" type="descriptive">مجموع من كلام المعلم ابي علي</title>
                 <title xml:id="title-4" xml:lang="ar-Latn" type="descriptive">Maǧmūʿ min kalām al-muʿallim Abī ʿAlī</title>
                 <title xml:id="title-5" xml:lang="ar-Hebr" type="descriptive">מג̇מוע מן כלאם אלמעלם אבי עלי</title>
                 <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli</author>
@@ -97,10 +98,10 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="jalit-orgmanuscript322">
-                    <citedRange unit="folio">fol. 2r </citedRange>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 4696</title>
-                        <ptr target="https://jalit.org/manuscript/322"/>
-                    </bibl>
+                    <citedRange unit="folio">fol. 2r</citedRange>
+                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 4696</title>
+                    <ptr target="https://jalit.org/manuscript/322"/>
+                </bibl>
             </bibl>
         </body>
     </text>
