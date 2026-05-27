@@ -200,12 +200,15 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <placeName ref=""/>
+                                
                                 <metamark function="vocalization">Occasional use of Tiberian vocalization.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs. </metamark>
                                 <metamark function="diacritics">Mostly unpointed. </metamark>
-                                <origDate>1000-1100</origDate>
-                                <note xml:lang=""/>
+                                <placeName xmlns="" ref="https://jalit.org/place/13">Baṣra</placeName>
+                                <origDate when="1020">1000-1100</origDate>
+                                <note xml:lang="">
+                                    <p>Colophon included in Yevr.-Arab. II 3020.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -371,6 +374,18 @@
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000868330205171"/>
                             </bibl>
+                            <bibl xml:id="jalit-orgbiblL7AGLL35">
+                                <citedRange unit="page">165.</citedRange>
+                        <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
+                        <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in: A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
+                        <ptr target="https://jalit.org/bibl/L7AGLL35"/>
+                    </bibl>
+                            <bibl xml:id="jalit-orgbiblSUK7NSAK">
+                        <idno/>
+                        <title>David Sklare, Haggai ben-Shammai, Judaeo-Arabic manuscripts in the Firkovitch Collections: the works of Yusuf al-Basir. A sample catalogue, Center for the Study of Judaeo-Arabic Culture and Literature, Publications (Jerusalem: Ben-Zvi Institute, 1997)</title>
+                        <citedRange unit="">135-136.</citedRange>
+                                <ptr target="https://jalit.org/bibl/SUK7NSAK"/>
+                    </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
