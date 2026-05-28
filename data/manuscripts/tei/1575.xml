@@ -78,8 +78,8 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="1v"/>
-                            <title xmlns="" ref="https://jalit.org/work/21">The Book of Blessing</title>
-                            <author xmlns="" ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli</author>
+                            <title ref="https://jalit.org/work/21">The Book of Blessing</title>
+                            <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="" to=""/>
