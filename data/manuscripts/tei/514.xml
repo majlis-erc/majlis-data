@@ -56,6 +56,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mmoliere" when="2026-05-29T08:48:55.961Z">Added relations.</change>
             <change who="#rboehm" when="2024-09-06T09:36:07.651Z">joins</change>
             <change who="#mmoliere" when="2024-07-30T06:19:19.089Z">Added incodicated document.</change>
             <change who="#mmoliere" when="2024-07-18T08:11:49.297Z">Demo ended</change>
@@ -237,6 +238,12 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
+                                    <listRelation>
+      <relation name="snap:fatherOf" ref="" active="https://jalit.org/person/3" passive="https://jalit.org/person/46"/>
+   </listRelation>
+                                    <listRelation>
+      <relation name="snap:fatherOf" ref="" active="https://jalit.org/person/46" passive="https://jalit.org/person/23"/>
+   </listRelation>
                                     <objectType>Certificates of endowment</objectType>
                                     <locus from="1r"/>
                                     <quote xml:lang="he">
