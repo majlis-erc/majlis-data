@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-29T15:28:36.854Z">modify folio ranges</change>
             <change who="#mroozen" when="2026-05-29T15:25:06.887Z">add incipit and explicit</change>
             <change who="#mroozen" when="2026-05-29T15:08:32.734Z">add content summary</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -88,11 +89,11 @@
                                 <quote xml:lang="ar">
                                     <p>وذلك انهم يحتجون لبعض ما يذهبون اليه باشيا من الاخبار</p>
                                 </quote>
-                                <locus from="(fol. 1r)" to=""/>
+                                <locus from="1r" to=""/>
                                 
                             </incipit>
                             <explicit>
-                                <locus from="(fol. 5v)" to=""/>
+                                <locus from="5v" to=""/>
                                 <quote xml:lang="ar">
                                     <p>عن هاتين المقدمتين ان لا يوكل ذبايح الفساق ولذلك نظاير</p>
                                 </quote>
