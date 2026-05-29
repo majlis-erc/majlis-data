@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-29T15:43:02.764Z">add foliation</change>
             <change who="#mroozen" when="2026-05-29T15:28:36.854Z">modify folio ranges</change>
             <change who="#mroozen" when="2026-05-29T15:25:06.887Z">add incipit and explicit</change>
             <change who="#mroozen" when="2026-05-29T15:08:32.734Z">add content summary</change>
@@ -125,7 +126,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
