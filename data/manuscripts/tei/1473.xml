@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-05-29T15:25:06.887Z">add incipit and explicit</change>
             <change who="#mroozen" when="2026-05-29T15:08:32.734Z">add content summary</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -84,12 +85,17 @@
                             <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <quote xml:lang="ar">
+                                    <p>وذلك انهم يحتجون لبعض ما يذهبون اليه باشيا من الاخبار</p>
+                                </quote>
+                                <locus from="(fol. 1r)" to=""/>
+                                
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="(fol. 5v)" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>عن هاتين المقدمتين ان لا يوكل ذبايح الفساق ولذلك نظاير</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
