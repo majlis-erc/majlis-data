@@ -210,7 +210,7 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <persName ref="" role="scribe">[...] בן מנשה הרופא</persName>
+                                <persName ref="" role="scribe">[...] ben Menasseh, the physician</persName>
                                 <placeName xmlns="" ref="https://jalit.org/place/13">Baṣra</placeName>
                                 
                                 <origDate when="1020">1020</origDate>
@@ -220,7 +220,7 @@
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="oriental" style="square" xml:lang="he">
+                            <scriptNote rend="careless" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
