@@ -68,7 +68,7 @@
                             <idno/>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
-                            <idno>  F 59270 </idno>
+                            <idno>F 59270</idno>
                         </altIdentifier>
                         <msName/>
                     </msIdentifier>
@@ -83,30 +83,64 @@
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פליס הו כאלתואב אלד̇י לא יחסן אן יפעל לא עלי ג̇הה אלאסתחקאק</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>לאנה ת'ע יפעל פי מלכה מא ישא ואג̇אז עליה</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="" style="codex">Single manuscript</objectType>
+                            <objectType rend="" style="codex">Composite manuscript</objectType>
                             <listBibl>
-                                <bibl>
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1578">
+                                    <idno type="">Yevr.-Arab. I 922</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
+                        <ptr target="https://jalit.org/manuscript/1578"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1576">
+                                    <idno type="">Yevr.-Arab. II 1005.5</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1005.05</title>
+                        <ptr target="https://jalit.org/manuscript/1576"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1575">
+                                    <idno type="">Yevr.-Arab. I 2759</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2759</title>
+                        <ptr target="https://jalit.org/manuscript/1575"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript313">
+                                    <idno type="">Yevr.-Arab. II 2542</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2542</title>
+                        <ptr target="https://jalit.org/manuscript/313"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript311">
+                                    <idno type="">Yevr.-Arab. II 3020</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
+                        <ptr target="https://jalit.org/manuscript/311"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript345">
+                                    <idno type="">Yevr.-Arab. I 1903</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1903</title>
+                        <ptr target="https://jalit.org/manuscript/345"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript360">
+                                    <idno type="">Yevr.-Arab. I 996</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
+                        <ptr target="https://jalit.org/manuscript/360"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material/>
+                                    <material>Paper</material>
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
@@ -116,7 +150,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style="foliation" rendition="modern">Modern pencil foliation in Arabic numerals at the bottom of the recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -124,24 +158,31 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab type="writing" rend=""/>
+                                    <note xml:lang="">
+                                        <p>Generally well preserved, minor damages.</p>
+                                    </note>
+                                    <ab type="writing" rend="visible">Legible. </ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
-                                    <desc/>
-                                    <note xml:lang=""/>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, mostly even interlinear spacing, no straight line of writing.</p>
+                                    </note>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" writtenLines="" columns="">
+                                <layout xml:id="layout-1.1.1.1" writtenLines="21" columns="1">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
+                                        
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Left-hand margin is not even</metamark>
+                                    <metamark function="">Space fillers</metamark>
+                                    <metamark function="justification">Extended letters</metamark>
+                                    <ab type="ruling">No ruling</ab>
+                                    <ab type="pricking">No pricking</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -149,23 +190,29 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" source="#" medium="">
                                 <locus from="" to=""/>
-                                <persName ref="" role=""/>
-                                <placeName ref=""/>
-                                <metamark function=""/>
-                                <origDate/>
-                                <note xml:lang=""/>
+                                <persName ref="" role="scribe">[...] ben Menasseh, the physician</persName>
+                                
+                                <metamark function="diacritics">Mostly unpointed. </metamark>
+                                <placeName xmlns="" ref="https://jalit.org/place/13">Baṣra</placeName>
+                                <origDate when="1020"/>
+                                <note xml:lang="">
+                                    <p>A small horizontal dash above a letter is used to mark abbreviated words. A circle indicates the place of corrections written in the margin possibly by a secondary hand.</p>
+                                    <p>Colophon included in Yevr.-Arab. II 3020.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote xml:lang="" script="" style="" rend="">
+                            <scriptNote xml:lang="he" script="oriental" style="square" rend="careless">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Paragraph marks and textual dividers</desc>
+                                <note xml:lang="">
+                                    <p>Colon and colon with a semi circle used to mark the end of paragraphs and also used within a paragraph followed by blank space. Chapter headings written in a separate line.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -204,7 +251,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -237,18 +283,18 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
                             </listBibl>
                         </surrogates>
                         <listBibl>
-                            <bibl xml:id="">
-                                
-                                <citedRange unit="p"/>
-                                <ptr target=""/>
-                            </bibl>
+                            <bibl xml:id="jalit-orgbiblL7AGLL35">
+                        <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
+                        <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
+                        <citedRange unit="page">165.</citedRange>
+                                <ptr target="https://jalit.org/bibl/L7AGLL35"/>
+                    </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
