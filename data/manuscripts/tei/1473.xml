@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T10:00:59.523Z">add State of conservation and Composition of quires</change>
             <change who="#mroozen" when="2026-05-29T15:43:02.764Z">add foliation</change>
             <change who="#mroozen" when="2026-05-29T15:28:36.854Z">modify folio ranges</change>
             <change who="#mroozen" when="2026-05-29T15:25:06.887Z">add incipit and explicit</change>
@@ -91,7 +92,6 @@
                                     <p>وذلك انهم يحتجون لبعض ما يذهبون اليه باشيا من الاخبار</p>
                                 </quote>
                                 <locus from="1r" to=""/>
-                                
                             </incipit>
                             <explicit>
                                 <locus from="5v" to=""/>
@@ -115,6 +115,12 @@
                         </ab>
                         <objectDesc>
                             <supportDesc>
+                                <condition>
+      <note xml:lang="">
+                                        <p>In good condition; folios not in order</p>
+                                    </note>
+      <ab rend="" type=""/>
+   </condition>
                                 <support>
                                     <material>Paper</material>
                                     <note xml:lang=""/>
@@ -128,15 +134,15 @@
                                 </extent>
                                 <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
-                                    <formula/>
+                                    <note xml:lang="">
+                                        <p>Folios from two distinct quires (see above); fol.1 follows fol. 3</p>
+                                    </note>
+                                    
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    
+                                    
                                 </collation>
-                                <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
-                                </condition>
+                                
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
@@ -213,7 +219,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
