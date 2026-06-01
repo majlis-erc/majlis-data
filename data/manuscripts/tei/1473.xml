@@ -51,6 +51,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T10:04:57.649Z">add Binding description
+</change>
             <change who="#mroozen" when="2026-06-01T10:00:59.523Z">add State of conservation and Composition of quires</change>
             <change who="#mroozen" when="2026-05-29T15:43:02.764Z">add foliation</change>
             <change who="#mroozen" when="2026-05-29T15:28:36.854Z">modify folio ranges</change>
@@ -209,7 +211,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="deficient">Binding holes (fols. 4v-5r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
