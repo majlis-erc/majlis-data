@@ -51,6 +51,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T11:43:00.775Z">update summary of hand
+</change>
             <change who="#mroozen" when="2026-06-01T11:34:33.048Z">update Summary of page layout
 </change>
             <change who="#mroozen" when="2026-06-01T11:33:01.320Z">add Note to Main features of text layout
@@ -179,7 +181,7 @@
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang="">
-                                <p>Number of hands: 1. Language(s) &amp; Script(s): Biscriptal; Arabic in Arabic script; Hebrew in Hebrew script</p>
+                                <p>Number of hands: 1. Language(s) &amp; Script(s): Biscriptal; Arabic in Arabic script; Hebrew in Hebrew script; Divine Name / Tetragrammaton rendered as ﯨﯩﺎ (in Hebrew script based on יי); sparsely dotted; very rare vocal marks in Arabic</p>
                             </summary>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
