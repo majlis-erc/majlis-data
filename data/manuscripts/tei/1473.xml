@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T12:00:10.542Z">update content summary</change>
             <change who="#mroozen" when="2026-06-01T11:55:05.230Z">update main features of text layout
 </change>
             <change who="#mroozen" when="2026-06-01T11:43:00.775Z">update summary of hand
@@ -98,7 +99,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="">
-                            <p>Contains the following section from the 4th book (maqāla) of Kitāb al-Anwār: IV.5.6-9; IV.22.2-IV.24.3</p>
+                            <p>Contains the following section from the 4th book (maqāla) of Kitāb al-Anwār: IV.5.6-9; IV.22.2-IV.24.3; ed. Nemoy, pp. 356:13-358:9 (fols. 4-5); 386:8-389:14 (fols. 2-3, 1); chapter headings of chs. IV.23-24</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
