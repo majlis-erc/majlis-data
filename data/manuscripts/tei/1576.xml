@@ -104,39 +104,39 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1578">
                                     <idno type="">Yevr.-Arab. I 922</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
-                        <ptr target="https://jalit.org/manuscript/1578"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
+                                    <ptr target="https://jalit.org/manuscript/1578"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1577">
                                     <idno type="">Yevr.-Arab. II 881.15</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.15</title>
-                        <ptr target="https://jalit.org/manuscript/1577"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.15</title>
+                                    <ptr target="https://jalit.org/manuscript/1577"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1575">
                                     <idno type="">Yevr.-Arab. I 2759</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2759</title>
-                        <ptr target="https://jalit.org/manuscript/1575"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2759</title>
+                                    <ptr target="https://jalit.org/manuscript/1575"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript313">
                                     <idno type="">Yevr.-Arab. II 2542</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2542</title>
-                        <ptr target="https://jalit.org/manuscript/313"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2542</title>
+                                    <ptr target="https://jalit.org/manuscript/313"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript311">
                                     <idno type="">Yevr.-Arab. II 3020</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
-                        <ptr target="https://jalit.org/manuscript/311"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
+                                    <ptr target="https://jalit.org/manuscript/311"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript345">
                                     <idno type="">Yevr.-Arab. I 1903</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1903</title>
-                        <ptr target="https://jalit.org/manuscript/345"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1903</title>
+                                    <ptr target="https://jalit.org/manuscript/345"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript360">
                                     <idno type="">Yevr.-Arab. I 996</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
-                        <ptr target="https://jalit.org/manuscript/360"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
+                                    <ptr target="https://jalit.org/manuscript/360"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -176,7 +176,6 @@
                                 <layout xml:id="layout-1.1.1.1" writtenLines="21" columns="1">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
-                                        
                                         <width unit="mm"/>
                                         <height unit="mm"/>
                                     </dimensions>
@@ -191,9 +190,8 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" source="#" medium="">
                                 <locus from="" to=""/>
-                                <persName ref="" role="scribe">[...] Menasseh, the physician</persName>
-                                
-                                <metamark function="diacritics">Mostly unpointed. </metamark>
+                                <persName ref="" role="scribe">[...] ben Menasseh, the physician</persName>
+                                <metamark function="diacritics">Mostly unpointed.</metamark>
                                 <placeName xmlns="" ref="https://jalit.org/place/13">Baṣra</placeName>
                                 <origDate when="1020"/>
                                 <note xml:lang="">
@@ -291,11 +289,11 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="jalit-orgbiblL7AGLL35">
-                        <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
-                        <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
-                        <citedRange unit="page">165.</citedRange>
+                                <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
+                                <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
+                                <citedRange unit="page">165.</citedRange>
                                 <ptr target="https://jalit.org/bibl/L7AGLL35"/>
-                    </bibl>
+                            </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
