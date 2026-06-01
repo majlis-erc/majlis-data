@@ -102,39 +102,39 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1578">
                                     <idno type="">Yevr.-Arab. I 922</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
-                        <ptr target="https://jalit.org/manuscript/1578"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
+                                    <ptr target="https://jalit.org/manuscript/1578"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1577">
                                     <idno type="">Yevr.-Arab. II 881.15</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.15</title>
-                        <ptr target="https://jalit.org/manuscript/1577"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.15</title>
+                                    <ptr target="https://jalit.org/manuscript/1577"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1576">
                                     <idno type="">Yevr.-Arab. II 1005.05</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1005.05</title>
-                        <ptr target="https://jalit.org/manuscript/1576"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1005.05</title>
+                                    <ptr target="https://jalit.org/manuscript/1576"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript313">
                                     <idno type="">Yevr.-Arab. II 2542</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2542</title>
-                        <ptr target="https://jalit.org/manuscript/313"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2542</title>
+                                    <ptr target="https://jalit.org/manuscript/313"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript311">
                                     <idno type="">Yevr.-Arab. II 3020</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
-                        <ptr target="https://jalit.org/manuscript/311"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
+                                    <ptr target="https://jalit.org/manuscript/311"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript345">
                                     <idno type="">Yevr.-Arab. I 1903</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1903</title>
-                        <ptr target="https://jalit.org/manuscript/345"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1903</title>
+                                    <ptr target="https://jalit.org/manuscript/345"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript360">
                                     <idno type="">Yevr.-Arab. I 996</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
-                        <ptr target="https://jalit.org/manuscript/360"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
+                                    <ptr target="https://jalit.org/manuscript/360"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -161,7 +161,7 @@
                                     <note xml:lang="">
                                         <p>Partly worm-eaten, small holes in the text, stained and faded in places with some loss of text.</p>
                                     </note>
-                                    <ab type="writing" rend="visible">Mostly legible. </ab>
+                                    <ab type="writing" rend="visible">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -174,7 +174,6 @@
                                 <layout xml:id="layout-1.1.1.1" writtenLines="21" columns="1">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
-                                        
                                         <width unit="mm"/>
                                         <height unit="mm"/>
                                     </dimensions>
@@ -189,15 +188,14 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" source="#" medium="">
                                 <locus from="" to=""/>
-                                <persName ref="" role=""/>
-                                
-                                
+                                <persName ref="" role="scribe">[...] ben Menasseh, the physician</persName>
                                 <placeName ref="">Baṣra</placeName>
                                 <origDate when="1020"/>
-                                <metamark function="divine-names">Yods with symbols/abbreviation signs. </metamark>
-                                <metamark function="diacritics">Mostly unpointed. </metamark>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
+                                <metamark function="diacritics">Mostly unpointed.</metamark>
                                 <note xml:lang="">
                                     <p>A small horizontal dash above a letter is used to mark abbreviated words. A circle indicates the place of corrections written in the margin possibly by a secondary hand.</p>
+                                    <p>Colophon included in Yevr.-Arab. II 3020.</p>
                                 </note>
                             </handNote>
                         </handDesc>
@@ -290,11 +288,11 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="jalit-orgbiblL7AGLL35">
-                        <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
-                        <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
-                        <citedRange unit="">165.</citedRange>
+                                <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
+                                <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
+                                <citedRange unit="">165.</citedRange>
                                 <ptr target="https://jalit.org/bibl/L7AGLL35"/>
-                    </bibl>
+                            </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
