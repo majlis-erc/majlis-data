@@ -51,6 +51,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T10:30:26.704Z">add Summary of hand
+</change>
             <change who="#mroozen" when="2026-06-01T10:04:57.649Z">add Binding description
 </change>
             <change who="#mroozen" when="2026-06-01T10:00:59.523Z">add State of conservation and Composition of quires</change>
@@ -164,7 +166,9 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="">
-                            <summary xml:lang=""/>
+                            <summary xml:lang="">
+                                <p>Number of hands: 1. Language(s) &amp; Script(s): Biscriptal; Arabic in Arabic script; Hebrew in Hebrew script</p>
+                            </summary>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
