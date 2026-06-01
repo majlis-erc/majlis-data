@@ -71,8 +71,8 @@
                 <msDesc xml:id="ms-345">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno> C599680 , C599681 , C599682 , C599683</idno>
-   </altIdentifier>
+                            <idno>C599680 , C599681 , C599682 , C599683</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -117,39 +117,39 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1578">
                                     <idno type="">Yevr.-Arab. I 922</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
-                        <ptr target="https://jalit.org/manuscript/1578"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
+                                    <ptr target="https://jalit.org/manuscript/1578"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1577">
                                     <idno type="">Yevr.-Arab. II 881.15</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.15</title>
-                        <ptr target="https://jalit.org/manuscript/1577"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.15</title>
+                                    <ptr target="https://jalit.org/manuscript/1577"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1576">
                                     <idno type="">Yevr.-Arab. II 1005.05</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1005.05</title>
-                        <ptr target="https://jalit.org/manuscript/1576"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1005.05</title>
+                                    <ptr target="https://jalit.org/manuscript/1576"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1575">
                                     <idno type="">Yevr.-Arab. I 2759</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2759</title>
-                        <ptr target="https://jalit.org/manuscript/1575"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2759</title>
+                                    <ptr target="https://jalit.org/manuscript/1575"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript313">
                                     <idno type="">Yevr.-Arab. II 2542</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2542</title>
-                        <ptr target="https://jalit.org/manuscript/313"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2542</title>
+                                    <ptr target="https://jalit.org/manuscript/313"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript311">
                                     <idno type="">Yevr.-Arab. II 3020</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
-                        <ptr target="https://jalit.org/manuscript/311"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
+                                    <ptr target="https://jalit.org/manuscript/311"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript360">
                                     <idno type="">Yevr.-Arab. I 996</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
-                        <ptr target="https://jalit.org/manuscript/360"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
+                                    <ptr target="https://jalit.org/manuscript/360"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -176,7 +176,7 @@
                                     <note xml:lang="">
                                         <p>Partly worm-eaten, faded in places with loss of text.</p>
                                     </note>
-                                    <ab rend="" type="writing">Partly legible. </ab>
+                                    <ab rend="" type="writing">Partly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -207,11 +207,10 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
-                                <persName ref="" role=""/>
-                                
+                                <persName ref="" role="scribe"> [...] ben Menasseh, the physician</persName>
                                 <metamark function="vocalization">Occasional use of Tiberian vocalization.</metamark>
-                                <metamark function="divine-names">Yods with symbols/abbreviation signs. </metamark>
-                                <metamark function="diacritics"> Mostly unpointed.</metamark>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
+                                <metamark function="diacritics">Mostly unpointed.</metamark>
                                 <placeName ref="https://jalit.org/place/13">Baṣra</placeName>
                                 <origDate when="1020">1020</origDate>
                                 <note xml:lang="">
@@ -370,11 +369,11 @@
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
                             <bibl xml:id="jalit-orgbiblL7AGLL35">
-                        <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
-                        <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in: A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
-                        <citedRange unit="">165.</citedRange>
+                                <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
+                                <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in: A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
+                                <citedRange unit="">165.</citedRange>
                                 <ptr target="https://jalit.org/bibl/L7AGLL35"/>
-                    </bibl>
+                            </bibl>
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000906510205171"/>
