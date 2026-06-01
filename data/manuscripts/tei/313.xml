@@ -107,39 +107,39 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1578">
                                     <idno type="">Yevr.-Arab. I 922</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
-                        <ptr target="https://jalit.org/manuscript/1578"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
+                                    <ptr target="https://jalit.org/manuscript/1578"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1577">
                                     <idno type="">Yevr.-Arab. II 881.15</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.15</title>
-                        <ptr target="https://jalit.org/manuscript/1577"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.15</title>
+                                    <ptr target="https://jalit.org/manuscript/1577"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1576">
                                     <idno type="">Yevr.-Arab. II 1005.05</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1005.05</title>
-                        <ptr target="https://jalit.org/manuscript/1576"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1005.05</title>
+                                    <ptr target="https://jalit.org/manuscript/1576"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1575">
                                     <idno type="">Yevr.-Arab. I 2759</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2759</title>
-                        <ptr target="https://jalit.org/manuscript/1575"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2759</title>
+                                    <ptr target="https://jalit.org/manuscript/1575"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript311">
                                     <idno type="">Yevr.-Arab. II 3020</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
-                        <ptr target="https://jalit.org/manuscript/311"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
+                                    <ptr target="https://jalit.org/manuscript/311"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript345">
                                     <idno type="">Yevr.-Arab. I 1903</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1903</title>
-                        <ptr target="https://jalit.org/manuscript/345"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1903</title>
+                                    <ptr target="https://jalit.org/manuscript/345"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript360">
                                     <idno type="">Yevr.-Arab. I 996</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
-                        <ptr target="https://jalit.org/manuscript/360"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
+                                    <ptr target="https://jalit.org/manuscript/360"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -166,7 +166,7 @@
                                     <note xml:lang="">
                                         <p>Partly worm-eaten with loss of text, holes in the text, torn at the bottom.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Partly legible. </ab>
+                                    <ab rend="visible" type="writing">Partly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -195,13 +195,15 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
-                                <persName ref="" role=""/>
-                                
-                                <metamark function="divine-names"> Yods with symbols/abbreviation signs. </metamark>
-                                <metamark function="diacritics">Mostly unpointed. </metamark>
+                                <persName ref="" role="scribe">[...] ben Menasseh, the physician</persName>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
+                                <metamark function="diacritics">Mostly unpointed.</metamark>
                                 <placeName ref="https://jalit.org/place/13">Baṣra</placeName>
                                 <origDate when="1020">1020</origDate>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>A small horizontal dash above a letter is used to mark abbreviated words. A circle indicates the place of corrections written in the margin possibly by a secondary hand.</p>
+                                    <p>Colophon included in Yevr.-Arab. II 3020.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -214,7 +216,7 @@
                             <decoNote>
                                 <desc>Paragraph marks and textual dividers</desc>
                                 <note xml:lang="">
-                                    <p>Colon and colon with a semi circle used to mark the end of paragraphs and also used within a paragraph followed by blank space. A small horizontal dash above a letter is used to mark abbreviated words. A circle indicates the place of corrections written in the margin possibly by a secondary hand.</p>
+                                    <p>Colon and colon with a semi circle used to mark the end of paragraphs and also used within a paragraph followed by blank space.</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -253,7 +255,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -337,11 +338,11 @@
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000952880205171"/>
                             </bibl>
                             <bibl xml:id="jalit-orgbiblL7AGLL35">
-                        <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
-                        <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in: A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
-                        <citedRange unit="page">165.</citedRange>
+                                <idno>Levi ben Yefet and his Kitāb al-Niʿma: selected texts</idno>
+                                <title>David Sklare, Levi ben Yefet and his Kitāb al-Niʿma: selected texts, in: A common rationality: Muʿtazilism in Islam and Judaism, ed. Camilla Adang, Sabine Schmidtke, and David Sklare, Istanbuler Texte und Studien 15 (Würzburg: Ergon Verlag in Kommission, 2007), 157–216, https://www.nomos-elibrary.de/10.5771/9783956506895-157/levi-ben-yefet-and-his-kitab-al-ni-ma-selected-texts</title>
+                                <citedRange unit="page">165.</citedRange>
                                 <ptr target="https://jalit.org/bibl/L7AGLL35"/>
-                    </bibl>
+                            </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
