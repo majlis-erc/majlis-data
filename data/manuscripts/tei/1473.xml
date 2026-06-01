@@ -51,6 +51,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T11:34:33.048Z">update Summary of page layout
+</change>
             <change who="#mroozen" when="2026-06-01T11:33:01.320Z">add Note to Main features of text layout
 </change>
             <change who="#mroozen" when="2026-06-01T11:31:50.564Z">add Main features of text layout
@@ -160,7 +162,7 @@
                                 <summary>
                                     
                                     <note xml:lang="">
-                                        <p>Line management: Text block justified on right side only; frequently extended letters on left margin. Text layout: Right-justified one-column text blocks.</p>
+                                        <p>Line management: Text block justified on right side only; frequently extended letters on left margin.</p>
                                     </note>
                                 </summary>
                                 <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="15-17">
