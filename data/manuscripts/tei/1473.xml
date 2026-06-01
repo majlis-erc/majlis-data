@@ -51,6 +51,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T11:31:50.564Z">add Main features of text layout
+</change>
             <change who="#mroozen" when="2026-06-01T11:25:34.819Z">add Summary of page layout
 </change>
             <change who="#mroozen" when="2026-06-01T11:16:25.476Z">add Detailed description of page layout
@@ -192,8 +194,10 @@
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Paragraph marks and textual dividers</desc>
+                                <note xml:lang="">
+                                    <p>Dot at the end of chapters (fol. 3v, l. 12)</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
