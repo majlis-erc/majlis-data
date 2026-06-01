@@ -51,6 +51,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T11:16:25.476Z">add Detailed description of page layout
+</change>
             <change who="#mroozen" when="2026-06-01T10:30:26.704Z">add Summary of hand
 </change>
             <change who="#mroozen" when="2026-06-01T10:04:57.649Z">add Binding description
@@ -150,10 +152,10 @@
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
-                                    <desc/>
+                                    
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="15-17 lpp">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
