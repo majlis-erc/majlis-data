@@ -51,6 +51,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-01T11:55:05.230Z">update main features of text layout
+</change>
             <change who="#mroozen" when="2026-06-01T11:43:00.775Z">update summary of hand
 </change>
             <change who="#mroozen" when="2026-06-01T11:34:33.048Z">update Summary of page layout
@@ -201,12 +203,10 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <note xml:lang="">
-                                    <p>Text layout: Right-justified one-column text blocks</p>
+                                    <p>Right-justified one-column text blocks; dot at the end of chapters (fol. 3v, l. 12);</p>
                                 </note>
-                                <desc>Paragraph marks and textual dividers</desc>
-                                <note xml:lang="">
-                                    <p>Dot at the end of chapters (fol. 3v, l. 12)</p>
-                                </note>
+                                
+                                
                             </decoNote>
                         </decoDesc>
                         <additions>
