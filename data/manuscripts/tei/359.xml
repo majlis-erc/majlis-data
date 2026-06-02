@@ -86,7 +86,7 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="2v"/>
-                            <title xmlns="" ref="https://jalit.org/work/41">Commentary on the Book of Leviticus</title>
+                            <title ref="https://jalit.org/work/41">Commentary on the Book of Leviticus</title>
                             <author ref="https://jalit.org/person/3">Sahl ben Maṣliaḥ</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
