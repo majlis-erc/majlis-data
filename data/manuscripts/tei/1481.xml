@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-02T11:51:20.815Z">add note main features of text layout</change>
             <change who="#mroozen" when="2026-06-02T11:43:43.313Z">update and add manuscript join</change>
             <change who="#mroozen" when="2026-06-02T11:37:21.614Z">add manuscript join</change>
             <change who="#rboehm" when="2025-04-13T17:56:40.279Z">ID fix</change>
@@ -189,7 +190,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Justified one-column text blocks</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
