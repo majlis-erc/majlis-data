@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-02T14:01:26.999Z">add incipit and explicit</change>
             <change who="#mroozen" when="2026-06-02T13:43:32.948Z">add content summary</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -81,6 +82,19 @@
                             <p>Contains the following section from the 11th book (maqāla) of Kitāb al-Anwār: XI.27.23-XI.28.8.</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
+                            <explicit>
+      <locus from="4v" to=""/>
+      <quote xml:lang="">
+                                    <p>قال وقال في العرايوث عرواث ايشث [עֶרְוַת אֵשֶׁת, Lev 18:8]</p>
+                                </quote>
+   </explicit>
+                            <incipit>
+                                <quote xml:lang="">
+                                    <p>لا يجي منها شي وليس يجب الاشتغال بها[...]</p>
+                                </quote>
+      <locus from="1r" to=""/>
+      <quote xml:lang=""/>
+   </incipit>
                             <locus from="" to=""/>
                             <title cert="" ref="" xml:lang="">כתאב אלאנואר ואלמראקב</title>
                             <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
