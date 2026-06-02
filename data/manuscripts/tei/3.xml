@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -60,7 +61,7 @@
                 </respStmt>
             <editor role="entry-editor"/>
                 <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor" xml:id="rboehm"> Maurizio Boehm </editor>
+                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm"> Maurizio Boehm </editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier"> Lukas Froschmeier </editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs"> Annabelle Fuchs </editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -69,7 +70,7 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor role="contributor">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla"> Lea Poralla </editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb"> Gregor Schwarb </editor>
+                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb"> Gregor Schwarb </editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
