@@ -66,13 +66,16 @@
             <listBibl>
                 <msDesc xml:id="ms-356">
                     <msIdentifier>
+                        <altIdentifier type="FGP">
+      <idno>C597566 , C597567 , C597568 , C597569 , C597570 , C597571 , C597572 , C597573 , C597574 , C597575 , C597576 , C597577 , C597578 , C597579 , C597580 , C597581 , C597582 , C597583 , C597584 , C597585 , C597586 , C597587 , C597588 , C597589 , C597590 , C597591 , C597592 , C597593 , C597594 , C597595 , C597596 , C597597 , C597598 , C597599 , C597600 , C597601 , C597602 , C597603 , C597604 , C597605 , C597606 , C597607 , C597608 , C597609 , C597610 , C597611 , C597612 , C597613 , C597614 , C597615 , C597616 , C597617 , C597618 , C597619 , C597620 , C597621 , C597622 , C597623 , C597624 , C597625 , C597626 , C597627 , C597628 , C597629 , C597630 , C597631 , C597632 , C597633 , C597634 , C597635 , C597636 , C597637 , C597638 , C597639 , C597640 , C597641 , C597642 , C597643 , C597644 , C597645 , C597646 , C597647 , C597648 , C597649 , C597650 , C597651 , C597652 , C597653 , C597654 , C597655 , C597656 , C597657 , C597658 , C597659 , C597660 , C597661 , C597662 , C597663 , C597664 , C597665 , C597666</idno>
+   </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
                         <collection>Yevr.-Arab. I</collection>
                         <idno>1681</idno>
                         <altIdentifier type="Ktiv">
-                            <idno>PNX_MANUSCRIPTS990001535200205171</idno>
+                            <idno>990001535200205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 55080</idno>
@@ -108,9 +111,9 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1360">
                                     <idno type="">OR 2523.1</idno>
-                        <title>London, British Library, Oriental 2523.1</title>
-                        <ptr target="https://jalit.org/manuscript/1360"/>
-                    </bibl>
+                                    <title>London, British Library, Oriental 2523.1</title>
+                                    <ptr target="https://jalit.org/manuscript/1360"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -139,7 +142,7 @@
                                     <note xml:lang="">
                                         <p>Partly worm-eaten with loss of text, a small number of pages is damaged more extensively.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Mostly legible. </ab>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -330,11 +333,9 @@
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
                             <bibl xml:id="">
-      
-      <ptr target=""/>
-      <citedRange unit=""/>
-   </bibl>
-                            
+                                <ptr target=""/>
+                                <citedRange unit=""/>
+                            </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
