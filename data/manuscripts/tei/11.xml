@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -66,7 +67,7 @@
                 </respStmt>
             <editor role="entry-editor"/>
                 <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Maurizio Boehm</editor>
+                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor">Maurizio Boehm</editor>
                 <editor role="contributor">Lukas Froschmeier</editor>
                 <editor role="contributor">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -75,7 +76,7 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor role="contributor">Maximilian de Molière</editor>
                 <editor role="contributor">Lea Poralla</editor>
-                <editor role="contributor">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor><editor role="contributor">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>

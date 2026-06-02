@@ -30,6 +30,8 @@ ADDITIONAL_NAMES = [
     "Jonathan Beise",
     "Masoumeh Seydi",
     "Nathan P. Gibson",
+    "Jasper Bernhofer",
+    "Maxim Roozen",
 ]
 # Directory containing your XML files:
 INPUT_GLOB = r"../../data/*/tei/*.xml"  # adjust as needed
