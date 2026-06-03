@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Yevr.-Arab. I 318</title>
+                <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 318</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -68,16 +68,18 @@
                             <idno/>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
-                            <idno>  F 40081,  F 53965,  PH 5179 </idno>
+                            <idno>F 40081, F 53965, PH 5179</idno>
                         </altIdentifier>
                         <msName/>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Book of the Examination of the Commandments  by Yosef ha-Roʾeh (page one contains part of the fourth treatise on the Aviv, pages 2-9 contain a section of the third treatise on calendrical matters) .</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="" to=""/>
-                            
-                            <author ref="" cert=""/>
+                            <locus from="1r" to="9v"/>
+                            <title xmlns="" ref="https://jalit.org/work/23">Book of the Examination of the Commandments </title>
+                            <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
@@ -94,11 +96,26 @@
                         <ab type="codicological-definition">
                             <objectType rend="" style="codex">Single manuscript</objectType>
                             <listBibl>
-                                <bibl>
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1583">
+                                    <idno type="">Yevr.-Arab. II 2951</idno>
+                        <title>Yevr.-Arab. II 2951</title>
+                        <ptr target="https://jalit.org/manuscript/1583"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1582">
+                                    <idno type="">Yevr.-Arab. II 2949</idno>
+                        <title>Yevr.-Arab. II 2949</title>
+                        <ptr target="https://jalit.org/manuscript/1582"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1580">
+                                    <citedRange unit="">Yevr.-Arab. II 881.11</citedRange>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.11</title>
+                        <ptr target="https://jalit.org/manuscript/1580"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript353">
+                                    <idno type="">Yevr.-Arab. I 1794</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794</title>
+                        <ptr target="https://jalit.org/manuscript/353"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -108,7 +125,7 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio"/>
+                                    <measure unit="folio">9</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
@@ -202,7 +219,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -235,7 +251,6 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
@@ -243,7 +258,6 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="">
-                                
                                 <citedRange unit="p"/>
                                 <ptr target=""/>
                             </bibl>
