@@ -69,7 +69,7 @@
                         <collection>Yevr.-Arab. II</collection>
                         <idno>881.35</idno>
                         <altIdentifier type="Ktiv">
-                            <idno>PNX_MANUSCRIPTS990000855230205171</idno>
+                            <idno>990001227000205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 59270</idno>
@@ -79,12 +79,14 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Book of the Examination of the Commandments by  Yosef ha-Roʾeh (containing a section from the third treatise on calendrical calculation according to the sighting of the moon)</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="" to=""/>
-                            <title cert="" ref="" xml:lang="">כתאב אלאימאן</title>
-                            <author ref="https://jalit.org/person/306">Hayya ben Šerira Gaʾon</author>
-                            <textLang mainLang="" otherLangs=""/>
+                            <locus from="17r" to="17v"/>
+                            <title xmlns="" ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
+                            <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang=""/>
@@ -100,11 +102,26 @@
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
-                                <bibl status="draft">
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1583">
+                                    <idno type="">Yevr.-Arab. II 2951</idno>
+                        <title>Yevr.-Arab. II 2951</title>
+                        <ptr target="https://jalit.org/manuscript/1583"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1582">
+                                    <idno type="">Yevr.-Arab. II 2949</idno>
+                        <title>Yevr.-Arab. II 2949</title>
+                        <ptr target="https://jalit.org/manuscript/1582"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1581">
+                                    <idno type="">Yevr.-Arab. I 318</idno>
+                        <title>Yevr.-Arab. I 318</title>
+                        <ptr target="https://jalit.org/manuscript/1581"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript353">
+                                    <idno type="">Yevr.-Arab. I 1794</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794</title>
+                        <ptr target="https://jalit.org/manuscript/353"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -114,7 +131,7 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">80א-81ב.</measure>
+                                    <measure unit="folio">1</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
@@ -207,7 +224,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
