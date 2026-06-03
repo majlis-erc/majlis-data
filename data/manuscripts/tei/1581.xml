@@ -78,7 +78,7 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="9v"/>
-                            <title xmlns="" ref="https://jalit.org/work/23">Book of the Examination of the Commandments </title>
+                            <title xmlns="" ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
                             <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
@@ -98,24 +98,24 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1583">
                                     <idno type="">Yevr.-Arab. II 2951</idno>
-                        <title>Yevr.-Arab. II 2951</title>
-                        <ptr target="https://jalit.org/manuscript/1583"/>
-                    </bibl>
+                                    <title>Yevr.-Arab. II 2951</title>
+                                    <ptr target="https://jalit.org/manuscript/1583"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1582">
                                     <idno type="">Yevr.-Arab. II 2949</idno>
-                        <title>Yevr.-Arab. II 2949</title>
-                        <ptr target="https://jalit.org/manuscript/1582"/>
-                    </bibl>
+                                    <title>Yevr.-Arab. II 2949</title>
+                                    <ptr target="https://jalit.org/manuscript/1582"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1580">
-                                    <citedRange unit="">Yevr.-Arab. II 881.11</citedRange>
+                                    <idno type="">Yevr.-Arab. II 881.11</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.11</title>
                         <ptr target="https://jalit.org/manuscript/1580"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript353">
                                     <idno type="">Yevr.-Arab. I 1794</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794</title>
-                        <ptr target="https://jalit.org/manuscript/353"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794</title>
+                                    <ptr target="https://jalit.org/manuscript/353"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
