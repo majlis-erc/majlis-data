@@ -78,8 +78,8 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="1v"/>
-                            <title xmlns="" ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
-                            <author xmlns="" ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
+                            <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
+                            <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>

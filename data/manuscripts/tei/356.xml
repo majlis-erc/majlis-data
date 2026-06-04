@@ -87,8 +87,8 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1" to="92"/>
-                            <title xmlns="" ref="https://jalit.org/work/118">Refutation of Abū al-Ḥasan al-Ṣūrī’s Treatise on the Qibla (Yešuʿa ben Yehuda?)</title>
-                            <author xmlns="" ref="https://jalit.org/person/11">Yešuʿa ben Yehuda?</author>
+                            <title ref="https://jalit.org/work/118">Refutation of Abū al-Ḥasan al-Ṣūrī’s Treatise on the Qibla (Yešuʿa ben Yehuda?)</title>
+                            <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda?</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
