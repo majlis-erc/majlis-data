@@ -73,8 +73,8 @@
                 <msDesc xml:id="ms-354">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C597157 , C597158 , C597159 , C597160 , C597161 , C597162 , C597163 , C597164 , C597165 , C597166 , C597167 , C597168 , C597169 , C597170 , C597171 , C597172 , C597173 , C597174 , C597175 , C597176 , C597177 , C597178 , C597179 , C597180 , C597181 , C597182 , C597183 , C597184 , C597185 , C597186 , C597187 , C597188 , C597189 , C597190 , C597191 , C597192 , C597193 , C597194 , C597195 , C597196 , C597197 , C597198 , C597199 , C597200 , C597201 , C597202 , C597203 , C597204 , C597205 , C597206 , C597207 , C597208</idno>
-   </altIdentifier>
+                            <idno>C597157 , C597158 , C597159 , C597160 , C597161 , C597162 , C597163 , C597164 , C597165 , C597166 , C597167 , C597168 , C597169 , C597170 , C597171 , C597172 , C597173 , C597174 , C597175 , C597176 , C597177 , C597178 , C597179 , C597180 , C597181 , C597182 , C597183 , C597184 , C597185 , C597186 , C597187 , C597188 , C597189 , C597190 , C597191 , C597192 , C597193 , C597194 , C597195 , C597196 , C597197 , C597198 , C597199 , C597200 , C597201 , C597202 , C597203 , C597204 , C597205 , C597206 , C597207 , C597208</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -99,13 +99,19 @@
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>וָאֶתְחַנַן: אמרהם הִתְחַטַ בפתח: וָאֶתְפַלֵל: אמרהם הִתְפַלֵל בנקטתין:</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="fol. 52r" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>ואלאמר אלת̇אני יכון הִנָּצֵת בוזן הִסׇּגֵר הִקׇּבֵר פצארת נִצְּתוּ מן הִנׇּצֵת בוזן נִתְּנוּ מן הִנָּתֵן</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>Only images of fols. 1-52r are available on ktiv and FGP.</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -126,13 +132,13 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">162 [only 52 on Ktiv]</measure>
+                                    <measure unit="folio">162</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -140,26 +146,33 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Some pages worm-eaten around the sides, somes pages torn on the top or on the bottom, frayed edges, stained and faded in places, some loss of text.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Legible. </ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing, straight line of writing.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="26">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Space fillers</metamark>
+                                    <metamark function="justification">Anticipation</metamark>
+                                    <ab type="ruling">Grid of single vertical and horizontal lines</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -170,32 +183,38 @@
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">David ben Yiṣḥaq</persName>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="vocalization">Regular use of Tiberian vocalization.</metamark>
+                                <metamark function="diacritics">Sparsely dotted. </metamark>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <origDate>1000(?)</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="" style="" xml:lang="">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang="he"/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Paragraph marks and textual dividers</desc>
+                                <note xml:lang="">
+                                    <p>Identation of the first line of a paragraph, colon often followed by blank space.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <persName ref="" role="mentioned">חנניה בן משה הנכר בטראבלסי</persName>
-                                    <persName ref="" role="mentioned">Yešuʿa ben Yehuda</persName>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    
+                                    
+                                    <locus from="19v" to=""/>
+                                    <quote xml:lang="he">
+                                        <p>כתב דויד [בן י]צחק המלמד<lb/>בירושלם עיר הקדש<lb/>תבנה במהרה<lb/>אמן</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
