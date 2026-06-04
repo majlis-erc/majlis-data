@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-04T11:32:17.637Z">update data</change>
             <change who="#mroozen" when="2026-06-04T11:27:06.034Z">update data</change>
             <change who="#mroozen" when="2026-06-03T13:43:09.554Z">add manuscript joins</change>
             <change who="#mroozen" when="2026-06-03T11:04:49.751Z">add summary of text layout</change>
@@ -215,8 +216,7 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <metamark function="divine-names">Written as ادوناي (e.g. fol. 2r, l. 2)</metamark>
                                 <metamark function="vocalization">Rare vowel marks</metamark>
-                                <metamark function="diacritics">Occasional ihmāl-marks</metamark>
-                                <metamark function="diacritics">Sparsely dotted</metamark>
+                                <metamark function="diacritics">Sparsely dotted; occasional ihmāl-marks</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -232,13 +232,11 @@
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang="">
-                                <p>Justified one-column text blocks.</p>
+                                <p>Justified one-column text blocks. Circled dot at the end of chapter and chapter headings and textual units (e.g. fol 4r, ll. 11, 13).</p>
                             </summary>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang="">
-                                    <p>Circled dot at the end of chapter and chapter headings and textual units (e.g. fol 4r, ll. 11, 13)</p>
-                                </note>
+                                <note xml:lang=""/>
                             </decoNote>
                         </decoDesc>
                         <additions>
