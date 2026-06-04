@@ -73,8 +73,8 @@
                 <msDesc xml:id="ms-353">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C598994 , C598995 , C598996 , C598997 , C598998 , C598999 , C599000 , C599001 , C599002 , C599003 , C599004 , C599005 , C599006 , C599007 , C599008 , C599009 , C599010 , C599011 , C599012 , C599013 , C599014 , C599015 , C599016 , C599017 , C599018 , C599019 , C599020 , C599021 , C599022 , C599023 , C599024 , C599025 , C599026 , C599027 , C599028 , C599029 , C599030 , C599031 , C599032 , C599033 , C599034 , C599035 , C599036 , C599037 , C599038 , C599039 , C599040 , C599041 , C599042 , C599043 , C599044 , C599045 , C599046 , C599047 , C599048 , C599049 , C599050 , C599051 , C599052 , C599053 , C599054 , C599055 , C599056 , C599057 , C599058 , C599059 , C599060 , C599061 , C599062 , C599063 , C599064 , C599065 , C599066 , C599067 , C599068 , C599069 , C599070 , C599071 , C599072 , C599073 , C599074 , C599075 , C599076 , C599077 , C599078 , C599079 , C599080 , C599081 , C599082 , C599083 , C599084 , C599085 , C599086 , C599087 , C599088 , C599089 , C599090 , C599091 , C599092 , C599093 , C599094 , C599095 , C599096 , C599097 , C599098 , C599099 , C599100 , C599101 , C599102 , C599103 , C599104 , C599105 , C599106 , C599107 , C599108 , C599109 , C599110 , C599111 , C599112 , C599113 , C599114 , C599115 , C599116 , C599117 , C599118 , C599119 , C599120 , C599121 , C599122</idno>
-   </altIdentifier>
+                            <idno>C598994 , C598995 , C598996 , C598997 , C598998 , C598999 , C599000 , C599001 , C599002 , C599003 , C599004 , C599005 , C599006 , C599007 , C599008 , C599009 , C599010 , C599011 , C599012 , C599013 , C599014 , C599015 , C599016 , C599017 , C599018 , C599019 , C599020 , C599021 , C599022 , C599023 , C599024 , C599025 , C599026 , C599027 , C599028 , C599029 , C599030 , C599031 , C599032 , C599033 , C599034 , C599035 , C599036 , C599037 , C599038 , C599039 , C599040 , C599041 , C599042 , C599043 , C599044 , C599045 , C599046 , C599047 , C599048 , C599049 , C599050 , C599051 , C599052 , C599053 , C599054 , C599055 , C599056 , C599057 , C599058 , C599059 , C599060 , C599061 , C599062 , C599063 , C599064 , C599065 , C599066 , C599067 , C599068 , C599069 , C599070 , C599071 , C599072 , C599073 , C599074 , C599075 , C599076 , C599077 , C599078 , C599079 , C599080 , C599081 , C599082 , C599083 , C599084 , C599085 , C599086 , C599087 , C599088 , C599089 , C599090 , C599091 , C599092 , C599093 , C599094 , C599095 , C599096 , C599097 , C599098 , C599099 , C599100 , C599101 , C599102 , C599103 , C599104 , C599105 , C599106 , C599107 , C599108 , C599109 , C599110 , C599111 , C599112 , C599113 , C599114 , C599115 , C599116 , C599117 , C599118 , C599119 , C599120 , C599121 , C599122</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -88,7 +88,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Book of the Examination of the Commandments by Yosef ha-Roʾe (containing discourse 3 (on the new moon; fols 1–27), discourse 4 (on the aviv; fols 28–38), discourse 9 (on forbidden relationships; fols 38–114).</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="114v"/>
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
@@ -96,15 +98,17 @@
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>אלמקאלה אלג̇ מן כתאב אלאסתבצאר פי אלפראיץ̇ תתצ̇מן אלכלאם פי יהי מאורות</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פלא וגה אד̇א לתתכע צאחב כתאב אלאנואר ומן ג̇רי מג̇רי אסתדלאל אצחאבנא בקצר</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang="">
-                                <p>Containing discourse 3 (on the new moon; fols 1–27), discourse 4 (on the aviv; fols 28–38), discourse 9 (on forbidden relationships; fols 38–114).</p>
-                            </note>
+                            <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -113,24 +117,24 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1583">
                                     <idno type="">Yevr.-Arab. II 2951</idno>
-                        <title>Yevr.-Arab. II 2951</title>
-                        <ptr target="https://jalit.org/manuscript/1583"/>
-                    </bibl>
+                                    <title>Yevr.-Arab. II 2951</title>
+                                    <ptr target="https://jalit.org/manuscript/1583"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1582">
                                     <idno type="">Yevr.-Arab. II 2949</idno>
-                        <title>Yevr.-Arab. II 2949</title>
-                        <ptr target="https://jalit.org/manuscript/1582"/>
-                    </bibl>
+                                    <title>Yevr.-Arab. II 2949</title>
+                                    <ptr target="https://jalit.org/manuscript/1582"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1581">
                                     <idno type="">Yevr.-Arab. I 318</idno>
-                        <title>Yevr.-Arab. I 318</title>
-                        <ptr target="https://jalit.org/manuscript/1581"/>
-                    </bibl>
+                                    <title>Yevr.-Arab. I 318</title>
+                                    <ptr target="https://jalit.org/manuscript/1581"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1580">
                                     <idno type="">Yevr.-Arab. II 881.11</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.11</title>
-                        <ptr target="https://jalit.org/manuscript/1580"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.11</title>
+                                    <ptr target="https://jalit.org/manuscript/1580"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -150,16 +154,24 @@
                                 <collation>
                                     <formula/>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Hebrew numerals the top right of the recto page (fol. 79r quire number 5), no visible catchwords.</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>well preserved in large parts, some pages torn, some pages containing small holes, stained and faded in places, some loss of text.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing, line of writing occasionally slightly slanted.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
@@ -171,9 +183,11 @@
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Anticipation</metamark>
+                                    <metamark function="">Change of script register</metamark>
+                                    <metamark function="justification">Extended letters</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -183,13 +197,17 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="vocalization">Rare use of Tiberian vocalization.</metamark>
+                                <metamark function="divine-names">"Allah" written with Aleph-Lamed ligature followed by a horizontal dash with a dot above and below</metamark>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <origDate>1000-1100</origDate>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Elongated ascenders of Lamed in the first line of page, at the end of a line, or after a chapter heading.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="" style="" xml:lang="">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang="he"/>
                             </scriptNote>
                         </scriptDesc>
@@ -197,7 +215,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Identation of the first line of a new paragraph, chapter headings written center-aligned in separate lines, occasional use of a colon or a dot followed by blank space</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
