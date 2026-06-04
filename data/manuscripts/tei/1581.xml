@@ -83,11 +83,15 @@
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פאן תט̇נו ד̇לך לאני מקדם פי אללגה ריים בליג פיהא עריף באוזאן אלשער ואלקואפי</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>אד̇א ראו אלהלאל [ימצ̇ון] [ולא יכון אלגרץ̇] אן תקבלו שהאדאתהמא מקאם שאהדין</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
@@ -108,9 +112,9 @@
                                 </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1580">
                                     <idno type="">Yevr.-Arab. II 881.11</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.11</title>
-                        <ptr target="https://jalit.org/manuscript/1580"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.11</title>
+                                    <ptr target="https://jalit.org/manuscript/1580"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript353">
                                     <idno type="">Yevr.-Arab. I 1794</idno>
                                     <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794</title>
@@ -121,7 +125,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material/>
+                                    <material>Paper</material>
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
@@ -139,14 +143,18 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab type="writing" rend=""/>
+                                    <note xml:lang="">
+                                        <p>Frayed edges, stained and faded in places, fol. 9 containing many holes, torn on the outer edge with loss of text.</p>
+                                    </note>
+                                    <ab type="writing" rend="visible">Mostly legible. </ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
-                                    <desc/>
-                                    <note xml:lang=""/>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing, line of writing occasionally slightly slanted, left margin varies.</p>
+                                    </note>
                                 </summary>
                                 <layout xml:id="layout-1.1.1.1" writtenLines="" columns="">
                                     <locus from="" to=""/>
@@ -154,9 +162,11 @@
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Space fillers</metamark>
+                                    <metamark function="">Extended letters</metamark>
+                                    <metamark function="justification">Anticipation</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -166,21 +176,27 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="vocalization"> Rare use of Tiberian vocalization.</metamark>
+                                <metamark function="divine-names">"Allah" written with Aleph-Lamed ligature followed by a horizontal dash with a dot above and below.</metamark>
+                                <metamark function="diacritics">Sparsely dotted. A dot above the letter also marks numbers and abbreviations.</metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Elongated ascenders of Lamed in the first line of page, at the end of a line, or after a chapter heading.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote xml:lang="" script="" style="" rend="">
+                            <scriptNote xml:lang="he" script="oriental" style="square" rend="current">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Paragraph marks and textual dividers</desc>
+                                <note xml:lang="">
+                                    <p>Identation of the first line of a new paragraph, chapter headings written center-aligned in separate lines, occasional use of a colon or a dot followed by blank space.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -257,10 +273,12 @@
                             </listBibl>
                         </surrogates>
                         <listBibl>
-                            <bibl xml:id="">
-                                <citedRange unit="p"/>
-                                <ptr target=""/>
-                            </bibl>
+                            <bibl xml:id="jalit-orgbiblCDYNP8XA">
+                        <idno/>
+                        <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991)</title>
+                        <citedRange unit="page">101.</citedRange>
+                                <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
+                    </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
