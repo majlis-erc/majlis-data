@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-04T13:21:37.914Z">update data</change>
             <change who="#mroozen" when="2026-06-04T13:11:58.384Z">update data</change>
             <change who="#mroozen" when="2026-06-02T11:51:20.815Z">add note main features of text layout</change>
             <change who="#mroozen" when="2026-06-02T11:43:43.313Z">update and add manuscript join</change>
@@ -172,9 +173,8 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="1">
-                            
                             <handNote xml:id="hand-1.1.1" medium="">
-                                <metamark function="divine-names">Rendered as اراناا (see Arab.-Yevr. 250)</metamark>
+                                <metamark function="divine-names">Rendered as ادوناي (see Arab.-Yevr. 250)</metamark>
                                 <metamark function="vocalization">Frequent vowel marks and fully vocalised in places (e.g. fol. 3v, ll. 5-11); šaddas, maddas, and hamzas. Frequent Tiberian vowel signs in red ink for Hebrew written in Arabic script (e.g. fol. 1v, l. 5).</metamark>
                                 <metamark function="diacritics">Abundantly dotted; frequent ihmāl-marks</metamark>
                                 <locus from="" to=""/>
@@ -192,7 +192,7 @@
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang="">
-                                <p>Justified one-column text blocks;</p>
+                                <p>Justified one-column text blocks; circled dot at the end of textual units and chapters (e.g. fol. 2v, ll. 3, 8).</p>
                             </summary>
                             <decoNote>
                                 <desc/>
