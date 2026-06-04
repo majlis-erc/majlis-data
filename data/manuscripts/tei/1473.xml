@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,12 +13,9 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -27,13 +24,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -51,25 +53,17 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-04T14:26:28.098Z">update data</change>
             <change who="#mroozen" when="2026-06-01T12:00:10.542Z">update content summary</change>
-            <change who="#mroozen" when="2026-06-01T11:55:05.230Z">update main features of text layout
-</change>
-            <change who="#mroozen" when="2026-06-01T11:43:00.775Z">update summary of hand
-</change>
-            <change who="#mroozen" when="2026-06-01T11:34:33.048Z">update Summary of page layout
-</change>
-            <change who="#mroozen" when="2026-06-01T11:33:01.320Z">add Note to Main features of text layout
-</change>
-            <change who="#mroozen" when="2026-06-01T11:31:50.564Z">add Main features of text layout
-</change>
-            <change who="#mroozen" when="2026-06-01T11:25:34.819Z">add Summary of page layout
-</change>
-            <change who="#mroozen" when="2026-06-01T11:16:25.476Z">add Detailed description of page layout
-</change>
-            <change who="#mroozen" when="2026-06-01T10:30:26.704Z">add Summary of hand
-</change>
-            <change who="#mroozen" when="2026-06-01T10:04:57.649Z">add Binding description
-</change>
+            <change who="#mroozen" when="2026-06-01T11:55:05.230Z">update main features of text layout</change>
+            <change who="#mroozen" when="2026-06-01T11:43:00.775Z">update summary of hand</change>
+            <change who="#mroozen" when="2026-06-01T11:34:33.048Z">update Summary of page layout</change>
+            <change who="#mroozen" when="2026-06-01T11:33:01.320Z">add Note to Main features of text layout</change>
+            <change who="#mroozen" when="2026-06-01T11:31:50.564Z">add Main features of text layout</change>
+            <change who="#mroozen" when="2026-06-01T11:25:34.819Z">add Summary of page layout</change>
+            <change who="#mroozen" when="2026-06-01T11:16:25.476Z">add Detailed description of page layout</change>
+            <change who="#mroozen" when="2026-06-01T10:30:26.704Z">add Summary of hand</change>
+            <change who="#mroozen" when="2026-06-01T10:04:57.649Z">add Binding description</change>
             <change who="#mroozen" when="2026-06-01T10:00:59.523Z">add State of conservation and Composition of quires</change>
             <change who="#mroozen" when="2026-05-29T15:43:02.764Z">add foliation</change>
             <change who="#mroozen" when="2026-05-29T15:28:36.854Z">modify folio ranges</change>
@@ -98,9 +92,7 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang="">
-                            <p>Contains the following section from the 4th book (maqāla) of Kitāb al-Anwār: IV.5.6-9; IV.22.2-IV.24.3; ed. Nemoy, pp. 356:13-358:9 (fols. 4-5); 386:8-389:14 (fols. 2-3, 1); chapter headings of chs. IV.23-24</p>
-                        </summary>
+                        <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
                             <title cert="" ref="" xml:lang="">כתאב אלאנואר ואלמראקב</title>
@@ -118,7 +110,9 @@
                                     <p>عن هاتين المقدمتين ان لا يوكل ذبايح الفساق ولذلك نظاير</p>
                                 </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>Contains the following section from the 4th book (maqāla) of Kitāb al-Anwār: IV.5.6-9; IV.22.2-IV.24.3; chapter headings of chs. IV.23-24;  ed. Nemoy, pp. 356:13-358:9 (fols. 4-5); 386:8-389:14 (fols. 2-3, 1).</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -135,11 +129,11 @@
                         <objectDesc>
                             <supportDesc>
                                 <condition>
-      <note xml:lang="">
+                                    <note xml:lang="">
                                         <p>In good condition; folios not in order</p>
                                     </note>
-      <ab rend="" type=""/>
-   </condition>
+                                    <ab rend="" type=""/>
+                                </condition>
                                 <support>
                                     <material>Paper</material>
                                     <note xml:lang=""/>
@@ -154,21 +148,14 @@
                                 <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
                                     <note xml:lang="">
-                                        <p>Folios from two distinct quires (see above); fol.1 follows fol. 3</p>
+                                        <p>Folios from two distinct quires (see above); fol.1 follows fol. 3. Catchwords: Fol. 4v: عز وجل.</p>
                                     </note>
-                                    
                                     <unit/>
-                                    
-                                    
                                 </collation>
-                                
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
-                                    
-                                    <note xml:lang="">
-                                        <p>Line management: Text block justified on right side only; frequently extended letters on left margin.</p>
-                                    </note>
+                                    <note xml:lang=""/>
                                 </summary>
                                 <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="15-17">
                                     <locus from="" to=""/>
@@ -176,17 +163,18 @@
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="">
-                            <summary xml:lang="">
-                                <p>Number of hands: 1. Language(s) &amp; Script(s): Biscriptal; Arabic in Arabic script; Hebrew in Hebrew script; Divine Name / Tetragrammaton rendered as ﯨﯩﺎ (in Hebrew script based on יי); sparsely dotted; very rare vocal marks in Arabic</p>
-                            </summary>
+                            <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="divine-names">Rendered as ﯨﯩﺎ (in Hebrew script based on יי)</metamark>
+                                <metamark function="vocalization">Very rare vocal marks</metamark>
+                                <metamark function="diacritics">Sparsely dotted</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -201,13 +189,11 @@
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
-                            <summary xml:lang=""/>
+                            <summary xml:lang="">
+                                <p>Right-justified one-column text blocks; dot at the end of chapters (fol. 3v, l. 12).</p>
+                            </summary>
                             <decoNote>
-                                <note xml:lang="">
-                                    <p>Right-justified one-column text blocks; dot at the end of chapters (fol. 3v, l. 12);</p>
-                                </note>
-                                
-                                
+                                <note xml:lang=""/>
                             </decoNote>
                         </decoDesc>
                         <additions>
