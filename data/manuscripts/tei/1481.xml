@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,12 +13,9 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -27,13 +24,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -51,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-04T13:11:58.384Z">update data</change>
             <change who="#mroozen" when="2026-06-02T11:51:20.815Z">add note main features of text layout</change>
             <change who="#mroozen" when="2026-06-02T11:43:43.313Z">update and add manuscript join</change>
             <change who="#mroozen" when="2026-06-02T11:37:21.614Z">add manuscript join</change>
@@ -101,7 +104,7 @@
                                 </quote>
                             </explicit>
                             <note xml:lang="en">
-                                <p>Contains the following two passages from the 3rd book (maqāla) of Kitāb al-Anwār: III.3.10-16; III.6.1-2.</p>
+                                <p>Contains the following two passages from the 3rd book (maqāla) of Kitāb al-Anwār: III.3.10-16; III.6.1-2; ed. Nemoy, pp. 195:13-198:6 (fols. 1-2); 204:17-205:16 (fol. 3), with significant variants.</p>
                             </note>
                         </msItem>
                     </msContents>
@@ -110,10 +113,10 @@
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl>
-      <ptr target=" https://jalit.org/manuscript/1484"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 276</idno>
-   </bibl>
+                                    <ptr target=" https://jalit.org/manuscript/1484"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 276</idno>
+                                </bibl>
                                 <bibl>
                                     <idno type="manuscript-join">Arab.-Yevr. 250</idno>
                                     <citedRange unit="folios"/>
@@ -162,17 +165,18 @@
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="1">
-                            <summary xml:lang="en">
-                                <p>Almost fully dotted; frequent vowel marks and fully vocalised in places (e.g. fol. 3v, ll. 5-11); šaddas, maddas, and hamzas. Frequent Tiberian vowel signs in red ink for Hebrew written in Arabic script (e.g. fol. 1v, l. 5); Divine Name rendered as اذوناي (see Arab.-Yevr. 250); abundantly dotted; frequent ihmāl-marks; circled dot at the end of textual units and chapters (e.g. fol. 2v, ll. 3, 8).</p>
-                            </summary>
+                            
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="divine-names">Rendered as اراناا (see Arab.-Yevr. 250)</metamark>
+                                <metamark function="vocalization">Frequent vowel marks and fully vocalised in places (e.g. fol. 3v, ll. 5-11); šaddas, maddas, and hamzas. Frequent Tiberian vowel signs in red ink for Hebrew written in Arabic script (e.g. fol. 1v, l. 5).</metamark>
+                                <metamark function="diacritics">Abundantly dotted; frequent ihmāl-marks</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -187,12 +191,12 @@
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
-                            <summary xml:lang=""/>
+                            <summary xml:lang="">
+                                <p>Justified one-column text blocks;</p>
+                            </summary>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang="">
-                                    <p>Justified one-column text blocks</p>
-                                </note>
+                                <note xml:lang=""/>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -230,7 +234,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
