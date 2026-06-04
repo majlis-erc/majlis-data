@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-04T12:05:12.778Z">add hand and binding description</change>
             <change who="#mroozen" when="2026-06-02T14:27:59.018Z">add content and physical description</change>
             <change who="#mroozen" when="2026-06-02T14:01:26.999Z">add incipit and explicit</change>
             <change who="#mroozen" when="2026-06-02T13:43:32.948Z">add content summary</change>
@@ -80,22 +81,22 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="">
-                            <p>Contains the following section from the 11th book (maqāla) of Kitāb al-Anwār: XI.27.23-XI.28.8. Chapter heading of ch. XI.28. Ed. Nemoy, pp. 1163:9-1167:5.</p>
+                            <p>Contains the following section from the 11th book (maqāla) of Kitāb al-Anwār: XI.27.23-XI.28.8; chapter heading of ch. XI.28; ed. Nemoy, pp. 1163:9-1167:5.</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <explicit>
-      <locus from="4v" to=""/>
-      <quote xml:lang="">
+                                <locus from="4v" to=""/>
+                                <quote xml:lang="">
                                     <p>قال وقال في العرايوث عرواث ايشث [עֶרְוַת אֵשֶׁת, Lev 18:8]</p>
                                 </quote>
-   </explicit>
+                            </explicit>
                             <incipit>
                                 <quote xml:lang="">
                                     <p>لا يجي منها شي وليس يجب الاشتغال بها[...]</p>
                                 </quote>
-      <locus from="1r" to=""/>
-      <quote xml:lang=""/>
-   </incipit>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang=""/>
+                            </incipit>
                             <locus from="" to=""/>
                             <title cert="" ref="" xml:lang="">כתאב אלאנואר ואלמראקב</title>
                             <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
@@ -156,13 +157,13 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="16-18">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
@@ -171,6 +172,9 @@
                         <handDesc hands="">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="divine-names">Rendered as ﯩﯨم (e.g. fol. 1v, l. 1)</metamark>
+                                <metamark function="vocalization">Very rare vowel marks; occasional Tiberian vowel signs for Hebrew written in Arabic script (e.g. fol. 2r, l. 13)</metamark>
+                                <metamark function="diacritics">Sparsely dotted; occasional ihmāl-marks</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -185,7 +189,9 @@
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
-                            <summary xml:lang=""/>
+                            <summary xml:lang="">
+                                <p>Right-justified one-column text blocks. Isolated hāʾ with vertical tail at end of textual units and chapters (e.g. fol. 1rv, l. 7).</p>
+                            </summary>
                             <decoNote>
                                 <desc/>
                                 <note xml:lang=""/>
@@ -216,7 +222,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and threads (fols. 2v-3r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -226,7 +232,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
