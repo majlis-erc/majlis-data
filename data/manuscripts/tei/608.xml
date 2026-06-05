@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-05T10:33:49.131Z">update script/hand description</change>
             <change who="#mroozen" when="2026-06-05T10:30:30.808Z">add text layout and script/hand description</change>
             <change who="#mroozen" when="2026-06-05T10:19:15.431Z">add chapter headings, ed. Nemoy, foliation, quiring</change>
             <change who="#rboehm" when="2025-04-13T17:43:12.879Z">ID fix</change>
@@ -170,8 +171,8 @@
                         <handDesc hands="">
                             
                             <handNote xml:id="hand-1.1.1" medium="">
-                                <metamark function="">Rendered as ادوناي</metamark>
-                                <metamark function="">Rare vowel marks (e.g. fol. 2r); occasional šaddas , maddas; more regular vocalization of fatḥa tanwīn. Occasional Tiberian vowel signs for Hebrew written in Arabic script (e.g. 13r, l. 3).</metamark>
+                                <metamark function="divine-names">Rendered as ادوناي</metamark>
+                                <metamark function="vocalization">Rare vowel marks (e.g. fol. 2r); occasional šaddas , maddas; more regular vocalization of fatḥa tanwīn. Occasional Tiberian vowel signs for Hebrew written in Arabic script (e.g. 13r, l. 3).</metamark>
                                 <metamark function="diacritics">Sparsely dotted; occasional ihmāl-marks</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
