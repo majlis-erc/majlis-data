@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-05T11:54:40.499Z">update special graphic signs</change>
             <change who="#mroozen" when="2026-06-05T11:50:56.927Z">add text layout and special graphic signs</change>
             <change who="#mroozen" when="2026-06-05T11:24:10.870Z">add ed. Nemoy and manuscript joins</change>
             <change who="#rboehm" when="2025-04-13T17:54:20.742Z">ID fix</change>
@@ -182,7 +183,7 @@
                         <handDesc hands="1">
                             
                             <handNote xml:id="hand-1.1.1" medium="">
-                                <metamark function="divine-names">اذوناي Rendered as</metamark>
+                                <metamark function="divine-names">Rendered as اذوناي</metamark>
                                 <metamark function="vocalization">Rare vowel marks in Arabic</metamark>
                                 <metamark function="diacritics">Sparsely dotted; occasional ihmāl-marks</metamark>
                                 <locus from="" to=""/>
