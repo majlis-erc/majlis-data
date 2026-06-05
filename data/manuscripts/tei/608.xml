@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-05T10:35:22.188Z">update foliation</change>
             <change who="#mroozen" when="2026-06-05T10:33:49.131Z">update script/hand description</change>
             <change who="#mroozen" when="2026-06-05T10:30:30.808Z">add text layout and script/hand description</change>
             <change who="#mroozen" when="2026-06-05T10:19:15.431Z">add chapter headings, ed. Nemoy, foliation, quiring</change>
@@ -133,7 +134,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
