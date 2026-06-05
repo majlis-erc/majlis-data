@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-05T13:46:09.299Z">update incipit and explicit</change>
             <change who="#mroozen" when="2026-06-05T13:43:34.960Z">add content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -86,13 +87,13 @@
                             <incipit>
                                 <locus from="1r" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>ىلوا [لممو مهوي ىميو ميرمي ىوبيها] خوالب ىويلبلا برض ىخر مم ىولبوا</p>
+                                    <p>اولى [ومما يوهم ايضا تحريم اليبوم] بالاخ الشقيقي ضرب اخر من القياس</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="2v" to=""/>
                                 <quote xml:lang="ar">
-                                    <p>لوق لمم تواك ول ممتكلبم ةووملللمف</p>
+                                    <p>قال ومن كانت له مملكتين فالمتقدمة</p>
                                 </quote>
                             </explicit>
                             <note xml:lang="">
