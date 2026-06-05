@@ -53,6 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-05T14:07:37.784Z">add writing material, mise en page, script/hand description</change>
+            <change who="#mroozen" when="2026-06-05T13:46:09.299Z">update incipit and explicit</change>
             <change who="#mroozen" when="2026-06-05T13:43:34.960Z">add content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -86,13 +88,13 @@
                             <incipit>
                                 <locus from="1r" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>ىلوا [لممو مهوي ىميو ميرمي ىوبيها] خوالب ىويلبلا برض ىخر مم ىولبوا</p>
+                                    <p>اولى [ومما يوهم ايضا تحريم اليبوم] بالاخ الشقيقي ضرب اخر من القياس</p>
                                 </quote>
                             </incipit>
                             <explicit>
                                 <locus from="2v" to=""/>
                                 <quote xml:lang="ar">
-                                    <p>لوق لمم تواك ول ممتكلبم ةووملللمف</p>
+                                    <p>قال ومن كانت له مملكتين فالمتقدمة</p>
                                 </quote>
                             </explicit>
                             <note xml:lang="">
@@ -124,15 +126,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Innermost bifolio of a quinion quire</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>In fair condition; torn off at the top; underwent preservation measures which impaired the codicological structure</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -141,21 +147,24 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="17-18">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
-                            <summary xml:lang=""/>
+                        <handDesc hands="1">
+                            
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Very rare Arabic vowel marks</metamark>
+                                <metamark function="diacritics">Sparsely dotted</metamark>
+                                <metamark function="divine-names">Rendered as ادوناي (e.g. fol. 2v, l. 17)</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -173,7 +182,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Right-justified one-column text blocks</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
