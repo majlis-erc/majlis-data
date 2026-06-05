@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-05T10:39:15.450Z">update content description note</change>
             <change who="#mroozen" when="2026-06-05T10:35:22.188Z">update foliation</change>
             <change who="#mroozen" when="2026-06-05T10:33:49.131Z">update script/hand description</change>
             <change who="#mroozen" when="2026-06-05T10:30:30.808Z">add text layout and script/hand description</change>
@@ -106,7 +107,7 @@
                                 </quote>
                             </explicit>
                             <note xml:lang="en">
-                                <p>Contains the following sections from the 4th book (maqāla) of Kitāb al-Anwār: IV.11.1-IV.25.4; IV.26.2-IV.34.6; add chapter headings of IV.12-IV.34; ed. Nemoy, pp. 368:5-374:15 (fols. 1-8); 375:12-392:9 (fols. 9-28); 394:4-401:8 (fols. 29-36); 403:1-409:10 (fols. 37-44); 392:9-393:4 (fol. 45); 401:8-402:4 (fol. 46).</p>
+                                <p>Contains the following sections from the 4th book (maqāla) of Kitāb al-Anwār: IV.11.1-IV.25.4; IV.26.2-IV.34.6; chapter headings of IV.12-IV.34; ed. Nemoy, pp. 368:5-374:15 (fols. 1-8); 375:12-392:9 (fols. 9-28); 394:4-401:8 (fols. 29-36); 403:1-409:10 (fols. 37-44); 392:9-393:4 (fol. 45); 401:8-402:4 (fol. 46).</p>
                             </note>
                         </msItem>
                     </msContents>
