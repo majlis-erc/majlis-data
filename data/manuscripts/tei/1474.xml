@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-05T11:50:56.927Z">add text layout and special graphic signs</change>
             <change who="#mroozen" when="2026-06-05T11:24:10.870Z">add ed. Nemoy and manuscript joins</change>
             <change who="#rboehm" when="2025-04-13T17:54:20.742Z">ID fix</change>
             <change who="#rboehm" when="2024-09-30T10:19:11.467Z">test.</change>
@@ -179,10 +180,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="1">
-                            <summary xml:lang="en">
-                                <p>Rare vowel marks; Divine Name rendered as اذوناي (see description of other fragments belonging to the same codex); sparsely dotted; occasional ihmāl-marks; isolated hāʾ (mostly without dot or tale) at end of textual units and chapters (e.g. fol. 2v, l. 9).</p>
-                            </summary>
+                            
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="divine-names">اذوناي Rendered as</metamark>
+                                <metamark function="vocalization">Rare vowel marks in Arabic</metamark>
+                                <metamark function="diacritics">Sparsely dotted; occasional ihmāl-marks</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -200,7 +202,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Justified one-column text blocks. Isolated hāʾ (mostly without dot or tail) at end of textual units and<lb/>chapters (e.g. fol. 2v, l. 9).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
