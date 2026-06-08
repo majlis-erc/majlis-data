@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-08T09:54:50.709Z">add content description, text and page layout, writing material, binding </change>
             <change who="#mroozen" when="2026-06-08T09:19:41.225Z">update codicological definition, canonical title and author name</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -84,14 +85,20 @@
                             <author ref="">Yaʿqūb b. Isḥāq al-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>مقشورة والثالثة ان تكون له اصبع</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="4v" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>واما الطير فان الامة مختلفة</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>Contains the following section from the 12th book (maqāla) of Kitāb al-Anwār: XII.2.4-XII.5.2; chapter headings (unnumbered) of<lb/>chs. XII.3-5; ed. Nemoy, pp. 1184:9-1188:1.</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -118,15 +125,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Contains the two innermost bifolios of a quinion quire [-/-/-/1/2/3/4/-/-/-]</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>In good condition; fol. 1r faded in spots</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -135,21 +146,23 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="14-16">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Occasional Tiberian vowel marks for Hebrew in Arabic script (e.g. fols. 2v, l. 16; 3r, l. 9)</metamark>
+                                <metamark function="diacritics">Sparsely dotted; frequent ihmāl-marks, esp. on letter ر</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -167,7 +180,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Right-justified one-column text blocks; initial hāʾ at the end of textual units and chapters (e.g. fol. 2v, ll. 1, 3, 12, 16)</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -195,7 +210,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes (fols. 2v-3r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
