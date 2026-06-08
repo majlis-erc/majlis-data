@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-08T17:25:08.447Z">add bookbinding description</change>
             <change who="#mroozen" when="2026-06-08T17:22:28.630Z">add manuscript joins, content description, writing material, page and text layout, script/hand description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -216,7 +217,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and thread (fols. 3v-4r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
