@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,11 +13,7 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jonathan Beise</editor>
                 <editor xml:id="jbernhofer" role="contributor">Jasper Bernhofer</editor>
                 <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
@@ -28,13 +24,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -56,6 +57,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mmoliere" when="2026-06-08T08:30:02.102Z">Changed incodicated document.
+</change>
             <change who="#mmoliere" when="2026-05-29T08:48:55.961Z">Added relations.</change>
             <change who="#rboehm" when="2024-09-06T09:36:07.651Z">joins</change>
             <change who="#mmoliere" when="2024-07-30T06:19:19.089Z">Added incodicated document.</change>
@@ -239,18 +242,20 @@
                             <list>
                                 <item xml:id="add-1.1.1.1">
                                     <listRelation>
-      <relation name="snap:fatherOf" ref="" active="https://jalit.org/person/3" passive="https://jalit.org/person/46"/>
-   </listRelation>
+                                        <active ref="" name="snap:fatherOf">Sahl ben Maṣliaḥ</active>
+                                        <passive ref="" name="snap:fatherOf">Maṣliaḥ ben Sahl</passive>
+                                    </listRelation>
                                     <listRelation>
-      <relation name="snap:fatherOf" ref="" active="https://jalit.org/person/46" passive="https://jalit.org/person/23"/>
-   </listRelation>
+                                        <active ref="" name="snap:fatherOf">Maṣliaḥ ben Sahl</active>
+                                        <passive ref="" name="snap:fatherOf">ʿAzarya ha-Kohen</passive>
+                                    </listRelation>
                                     <objectType>Certificates of endowment</objectType>
                                     <locus from="1r"/>
                                     <quote xml:lang="he">
                                         <p>זה הספר יש בו פתרון אלה הדברים קדש ליי אלהי ישראל הקדישו הזקן הטוב יפת בן מבשר נ'נ' הנודע בן העני ישמרו צורו וימלא משאלותיו לעולם הזה ולעולם הבא והקדישו על עדת בני מקרא בירושלם עיר הקדש אלהים יכוננה עד עולם סלה ויהיה מעת הקדישו תחת ידו בכל מקום שילך אליו מכל המדינות יקרא בו הוא וכל מי יחפץ כל ימי חייו ואחרי כן יֻתן הספר הזה בחצר המלמד יוסף בן בכתויה נ'נ' בירושלם תחת יד עזריה הכהן המלמד בן מצליח בן סהל נ'נ' ארור גונבו ומוכרו וקונהו אם לא ישיבהו אל קדושתו וארור מעביטו וארור עובטו וארור מוציאו מן החצר הזה אחרי היותו בו זולת עת צרה. וברוך מקדישו ומקיים קדושתו אמן ואמן</p>
                                     </quote>
                                     <ab type="translation" xml:lang="en">This book contains a commentary on the Book of Deuteronomy. It is an endowment to the Lord, the God of Israel. It was endowed by the honorable Elder Yefet b. Mevasser, may his soul be at rest, who is also known as son of the pauper, may the Rock preserve him and fulfill his wishes in this world and the world to come. He endowed [the book] to the community of Qaraites in Jerusalem, the Holy City, “may God make it stand firm forever!” (Ps. 48:9). From the time of its endowment, it should be under his care wherever he goes to. He and everyone who desires may read it as long as he lives. Thereafter, this book shall be entrusted to the courtyard of the teacher Yosef b. Baḫtawayh, may his soul be at rest, in Jerusalem, under the care of ʿAzarya ha-Kohen, the teacher, son of Maṣliaḥ, son of Sahl, may his soul be at rest. Cursed be he who steals, sells, or buys it, or does not return it to its endowment. Cursed be also he who lends and pawns it, and cursed be he who removes it from this courtyard when it is kept there, except for times of distress. Blessed be the one who endowed it and whoever preserves its endowment. Amen and Amen.</ab>
-                                    <placeName ref="https://jalit.org/place/8" role="">Courtyard of the teacher</placeName>
+                                    <placeName ref="https://jalit.org/place/8" role="">Compound of the teacher</placeName>
                                     <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                                     <persName ref="https://jalit.org/person/30">Abū Yaʿqūb b. Baḫtawayh</persName>
                                     <persName ref="" role="">ʿAzarya ha-Kohen</persName>
