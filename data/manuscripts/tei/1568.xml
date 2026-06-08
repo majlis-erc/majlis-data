@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,12 +13,9 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -27,13 +24,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -201,7 +203,36 @@
                                     <quote xml:lang="he">
                                         <p>זה הספר יש בו פתרון ויקח קרח עד פרשת פינחס מפתרון המלמד יפת בן עלי הנכר אלבצרי ז'ל' הקדישה אותו שרה בת ראובן שנפטרה מן העולם הזה נ'נ' ואישה משה בן יפתח הכהן אלרחבי על עדת בני מקרא יעזרם אלהים להיות בירושלם עיר הקדש תב' במ' בחצר המלמד יוסף בן בכתויה ת'נ'צ'ב'ה' תחת ידי הז' עזריה בן מצליח בן סהל המשכיל הכהן נ'ע' זכ' לב' יקראו בו כל הנקבצים אל המקום הזה בימי השבתות ובימי המועדים קדש לייי אלהי ישראל לא ימכר ולא יגאל ולא יעבט ארור מוכרו וארור קונהו וארור מוציאו מן החצר הזה כי אם יהי פחד במדינה יחביאהו בעת הצרות בלבד וישיבהו אל מקומו ואלהי ישראל יתן שכר טוב וגורל נעים למקדישו וכל מי שישמר הספר הזה ברוך הוא לייי וכל ישראל בכלל כל הברכות אמן ואמן:</p>
                                     </quote>
-                                    <note xml:lang=""/>
+                                    <quote type="translation" xml:lang="en">
+                                        <p>This book contains a commentary on the [parashot] Korach (Num. 16:1–18:32) to Pinhas (Num. 25:10–30:1), from the commentary of the teacher, Yefet ben ʿEli, known as the  Basran, may his memory be a blessing. It was endowed by Sarah bat Reʾuven, who deceased from this world, may her spirit be at rest, by her husband Moshe ben Yiftah ha-Kohen, al-Raḥabī, to the  community of Qaraites, may God assist them, and stipulated it to be in Jerusalem, the Holy City,  may it be rebuilt soon, in the compound of the teacher Yosef b. Baḫtawayh, may his soul be bound in the bundle of the living, under the care of the Elder, Azarya ha-Kohen, the teacher, son of Maṣliaḥ, son of Sahl, the learned, be his resting place in Eden, and his memory be blessed.<lb/>Those who gather in this place on sabbaths and on holidays holy to the Lord, Israel’s God, shall read in it. One must neither sell, redeem, nor pawn it. Cursed be the one who sells it, cursed be the one who buys it and cursed be the one who removes it from this compound! Only if there is fear in the city one may hide it, but only during times of distress and [afterwards] one must return it to this place. Israel’s God may grant a good reward and a pleasant fate to the one who endows it and to everyone who will safeguard this book. May he be blessed by the Lord and all of Israel with all the blessings, Amen!</p>
+                                    </quote>
+                                    
+                                    
+                                    
+                                    <listRelation>
+                                        <relation name="" ref="">
+      
+      
+      
+      <desc type="">
+                                                <persName xmlns="" ref="https://jalit.org/person/4">Yefet ben ʿEli</persName>
+                                                <persName xmlns="" ref="https://jalit.org/person/47">Sarah bat Reʾuven</persName>
+                                                <persName xmlns="" ref="https://jalit.org/person/48">Moshe ben Yiftaḥ ha-Kohen al-Raḥabī</persName>
+                                                <persName xmlns="" ref="https://jalit.org/person/49">Yosef ben Baḫtawayh</persName>
+                                                <persName xmlns="" ref="https://jalit.org/person/23">ʿAzarya ha-Kohen</persName>
+                                                <persName xmlns="" ref="https://jalit.org/person/46">Maṣliaḥ ben Sahl</persName>
+                                                <persName xmlns="" ref="https://jalit.org/person/3">Sahl ben Maṣliaḥ</persName>
+         
+         
+         <placeName xmlns="" ref="https://jalit.org/place/3">Jerusalem</placeName>
+                                                <placeName xmlns="" ref="https://jalit.org/place/14">Compound of the teacher Yosef b. Baḫtawayh</placeName>
+         
+         
+         
+      </desc>
+   </relation>
+      
+   </listRelation>
                                 </item>
                                 <item xml:id="add-1.1.1.2">
                                     <objectType/>
