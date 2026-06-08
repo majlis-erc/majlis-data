@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,12 +13,9 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -27,13 +24,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -68,8 +70,8 @@
                 <msDesc xml:id="ms-357">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C598695 , C598696 , C598697 , C598698 , C598699 , C598700 , C598701 , C598702 , C598703 , C598704 , C598705 , C598706 , C598707 , C598708 , C598709 , C598710 , C598711 , C598712</idno>
-   </altIdentifier>
+                            <idno>C598695 , C598696 , C598697 , C598698 , C598699 , C598700 , C598701 , C598702 , C598703 , C598704 , C598705 , C598706 , C598707 , C598708 , C598709 , C598710 , C598711 , C598712</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -79,7 +81,7 @@
                             <idno>YZ029</idno>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno> 990000950940205171</idno>
+                            <idno>990000950940205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 55211, F 35627</idno>
@@ -101,7 +103,7 @@
                             <explicit>
                                 <locus from="14r" to=""/>
                                 <quote xml:lang="ar-Hebr">
-                                    <p>מן דינה והו צרורי לא ידכל עלינא [...]<lb/>שלק מן הדא פקד עלמת [...]<lb/>באלמעגזאת צרורי ועלינא [...]<lb/>ולאגלהא והי ואן עלמ[...]</p>
+                                    <p>מן דינה והו צ̇רורי לא ידכ̇ל עלינא [...]<lb/>שלק מן הד̇א פקד עלמת [...]<lb/>באלמעג̇זאת צ̇רורי ועלינא [...]<lb/>ולאג̇להא והי ואן עלמ[...]</p>
                                 </quote>
                             </explicit>
                             <note xml:lang="">
@@ -133,7 +135,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="foliation">Modern pencil foliation with Arabic numerals at the bottom of each recto page. </foliation>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation with Arabic numerals at the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
