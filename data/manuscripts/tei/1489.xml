@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-08T08:52:51.074Z">add incipit/explicit, writing material, page and text layout, script/hand description, binding </change>
             <change who="#mroozen" when="2026-06-08T08:12:21.304Z">add content description and manuscript joins</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -84,12 +85,16 @@
                             <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>قلنا ان الحساب خفي واذا كان كذلك ثبت ان الله عز وجل</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="7v" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>فلم قلتم انتم انها علامة لشي اخر</p>
+                                </quote>
                             </explicit>
                             <note xml:lang="">
                                 <p>Contains the following section from the 7th book (maqāla) of Kitāb al-Anwār: VII.11.26-VII.13.5; chapter headings of chs. VII.12-13; ed. Nemoy, pp. 813:8-821:20.</p>
@@ -135,15 +140,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page). The third folio is numbered “2a”.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Contains the inner four bifolios of a quinion quire [-/1/2/2a/3/4/5/6/7/-/-]</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>In good condition except for the outermost bifolio which is stained and faded in places.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -152,7 +161,7 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="18">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -164,9 +173,12 @@
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Rare vowel marks</metamark>
+                                <metamark function="diacritics">Sparsely dotted; occasional ihmāl-marks</metamark>
+                                <metamark function="divine-names"> Rendered as اذوناي (e.g. fol. 5v, l. 13)</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -184,7 +196,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Justified one-column text blocks; isolated hāʾ (mostly without dot or tail) at end of textual units and chapters (e.g. fol. 1r, l. 9).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -212,7 +226,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes (e.g. fols. 3v-4r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
