@@ -215,17 +215,17 @@
       
       
       <desc type="">
-                                                <persName xmlns="" ref="https://jalit.org/person/4" role="mentioned">Yefet ben ʿEli</persName>
-                                                <persName xmlns="" ref="https://jalit.org/person/47" role="mentioned">Sarah bat Reʾuven</persName>
-                                                <persName xmlns="" ref="https://jalit.org/person/48" role="mentioned">Moshe ben Yiftaḥ ha-Kohen al-Raḥabī</persName>
-                                                <persName xmlns="" ref="https://jalit.org/person/30" role="mentioned">Abū Yaʿqūb b. Baḫtawayh</persName>
-                                                <persName xmlns="" ref="https://jalit.org/person/23" role="mentioned">ʿAzarya ha-Kohen</persName>
-                                                <persName xmlns="" ref="https://jalit.org/person/46" role="mentioned">Maṣliaḥ ben Sahl</persName>
-                                                <persName xmlns="" ref="https://jalit.org/person/3" role="mentioned">Sahl ben Maṣliaḥ</persName>
+                                                <persName ref="https://jalit.org/person/4" role="mentioned">Yefet ben ʿEli</persName>
+                                                <persName ref="https://jalit.org/person/47" role="mentioned">Sarah bat Reʾuven</persName>
+                                                <persName ref="https://jalit.org/person/48" role="mentioned">Moshe ben Yiftaḥ ha-Kohen al-Raḥabī</persName>
+                                                <persName ref="https://jalit.org/person/30" role="mentioned">Abū Yaʿqūb b. Baḫtawayh</persName>
+                                                <persName ref="https://jalit.org/person/23" role="mentioned">ʿAzarya ha-Kohen</persName>
+                                                <persName ref="https://jalit.org/person/46" role="mentioned">Maṣliaḥ ben Sahl</persName>
+                                                <persName ref="https://jalit.org/person/3" role="mentioned">Sahl ben Maṣliaḥ</persName>
          
          
-         <placeName xmlns="" ref="https://jalit.org/place/3" role="">Jerusalem</placeName>
-                                                <placeName xmlns="" ref="https://jalit.org/place/14" role="">Compound of the teacher Yosef b. Baḫtawayh</placeName>
+         <placeName ref="https://jalit.org/place/3" role="">Jerusalem</placeName>
+                                                <placeName ref="https://jalit.org/place/14" role="">Compound of the teacher Yosef b. Baḫtawayh</placeName>
          
          
          
