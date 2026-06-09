@@ -250,6 +250,20 @@
                                     </quote>
                                     <note xml:lang=""/>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Note</objectType>
+      <locus from="1v" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>הד̇א קול פי אלנסכ̇ה אלתי נסכ̇תה מנהא</p>
+                                    </quote>
+      <quote type="translation" xml:lang="en">
+                                        <p>This is the statement in the copy, which I copied from.</p>
+                                    </quote>
+                                    <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
