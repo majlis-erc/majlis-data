@@ -78,16 +78,20 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="1v"/>
-                            <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
+                            <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>ונשיא ונשאוי פזעם אנה ליס כל קצור יוסמא קציר</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פלא יג̇ב יחמל קצור קציר עלי משיח ומשוח ונשאוי</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
@@ -98,30 +102,30 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1582">
                                     <idno type="">Yevr.-Arab. II 2949</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2949</title>
-                        <ptr target="https://jalit.org/manuscript/1582"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2949</title>
+                                    <ptr target="https://jalit.org/manuscript/1582"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1581">
                                     <idno type="">Yevr.-Arab. I 318</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 318</title>
-                        <ptr target="https://jalit.org/manuscript/1581"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 318</title>
+                                    <ptr target="https://jalit.org/manuscript/1581"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1580">
                                     <idno type="">Yevr.-Arab. II 881.11</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.11</title>
-                        <ptr target="https://jalit.org/manuscript/1580"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 881.11</title>
+                                    <ptr target="https://jalit.org/manuscript/1580"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript353">
                                     <idno type="">Yevr.-Arab. I 1794</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794</title>
-                        <ptr target="https://jalit.org/manuscript/353"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794</title>
+                                    <ptr target="https://jalit.org/manuscript/353"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material/>
+                                    <material>Paper</material>
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
@@ -131,7 +135,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style="foliation" rendition="modern">Modern foliation in Arabic numerals at the bottom of the recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -139,24 +143,31 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab type="writing" rend=""/>
+                                    <note xml:lang="">
+                                        <p>Generally well preserved, frayed edges.</p>
+                                    </note>
+                                    <ab type="writing" rend="visible">Legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
-                                    <desc/>
-                                    <note xml:lang=""/>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing, line of writing occasionally slightly slanted, left margin varies.</p>
+                                    </note>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" writtenLines="" columns="">
+                                <layout xml:id="layout-1.1.1.1" writtenLines="19" columns="1">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
-                                        <height unit="mm"/>
+                                        
                                         <width unit="mm"/>
+                                        <height unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Space fillers</metamark>
+                                    <metamark function="">Anticipation</metamark>
+                                    <metamark function="justification">Extended letters</metamark>
+                                    <ab type="ruling">No ruling</ab>
+                                    <ab type="pricking">No pricking</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -166,21 +177,25 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sparsely dotted. A dot above the letter also marks numbers and abbreviations.</metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Elongated ascenders of Lamed in the first line of page, at the end of a line, or after a chapter heading.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote xml:lang="" script="" style="" rend="">
+                            <scriptNote xml:lang="he" script="oriental" style="square" rend="current">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Paragraph marks and textual dividers</desc>
+                                <note xml:lang="">
+                                    <p>Identation of the first line of a new paragraph, chapter headings written center-aligned in separate lines, occasional use of a colon or a dot followed by blank space.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
