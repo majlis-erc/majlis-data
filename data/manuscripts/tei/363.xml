@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,12 +13,9 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -27,13 +24,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -141,7 +143,7 @@
                                     <note xml:lang="">
                                         <p>Heavily damaged, partly worm-eaten, holes in the text, sides of the page torn, stained, some loss of text.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Partly legible. </ab>
+                                    <ab rend="visible" type="writing">Partly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -195,10 +197,15 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="1r" to=""/>
+                                    <quote xml:lang="he" type="transcription">
+                                        <p>כאן אלפראג מן נסכ̇ה פי יום אלארבעא לי֗ט֗ כ̇לון מן שהר רביע אלאול מן סנה ת֗לה֗ לחסאב חסף טינה</p>
+                                    </quote>
+                                    <quote type="translation" xml:lang="en">
+                                        <p>This copy was completed on Wednesday, the 19th (of the days), which have passed from the month of Rabīʿ al-awwal, in the year 435 according to the calculation of (the empire of) miry clay [i.e. the Islamic calendar, cf. Dan. 2:41,43, corresponds to 26 October 1043 CE].</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
@@ -327,11 +334,10 @@
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000854560205171"/>
                             </bibl>
                             <bibl xml:id="">
-      <title>Sfardata</title>
-      <ptr target=""/>
-      <citedRange unit=""/>
-   </bibl>
-                            
+                                <title>Sfardata</title>
+                                <ptr target=""/>
+                                <citedRange unit=""/>
+                            </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
