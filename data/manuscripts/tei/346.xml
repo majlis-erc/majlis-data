@@ -116,7 +116,7 @@
                         <msItem xml:id="item-1.2" class="">
                             <locus from="93r" to="99v"/>
                             <locus from="100v"/>
-                            <title xmlns="" ref="https://jalit.org/work/111">Questions on the Sabbath</title>
+                            <title ref="https://jalit.org/work/111">Questions on the Sabbath</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
