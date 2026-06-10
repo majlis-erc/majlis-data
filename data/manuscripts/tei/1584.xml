@@ -73,8 +73,8 @@
                 <msDesc xml:id="ms-335">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C619049 , C619050 , C619051 , C619052 , C619053 , C619054 , C619055 , C619056 , C619057 , C619058 , C619059 , C619060 , C619061 , C619062 , C619063 , C619064</idno>
-   </altIdentifier>
+                            <idno>C619049 , C619050 , C619051 , C619052 , C619053 , C619054 , C619055 , C619056 , C619057 , C619058 , C619059 , C619060 , C619061 , C619062 , C619063 , C619064</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -93,42 +93,38 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="v"/>
-                            <locus from="3r" to="12v"/>
-                            <title ref="https://jalit.org/work/26">The Hebrew-Arabic Dictionary of the Bible</title>
-                            <author ref="https://jalit.org/person/25">David al-Fāsī</author>
-                            <textLang mainLang="ar" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
-                            </explicit>
-                            <note xml:lang="">
-                                <p>Containing letters ṭet, yod.</p>
-                            </note>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
                             <locus from="2r"/>
                             <title cert="" ref="" xml:lang="">Commentary on Zechariah (?)</title>
                             <author cert="" ref="">unknown</author>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>כקו̇ פי אלכהן בריתי היתה אתו החיים והשלום</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>ואג̇אבה וקאל זה דבר יי אל זרובבל לאמר לא בחיל ולא בכח כי אם ברוחי אמר יי צבאות</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl>
                                     <idno type="manuscript-join"/>
@@ -144,13 +140,13 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">12</measure>
+                                    <measure unit="folio">1</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the bottom of the recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -158,26 +154,32 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Faded in places.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Mostly legible. </ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing, line of writing not perfectly straight</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="13">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="justification">Extended letters</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -188,20 +190,21 @@
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">אברהם בן שבתי</persName>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sparsely dotted. A dot above a letter is used to mark abbreviations.</metamark>
+                                <metamark function="divine-names">Two yods with one yod added above.</metamark>
                                 <origDate>1091</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="oriental" style="square" xml:lang="he">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
+                                <desc>No graphic marks of text navigation</desc>
                                 <note xml:lang=""/>
                             </decoNote>
                         </decoDesc>
