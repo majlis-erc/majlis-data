@@ -73,8 +73,8 @@
                 <msDesc xml:id="ms-336">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C633207 , C633208 , C633209 , C633210 , C633211 , C633212 , C633213 , C633214</idno>
-   </altIdentifier>
+                            <idno>C633207 , C633208 , C633209 , C633210 , C633211 , C633212 , C633213 , C633214</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -104,7 +104,9 @@
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פיג̇ב אן יכון עאלמא בעל[...] פיכון עאלמא ג̇אהלא [...] כאיהא וד̇לך יתצ̇א[...]</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
@@ -133,7 +135,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern foliation in Arabic numerals at the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -141,26 +143,32 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Well preserved, stained in places, frayed edges.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing, straight line of writing, left margin not always perfectly aligned.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="15">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="justification">Anticipation</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -170,13 +178,13 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sparsely dotted. </metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="oriental" style="square" xml:lang="he">
+                            <scriptNote rend="careless" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
@@ -184,7 +192,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Chapter headings written center-aligned in a separate line, use of dot and semicircle with dot to structure the text.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -319,11 +329,13 @@
                         </surrogates>
                         <listBibl>
                             <bibl>
-                                <title>דוד סקליר et al., כתבי היד בערבית-יהודית באוספי פירקוביץ’ - חיבורי יוסף אלבציר: קטלוג לדוגמה, מקורות ומחקרים || Judaeo-Arabic manuscripts in the Firkovitch Collections: the works of Yusuf al-Basir. A sample catalogue, texts and studies, המפעל לחקר התרבות הערבית-היהודית וספרותה, סדרת פירסומים || Center for the Study of Judaeo-Arabic Culture and Literature: Publications (Jerusalem || ירושלים: Ben-Zvi Institute for the Study of Jewish Communities in the East || מכון בן-צבי לחקר קהילות ישראל במזרח, 1997).</title>
+                                <title>דוד סקליר et al., כתבי היד בערבית-יהודית באוספי פירקוביץ’ - חיבורי יוסף אלבציר: קטלוג לדוגמה, מקורות ומחקרים || Judaeo-Arabic manuscripts in the Firkovitch Collections: the works of Yusuf al-Basir. A sample catalogue, texts and studies, המפעל לחקר התרבות הערבית-היהודית וספרותה, סדרת פירסומים || Center for the Study of Judaeo-Arabic Culture and Literature: Publications (Jerusalem || ירושלים: Ben-Zvi Institute for the Study of Jewish Communities in the East || מכון בן-צבי לחקר קהילות ישראל במזרח, 1997),</title>
+                                <citedRange unit="page">69.</citedRange>
                                 <ptr target="https://jalit.org/bibl/WHC6W956"/>
                             </bibl>
                             <bibl>
-                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991).</title>
+                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991),</title>
+                                <citedRange unit="page">119.</citedRange>
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
                             <bibl>
