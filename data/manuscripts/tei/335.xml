@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 2889</title>
+                <title level="a" xml:lang="en">St. Petersburg, National Library of Russia, Yevr.-Arab. I 2889.1</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -79,7 +79,7 @@
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
                         <collection>Yevr.-Arab. I</collection>
-                        <idno>2889</idno>
+                        <idno>2889.1</idno>
                         <altIdentifier type="SfarData">
                             <idno>0R027</idno>
                         </altIdentifier>
