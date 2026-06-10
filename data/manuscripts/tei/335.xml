@@ -73,8 +73,8 @@
                 <msDesc xml:id="ms-335">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C619049 , C619050 , C619051 , C619052 , C619053 , C619054 , C619055 , C619056 , C619057 , C619058 , C619059 , C619060 , C619061 , C619062 , C619063 , C619064</idno>
-   </altIdentifier>
+                            <idno>C619049 , C619050 , C619051 , C619052 , C619053 , C619054 , C619055 , C619056 , C619057 , C619058 , C619059 , C619060 , C619061 , C619062 , C619063 , C619064</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -91,44 +91,34 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>The Comprehensive Lexicon by David al-Fāsī (containing letters ṭet, yod)</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="v"/>
+                            <locus from="1r" to="1v"/>
                             <locus from="3r" to="12v"/>
-                            <title ref="https://jalit.org/work/26">The Hebrew-Arabic Dictionary of the Bible</title>
+                            <title xmlns="" ref="https://jalit.org/work/26">The Comprehensive Lexicon</title>
                             <author ref="https://jalit.org/person/25">David al-Fāsī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>עלי צרבין אלואחד יקתצי חפט אלעין מתל שמוני נוטירה את הכרמים</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
-                            </explicit>
-                            <note xml:lang="">
-                                <p>Containing letters ṭet, yod.</p>
-                            </note>
-                        </msItem>
-                        <msItem xml:id="item-1.2" class="">
-                            <locus from="2r"/>
-                            <title cert="" ref="" xml:lang="">Commentary on Zechariah (?)</title>
-                            <author cert="" ref="">unknown</author>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>ויאמר משה לחובב בן רעואל המדיני חתן משה: ברוך יי לעולם: ברוך נותן ליעף כח ולאין אונים עצמה ירבה:</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
+                        
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl>
                                     <idno type="manuscript-join"/>
@@ -144,13 +134,13 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">12</measure>
+                                    <measure unit="folio">11</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -158,26 +148,33 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Partly worm-eaten and faded in places with some loss of text, frayed edges.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, even interlinear spacing, dense script block, line of writing occasionally slanted, left margin not always perfectly aligned.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="30">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Extended letters</metamark>
+                                    <metamark function="justification">Space fillers</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -186,15 +183,17 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <persName ref="" role="scribe">אברהם בן שבתי</persName>
+                                <persName xmlns="" ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
                                 <placeName ref=""/>
-                                <metamark function=""/>
-                                <origDate>1091</origDate>
+                                <metamark function="diacritics">Sparsely dotted. Dot above the letter is also used to indicate abbreviations.</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
+                                <metamark function="divine-names">Tetragrammaton: Two yods with one yod written above.</metamark>
+                                <origDate when="1091">1091</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="oriental" style="square" xml:lang="he">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
@@ -202,16 +201,20 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Section headings written in a separate line with decorated letters. Decorated letters also used for Lemmas written in the text and in the margins. Sense dividers (dot and colon usually followed by blank space). Identation of new paragraphs.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
-                                    <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <objectType>Colophon</objectType>
+                                    <persName xmlns="" ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
+                                    <locus from="12r" to=""/>
+                                    <quote xml:lang="he" type="transcription">
+                                        <p>אני אברהם ברבי שבתי ת֗נ֗צ֗ב֗ה֗ כתבתי זה האגרון<lb/>לעצמי בצור מדינתא המקום ב֗ה֗ ישימהו עלי סימן טוב<lb/>סימן ברכה וחיסנא ויקירא ורחמי מן קדם שמייא ויתן וימלא שאלותי ברצון. ונשלם האות העשירי בשנת<lb/>שהוא אות י֗ בשנת ד֗ת֗ת֗נ֗א֗ לבירייתיה דעלמא <emph rend="italic">בירח אדר אדר ראשון בכ֗ז֗ יום ב[ו]</emph> הרחמן<lb/>ישמור צאתי ובואי ויצילני מבני אדם הרעים ומאורב בדרך<lb/>וכן יהי רצון:</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
