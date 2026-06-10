@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mmoliere" when="2026-06-09T07:53:29.683Z">Added relationship.</change>
             <change who="#mmoliere" when="2026-06-09T06:29:41.035Z">Added incodicated document.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -181,8 +182,10 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
+                                    <listRelation>
+      
+   </listRelation>
                                     <objectType>Certificates of endowment</objectType>
-                                    
                                     <locus from="542v" to=""/>
                                     <quote xml:lang="he" type="transcription">
                                         <p>אני מישאל בן עזיאל בן יוסף בן הלל<lb/>בדקתי זאת התורה שלקדש חצר בן<lb/>בכתויה ירחמיהו אל. על יד מצליח הכהן<lb/>יחיהו אלוה בן סהל המלמד הכהן נוח נפש</p>
@@ -191,8 +194,12 @@
                                         <p>I, Mišaʾel ben ʿUzziʾel ben Yosef ben Hillel, have proofread this Torah, which is part of the endowment of the compound of Ibn Baḫtawayh, may God have mercy on him. [It is kept] under the care of Maṣliaḥ ha-Kohen,<lb/>   may God give him life, son of Sahl ha-Kohen, the teacher, may [his] soul be at rest.</p>
                                     </quote>
                                     <listRelation>
-      <relation name="syriaca:has-literary-connection-to-place" ref="" active="https://jalit.org/person/29" passive="https://jalit.org/manuscript/459"/>
+      <relation name="majlis:relationWith" ref="" active="https://jalit.org/manuscript/459" passive="https://jalit.org/place/14"/>
    </listRelation>
+                                    <listRelation>
+                                        <active ref="" name="syriaca:has-literary-connection-to-place">Mišaʾel ben ʿUzziʾel</active>
+                                        <passive ref="" name="syriaca:has-literary-connection-to-place">Cairo, Karaite Synagogue, Ms. 18</passive>
+                                    </listRelation>
                                 </item>
                             </list>
                         </additions>
@@ -220,7 +227,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
