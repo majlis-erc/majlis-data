@@ -73,8 +73,8 @@
                 <msDesc xml:id="ms-334">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C627672 , C627673 , C627674 , C627675 , C627676 , C627677 , C627678 , C627679 , C627680 , C627681 , C627682 , C627683 , C627684 , C627685 , C627686 , C627687 , C627688 , C627689 , C627690 , C627691 , C627692 , C627693 , C627694 , C627695 , C627696 , C627697 , C627698 , C627699 , C627700 , C627701 , C627702 , C627703 , C627704 , C627705 , C627706 , C627707 , C627708 , C627709 , C627710 , C627711 , C627712 , C627713 , C627714 , C627715 , C627716 , C627717</idno>
-   </altIdentifier>
+                            <idno>C627672 , C627673 , C627674 , C627675 , C627676 , C627677 , C627678 , C627679 , C627680 , C627681 , C627682 , C627683 , C627684 , C627685 , C627686 , C627687 , C627688 , C627689 , C627690 , C627691 , C627692 , C627693 , C627694 , C627695 , C627696 , C627697 , C627698 , C627699 , C627700 , C627701 , C627702 , C627703 , C627704 , C627705 , C627706 , C627707 , C627708 , C627709 , C627710 , C627711 , C627712 , C627713 , C627714 , C627715 , C627716 , C627717</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -142,14 +142,16 @@
                                 <collation>
                                     <formula/>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Hebrew numerals at the beginning of quires, decorated catchwords on the preceding verso page (e.g., fol. 22v-23r).</p>
+                                    </note>
                                 </collation>
                                 <condition>
                                     <note xml:lang="">
                                         <p>Generally well preserved, some pages containing holes, partly worm-eaten.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Legible. </ab>
+                                    <ab rend="visible" type="writing">Legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -185,25 +187,25 @@
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Sparsely dotted. Abbreviations marked with a dot above the letter.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="vocalization">Frequent use of Tiberian vowel signs. </metamark>
+                                <metamark function="vocalization">Frequent use of Tiberian vowel signs.</metamark>
                                 <origDate>1063</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                             <handNote xml:id="hand-1.1.2" source="#" medium="">
-      <locus from="8r (bottom)" to=""/>
-      <locus from="23r" to="24v"/>
+                                <locus from="8r (bottom)" to=""/>
+                                <locus from="23r" to="24v"/>
                                 <persName ref="" role=""/>
-      <placeName ref=""/>
-      <metamark function="diacritics">Sparsely dotted. </metamark>
+                                <placeName ref=""/>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviations signs.</metamark>
-                                <metamark function="vocalization">Frequent use of Tiberian vowel signs. </metamark>
-      <metamark function="">Elongated ascenders of Lamed in the first line of a page.</metamark>
+                                <metamark function="vocalization">Frequent use of Tiberian vowel signs.</metamark>
+                                <metamark function="">Elongated ascenders of Lamed in the first line of a page.</metamark>
                                 <origDate when=""/>
-      <note xml:lang="">
+                                <note xml:lang="">
                                     <p>There might be a third hand involved in the main text, see fol. 23v (middle). More investigation is needed to firmly establish the hands in the main text and their extent.</p>
                                     <p>Various  secondary notes in the margin including a dotted triangle to mark certain sections (see e.g., fol. 35v).</p>
                                 </note>
-   </handNote>
+                            </handNote>
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
