@@ -138,7 +138,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation with Arabic numerals at the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
