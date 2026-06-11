@@ -176,7 +176,9 @@
                                 <metamark function="diacritics">Sparsely dotted. Dot above a letter also marks abbreviations, three dots arranged in a triangle above the letter indicate numbers.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vowel signs. </metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Small drawings in the margins in the second half of the manuscript, see fols. 106-120.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
