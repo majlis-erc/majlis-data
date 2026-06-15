@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-15T14:26:37.946Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-06-15T14:23:26.788Z">add foliation, quiring, state of conservation, text and page layout, script/hand description, binding description</change>
             <change who="#mroozen" when="2026-06-15T14:06:01.532Z">add content description, update codicological definition</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -305,6 +306,11 @@
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001520930205171"/>
                             </bibl>
+                            <bibl xml:id="jalit-orgbiblHQN3YAXX">
+                        <idno>Études sur Qirqisânî [I]</idno>
+                        <title>Georges Vajda, Études sur Qirqisânî [I], Revue des études juives 106, no. N.S. 6 (1941): 87–123, https://doi.org/10.3406/rjuiv.1941.1248.</title>
+                        <ptr target="https://jalit.org/bibl/HQN3YAXX"/>
+                    </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
