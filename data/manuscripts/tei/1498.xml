@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-15T15:00:30.983Z">add properties of the page, page layout and text layout, script/hand description, binding description </change>
             <change who="#mroozen" when="2026-06-15T14:46:04.968Z">add content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -104,7 +105,7 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl status="draft">
                                     <idno type="manuscript-join"/>
@@ -126,15 +127,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="" style="">Modern pencil foliation in Arabic numerals (at the bottom of recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Second outermost bifolio of a quinion quire [-/1/-/-/-/-/-/-/2/-]</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>In good condition. Stained in places</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -143,21 +148,24 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="11">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Few vowel marks; occasional Tiberian vowel marks for Hebrew in Arabic script (e.g. fol. 2r, ll. 1-4)</metamark>
+                                <metamark function="diacritics">sparsely dotted</metamark>
+                                <metamark function="divine-names">rendered as اذوناي (fol. 2r, l. 4)</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -175,7 +183,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Right-justified one-column text blocks</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -203,7 +213,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes (fols. 1v-2r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
