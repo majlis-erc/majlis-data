@@ -114,7 +114,6 @@
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
-                        
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
@@ -184,7 +183,7 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <persName xmlns="" ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
-                                <placeName ref=""/>
+                                <placeName xmlns="" ref="https://jalit.org/place/15">Tyre (Lebanon)</placeName>
                                 <metamark function="diacritics">Sparsely dotted. Dot above the letter is also used to indicate abbreviations.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Two yods with one yod written above.</metamark>
@@ -213,7 +212,7 @@
                                     <persName xmlns="" ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
                                     <locus from="12r" to=""/>
                                     <quote xml:lang="he" type="transcription">
-                                        <p>אני אברהם ברבי שבתי ת֗נ֗צ֗ב֗ה֗ כתבתי זה האגרון<lb/>לעצמי בצור מדינתא המקום ב֗ה֗ ישימהו עלי סימן טוב<lb/>סימן ברכה וחיסנא ויקירא ורחמי מן קדם שמייא ויתן וימלא שאלותי ברצון. ונשלם האות העשירי בשנת<lb/>שהוא אות י֗ בשנת ד֗ת֗ת֗נ֗א֗ לבירייתיה דעלמא <emph rend="italic">בירח אדר אדר ראשון בכ֗ז֗ יום ב[ו]</emph> הרחמן<lb/>ישמור צאתי ובואי ויצילני מבני אדם הרעים ומאורב בדרך<lb/>וכן יהי רצון:</p>
+                                        <p>אני אברהם ברבי שבתי ת֗נ֗צ֗ב֗ה֗ כתבתי זה האגרון<lb/>לעצמי בצור מדינתא המקום ב֗ה֗ ישימהו עלי סימן טוב<lb/>סימן ברכה וחיסנא ויקירא ורחמי מן קדם שמייא ויתן וימלא שאלותי ברצון. ונשלם האות העשירי בשנת<lb/>שהוא אות י֗ בשנת ד֗ת֗ת֗נ֗א֗ לבירייתיה דעלמא<emph rend="italic">בירח אדר אדר ראשון בכ֗ז֗ יום ב[ו]</emph>הרחמן<lb/>ישמור צאתי ובואי ויצילני מבני אדם הרעים ומאורב בדרך<lb/>וכן יהי רצון:</p>
                                     </quote>
                                     <note xml:lang=""/>
                                 </item>
