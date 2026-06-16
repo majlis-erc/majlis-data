@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-06-16T15:08:06.174Z">update name</change>
             <change who="#mroozen" when="2026-06-16T14:53:30.733Z">update name</change>
             <change who="#mroozen" when="2026-06-16T13:11:48.811Z">update name</change>
             <change who="#mroozen" when="2026-06-16T13:02:30.467Z">update name</change>
@@ -70,27 +71,77 @@
                     <persName xml:id="name-1" xml:lang="ar-Latn" type="majlis-headword">
                         <name>Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī</name>
                     </persName>
-                    <persName xml:id="name-2" source="#" type="" xml:lang="he">
+                    <persName xml:id="name-2" source="#" type="" xml:lang="">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name/>
+   </persName>
+                    <persName xml:id="name-3" source="#" type="alternate" xml:lang="he">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name/>
+   </persName>
+                    <persName xml:id="name-4" source="#" type="alternate" xml:lang="">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name>Yaʿqov ben Yiṣḥaq ha-Qirqisānī</name>
+   </persName>
+                    <persName xml:id="name-5" source="#" type="alternate" xml:lang="he">
                         <forename/>
                         <addName ref="" type="" xml:id=""/>
                         <name>יעקב בן יצחק הקרקסאני</name>
                     </persName>
-                    <persName xml:id="name-3" xml:lang="ar" type="attested">
+                    <persName xml:id="name-6" source="#" type="alternate" xml:lang="">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name/>
+   </persName>
+                    <persName xml:id="name-7" source="#" type="alternate" xml:lang="he-Latn">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name>Yaʿqov ben Yiṣḥaq ha-Qirqisānī</name>
+   </persName>
+                    <persName xml:id="name-8" source="#" type="alternate" xml:lang="he-Latn">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name>Yaʿqov ben Yiṣḥaq ha-Qirqisānī</name>
+   </persName>
+                    <persName xml:id="name-9" xml:lang="ar" type="attested">
                         <name>أبو یوسف یعقوب القرقساني</name>
                     </persName>
-                    <persName xml:id="name-4" type="alternate" xml:lang="he">
+                    <persName xml:id="name-10" source="#" type="" xml:lang="ar-Latn">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name>Abū Yūsuf Yaʿqūb al-Qirqisānī</name>
+   </persName>
+                    <persName xml:id="name-11" source="#" type="" xml:lang="he">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name>יעקב בן יצחק הקרקסאני</name>
+   </persName>
+                    <persName xml:id="name-12" source="#" type="" xml:lang="he-Latn">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name>Yaʿqov ben Yiṣḥaq ha-Qirqisānī</name>
+   </persName>
+                    <persName xml:id="name-13" source="#" type="" xml:lang="">
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name/>
+   </persName>
+                    <persName xml:id="name-14" type="alternate" xml:lang="he">
                         <name>יעקב בן יצחק הקרקסאני</name>
                     </persName>
-                    <persName xml:id="name-5" type="alternate" xml:lang="ar">
+                    <persName xml:id="name-15" type="alternate" xml:lang="ar">
                         <name/>
                     </persName>
-                    <persName xml:id="name-6" type="alternate" xml:lang="he">
+                    <persName xml:id="name-16" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName xml:id="name-7" type="alternate" xml:lang="he">
+                    <persName xml:id="name-17" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName xml:id="name-8" type="alternate" xml:lang="ar">
+                    <persName xml:id="name-18" type="alternate" xml:lang="ar">
                         <addName xml:id="sh-ar" type="shuhra"/>
                         <addName xml:id="is-ar" type="ism"/>
                         <addName xml:id="na-ar" type="nasab"/>
@@ -98,7 +149,7 @@
                         <addName xml:id="ku-ar" type="kunya"/>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-9" type="alternate" xml:lang="ar-Hebr">
+                    <persName xml:id="name-19" type="alternate" xml:lang="ar-Hebr">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
                         <addName ref="#na-ar" type="nasab"/>
@@ -106,7 +157,7 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-10" corresp="" type="alternate" xml:lang="he">
+                    <persName xml:id="name-20" corresp="" type="alternate" xml:lang="he">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
                         <addName ref="#na-ar" type="nasab"/>
@@ -114,14 +165,14 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-11" type="alternate" xml:lang="alternate">
+                    <persName xml:id="name-21" type="alternate" xml:lang="alternate">
                         <forename xml:id="fn-he"/>
                         <addName xml:id="pa-he" type="patronym"/>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="name-12" corresp="" type="alternate" xml:lang="he"/>
+                    <persName xml:id="name-22" corresp="" type="alternate" xml:lang="he"/>
                     <note xml:lang="" resp=""/>
                     <state>
                         <label cert=""/>
