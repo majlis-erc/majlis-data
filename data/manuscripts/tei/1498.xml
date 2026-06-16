@@ -80,8 +80,8 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <author xmlns="" ref="https://jalit.org/person/38">Yaʿqūb b. Isḥāq al-Qirqisānī</author>
-                            <title xmlns="" ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī)</title>
+                            <author ref="https://jalit.org/person/38">Yaʿqūb b. Isḥāq al-Qirqisānī</author>
+                            <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī)</title>
                             <locus from="1r" to="2v"/>
                             
                             

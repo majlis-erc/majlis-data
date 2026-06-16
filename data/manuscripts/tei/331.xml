@@ -91,7 +91,7 @@
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="2v"/>
-                            <title xmlns="" ref="https://jalit.org/work/65">Commentary on Notable Points of the Book of Jeremiah </title>
+                            <title ref="https://jalit.org/work/65">Commentary on Notable Points of the Book of Jeremiah </title>
                             <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli </author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
@@ -172,7 +172,7 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 
-                                <persName xmlns="" ref="https://jalit.org/person/51" role="scribe">Ismaʿīl al-Ṣaqallī</persName>
+                                <persName ref="https://jalit.org/person/51" role="scribe">Ismaʿīl al-Ṣaqallī</persName>
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Sparsely dotted. Dot above a letter also used to mark abbreviations and numbers.</metamark>
                                 <origDate when="1002-1003">1002-1003 [FGP]; 1003 [Ktiv]</origDate>

@@ -97,7 +97,7 @@
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="1v"/>
                             <locus from="3r" to="12v"/>
-                            <title xmlns="" ref="https://jalit.org/work/26">The Comprehensive Lexicon</title>
+                            <title ref="https://jalit.org/work/26">The Comprehensive Lexicon</title>
                             <author ref="https://jalit.org/person/25">David al-Fāsī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
@@ -182,8 +182,8 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <persName xmlns="" ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
-                                <placeName xmlns="" ref="https://jalit.org/place/15">Tyre (Lebanon)</placeName>
+                                <persName ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
+                                <placeName ref="https://jalit.org/place/15">Tyre (Lebanon)</placeName>
                                 <metamark function="diacritics">Sparsely dotted. Dot above the letter is also used to indicate abbreviations.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Two yods with one yod written above.</metamark>
@@ -209,7 +209,7 @@
                             <list>
                                 <item xml:id="add-1.1.1.1">
                                     <objectType>Colophon</objectType>
-                                    <persName xmlns="" ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
+                                    <persName ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
                                     <locus from="12r" to=""/>
                                     <quote xml:lang="he" type="transcription">
                                         <p>אני אברהם ברבי שבתי ת֗נ֗צ֗ב֗ה֗ כתבתי זה האגרון<lb/>לעצמי בצור מדינתא המקום ב֗ה֗ ישימהו עלי סימן טוב<lb/>סימן ברכה וחיסנא ויקירא ורחמי מן קדם שמייא ויתן וימלא שאלותי ברצון. ונשלם האות העשירי בשנת<lb/>שהוא אות י֗ בשנת ד֗ת֗ת֗נ֗א֗ לבירייתיה דעלמא<emph rend="italic">בירח אדר אדר ראשון בכ֗ז֗ יום ב[ו]</emph>הרחמן<lb/>ישמור צאתי ובואי ויצילני מבני אדם הרעים ומאורב בדרך<lb/>וכן יהי רצון:</p>

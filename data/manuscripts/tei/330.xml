@@ -93,7 +93,7 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1v" to="10v"/>
-                            <title xmlns="" ref="https://jalit.org/work/53">Query about Prohibited Sexual Relations</title>
+                            <title ref="https://jalit.org/work/53">Query about Prohibited Sexual Relations</title>
                             <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
@@ -134,7 +134,7 @@
                         <msItem xml:id="item-1.3" class="">
                             <locus from="11r, bottom" to="14v"/>
                             <title cert="" ref="" xml:lang="">A Book of Consolation (Taʿziyah)</title>
-                            <author xmlns="" ref="https://jalit.org/person/14">Abū l-Ḥasan ʿAlī b. Sulaymān</author>
+                            <author ref="https://jalit.org/person/14">Abū l-Ḥasan ʿAlī b. Sulaymān</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
