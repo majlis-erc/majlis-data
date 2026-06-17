@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-17T14:46:24.280Z">update name and title</change>
             <change who="#mroozen" when="2026-06-17T14:41:30.111Z">add content description and manuscript joins</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -79,9 +80,11 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
+                            <author xmlns="" ref="https://jalit.org/person/38">Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī</author>
+                            <title xmlns="" ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī)</title>
                             <locus from=" 1r" to="2v"/>
-                            <title cert="" ref="" xml:lang="">כתאב אלאנואר ואלמראקב</title>
-                            <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
+                            
+                            
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from=" 1r" to=""/>
@@ -102,7 +105,7 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl>
       <ptr target=" https://jalit.org/manuscript/377"/>
