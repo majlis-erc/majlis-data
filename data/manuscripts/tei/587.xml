@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-18T10:20:09.880Z">update hand description, add binding description</change>
             <change who="#mroozen" when="2026-06-18T10:09:14.195Z">add ed. Nemoy, manuscript joins</change>
             <change who="#rboehm" when="2025-04-13T17:46:22.223Z">ID fix</change>
             <change who="#rboehm" when="2024-09-30T08:24:42.733Z">test.</change>
@@ -175,7 +176,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -210,14 +211,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="1">
-                            <summary xml:lang="en">
-                                <p>Sparsely dotted; rare vowel marks (e.g. fol. 2r); occasional šaddas , maddas; more regular vocalization of fatḥa tanwīn. Occasional Tiberian vowel signs for Hebrew written in Arabic script (e.g. fol. 1r, l. 1; 6r, l. 8); Divine Name written as ادوناي; occasional ihmāl-marks; circled dot at the end of chapters and chapter headings (e.g. fol. 1r, ll. 7, 12; 14r, ll. 5, 9).</p>
-                            </summary>
+                            
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">rare vowel marks (e.g. fol. 2r); occasional šaddas , maddas; more regular vocalization of fatḥa tanwīn. Occasional Tiberian vowel signs for Hebrew written in Arabic script (e.g. fol. 1r, l. 1; 6r, l. 8).</metamark>
+                                <metamark function="divine-names">written as ادوناي</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">sparsely dotted; occasional ihmāl-marks</metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
@@ -259,7 +260,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and threads visible (fols. 3v-4r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
