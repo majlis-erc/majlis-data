@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-18T10:22:14.426Z">add text layout note</change>
             <change who="#mroozen" when="2026-06-18T10:20:09.880Z">update hand description, add binding description</change>
             <change who="#mroozen" when="2026-06-18T10:09:14.195Z">add ed. Nemoy, manuscript joins</change>
             <change who="#rboehm" when="2025-04-13T17:46:22.223Z">ID fix</change>
@@ -232,7 +233,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Occasional amendments and corrections in the margins (e.g. fols. 4r, 4v); circled dot at the end of chapters and chapter headings (e.g. fol. 1r, ll. 7, 12; 14r, ll. 5, 9.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
