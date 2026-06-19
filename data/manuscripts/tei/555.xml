@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-19T13:25:24.846Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-06-19T13:22:55.961Z">update content description, add manuscript joins, update paleography, add binding description</change>
             <change who="#rboehm" when="2025-04-13T17:48:30.163Z">ID fix</change>
             <change who="#rboehm" when="2025-01-11T11:02:15.450Z">test iv</change>
@@ -354,11 +355,11 @@
                                 <title>Ofra Tirosh-Becker, Rabbinic Excerpts in Medieval Karaite Literature -גנזי חז"ל בספרות הקראית בימי הביניים, 2 vols. (Jerusalem: Bialik, 2011), https://www.bialik-publishing.co.il/index.php?dir=site&amp;page=catalog&amp;op=item&amp;cs=5174.</title>
                                 <ptr target="https://jalit.org/bibl/CFE22YHD"/>
                             </bibl>
-                            <bibl xml:id="">
-                                
-                                <ptr target=""/>
-                                <citedRange unit=""/>
-                            </bibl>
+                            <bibl xml:id="jalit-orgbiblBTKIIK7W">
+                        <idno>Al-Qirqisānī’s Account of Historical Jewish Calendars and Its Dependence on the Commentary on Genesis by Saʿadya Gaon: A Study of Kitāb al-Anwār VII.1</idno>
+                        <title>Nadia Vidro, Al-Qirqisānī’s Account of Historical Jewish Calendars and Its Dependence on the Commentary on Genesis by Saʿadya Gaon: A Study of Kitāb al-Anwār VII.1, Ginzei Qedem 17 (2021): 11–49, https://discovery.ucl.ac.uk/id/eprint/10121534/.</title>
+                        <ptr target="https://jalit.org/bibl/BTKIIK7W"/>
+                    </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
