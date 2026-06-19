@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-19T10:31:38.881Z">add manuscript joins</change>
             <change who="#mroozen" when="2026-06-19T10:13:28.165Z">add/update content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -106,10 +107,55 @@
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/377"/>
+      <citedRange unit="">56-65</citedRange>
+      <idno type="">BL, Or. 2582</idno>
+   </bibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/639"/>
+      <citedRange unit="">161-168</citedRange>
+      <idno type="">BL, Or. 2578</idno>
+   </bibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/1497"/>
+      <citedRange unit=""/>
+      <idno type="">Arab.-Yevr. 347</idno>
+   </bibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/1502"/>
+      <citedRange unit=""/>
+      <idno type="">Arab.-Yevr. 285</idno>
+   </bibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/1488"/>
+      <citedRange unit=""/>
+      <idno type="">Arab.-Yevr. 275</idno>
+   </bibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/1492"/>
+      <citedRange unit=""/>
+      <idno type="">Arab.-Yevr. 243</idno>
+   </bibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/1477"/>
+      <citedRange unit=""/>
+      <idno type="">Arab.-Yevr. 158</idno>
+   </bibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/1479"/>
+      <citedRange unit=""/>
+      <idno type="">Arab.-Yevr. 147</idno>
+   </bibl>
+                                <bibl>
+      <ptr target="https://jalit.org/manuscript/587"/>
+      <citedRange unit=""/>
+      <idno type="">Arab.-Yevr. 45</idno>
+   </bibl>
                                 <bibl status="draft">
-                                    <idno type="manuscript-join"/>
+                                    <idno type="manuscript-join">Arab.-Yevr. 19</idno>
                                     <citedRange unit="folios"/>
-                                    <ptr target=""/>
+                                    <ptr target="https://jalit.org/manuscript/608"/>
                                 </bibl>
                             </listBibl>
                         </ab>
