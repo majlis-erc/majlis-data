@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,23 +13,29 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
+                <editor role="contributor">Nathan P. Gibson</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
+                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
                 </respStmt>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
-                <editor role="contributor">Nathan P. Gibson</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html" role="contributor" xml:id="lgzella">Lea Gzella</editor>
-                <editor ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3" role="contributor" xml:id="plakteikina">Polina Lakteikina</editor>
-                <editor role="contributor">Sara Mattutat</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
-                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -37,21 +43,19 @@
                 <idno type="URI">https://jalit.org/manuscript/555</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>
-                            Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
-                        </p>
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                     </licence>
                 </availability>
                 <date>2024-05-14</date>
             </publicationStmt>
             <sourceDesc>
-                <p>
-                    Born digital.
-                </p>
+                <p>Born digital.</p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#rboehm" when="2025-04-13T17:48:30.163Z">ID fix</change><change who="#rboehm" when="2025-01-11T11:02:15.450Z">test iv</change>
+            <change who="#mroozen" when="2026-06-19T13:22:55.961Z">update content description, add manuscript joins, update paleography, add binding description</change>
+            <change who="#rboehm" when="2025-04-13T17:48:30.163Z">ID fix</change>
+            <change who="#rboehm" when="2025-01-11T11:02:15.450Z">test iv</change>
             <change who="#rboehm" when="2024-09-30T08:40:21.957Z">test.</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
@@ -81,25 +85,57 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11">
+                        <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="19v"/>
                             <title cert="" ref="https://jalit.org/work/18" xml:lang="">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="1r"/>
-                                <quote xml:lang="ar-Hebr"><p>الصحيح هو الروية دون غيرها وسنبين فساد ساير الاقاويل التي هي غير الروية</p></quote>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>الصحيح هو الروية دون غيرها وسنبين فساد ساير الاقاويل التي هي غير الروية</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="19v"/>
-                                <quote xml:lang="ar"><p>وان كانت من افعال العباد كان</p></quote>
+                                <quote xml:lang="ar">
+                                    <p>وان كانت من افعال العباد كان</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang="en"><p>Contains the following sections from the 7th book (maqāla) of Kitāb al-Anwār: VII.1.1-VII.3.5; VII.3.8-VII.8.9; chapter headings of chs VII.4-8.</p></note>
+                            <note xml:lang="en">
+                                <p>Contains the following sections from the 7th book (maqāla) of Kitāb al-Anwār: VII.1.1-VII.3.5; VII.3.8-VII.8.9; chapter headings of chs VII.4-8; ed. Nemoy, pp. 794:15-802:8 (fols. 1-8); 804:14-811:12 (fols. 9-16); 790:15-793:3. Ed. Vidro (GQ 2021), pp. 17-19 (fols. 16*r-19r). Beyond the opening chapter of the 7th maqāla edited in Vidro (2021), the manuscript contains several other passages missing in Nemoy’s edition (e.g. a sizeable gap at p. 793:3).</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
- </ab>
+                            <listBibl>
+                                <bibl>
+      <ptr target=" https://jalit.org/manuscript/1501"/>
+      <citedRange unit=""/>
+      <idno type="">Arab.-Yevr. 317</idno>
+   </bibl>
+      <bibl>
+         <ptr target="https://jalit.org/manuscript/1489"/>
+         <citedRange unit=""/>
+         <idno type="">Arab.-Yevr. 260</idno>
+      </bibl>
+   </listBibl>
+                            <listBibl>
+      <bibl>
+         <ptr target="https://jalit.org/manuscript/1474"/>
+         <citedRange unit=""/>
+         <idno type="">Arab.-Yevr. 180</idno>
+      </bibl>
+   </listBibl>
+                            <listBibl>
+      <bibl>
+         <ptr target="https://jalit.org/manuscript/1480"/>
+         <citedRange unit=""/>
+         <idno type="">Arab.-Yevr. 145</idno>
+      </bibl>
+   </listBibl>
+                        </ab>
                         <objectDesc>
                             <supportDesc>
                                 <support>
@@ -118,17 +154,24 @@
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang="en"><p>Contains the inner bifolios of three quinions quires as follows [-/1/2/3/4/5/6/7/8/-]; [-/9/10/11/12/13/14/15/16/-]; [-/-/-/16*/17/18/19/-/-/-]. The last of these three quires precedes the first.</p></note>
+                                    <note xml:lang="en">
+                                        <p>Contains the inner bifolios of three quinions quires as follows [-/1/2/3/4/5/6/7/8/-]; [-/9/10/11/12/13/14/15/16/-]; [-/-/-/16*/17/18/19/-/-/-]. The last of these three quires precedes the first.</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang="en"><p>Well preserved with the exception of fol. 16* (torn off at top, bottom and outer margin).</p></note>
+                                    <note xml:lang="en">
+                                        <p>Well preserved with the exception of fol. 16* (torn off at top, bottom and outer margin).</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary><p>
-<lb/> </p></summary>
-                                <layout columns="1" writtenLines="18" xml:id="layout-1111">
+                                <summary>
+                                    <p>
+                                        <lb/>
+                                    </p>
+                                </summary>
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="18">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -141,31 +184,38 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="1">
-                            <summary xml:lang="en"><p>Rare vowel marks; Divine Name rendered as اذوناي (e.g. fol. 11v, l. 12; see also description of other fragments belonging to the same codex); sparsely dotted; occasional ihmāl-marks. Hebrew in Arabic script, including lengthy quotations from the Mishnah (mRH), more frequently dotted (e.g. 14r, ll. 4-18).</p></summary>
-                            <handNote medium="" xml:id="hand-111">
+                            
+                            <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">rare vowel marks</metamark>
+                                <metamark function="diacritics">sparsely dotted; occasional ihmāl-marks</metamark>
+                                <metamark function="divine-names">rendered as اذوناي (e.g. fol. 11v, l. 12; see also description of other fragments belonging to the same codex)</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Hebrew in Arabic script, including lengthy quotations from the Mishnah (mRH), more frequently dotted (e.g. 14r, ll. 4-18)</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="" script="" style="" xml:lang="ar">
-                                <note xml:lang=""><p/><p/></note>
+                                <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Justified one-column text blocks; isolated hāʾ, mostly without dot or tail (e.g. fol. 1r, ll. 2, 7, 15)</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
                             <list>
-                                <item xml:id="add-1111">
+                                <item xml:id="add-1.1.1.1">
                                     <objectType/>
                                     <persName ref="" role="mentioned"/>
                                     <locus from="" to=""/>
@@ -188,7 +238,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and threads (fols. 4v-5r; 12v-13r; 17v-18r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -198,7 +248,7 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        <title/>
+                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -224,7 +274,46 @@
                             <persName ref="" role=""/>
                             <quote xml:lang=""/>
                             <stamp/>
-                            <note xml:lang="en"><p><emph rend="italic"> Yevr. I </emph>  </p><p> The manuscripts of the <emph rend="italic"> First Firkovich Collection </emph> (now known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovich (1787-1874) on the Crimean Peninsula, in the Caucasus, and during his first trip to the Near East in 1830. This collection contains 830 manuscripts, 277 of them (numbers 554-830) being Qaraite. Even though this collection is basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly containing Qaraite works (many of them biblical commentaries by Yefet ben ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of Karaite Manuscripts”, in <emph rend="italic"> Karaite Judaism: A Guide to its History and Literary Sources </emph> , ed. M. Polliack, Leiden: Brill, 2003, 893–924 [907]). Most of these 75 Arabic manuscripts were acquired in 1830, probably by the agency of David ben Avraham ha-Levi (Jerusalem), brother of Moshe ben Avraham ha-Levi (1810-1905, Qaraite chief rabbi in Cairo) (see Zeev Elkin / Menahem Ben-Sasson, “Abraham Firkovich and the Cairo Genizas in the Light of his Personal Archive” [Hebrew], <emph rend="italic"> Peʿamim </emph> 90 (2002), 51–95, [65, n. 48]). The First Firkovich Collection was sold to the Imperial Public Library of the Russian Empire in 1862 for 100,000 silver roubles. </p><p> The Second Firkovich collection was acquired by Abraham ben Samuel Firkovich (1787-1874) during his second trip to the Near East between the years 1863 and 1865. It consists of more than 15,000 items, including Hebrew, Arabic, Judaeo-Arabic and Samaritan manuscripts. The majority of the collection appears to have originated from the Qaraite synagogue in Cairo. The Hebrew manuscripts of the Second Firkovich Collection were divided into several separate collections. </p><p>  <emph rend="italic"> RNL Yevr. II A </emph>  </p><p> Contains Hebrew works of law, exegesis, grammar and philology, theology, documents, etc. This collection contains 2,947 manuscripts. These include 896 bibliographical items (including different texts found in a single miscellany) which are Qaraite. The manuscripts are almost entirely later, Eastern European ones containing liturgical texts, piyyutim and documents. </p><p>  <emph rend="italic"> RNL Yevr. II B </emph>  </p><p> Contains biblical manuscripts written on vellum (1,582 items). </p><p>  <emph rend="italic"> RNL Yevr. II C </emph>  </p><p> Contains biblical manuscripts written on paper (728 items). Most of them are Hebrew biblical texts, but it also contains some other works, such as RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios, copied at the end of the tenth century or the very beginning of the eleventh, or RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel. </p><p>  <emph rend="italic"> RNL Yevr. II K </emph>  </p><p> Contains 76 ketubbot, mostly Qaraite if not all. (Sklare 2003, 907). </p><p> The Judeo-Arabic manuscripts of the Second Firkovich Collection are divided into two series: </p><p>  <emph rend="italic"> RNL Yevr.-Arab. I </emph> (previously known as II Firk. Yevr.-Arab., First Series) </p><p> Contains 4,933 items (although only 4,924 are in microfilm at the IMHM). </p><p>  <emph rend="italic"> RNL Yevr.Arab. II </emph> (previously known as II Firk. Yevr.-Arab., New Series) </p><p> Contains 3,430 items. </p><p>  <emph rend="italic"> RNL Arab.-Yevr. </emph>  </p><p> Contains 382 manuscripts of Jewish texts in Arabic characters. </p><p>  <emph rend="italic"> RNL Firk. Arab. </emph>  </p><p> Contains 656 items of mostly Muslim texts and documents in Arabic characters. </p><p>  <emph rend="italic"> The Second Firkovich Collection was sold to the Imperial Public Library of the Russian Empire in 1876 </emph> . </p><p> </p></note>
+                            <note xml:lang="en">
+                                <p>
+                                    <emph rend="italic"> Yevr. I </emph>
+                                </p>
+                                <p>The manuscripts of the <emph rend="italic"> First Firkovich Collection </emph> (now known as RNL Yevr. I) were collected by Abraham ben Samuel Firkovich (1787-1874) on the Crimean Peninsula, in the Caucasus, and during his first trip to the Near East in 1830. This collection contains 830 manuscripts, 277 of them (numbers 554-830) being Qaraite. Even though this collection is basically a Hebrew one, it does contain 75 Arabic manuscripts, mostly containing Qaraite works (many of them biblical commentaries by Yefet ben ʿEli and Salmon b. Yeruḥim). (David Sklare, “A Guide to Collections of Karaite Manuscripts”, in <emph rend="italic"> Karaite Judaism: A Guide to its History and Literary Sources </emph> , ed. M. Polliack, Leiden: Brill, 2003, 893–924 [907]). Most of these 75 Arabic manuscripts were acquired in 1830, probably by the agency of David ben Avraham ha-Levi (Jerusalem), brother of Moshe ben Avraham ha-Levi (1810-1905, Qaraite chief rabbi in Cairo) (see Zeev Elkin / Menahem Ben-Sasson, “Abraham Firkovich and the Cairo Genizas in the Light of his Personal Archive” [Hebrew], <emph rend="italic"> Peʿamim </emph> 90 (2002), 51–95, [65, n. 48]). The First Firkovich Collection was sold to the Imperial Public Library of the Russian Empire in 1862 for 100,000 silver roubles.</p>
+                                <p>The Second Firkovich collection was acquired by Abraham ben Samuel Firkovich (1787-1874) during his second trip to the Near East between the years 1863 and 1865. It consists of more than 15,000 items, including Hebrew, Arabic, Judaeo-Arabic and Samaritan manuscripts. The majority of the collection appears to have originated from the Qaraite synagogue in Cairo. The Hebrew manuscripts of the Second Firkovich Collection were divided into several separate collections.</p>
+                                <p>
+                                    <emph rend="italic"> RNL Yevr. II A </emph>
+                                </p>
+                                <p>Contains Hebrew works of law, exegesis, grammar and philology, theology, documents, etc. This collection contains 2,947 manuscripts. These include 896 bibliographical items (including different texts found in a single miscellany) which are Qaraite. The manuscripts are almost entirely later, Eastern European ones containing liturgical texts, piyyutim and documents.</p>
+                                <p>
+                                    <emph rend="italic"> RNL Yevr. II B </emph>
+                                </p>
+                                <p>Contains biblical manuscripts written on vellum (1,582 items).</p>
+                                <p>
+                                    <emph rend="italic"> RNL Yevr. II C </emph>
+                                </p>
+                                <p>Contains biblical manuscripts written on paper (728 items). Most of them are Hebrew biblical texts, but it also contains some other works, such as RNL Yevr. II C:1, a copy of Saʿadyah Gaon’s Tafsīr comprising 550 folios, copied at the end of the tenth century or the very beginning of the eleventh, or RNL Yevr. II C:725, Yefet ben ʿEli's commentary to Ezekiel.</p>
+                                <p>
+                                    <emph rend="italic"> RNL Yevr. II K </emph>
+                                </p>
+                                <p>Contains 76 ketubbot, mostly Qaraite if not all. (Sklare 2003, 907).</p>
+                                <p>The Judeo-Arabic manuscripts of the Second Firkovich Collection are divided into two series:</p>
+                                <p>
+                                    <emph rend="italic"> RNL Yevr.-Arab. I </emph> (previously known as II Firk. Yevr.-Arab., First Series)</p>
+                                <p>Contains 4,933 items (although only 4,924 are in microfilm at the IMHM).</p>
+                                <p>
+                                    <emph rend="italic"> RNL Yevr.Arab. II </emph> (previously known as II Firk. Yevr.-Arab., New Series)</p>
+                                <p>Contains 3,430 items.</p>
+                                <p>
+                                    <emph rend="italic"> RNL Arab.-Yevr. </emph>
+                                </p>
+                                <p>Contains 382 manuscripts of Jewish texts in Arabic characters.</p>
+                                <p>
+                                    <emph rend="italic"> RNL Firk. Arab. </emph>
+                                </p>
+                                <p>Contains 656 items of mostly Muslim texts and documents in Arabic characters.</p>
+                                <p>
+                                    <emph rend="italic"> The Second Firkovich Collection was sold to the Imperial Public Library of the Russian Empire in 1876 </emph> .</p>
+                            </note>
                         </acquisition>
                     </history>
                     <additional>
@@ -266,7 +355,7 @@
                                 <ptr target="https://jalit.org/bibl/CFE22YHD"/>
                             </bibl>
                             <bibl xml:id="">
-                                <title/>
+                                
                                 <ptr target=""/>
                                 <citedRange unit=""/>
                             </bibl>
