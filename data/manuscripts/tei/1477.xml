@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-22T11:15:47.188Z">update page layout and hand description, add text layout and binding description </change>
             <change who="#mroozen" when="2026-06-22T11:08:07.144Z">add edition Nemoy, manuscript joins</change>
             <change who="#rboehm" when="2025-04-13T17:53:04.706Z">ID fix</change>
             <change who="#rboehm" when="2024-09-30T09:53:46.792Z">test.</change>
@@ -202,17 +203,18 @@
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="1">
-                            <summary xml:lang="en">
-                                <p>Sparsely dotted; rare vowel marks (e.g. fol. 2r); occasional šaddas , maddas; more regular vocalization of fatḥa tanwīn. Occasional Tiberian vowel signs for Hebrew written in Arabic script (e.g. fol. 6r, l. 11; 17v, l. 11; and see the description of other fragments belonging to the same codex); Divine Name written as ادوناي; sparsely dotted; occasional ihmāl-marks; uses an isolated hāʾ with backwards swinging tale (e.g. 2v, l. 4).</p>
-                            </summary>
+                            
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">rare vowel marks (e.g. fol. 2r); occasional šaddas , maddas; more regular vocalization of fatḥa tanwīn. Occasional Tiberian vowel signs for Hebrew written in Arabic script (e.g. fol. 6r, l. 11; 17v, l. 11; and see the description of other fragments belonging to the same codex).</metamark>
+                                <metamark function="diacritics">sparsely dotted; occasional ihmāl-marks</metamark>
+                                <metamark function="divine-names">written as ادوناي</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -230,7 +232,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Justified one-column text blocks; uses an isolated hāʾ with backwards swinging tail (e.g. 2v, l. 4).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -260,7 +264,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and threads (e.g. fols. 6v-7r; 14v-15r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
