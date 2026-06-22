@@ -74,8 +74,8 @@
                 <msDesc xml:id="ms-329">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C665429 , C665430 , C665431 , C665432 , C665433 , C665434 , C665435 , C665436 , C665437 , C665438 , C665439 , C665440 , C665441 , C665442 , C665443 , C665444 , C665445 , C665446 , C665447 , C665448 , C665449 , C665450 , C665451 , C665452 , C665453 , C665454 , C665455 , C665456 , C665457 , C665458 , C665459 , C665460 , C665461 , C665462 , C665463 , C665464 , C665465 , C665466 , C665467 , C665468 , C665469 , C665470 , C665471 , C665472 , C665473 , C665474 , C665475 , C665476 , C665477 , C665478 , C665479 , C665480 , C665481 , C665482 , C665483 , C665484 , C665485 , C665486 , C665487 , C665488 , C665489 , C665490 , C665491 , C665492 , C665493 , C665494 , C665495 , C665496 , C665497 , C665498 , C665499 , C665500 , C665501 , C665502 , C665503 , C665504 , C665505 , C665506 , C665507 , C665508 , C665509 , C665510 , C665511 , C665512 , C665513 , C665514 , C665515 , C665516 , C665517 , C665518 , C665519 , C665520 , C665521 , C665522 , C665523 , C665524 , C665525 , C665526 , C665527 , C665528 , C665529 , C665530 , C665531 , C665532 , C665533 , C665534 , C665535 , C665536 , C665537 , C665538 , C665539 , C665540 , C665541 , C665542 , C665543 , C665544 , C665545 , C665546 , C665547 , C665548 , C665549 , C665550 , C665551 , C665552 , C665553 , C665554 , C665555 , C665556 , C665557 , C665558 , C665559 , C665560 , C665561 , C665562 , C665563 , C665564 , C665565 , C665566 , C665567 , C665568 , C665569 , C665570 , C665571 , C665572 , C665573 , C665574 , C665575 , C665576 , C665577 , C665578 , C665579 , C665580 , C665581 , C665582 , C665583 , C665584 , C665585 , C665586 , C665587 , C665588 , C665589 , C665590 , C665591 , C665592 , C665593 , C665594 , C665595 , C665596 , C665597 , C665598 , C665599 , C665600 , C665601 , C665602 , C665603 , C665604 , C665605 , C665606 , C665607 , C665608 , C665609 , C665610 , C665611 , C665612 , C665613 , C665614 , C665615 , C665616 , C665617 , C665618 , C665619 , C665620 , C665621 , C665622 , C665623 , C665624 , C665625 , C665626 , C665627 , C665628 , C665629 , C665630 , C665631 , C665632 , C665633 , C665634 , C665635 , C665636 , C665637 , C665638 , C665639 , C665640 , C665641 , C665642 , C665643 , C665644 , C665645 , C665646 , C665647 , C665648 , C665649 , C665650 , C665651 , C665652 , C665653 , C665654 , C665655 , C665656 , C665657 , C665658 , C665659 , C665660 , C665661 , C665662 , C665663 , C665664 , C665665 , C665666 , C665667 , C665668 , C665669 , C665670 , C665671 , C665672 , C665673 , C665674 , C665675 , C665676 , C665677 , C665678 , C665679 , C665680 , C665681 , C665682 , C665683 , C665684 , C665685 , C665686 , C665687 , C665688 , C665689 , C665690 , C665691 , C665692 , C665693 , C665694 , C665695 , C665696 , C665697 , C665698 , C665699 , C665700 , C665701 , C665702 , C665703 , C665704 , C665705 , C665706 , C665707 , C665708 , C665709 , C665710 , C665711 , C665712 , C665713 , C665714 , C665715 , C665716 , C665717 , C665718 , C665719 , C665720 , C665721 , C665722 , C665723 , C665724 , C665725 , C665726 , C665727 , C665728 , C665729 , C665730 , C665731 , C665732 , C665733 , C665734 , C665735 , C665736 , C665737 , C665738 , C665739 , C665740 , C665741 , C665742 , C665743 , C665744 , C665745 , C665746 , C665747 , C665420 , C665421 , C665422 , C665423 , C665424 , C665425 , C665426 , C665427 , C665428</idno>
-   </altIdentifier>
+                            <idno>C665429 , C665430 , C665431 , C665432 , C665433 , C665434 , C665435 , C665436 , C665437 , C665438 , C665439 , C665440 , C665441 , C665442 , C665443 , C665444 , C665445 , C665446 , C665447 , C665448 , C665449 , C665450 , C665451 , C665452 , C665453 , C665454 , C665455 , C665456 , C665457 , C665458 , C665459 , C665460 , C665461 , C665462 , C665463 , C665464 , C665465 , C665466 , C665467 , C665468 , C665469 , C665470 , C665471 , C665472 , C665473 , C665474 , C665475 , C665476 , C665477 , C665478 , C665479 , C665480 , C665481 , C665482 , C665483 , C665484 , C665485 , C665486 , C665487 , C665488 , C665489 , C665490 , C665491 , C665492 , C665493 , C665494 , C665495 , C665496 , C665497 , C665498 , C665499 , C665500 , C665501 , C665502 , C665503 , C665504 , C665505 , C665506 , C665507 , C665508 , C665509 , C665510 , C665511 , C665512 , C665513 , C665514 , C665515 , C665516 , C665517 , C665518 , C665519 , C665520 , C665521 , C665522 , C665523 , C665524 , C665525 , C665526 , C665527 , C665528 , C665529 , C665530 , C665531 , C665532 , C665533 , C665534 , C665535 , C665536 , C665537 , C665538 , C665539 , C665540 , C665541 , C665542 , C665543 , C665544 , C665545 , C665546 , C665547 , C665548 , C665549 , C665550 , C665551 , C665552 , C665553 , C665554 , C665555 , C665556 , C665557 , C665558 , C665559 , C665560 , C665561 , C665562 , C665563 , C665564 , C665565 , C665566 , C665567 , C665568 , C665569 , C665570 , C665571 , C665572 , C665573 , C665574 , C665575 , C665576 , C665577 , C665578 , C665579 , C665580 , C665581 , C665582 , C665583 , C665584 , C665585 , C665586 , C665587 , C665588 , C665589 , C665590 , C665591 , C665592 , C665593 , C665594 , C665595 , C665596 , C665597 , C665598 , C665599 , C665600 , C665601 , C665602 , C665603 , C665604 , C665605 , C665606 , C665607 , C665608 , C665609 , C665610 , C665611 , C665612 , C665613 , C665614 , C665615 , C665616 , C665617 , C665618 , C665619 , C665620 , C665621 , C665622 , C665623 , C665624 , C665625 , C665626 , C665627 , C665628 , C665629 , C665630 , C665631 , C665632 , C665633 , C665634 , C665635 , C665636 , C665637 , C665638 , C665639 , C665640 , C665641 , C665642 , C665643 , C665644 , C665645 , C665646 , C665647 , C665648 , C665649 , C665650 , C665651 , C665652 , C665653 , C665654 , C665655 , C665656 , C665657 , C665658 , C665659 , C665660 , C665661 , C665662 , C665663 , C665664 , C665665 , C665666 , C665667 , C665668 , C665669 , C665670 , C665671 , C665672 , C665673 , C665674 , C665675 , C665676 , C665677 , C665678 , C665679 , C665680 , C665681 , C665682 , C665683 , C665684 , C665685 , C665686 , C665687 , C665688 , C665689 , C665690 , C665691 , C665692 , C665693 , C665694 , C665695 , C665696 , C665697 , C665698 , C665699 , C665700 , C665701 , C665702 , C665703 , C665704 , C665705 , C665706 , C665707 , C665708 , C665709 , C665710 , C665711 , C665712 , C665713 , C665714 , C665715 , C665716 , C665717 , C665718 , C665719 , C665720 , C665721 , C665722 , C665723 , C665724 , C665725 , C665726 , C665727 , C665728 , C665729 , C665730 , C665731 , C665732 , C665733 , C665734 , C665735 , C665736 , C665737 , C665738 , C665739 , C665740 , C665741 , C665742 , C665743 , C665744 , C665745 , C665746 , C665747 , C665420 , C665421 , C665422 , C665423 , C665424 , C665425 , C665426 , C665427 , C665428</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -98,7 +98,6 @@
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="313v"/>
                             <title xmlns="" ref="https://jalit.org/work/121">Commentary on the Torah</title>
-                            
                             <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
@@ -124,9 +123,9 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript422">
                                     <idno type="">Yevr.-Arab. I 1566</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1566</title>
-                        <ptr target="https://jalit.org/manuscript/422"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1566</title>
+                                    <ptr target="https://jalit.org/manuscript/422"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -142,35 +141,45 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the bottom or at the top of each recto page.</foliation>
                                 <collation>
-                                    <formula/>
+                                    <formula>5</formula>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Hebrew numerals at the top of the first recto page of a quire. It seems every pericope was an individual textual unit, copied in a series of numbered quinions. Therefore, some quire numbers appear more than once: e.g., fol. 153r and 198r both bear quire number 2. Some quire catchwords preserved (e.g., fol. 127v).</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Out of order, many folios are torn, stained and have holes, others are well preserved.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Mostly legible. </ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, left margin mostly evenly justified; even interlinear spacing; straight line of writing.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="26-27">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Vertical writing</metamark>
+                                    <metamark function="">Extended letters</metamark>
+                                    <metamark function="justification">Space fillers</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">Prickings for horizontal lines</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -178,16 +187,16 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
-                                <persName ref="" role=""/>
-                                <persName ref="" role="scribe">מברך הלוי בן ישועה בן סעדיה אלנציבי</persName>
-                                <placeName ref=""/>
-                                <metamark function=""/>
-                                <origDate>1021 [Ktiv]; 1021-1023 [FGP]</origDate>
+                                
+                                <persName xmlns="" ref="https://jalit.org/person/52" role="scribe">Mevoraḵ ha-Levī ben Yešuʿa ben Saʿadya al-Naṣibī</persName>
+                                <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
+                                <metamark function="diacritics">Sparsely dotted. </metamark>
+                                <origDate from="1021" to="1023">1021 [Ktiv]; 1021-1023 [FGP]</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="oriental" style="square" xml:lang="he">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
@@ -195,7 +204,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>First line of a new paragraph indented; sense dividers (colon, dotted circle) usually followed by blank space, occasional use of two circles connected by a line.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
