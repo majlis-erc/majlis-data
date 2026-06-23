@@ -97,7 +97,7 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="313v"/>
-                            <title xmlns="" ref="https://jalit.org/work/121">Commentary on the Torah</title>
+                            <title ref="https://jalit.org/work/121">Commentary on the Torah</title>
                             <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
@@ -188,8 +188,8 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 
-                                <persName xmlns="" ref="https://jalit.org/person/52" role="scribe">Mevoraḵ ha-Levī ben Yešuʿa ben Saʿadya al-Naṣibī</persName>
-                                <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
+                                <persName ref="https://jalit.org/person/52" role="scribe">Mevoraḵ ha-Levī ben Yešuʿa ben Saʿadya al-Naṣibī</persName>
+                                <placeName ref="https://jalit.org/place/1">Cairo</placeName>
                                 <metamark function="diacritics">Sparsely dotted. </metamark>
                                 <origDate from="1021" to="1023">1021 [Ktiv]; 1021-1023 [FGP]</origDate>
                                 <note xml:lang=""/>

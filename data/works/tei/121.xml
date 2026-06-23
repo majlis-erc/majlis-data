@@ -81,7 +81,7 @@
                 <title xml:id="title-1" source="#" xml:lang="en" type="majlis-headword">Commentary on the Torah</title>
                 
                 
-                <author xmlns="" ref="https://jalit.org/person/6">David ben Boʿaz</author>
+                <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="ar" otherLangs="he"/>
                 <term type="script"/>
