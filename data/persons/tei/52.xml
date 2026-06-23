@@ -121,7 +121,7 @@
                     </death>
                     <floruit>
                         <date when="" from="" to="" cert=""/>
-                        <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
+                        <placeName ref="https://jalit.org/place/1">Cairo</placeName>
                     </floruit>
                     <sex cert="" value=""/>
                     <faith cert=""/>
