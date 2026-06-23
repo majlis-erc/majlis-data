@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-06-23T09:34:50.469Z">update names</change>
             <change who="#mroozen" when="2026-06-23T09:21:09.657Z">update names</change>
             <change who="#mroozen" when="2026-06-23T08:51:52.926Z">update names</change>
             <change who="#mroozen" when="2026-06-16T15:08:06.174Z">update name</change>
@@ -111,19 +112,28 @@
                         
                     </persName>
                     <persName xml:id="name-9" source="#" type="canon" xml:lang="ar-Latn">
-                        <forename/>
-                        <addName ref="" type="" xml:id=""/>
-                        <name>Abū Yūsuf Yaʿqūb al-Qirqisānī</name>
+                        <addName ref="" type="kunya" xml:id="">Abū Yūsuf</addName>
+                        <addName ref="" type="ism" xml:id="">Yaʿqūb</addName>
+                        <addName ref="" type="nisbah" xml:id="">al-Qirqisānī</addName>
+                        
+                        
+                        
                     </persName>
                     <persName xml:id="name-10" source="#" type="canon" xml:lang="he">
-                        <forename/>
-                        <addName ref="" type="" xml:id=""/>
-                        <name>יעקב בן יצחק הקרקסאני</name>
+                        <addName ref="" type="ism" xml:id="">יעקב</addName>
+                        <addName ref="" type="nasab" xml:id="">בן יצחק</addName>
+                        <addName ref="" type="nisbah" xml:id="">הקרקסאני</addName>
+                        
+                        
+                        
                     </persName>
                     <persName xml:id="name-11" source="#" type="canon" xml:lang="he-Latn">
-                        <forename/>
-                        <addName ref="" type="" xml:id=""/>
-                        <name>Yaʿqov ben Yiṣḥaq ha-Qirqisānī</name>
+                        <addName ref="" type="ism" xml:id="">Yaʿqov</addName>
+                        <addName ref="" type="nasab" xml:id=""> ben Yiṣḥaq</addName>
+                        <addName ref="" type="nisbah" xml:id="">ha-Qirqisānī</addName>
+                        
+                        
+                        
                     </persName>
                     
                     <persName xml:id="name-12" type="alternate" xml:lang="he">
