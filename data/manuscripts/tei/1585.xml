@@ -96,9 +96,9 @@
                             <objectType rend="" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript459">
-                        <title>Cairo, Karaite Synagogue, Ms. 18</title>
-                        <ptr target="https://jalit.org/manuscript/459"/>
-                    </bibl>
+                                    <title>Cairo, Karaite Synagogue, Ms. 18</title>
+                                    <ptr target="https://jalit.org/manuscript/459"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -175,7 +175,10 @@
                                     <quote type="translation" xml:lang=""/>
                                     <note xml:lang=""/>
                                     <listRelation>
-                                        <relation name="" ref="" active="https://jalit.org/place/1" mutual="https://jalit.org/work/46 https://jalit.org/person/15" passive="https://jalit.org/work/46"/>
+                                        <active ref="" name="">Cairo</active>
+                                        <mutual ref="" name="">Commentary on the Book of Exodus (Sahl ben Maṣliaḥ)</mutual>
+                                        <mutual ref="" name="">Yašar ben Ḥesed ben Yašar</mutual>
+                                        <passive ref="" name="">Commentary on the Book of Exodus (Sahl ben Maṣliaḥ)</passive>
                                     </listRelation>
                                 </item>
                             </list>
@@ -184,7 +187,9 @@
                             <binding>
                                 <decoNote>
                                     <objectType/>
-                                    <origPlace ref=""/>
+                                    <origPlace ref="https://jalit.org/place/1">
+                    <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
+                </origPlace>
                                     <origDate when="" from="" to=""/>
                                     <material/>
                                     <note xml:lang=""/>
@@ -201,13 +206,13 @@
                             <list>
                                 <item>
                                     <note xml:lang=""/>
-                                    <persName/>
+                                    <persName xmlns="" ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</persName>
                                     <quote xml:lang=""/>
-                                    <bibl>
-                                        
-                                        <citedRange unit="p"/>
-                                        <ptr target=""/>
-                                    </bibl>
+                                    <bibl xml:id="jalit-orgbiblIJ6BB28X">
+                        <idno>Vestiges of Qaraite Translations in the Arabic Translation(s) of the Samaritan Pentateuch</idno>
+                        <title>Gregor Schwarb, Vestiges of Qaraite Translations in the Arabic Translation(s) of the Samaritan Pentateuch, Intellectual History of the Islamicate World 1, no. 1–2 (2013): 115–57, https://doi.org/10.1163/2212943X-20130106.</title>
+                        <ptr target="https://jalit.org/bibl/IJ6BB28X"/>
+                    </bibl>
                                 </item>
                             </list>
                         </accMat>
@@ -216,18 +221,18 @@
                         <summary xml:lang=""/>
                         <provenance>
                             <date when="" from="" to=""/>
-                            <placeName ref=""/>
+                            <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
                             <locus from="" to=""/>
-                            <persName ref="" role=""/>
+                            <persName xmlns="" ref="https://jalit.org/person/25">David al-Fāsī</persName>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note xml:lang=""/>
                         </provenance>
                         <acquisition>
                             <date when="" from="" to=""/>
-                            <placeName ref=""/>
+                            <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
                             <locus from="" to=""/>
-                            <persName ref="" role=""/>
+                            <persName xmlns="" ref="https://jalit.org/person/6">David ben Boʿaz</persName>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note xml:lang=""/>
@@ -237,18 +242,17 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
                             </listBibl>
                         </surrogates>
                         <listBibl>
-                            <bibl xml:id="">
-                                
-                                <citedRange unit="p"/>
-                                <ptr target=""/>
-                            </bibl>
+                            <bibl xml:id="jalit-orgbiblIUGZTR9Y">
+                        <idno>"Yusuf b. Nuh"</idno>
+                        <title>Moritz Steinschneider, Yusuf b. Nuh, in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902), 88–89.</title>
+                        <ptr target="https://jalit.org/bibl/IUGZTR9Y"/>
+                    </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
