@@ -73,8 +73,8 @@
                 <msDesc xml:id="ms-328">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C677841 , C677842 , C677843 , C677844 , C677845 , C677846 , C677847 , C677848 , C677849 , C677850 , C677851 , C677852 , C677853 , C677854 , C677855 , C677856 , C677857 , C677858 , C677859 , C677860 , C677861 , C677862 , C677863 , C677864 , C677865 , C677866 , C677867 , C677868 , C677869 , C677870 , C677871 , C677872 , C677873 , C677874 , C677875 , C677876 , C677877 , C677878 , C677879 , C677880 , C677881 , C677882 , C677883 , C677884 , C677885 , C677886 , C677887 , C677888 , C677889 , C677890 , C677891 , C677892 , C677893 , C677894 , C677895 , C677896 , C677897 , C677898 , C677899 , C677900 , C677901 , C677902 , C677903 , C677904 , C677905 , C677906 , C677907 , C677908 , C677909 , C677910 , C677911 , C677912 , C677913 , C677914 , C677915 , C677916 , C677917 , C677918 , C677919 , C677920 , C677921 , C677922 , C677923 , C677924 , C677925 , C677926 , C677927 , C677928 , C677929 , C677930 , C677931 , C677932 , C677933 , C677934 , C677935 , C677936 , C677937 , C677938 , C677939 , C677940 , C677941 , C677942 , C677943 , C677944 , C677945 , C677946 , C677947 , C677948 , C677949 , C677950 , C677951 , C677952 , C677953 , C677954 , C677955 , C677956 , C677957 , C677958 , C677959 , C677960 , C677961 , C677962 , C677963 , C677964 , C677965 , C677966 , C677967 , C677968 , C677969 , C677970 , C677971 , C677972 , C677973 , C677974 , C677975 , C677976 , C677977 , C677978 , C677979 , C677980 , C677981 , C677982 , C677983 , C677984 , C677985 , C677986 , C677987 , C677988 , C677989 , C677990 , C677991 , C677992 , C677993 , C677994 , C677995 , C677996 , C677997 , C677998 , C677999 , C678000 , C678001 , C678002 , C678003 , C678004 , C678005 , C678006 , C678007 , C678008 , C678009 , C678010 , C678011 , C678012</idno>
-   </altIdentifier>
+                            <idno>C677841 , C677842 , C677843 , C677844 , C677845 , C677846 , C677847 , C677848 , C677849 , C677850 , C677851 , C677852 , C677853 , C677854 , C677855 , C677856 , C677857 , C677858 , C677859 , C677860 , C677861 , C677862 , C677863 , C677864 , C677865 , C677866 , C677867 , C677868 , C677869 , C677870 , C677871 , C677872 , C677873 , C677874 , C677875 , C677876 , C677877 , C677878 , C677879 , C677880 , C677881 , C677882 , C677883 , C677884 , C677885 , C677886 , C677887 , C677888 , C677889 , C677890 , C677891 , C677892 , C677893 , C677894 , C677895 , C677896 , C677897 , C677898 , C677899 , C677900 , C677901 , C677902 , C677903 , C677904 , C677905 , C677906 , C677907 , C677908 , C677909 , C677910 , C677911 , C677912 , C677913 , C677914 , C677915 , C677916 , C677917 , C677918 , C677919 , C677920 , C677921 , C677922 , C677923 , C677924 , C677925 , C677926 , C677927 , C677928 , C677929 , C677930 , C677931 , C677932 , C677933 , C677934 , C677935 , C677936 , C677937 , C677938 , C677939 , C677940 , C677941 , C677942 , C677943 , C677944 , C677945 , C677946 , C677947 , C677948 , C677949 , C677950 , C677951 , C677952 , C677953 , C677954 , C677955 , C677956 , C677957 , C677958 , C677959 , C677960 , C677961 , C677962 , C677963 , C677964 , C677965 , C677966 , C677967 , C677968 , C677969 , C677970 , C677971 , C677972 , C677973 , C677974 , C677975 , C677976 , C677977 , C677978 , C677979 , C677980 , C677981 , C677982 , C677983 , C677984 , C677985 , C677986 , C677987 , C677988 , C677989 , C677990 , C677991 , C677992 , C677993 , C677994 , C677995 , C677996 , C677997 , C677998 , C677999 , C678000 , C678001 , C678002 , C678003 , C678004 , C678005 , C678006 , C678007 , C678008 , C678009 , C678010 , C678011 , C678012</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -98,13 +98,19 @@
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>[...] והנה תאומים ארמוני [...] כמדרעה מן ולא ילבשו ע[...]עקב בעקב מן והוא יגוד עקב</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="165r" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>לקול צללו שפתי לנים? באותין מן והוא לן בלילה ההוא פצאר אסם אל</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>The end of the text on fol. 165v is mostly illegible.</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -120,6 +126,11 @@
                         </ab>
                         <objectDesc>
                             <supportDesc>
+                                <collation>
+      
+      
+      
+   </collation>
                                 <support>
                                     <material>Paper</material>
                                     <note xml:lang=""/>
@@ -131,34 +142,44 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation with Arabic numerals at the bottom of each recto page.</foliation>
                                 <collation>
-                                    <formula/>
+                                    <formula>5</formula>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Catchwords at the end of quires</catchwords>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Quire numbers written in Arabic at the top left corner of the first recto page (e.g., fol. 101r "رابع وعشرون", fol. 111r "خامس وعشرون") and sometimes written in Hebrew numerals at the top left corner (e.g., fol. 163r). Catchwords on the preceding page marked with a line and a dot above.</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Partly worm eaten with loss of text, stained and faded in places, some pages torn.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, left margin mostly evenly justified; mostly even interlinear spacing; mostly straight line of writing.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="17">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Extended letters</metamark>
+                                    <metamark function="justification">Space fillers</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -168,21 +189,25 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs. </metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vowel signs. </metamark>
+                                <metamark function="diacritics">Sparsely dotted. </metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="" style="" xml:lang="">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang="he"/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Enlarged titles and incipits</desc>
+                                <note xml:lang="">
+                                    <p>Titles written center aligned in larger script, sense dividers (dot).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
