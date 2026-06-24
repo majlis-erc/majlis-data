@@ -53,8 +53,9 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-24T09:43:25.502Z">update content description</change>
             <change who="#mroozen" when="2026-06-24T09:22:35.511Z">add additional properties of the page, page and text layout, hand description</change>
-            <change who="#mroozen" when="2026-06-24T09:02:55.323Z">add incipit/explicit and content description </change>
+            <change who="#mroozen" when="2026-06-24T09:02:55.323Z">add incipit/explicit and content description</change>
             <change who="#mroozen" when="2026-06-24T08:49:10.141Z">add manuscript joins, update content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -84,7 +85,8 @@
                             <p>Contains two questions (masāʾil) appended to the second maqāla of Kitāb al-Istibṣār on the Sabbath, followed by the heading of the third maqāla on the new crescent moon.</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <title xmlns="" ref="https://jalit.org/work/88">The Book of Insight Concerning Legal Obligations (Yosef ha-Roʾe)</title>
+                            <title xmlns="" ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
+                            
                             <locus from="1r" to="4v"/>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="ar" otherLangs=""/>
