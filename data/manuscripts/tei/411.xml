@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-24" source="locus_change_log_20260624-234224.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#mroozen" when="2026-06-24T09:43:25.502Z">update content description</change>
             <change who="#mroozen" when="2026-06-24T09:22:35.511Z">add additional properties of the page, page and text layout, hand description</change>
             <change who="#mroozen" when="2026-06-24T09:02:55.323Z">add incipit/explicit and content description</change>
@@ -87,7 +88,7 @@
                         <msItem xml:id="item-1.1" class="">
                             <title xmlns="" ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
                             
-                            <locus from="1r" to="4v"/>
+                            <locus from="1r" to="4v">1r–4v</locus>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>

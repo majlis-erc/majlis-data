@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 reviewed locus fix(es); 3 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-04-13T18:07:53.217Z">ID fix</change>
             <change who="#rboehm" when="2024-09-06T10:38:00.840Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T01:29:59.890Z">work title</change>
@@ -88,11 +89,11 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             
-                            <locus from="10r" to="31v"/>
-                            <locus from="37r" to="44v"/>
-                            <locus from="110r-v" to=""/>
-                            <locus from="125r-v" to=""/>
-                            <locus from="150r" to="158v"/>
+                            <locus from="10r" to="31v">10r–31v</locus>
+                            <locus from="37r" to="44v">37r–44v</locus>
+                            <locus from="110r" to="110v">110r–110v</locus>
+                            <locus from="125r" to="125v">125r–125v</locus>
+                            <locus from="150r" to="158v">150r–158v</locus>
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs="he"/>

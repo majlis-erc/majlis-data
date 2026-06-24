@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T12:41:57.267Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T08:16:58.806Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -93,7 +94,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="162v"/>
+                            <locus from="1r" to="162v">1r–162v</locus>
                             <title ref="https://jalit.org/work/24">Grammar</title>
                             <author ref="https://jalit.org/person/11">Yosef ben Noaḥ</author>
                             <textLang mainLang="ar" otherLangs=""/>

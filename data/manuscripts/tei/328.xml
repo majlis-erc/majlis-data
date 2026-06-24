@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-10T12:05:49.336Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T10:54:51.524Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -92,7 +93,7 @@
                             <p>Interpretation of Difficult Words by Abū al-Faraj Hārūn, containing sections on the Pentateuch (fols. 1–16), Joshua (fol. 17), Jeremiah (fols. 18r-33), Ezekiel (fols. 33v–42r), Minor Prophets (fols. 42r–65v), Chronicles (fols. 65v–73v), Psalms (fols. 73v–99v), Job (fols. 99v–130r), Proverbs (fols. 130r–141v), Esther (fols. 141v–143v), Daniel (fols. 143v–149r, 152–159), Ezra (fols. 149, 160–162), Song of Songs (fols. 150–151), and Nehemiah (fols. 162–165).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="165v"/>
+                            <locus from="1r" to="165v">1r–165v</locus>
                             <title ref="https://jalit.org/work/33">Interpretation of Difficult Words (Abū al-Faraj Hārūn)</title>
                             <author ref="https://jalit.org/person/8">Aharon ben Yešuʿa</author>
                             <textLang mainLang="ar" otherLangs=""/>

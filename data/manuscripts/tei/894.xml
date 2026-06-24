@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
@@ -81,7 +82,7 @@
                             <p>Yefet ben ʿElis Commentary on the Book of Deuteronomy (Deut. 2:3-5, 24-25; 15:16–17; 16:1,4).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
-                            <locus from="128r" to="132v"/>
+                            <locus from="128r" to="132v">128r–132v</locus>
                             <title ref="https://jalit.org/work/13">Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs="he"/>

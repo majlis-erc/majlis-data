@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-234224.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-04-13T18:10:14.331Z">ID fix</change>
             <change who="#rboehm" when="2024-09-06T10:42:23.328Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T11:04:46.417Z">work title</change>
@@ -89,7 +90,7 @@
                             <p>Containing Book of Lights and Watchtowers by Yaʿqūb b. Isḥāq al-Qirqisānī (discourses IV and V) and an anonymous commentary on Lev. 23:28–32.</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="79v"/>
+                            <locus from="1r" to="79v">1r–79v</locus>
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqūb b. Isḥāq al-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs="he"/>
@@ -108,7 +109,7 @@
                             <note xml:lang=""/>
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
-                            <locus from="80r" to="81v"/>
+                            <locus from="80r" to="81v">80r–81v</locus>
                             <title cert="" ref="" xml:lang="">Commentary on the Book of Leviticus</title>
                             <author cert="" ref="">anonymous</author>
                             <textLang mainLang="ar" otherLangs="he"/>

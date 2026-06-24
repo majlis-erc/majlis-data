@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#mmoliere" when="2026-06-08T08:30:02.102Z">Changed incodicated document.
 </change>
             <change who="#mmoliere" when="2026-05-29T08:48:55.961Z">Added relations.</change>
@@ -102,7 +103,7 @@
                             <p>Yefet ben ʿEli's Introduction to the Commentary on the Book of Deuteronomy and his Commentary on the Book of Deuteronomy (beginning with Deut 1:1).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1v" to="8v"/>
+                            <locus from="1v" to="8v">1v–8v</locus>
                             <title ref="https://jalit.org/work/12">Introduction to the Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>
@@ -120,7 +121,7 @@
                             <note xml:lang=""/>
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
-                            <locus from="8v" to="134v"/>
+                            <locus from="8v" to="134v">8v–134v</locus>
                             <title ref="https://jalit.org/work/13">Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="" otherLangs=""/>

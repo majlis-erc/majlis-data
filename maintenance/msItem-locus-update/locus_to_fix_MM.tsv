@@ -1,0 +1,11 @@
+severity	ms_id	locus_xpath_readable	from	to	text	issue	suggested_fix	confirm/correct_suggested_fix??
+ERROR	306	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	"68r-v, 105r"	160v		RANGE_PACKED_IN_FROM	?	<locus from =“68r” to =“68v”>68r–68v</locus><locus from =“160v” to =“160v”>160v</locus>
+ERROR	330	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	"11r, top"	(absent)		RANGE_PACKED_IN_FROM	?	"<locus from=“11r” to=“11r”>11r, top</locus>"
+ERROR	330	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	"11r, bottom"	14v		RANGE_PACKED_IN_FROM	?	"<locus from=“11r” to=“11r”>11r, bottom</locus><locus from=“14v” to=“14v”>14v</locus>"
+ERROR	528	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	110r-v	(absent)		RANGE_PACKED_IN_FROM	"from=""110r"" to=""110v"""	Yes
+ERROR	1570	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	5r-v			RANGE_PACKED_IN_FROM	"from=""5r"" to=""5v"""	Yes
+ERROR	1571	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	110r-v			RANGE_PACKED_IN_FROM	"from=""110r"" to=""110v"""	Yes
+ERROR	1571	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	125r-v			RANGE_PACKED_IN_FROM	"from=""125r"" to=""125v"""	Yes
+REVIEW	309	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	2r		SIDE_INCONSISTENT	likely 1r??	<locus from=“1r” to=“2r”>1r–2r</locus>
+REVIEW	319	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	204v		SIDE_INCONSISTENT	likely 1r??	<locus from=“1r” to=“204v”>1r–204v</locus>
+REVIEW	324	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	117v		SIDE_INCONSISTENT	likely 1r??	<locus from=“1r” to=“117v”>1r–117v</locus>

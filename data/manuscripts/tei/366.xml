@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-04-13T18:06:30.368Z">ID fix</change>
             <change who="#rboehm" when="2024-09-06T10:34:46.257Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T01:13:34.594Z">work title</change>
@@ -87,8 +88,8 @@
                             <p>Book of Lights and Watchtowers by Yaʿqūb b. Yiṣḥaq al-Qirqisānī (preserved chapter headings are for discourse III chapters 21-22, discourse IV chapter 63, discourse V chapters 3, 20-21, 31-35, 39-40)</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
-                            <locus from="1r" to="4v"/>
-                            <locus from="6r" to="28v"/>
+                            <locus from="1r" to="4v">1r–4v</locus>
+                            <locus from="6r" to="28v">6r–28v</locus>
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>

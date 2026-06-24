@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T10:04:33.921Z">work title</change>
             <change who="#rboehm" when="2024-09-05T14:15:03.375Z">work title</change>
             <change who="#rboehm" when="2024-08-30T01:05:09.177Z">work title</change>
@@ -93,7 +94,7 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <note xml:lang=""/>
-                            <locus from="87r" to="240r"/>
+                            <locus from="87r" to="240r">87r–240r</locus>
                             <title xml:lang="" ref="https://jalit.org/work/13" cert="">Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>

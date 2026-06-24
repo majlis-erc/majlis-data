@@ -1,0 +1,17 @@
+severity	ms_id	locus_xpath	locus_xpath_readable	from	to	text	issue	suggested_fix	final_fix	MM_fixes1	comment
+ERROR	306	/*/*[2]/*/*/*/*[2]/*[3]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	68r-v, 105r	160v		RANGE_PACKED_IN_FROM		"<locus from=""68r"" to=""68v"">68r–68v</locus><locus from=""105r"" to=""160v"">105r–160v</locus>"	<locus from =“68r” to =“68v”>68r–68v</locus><locus from =“160v” to =“160v”>160v</locus>	"MM first suggested <locus from =“68r” to =“68v”>68r–68v</locus><locus from =“160v” to =“160v”>160v</locus>,
+then changed to <locus from =“68r” to =“68v”>68r–68v</locus><locus from =“105v” to =“105r”>105r</locus><locus from =“160v” to =“160v”>160v</locus>,
+then MS changed to the one in final_fix to be consistent. Needs final approval."
+ERROR	330	/*/*[2]/*/*/*/*[2]/*[3]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	11r, top	(absent)		RANGE_PACKED_IN_FROM		"<locus from=""11r"">11r (top)</locus>"	<locus from=“11r” to=“11r”>11r, top</locus>	"MM suggested <locus from=“11r” to=“11r”>11r, top</locus>, 
+changed to <locus from=“11r” to=“11r”>11r-11r, top</locus>"
+ERROR	330	/*/*[2]/*/*/*/*[2]/*[4]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	11r, bottom	14v		RANGE_PACKED_IN_FROM		"<locus from=""11r"" to=""14v"">11r (bottom)–14v</locus>"	<locus from=“11r” to=“11r”>11r, bottom</locus><locus from=“14v” to=“14v”>14v</locus>	"MM suggested <locus from=“11r” to=“11r”>11r, bottom</locus><locus from=“14v” to=“14v”>14v</locus>, 
+changed to the one in final_fix to be consistent"
+ERROR	528	/*/*[2]/*/*/*/*[2]/*[3]/*[2]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	110r-v	(absent)		RANGE_PACKED_IN_FROM	"from=""110r"" to=""110v"""	<locus from=“110r” to=“110v”>110r–110v</locus>	Yes	
+ERROR	1478	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	 2r	2v		WHITESPACE	"from=""2r"" to=""2v"""	<locus from=“2r” to=“2v”>2r–2v</locus>		
+ERROR	1497	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	 1r	2v		WHITESPACE	"from=""1r"" to=""2v"""	<locus from=“1r” to=“2v”>1r–2v</locus>		
+ERROR	1570	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	5r-v			RANGE_PACKED_IN_FROM	"from=""5r"" to=""5v"""	<locus from=“5r” to=“5v”>5r–5v</locus>	Yes	
+ERROR	1571	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	110r-v			RANGE_PACKED_IN_FROM	"from=""110r"" to=""110v"""	<locus from=“110r” to=“110v”>110r–110v</locus>	Yes	
+ERROR	1571	/*/*[2]/*/*/*/*[2]/*[2]/*[4]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	125r-v			RANGE_PACKED_IN_FROM	"from=""125r"" to=""125v"""	<locus from=“125r” to=“125v”>125r–125v</locus>	Yes	
+REVIEW	309	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	2r		SIDE_INCONSISTENT		<locus from=“1r” to=“2v”>1r–2v</locus>	<locus from=“1r” to=“2r”>1r–2r</locus>	
+REVIEW	319	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	204v		SIDE_INCONSISTENT		<locus from=“1r” to=“204v”>1r–204v</locus>	<locus from=“1r” to=“204v”>1r–204v</locus>	
+REVIEW	324	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	117v		SIDE_INCONSISTENT		<locus from=“1r” to=“117v”>1r–117v</locus>	<locus from=“1r” to=“117v”>1r–117v</locus>	

@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#mmoliere" when="2026-05-08T15:20:13.878Z">Corrected folio range.</change>
             <change who="#mmoliere" when="2025-05-07T18:00:55.602Z">Added work.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -96,7 +97,7 @@
                             <note xml:lang=""/>
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
-                            <locus from="1" to="4"/>
+                            <locus from="1" to="4">1–4</locus>
                             <title ref="https://jalit.org/work/38">Compendium on the fundamentals of religion (descriptive title)</title>
                             <author cert="" ref=""/>
                             <textLang mainLang="" otherLangs=""/>

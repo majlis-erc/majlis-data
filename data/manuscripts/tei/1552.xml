@@ -50,6 +50,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#jbeise" when="2026-01-01T14:56:54.672Z">Add material</change>
             <change who="#jbeise" when="2025-07-20T17:13:41.532Z">Add extent</change>
             <change who="#rboehm" when="2024-09-03T16:34:36.719Z">work title</change>
@@ -84,7 +85,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="1v"/>
+                            <locus from="1r" to="1v">1r–1v</locus>
                             <title xml:lang="" ref="" cert="">A Commentary on and Translation of the Book of Exodus</title>
                             <author ref="" cert=""/>
                             <textLang mainLang="" otherLangs=""/>

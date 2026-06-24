@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 reviewed locus fix(es); 1 locus text value(s) added from @from/@to.</change>
             <change who="#jbeise" when="2026-02-05T16:46:24.174Z">Add folios </change>
             <change who="#mmoliere" when="2025-06-05T08:38:12.985Z">Changed work ID.</change>
             <change who="#rboehm" when="2024-09-10T12:52:05.598Z">work titles linked</change>
@@ -83,7 +84,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1" to="117v"/>
+                            <locus from="1r" to="117v">1r–117v</locus>
                             <title ref="https://jalit.org/work/36">The Sufficient Book on the Hebrew Language</title>
                             <author ref="https://jalit.org/person/8">Aharon ben Yešuʿa</author>
                             <textLang mainLang="ar" otherLangs=""/>
@@ -101,7 +102,7 @@
                             </note>
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
-                            <locus from="110r" to="119v"/>
+                            <locus from="110r" to="119v">110r–119v</locus>
                             <title ref="https://jalit.org/work/5">Book of Introduction into the Discipline of Careful Investigation of the Ways of the Hebrew Language</title>
                             <author cert="" ref="https://jalit.org/person/8">Aharon ben Yešuʿa</author>
                             <textLang mainLang="" otherLangs=""/>

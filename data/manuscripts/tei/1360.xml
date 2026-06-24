@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#mmoliere" when="2025-03-21T10:55:21.708Z">MS joint</change>
             <change who="#S.Mattutat" when="2024-12-11T15:55:51.813Z">Heritage Data (Note, Author, Transcription, Title of Publication).</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -83,7 +84,7 @@
                             <p>Refutation of Abū al-Ḥasan al-Ṣūrī’s Treatise on the Qibla possibly by Yešuʿa ben Yehuda</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="46v"/>
+                            <locus from="1r" to="46v">1r–46v</locus>
                             <title ref="https://jalit.org/work/118">Refutation of Abū al-Ḥasan al-Ṣūrī’s Treatise on the Qibla</title>
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda?</author>
                             <textLang mainLang="ar" otherLangs=""/>

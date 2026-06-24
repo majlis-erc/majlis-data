@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#mroozen" when="2026-06-15T14:26:37.946Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-06-15T14:23:26.788Z">add foliation, quiring, state of conservation, text and page layout, script/hand description, binding description</change>
             <change who="#mroozen" when="2026-06-15T14:06:01.532Z">add content description, update codicological definition</change>
@@ -83,7 +84,7 @@
                         <msItem xml:id="item-1.1" class="">
                             <author cert="" ref="">Yaʿqūb b. Isḥāq al-Qirqisānī</author>
                             <title cert="" ref="" xml:lang="">Book of Lights and Watchtowers</title>
-                            <locus from="1r" to="5v"/>
+                            <locus from="1r" to="5v">1r–5v</locus>
                             
                             
                             <textLang mainLang="ar" otherLangs=""/>

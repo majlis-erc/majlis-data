@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-10T12:11:00.518Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T11:03:45.930Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -93,7 +94,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="339v"/>
+                            <locus from="1r" to="339v">1r–339v</locus>
                             <title xmlns="" ref="https://jalit.org/work/34">Commentary on the Book of Leviticus</title>
                             <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                             <textLang mainLang="ar" otherLangs="he"/>

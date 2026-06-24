@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-05-07T10:22:16.089Z">Harkavy Invt.</change>
             <change who="#rboehm" when="2024-09-06T11:27:14.125Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T07:53:53.327Z">work title</change>
@@ -87,7 +88,7 @@
                             <p>Book of Commandments by Levi b. Yefet</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="138v"/>
+                            <locus from="1r" to="138v">1r–138v</locus>
                             <title ref="https://jalit.org/work/20">Book of Commandments</title>
                             <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>

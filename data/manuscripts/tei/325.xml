@@ -49,6 +49,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 12 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-10T12:41:22.075Z">work title</change><change who="#rboehm" when="2024-09-06T12:28:44.792Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T11:35:16.547Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -78,10 +79,10 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem class="" xml:id="item-11">
-                            <locus from="1r" to="51v"/>
-                            <locus from="80r" to="89v"/>
-                            <locus from="111r" to="132v"/>
-                            <locus from="134r" to="160v"/>
+                            <locus from="1r" to="51v">1r–51v</locus>
+                            <locus from="80r" to="89v">80r–89v</locus>
+                            <locus from="111r" to="132v">111r–132v</locus>
+                            <locus from="134r" to="160v">134r–160v</locus>
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs=""/>
@@ -96,7 +97,7 @@
                             <note xml:lang=""><p>Containing discourse 6 (fols 80r–89v) and discourse 8 (fols 1r–51v, 111r–132v, 134r–160v). </p><p> </p><p/></note>
                         </msItem>
                         <msItem class="" xml:id="item-12">
-                            <locus from="54r" to="61v"/>
+                            <locus from="54r" to="61v">54r–61v</locus>
                             <title ref="https://jalit.org/work/35">Commentary on "Should the matter be beyond you to judge" (Deut 17:8)</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>
@@ -111,8 +112,8 @@
                             <note xml:lang=""><p>Containing Commentary mainly on the Book of Deuteronomy 17:8–13. </p><p> </p><p/></note>
                         </msItem>
                         <msItem class="" xml:id="item-13">
-                            <locus from="52r" to="53v"/>
-                            <locus from="90r" to="96v"/>
+                            <locus from="52r" to="53v">52r–53v</locus>
+                            <locus from="90r" to="96v">90r–96v</locus>
                             <title cert="" ref="" xml:lang="">al-Kalām fī al-Yerušot</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>
@@ -127,7 +128,7 @@
                             <note xml:lang=""/>
                         </msItem>
                         <msItem class="" xml:id="item-14">
-                            <locus from="62r" to="79v"/>
+                            <locus from="62r" to="79v">62r–79v</locus>
                             <locus/>
                             <title cert="" ref="" xml:lang="">On inheritance (?)</title>
                             <author ref=""/>
@@ -143,8 +144,8 @@
                             <note xml:lang=""><p>At least fols 62–67 appear to be on inheritance and may belong to Yūsuf al-Baṣīr's al-Kalām fī al-Yerušot. </p><p> </p><p/></note>
                         </msItem>
                         <msItem class="" xml:id="item-15">
-                            <locus from="97r" to="108v"/>
-                            <locus from="133r" to="v"/>
+                            <locus from="97r" to="108v">97r–108v</locus>
+                            <locus from="133r" to="v">133r–v</locus>
                             <title cert="" ref="" xml:lang="">Commentary on the Pentateuch</title>
                             <author cert="" ref="https://jalit.org/person/11">Yešuʿa ben Yehuda (?)</author>
                             <textLang mainLang="" otherLangs=""/>
@@ -159,7 +160,7 @@
                             <note xml:lang=""/>
                         </msItem>
                         <msItem class="" xml:id="item-16">
-                            <locus from="109r" to="v"/>
+                            <locus from="109r" to="v">109r–v</locus>
                             <title cert="" ref="" xml:lang="">unidentified</title>
                             <author cert="" ref=""/>
                             <textLang mainLang="" otherLangs=""/>
@@ -174,7 +175,7 @@
                             <note xml:lang=""/>
                         </msItem>
                         <msItem class="" xml:id="item-17">
-                            <locus from="110r" to="v"/>
+                            <locus from="110r" to="v">110r–v</locus>
                             <title cert="" ref="" xml:lang="">unidentified</title>
                             <author cert="" ref=""/>
                             <textLang mainLang="" otherLangs=""/>

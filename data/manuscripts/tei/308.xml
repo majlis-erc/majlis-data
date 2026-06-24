@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-05-06T22:23:58.334Z">Bundle Nr.</change>
             <change who="#rboehm" when="2024-09-06T09:39:07.966Z">work link</change>
             <change who="#mmoliere" when="2024-09-06T09:07:25.791Z">Added work ID.</change>
@@ -86,7 +87,7 @@
                             <p>Commentary on the Book of Numbers by Yefet ben ʿEli (Num 31:35–40)</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="1v"/>
+                            <locus from="1r" to="1v">1r–1v</locus>
                             <title ref="https://jalit.org/work/17">Commentary on the Book of Numbers</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>

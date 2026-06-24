@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#jbeise" when="2025-12-05T13:54:28.231Z">Change material</change>
             <change who="#rboehm" when="2024-09-06T11:50:05.144Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T08:09:10.474Z">work title</change>
@@ -90,7 +91,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="14v"/>
+                            <locus from="1r" to="14v">1r–14v</locus>
                             <title ref="https://jalit.org/work/22">Book of Discernment</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs="he"/>

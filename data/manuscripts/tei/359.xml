@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-08-30T08:03:05.288Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
@@ -87,7 +88,7 @@
                             <p>Commentary on the Book of Leviticus by Sahl ben Maṣliaḥ (Lev. 16:28–31, 33).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="2v"/>
+                            <locus from="1r" to="2v">1r–2v</locus>
                             <title ref="https://jalit.org/work/41">Commentary on the Book of Leviticus</title>
                             <author ref="https://jalit.org/person/3">Sahl ben Maṣliaḥ</author>
                             <textLang mainLang="ar" otherLangs=""/>
@@ -108,7 +109,7 @@
                             </note>
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
-                            <locus from="2v" to=""/>
+                            <locus from="2v" to="">2v</locus>
                             <title cert="" ref="" xml:lang="">Lists</title>
                             <author cert="" ref=""/>
                             <textLang mainLang="" otherLangs=""/>
