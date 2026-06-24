@@ -53,7 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
-            <change who="#mroozen" when="2026-06-24T08:49:10.141Z">add manuscript joins, update content description </change>
+            <change who="#mroozen" when="2026-06-24T09:02:55.323Z">add incipit/explicit and content description </change>
+            <change who="#mroozen" when="2026-06-24T08:49:10.141Z">add manuscript joins, update content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2024-05-14" who="#external" status="draft">Checked by Friederike Schmidt.</change>
@@ -78,20 +79,25 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Contains two questions (masāʾil) appended to the second maqāla of Kitāb al-Istibṣār on the Sabbath, followed by the heading of the third maqāla on the new crescent moon.</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <title xmlns="" ref="https://jalit.org/work/88">The Book of Insight Concerning Legal Obligations (Yosef ha-Roʾe)</title>
-                            <locus from="" to=""/>
-                            
+                            <locus from="1r" to="4v"/>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>الجواب وبالله التوفيق<lb/>اعلم ان الكلام فيما هذا سبيله من باب الاجتهاد وتغليب امارة على امارة وتقوية ظن على ظن</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="4v" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>المقالة الثالثة من كتاب الاستبصار في الفرايض تتضمن الكلام في الهلال املى الشيخ الفاضل ابي يعقوب يوسف ابن ابرهيم البصير رحمه الله</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
@@ -207,7 +213,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
