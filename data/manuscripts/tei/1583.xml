@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
@@ -77,7 +78,7 @@
                             <p>Book of the Examination of the Commandments by Yosef ha-Roʾeh (containing of a section of the seventh treatise on the harvest)</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="1v"/>
+                            <locus from="1r" to="1v">1r–1v</locus>
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>

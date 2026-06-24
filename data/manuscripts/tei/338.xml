@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-08-30T09:03:47.112Z">work title</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
@@ -72,7 +73,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem class="" xml:id="item-11">
-                            <locus from="1" to="8"/>
+                            <locus from="1" to="8">1–8</locus>
                             <title cert="" ref="" xml:lang="">Commentary on Numbers</title>
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="ar" otherLangs=""/>
@@ -86,7 +87,7 @@
                             </explicit>
                             <note xml:lang=""><p>Containing Numbers 23.</p></note>
                         </msItem><msItem class="" xml:id="item-12">
-      <locus from="9" to="29"/>
+      <locus from="9" to="29">9–29</locus>
       <title cert="" ref="" xml:lang="">Masāʾil Muškila fī al-ʿArayyot</title>
       <author cert="" ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
       <textLang mainLang="" otherLangs=""/>

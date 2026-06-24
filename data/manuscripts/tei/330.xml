@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 reviewed locus fix(es); 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-10T11:43:02.973Z">work title (ii)</change>
             <change who="#rboehm" when="2024-08-30T10:44:21.960Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -92,7 +93,7 @@
                             <p>Contains sections from "Query about Prohibited Sexual Relations by Yašar ben Ḥesed ben Yašar, sections from responsa possibly by Yašar ben Ḥesed ben Yašar, and "A Book of Consolation" (Taʿziyah) by Abū l-Ḥasan ʿAlī b. Sulaymān.</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1v" to="10v"/>
+                            <locus from="1v" to="10v">1v–10v</locus>
                             <title ref="https://jalit.org/work/53">Query about Prohibited Sexual Relations</title>
                             <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                             <textLang mainLang="ar" otherLangs="he"/>
@@ -111,7 +112,7 @@
                             <note xml:lang=""/>
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
-                            <locus from="11r, top"/>
+                            <locus from="11r">11r (top)</locus>
                             <title cert="" ref="" xml:lang="">On the Limits of Sabbath</title>
                             <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar (?)</author>
                             <textLang mainLang="" otherLangs=""/>
@@ -132,7 +133,7 @@
                             </note>
                         </msItem>
                         <msItem xml:id="item-1.3" class="">
-                            <locus from="11r, bottom" to="14v"/>
+                            <locus from="11r" to="14v">11r (bottom)–14v</locus>
                             <title cert="" ref="" xml:lang="">A Book of Consolation (Taʿziyah)</title>
                             <author ref="https://jalit.org/person/14">Abū l-Ḥasan ʿAlī b. Sulaymān</author>
                             <textLang mainLang="" otherLangs=""/>

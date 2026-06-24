@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#lgzella" status="draft">Translated Harkavy heritage data.</change>
@@ -80,7 +81,7 @@
                             <p>Book of Lights and Watchtowers by Yaʿqov ben Yiṣḥaq ha-Qirqisānī (preserved chapter headings are for discourse IV, chapters 3, 21, 23-24, 26-29, 31-32 and for discourse V, chapters 16,38).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="12v"/>
+                            <locus from="1r" to="12v">1r–12v</locus>
                             <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/279">Yaʿqov ben Yiṣḥaq ha-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs="he"/>

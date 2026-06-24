@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 reviewed locus fix(es); 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-08-30T12:50:40.198Z">work title</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#plakteikina">Translated Harkavy heritage data.</change>
@@ -75,7 +76,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem class="" xml:id="item-11">
-                            <locus from="1" to="204v"/>
+                            <locus from="1r" to="204v">1r–204v</locus>
                             <title cert="" ref="" xml:lang="">Kitāb al-Tawriya</title>
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="ar" otherLangs=""/>
@@ -89,7 +90,7 @@
                             </explicit>
                             <note xml:lang=""/>
                         </msItem><msItem class="" xml:id="item-12">
-      <locus from="204v" to="205r"/>
+      <locus from="204v" to="205r">204v–205r</locus>
       <title cert="" ref="" xml:lang="">A dirge on Zion and Jerusalem</title>
       <author cert="" ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
       <textLang mainLang="" otherLangs=""/>

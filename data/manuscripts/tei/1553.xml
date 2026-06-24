@@ -52,6 +52,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#jbeise" when="2026-02-04T14:56:41.094Z">Add folios and material</change>
             <change who="#mmoliere" when="2025-11-05T11:08:08.572Z">test</change>
             <change who="#rboehm" when="2024-09-03T16:45:07.136Z">work title</change>
@@ -86,7 +87,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="153v"/>
+                            <locus from="1r" to="153v">1r–153v</locus>
                             <title ref="https://jalit.org/work/119">Commentary on the Book of Hosea</title>
                             <author ref="" cert="">Anonymous</author>
                             <textLang mainLang="" otherLangs=""/>

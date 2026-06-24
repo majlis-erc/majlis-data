@@ -48,6 +48,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 10 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T14:53:26.118Z">work titles linked</change><change who="#rboehm" when="2024-08-30T10:20:26.380Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
@@ -75,9 +76,9 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11"><locus from="1r" to="19v"/>
-                            <locus from="24r" to="33v"/>
-                            <locus from="66r" to="90v"/>
+                        <msItem class="" xml:id="item-11"><locus from="1r" to="19v">1r–19v</locus>
+                            <locus from="24r" to="33v">24r–33v</locus>
+                            <locus from="66r" to="90v">66r–90v</locus>
                             <title ref="https://jalit.org/work/28">Commentary on the Book of Kings</title>
                             
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
@@ -93,10 +94,10 @@
                             <note xml:lang=""><p>Containing Commentary on the Book of 1 Kings 3-7, 21-22 and 2 Kings 1, 17-21 (acc. to NLI 2 Kings 1:17-21). </p><p/></note>
                         </msItem>
                         <msItem class="" xml:id="item-12">
-                            <locus from="20r" to="23v"/>
-                            <locus from="34r" to="39v"/>
-                            <locus from="42r" to="43v"/>
-                            <locus from="49r" to="57v"/>
+                            <locus from="20r" to="23v">20r–23v</locus>
+                            <locus from="34r" to="39v">34r–39v</locus>
+                            <locus from="42r" to="43v">42r–43v</locus>
+                            <locus from="49r" to="57v">49r–57v</locus>
                             <title ref="https://jalit.org/work/29">Commentary on the Book of Psalms</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="" otherLangs=""/>
@@ -111,7 +112,7 @@
                             <note xml:lang=""><p>Containing the Commentary on the Book of Psalms 5-6, 78-79, 96-99, 100-104. </p><p/></note>
                         </msItem>
                         <msItem class="" xml:id="item-13">
-                            <locus from="40r" to="41v"/>
+                            <locus from="40r" to="41v">40r–41v</locus>
                             <title cert="" ref="" xml:lang="">Abridgement of Yefet b. Eli’s Commentary on Deuteronomy</title>
                             <author cert="" ref="">unknown</author>
                             <textLang mainLang="" otherLangs=""/>
@@ -126,8 +127,8 @@
                             <note xml:lang=""><p>Containing Abridgement of Yefet b. Eli’s Commentary on Deuteronomy 33. </p><p/></note>
                         </msItem>
                         <msItem class="" xml:id="item-14">
-                            <locus from="44r" to="48v"/>
-                            <locus from="58r" to="65v"/>
+                            <locus from="44r" to="48v">44r–48v</locus>
+                            <locus from="58r" to="65v">58r–65v</locus>
                             <title cert="" ref="" xml:lang="">Commentary on Leviticus and Deuteronomy</title>
                             <author cert="" ref="">anonymous</author>
                             <textLang mainLang="" otherLangs=""/>

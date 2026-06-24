@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#mroozen" when="2026-06-05T10:39:15.450Z">update content description note</change>
             <change who="#mroozen" when="2026-06-05T10:35:22.188Z">update foliation</change>
             <change who="#mroozen" when="2026-06-05T10:33:49.131Z">update script/hand description</change>
@@ -90,7 +91,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="46v"/>
+                            <locus from="1r" to="46v">1r–46v</locus>
                             <title cert="" ref="https://jalit.org/work/18" xml:lang="">Book of Lights and Watchtowers</title>
                             <author ref="https://jalit.org/person/38">Yaʿqūb b. Isḥāq al-Qirqisānī</author>
                             <textLang mainLang="ar" otherLangs=""/>

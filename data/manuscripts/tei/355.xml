@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T12:04:26.018Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T08:14:05.558Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -92,7 +93,7 @@
                             <p>Book of the Examination of the Commandments by Yosef ha-Roʾe, containing the 9th discourse on forbidden sexual relations (fols 1-2), 3rd discourse on the new moon (fol. 3). Title page of the 9th discourse (fol. 1r). Below the title of the 9th discourse on fol. 1r, there is another note in Arabic script introducing the second exposition on the aviv and the harvest (קציר). Tthis is not the title of the discourse on the aviv, which is discourse 4 in Kitāb al-Istibṣār  and does not mention קציר in the title.</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="3v"/>
+                            <locus from="1r" to="3v">1r–3v</locus>
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs=""/>

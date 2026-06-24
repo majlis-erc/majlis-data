@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#mmoliere" when="2025-05-07T17:57:48.106Z">Added work</change><change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#lgzella" status="draft">Translated Harkavy heritage data.</change>
@@ -87,7 +88,7 @@
                             </explicit>
                             <note xml:lang=""/>
                         </msItem><msItem class="" xml:id="item-12">
-      <locus from="1" to="28"/>
+      <locus from="1" to="28">1–28</locus>
       <title ref="https://jalit.org/work/38">Compendium on the fundamentals of religion (descriptive title)</title>
       <author cert="" ref=""/>
       <textLang mainLang="" otherLangs=""/>

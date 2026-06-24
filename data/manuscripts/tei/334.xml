@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T14:41:01.604Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T10:18:12.932Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -93,7 +94,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="42v"/>
+                            <locus from="1r" to="42v">1r–42v</locus>
                             <title ref="https://jalit.org/work/11">The Book of Refinement</title>
                             <author ref="https://jalit.org/person/8">Aharon ben Yešuʿa</author>
                             <textLang mainLang="ar" otherLangs=""/>

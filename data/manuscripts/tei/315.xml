@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-08-30T13:02:47.407Z">work title</change><change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
             <change when="2024-05-14" who="#external">Checked by Friederike Schmidt.</change>
@@ -73,7 +74,7 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem class="" xml:id="item-11">
-                            <locus from="101" to="105"/>
+                            <locus from="101" to="105">101–105</locus>
                             <title cert="" ref="" xml:lang="">Naqd ʿala Shemuel b. Ḥofni</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="" otherLangs=""/>

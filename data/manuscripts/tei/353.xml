@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T12:06:51.076Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T08:18:25.186Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -92,7 +93,7 @@
                             <p>Book of the Examination of the Commandments by Yosef ha-Roʾe (containing discourse 3 (on the new moon; fols 1–27), discourse 4 (on the aviv; fols 28–38), discourse 9 (on forbidden relationships; fols 38–114).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="114v"/>
+                            <locus from="1r" to="114v">1r–114v</locus>
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs=""/>

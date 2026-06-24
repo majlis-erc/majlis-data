@@ -49,6 +49,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 4 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T10:28:08.458Z">work title linkes</change><change who="#rboehm" when="2024-09-03T16:20:55.638Z">work title</change>
             <change who="#rboehm" when="2024-09-03T16:16:09.648Z">Yevr.-Arab. I 102 created</change>
             <change who="#" when=""/>
@@ -96,10 +97,10 @@
                             <note xml:lang=""><p>Containing the Commentary on the Book of Deuteronomy 16:18-22, 17:1-15, 18:4-22, 19:1-21, 20:1-17, 21:15-23, 22:1-10, 22-29, 23:1-26, 24:1-3, 10-22, 25:1-19, 26:1-19, 27:1-26, 28:1-69, 29:1-28, 30:1-20, 31:1-30, 32:1-25, 36, 39–52, 33:1-29, 34:1-12. </p><p/></note>
                         </msItem>
                         <msItem class="" xml:id="item-12">
-                            <locus from="2v" to="19v"/>
-                            <locus from="65r" to="84r"/>
-                            <locus from="108r" to="127v"/>
-                            <locus from="136"/>
+                            <locus from="2v" to="19v">2v–19v</locus>
+                            <locus from="65r" to="84r">65r–84r</locus>
+                            <locus from="108r" to="127v">108r–127v</locus>
+                            <locus from="136">136</locus>
                             <title cert="" ref="" xml:lang="">A Commentary on the Book of Deuteronomy</title>
                             <author cert="" ref="">anonymous</author>
                             <textLang mainLang="" otherLangs=""/>

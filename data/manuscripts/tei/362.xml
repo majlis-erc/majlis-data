@@ -55,6 +55,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T11:00:45.733Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T07:50:53.342Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -85,7 +86,7 @@
                             <p>Long Commentary on the Book of Leviticus by Yešuʿa ben Yehuda (Lev 11:33–43)</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="bibleCommentary">
-                            <locus from="1r" to="27v"/>
+                            <locus from="1r" to="27v">1r–27v</locus>
                             <title ref="https://jalit.org/work/19">Long Commentary on the Book of Leviticus</title>
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="ar" otherLangs="he"/>

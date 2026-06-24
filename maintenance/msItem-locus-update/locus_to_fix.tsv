@@ -1,0 +1,13 @@
+severity	ms_id	locus_xpath	locus_xpath_readable	from	to	text	issue	suggested_fix	final_fix
+ERROR	306	/*/*[2]/*/*/*/*[2]/*[3]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	68r-v, 105r	160v		RANGE_PACKED_IN_FROM		
+ERROR	330	/*/*[2]/*/*/*/*[2]/*[3]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	11r, top	(absent)		RANGE_PACKED_IN_FROM		
+ERROR	330	/*/*[2]/*/*/*/*[2]/*[4]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	11r, bottom	14v		RANGE_PACKED_IN_FROM		
+ERROR	528	/*/*[2]/*/*/*/*[2]/*[3]/*[2]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	110r-v	(absent)		RANGE_PACKED_IN_FROM	"from=""110r"" to=""110v"""	
+ERROR	1478	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	 2r	2v		WHITESPACE	"from=""2r"" to=""2v"""	
+ERROR	1497	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	 1r	2v		WHITESPACE	"from=""1r"" to=""2v"""	
+ERROR	1570	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	5r-v			RANGE_PACKED_IN_FROM	"from=""5r"" to=""5v"""	
+ERROR	1571	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	110r-v			RANGE_PACKED_IN_FROM	"from=""110r"" to=""110v"""	
+ERROR	1571	/*/*[2]/*/*/*/*[2]/*[2]/*[4]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	125r-v			RANGE_PACKED_IN_FROM	"from=""125r"" to=""125v"""	
+REVIEW	309	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	2r		SIDE_INCONSISTENT		
+REVIEW	319	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	204v		SIDE_INCONSISTENT		
+REVIEW	324	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	1	117v		SIDE_INCONSISTENT		

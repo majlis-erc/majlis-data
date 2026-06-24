@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 4 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-05-07T10:08:30.666Z">Harkavy Invt.</change>
             <change who="#rboehm" when="2024-09-06T12:21:59.274Z">work title linked (ii)</change>
             <change who="#rboehm" when="2024-09-03T15:14:38.902Z">work title (iii)</change>
@@ -93,8 +94,8 @@
                             <p>Book of the Examination of the Commandments Yosef ha-Roʾe (containing parts of discourse 1 on circumcision and of discourse 2 on Sabbath) and Questions on the Sabbath.</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="92v"/>
-                            <locus from="100r"/>
+                            <locus from="1r" to="92v">1r–92v</locus>
+                            <locus from="100r">100r</locus>
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs=""/>
@@ -114,8 +115,8 @@
                             </note>
                         </msItem>
                         <msItem xml:id="item-1.2" class="">
-                            <locus from="93r" to="99v"/>
-                            <locus from="100v"/>
+                            <locus from="93r" to="99v">93r–99v</locus>
+                            <locus from="100v">100v</locus>
                             <title ref="https://jalit.org/work/111">Questions on the Sabbath</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="" otherLangs=""/>

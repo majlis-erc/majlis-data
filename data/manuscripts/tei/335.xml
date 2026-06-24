@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T14:30:03.344Z">work title linked (ii)</change>
             <change who="#rboehm" when="2024-08-30T09:10:47.042Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -95,8 +96,8 @@
                             <p>The Comprehensive Lexicon by David al-Fāsī (containing letters ṭet, yod)</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="1r" to="1v"/>
-                            <locus from="3r" to="12v"/>
+                            <locus from="1r" to="1v">1r–1v</locus>
+                            <locus from="3r" to="12v">3r–12v</locus>
                             <title ref="https://jalit.org/work/26">The Comprehensive Lexicon</title>
                             <author ref="https://jalit.org/person/25">David al-Fāsī</author>
                             <textLang mainLang="ar" otherLangs=""/>
