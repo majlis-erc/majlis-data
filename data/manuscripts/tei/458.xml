@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,12 +13,9 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -27,13 +24,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -63,6 +65,9 @@
             <listBibl>
                 <msDesc xml:id="ms-458" status="draft">
                     <msIdentifier>
+                        <altIdentifier type="IMHM">
+      <idno>  Fiche 47 ,  MSS-D 8780 </idno>
+   </altIdentifier>
                         <country>Hungary</country>
                         <settlement>Budapest</settlement>
                         <institution>Hungarian Academy of Sciences</institution>
@@ -73,23 +78,29 @@
                             <idno>0P028</idno>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno>PNX_MANUSCRIPTS990001915320205171</idno>
+                            <idno>990001915320205171</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>The Comprehensive Book by Yosef ha-Roʾe</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
-                            <title cert="" ref="" xml:lang="">כתאב אלמחתוי</title>
+                            <title xmlns="" ref="https://jalit.org/work/90">The Comprehensive Book</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>מתי כאן עמרה מאיה סנה אן יכון חט̇ זיד פי אלוג̇וד כחט̇ה</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>למא לם יכן פי פעלה מא הו ט̇לם ולא גיר תעאלי אללה ען ד̇לך עליא כבירא</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
@@ -98,11 +109,11 @@
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
-                                <bibl status="draft">
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript318">
+                                    <idno type="">Yevr.-Arab. II 376</idno>
+                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 376</title>
+                        <ptr target="https://jalit.org/manuscript/318"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -112,13 +123,13 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">167</measure>
+                                    <measure unit="folio">168</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation with Arabic numerals at the top left corner of each recto page. Secondary pagination starting from the back of the text and written upside down in the lower outer corner of every page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -126,24 +137,28 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Well preserved, slightly stained.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
-                                    <desc/>
-                                    <note xml:lang=""/>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, left margin not perfectly justified; even interlinear spacing; mostly straight line of writing.</p>
+                                    </note>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="17">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="justification">Space fillers</metamark>
+                                    <ab type="ruling">There is ruling</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -152,31 +167,35 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <placeName ref=""/>
-                                <metamark function=""/>
-                                <origDate>1021</origDate>
+                                <placeName xmlns="" ref="https://jalit.org/place/3">Jerusalem</placeName>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
+                                <origDate when="1021">1021</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="" style="" xml:lang="">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang="he"/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Enlarged titles and incipits</desc>
+                                <note xml:lang="">
+                                    <p>Chapter headings written center-aligned in a separate line; sense dividers (colon).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="168v" to=""/>
+                                    <quote xml:lang="he">
+                                        <p>תם אלכתאב אלמחתוי ואלחמד<lb/>ללה רב אלעאלמין:<lb/>וכאן אלפראג מן נסכ̇ה פי די<lb/>אלקעדה סנה אחד [ע]שרה<lb/>וארבע מיה באלקדס:</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
@@ -205,7 +224,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
