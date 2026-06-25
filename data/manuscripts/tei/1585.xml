@@ -77,7 +77,7 @@
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
-                            <title xmlns="" ref="https://jalit.org/work/117">Commentary on the Torah (Yašar ben Ḥesed ben Yašar)</title>
+                            <title ref="https://jalit.org/work/117">Commentary on the Torah (Yašar ben Ḥesed ben Yašar)</title>
                             <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
@@ -147,8 +147,8 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" source="#" medium="">
                                 <locus from="" to=""/>
-                                <persName xmlns="" ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</persName>
-                                <placeName xmlns="" ref="https://jalit.org/place/3">Jerusalem</placeName>
+                                <persName ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</persName>
+                                <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                                 <metamark function=""/>
                                 <origDate when="" from="" to=""/>
                                 <note xml:lang=""/>
@@ -188,7 +188,7 @@
                                 <decoNote>
                                     <objectType/>
                                     <origPlace ref="https://jalit.org/place/1">
-                    <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
+                    <placeName ref="https://jalit.org/place/1">Cairo</placeName>
                 </origPlace>
                                     <origDate when="" from="" to=""/>
                                     <material/>
@@ -206,7 +206,7 @@
                             <list>
                                 <item>
                                     <note xml:lang=""/>
-                                    <persName xmlns="" ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</persName>
+                                    <persName ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</persName>
                                     <quote xml:lang=""/>
                                     <bibl xml:id="jalit-orgbiblIJ6BB28X">
                         <idno>Vestiges of Qaraite Translations in the Arabic Translation(s) of the Samaritan Pentateuch</idno>
@@ -221,18 +221,18 @@
                         <summary xml:lang=""/>
                         <provenance>
                             <date when="" from="" to=""/>
-                            <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
+                            <placeName ref="https://jalit.org/place/1">Cairo</placeName>
                             <locus from="" to=""/>
-                            <persName xmlns="" ref="https://jalit.org/person/25">David al-Fāsī</persName>
+                            <persName ref="https://jalit.org/person/25">David al-Fāsī</persName>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note xml:lang=""/>
                         </provenance>
                         <acquisition>
                             <date when="" from="" to=""/>
-                            <placeName xmlns="" ref="https://jalit.org/place/1">Cairo</placeName>
+                            <placeName ref="https://jalit.org/place/1">Cairo</placeName>
                             <locus from="" to=""/>
-                            <persName xmlns="" ref="https://jalit.org/person/6">David ben Boʿaz</persName>
+                            <persName ref="https://jalit.org/person/6">David ben Boʿaz</persName>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note xml:lang=""/>

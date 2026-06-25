@@ -87,7 +87,7 @@
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="204v">1r–204v</locus>
-                            <title xmlns="" ref="https://jalit.org/work/74">Book of Covert Ambiguity</title>
+                            <title ref="https://jalit.org/work/74">Book of Covert Ambiguity</title>
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
