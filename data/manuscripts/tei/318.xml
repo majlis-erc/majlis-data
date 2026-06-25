@@ -68,8 +68,8 @@
                 <msDesc xml:id="ms-318">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C545235 , C545236 , C545237 , C545238 , C545239 , C545240 , C545241 , C545242 , C545243</idno>
-   </altIdentifier>
+                            <idno>C545235 , C545236 , C545237 , C545238 , C545239 , C545240 , C545241 , C545242 , C545243</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -115,9 +115,9 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript458">
                                     <idno type="">Kaufmann A 280</idno>
-                        <title>Budapest, Library of the Hungarian Academy of Sciences, Ms. Kaufmann A 280</title>
-                        <ptr target="https://jalit.org/manuscript/458"/>
-                    </bibl>
+                                    <title>Budapest, Library of the Hungarian Academy of Sciences, Ms. Kaufmann A 280</title>
+                                    <ptr target="https://jalit.org/manuscript/458"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -174,10 +174,9 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                
-                                <placeName ref=""/>
-                                <metamark function="diacritics">Sparsely dotted. </metamark>
-                                <origDate>1021</origDate>
+                                <placeName xmlns="" ref="https://jalit.org/place/3">Jerusalem</placeName>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
+                                <origDate when="1021">1021</origDate>
                                 <note xml:lang="">
                                     <p>Long descenders.</p>
                                 </note>
@@ -329,12 +328,12 @@
                         </surrogates>
                         <listBibl>
                             <bibl>
-                                <title>דוד סקליר et al., כתבי היד בערבית-יהודית באוספי פירקוביץ’ - חיבורי יוסף אלבציר: קטלוג לדוגמה, מקורות ומחקרים || Judaeo-Arabic manuscripts in the Firkovitch Collections: the works of Yusuf al-Basir. A sample catalogue, texts and studies, המפעל לחקר התרבות הערבית-היהודית וספרותה, סדרת פירסומים || Center for the Study of Judaeo-Arabic Culture and Literature: Publications (Jerusalem || ירושלים: Ben-Zvi Institute for the Study of Jewish Communities in the East || מכון בן-צבי לחקר קהילות ישראל במזרח, 1997),</title>
+                                <title>דוד סקליר et al., כתבי היד בערבית-יהודית באוספי פירקוביץ’ - חיבורי יוסף אלבציר: קטלוג לדוגמה, מקורות ומחקרים || Judaeo-Arabic manuscripts in the Firkovitch Collections: the works of Yusuf al-Basir. A sample catalogue, texts and studies, המפעל לחקר התרבות הערבית-היהודית וספרותה, סדרת פירסומים || Center for the Study of Judaeo-Arabic Culture and Literature: Publications (Jerusalem || ירושלים: Ben-Zvi Institute for the Study of Jewish Communities in the East || מכון בן-צבי לחקר קהילות ישראל במזרח, 1997)</title>
                                 <citedRange unit="page">86, 115-126.</citedRange>
                                 <ptr target="https://jalit.org/bibl/WHC6W956"/>
                             </bibl>
                             <bibl>
-                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991),</title>
+                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991)</title>
                                 <citedRange unit="page">30.</citedRange>
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
