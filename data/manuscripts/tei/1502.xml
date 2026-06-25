@@ -53,8 +53,9 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
-            <change who="#mroozen" when="2026-06-15T10:57:43.239Z">add incipit/explicit, content description, manuscript joins </change>
+            <change who="#mroozen" when="2026-06-25T13:29:35.267Z">update codicological definition and content description</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change who="#mroozen" when="2026-06-15T10:57:43.239Z">add incipit/explicit, content description, manuscript joins</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
@@ -80,11 +81,11 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <title cert="" ref="" xml:lang=""> Book of Lights and Watchtowers</title>
-                            <author cert="" ref="">Yaʿqūb b. Isḥāq al-Qirqisānī</author>
+                            <author ref="https://jalit.org/person/38">Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī</author>
+                            <title xmlns="" ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī)</title>
+                            
+                            
                             <locus from="1r" to="2v">1r–2v</locus>
-                            
-                            
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="1r" to=""/>
@@ -107,53 +108,55 @@
                         <ab type="codicological-definition">
                             <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
+                                <bibl xml:id="jalit-orgmanuscript377">
+                                    <idno type="">BL, Or. 2582</idno>
+                                    <citedRange unit="folios">56-65</citedRange>
+                        <title>London, British Library, Oriental 2582</title>
+                        <ptr target="https://jalit.org/manuscript/377"/>
+                    </bibl>
+                                
                                 <bibl>
-      <ptr target=""/>
-      <citedRange unit=""/>
-      <idno type="">BL, Or. 2582</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/639"/>
+                                    <citedRange unit="folios">161-168</citedRange>
+                                    <idno type="">BL, Or. 2578.3</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target="https://jalit.org/manuscript/639"/>
-      <citedRange unit=""/>
-      <idno type="">BL, Or. 2578.3</idno>
-   </bibl>
+                                    <ptr target=" https://jalit.org/manuscript/1499"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 379</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target=" https://jalit.org/manuscript/1499"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 379</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/1497"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 347</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target="https://jalit.org/manuscript/1497"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 347</idno>
-   </bibl>
+                                    <ptr target=" https://jalit.org/manuscript/1488"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 275</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target=" https://jalit.org/manuscript/1488"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 275</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/1492"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 243</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target="https://jalit.org/manuscript/1492"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 243</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/496"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 158</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target="https://jalit.org/manuscript/496"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 158</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/1479"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 147</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target="https://jalit.org/manuscript/1479"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 147</idno>
-   </bibl>
-                                <bibl>
-      <ptr target=" https://jalit.org/manuscript/587"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 45</idno>
-   </bibl>
+                                    <ptr target=" https://jalit.org/manuscript/587"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 45</idno>
+                                </bibl>
                                 <bibl status="draft">
-                                    <idno type="manuscript-join">Arab.-Yevr. 19 </idno>
+                                    <idno type="manuscript-join">Arab.-Yevr. 19</idno>
                                     <citedRange unit="folios"/>
                                     <ptr target=" https://jalit.org/manuscript/608"/>
                                 </bibl>
@@ -259,7 +262,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
