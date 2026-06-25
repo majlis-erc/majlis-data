@@ -95,7 +95,7 @@
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="339v">1r–339v</locus>
-                            <title xmlns="" ref="https://jalit.org/work/34">Commentary on the Book of Leviticus</title>
+                            <title ref="https://jalit.org/work/34">Commentary on the Book of Leviticus</title>
                             <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
@@ -182,7 +182,7 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <persName xmlns="" ref="https://jalit.org/person/54">Yiṣḥaq ben Yiftaḥ ha-Kohen</persName>
+                                <persName ref="https://jalit.org/person/54">Yiṣḥaq ben Yiftaḥ ha-Kohen</persName>
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: Three yods with one dot above.</metamark>
                                 <metamark function="diacritics">Sparsely dotted. Abbreviations marked with a dot above the letter.</metamark>
