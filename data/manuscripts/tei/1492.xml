@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-06-25T13:07:03.124Z">add referenced section manuscript join</change>
             <change who="#mroozen" when="2026-06-25T13:03:26.173Z">update manuscript joins</change>
             <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#mroozen" when="2026-06-04T11:32:17.637Z">update data</change>
@@ -121,6 +122,7 @@
                         <ptr target="https://jalit.org/manuscript/377"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript639">
+                                    <citedRange unit="folios">161-168</citedRange>
                                     <idno type="">BL, Or. 2578</idno>
                         <title>London, British Library, Oriental 2578.3</title>
                         <ptr target="https://jalit.org/manuscript/639"/>
