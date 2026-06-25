@@ -53,6 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-06-25T13:17:34.647Z">update codicological definition and content description </change>
+            <change who="#mroozen" when="2026-06-08T14:58:47.331Z">update format; add writing material, page and text layout, script/hand description, binding</change>
             <change who="#mroozen" when="2026-06-08T14:05:23.328Z">update canonical title and author name, add incipit/explicit, manuscript joins</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -79,10 +81,9 @@
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
-                            <author cert="" ref="">Yaʿqūb b. Isḥāq al-Qirqisānī</author>
+                            <author ref="https://jalit.org/person/38">Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī</author>
                             <locus from="" to=""/>
-                            <title cert="" ref="" xml:lang="">Book of Lights and Watchtowers</title>
-                            
+                            <title xmlns="" ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī)</title>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="1r" to=""/>
@@ -103,53 +104,55 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
+                                <bibl xml:id="jalit-orgmanuscript377">
+                                    <idno type="">BL, Or. 2582</idno>
+                                    <citedRange unit="folios">56-65</citedRange>
+                        <title>London, British Library, Oriental 2582</title>
+                        <ptr target="https://jalit.org/manuscript/377"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript639">
+                                    <idno type="">BL, Or. 2578</idno>
+                                    <citedRange unit="folios">161-168</citedRange>
+                        <title>London, British Library, Oriental 2578.3</title>
+                        <ptr target="https://jalit.org/manuscript/639"/>
+                    </bibl>
                                 <bibl>
-      <ptr target=""/>
-      <citedRange unit="">56-65</citedRange>
-      <idno type="">BL, Or. 2582</idno>
-   </bibl>
+                                    <ptr target=" https://jalit.org/manuscript/1499"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 379</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target=""/>
-      <citedRange unit="folios">161-168</citedRange>
-      <idno type="">BL, Or. 2578</idno>
-   </bibl>
+                                    <ptr target=" https://jalit.org/manuscript/1497"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 347</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target=" https://jalit.org/manuscript/1499"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 379</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/1502"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 285</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target=" https://jalit.org/manuscript/1497"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 347</idno>
-   </bibl>
+                                    <ptr target=" https://jalit.org/manuscript/1492"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 243</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target="https://jalit.org/manuscript/1502"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 285</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/1477"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 158</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target=" https://jalit.org/manuscript/1492"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 243</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/1479"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 147</idno>
+                                </bibl>
                                 <bibl>
-      <ptr target="https://jalit.org/manuscript/1477"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 158</idno>
-   </bibl>
-                                <bibl>
-      <ptr target="https://jalit.org/manuscript/1479"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 147</idno>
-   </bibl>
-                                <bibl>
-      <ptr target="https://jalit.org/manuscript/587"/>
-      <citedRange unit=""/>
-      <idno type="">Arab.-Yevr. 45</idno>
-   </bibl>
+                                    <ptr target="https://jalit.org/manuscript/587"/>
+                                    <citedRange unit=""/>
+                                    <idno type="">Arab.-Yevr. 45</idno>
+                                </bibl>
                                 <bibl status="draft">
                                     <idno type="manuscript-join">Arab.-Yevr. 19</idno>
                                     <citedRange unit="folios"/>
@@ -170,15 +173,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page). Obsolete older foliation effaced.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Number of bifolia per quire: Contains the inner two bifolios of a quinion quire [-/-/-/1/2/3/4/-/-/-].</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Mostly in fair condition; slightly torn at the edges, worm-eaten, stained and faded.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -187,25 +194,27 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="13">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Rare vowel marks (e.g. fol. 3v); occasional šaddas , maddas; more regular vocalization of fatḥa tanwīn. Occasional Tiberian vowel signs for Hebrew written in Arabic script (e.g. fol. 3v, and see the description of other fragments belonging to the same codex).</metamark>
+                                <metamark function="diacritics">Sparsely dotted; occasional ihmāl-marks</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="divine-names">Rendered as اييا (e.g. fol. 2r, ll. 9, 12)</metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
@@ -219,7 +228,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Justified one-column text blocks; circled dot at the end of chapter and chapter headings and textual units<lb/>(e.g. fol 1v, l. 13; 3v, ll. 1, 7, 11).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -247,7 +258,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and threads (fols. 2v-3r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -257,7 +268,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
