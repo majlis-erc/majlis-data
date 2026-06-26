@@ -100,11 +100,15 @@
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>אם עולה קרבנו מן הבקר פביין לנא אני ואן לפט̇ת בלפט̇ ג̇מלה</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="66v" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>פהו ג̇אר מג̇רי מן יצב אלמא מן ג̇אנב אלנהר אל[..]אנבה פלא יחסן אן יאכ̇ד̇</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
