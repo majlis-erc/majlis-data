@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 8 join-bibl(s) (8 citedRange element(s)) from referenced loci.</change>
             <change who="#mroozen" when="2026-06-25T13:17:34.647Z">update codicological definition and content description </change>
             <change who="#mroozen" when="2026-06-08T14:58:47.331Z">update format; add writing material, page and text layout, script/hand description, binding</change>
             <change who="#mroozen" when="2026-06-08T14:05:23.328Z">update canonical title and author name, add incipit/explicit, manuscript joins</change>
@@ -119,43 +120,43 @@
                         <ptr target="https://jalit.org/manuscript/639"/>
                     </bibl>
                                 <bibl>
+                                    <citedRange unit="folios" from="1r" to="1v">1r–1v</citedRange>
                                     <ptr target=" https://jalit.org/manuscript/1499"/>
-                                    <citedRange unit=""/>
                                     <idno type="">Arab.-Yevr. 379</idno>
                                 </bibl>
                                 <bibl>
+                                    <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
                                     <ptr target=" https://jalit.org/manuscript/1497"/>
-                                    <citedRange unit=""/>
                                     <idno type="">Arab.-Yevr. 347</idno>
                                 </bibl>
                                 <bibl>
+                                    <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/1502"/>
-                                    <citedRange unit=""/>
                                     <idno type="">Arab.-Yevr. 285</idno>
                                 </bibl>
                                 <bibl>
+                                    <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
                                     <ptr target=" https://jalit.org/manuscript/1492"/>
-                                    <citedRange unit=""/>
                                     <idno type="">Arab.-Yevr. 243</idno>
                                 </bibl>
                                 <bibl>
+                                    <citedRange unit="folios" from="1r" to="24v">1r–24v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/1477"/>
-                                    <citedRange unit=""/>
                                     <idno type="">Arab.-Yevr. 158</idno>
                                 </bibl>
                                 <bibl>
+                                    <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/1479"/>
-                                    <citedRange unit=""/>
                                     <idno type="">Arab.-Yevr. 147</idno>
                                 </bibl>
                                 <bibl>
+                                    <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/587"/>
-                                    <citedRange unit=""/>
                                     <idno type="">Arab.-Yevr. 45</idno>
                                 </bibl>
                                 <bibl status="draft">
                                     <idno type="manuscript-join">Arab.-Yevr. 19</idno>
-                                    <citedRange unit="folios"/>
+                                    <citedRange unit="folios" from="1r" to="46v">1r–46v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/608"/>
                                 </bibl>
                             </listBibl>

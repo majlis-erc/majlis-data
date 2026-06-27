@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 3 join-bibl(s) (3 citedRange element(s)) from referenced loci.</change>
             <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#mroozen" when="2026-06-05T11:54:40.499Z">update special graphic signs</change>
             <change who="#mroozen" when="2026-06-05T11:50:56.927Z">add text layout and special graphic signs</change>
@@ -113,8 +114,8 @@
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl>
+      <citedRange unit="folios" from="1r" to="1v">1r–1v</citedRange>
       <ptr target="https://jalit.org/manuscript/1501"/>
-      <citedRange unit=""/>
       <idno type="">Arab.-Yevr. 317</idno>
    </bibl>
                                 <bibl>
@@ -123,13 +124,13 @@
       <idno type="">Arab.-Yevr. 260</idno>
    </bibl>
                                 <bibl>
+      <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
       <ptr target="https://jalit.org/manuscript/1480"/>
-      <citedRange unit=""/>
       <idno type="">Arab.-Yevr. 145</idno>
    </bibl>
                                 <bibl>
                                     <idno type="manuscript-join">Arab.-Yevr. 79</idno>
-                                    <citedRange unit="folios"/>
+                                    <citedRange unit="folios" from="1r" to="19v">1r–19v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/555"/>
                                 </bibl>
                             </listBibl>

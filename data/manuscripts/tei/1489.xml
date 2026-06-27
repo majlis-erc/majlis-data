@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 4 join-bibl(s) (4 citedRange element(s)) from referenced loci.</change>
             <change who="#mroozen" when="2026-06-08T08:52:51.074Z">add incipit/explicit, writing material, page and text layout, script/hand description, binding </change>
             <change who="#mroozen" when="2026-06-08T08:12:21.304Z">add content description and manuscript joins</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -106,23 +107,23 @@
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl>
+      <citedRange unit="folios" from="1r" to="1v">1r–1v</citedRange>
       <ptr target="https://jalit.org/manuscript/1501"/>
-      <citedRange unit=""/>
       <idno type="">Arab.-Yevr. 317</idno>
    </bibl>
                                 <bibl>
+      <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
       <ptr target=" https://jalit.org/manuscript/1480"/>
-      <citedRange unit=""/>
       <idno type="">Arab.-Yevr. 145</idno>
    </bibl>
                                 <bibl>
+      <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
       <ptr target="https://jalit.org/manuscript/1474"/>
-      <citedRange unit=""/>
       <idno type="">Arab.-Yevr. 180</idno>
    </bibl>
                                 <bibl status="draft">
                                     <idno type="manuscript-join">Arab.-Yevr. 79</idno>
-                                    <citedRange unit="folios"/>
+                                    <citedRange unit="folios" from="1r" to="19v">1r–19v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/555"/>
                                 </bibl>
                             </listBibl>

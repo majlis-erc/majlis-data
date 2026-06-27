@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
             <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#mmoliere" when="2026-06-08T08:30:02.102Z">Changed incodicated document.
 </change>
@@ -143,8 +144,8 @@
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl>
-                                    <citedRange unit="">128r-132v</citedRange>
                                     <idno type="manuscript-join">Yevr.-Arab. II 1039.40</idno>
+                                    <citedRange unit="folios" from="128r" to="132v">128r–132v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/894"/>
                                 </bibl>
                             </listBibl>

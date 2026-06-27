@@ -1,0 +1,4 @@
+ref_ms_id	locus_xpath	locus_xpath_readable	locus_text	issue
+1571	/*/*[2]/*/*/*/*[2]/*[2]/*[3]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	"from=""110r-v"""	"@from contains a combined range (""110r-v""); split into separate @from and @to attributes"
+1571	/*/*[2]/*/*/*/*[2]/*[2]/*[4]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	"from=""125r-v"""	"@from contains a combined range (""125r-v""); split into separate @from and @to attributes"
+1570	/*/*[2]/*/*/*/*[2]/*[2]/*[1]	TEI/text/body/listBibl/msDesc/msContents/msItem/locus	"from=""5r-v"""	"@from contains a combined range (""5r-v""); split into separate @from and @to attributes"

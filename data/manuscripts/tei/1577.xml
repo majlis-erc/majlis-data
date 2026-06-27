@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 7 join-bibl(s) (7 citedRange element(s)) from referenced loci.</change>
             <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#" when=""/>
         </revisionDesc>
@@ -104,36 +105,43 @@
                                 <bibl xml:id="jalit-orgmanuscript1578">
                                     <idno type="">Yevr.-Arab. I 922</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 922</title>
+                        <citedRange unit="folios" from="1r" to="1v">1r–1v</citedRange>
                         <ptr target="https://jalit.org/manuscript/1578"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1576">
                                     <idno type="">Yevr.-Arab. II 1005.5</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1005.05</title>
+                        <citedRange unit="folios" from="7r" to="8v">7r–8v</citedRange>
                         <ptr target="https://jalit.org/manuscript/1576"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1575">
                                     <idno type="">Yevr.-Arab. I 2759</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 2759</title>
+                        <citedRange unit="folios" from="1r" to="1v">1r–1v</citedRange>
                         <ptr target="https://jalit.org/manuscript/1575"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript313">
                                     <idno type="">Yevr.-Arab. II 2542</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 2542</title>
+                        <citedRange unit="folios" from="1r" to="1v">1r–1v</citedRange>
                         <ptr target="https://jalit.org/manuscript/313"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript311">
                                     <idno type="">Yevr.-Arab. II 3020</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3020</title>
+                        <citedRange unit="folios" from="1r" to="1v">1r–1v</citedRange>
                         <ptr target="https://jalit.org/manuscript/311"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript345">
                                     <idno type="">Yevr.-Arab. I 1903</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1903</title>
+                        <citedRange unit="folios" from="1r" to="3v">1r–3v</citedRange>
                         <ptr target="https://jalit.org/manuscript/345"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript360">
                                     <idno type="">Yevr.-Arab. I 996</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 996</title>
+                        <citedRange unit="folios" from="1r" to="36v">1r–36v</citedRange>
                         <ptr target="https://jalit.org/manuscript/360"/>
                     </bibl>
                             </listBibl>

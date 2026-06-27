@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
             <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 reviewed locus fix(es); 3 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-04-13T18:07:53.217Z">ID fix</change>
             <change who="#rboehm" when="2024-09-06T10:38:00.840Z">work title linked</change>
@@ -119,6 +120,7 @@
                                 <bibl xml:id="jalit-orgmanuscript1570">
                                     <idno type="">Yevr.-Arab. I 756.2</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.2</title>
+                        <citedRange unit="folios" from="5r" to="5v">5r–5v</citedRange>
                         <ptr target="https://jalit.org/manuscript/1570"/>
                     </bibl>
                             </listBibl>
