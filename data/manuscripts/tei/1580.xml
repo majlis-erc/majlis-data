@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 4 join-bibl(s) (4 citedRange element(s)) from referenced loci.</change>
             <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -110,21 +111,25 @@
                                 <bibl xml:id="jalit-orgmanuscript1583">
                                     <idno type="">Yevr.-Arab. II 2951</idno>
                                     <title>Yevr.-Arab. II 2951</title>
+                                    <citedRange unit="folios" from="1r" to="1v">1r–1v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/1583"/>
                                 </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1582">
                                     <idno type="">Yevr.-Arab. II 2949</idno>
                                     <title>Yevr.-Arab. II 2949</title>
+                                    <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/1582"/>
                                 </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1581">
                                     <idno type="">Yevr.-Arab. I 318</idno>
                                     <title>Yevr.-Arab. I 318</title>
+                                    <citedRange unit="folios" from="1r" to="9v">1r–9v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/1581"/>
                                 </bibl>
                                 <bibl xml:id="jalit-orgmanuscript353">
                                     <idno type="">Yevr.-Arab. I 1794</idno>
                                     <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 1794</title>
+                                    <citedRange unit="folios" from="1r" to="114v">1r–114v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/353"/>
                                 </bibl>
                             </listBibl>

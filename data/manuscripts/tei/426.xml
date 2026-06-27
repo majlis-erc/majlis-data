@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 3 join-bibl(s) (3 citedRange element(s)) from referenced loci.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#lgzella" status="draft">Translated Harkavy heritage data.</change>
@@ -111,16 +112,19 @@
                                 <bibl xml:id="jalit-orgmanuscript519">
                                     <idno type="">Yevr.-Arab. I 917</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 917</title>
+                        <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
                         <ptr target="https://jalit.org/manuscript/519"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript307">
                                     <idno type="">Yevr.-Arab. I 83</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 83</title>
+                        <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
                         <ptr target="https://jalit.org/manuscript/307"/>
                     </bibl>
                                 <bibl xml:id="jalit-orgmanuscript315">
                                     <idno type="">Yevr.-Arab. II 1089.67</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1089.67</title>
+                        <citedRange unit="folios" from="101" to="105">101–105</citedRange>
                         <ptr target="https://jalit.org/manuscript/315"/>
                     </bibl>
                             </listBibl>

@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
             <change who="#mroozen" when="2026-06-08T17:25:08.447Z">add bookbinding description</change>
             <change who="#mroozen" when="2026-06-08T17:22:28.630Z">add manuscript joins, content description, writing material, page and text layout, script/hand description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -113,7 +114,7 @@
    </bibl>
                                 <bibl status="draft">
                                     <idno type="manuscript-join">Arab.-Yevr. 193</idno>
-                                    <citedRange unit="folios"/>
+                                    <citedRange unit="folios" from="1r" to="3v">1r–3v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/1481"/>
                                 </bibl>
                             </listBibl>

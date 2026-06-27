@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
@@ -109,6 +110,7 @@
                                 <bibl xml:id="jalit-orgmanuscript317">
                                     <idno type="">Yevr.-Arab. II 1039.02</idno>
                         <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1039.02</title>
+                        <citedRange unit="folios" from="7r" to="36v">7r–36v</citedRange>
                         <ptr target="https://jalit.org/manuscript/317"/>
                     </bibl>
                             </listBibl>

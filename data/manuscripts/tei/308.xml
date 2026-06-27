@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 2 join-bibl(s) (3 citedRange element(s)) from referenced loci.</change>
             <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-05-06T22:23:58.334Z">Bundle Nr.</change>
             <change who="#rboehm" when="2024-09-06T09:39:07.966Z">work link</change>
@@ -112,10 +113,13 @@
                             <listBibl>
                                 <bibl>
                                     <idno type="">Yevr.-Arab. I 86.2</idno>
+                                    <citedRange unit="folios" from="68r" to="68v">68r–68v</citedRange>
+                                    <citedRange unit="folios" from="105r" to="160v">105r–160v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/306"/>
                                 </bibl>
                                 <bibl>
                                     <idno type="manuscript-join">Yevr.-Arab. I 87</idno>
+                                    <citedRange unit="folios" from="1r" to="3v">1r–3v</citedRange>
                                     <ptr target="https://jalit.org/manuscript/305"/>
                                 </bibl>
                             </listBibl>

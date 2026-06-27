@@ -1,0 +1,37 @@
+host_ms	bibl_xml_id	bibl_xpath_readable	ref_ms	target	ref_resolvable	would_add	would_remove	would_keep	severity	issues
+96		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	304	https://jalit.org/manuscript/304	no				BLOCKER	MULTIPLE_PTRS
+329	jalit-orgmanuscript422	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	422	https://jalit.org/manuscript/422	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+355	jalit-orgmanuscript349	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	349	https://jalit.org/manuscript/349	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+355	jalit-orgmanuscript1579	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	1579	https://jalit.org/manuscript/1579	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+355	jalit-orgmanuscript411	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	411	https://jalit.org/manuscript/411	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+411		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	349	https://jalit.org/manuscript/349	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+587		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	377	 https://jalit.org/manuscript/377	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+587		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	639	 https://jalit.org/manuscript/639	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+587		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	1477	https://jalit.org/manuscript/1477	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+587		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	608	https://jalit.org/manuscript/608	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+613	jalit-orgmanuscript876	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	876	https://jalit.org/manuscript/876	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1477		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	377	 https://jalit.org/manuscript/377	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1477		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	639	https://jalit.org/manuscript/639	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1477		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	1502	https://jalit.org/manuscript/1502	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+1477		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	608	https://jalit.org/manuscript/608	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+1479		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	377	: https://jalit.org/manuscript/377	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1479		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	639	 https://jalit.org/manuscript/639	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1479		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	608	https://jalit.org/manuscript/608	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+1488	jalit-orgmanuscript377	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	377	https://jalit.org/manuscript/377	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1488	jalit-orgmanuscript639	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	639	https://jalit.org/manuscript/639	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1488		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	608	https://jalit.org/manuscript/608	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+1490		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	1485	https://jalit.org/manuscript/1485	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1492	jalit-orgmanuscript377	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	377	https://jalit.org/manuscript/377	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1492	jalit-orgmanuscript639	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	639	https://jalit.org/manuscript/639	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1492		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	608	https://jalit.org/manuscript/608	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+1497		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	377	 https://jalit.org/manuscript/377	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1497		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	639	https://jalit.org/manuscript/639	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1497		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	608	https://jalit.org/manuscript/608	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+1499		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	377	https://jalit.org/manuscript/377	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1499		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	639	https://jalit.org/manuscript/639	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1499		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	608	https://jalit.org/manuscript/608	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+1502	jalit-orgmanuscript377	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	377	https://jalit.org/manuscript/377	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1502		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	639	https://jalit.org/manuscript/639	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1502		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	496	https://jalit.org/manuscript/496	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
+1502		TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	608	 https://jalit.org/manuscript/608	yes	1	0	0	REVIEW	BIDIRECTIONAL_MISMATCH
+1585	jalit-orgmanuscript459	TEI/text/body/listBibl/msDesc/physDesc/ab/listBibl/bibl	459	https://jalit.org/manuscript/459	yes	0	0	0	REVIEW	REF_NO_LOCI;BIDIRECTIONAL_MISMATCH
