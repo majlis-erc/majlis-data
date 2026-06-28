@@ -84,7 +84,7 @@
                         <msItem xml:id="item-1.1" class="">
                             <author ref="https://jalit.org/person/38">Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī</author>
                             <locus from="" to=""/>
-                            <title xmlns="" ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī)</title>
+                            <title ref="https://jalit.org/work/18">Book of Lights and Watchtowers (Abū Yūsuf Yaʿqūb b. Isḥāq b. Samʿawayh al-Qirqisānī)</title>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="1r" to=""/>
