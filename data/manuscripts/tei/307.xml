@@ -90,7 +90,7 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="2v">1r–2v</locus>
-                            <title xmlns="" ref="https://jalit.org/work/94">Refutation of Samuel, the Head of the (Sura) Academy</title>
+                            <title ref="https://jalit.org/work/94">Refutation of Samuel, the Head of the (Sura) Academy</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>

@@ -87,7 +87,7 @@
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
-                            <title xmlns="" ref="https://jalit.org/work/90">The Comprehensive Book</title>
+                            <title ref="https://jalit.org/work/90">The Comprehensive Book</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
@@ -167,7 +167,7 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <placeName xmlns="" ref="https://jalit.org/place/3">Jerusalem</placeName>
+                                <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                                 <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <origDate when="1021">1021</origDate>
                                 <note xml:lang=""/>
