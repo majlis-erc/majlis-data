@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 3 join-bibl(s) (3 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 3 join-bibl(s) (3 citedRange element(s)) from referenced loci.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2022-10-01" who="#lgzella" status="draft">Translated Harkavy heritage data.</change>
@@ -67,8 +67,8 @@
                 <msDesc status="draft">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C684837 , C684838 , C684839 , C684840 , C684841 , C684842 , C684843 , C684844 , C684845 , C684846</idno>
-   </altIdentifier>
+                            <idno>C684837 , C684838 , C684839 , C684840 , C684841 , C684842 , C684843 , C684844 , C684845 , C684846</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -82,19 +82,25 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Refutation of Samuel, the Head of the (Sura) Academy by Yosef ha-Roʾe</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
-                            <title cert="" ref="" xml:lang="">אלנקץ̇ עלי שמואל ראס אלמת̇יבה̈</title>
+                            <title xmlns="" ref="https://jalit.org/work/94">Refutation of Samuel, the Head of the (Sura) Academy</title>
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r, lines 6-7" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>נפסר מן בעד מעארצ̇תה מן יסתדל עלי יצחה מא יד̇הב אליה בדליל</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>או ליס כאן ד̇לך צחיחא לקד כאן מן נחק? [אב]ו אלחסין [...]שיך וגירה</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
@@ -105,28 +111,27 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript424">
                                     <idno type="">Yevr.-Arab. II 3092</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. II 3092</title>
-                        <ptr target="https://jalit.org/manuscript/424"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3092</title>
+                                    <ptr target="https://jalit.org/manuscript/424"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript519">
                                     <idno type="">Yevr.-Arab. I 917</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 917</title>
-                        <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
-                        <ptr target="https://jalit.org/manuscript/519"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 917</title>
+                                    <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/519"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript307">
                                     <idno type="">Yevr.-Arab. I 83</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 83</title>
-                        <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
-                        <ptr target="https://jalit.org/manuscript/307"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 83</title>
+                                    <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/307"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript315">
                                     <idno type="">Yevr.-Arab. II 1089.67</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1089.67</title>
-                        <citedRange unit="folios" from="101" to="105">101–105</citedRange>
-                        <ptr target="https://jalit.org/manuscript/315"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1089.67</title>
+                                    <citedRange unit="folios" from="101" to="105">101–105</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/315"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -142,7 +147,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation with Arabic numerals at the bottom center of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -150,24 +155,29 @@
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Torn at the top, stained and faded in places, small holes, some loss of text.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Partly legible. </ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
-                                    <desc/>
-                                    <note xml:lang=""/>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, left margin not perfectly justified; even interlinear spacing; straight line of writing.</p>
+                                    </note>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="20">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Space fillers</metamark>
+                                    <metamark function="justification">Extended letters</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -177,13 +187,16 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="vocalization"> Rare use of Tiberian vowel signs.</metamark>
+                                <metamark function="diacritics">Sparsely dotted. Abbreviated words marked by a dot above the letter.</metamark>
                                 <origDate>1100-1300?</origDate>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Some corrections (crossed out words, sometimes also marked by dots above the letters).</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="oriental" style="square" xml:lang="he">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
@@ -191,7 +204,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Identation of the first line of a new paragraph, sense dividers (dot and colon, followed by blank space).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -325,11 +340,13 @@
                         </surrogates>
                         <listBibl>
                             <bibl status="draft">
-                                <title>דוד סקליר et al., כתבי היד בערבית-יהודית באוספי פירקוביץ’ - חיבורי יוסף אלבציר: קטלוג לדוגמה, מקורות ומחקרים || Judaeo-Arabic manuscripts in the Firkovitch Collections: the works of Yusuf al-Basir. A sample catalogue, texts and studies, המפעל לחקר התרבות הערבית-היהודית וספרותה, סדרת פירסומים || Center for the Study of Judaeo-Arabic Culture and Literature: Publications (Jerusalem || ירושלים: Ben-Zvi Institute for the Study of Jewish Communities in the East || מכון בן-צבי לחקר קהילות ישראל במזרח, 1997).</title>
+                                <title>דוד סקליר et al., כתבי היד בערבית-יהודית באוספי פירקוביץ’ - חיבורי יוסף אלבציר: קטלוג לדוגמה, מקורות ומחקרים || Judaeo-Arabic manuscripts in the Firkovitch Collections: the works of Yusuf al-Basir. A sample catalogue, texts and studies, המפעל לחקר התרבות הערבית-היהודית וספרותה, סדרת פירסומים || Center for the Study of Judaeo-Arabic Culture and Literature: Publications (Jerusalem || ירושלים: Ben-Zvi Institute for the Study of Jewish Communities in the East || מכון בן-צבי לחקר קהילות ישראל במזרח, 1997)</title>
+                                <citedRange unit="">97.</citedRange>
                                 <ptr target="https://jalit.org/bibl/WHC6W956"/>
                             </bibl>
                             <bibl status="draft">
-                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991).</title>
+                                <title>Paul B. Fenton, A handlist of Judeo-Arabic manuscripts in Leningrad. A tentative handlist of Judeo-Arabic manuscripts in the Firkovic Collections -רשימת כתבי-יד בערבית-יהודית בלנינגרד: רשימה ארעית של כתבי-יד בערבית-יהודית באוספי פירקוביץ (Jerusalem: Ben-Zvi Institute, 1991)</title>
+                                <citedRange unit="">130.</citedRange>
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
                             <bibl status="draft">
