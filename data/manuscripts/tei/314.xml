@@ -84,13 +84,13 @@
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang="">
-                            <p>Book of Commandments by Levi ben Yefet ben ʿEli (containing a section on the Aviv)</p>
+                            <p>Book of Commandments by Yefet ben ʿEli (containing a section on the Aviv)</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="12r" to="v">12</locus>
-                            <title xmlns="" ref="https://jalit.org/work/20">Book of Commandments (Levi ben Yefet ben ʿEli)</title>
+                            <title xmlns="" ref="https://jalit.org/work/123">Book of Commandments</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="12r, lines 4-6" to=""/>
                                 <quote xml:lang="ar-Hebr">
@@ -99,7 +99,7 @@
                             </incipit>
                             <explicit>
                                 <locus from="12v, lines 21-22" to=""/>
-                                <quote xml:lang="">
+                                <quote xml:lang="ar-Hebr">
                                     <p>ואנמא יערף אלזמאן בגיר אלמפתריץ̇ פיה [...] ראשון סמי חדש אביב לוג̇ב שרע אל [...]</p>
                                 </quote>
                             </explicit>
