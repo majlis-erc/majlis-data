@@ -52,10 +52,10 @@
             <listPerson>
                 <person xml:id="person-48">
                     <persName xml:id="name-1" source="#" xml:lang="he-Latn" type="majlis-headword">
-                        <name>Moshe ben Yiftaḥ ha-Kohen al-Raḥabī</name>
+                        <name>Moše ben Yiftaḥ ha-Kohen al-Raḥabī</name>
                     </persName>
-                    <persName xml:id="name-2" source="#" xml:lang="ar-Latn" type="majlis-headword">
-                        <name/>
+                    <persName xml:id="name-2" source="#" xml:lang="he" type="majlis-headword">
+                        <name>משה בן יפתח הכהן אלרחבי</name>
                     </persName>
                     <persName xml:id="name-3" source="#" type="attested" xml:lang="he">
                         <name/>
@@ -127,7 +127,6 @@
                         <placeName ref="" cert=""/>
                     </residence>
                     <bibl xml:id="" type="">
-                        
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
@@ -151,7 +150,6 @@
                 <persName/>
                 <quote xml:lang=""/>
                 <bibl xml:id="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
