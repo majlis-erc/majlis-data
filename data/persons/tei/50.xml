@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Avraham ben Shabtay</title>
+                <title level="a" xml:lang="en">Avraham ben Šabtay</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -52,10 +52,10 @@
             <listPerson>
                 <person xml:id="person-50">
                     <persName xml:id="name-1" source="#" xml:lang="he-Latn" type="majlis-headword">
-                        <name>Avraham ben Shabtay</name>
+                        <name>Avraham ben Šabtay</name>
                     </persName>
-                    <persName xml:id="name-2" source="#" xml:lang="ar-Latn" type="majlis-headword">
-                        <name/>
+                    <persName xml:id="name-2" source="#" xml:lang="he" type="majlis-headword">
+                        <name>אברהם בן שבתי</name>
                     </persName>
                     <persName xml:id="name-3" source="#" type="attested" xml:lang="he">
                         <name/>
@@ -127,7 +127,6 @@
                         <placeName ref="" cert=""/>
                     </residence>
                     <bibl xml:id="" type="">
-                        
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
@@ -151,7 +150,6 @@
                 <persName/>
                 <quote xml:lang=""/>
                 <bibl xml:id="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
