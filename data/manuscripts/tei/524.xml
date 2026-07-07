@@ -86,7 +86,7 @@
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="v"/>
                             <title ref="https://jalit.org/work/34">Commentary on the Book of Leviticus</title>
-                            <author ref=""/>
+                            <author ref="https://jalit.org/person/6">David ben Boʿaz (?)</author>
                             <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="" to=""/>
