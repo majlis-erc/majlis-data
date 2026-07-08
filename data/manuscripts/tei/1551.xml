@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,24 +13,29 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/><editor role="creator" ref=""/>
-            <editor role="entry-editor"/><editor role="contributor">Jonathan Beise</editor><editor role="contributor">Jasper Bernhofer</editor><editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
                 <editor xml:id="afuchs" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html">Annabelle Fuchs</editor>
                 <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">Nathan P. Gibson</editor>
                 <editor xml:id="lgzella" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/lea_gzella_rasche/index.html">Lea Gzella</editor>
                 <editor xml:id="plakteikina" role="contributor" ref="https://de.linkedin.com/in/polina-lakteikina-a2b6771a3">Polina Lakteikina</editor>
-                <editor role="contributor">Sara Mattutat</editor><editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor role="contributor">Sara Mattutat</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
                 <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
-                <editor role="contributor">Masoumeh Seydi</editor><editor role="contributor">Jakob Shub-Oseledchik</editor><editor role="contributor">Ezra Stadler</editor><editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor role="contributor">Masoumeh Seydi</editor>
+                <editor role="contributor">Jakob Shub-Oseledchik</editor>
+                <editor role="contributor">Ezra Stadler</editor>
+                <editor xml:id="ptarras" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html">Peter Tarras</editor>
                 <editor xml:id="nurbiczek" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -39,37 +44,41 @@
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>
-<lb/>                            </p>
+                            <lb/>
+                        </p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <p>
-<lb/>                    </p>
+                    <lb/>
+                </p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 4 locus text value(s) added from @from/@to.</change>
-            <change who="#rboehm" when="2024-09-06T10:28:08.458Z">work title linkes</change><change who="#rboehm" when="2024-09-03T16:20:55.638Z">work title</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 4 locus text value(s) added from @from/@to.</change>
+            <change who="#rboehm" when="2024-09-06T10:28:08.458Z">work title linkes</change>
+            <change who="#rboehm" when="2024-09-03T16:20:55.638Z">work title</change>
             <change who="#rboehm" when="2024-09-03T16:16:09.648Z">Yevr.-Arab. I 102 created</change>
             <change who="#" when=""/>
-        <change when="2025-03-27" who="#mmoliere">Updated scan link.</change></revisionDesc>
+            <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <listBibl>
                 <msDesc xml:id="ms-1551">
                     <msIdentifier>
-                        <country/>
-                        <settlement/>
-                        <repository/>
-                        <collection/>
-                        <idno/>
+                        <country>Russia</country>
+                        <settlement>St. Petersburg</settlement>
+                        <repository>National Library of Russia</repository>
+                        <collection>Yevr.-Arab. I</collection>
+                        <idno>102</idno>
                         <altIdentifier type="SfarData">
                             <idno/>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno/>
+                            <idno>990001522640205171</idno>
                         </altIdentifier>
                         <altIdentifier type="FGP">
                             <idno/>
@@ -80,12 +89,17 @@
                         <msName/>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
-                        <msItem class="" xml:id="item-11">
-                            <locus from="" to=""/>
+                        <summary xml:lang="">
+                            <p>Containing the Commentary on the Book of Deuteronomy by Yefet ben ʿEli (containing the commentary on Deut 16:18-22, 17:1-15, 18:4-22, 19:1-21, 20:1-17, 21:15-23, 22:1-10, 22-29, 23:1-26, 24:1-3, 10-22, 25:1-19, 26:1-19, 27:1-26, 28:1-69, 29:1-28, 30:1-20, 31:1-30, 32:1-25, 36, 39–52, 33:1-29, 34:1-12) and an unidentified Commentary on the Book of Deuteronomy, not by Yešuʿa ben Yehuda, but possibly by Sahl ben Maṣliaḥ or David ben Boʿaz (?)</p>
+                        </summary>
+                        <msItem xml:id="item-1.1" class="">
+                            <locus from="20r" to="64v"/>
+                            <locus from="84r" to="107v"/>
+                            <locus from="128r" to="135v"/>
+                            <locus from="136v" to="152v"/>
                             <title ref="https://jalit.org/work/13">Commentary on the Book of Deuteronomy</title>
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
                                 <locus from="" to=""/>
                                 <quote xml:lang=""/>
@@ -94,14 +108,14 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang=""/>
                             </explicit>
-                            <note xml:lang=""><p>Containing the Commentary on the Book of Deuteronomy 16:18-22, 17:1-15, 18:4-22, 19:1-21, 20:1-17, 21:15-23, 22:1-10, 22-29, 23:1-26, 24:1-3, 10-22, 25:1-19, 26:1-19, 27:1-26, 28:1-69, 29:1-28, 30:1-20, 31:1-30, 32:1-25, 36, 39–52, 33:1-29, 34:1-12. </p><p/></note>
+                            <note xml:lang=""/>
                         </msItem>
-                        <msItem class="" xml:id="item-12">
+                        <msItem xml:id="item-1.2" class="">
                             <locus from="2v" to="19v">2v–19v</locus>
                             <locus from="65r" to="84r">65r–84r</locus>
                             <locus from="108r" to="127v">108r–127v</locus>
                             <locus from="136">136</locus>
-                            <title cert="" ref="" xml:lang="">A Commentary on the Book of Deuteronomy</title>
+                            <title cert="" ref="" xml:lang="">Commentary on the Book of Deuteronomy</title>
                             <author cert="" ref="">anonymous</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
@@ -112,12 +126,12 @@
                                 <locus from="" to=""/>
                                 <quote xml:lang=""/>
                             </explicit>
-                            <note xml:lang=""><p>Not by Yeshuʿah b. Yehudah. </p><p/></note>
+                            <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType rend="vertical-rectangle" style="codex">Multiple text manuscript</objectType>
                             <listBibl>
                                 <bibl>
                                     <idno type="manuscript-join"/>
@@ -129,69 +143,86 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material/>
+                                    <material>Paper</material>
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio"/>
+                                    <measure unit="folio">152</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style="foliation" rendition="modern">Modern pencil foliation in Arabic numerals at the bottom or top center of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Catchwords at the end of quires</catchwords>
+                                    <catchwords>Signatures at the end of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Hebrew numerals at the top right corner of the first page of a quire (see fol. 77r), catchwords on the opposing page in the lower left corner.</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab type="writing" rend=""/>
+                                    <note xml:lang="">
+                                        <p>Torn and stained in places, some pages containing holes.</p>
+                                    </note>
+                                    <ab type="writing" rend="visible">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <summary><p>
-<lb/>  </p><p> </p><p/></summary>
-                                <layout writtenLines="" columns="" xml:id="layout-1111">
+                                <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout, dense text block, left margin mostly evenly justified; crowded lines ; irregular line of writing (occasionally convex, slanting upwards).</p>
+                                    </note>
+                                    <p>
+                                        <lb/>
+                                    </p>
+                                    <p/>
+                                    <p/>
+                                </summary>
+                                <layout xml:id="layout-1.1.1.1" writtenLines="1" columns="34-38">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="justification">Writing above the line horizontal</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <summary xml:lang=""/>
-                            <handNote medium="" xml:id="hand-111">
+                            <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="divine-names">Tetragrammaton: yods with symbols/abbreviation signs.</metamark>
+                                <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter. </metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote xml:lang="" script="" style="" rend="">
+                            <scriptNote xml:lang="he" script="oriental" style="square" rend="careless">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                
+                                <note xml:lang="">
+                                    <p>Sense dividers (dot).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
                             <list>
-                                <item xml:id="add-1111">
+                                <item xml:id="add-1.1.1.1">
                                     <objectType/>
                                     <persName ref="" role="mentioned"/>
                                     <placeName ref="" role="mentioned"/>
@@ -226,7 +257,7 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        <title/>
+                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -259,7 +290,7 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    <title/>
+                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
@@ -267,7 +298,7 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="">
-                                <title/>
+                                
                                 <citedRange unit="p"/>
                                 <ptr target=""/>
                             </bibl>
