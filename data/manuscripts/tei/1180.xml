@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-13T14:30:02.564Z">add additional properties of the manuscript, page and text layout, script/hand description</change>
             <change who="#mroozen" when="2026-07-13T14:20:00.628Z">add manuscript join and update content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -114,6 +115,7 @@
                         </ab>
                         <objectDesc>
                             <supportDesc>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page)</foliation>
                                 <support>
                                     <material>Paper</material>
                                     <note xml:lang=""/>
@@ -125,15 +127,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="original" style="foliation">Hindu-Arabic numeral placed in the top left-hand corners of fol. 2r (6?21)</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>quinion</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>well-preserved; slightly stained and cracked in places; torn-off upper margin</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -142,7 +148,7 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="11">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -154,15 +160,19 @@
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function=""/>
+                                <metamark function="vocalization">Very rare vowel marks and tanwīn (e.g. fol. 2v, l. 6).</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sporadic dotting</metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Horizontally stretched final letters at end of lines (e.g. fol. 2v, l. 2; 3v, l. 5)</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -174,7 +184,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Circled dot at the end of chapters and sense units (e.g. fol. 1v, l. 8); triple dots arranged in a triangle (fol. 2r, l. 11);</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
