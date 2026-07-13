@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-13T12:15:43.851Z">update codicological definition; add additional properties of the page, text and page layout, incodicated documents</change>
             <change who="#mroozen" when="2026-07-13T11:57:04.891Z">add content summary, update bibliographic reference and content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -102,7 +103,7 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl status="draft">
                                     <idno type="manuscript-join"/>
@@ -124,15 +125,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>quinion</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Tear penetrates the text block in the upper center of the bifolio.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -141,7 +146,7 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="15–17">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -153,15 +158,18 @@
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Rare vowel marks (e.g. fol. 2r, l. 6) in Arabic.</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sporadic dotting</metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Occasional corrections in the outer margins</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -173,7 +181,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>The chapter title on fol. 1r is formatted as a centered block with increased left and right margins; circled dot at the end of chapters and sense units (e.g. fol. 2r, l. 13).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -183,7 +193,9 @@
                                     <persName ref="" role="mentioned"/>
                                     <locus from="" to=""/>
                                     <quote xml:lang=""/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Fol. 1r: Reader’s note in the margin of the chapter heading:<lb/>بلغت [..] الدرس والمقابلة<lb/>بلغ قراة خامسة<lb/>بلغ قراة سادسة</p>
+                                    </note>
                                 </item>
                             </list>
                         </additions>
