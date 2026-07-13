@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-13T10:44:01.804Z">add text and page layout, script/hand description, binding description, content summary </change>
             <change who="#mroozen" when="2026-07-13T10:21:42.652Z">update content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -78,7 +79,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Contains the end of the second maqāla of Kitāb al-Istibṣār on the Sabbath and the first of two questions (masāʾil) appended to it.</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
                             <locus from="1r" to="6v"/>
@@ -102,7 +105,7 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl status="draft">
                                     <idno type="manuscript-join"/>
@@ -113,6 +116,7 @@
                         </ab>
                         <objectDesc>
                             <supportDesc>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page)</foliation>
                                 <support>
                                     <material>Paper</material>
                                     <note xml:lang=""/>
@@ -124,15 +128,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">Historic bifolio numbers: Hindu-Arabic numerals placed in the top left-hand corners of fols. 1r (*63), 2r (*64), 3r (*65) [or should it be read as 673, 674, 675?]</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>quinion</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>well-preserved; stained in places; torn-off upper corners</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -141,7 +149,7 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="11">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -153,15 +161,18 @@
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Very rare vowel marks and tanwīn (e.g. fol. 1r, l. 9).</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sporadic dotting</metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Horizontally stretched final letters in title words (e.g. fol. 3r, l. 5; 3v, ll. 1, 10)</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -173,7 +184,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>The closing statement of the second maqāla is formatted as a centered block with increased left and right margins; circled dot at the end of chapters and sense units (e.g. fol. 2r, l. 3; 6v, l. 7).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -201,7 +214,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and thread (fols. 3v-4r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
