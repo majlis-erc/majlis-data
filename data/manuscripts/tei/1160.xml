@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-14T09:11:57.706Z">add additional properties of the manuscript, text and page layout, ownership statement, binding description </change>
             <change who="#mroozen" when="2026-07-14T08:53:35.890Z">update content description</change>
             <change who="#mroozen" when="2026-07-14T08:40:05.340Z">update bibliographic reference</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -128,15 +129,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page)</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>quinion</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>worm-eaten, stained and cracked in places.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -145,27 +150,30 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="11">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Very rare vowel marks and tanwīn (e.g. fol. 8v, l. 11).</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sporadic dotting</metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Conspicuous graphic habits: Occasional interlinear placement of line-ending words to preserve the left margin (e.g. fol. 6v, ll. 9–11).</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -177,16 +185,20 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Chapter headings and subheadings are formatted as a centered block with increased left and right margins (fol. 3v, ll. 9–11); circled dot (e.g. fol. 3v, ll. 3; 8) at the end of chapters, chapter headings, and sense units.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Ownership statements</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="1r" to=""/>
+                                    <quote xml:lang="he">
+                                        <p>משק..ה אלעזר בן ישועה / בן אברהם בן חלפון בן יפת / בן אברהם נוחם ע[דן]<lb/>קניתי אני שלמה / בן דוד בן שמואל בן שלה בן צגיר נ׳ע׳<lb/>קניתי אני יפת ב[ן] דוד בן שמואל [בן] שלה בן מבשר [בן] / צגיר נ׳ע׳</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
@@ -205,7 +217,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding thread and holes (fols. 4v–5r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
