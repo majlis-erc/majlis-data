@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-14T14:19:18.968Z">update content description</change>
             <change who="#mroozen" when="2026-07-14T14:17:05.824Z">update content description, add additional properties of the manuscript, page and text layout, correction statement, binding description 
 
 
@@ -102,6 +103,7 @@
                                 </quote>
                             </explicit>
                             <note xml:lang="ar">
+                                <p>Chapter and section headings:</p>
                                 <p>fol. 7v:<lb/>فصل ثاني عشر في الكلام في الزاب وهو يشتمل على ابواب اربعة<lb/>fol. 8r:<lb/>الكلام في الباب الاول</p>
                             </note>
                         </msItem>
