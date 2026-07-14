@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-14T08:53:35.890Z">update content description</change>
             <change who="#mroozen" when="2026-07-14T08:40:05.340Z">update bibliographic reference</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -77,26 +78,35 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Contains the beginning of the seventh book (maqāla) of Kitāb al-Istibṣār on dietary laws.</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="" to=""/>
-                            <title cert="" ref="" xml:lang="">כתאב אלאסתבצאר פי אלפראיץ̇</title>
-                            <author ref="https://jalit.org/person/9">Yosef ha-Roʾe</author>
+                            <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
+                            <locus from="1r" to="8v"/>
+                            
+                            <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>المقالة السابعة من كتاب الاستبصار في الفرايض تتضمّن الكلام في الماخالوث</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="8v" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>على ما كان في اصل اللغة من غير حاجة الى قرينة وذلك عارض والعارض</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>Title page<lb/>Fol. 1r:<lb/>المقالة السابعة من كتاب الاستبصار في الفرايض تتضمّن الكلام في الماخالوث املي الشيخ الفاضل ابي يعقوب يوسف بن ابرهيم البصير رحمه الله<lb/>Table of Contents<lb/>Fols. 1v–3v:<lb/>المقالة السابعة في المااكِل تشتمل على فصول عددها ثمنية عشر فصلًا<lb/>الفصل الاول في الحيلب ما هو وما حقيقته لغةً وشرعًا وقسمة ذلك وما يتصل به<lb/>الفصل الثاني في الاليا وغيرها وقول ميشوية في ذلك والرد عليه<lb/>الفصل الثالث في الكلام في الاليا [אַלְיָה] والكلايوث [כְּלָיֹת] ويوثارث هكابيد [יֹתֶרֶת הַכָּבֵד] وتتبّع اقوى كلام الفيومي ومن جرى مجراه في اطلاق ذلك<lb/>الفصل الرابع في المِبعَر وشحم الدّوارة [2و]<lb/>الفصل الخامس في تحريم الدم وما يتصل بذلك من الكلام في حيلب ايال وصبي [חֵלֶב אַיָּל וּצְבִי] وما جرى مجراهما<lb/>الفصل السادس في تحريم جيد هناشا [גִּיד הַנָּשֶׁה]<lb/>الفصل السابع في لا تبشيل جدي باحليب امو [לֹא תְבַשֵּׁל גְּדִי בַּחֲלֵב אִמּוֹ]<lb/>الفصل الثامن في تحريم الجمع بين ذبح الاصل وبين ذبح الفرع من الغنم والبقر في يومٍ واحدٍ وفي قبح ذبح الهارا وفي لو تقاح هاايم [לֹא תִקַּח הָאֵם] مع المعنى في لفظة ذكاة<lb/>الفصل التاسع في ذكر اختلاف الناس في المليقا [מליקה]<lb/>الفصل العاشر فيما يلوح في ذلك [2ظ]<lb/>الفصل الحادي عشر في فصل زوث هاحيا [זאת החיה] وقسمته الى وجوه ستّة سوى تتبع الفاظه<lb/>اولها قسمة ذوات الاربع قوايم من الساير في الارض<lb/>وثانيها بيان علامة الحلال منها بذكر علاماته ويدخل في ذلك [الكلام] في كون العلامات المذكورة في شخصٍ واحدٍ او في اشخاصٍ<lb/>وثالثها ذكر انواع الحلال جملة وتفصيلًا وتمييز البري من الاهلي في ذلك لما يحتاج له من تمييز شحومها وتروبها في التحليل والتحريم،<lb/>ورابعها الوجه في افراد الجمل والخنزير بالذكر وهل كان ما تقدم يدل على تحريمها لو لم [تذكر] [3و] ام تذكر كيف كان ويتصل بذلك الكلام في طامي ومعناه،<lb/>وخامسها الكلام في مبسارام لو توخيلو [מִבְּשָׂרָם לֹא תֹאכֵלוּ]<lb/>وسادسها الكلام في وبنبلاثام لو تجاعو [וּבְנִבְלָתָם לֹא תִגָּעוּ] ثم يتبع ما لا بد من عبارات الفصل.<lb/>الفصل الثاني عشر في حقيقة النبيلا وذكر الفرق بين النهي عن اكلها وبين النهي عن الدنو بها وما يتصل بذلك مع الكلام في تحريم المرق وما جرى مجراها من اللبن وسواه والكلام في جلود النبيلا وحكم دباغها في التطهير والتنجيس<lb/>الفصل الثالث عشر في النغيعا [נגיעה]<lb/>الفصل الرابع عشر في قوله تعالى اث زا توخلو [את זה תאכלו] [3ظ] وبيان حلال السمك من حرامه وما يتصل بذلك<lb/>الفصل الخامس عشر في قوله تعالى واث ايلا تشقصو من هاعوف [ואת אלה תשקצו מן העוף]<lb/>الفصل السادس عشر في الدجاج وما يجري مجراه<lb/>الفصل السابع عشر في شارص هاعوف [שרץ העוף]<lb/>الفصل الثامن عشر في باقي المحرمات من الحيوان ويدخل في جملة ذلك شرصي هارص [שרצי הארץ] وغير ذلك ودود الاثمار وما يجري مجراها<lb/>Fol. 3v: Chapter heading of first chapter of seventh maqāla:<lb/>الفصل الاول في الكلام في الحيلب ما هو وما حقيقته لغةً وشرعًا وقسمة ذلك وما يتصل به</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl status="draft">
                                     <idno type="manuscript-join"/>
