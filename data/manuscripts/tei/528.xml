@@ -91,14 +91,19 @@
                             <locus from="67" to="109">67–109</locus>
                             <locus from="111" to="134">111–134</locus>
                             <title cert="" ref="" xml:lang="">Abridgement of Yefet b. ʿEli’s Commentary on the Book of Exodus</title>
-                            <textLang mainLang="ar" otherLangs=""/>
+                            <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
+                            <textLang mainLang="ar" otherLangs="he"/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r, lines 10-12" to=""/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>וקולה וימת מלך מצרים ישיר בה אלי מלך חדש אלד̇י הו אבתדי באסתכראמהם</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <quote xml:lang="ar-Hebr">
+                                    <p>וקאל למה לי רוב זבחיכם וג̇ לא תוסיפו הביא מנחת שוא וג̇ וקאל פי אלצאלחין זבח לאלהים תודה וג̇ וקראני ביום צרה [וג̇] זובח תודה יכבדנני וג̇<lb/>ברוך יוי לעולם<lb/>אמן ואמן<lb/>וכן<lb/>יהי רצון<lb/>א̇נ̇ס̇</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
@@ -123,7 +128,10 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <note xml:lang="">
+                                <p>It requires further investigation to determine if the three hands in this manuscript constitute three separate codicological units.</p>
+                            </note>
+                            <objectType rend="vertical-rectangle" style="codex">Multiple text manuscript</objectType>
                             <listBibl>
                                 <bibl>
                                     <idno type="manuscript-join"/>
