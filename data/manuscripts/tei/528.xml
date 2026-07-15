@@ -70,8 +70,8 @@
                 <msDesc xml:id="ms-528">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C519968 , C519969 , C519970 , C519971 , C519972 , C519973 , C519974 , C519975 , C519976 , C519977 , C519978 , C519979 , C519980 , C519981 , C519982 , C519983 , C519984 , C519985 , C519986 , C519987 , C519988 , C519989 , C519990 , C519899 , C519900 , C519901 , C519902 , C519903 , C519904 , C519905 , C519906 , C519907 , C519908 , C519909 , C519910 , C519911 , C519912 , C519913 , C519914 , C519915 , C519916 , C519917 , C519918 , C519919 , C519920 , C519921 , C519922 , C519923 , C519924 , C519925 , C519926 , C519927 , C519928 , C519929 , C519930 , C519931 , C519932 , C519933 , C519934 , C519935 , C519936 , C519937 , C519938 , C519939 , C519940 , C519941 , C519942 , C519943 , C519944 , C519945 , C519946 , C519947 , C519948 , C519949 , C519950 , C519951 , C519952 , C519953 , C519954 , C519955 , C519956 , C519957 , C519958 , C519959 , C519960 , C519961 , C519962 , C519963 , C519964 , C519965 , C519966 , C519967 , C519991 , C519992 , C519993 , C519994 , C519995 , C519996 , C519997 , C519998 , C519999 , C520000 , C520001 , C520002 , C520003 , C520004 , C520005 , C520006 , C520007 , C520008 , C520009 , C520010 , C520011 , C520012 , C520013 , C520014 , C520015 , C520016 , C520017 , C520018 , C520019 , C520020 , C520021 , C520022 , C520023 , C520024 , C520025 , C520026 , C520027 , C520028 , C520029 , C520030 , C520031 , C520032 , C520033 , C520034 , C520035 , C520036 , C520037 , C520038 , C520039 , C520040 , C520041 , C520042</idno>
-   </altIdentifier>
+                            <idno>C519968 , C519969 , C519970 , C519971 , C519972 , C519973 , C519974 , C519975 , C519976 , C519977 , C519978 , C519979 , C519980 , C519981 , C519982 , C519983 , C519984 , C519985 , C519986 , C519987 , C519988 , C519989 , C519990 , C519899 , C519900 , C519901 , C519902 , C519903 , C519904 , C519905 , C519906 , C519907 , C519908 , C519909 , C519910 , C519911 , C519912 , C519913 , C519914 , C519915 , C519916 , C519917 , C519918 , C519919 , C519920 , C519921 , C519922 , C519923 , C519924 , C519925 , C519926 , C519927 , C519928 , C519929 , C519930 , C519931 , C519932 , C519933 , C519934 , C519935 , C519936 , C519937 , C519938 , C519939 , C519940 , C519941 , C519942 , C519943 , C519944 , C519945 , C519946 , C519947 , C519948 , C519949 , C519950 , C519951 , C519952 , C519953 , C519954 , C519955 , C519956 , C519957 , C519958 , C519959 , C519960 , C519961 , C519962 , C519963 , C519964 , C519965 , C519966 , C519967 , C519991 , C519992 , C519993 , C519994 , C519995 , C519996 , C519997 , C519998 , C519999 , C520000 , C520001 , C520002 , C520003 , C520004 , C520005 , C520006 , C520007 , C520008 , C520009 , C520010 , C520011 , C520012 , C520013 , C520014 , C520015 , C520016 , C520017 , C520018 , C520019 , C520020 , C520021 , C520022 , C520023 , C520024 , C520025 , C520026 , C520027 , C520028 , C520029 , C520030 , C520031 , C520032 , C520033 , C520034 , C520035 , C520036 , C520037 , C520038 , C520039 , C520040 , C520041 , C520042</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -175,36 +175,65 @@
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
+                                    <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout; left margin mostly evenly justified; even interlinear spacing; mostly straight line of writing.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
                                     <p/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="26">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
-                                    <ab type="ruling"/>
-                                    <ab type="pricking"/>
+                                    <metamark function="">Anticipation</metamark>
+                                    <metamark function="">Extended letters</metamark>
+                                    <metamark function="justification">Space fillers</metamark>
+                                    <ab type="ruling">No ruling can be seen</ab>
+                                    <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
-                                <locus from="" to=""/>
+                                <locus from="1" to="27"/>
+                                <locus from="30" to="132"/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="divine-names">Tetragrammaton: three yods.</metamark>
+                                <metamark function="diacritics"> Sparsely dotted. Abbreviations marked by a dash above the letter; numerals marked by three dots above the letter.</metamark>
+                                <metamark function="vocalization">Rare use of Tiberian vowel signs.</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
+                            <handNote xml:id="hand-1.1.2" source="#" medium="">
+      <locus from="28" to="29"/>
+      <persName ref="" role=""/>
+      <placeName ref=""/>
+      <metamark function="divine-names">Tetragrammaton: yods with symbols/abbreviation signs.</metamark>
+                                <metamark function="diacritics"> Sparsely dotted. Abbreviations marked by a dot above the letter; numerals marked by three dots above the letter.</metamark>
+      <origDate cert="" evidence="" from="" to="" when=""/>
+      <note xml:lang=""/>
+   </handNote>
+                            <handNote xml:id="hand-1.1.3" source="#" medium="">
+      <locus from="133" to="134"/>
+      <persName ref="" role=""/>
+      <placeName ref=""/>
+      <metamark function="divine-names">Tetragrammaton written yod, waw, yod.</metamark>
+                                <metamark function="diacritics"> Sparsely dotted. Abbreviations marked by a dot or dash above the letter.</metamark>
+      <origDate cert="" evidence="" from="" to="" when=""/>
+      <note xml:lang="">
+                                    <p>Descenders slanting towards the left. Final Taw written with an elongated descending line slanting towards the left.</p>
+                                </note>
+   </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote rend="" script="oriental" style="square" xml:lang="he">
+                            <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
                                 <note xml:lang=""/>
                             </scriptNote>
                         </scriptDesc>
@@ -212,7 +241,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Section headings written center aligned in a separate line, indentation of the first line of a new paragraph, sense dividers (dot, dotted circle, colon, followed by blank space).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
