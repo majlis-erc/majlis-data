@@ -85,7 +85,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Abridgement of Yefet b. ʿEli’s Commentary on Exodus (chapters 1–20) and Yefet b. ʿEli's Commentary on Deuteronomy (containing commentary on Deut 16:1–6).</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="52v">1r–52v</locus>
                             <locus from="67" to="109">67–109</locus>
@@ -114,16 +116,18 @@
                             <author ref="https://jalit.org/person/4">Yefet ben ʿEli</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="53r, lines 21-23" to=""/>
+                                <quote xml:lang="">
+                                    <p>ולם יג̇דו אלחקיקה לאן אלנבי מא קאלה לא בד מן אן יכון פהד̇א אלקול מנה יוג̇ב אן לא יועידו אלאואל אביב מוג̇וד</p>
+                                </quote>
                             </incipit>
                             <explicit>
                                 <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <quote xml:lang="">
+                                    <p>ומנהם איצ̇א מן ירצ̇א אד̇א ראי עלאמתה פי ד̇ פי אלשהר והד̇א אלמד̇הב ידכ̇ל אלרד עליה פי מא תקדם מן אלקול פי אלרד עלי מן יקול בראס אלשהר</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang="">
-                                <p>Containing the Commentary on the Book of Deuteronomy 16:1–6 (fols 53–66 and 110).</p>
-                            </note>
+                            <note xml:lang=""/>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -153,16 +157,20 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the bottom center of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Hebrew numerals at the top right corner (Text 2, quire number 12, fol. 110r)</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
-                                    <ab rend="" type="writing"/>
+                                    <note xml:lang="">
+                                        <p>Some pages are fully preserved and only slightly stained. Many pages are torn or have holes.</p>
+                                    </note>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
