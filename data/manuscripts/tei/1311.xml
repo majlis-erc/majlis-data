@@ -53,11 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
-            <change who="#mroozen" when="2026-07-14T14:19:18.968Z">update content description</change>
-            <change who="#mroozen" when="2026-07-14T14:17:05.824Z">update content description, add additional properties of the manuscript, page and text layout, correction statement, binding description 
-
-
-</change>
+            <change who="#mroozen" when="2026-07-15T14:42:08.822Z">update content description</change>
+            <change who="#mroozen" when="2026-07-14T14:17:05.824Z">update content description, add additional properties of the manuscript, page and text layout, correction statement, binding description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
@@ -87,7 +84,6 @@
                         <msItem xml:id="item-1.1" class="">
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
                             <locus from="1r" to="8r"/>
-                            
                             <author ref="https://jalit.org/person/9">Yosef ha-Roʾeh</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
@@ -230,7 +226,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
