@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-15T14:40:18.324Z">add additional properties of the manuscript, page and text layout, binding description</change>
             <change who="#mroozen" when="2026-07-15T14:17:06.808Z">update content description and codicological definition</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -128,42 +129,49 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page)</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>quinion. Contains folios from at least three quinion quires, incl. [-/9/10/11/12/13/14/15/16/-] and [-/17/18/19/20/21/22/23/24(?)/-]</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Slightly worm-eaten, stained; partly damaged outer margin. The upper outer corners of fols. 17–19 have been diagonally excised.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
                                 <summary>
                                     <desc/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Irregularly justified single column with loosely aligned left margin.</p>
+                                    </note>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="14–18">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Rare vowel marks (e.g. fol. 8v, l. 1); occasional Tiberian vowel marks for Hebrew in Arabic script (e.g. fol. 1v, l. 14).</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sporadic dotting</metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
@@ -177,7 +185,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>The chapter headings on fols. 6r and 22v are formatted as a centered block with increased left and right margins; circled dot at the end of chapters, chapter headings, and textual units (e.g. fol 7v, l. 14; fol. 22v, ll. 4, 8).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -205,7 +215,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and thread (fols. 12v–13r; 20v–21r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
