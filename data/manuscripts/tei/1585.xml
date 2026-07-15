@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">namespace test</title>
+                <title level="a" xml:lang="en">test</title>
                 <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
                     <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
@@ -24,7 +24,6 @@
                 <editor xml:id="rboehm" role="contributor">Maurizio Boehm</editor>
                 <editor xml:id="lporalla" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html">Lea Poralla</editor>
                 <editor xml:id="lfroschmeier" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html">Lukas Froschmeier</editor>
-                <editor xml:id="admin" role="contributor">admin</editor>
                 <respStmt>
                     <resp>Srophé app design and development by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
@@ -77,8 +76,8 @@
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
-                            <title ref="https://jalit.org/work/117">Commentary on the Torah (Yašar ben Ḥesed ben Yašar)</title>
-                            <author ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</author>
+                            
+                            <author ref="" cert=""/>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
@@ -93,11 +92,13 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
+                            <note xml:lang=""/>
                             <objectType rend="" style="codex">Single manuscript</objectType>
                             <listBibl>
-                                <bibl xml:id="jalit-orgmanuscript459">
-                                    <title>Cairo, Karaite Synagogue, Ms. 18</title>
-                                    <ptr target="https://jalit.org/manuscript/459"/>
+                                <bibl>
+                                    <idno type="manuscript-join"/>
+                                    <citedRange unit="folios"/>
+                                    <ptr target=""/>
                                 </bibl>
                             </listBibl>
                         </ab>
@@ -147,8 +148,8 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" source="#" medium="">
                                 <locus from="" to=""/>
-                                <persName ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</persName>
-                                <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
+                                <persName ref="" role=""/>
+                                <placeName ref=""/>
                                 <metamark function=""/>
                                 <origDate when="" from="" to=""/>
                                 <note xml:lang=""/>
@@ -174,12 +175,7 @@
                                     <quote type="transcription" xml:lang=""/>
                                     <quote type="translation" xml:lang=""/>
                                     <note xml:lang=""/>
-                                    <listRelation>
-                                        <active ref="" name="">Cairo</active>
-                                        <mutual ref="" name="">Commentary on the Book of Exodus (Sahl ben Maṣliaḥ)</mutual>
-                                        <mutual ref="" name="">Yašar ben Ḥesed ben Yašar</mutual>
-                                        <passive ref="" name="">Commentary on the Book of Exodus (Sahl ben Maṣliaḥ)</passive>
-                                    </listRelation>
+                                    <listRelation/>
                                 </item>
                             </list>
                         </additions>
@@ -187,9 +183,7 @@
                             <binding>
                                 <decoNote>
                                     <objectType/>
-                                    <origPlace ref="https://jalit.org/place/1">
-                    <placeName ref="https://jalit.org/place/1">Cairo</placeName>
-                </origPlace>
+                                    <origPlace ref=""/>
                                     <origDate when="" from="" to=""/>
                                     <material/>
                                     <note xml:lang=""/>
@@ -206,13 +200,13 @@
                             <list>
                                 <item>
                                     <note xml:lang=""/>
-                                    <persName ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</persName>
+                                    <persName/>
                                     <quote xml:lang=""/>
-                                    <bibl xml:id="jalit-orgbiblIJ6BB28X">
-                        <idno>Vestiges of Qaraite Translations in the Arabic Translation(s) of the Samaritan Pentateuch</idno>
-                        <title>Gregor Schwarb, Vestiges of Qaraite Translations in the Arabic Translation(s) of the Samaritan Pentateuch, Intellectual History of the Islamicate World 1, no. 1–2 (2013): 115–57, https://doi.org/10.1163/2212943X-20130106.</title>
-                        <ptr target="https://jalit.org/bibl/IJ6BB28X"/>
-                    </bibl>
+                                    <bibl>
+                                        
+                                        <citedRange unit="p"/>
+                                        <ptr target=""/>
+                                    </bibl>
                                 </item>
                             </list>
                         </accMat>
@@ -221,18 +215,18 @@
                         <summary xml:lang=""/>
                         <provenance>
                             <date when="" from="" to=""/>
-                            <placeName ref="https://jalit.org/place/1">Cairo</placeName>
+                            <placeName ref=""/>
                             <locus from="" to=""/>
-                            <persName ref="https://jalit.org/person/25">David al-Fāsī</persName>
+                            <persName ref="" role=""/>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note xml:lang=""/>
                         </provenance>
                         <acquisition>
                             <date when="" from="" to=""/>
-                            <placeName ref="https://jalit.org/place/1">Cairo</placeName>
+                            <placeName ref=""/>
                             <locus from="" to=""/>
-                            <persName ref="https://jalit.org/person/6">David ben Boʿaz</persName>
+                            <persName ref="" role=""/>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note xml:lang=""/>
@@ -242,17 +236,18 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
+                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
                             </listBibl>
                         </surrogates>
                         <listBibl>
-                            <bibl xml:id="jalit-orgbiblIUGZTR9Y">
-                        <idno>"Yusuf b. Nuh"</idno>
-                        <title>Moritz Steinschneider, Yusuf b. Nuh, in Die arabische Literatur der Juden. Ein Beitrag zur Literaturgeschichte der Araber, grossenteils aus handschriftlichen Quellen, Bibliotheca Arabico-Judaica (Frankfurt am Main: J. Kauffmann, 1902), 88–89.</title>
-                        <ptr target="https://jalit.org/bibl/IUGZTR9Y"/>
-                    </bibl>
+                            <bibl xml:id="">
+                                
+                                <citedRange unit="p"/>
+                                <ptr target=""/>
+                            </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>
