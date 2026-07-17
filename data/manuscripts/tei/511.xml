@@ -53,8 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 5 join-bibl(s) (6 citedRange element(s)) from referenced loci.</change>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 5 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 5 join-bibl(s) (6 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 5 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-04-13T18:07:53.217Z">ID fix</change>
             <change who="#rboehm" when="2024-09-06T10:38:00.840Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T01:29:59.890Z">work title</change>
@@ -116,6 +116,9 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
+                            <note xml:lang="">
+                                <p>The manuscript is in two hands. According to Sfardata, the secondary hand 2 copied folios 10-31, 37-44, 110, 125, 150-158. None of these folios are physically connected with folios in the main hand 1 (as far as can be seen in the images).</p>
+                            </note>
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript341">
