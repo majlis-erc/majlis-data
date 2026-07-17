@@ -53,8 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 4 join-bibl(s) (4 citedRange element(s)) from referenced loci.</change>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 4 join-bibl(s) (4 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
@@ -158,7 +158,7 @@
                                     <note xml:lang="">
                                         <p>Frayed edges, torn on top and bottom, small loss of text.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Legible. </ab>
+                                    <ab rend="visible" type="writing">Legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -205,7 +205,7 @@
                             <decoNote>
                                 <desc>Paragraph marks and textual dividers</desc>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, chapter headings written center-aligned in separate lines, occasional use of a colon or a dot followed by blank space</p>
+                                    <p>Indentation of the first line of a new paragraph, chapter headings written center-aligned in separate lines, occasional use of a colon or a dot followed by blank space</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
