@@ -211,11 +211,85 @@
                                     <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
                                     <locus from="19v" to=""/>
-                                    <quote xml:lang="he">
+                                    <quote xml:lang="he" type="transcription">
                                         <p>כתב דויד [בן י]צחק המלמד<lb/>בירושלם עיר הקדש<lb/>תבנה במהרה<lb/>אמן</p>
+                                    </quote>
+                                    <quote type="translation" xml:lang="en">
+                                        <p>David ben Yiṣḥaq, the teacher, wrote [this manuscript] in Jerusalem, the Holy City, may it be rebuilt soon, Amen.</p>
                                     </quote>
                                     <note xml:lang=""/>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Colophon</objectType>
+      <locus from="113v" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>כתב דויד בן יצחק<lb/>בירושלם עיר<lb/>הקדש<lb/>אלהים<lb/>יכוננה<lb/>עד<lb/>עולם<lb/>סלה<lb/>אמן</p>
+                                    </quote>
+      <quote type="translation" xml:lang="en">
+                                        <p>David ben Yiṣḥaq wrote [this manuscript] in Jerusalem, the Holy City, may God establish it forever, Selah, Amen.</p>
+                                    </quote>
+                                    <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
+      <objectType>Ownership statements</objectType>
+      <locus from="113r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>מלך שמואל בן אברהם<lb/>הלוי הרופא הנודעים בבני [הצכני?]</p>
+                                    </quote>
+      <quote type="translation" xml:lang="en">
+                                        <p>Owned by Šmuʾel ben Avraham ha-Levi, the physician, known as the sons of [ṣuḫni?].</p>
+                                    </quote>
+                                    <note xml:lang="">
+                                        <p>Originally read הנודע בבן. The plural suffix -im added above the line. Final nun corrected to medial nun.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.4">
+      <objectType>Certificates of endowment</objectType>
+      <locus from="114r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>זה הספר הקדיש יוסף בן נח לבעלי מקרא השומרים מועדים<lb/>בראית ירח ובהִמָצא אביב בארץ ישראל להיות הספר הזה<lb/>מתחת יד חנניה בן משה הנִכָר בטראבלסי יחיהו אל וישמרהו והוא<lb/>קדש ליי֗ לא ימָכר ולא יקָנה ולא יֵעבָט ואין לאדם לשַנּות<lb/>מעשהו בזה הספר וכל המוכר והקונה והעובט והגונב זה הספר  ארור<lb/>הוא בשם יי֗ וכל השומר זה הספר והקורא בו והכותב ממנו יזכרהו<lb/>יי֗ ברצון עמו ויפקדהו בישועתו ויסלח ויכפר לעון יוסף בן נח<lb/>ברחמיו הגדלים אמן</p>
+                                    </quote>
+      <quote type="translation" xml:lang="en">
+                                        <p>Yosef ben Noaḥ endowed this book to the Qaraite community, who determine the festivals by observing the moon and the state of the barley in the land of Israel. (He endowed) this book to be under the care of Ḥananya ben Moše known as the Tripolitan  - may God let him live and safeguard him. It is an endowment to the Lord. It shall neither be sold, nor bought, nor pawned. Nobody is allowed to change the deed (of endowment) of this book. Everyone, who sells, buys, pawns or steals this book, shall be cursed by the name of the Lord. Everyone who safeguards this book, reads in it or copies from it, shall be willingly remembered by the Lord, and (the Lord) shall attend to him by his salvation. May He pardon and forgive Yosef ben Noaḥ’s sins in His great mercy, Amen.</p>
+                                    </quote>
+                                    <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.5">
+      <objectType>Note</objectType>
+      <locus from="114r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>قودش [  ] بيد مولاي الشيخ السيد الجليل<lb/>ابي الفرج فرقان بن اسد بن فرقان رضوان الله عليه</p>
+                                    </quote>
+      <quote type="translation" xml:lang="en">
+                                        <p>An endowment [...] under the care of the master, the Šayḫ and eminent master, Abū l-Faraǧ Furqān b. Asad b. Furqān - God’s favor be upon him.</p>
+                                    </quote>
+                                    <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.6">
+      <objectType>Note</objectType>
+      <locus from="114r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>[                                                                                             ]<lb/>כל [                   ] אותו או יקנהו לנסיא? בגולה? או [           ]<lb/>מבעליו ולא? [    ]בהו לאשר הו קודש [                           ]<lb/>[                                             ]בתורה ובמקרא? [                ]<lb/>לא יאבה יי סלח לו כי אז יעשן ייי וקנאתו [                    ]<lb/>In a different hand<lb/>חנניה בר טוביה? בן סהלוי? ה[                                         ]<lb/>ממונו והשיבו אל מקֹמו אליה[ם?                                     ]<lb/>אמן</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Practically illegible.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
