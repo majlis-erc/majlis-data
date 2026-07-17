@@ -112,10 +112,9 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript423">
                                     <idno type="">Yevr.-Arab. I 782</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 782</title>
-                        <ptr target="https://jalit.org/manuscript/423"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 782</title>
+                                    <ptr target="https://jalit.org/manuscript/423"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -188,7 +187,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, sense dividers (dot).</p>
+                                    <p>Indentation of the first line of a new paragraph, sense dividers (dot).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -227,7 +226,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
