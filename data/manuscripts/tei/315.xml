@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 2 join-bibl(s) (2 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 2 join-bibl(s) (2 citedRange element(s)) from referenced loci.</change>
             <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-08-30T13:02:47.407Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -112,28 +112,26 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript424">
                                     <idno type="">Yevr.-Arab. II 3092</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. II 3092</title>
-                        <ptr target="https://jalit.org/manuscript/424"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3092</title>
+                                    <ptr target="https://jalit.org/manuscript/424"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript426">
                                     <idno type="">Yevr.-Arab. I 4504</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 4504</title>
-                        <ptr target="https://jalit.org/manuscript/426"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 4504</title>
+                                    <ptr target="https://jalit.org/manuscript/426"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript519">
                                     <idno type="">Yevr.-Arab. I 917</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 917</title>
-                        <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
-                        <ptr target="https://jalit.org/manuscript/519"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 917</title>
+                                    <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/519"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript307">
                                     <idno type="">Yevr.-Arab. I 83</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 83</title>
-                        <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
-                        <ptr target="https://jalit.org/manuscript/307"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 83</title>
+                                    <citedRange unit="folios" from="1r" to="2v">1r–2v</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/307"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -160,7 +158,7 @@
                                     <note xml:lang="">
                                         <p>Stained and faded in places, some pages torn and containing small holes, some loss of text.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Mostly legible. </ab>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -210,7 +208,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, sense dividers (dot and colon, followed by blank space).</p>
+                                    <p>Indentation of the first line of a new paragraph, sense dividers (dot and colon, followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -249,7 +247,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
