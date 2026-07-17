@@ -57,8 +57,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-10T11:55:46.076Z">work title linked</change>
             <change who="#rboehm" when="2024-09-10T11:46:36.072Z">work title (ii)</change>
             <change who="#rboehm" when="2024-08-30T10:51:30.613Z">work title</change>
@@ -157,7 +157,7 @@
                                     <note xml:lang="">
                                         <p>Out of order, many folios are torn, stained and have holes, others are well preserved.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Mostly legible. </ab>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -190,10 +190,9 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
-                                
                                 <persName ref="https://jalit.org/person/52" role="scribe">Mevoraḵ ha-Levī ben Yešuʿa ben Saʿadya al-Naṣibī</persName>
                                 <placeName ref="https://jalit.org/place/1">Cairo</placeName>
-                                <metamark function="diacritics">Sparsely dotted. </metamark>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <origDate from="1021" to="1023">1021 [Ktiv]; 1021-1023 [FGP]</origDate>
                                 <note xml:lang=""/>
                             </handNote>
@@ -215,12 +214,51 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
-                                    <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
-                                    <note xml:lang=""/>
+                                    <objectType>Colophon</objectType>
+                                    <persName ref="https://jalit.org/person/52">Mevoraḵ ha-Levī ben Yešuʿa ben Saʿadya al-Naṣibī</persName>
+                                    <locus from="176r" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>תמת פרשה אשה ויתלוהא פי אלג̇ז אלד̇י יליה פרשה זאת תהיה:<lb/>וכתב מברך הלוי בן ישועה בן סעדיה אלנציבי בידה לנפסה ולולדה<lb/>מנצור הלוי בן מברך בן ישועה בן סעדיה באלקאהרה פי אלמחרם<lb/>מן סנה י֗ב֗ ות֗</p>
+                                    </quote>
+                                    <note xml:lang="">
+                                        <p>Date in colophon: Muḥarram 412 AH = mid April – mid May 1021.</p>
+                                    </note>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Colophon</objectType>
+      <locus from="232v" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>כמל תפסיר ויקח קרח במעונה אללה עז וג̇ל<lb/>ויתלוה פי אלג̇ז אלד̇י יליה תפסיר זאת חק֗ התורה<lb/>ואללה עז וג̇ל למעין עלי ד̇לך</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
+      <objectType>Colophon</objectType>
+      <locus from="268v" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>כמל ת[פסיר] כי תצא למלחמה בעון אללה ותפצ̇לה<lb/>וית[לוה פי אלג̇ז] אלד̇י יליה פרשה [והיה]<lb/>וכתב מברך הלוי בן ישועה בן סעדיה אלנציבי בידה<lb/>לנפסה ולולדה אבו אלפרג̇ מנצור הלוי בן מברך בן ישועה<lb/>בן סעדיה: וד̇לך באלקאהרה פי רביע אלאול מ[ן] סנה י֗ד֗ ת֗</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Date in colophon:  Rabīʿ al-Awwal 414 AH = 24 May–22 June 1023 CE.<lb/>Note that in the two years between this colophon and the colophon on fol. 176r the scribe’s son Manṣūr became a father himself and is now called Abū al-Faraǧ Manṣūr.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.4">
+      <objectType>Colophon</objectType>
+      <locus from="302r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>[כמל תפסיר כי] תבוא במעוה אללה ותפצ̇לה<lb/>[ויתלוה פי אלגז אלד]י יליה פרשה אתם נצבים<lb/>וכתב מ[ברך הלוי ב]ן ישועה בן סעדיה אלנציבי בידה לנפסה ולולדה<lb/>אבו אלפרג̇ מנצור הלוי ב[ן] מברך בן ישועה בן סעדיה: ודלך באלקאהרה</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
