@@ -210,13 +210,28 @@
                             <list>
                                 <item xml:id="add-1.1.1.1">
                                     <objectType>Colophon</objectType>
-                                    <persName ref="https://jalit.org/person/50">Avraham ben Shabtay</persName>
+                                    <persName ref="https://jalit.org/person/50">Avraham ben Šabtay</persName>
                                     <locus from="12r" to=""/>
                                     <quote xml:lang="he" type="transcription">
                                         <p>אני אברהם ברבי שבתי ת֗נ֗צ֗ב֗ה֗ כתבתי זה האגרון<lb/>לעצמי בצור מדינתא המקום ב֗ה֗ ישימהו עלי סימן טוב<lb/>סימן ברכה וחיסנא ויקירא ורחמי מן קדם שמייא ויתן וימלא שאלותי ברצון. ונשלם האות העשירי בשנת<lb/>שהוא אות י֗ בשנת ד֗ת֗ת֗נ֗א֗ לבירייתיה דעלמא<emph rend="italic">בירח אדר אדר ראשון בכ֗ז֗ יום ב[ו]</emph>הרחמן<lb/>ישמור צאתי ובואי ויצילני מבני אדם הרעים ומאורב בדרך<lb/>וכן יהי רצון:</p>
                                     </quote>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>**– written between the lines and in the left margin<lb/>Date in colophon: 27 Adar I 4851 AM corresponds to 18 February 1091 CE.</p>
+                                    </note>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Note</objectType>
+      <locus from="12v" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>ארח לחיים ש[ומר מוסר]<lb/>ועוזב תוכחת [מתעה]</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Pen trial? Proverbs 10:17</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
