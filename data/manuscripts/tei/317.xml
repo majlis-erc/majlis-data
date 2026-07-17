@@ -116,10 +116,9 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript425">
                                     <idno type="">Yevr.-Arab. II 1029</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. II 1029</title>
-                        <ptr target="https://jalit.org/manuscript/425"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1029</title>
+                                    <ptr target="https://jalit.org/manuscript/425"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -135,7 +134,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="foliation"> Modern pencil foliation with Arabic numerals at the bottom center and inner margin of each recto page.</foliation>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation with Arabic numerals at the bottom center and inner margin of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -148,7 +147,7 @@
                                     <note xml:lang="">
                                         <p>Partly worm-eaten with loss of text, some pages torn, stained in places.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Mostly legible. </ab>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -197,7 +196,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Headings written center-aligned in a separate line, identation of the first line of a new paragraph, sense dividers (dot, occasionally followed by blank space).</p>
+                                    <p>Headings written center-aligned in a separate line, indentation of the first line of a new paragraph, sense dividers (dot, occasionally followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
