@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-17T11:09:10.832Z">add content summary, manuscript joins, additional properties of the manuscript, page and text layout, script/hand description; </change>
             <change who="#mroozen" when="2026-07-17T10:43:45.422Z">update content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -77,7 +78,9 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Contains sections from fifth (V.5–6, fols. 2–17) and eighth treatise (fols. 1, 18–25) of Kitāb al-Istibṣār.</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <title ref="https://jalit.org/work/23">Book of the Examination of the Commandments (Yosef ha-Roʾeh)</title>
                             <locus from="1r " to="25v"/>
@@ -97,7 +100,11 @@
                                 </quote>
                             </explicit>
                             <note xml:lang="">
-                                <p>-	Chapter heading of ch. V.6 (fol. 4r) and the subchapters (abwāb) V.6.1–3 (fol. 3r–2v):<lb/>-	الفصل السادس في قوله تعالى مماحراث هشباث [ממחרת השבת, Lev 23:15] وما يتصل به مما يلزم فيه الان وما كان يلزم فيه قديما وهو يشتمل على ابواب ثلثةٍ<lb/>-	اولها الكلام في ها التعريف الداخلة على شباث ما موفقها من التعريف ليعرف بمعرفها ماحراثاه ويدخل في ذلك ابطال قول الربانين ان الشباث المذكورة هاهنا هي يوما طابا على سبيل الاختصار لان اصحابنا قد اكثروا الكلام عليهم في ذلك بما فيه كفاية.<lb/>-	وثانيها الكلام فيما ذهب اليه السمرة من ان الرابع عشر من نيسان اذا وقع يوم السبت وكان الخامس عشر يوم الاحد وهو اول شبعاث يمي مصا وهل العدد منه او من الاحد الاخر الذي هو غد يوم السبت التي هي منتها(?) شبعت يمي مصا وهذا وان لم يكن مذهبا ظاهرا لاحدٍ من الامة فالكلام فيه صعب جدا<lb/>-	,ثالثih في كون ترجيح العومر شرطا في الامر بالعدد حسب قوله ميوم هبياخام اث عومر هتنوفا [מיום הביאכם את עמר התנופה] وغير شرط وتفسير ما تكلفنا متعلق به من الفاظه</p>
+                                <p>Chapter heading of ch. V.6 (fol. 4r) and the subchapters (abwāb) V.6.1–3 (fol. 3r–2v):</p>
+                                <p>-	الفصل السادس في قوله تعالى مماحراث هشباث [ממחרת השבת, Lev 23:15] وما يتصل به مما يلزم فيه الان وما كان يلزم فيه قديما وهو يشتمل على ابواب ثلثةٍ</p>
+                                <p>-	اولها الكلام في ها التعريف الداخلة على شباث ما موفقها من التعريف ليعرف بمعرفها ماحراثاه ويدخل في ذلك ابطال قول الربانين ان الشباث المذكورة هاهنا هي يوما طابا على سبيل الاختصار لان اصحابنا قد اكثروا الكلام عليهم في ذلك بما فيه كفاية.</p>
+                                <p>-	وثانيها الكلام فيما ذهب اليه السمرة من ان الرابع عشر من نيسان اذا وقع يوم السبت وكان الخامس عشر يوم الاحد وهو اول شبعاث يمي مصا وهل العدد منه او من الاحد الاخر الذي هو غد يوم السبت التي هي منتها(?) شبعت يمي مصا وهذا وان لم يكن مذهبا ظاهرا لاحدٍ من الامة فالكلام فيه صعب جدا</p>
+                                <p>-	,ثالثih في كون ترجيح العومر شرطا في الامر بالعدد حسب قوله ميوم هبياخام اث عومر هتنوفا [מיום הביאכם את עמר התנופה] وغير شرط وتفسير ما تكلفنا متعلق به من الفاظه</p>
                             </note>
                         </msItem>
                     </msContents>
@@ -105,11 +112,17 @@
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
-                                <bibl status="draft">
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1257">
+                                    <idno type="">Arab.-Yevr. 322</idno>
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 322</title>
+                        <ptr target="https://jalit.org/manuscript/1257"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1160">
+                                    <idno type="">Arab.-Yevr. 173</idno>
+                        <title>St. Petersburg, National Library of Russia, Arab.-Yevr. 173</title>
+                        <ptr target="https://jalit.org/manuscript/1160"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -125,15 +138,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Contains disordered fragments of several quinion quires: 1, 2-5, 6-7, 8-9, 10-16, 17, 18, 19-24, 25.</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>In fair condition; slightly stained, worm-eaten, and torn in places.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -142,25 +159,27 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="11">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="diacritics">sparsely dotted; occasional ihmāl-marks</metamark>
+                                <metamark function="divine-names">ىىا (e.g. fol. 8r, l. 3)</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="vocalization">rare vowel marks</metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
@@ -174,7 +193,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Circled dot at the end of chapters, chapter headings, and textual units (e.g. fol 14r, l. 3).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
