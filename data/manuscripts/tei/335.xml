@@ -57,7 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T14:30:03.344Z">work title linked (ii)</change>
             <change who="#rboehm" when="2024-08-30T09:10:47.042Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -202,7 +202,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Section headings written in a separate line with decorated letters. Decorated letters also used for Lemmas written in the text and in the margins. Sense dividers (dot and colon usually followed by blank space). Identation of new paragraphs.</p>
+                                    <p>Section headings written in a separate line with decorated letters. Decorated letters also used for Lemmas written in the text and in the margins. Sense dividers (dot and colon usually followed by blank space). Indentation of new paragraphs.</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
