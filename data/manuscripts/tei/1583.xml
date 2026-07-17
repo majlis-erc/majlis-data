@@ -45,8 +45,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 4 join-bibl(s) (4 citedRange element(s)) from referenced loci.</change>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 4 join-bibl(s) (4 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
@@ -165,7 +165,6 @@
                                 <layout xml:id="layout-1.1.1.1" writtenLines="19" columns="1">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
-                                        
                                         <width unit="mm"/>
                                         <height unit="mm"/>
                                     </dimensions>
@@ -200,7 +199,7 @@
                             <decoNote>
                                 <desc>Paragraph marks and textual dividers</desc>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, chapter headings written center-aligned in separate lines, occasional use of a colon or a dot followed by blank space.</p>
+                                    <p>Indentation of the first line of a new paragraph, chapter headings written center-aligned in separate lines, occasional use of a colon or a dot followed by blank space.</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
