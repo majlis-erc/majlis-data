@@ -67,11 +67,11 @@
                 <msDesc xml:id="ms-309">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno> C699509 , C699510 , C699511 , C699512 </idno>
-   </altIdentifier>
+                            <idno>C699509 , C699510 , C699511 , C699512</idno>
+                        </altIdentifier>
                         <altIdentifier type="SfarData">
-      <idno>YZ006</idno>
-   </altIdentifier>
+                            <idno>YZ006</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -198,18 +198,18 @@
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter. </metamark>
+                                <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter.</metamark>
                                 <origDate>1051</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                             <handNote xml:id="hand-1.1.2" source="#" medium="">
-      <locus from="3v" to=""/>
-      <persName ref="" role=""/>
-      <placeName ref=""/>
-      <metamark function="vocalization">Regular use of Tiberian vowel signs.</metamark>
-      <origDate cert="" evidence="" from="" to="" when=""/>
-      <note xml:lang=""/>
-   </handNote>
+                                <locus from="3v" to=""/>
+                                <persName ref="" role=""/>
+                                <placeName ref=""/>
+                                <metamark function="vocalization">Regular use of Tiberian vowel signs.</metamark>
+                                <origDate cert="" evidence="" from="" to="" when=""/>
+                                <note xml:lang=""/>
+                            </handNote>
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
@@ -221,7 +221,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, sense dividers (colon, usually followed by blank space).</p>
+                                    <p>Indentation of the first line of a new paragraph, sense dividers (colon, usually followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -237,18 +237,18 @@
                                     <note xml:lang=""/>
                                 </item>
                                 <item xml:id="add-1.1.1.2">
-      <objectType>Colophon</objectType>
-      <locus from="3r" to=""/>
-      <quote type="transcription" xml:lang="he">
+                                    <objectType>Colophon</objectType>
+                                    <locus from="3r" to=""/>
+                                    <quote type="transcription" xml:lang="he">
                                         <p>כתב משלי? דוד בן שמאול<lb/>אלעגמי אלפיריזי?<lb/>אלדפח?</p>
                                     </quote>
-      <note xml:lang="en">
+                                    <note xml:lang="en">
                                         <p>Catalogues assume that this is the author of the piyyut. It seems to me more likely that he is the scribe and the author is Yefet b. ʿEli. Yefet’s name is in the acrostic. The piyyut and the name are in the same hand.</p>
                                     </note>
-      <listRelation>
-         <relation name="" ref=""/>
-      </listRelation>
-   </item>
+                                    <listRelation>
+                                        <relation name="" ref=""/>
+                                    </listRelation>
+                                </item>
                             </list>
                         </additions>
                         <bindingDesc>
@@ -275,7 +275,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
