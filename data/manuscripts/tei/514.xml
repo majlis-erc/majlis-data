@@ -57,10 +57,9 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
-            <change who="#mmoliere" when="2026-06-08T08:30:02.102Z">Changed incodicated document.
-</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
+            <change who="#mmoliere" when="2026-06-08T08:30:02.102Z">Changed incodicated document.</change>
             <change who="#mmoliere" when="2026-05-29T08:48:55.961Z">Added relations.</change>
             <change who="#rboehm" when="2024-09-06T09:36:07.651Z">joins</change>
             <change who="#mmoliere" when="2024-07-30T06:19:19.089Z">Added incodicated document.</change>
@@ -181,6 +180,9 @@
                             <layoutDesc>
                                 <summary>
                                     <desc>Text on recto and verso</desc>
+                                    <note xml:lang="">
+                                        <p>Right-justified single column layout; left margin mostly evenly justified; even interlinear spacing; straight line of writing.</p>
+                                    </note>
                                     <p>
                                         <lb/>
                                     </p>
@@ -210,19 +212,17 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc hands="">
-                            <summary xml:lang="">
-                                <p>In the first line of each page the letter Lamed is written with an elongated ascender. Aleph-Lamed ligature. Long ascenders and descenders. Descender of final Nun slanting leftwards.</p>
-                            </summary>
+                            <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
-                                <metamark function="diacritics">Mostly written without diacritics, a dot above the letter is used to mark abbreviated words.</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
+                                <metamark function="diacritics">Sparsely dotted, abbreviations marked by a dot above the letter.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
                                 <origDate>1000-1100</origDate>
                                 <note xml:lang="">
-                                    <p>Some marginal notes.</p>
+                                    <p>In the first line of each page the letter Lamed is written with an elongated ascender. Aleph-Lamed ligature. Long ascenders and descenders. Descender of final Nun slanting leftwards. Some marginal notes.</p>
                                 </note>
                             </handNote>
                         </handDesc>
@@ -234,9 +234,9 @@
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc>Paragraph marks and textual dividers</desc>
+                                
                                 <note xml:lang="">
-                                    <p>Division between Introduction and Commentary (fol. 8v). Occasional use of a dot followed by blank space to divide the Arabic text and to separate between biblical quotations and translations.</p>
+                                    <p>Division between Introduction and Commentary (fol. 8v). Section headings written center aligned in a separate line, indentation of the first line of a new paragraph, sense dividers, verse dividers (dot, followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
