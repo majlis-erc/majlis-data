@@ -153,7 +153,7 @@
                                 <summary>
                                     <desc>Text on recto and verso</desc>
                                     <note xml:lang="">
-                                        <p>Right-justified single column layout, even interlinear spacing.</p>
+                                        <p>Right-justified single column layout; left margin mostly evenly justified; even interlinear spacing; straight line of writing.</p>
                                     </note>
                                     <p>
                                         <lb/>
@@ -193,9 +193,9 @@
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                <desc>Paragraph marks and textual dividers</desc>
+                                
                                 <note xml:lang="">
-                                    <p>Colon followed by blank space to separate Hebrew quotations from Arabic commentary and translations.</p>
+                                    <p>Section headings written center aligned in a separate line, indentation of the first line of a new paragraph, sense dividers (dotted circle, colon, followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
