@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,12 +13,9 @@
                     <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor" xml:id="rboehm">Maurizio Boehm</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lukas_froschmeier/index.html" role="contributor" xml:id="lfroschmeier">Lukas Froschmeier</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/annabelle_fuchs/index.html" role="contributor" xml:id="afuchs">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -27,13 +24,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/hilfskraefte/lea_poralla/index.html" role="contributor" xml:id="lporalla">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/peter-tarras/index.html" role="contributor" xml:id="ptarras">Peter Tarras</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/doktoranden/nadine_urbiczek/index.html" role="contributor" xml:id="nurbiczek">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -51,8 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 reviewed locus fix(es); 3 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 2 reviewed locus fix(es); 3 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-04-13T18:07:53.217Z">ID fix</change>
             <change who="#rboehm" when="2024-09-06T10:38:00.840Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T01:29:59.890Z">work title</change>
@@ -78,7 +80,7 @@
                             <idno>0R182</idno>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno>990000871090205171 </idno>
+                            <idno>990000871090205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 54391</idno>
@@ -89,7 +91,6 @@
                             <p>Book of Lights and Watchtowers by Yaʿqov ben Yiṣḥaq ha-Qirqisānī (discourse 1, list of chapters and chapters 1–19; discourse 2, list of chapters and chapters 4–14, 28).</p>
                         </summary>
                         <msItem xml:id="item-1.1" class="">
-                            
                             <locus from="10r" to="31v">10r–31v</locus>
                             <locus from="37r" to="44v">37r–44v</locus>
                             <locus from="110r" to="110v">110r–110v</locus>
@@ -115,14 +116,17 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
+                            <note xml:lang="">
+                                <p>The manuscript is in two hands. According to Sfardata, the secondary hand 2 copied folios 10-31, 37-44, 110, 125, 150-158. None of these folios are physically connected with folios in the main hand 1 (as far as can be seen in the images).</p>
+                            </note>
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript1570">
                                     <idno type="">Yevr.-Arab. I 756.2</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.2</title>
-                        <citedRange unit="folios" from="5r" to="5v">5r–5v</citedRange>
-                        <ptr target="https://jalit.org/manuscript/1570"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 756.2</title>
+                                    <citedRange unit="folios" from="5r" to="5v">5r–5v</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/1570"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -181,11 +185,10 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic point, abbreviations marked by a dot above the letter. </metamark>
+                                <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic point, abbreviations marked by a dot above the letter.</metamark>
                                 <origDate>1048</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page or chapter.</p>
