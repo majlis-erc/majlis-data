@@ -68,8 +68,8 @@
                 <msDesc xml:id="ms-527">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C520078 , C520079 , C520080 , C520081 , C520082 , C520083 , C520084 , C520085 , C520086 , C520087 , C520088 , C520089 , C520090 , C520091 , C520092 , C520093 , C520094 , C520095 , C520096 , C520097 , C520098 , C520099 , C520100 , C520101 , C520102 , C520103 , C520104 , C520105 , C520106 , C520107 , C520108 , C520109 , C520110 , C520111 , C520112 , C520113 , C520114 , C520115 , C520116 , C520117 , C520118 , C520119 , C520120 , C520121 , C520122 , C520123 , C520124 , C520125 , C520126 , C520127 , C520128 , C520129 , C520130 , C520131 , C520132 , C520133 , C520134 , C520135 , C520136 , C520137 , C520138 , C520139 , C520140 , C520141 , C520142 , C520143 , C520144 , C520145 , C520146 , C520147 , C520148 , C520149 , C520150 , C520151 , C520152 , C520153 , C520154 , C520155 , C520156 , C520157 , C520158 , C520159 , C520160 , C520161 , C520162 , C520163 , C520164 , C520165 , C520166 , C520167 , C520168 , C520169 , C520170 , C520171 , C520172 , C520173 , C520174 , C520175 , C520176 , C520177 , C520178 , C520179 , C520180 , C520181 , C520182 , C520183 , C520184 , C520185 , C520186 , C520187 , C520188 , C520189 , C520190 , C520043 , C520044 , C520045 , C520046 , C520047 , C520048 , C520049 , C520050 , C520051 , C520052 , C520053 , C520054 , C520055 , C520056 , C520057 , C520058 , C520059 , C520060 , C520061 , C520062 , C520063 , C520064 , C520065 , C520066 , C520067 , C520068 , C520069 , C520070 , C520071 , C520072 , C520073 , C520074 , C520075 , C520076 , C520077</idno>
-   </altIdentifier>
+                            <idno>C520078 , C520079 , C520080 , C520081 , C520082 , C520083 , C520084 , C520085 , C520086 , C520087 , C520088 , C520089 , C520090 , C520091 , C520092 , C520093 , C520094 , C520095 , C520096 , C520097 , C520098 , C520099 , C520100 , C520101 , C520102 , C520103 , C520104 , C520105 , C520106 , C520107 , C520108 , C520109 , C520110 , C520111 , C520112 , C520113 , C520114 , C520115 , C520116 , C520117 , C520118 , C520119 , C520120 , C520121 , C520122 , C520123 , C520124 , C520125 , C520126 , C520127 , C520128 , C520129 , C520130 , C520131 , C520132 , C520133 , C520134 , C520135 , C520136 , C520137 , C520138 , C520139 , C520140 , C520141 , C520142 , C520143 , C520144 , C520145 , C520146 , C520147 , C520148 , C520149 , C520150 , C520151 , C520152 , C520153 , C520154 , C520155 , C520156 , C520157 , C520158 , C520159 , C520160 , C520161 , C520162 , C520163 , C520164 , C520165 , C520166 , C520167 , C520168 , C520169 , C520170 , C520171 , C520172 , C520173 , C520174 , C520175 , C520176 , C520177 , C520178 , C520179 , C520180 , C520181 , C520182 , C520183 , C520184 , C520185 , C520186 , C520187 , C520188 , C520189 , C520190 , C520043 , C520044 , C520045 , C520046 , C520047 , C520048 , C520049 , C520050 , C520051 , C520052 , C520053 , C520054 , C520055 , C520056 , C520057 , C520058 , C520059 , C520060 , C520061 , C520062 , C520063 , C520064 , C520065 , C520066 , C520067 , C520068 , C520069 , C520070 , C520071 , C520072 , C520073 , C520074 , C520075 , C520076 , C520077</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -178,7 +178,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Rare use of Tiberian vowel signs.</metamark>
-                                <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter. </metamark>
+                                <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <origDate/>
                                 <note xml:lang="">
@@ -196,7 +196,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, section headings written center aligned in a seperate line, sense dividers (dot, usually followed by blank space).</p>
+                                    <p>Indentation of the first line of a new paragraph, section headings written center aligned in a seperate line, sense dividers (dot, usually followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
