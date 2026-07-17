@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 1 join-bibl(s) (1 citedRange element(s)) from referenced loci.</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
             <change when="2025-03-27" who="#mmoliere">Updated scan link.</change>
@@ -65,8 +65,8 @@
                 <msDesc status="draft">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C529036 , C529037 , C529038 , C529039 , C529040 , C529041 , C529042 , C529043 , C529044 , C529045 , C529046 , C743642 , C743643 , C743644 , C743645 , C743646 , C743647 , C743648 , C743649</idno>
-   </altIdentifier>
+                            <idno>C529036 , C529037 , C529038 , C529039 , C529040 , C529041 , C529042 , C529043 , C529044 , C529045 , C529046 , C743642 , C743643 , C743644 , C743645 , C743646 , C743647 , C743648 , C743649</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -109,10 +109,10 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript317">
                                     <idno type="">Yevr.-Arab. II 1039.02</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1039.02</title>
-                        <citedRange unit="folios" from="7r" to="36v">7r–36v</citedRange>
-                        <ptr target="https://jalit.org/manuscript/317"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1039.02</title>
+                                    <citedRange unit="folios" from="7r" to="36v">7r–36v</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/317"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -150,8 +150,6 @@
                                     <note xml:lang="">
                                         <p>Right-justified single column layout, left margin not perfectly justified; even interlinear spacing; straight line of writing.</p>
                                     </note>
-                                    
-                                    
                                 </summary>
                                 <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="20">
                                     <locus from="" to=""/>
@@ -188,7 +186,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Headings written center-aligned in a separate line, identation of the first line of a new paragraph, sense dividers (dot, occasionally followed by blank space).</p>
+                                    <p>Headings written center-aligned in a separate line, indentation of the first line of a new paragraph, sense dividers (dot, occasionally followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -227,7 +225,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl status="draft">
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
