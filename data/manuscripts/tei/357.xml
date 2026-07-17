@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#jbeise" when="2025-12-05T13:54:28.231Z">Change material</change>
             <change who="#rboehm" when="2024-09-06T11:50:05.144Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T08:09:10.474Z">work title</change>
@@ -175,7 +175,7 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                <persName ref="" role="scribe">David ben Šlomo ben David ben Yiṣḥaq</persName>
+                                <persName ref="https://jalit.org/person/56">David ben Šlomo ben David ben Yiṣḥaq</persName>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sparse use of Tiberian vocalization.</metamark>
                                 <origDate>1000-1100</origDate>
@@ -202,7 +202,7 @@
                             <list>
                                 <item xml:id="add-1.1.1.1">
                                     <objectType>Colophon</objectType>
-                                    <persName ref="" role="mentioned">David ben Šlomo ben David ben Yiṣḥaq</persName>
+                                    <persName ref="https://jalit.org/person/56" role="mentioned">David ben Šlomo ben David ben Yiṣḥaq</persName>
                                     <locus from="14v" to=""/>
                                     <quote xml:lang="he">
                                         <p>תם אצול אלתוחיד<lb/>ואלעדל אלמנצורי<lb/>כתב דויד בן שלמה<lb/>ביר֗ דויד ביר֗ יצחק<lb/>החכמים הכהנים<lb/>[ת]בנה ציון ברחמים<lb/>[...]לב עליו ארך ימים</p>
