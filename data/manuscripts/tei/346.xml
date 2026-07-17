@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 4 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 4 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-05-07T10:08:30.666Z">Harkavy Invt.</change>
             <change who="#rboehm" when="2024-09-06T12:21:59.274Z">work title linked (ii)</change>
             <change who="#rboehm" when="2024-09-03T15:14:38.902Z">work title (iii)</change>
@@ -72,8 +72,8 @@
                 <msDesc xml:id="ms-346">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C602385 , C602386 , C602387 , C602388 , C602389 , C602390 , C602391 , C602392 , C602393 , C602394 , C602395 , C602396 , C602397 , C602398 , C602399 , C602400 , C602401 , C602402 , C602403 , C602404 , C602405 , C602406 , C602407 , C602408 , C602409 , C602410 , C602411 , C602412 , C602413 , C602414 , C602415 , C602416 , C602417 , C602418 , C602419 , C602420 , C602421 , C602422 , C602423 , C602424 , C602425 , C602426 , C602427 , C602428 , C602429 , C602430 , C602431 , C602432 , C602433 , C602434 , C602435 , C602436 , C602437 , C602438 , C602439 , C602440 , C602441 , C602442 , C602443 , C602444 , C602445 , C602446 , C602447 , C602448 , C602449 , C602450 , C602451 , C602452 , C602453 , C602454 , C602455 , C602456 , C602457 , C602458 , C602459 , C602460 , C602461 , C602462 , C602463 , C602464 , C602465 , C602466 , C602467 , C602468 , C602469 , C602470 , C602471 , C602472 , C602473 , C602474 , C602475 , C602476 , C602477 , C602478 , C602479 , C602480 , C602481 , C602482 , C602483 , C602484 , C602485 , C602486 , C602487 , C602488</idno>
-   </altIdentifier>
+                            <idno>C602385 , C602386 , C602387 , C602388 , C602389 , C602390 , C602391 , C602392 , C602393 , C602394 , C602395 , C602396 , C602397 , C602398 , C602399 , C602400 , C602401 , C602402 , C602403 , C602404 , C602405 , C602406 , C602407 , C602408 , C602409 , C602410 , C602411 , C602412 , C602413 , C602414 , C602415 , C602416 , C602417 , C602418 , C602419 , C602420 , C602421 , C602422 , C602423 , C602424 , C602425 , C602426 , C602427 , C602428 , C602429 , C602430 , C602431 , C602432 , C602433 , C602434 , C602435 , C602436 , C602437 , C602438 , C602439 , C602440 , C602441 , C602442 , C602443 , C602444 , C602445 , C602446 , C602447 , C602448 , C602449 , C602450 , C602451 , C602452 , C602453 , C602454 , C602455 , C602456 , C602457 , C602458 , C602459 , C602460 , C602461 , C602462 , C602463 , C602464 , C602465 , C602466 , C602467 , C602468 , C602469 , C602470 , C602471 , C602472 , C602473 , C602474 , C602475 , C602476 , C602477 , C602478 , C602479 , C602480 , C602481 , C602482 , C602483 , C602484 , C602485 , C602486 , C602487 , C602488</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -83,7 +83,7 @@
                             <idno>0R012</idno>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno> 990000854570205171</idno>
+                            <idno>990000854570205171</idno>
                         </altIdentifier>
                         <altIdentifier type="IMHM">
                             <idno>F 56227, F 45176</idno>
@@ -173,7 +173,7 @@
                                     <note xml:lang="">
                                         <p>Generally well preserved, many pages stained in the upper half, little worm damage, some pages torn at the top, frayed edges.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Legible. </ab>
+                                    <ab rend="visible" type="writing">Legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -208,7 +208,7 @@
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Sparsely dotted. A dot above a letter also marks abbreviations.</metamark>
-                                <metamark function="vocalization">Sporadic use of Tiberian vocalization. </metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
                                 <origDate>1034</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page, at the end of a line or after a heading. Occasional use of a dotted circle to mark section endings.</p>
@@ -236,9 +236,11 @@
                                     <persName ref="" role="mentioned"/>
                                     <locus from="100v" to=""/>
                                     <quote xml:lang="he" type="transcription">
-                                        <p>תמת מקאלה אלסבת ואלחמד<lb/>ללה רב אלעאלמין וכאן אלפראג<lb/>מן נסכהא פי אלמחרם מן סנה<lb/>סתה ועשרין וארבע מאיה<lb/>ואלחמד ללה עלי נעמאיה</p>
+                                        <p>תמת מקאלה אלסבת ואלחמד<lb/>ללה רב אלעאלמין וכאן אלפראג<lb/>מן נסכ̇הא פי אלמחרם מן סנה<lb/>סתה ועשרין וארבע מאיה<lb/>ואלחמד ללה עלי נעמאיה</p>
                                     </quote>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Date in colophon: Muḥarram 426 AH = November/December 1034 CE</p>
+                                    </note>
                                 </item>
                             </list>
                         </additions>
