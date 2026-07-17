@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-05-06T22:34:16.182Z">Bundle Nr.</change>
             <change who="#rboehm" when="2024-08-30T00:17:15.529Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -109,6 +109,9 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
+                            <note xml:lang="">
+                                <p>All leaves of Yevr.-Arab. I 86 contain Yefet’s commentary on Numbers 16–34. The preserved quire numbers suggest that these are, in fact, two manuscripts mixed together. Thus, quire number 5 appears twice, on fol. 40r and fol. 111r. A mapping of the folios shows that quire numbers 2–6, 9 appear on folios that carry Num. 16–24 (quire 1 is not numbered; first folio of quire number 9 has Num. 21:15 but later quire numbers have not survived). Num. 24:18–28:7 are not found in the manuscript. Then quire number 5, 7, 11 appear on folios that carry Num. 28:8–34:18 (the latest number 11 corresponds to Num. 33:39). This suggests that  Num. 16–24 and Num. 28–34 are from two different codicological units.</p>
+                            </note>
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl>
@@ -207,15 +210,9 @@
                                     <quote type="translation" xml:lang="en">
                                         <p>This book contains a commentary on the [parashot] Korach (Num. 16:1–18:32) to Pinhas (Num. 25:10–30:1), from the commentary of the teacher, Yefet ben ʿEli, known as the  Basran, may his memory be a blessing. It was endowed by Sarah bat Reʾuven, who deceased from this world, may her spirit be at rest, by her husband Moshe ben Yiftah ha-Kohen, al-Raḥabī, to the  community of Qaraites, may God assist them, and stipulated it to be in Jerusalem, the Holy City,  may it be rebuilt soon, in the compound of the teacher Yosef b. Baḫtawayh, may his soul be bound in the bundle of the living, under the care of the Elder, Azarya ha-Kohen, the teacher, son of Maṣliaḥ, son of Sahl, the learned, be his resting place in Eden, and his memory be blessed.<lb/>Those who gather in this place on sabbaths and on holidays holy to the Lord, Israel’s God, shall read in it. One must neither sell, redeem, nor pawn it. Cursed be the one who sells it, cursed be the one who buys it and cursed be the one who removes it from this compound! Only if there is fear in the city one may hide it, but only during times of distress and [afterwards] one must return it to this place. Israel’s God may grant a good reward and a pleasant fate to the one who endows it and to everyone who will safeguard this book. May he be blessed by the Lord and all of Israel with all the blessings, Amen!</p>
                                     </quote>
-                                    
-                                    
-                                    
                                     <listRelation>
                                         <relation name="" ref="">
-      
-      
-      
-      <desc type="">
+                                            <desc type="">
                                                 <persName ref="https://jalit.org/person/4" role="mentioned">Yefet ben ʿEli</persName>
                                                 <persName ref="https://jalit.org/person/47" role="mentioned">Sarah bat Reʾuven</persName>
                                                 <persName ref="https://jalit.org/person/48" role="mentioned">Moshe ben Yiftaḥ ha-Kohen al-Raḥabī</persName>
@@ -223,17 +220,11 @@
                                                 <persName ref="https://jalit.org/person/23" role="mentioned">ʿAzarya ha-Kohen</persName>
                                                 <persName ref="https://jalit.org/person/46" role="mentioned">Maṣliaḥ ben Sahl</persName>
                                                 <persName ref="https://jalit.org/person/3" role="mentioned">Sahl ben Maṣliaḥ</persName>
-         
-         
-         <placeName ref="https://jalit.org/place/3" role="">Jerusalem</placeName>
+                                                <placeName ref="https://jalit.org/place/3" role="">Jerusalem</placeName>
                                                 <placeName ref="https://jalit.org/place/14" role="">Compound of the teacher Yosef b. Baḫtawayh</placeName>
-         
-         
-         
-      </desc>
-   </relation>
-      
-   </listRelation>
+                                            </desc>
+                                        </relation>
+                                    </listRelation>
                                 </item>
                                 <item xml:id="add-1.1.1.2">
                                     <objectType/>
