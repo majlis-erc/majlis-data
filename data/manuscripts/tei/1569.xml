@@ -57,7 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T10:04:33.921Z">work title</change>
             <change who="#rboehm" when="2024-09-05T14:15:03.375Z">work title</change>
             <change who="#rboehm" when="2024-08-30T01:05:09.177Z">work title</change>
@@ -117,6 +117,9 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
+                            <note xml:lang="">
+                                <p>Indications that Yevr.-Arab. I 95 contains two codicological units: At the end of weekly portion Re’eh (Deuteronomy 16:17) there is an empty folio (fol. 86*). The weekly portion Shofṭim begins on the verso of fol. 87. Since the midpoint of Deuteronomy in terms of the number verses is close to the beginning of Shofṭim, commentaries on the first and the second halves of the book may have originally been separate. The same is supported by the fact the quire number 11 appears twice: on fols. 70r and 180r.<lb/>The Heqdesh note on fol. 87r is probably the beginning of a separate codicological unit.</p>
+                            </note>
                             <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl>
@@ -226,7 +229,6 @@
                                     <locus from="87r"/>
                                     <persName ref="https://jalit.org/person/30" role="mentioned">Abū Yaʿqūb b. Baḫtawayh</persName>
                                     <placeName ref="https://jalit.org/place/14">Compound of the teacher Yosef b. Baḫtawayh</placeName>
-                                    
                                     <ab type="" xml:lang=""/>
                                     <quote xml:lang="he">
                                         <p>קדש לאל[הי י]שראל בחצר יוסף בן בכתויה<lb/>ברוך שומרו אמן</p>
