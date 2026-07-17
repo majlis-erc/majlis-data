@@ -53,8 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-27" source="biblRange_sync_log_20260627-194609.tsv">citedRange sync (biblRange_sync.py): regenerated 2 join-bibl(s) (2 citedRange element(s)) from referenced loci.</change>
-            <change when="2026-06-27" source="locus_change_log_20260627-174936.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-27" source="#">citedRange sync (biblRange_sync.py): regenerated 2 join-bibl(s) (2 citedRange element(s)) from referenced loci.</change>
+            <change when="2026-06-27" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-05-07T10:25:16.384Z">Bundle Nr.</change>
             <change who="#rboehm" when="2024-08-30T15:25:04.235Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -70,8 +70,8 @@
                 <msDesc xml:id="ms-307">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C517515 , C517516 , C517517 , C517518 , C517519 , C517520 , C517521</idno>
-   </altIdentifier>
+                            <idno>C517515 , C517516 , C517517 , C517518 , C517519 , C517520 , C517521</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -114,28 +114,26 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript424">
                                     <idno type="">Yevr.-Arab. II 3092</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. II 3092</title>
-                        <ptr target="https://jalit.org/manuscript/424"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 3092</title>
+                                    <ptr target="https://jalit.org/manuscript/424"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript426">
                                     <idno type="">Yevr.-Arab. I 4504</idno>
-                        <title>St. Petersburg, National Library of Russia,
-                    Yevr.-Arab. I 4504</title>
-                        <ptr target="https://jalit.org/manuscript/426"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 4504</title>
+                                    <ptr target="https://jalit.org/manuscript/426"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript519">
                                     <idno type="">Yevr.-Arab. I 917</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 917</title>
-                        <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
-                        <ptr target="https://jalit.org/manuscript/519"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. I 917</title>
+                                    <citedRange unit="folios" from="1r" to="6v">1r–6v</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/519"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript315">
                                     <idno type="">Yevr.-Arab. II 1089.67</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1089.67</title>
-                        <citedRange unit="folios" from="101" to="105">101–105</citedRange>
-                        <ptr target="https://jalit.org/manuscript/315"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1089.67</title>
+                                    <citedRange unit="folios" from="101" to="105">101–105</citedRange>
+                                    <ptr target="https://jalit.org/manuscript/315"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -162,7 +160,7 @@
                                     <note xml:lang="">
                                         <p>Stained, large holes in the text.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Mostly legible. </ab>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -195,7 +193,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Rare use of Tiberian vowel signs.</metamark>
-                                <metamark function="diacritics"> Sparsely dotted. Abbreviated words marked by a dot above the letter.</metamark>
+                                <metamark function="diacritics">Sparsely dotted. Abbreviated words marked by a dot above the letter.</metamark>
                                 <origDate>1100-1300?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
@@ -210,7 +208,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, sense dividers (dot and colon, followed by blank space).</p>
+                                    <p>Indentation of the first line of a new paragraph, sense dividers (dot and colon, followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -364,7 +362,6 @@
                                 <citedRange unit="page">90.</citedRange>
                                 <ptr target="https://jalit.org/bibl/WHC6W956"/>
                             </bibl>
-                            
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000854420205171"/>
