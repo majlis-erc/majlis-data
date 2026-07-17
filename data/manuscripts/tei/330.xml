@@ -57,7 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 2 reviewed locus fix(es); 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 2 reviewed locus fix(es); 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-10T11:43:02.973Z">work title (ii)</change>
             <change who="#rboehm" when="2024-08-30T10:44:21.960Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -71,8 +71,8 @@
                 <msDesc xml:id="ms-330">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C638728 , C638729 , C638730 , C638731 , C638732 , C638733 , C638734 , C638735 , C638736 , C638737 , C638738 , C638739 , C638740 , C638741 , C638742 , C638743 , C638744</idno>
-   </altIdentifier>
+                            <idno>C638728 , C638729 , C638730 , C638731 , C638732 , C638733 , C638734 , C638735 , C638736 , C638737 , C638738 , C638739 , C638740 , C638741 , C638742 , C638743 , C638744</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -242,12 +242,29 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
-                                    <note xml:lang=""/>
+                                    <locus from="10v" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>אנתהי סהל בן<lb/>אלפצ̇ל בן סהל אלתסתרי מן נקל מקאלתה<lb/>הד̇ה פי מחרם סנה ט֗פ֗ת֗ ואלחמד ללה וחדה</p>
+                                    </quote>
+                                    <note xml:lang="">
+                                        <p>Muḥarram 489 AH = January 1096 CE – probably gives date of composition, not date of copying.</p>
+                                    </note>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Colophon</objectType>
+      <locus from="14v" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>נג̇ז פי כ֗ה֗ מן שהר רביע אלאכ̇ר סנה<lb/>ת֗פ֗ט֗ ואלחמד ללה כת̇ירא</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Date in colophon: 25 Rabīʿ II 489 AH = 22 April 1096 CE.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
@@ -274,7 +291,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -359,11 +375,11 @@
                                 <ptr target="https://jalit.org/bibl/CDYNP8XA"/>
                             </bibl>
                             <bibl xml:id="jalit-orgbiblNLMAEUIB">
-                        <idno/>
-                        <title>Jacob Mann, Texts and Studies in Jewish History and Literature, 2 vols. (Cincinnati; Philadelphia: Hebrew Union College Press; Jewish Publication Society, 1931)</title>
-                        <citedRange unit="page">99-100.</citedRange>
+                                <idno/>
+                                <title>Jacob Mann, Texts and Studies in Jewish History and Literature, 2 vols. (Cincinnati; Philadelphia: Hebrew Union College Press; Jewish Publication Society, 1931)</title>
+                                <citedRange unit="page">99-100.</citedRange>
                                 <ptr target="https://jalit.org/bibl/NLMAEUIB"/>
-                    </bibl>
+                            </bibl>
                             <bibl>
                                 <title>Ktiv</title>
                                 <ptr target="https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990001116990205171"/>
