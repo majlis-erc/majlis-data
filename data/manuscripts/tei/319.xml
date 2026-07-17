@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-234224.tsv">Locus folio data updated (apply_locus_fixes.py): 1 reviewed locus fix(es); 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 reviewed locus fix(es); 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-08-30T12:50:40.198Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere">Converted Zotero data into TEI-File.</change>
@@ -196,7 +196,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="diacritics">Sparsely dotted. </metamark>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <origDate when="1046">1047</origDate>
                                 <note xml:lang=""/>
                             </handNote>
@@ -211,7 +211,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a paragraph, sense dividers (dot, usually followed by blank space), headings written center-aligned in a separate line</p>
+                                    <p>Indentation of the first line of a paragraph, sense dividers (dot, usually followed by blank space), headings written center-aligned in a separate line</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
