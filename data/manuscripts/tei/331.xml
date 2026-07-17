@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#jbeise" when="2025-12-05T14:48:55.670Z">Change material</change>
             <change who="#rboehm" when="2024-09-10T11:38:29.999Z">work title (ii)</change>
             <change who="#rboehm" when="2024-08-30T10:39:58.019Z">work title</change>
@@ -71,8 +71,8 @@
                 <msDesc xml:id="ms-331">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C642902 , C642903 , C642904 , C642905 , C642906 , C642907</idno>
-   </altIdentifier>
+                            <idno>C642902 , C642903 , C642904 , C642905 , C642906 , C642907</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -92,8 +92,8 @@
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="1r" to="2v">1r–2v</locus>
-                            <title ref="https://jalit.org/work/65">Commentary on Notable Points of the Book of Jeremiah </title>
-                            <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli </author>
+                            <title ref="https://jalit.org/work/65">Commentary on Notable Points of the Book of Jeremiah</title>
+                            <author ref="https://jalit.org/person/10">Levi ben Yefet ben ʿEli</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus from="" to=""/>
@@ -172,7 +172,6 @@
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
-                                
                                 <persName ref="https://jalit.org/person/51" role="scribe">Ismaʿīl al-Ṣaqallī</persName>
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Sparsely dotted. Dot above a letter also used to mark abbreviations and numbers.</metamark>
@@ -198,11 +197,11 @@
                             <list>
                                 <item xml:id="add-1.1.1.1">
                                     <objectType>Colophon</objectType>
-                                    <persName ref="" role="mentioned"/>
-                                    <persName ref="" role="mentioned">שמואל בן עבדיה</persName>
+                                    <persName ref="https://jalit.org/person/51">Ismaʿīl al-Ṣaqallī</persName>
+                                    <persName ref="https://jalit.org/person/57">Šmuʾel ben ʿOvadya</persName>
                                     <locus from="2v" to=""/>
-                                    <quote xml:lang="">
-                                        <p>כמל נכת ירמיהו בעון אללה ופצ̇לה ואחסאנה<lb/>לר֗ שמואל ברבי עבדיה רית֗ ישמרו צורו<lb/>ומצר יצרו ולעדי עד יהיה בעזרו<lb/>נשלם בחדש טבת שנת ת֗ש֗ס֗ג֗ לבריית<lb/>העולם סימן טוב לכל ישראל</p>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>כמל נכת ירמיהו בעון אללה ופצ̇לה ואחסאנה<lb/>לר֗ שמואל ברבי עבדיה רית֗ ישמרו צורו<lb/>ומצר יצרו ולעדי עד יהיה בעזרו<lb/>נשלם בחדש טבת שנת ת֗ש֗ס֗ג֗ לבריית<lb/>העולם סימן טוב לכל ישראל<lb/>بخط صنيعته وشاكر نعمه اسمعيل الصقلي</p>
                                         <p>بخط صنيعته وشاكر نعمه اسمعيل الصقلي</p>
                                     </quote>
                                     <note xml:lang=""/>
