@@ -66,8 +66,8 @@
                 <msDesc xml:id="ms-310">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno> C696813 , C696814 , C696815 , C696816 , C696817 , C696818 </idno>
-   </altIdentifier>
+                            <idno>C696813 , C696814 , C696815 , C696816 , C696817 , C696818</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -161,7 +161,6 @@
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    
                                     <ab type="ruling">No ruling can be seen</ab>
                                     <ab type="pricking">No pricking can be seen</ab>
                                 </layout>
@@ -189,7 +188,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, sense dividers (dot, usually followed by blank space).</p>
+                                    <p>Indentation of the first line of a new paragraph, sense dividers (dot, usually followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -233,7 +232,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
