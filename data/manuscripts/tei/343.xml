@@ -222,12 +222,23 @@
                                     <quote xml:lang="he">
                                         <p>קדש עלי ועל זרעי אחרי ואחריהם על כנסת בני<lb/>מקרא י֗ש֗ צ֗ו֗ אני שמואל בן מור ור שלמה בן מר ור שמואל<lb/>בן מר ור משה כאזרוני ס֗ט֗ ארור מוכרו וארור קונהו<lb/>וארור מעביטו וארור גונבו ומחליף קדושתו<lb/>והכתיבה אשר על גבו  אמן</p>
                                     </quote>
-                                    <note xml:lang="">
-                                        <p>Below this note: יוסף and another, separate word in Arabic script.</p>
-                                        <p>Additional ownership(?) notes at the bottom of the folio:<lb/>An Arabic script note possibly containing the word الشيخ<lb/>A Hebrew script note:<lb/>יו[ס]ף בן פינחס<lb/>בן אלעזר הכהן(?)<lb/>נ֗ע֗</p>
-                                    </note>
+                                    <note xml:lang=""/>
                                 </item>
                                 <item xml:id="add-1.1.1.2">
+      <objectType>Ownership statements</objectType>
+      <locus from="2r, bottom" to=""/>
+      <quote type="transcription" xml:lang="">
+                                        <p>יו[ס]ף בן פינחס<lb/>בן אלעזר הכהן(?)<lb/>נ֗ע֗</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Below the above mentioned certificate it says: יוסף and there is another, separate word in Arabic script.</p>
+                                        <p>Also there is an Arabic script note possibly containing the word الشيخ</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
                                     <objectType>Note</objectType>
                                     <locus from="10r, 18r, 43r, 44r" to=""/>
                                     <quote type="" xml:lang=""/>
@@ -238,6 +249,17 @@
                                         <relation name="" ref=""/>
                                     </listRelation>
                                 </item>
+                                <item xml:id="add-1.1.1.4">
+      <objectType>Note</objectType>
+      <locus from="73r" to=""/>
+      <quote type="" xml:lang=""/>
+      <note xml:lang="">
+                                        <p>Drawing of locations of fats in an animal.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
