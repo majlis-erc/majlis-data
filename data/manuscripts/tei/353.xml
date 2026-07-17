@@ -229,13 +229,89 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Ownership statements</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <persName ref="" role="mentioned">Yašar ben Ḥesed ben Yašar</persName>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <persName ref="https://jalit.org/person/15">Yašar ben Ḥesed ben Yašar</persName>
+                                    <locus from="1r" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>אלמקאלה אלת̇אלת̇ה<lb/>ואלראבעה מן כתאב<lb/>אלאסתבצאר פי יהי<lb/>מאורות ואלאביב<lb/>מלך לאמה אלקאדר<lb/>אבנה אלפצ֗ל בן סהל<lb/>אלתסתרי ירחמהו [צורו]</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Ownership statements</objectType>
+      <locus from="1r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>מלך שלמה?<lb/>בן דוד בן צעיר<lb/>ענ</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
+      <objectType>Ownership statements</objectType>
+      <locus from="1r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>קניתי אני סת? בן דוד<lb/>בן שמואל בן שלה?*  בן<lb/>מבשר בן צג[י]ר</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>*Sklare: אהרון?</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.4">
+      <objectType>Colophon</objectType>
+      <locus from="1r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>מלך אלממ*  אליעזר<lb/>בן דוד בן הושפט</p>
+                                    </quote>
+      <note xml:lang="en">
+                                        <p>*Sklare: אלמאל? But probably the reading is אלממ for אלממלוך.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.5">
+      <objectType>Ownership statements</objectType>
+      <locus from="39r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>אלמקאלה אלתאסעה מן<lb/>אלאסתבצאר אלקול [ב]אל<lb/>עריות מלך לאמה אלק[אדר]<lb/>אבנה אלפצ֗ל בן סהל א[לתסתרי]<lb/>ירחמהו צוּרוֹ</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.6">
+      <objectType>Note</objectType>
+      <locus from="39r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>[   ]כא[           ]<lb/>משהב[          ]<lb/>בן [                ]<lb/>לנשר בן [     ]<lb/>נשר הר[       ]</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Practically illegible.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.7">
+      <objectType>Note</objectType>
+      <locus from="39r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>אנתקל הד̇ה אלדפתאר? ל[       ]<lb/>מן ישתעידה? ולם? [                   ]</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Practically illegible.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
