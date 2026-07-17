@@ -57,7 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-06T12:41:57.267Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T08:16:58.806Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -150,7 +150,7 @@
                                     <note xml:lang="">
                                         <p>Some pages worm-eaten around the sides, somes pages torn on the top or on the bottom, frayed edges, stained and faded in places, some loss of text.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Legible. </ab>
+                                    <ab rend="visible" type="writing">Legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -185,7 +185,7 @@
                                 <persName ref="" role="scribe">David ben Yiṣḥaq</persName>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Regular use of Tiberian vocalization.</metamark>
-                                <metamark function="diacritics">Sparsely dotted. </metamark>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <origDate>1000(?)</origDate>
                                 <note xml:lang=""/>
@@ -201,7 +201,7 @@
                             <decoNote>
                                 <desc>Paragraph marks and textual dividers</desc>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a paragraph, colon often followed by blank space.</p>
+                                    <p>Indentation of the first line of a paragraph, colon often followed by blank space.</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
@@ -210,8 +210,6 @@
                                 <item xml:id="add-1.1.1.1">
                                     <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    
-                                    
                                     <locus from="19v" to=""/>
                                     <quote xml:lang="he">
                                         <p>כתב דויד [בן י]צחק המלמד<lb/>בירושלם עיר הקדש<lb/>תבנה במהרה<lb/>אמן</p>
