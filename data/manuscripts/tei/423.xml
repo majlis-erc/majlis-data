@@ -107,9 +107,9 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript314">
                                     <idno type="">Yevr.-Arab. II 1134.07</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1134.07</title>
-                        <ptr target="https://jalit.org/manuscript/314"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 1134.07</title>
+                                    <ptr target="https://jalit.org/manuscript/314"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -125,7 +125,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="foliation"> Modern pencil foliation in Arabic numerals at the bottom center of each recto page.</foliation>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals at the bottom center of each recto page.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
@@ -181,7 +181,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a new paragraph, sense dividers (dot, usually followed by blank space).</p>
+                                    <p>Indentation of the first line of a new paragraph, sense dividers (dot, usually followed by blank space).</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
