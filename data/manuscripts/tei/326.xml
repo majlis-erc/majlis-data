@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-234224.tsv">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 2 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2025-04-13T18:10:14.331Z">ID fix</change>
             <change who="#rboehm" when="2024-09-06T10:42:23.328Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T11:04:46.417Z">work title</change>
@@ -165,7 +165,7 @@
                                     <note xml:lang="">
                                         <p>worm-eaten at the top and at the bottom with loss of text, stained in places.</p>
                                     </note>
-                                    <ab rend="visible" type="writing">Mostly legible. </ab>
+                                    <ab rend="visible" type="writing">Mostly legible.</ab>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -197,11 +197,9 @@
                             <handNote xml:id="hand-1.1.1" medium="">
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
-                                
-                                
                                 <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="diacritics">Sparsely dotted. </metamark>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <placeName ref="https://jalit.org/place/1">Cairo</placeName>
                                 <origDate when="1006">1006</origDate>
                                 <note xml:lang="">
@@ -219,7 +217,7 @@
                             <decoNote>
                                 <desc/>
                                 <note xml:lang="">
-                                    <p>Identation of the first line of a paragraph, sense dividers (dot, usually followed by blank space), headings written center-aligned in a separate line</p>
+                                    <p>Indentation of the first line of a paragraph, sense dividers (dot, usually followed by blank space), headings written center-aligned in a separate line</p>
                                 </note>
                             </decoNote>
                         </decoDesc>
