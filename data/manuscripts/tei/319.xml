@@ -218,12 +218,45 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
-                                    <note xml:lang=""/>
+                                    <locus from="203v" to="204v"/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>וכאן אלאבתדא בה<lb/>פי אלעשר אלאול מן ג̇מאדי אלאולי מן סנה ת̇מאן<lb/>ות̇לת̇ין וארבע מאיה ואלפראג מנה פי אלעשר<lb/>אלאכ̇יר מן ג̇מאדי אלאכ̇רה מן אלסנה אלמד̇כורה<lb/>ואלחמד ללה חמדא ......הה<lb/>יקתצ̇י(?) רצ̇ואנה<lb/>ברוך יי לעולם אמן ואמן</p>
+                                    </quote>
+                                    <note xml:lang="">
+                                        <p>Date in author's colophon: Jumādā I 438 AH corresponds to November 1046 CE, Jumādā II 438 AH corresponds to December 1046 CE.</p>
+                                    </note>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Note</objectType>
+      <locus from="205r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>בן מבשר הלוי בן שמעיה הלוי בן יוסף הלוי נ'ע</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>A name next to the dirge in a different hand, now lost but recorded in an article by Haggai Ben-Shammai.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
+      <objectType>Note</objectType>
+      <locus from="205r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>בשם אל [	] עת רצון מיי֗י<lb/>נולד בן לאלע[זר] הלוי בן חלפון<lb/>הלוי בן נחמאל הלוי נ֗נ֗ ושמו דוד<lb/>הלוי ישימהו אלהינו לברכה בקרב<lb/>הארץ אמן.   ביום ראשון לשב[וע]<lb/>בחדש מ בארבעה עשר לחדש<lb/>מרחשון על דרך פוגה שנת אלף<lb/>וחמש מאות לשטרות ישועה<lb/>[קרוב]ה אמן. ו[סימנ]ם אך</p>
+                                    </quote>
+      <quote type="translation" xml:lang="en">
+                                        <p>In the name of God [                ]  at a moment favoured by God<lb/>a son was born to Elʿazar ha-Levi b. Ḥalfon<lb/>ha-Levi b. Neḥamʾel ha-Levi, may his soul rest, whose name is David<lb/>ha-Levi. May our God make him a blessing<lb/>on earth (cf. Isa 19:24). Amen.        On Sunday,<lb/>&lt;of the month M&gt; the 14th of the month<lb/>Marḥeshvan, with uncertainty, of the year one thousand<lb/>and five hundred of the Era of the Documents. Salvation<lb/>shall come (cf. Isa 56:1). Amen. And the sign is 1500.<lb/>(Translation by Nadia Vidro)</p>
+                                    </quote>
+                                    <note xml:lang="en">
+                                        <p>In the Rabbanite calendar, 14 Marheshvan 1500 SE = Sunday 6 November 1188 CE. The expression על דרך פוגה (“by way of doubt”, “with uncertainty”) after the month may indicate that the Rabbanite calendar was used in the absence of information on the state of crops in Palestine.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
