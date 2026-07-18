@@ -115,7 +115,6 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
@@ -167,7 +166,7 @@
                         <handDesc hands="">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
-                                <metamark function="diacritics">Sparsely dotted. Abbreviations and numerals marked by a dot above the letter. </metamark>
+                                <metamark function="diacritics">Sparsely dotted. Abbreviations and numerals marked by a dot above the letter.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
@@ -196,10 +195,13 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="75r" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>ברוך יי֗ לעולם אמן ואמן ימלך [יי֗ לעו]לם א[מ]ן ואמן</p>
+                                        <p>כמל אלכתאב בפצ֗ל אללה ומנה מן תפסיר ………..בה<lb/>סעדיה ברבי יוסף רוח יי֗ תניחם</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
