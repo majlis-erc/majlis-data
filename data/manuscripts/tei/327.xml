@@ -207,13 +207,28 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Colophon</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <persName ref="" role="mentioned">סעאדה בן שמואל</persName>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <persName ref="https://jalit.org/person/54" role="mentioned">Yiṣḥaq ben Yiftaḥ ha-Kohen</persName>
+                                    <locus from="1r" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>הד̇א פסר ספר ויקרא מן אכ̇ראג̇ נשיאנו<lb/>דוד בן בעז רוח יי֗י תני֗ בן נשאינו יהושפט<lb/>בן נש֗ יאשיהו בן נש֗ שאול בן נש֗ ואור<lb/>עינינו אשר הערה למות נפשו ענן ראש<lb/>הגולה רוח יי֗י תנ֗ לסעאדה בר שמואל<lb/>בימיו יבוא גואל: ויראהו בנין אריאל ויקבוץ<lb/>נדחי ישראל וכתב יצחק בן יפתח הכהן:</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Ownership statements</objectType>
+      <locus from="1r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>לאברהם בן נתנאל בן יש[ר]אל<lb/>[   ]פאיס(?) נו֗ ע֗ נפ? עחללכה?<lb/>בן אליהו</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Two more notes in Arabic script below this note possibly containing the word تفسير.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
