@@ -66,8 +66,8 @@
                 <msDesc xml:id="ms-458" status="draft">
                     <msIdentifier>
                         <altIdentifier type="IMHM">
-      <idno>  Fiche 47 ,  MSS-D 8780 </idno>
-   </altIdentifier>
+                            <idno>Fiche 47 , MSS-D 8780</idno>
+                        </altIdentifier>
                         <country>Hungary</country>
                         <settlement>Budapest</settlement>
                         <institution>Hungarian Academy of Sciences</institution>
@@ -111,9 +111,9 @@
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript318">
                                     <idno type="">Yevr.-Arab. II 376</idno>
-                        <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 376</title>
-                        <ptr target="https://jalit.org/manuscript/318"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Yevr.-Arab. II 376</title>
+                                    <ptr target="https://jalit.org/manuscript/318"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
