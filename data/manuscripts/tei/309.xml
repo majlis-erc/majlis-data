@@ -229,7 +229,7 @@
                             <list>
                                 <item xml:id="add-1.1.1.1">
                                     <objectType>Colophon</objectType>
-                                    <persName ref="" role="mentioned"/>
+                                    <persName ref="https://jalit.org/person/55" role="mentioned">Mešullam ben Šlomo ben Davīd al-ʿArīšī</persName>
                                     <locus from="2r" to=""/>
                                     <quote xml:lang="he" type="transcription">
                                         <p>כתב משלם בן שלמה<lb/>בן דויד אלערישי</p>
@@ -243,7 +243,7 @@
                                         <p>כתב משלי? דוד בן שמאול<lb/>אלעגמי אלפיריזי?<lb/>אלדפח?</p>
                                     </quote>
                                     <note xml:lang="en">
-                                        <p>Catalogues assume that this is the author of the piyyut. It seems to me more likely that he is the scribe and the author is Yefet b. ʿEli. Yefet’s name is in the acrostic. The piyyut and the name are in the same hand.</p>
+                                        <p>Catalogues assume that this is the author of the piyyut. It seems, however, more likely that he is the scribe and the author is Yefet b. ʿEli. Yefet’s name is in the acrostic. The piyyut and the name are in the same hand.</p>
                                     </note>
                                     <listRelation>
                                         <relation name="" ref=""/>
