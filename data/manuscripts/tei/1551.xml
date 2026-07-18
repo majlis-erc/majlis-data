@@ -201,7 +201,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: yods with symbols/abbreviation signs.</metamark>
-                                <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter. </metamark>
+                                <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter.</metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
@@ -214,7 +214,6 @@
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                
                                 <note xml:lang="">
                                     <p>Sense dividers (dot).</p>
                                 </note>
@@ -223,14 +222,64 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Certificates of endowment</objectType>
                                     <persName ref="" role="mentioned"/>
                                     <placeName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="1r" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>הד̇א שרח אלה הדברים למ֗ ור֗ הש֗(?) המ֗ אלמעלם אבו עלי ז֗צ֗ל֗ אוקפה אלעבד אלצגיר [א]ברהים ולד אלש֗ אל? עב&lt;ד&gt; אללטיף אלשהיר באלכאזרוני נ֗ע֗ פי כ̇אמס עש[ר] שהר רביע אלאכ̇ר סנה אחד ותסעין וסבע מאיה לבית הכנסת ת֗ו֗ת֗ א֗נ֗ס֗</p>
+                                    </quote>
                                     <ab type="translation"/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Date mentioned in certificate of endowment: 15 Rabiʿ II 791 AH = 13 April 1389 CE.</p>
+                                    </note>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Note</objectType>
+      <locus from="2r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>תפ֗ אלה הדברים<lb/>ללמעלם אבי עלי נ֗ע֗</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
+      <objectType>Note</objectType>
+      <locus from="2r" to=""/>
+      <quote type="" xml:lang=""/>
+      <note xml:lang="">
+                                        <p>An Arabic script note underneath the title mentioned above.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.4">
+      <objectType>Colophon</objectType>
+      <locus from="152v" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>נשלם שבח ליוצר הכל בחדש<lb/>אייר שנת א֗ת֗י֗ז֗ לשטרות<lb/>ברוך נותן ליעף כוח ולאין אונים<lb/>עצמה ירבה הודו לי֗י כי טוב<lb/>כי לעו֗ חסדו</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Iyyar 1417 SE = April 1106 CE (copy of authorial colophon? Handwriting is from 14th century).</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.5">
+      <objectType>Note</objectType>
+      <locus from="152v" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>ממא תרכה משה בר ישועה ז֗צ֗ל֗?</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
@@ -257,7 +306,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -290,7 +338,6 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
@@ -298,7 +345,6 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="">
-                                
                                 <citedRange unit="p"/>
                                 <ptr target=""/>
                             </bibl>
