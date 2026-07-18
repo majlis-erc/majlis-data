@@ -203,10 +203,12 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Note</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="24r" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>וקד אמלינא פי תכציץ אלנץ באלקיאס מסלה<lb/>באלרמלה אט֗נהא קד ד̇הבת פי אלנהב ולא אערף<lb/>חצול נסכ̇ה להא</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
