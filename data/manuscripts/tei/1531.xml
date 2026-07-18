@@ -71,8 +71,8 @@
                 <msDesc xml:id="ms-1531">
                     <msIdentifier>
                         <altIdentifier type="FGP">
-      <idno>C510433 , C510434 , C510435 , C510436 , C510437 , C510438 , C510439 , C510440 , C510441 , C510442 , C510443 , C510444 , C510445 , C510446 , C510447 , C510448 , C510449 , C510450 , C510451 , C510452 , C510453 , C510454 , C510455 , C510456 , C510457 , C510458 , C510459 , C511118 , C511119 , C511120 , C511121 , C511122 , C511123 , C511124 , C511125 , C511126 , C511127 , C511128 , C511129 , C511452 , C511453 , C511454 , C511455 , C511456 , C511457 , C511458 , C511459 , C511460 , C511461 , C511462 , C511463 , C511464 , C511465 , C511466 , C511467 , C511468 , C511469 , C511470 , C511471 , C510347 , C510348 , C510349 , C510350 , C510351 , C510352 , C510353 , C510354 , C510355 , C510356 , C510357 , C510358 , C510359 , C510360 , C510361 , C510362 , C510363 , C510364 , C510365 , C510366 , C510367 , C510368 , C510369 , C510370 , C510371 , C510372 , C510373 , C510374 , C510375 , C510376 , C510377 , C510378 , C510379 , C510380 , C510381 , C510382 , C510383 , C510384 , C510385 , C510386 , C510387 , C510388 , C510389 , C510390 , C510391 , C510392 , C510393 , C510394 , C510395 , C510396 , C510397 , C510398 , C510399 , C510400 , C510401 , C510402 , C510403 , C510404 , C510405 , C510406 , C510407 , C510408 , C510409 , C510410 , C510411 , C510412 , C510413 , C510414 , C510415 , C510416 , C510417 , C510418 , C510419 , C510420 , C510421 , C510422 , C510423 , C510424 , C510425 , C510426 , C510427 , C510428 , C510429 , C510430 , C510431 , C510432 , C511472 , C511473 , C511474 , C511475 , C511476 , C511477 , C511478 , C511479 , C511480 , C511481 , C511482 , C511483 , C511484</idno>
-   </altIdentifier>
+                            <idno>C510433 , C510434 , C510435 , C510436 , C510437 , C510438 , C510439 , C510440 , C510441 , C510442 , C510443 , C510444 , C510445 , C510446 , C510447 , C510448 , C510449 , C510450 , C510451 , C510452 , C510453 , C510454 , C510455 , C510456 , C510457 , C510458 , C510459 , C511118 , C511119 , C511120 , C511121 , C511122 , C511123 , C511124 , C511125 , C511126 , C511127 , C511128 , C511129 , C511452 , C511453 , C511454 , C511455 , C511456 , C511457 , C511458 , C511459 , C511460 , C511461 , C511462 , C511463 , C511464 , C511465 , C511466 , C511467 , C511468 , C511469 , C511470 , C511471 , C510347 , C510348 , C510349 , C510350 , C510351 , C510352 , C510353 , C510354 , C510355 , C510356 , C510357 , C510358 , C510359 , C510360 , C510361 , C510362 , C510363 , C510364 , C510365 , C510366 , C510367 , C510368 , C510369 , C510370 , C510371 , C510372 , C510373 , C510374 , C510375 , C510376 , C510377 , C510378 , C510379 , C510380 , C510381 , C510382 , C510383 , C510384 , C510385 , C510386 , C510387 , C510388 , C510389 , C510390 , C510391 , C510392 , C510393 , C510394 , C510395 , C510396 , C510397 , C510398 , C510399 , C510400 , C510401 , C510402 , C510403 , C510404 , C510405 , C510406 , C510407 , C510408 , C510409 , C510410 , C510411 , C510412 , C510413 , C510414 , C510415 , C510416 , C510417 , C510418 , C510419 , C510420 , C510421 , C510422 , C510423 , C510424 , C510425 , C510426 , C510427 , C510428 , C510429 , C510430 , C510431 , C510432 , C511472 , C511473 , C511474 , C511475 , C511476 , C511477 , C511478 , C511479 , C511480 , C511481 , C511482 , C511483 , C511484</idno>
+                        </altIdentifier>
                         <country>Russia</country>
                         <settlement>St. Petersburg</settlement>
                         <repository>National Library of Russia</repository>
@@ -187,14 +187,14 @@
                                 <note xml:lang=""/>
                             </handNote>
                             <handNote xml:id="hand-1.1.2" source="#" medium="">
-      <locus from="4r" to="118v"/>
-      <persName ref="" role=""/>
-      <placeName ref=""/>
-      <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter.</metamark>
+                                <locus from="4r" to="118v"/>
+                                <persName ref="" role=""/>
+                                <placeName ref=""/>
+                                <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
-      <origDate cert="" evidence="" from="" to="" when=""/>
-      <note xml:lang=""/>
-   </handNote>
+                                <origDate cert="" evidence="" from="" to="" when=""/>
+                                <note xml:lang=""/>
+                            </handNote>
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="current" script="oriental" style="square" xml:lang="he">
@@ -213,12 +213,60 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Ownership statements</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="1v" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>[אנ]תקל באלאבתיאע אלצחיח<lb/>[א]לי מלך אברהם בן יוסף בן<lb/>אברהם נ֗ע֗</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Ownership statements</objectType>
+      <locus from="1v" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>אנתקל אלי יד אברהם<lb/>בן ר֗ יוסף נ֗ע֗ יחיה<lb/>ויזכה אמן<lb/>וצאר ליוסף אבנה<lb/>נפעה אללה בה</p>
+                                    </quote>
+      <note xml:lang="en">
+                                        <p>The note is in a different hand than the note mentioned above. However, the phrase אנתקל אלי יד is written again in the same hand as above in the first ownership inscription.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
+      <objectType>Note</objectType>
+      <locus from="2r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>תפ֗ מן שופטים אלי אכ[ר] אל[    ]<lb/>ללריס אב[י] ………לל………….<lb/>(the rest of this line is crossed out and illegible)<lb/>ללמעלם אבי עלי</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.4">
+      <objectType>Note</objectType>
+      <locus from="2r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>תפסיר אלריס אבי סעיד<lb/>אלדאודי רחמה אללה [     ]<lb/>ור֗צי ענה</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.5">
+      <objectType>Note</objectType>
+      <locus from="2r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>ו[י]עתקה אל אוצר הדרת אדוננו שר שלום ראש<lb/>ישיבת גא[ו]ן [יע]קֹב חמוד אדוננו אברהם ראש<lb/>ישיבת גאון יעקֹב ת֗נ֗כ֗צ֗ב֗ה֗ ו֗י֗א֗ וגואל? (וגוע?)</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
