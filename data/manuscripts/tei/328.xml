@@ -57,7 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2026-06-24" source="locus_change_log_20260624-200814.tsv">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
+            <change when="2026-06-24" source="#">Locus folio data updated (apply_locus_fixes.py): 1 locus text value(s) added from @from/@to.</change>
             <change who="#rboehm" when="2024-09-10T12:05:49.336Z">work title linked</change>
             <change who="#rboehm" when="2024-08-30T10:54:51.524Z">work title</change>
             <change when="2024-07-02" who="#mmoliere">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -127,11 +127,7 @@
                         </ab>
                         <objectDesc>
                             <supportDesc>
-                                <collation>
-      
-      
-      
-   </collation>
+                                <collation/>
                                 <support>
                                     <material>Paper</material>
                                     <note xml:lang=""/>
@@ -190,9 +186,9 @@
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function="divine-names">Yods with symbols/abbreviation signs. </metamark>
-                                <metamark function="vocalization">Sporadic use of Tiberian vowel signs. </metamark>
-                                <metamark function="diacritics">Sparsely dotted. </metamark>
+                                <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
+                                <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
+                                <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <origDate/>
                                 <note xml:lang=""/>
                             </handNote>
@@ -214,12 +210,60 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Note</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <locus from="165v" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>כמל מא אלתמסה אלשי[ך אל]פאצ̇ל אבו אלטיב שמואל<lb/>בר מנצור חרסה אללה לולדיה(?) אחיאהמא אללה<lb/>לה מן תפסיר אלאלפאט֗ אלצעבה פי אלמקרא<lb/>מעמא יבין מן אלאלפאט֗ פיה קדר מא מן אל<lb/>צעובה איצ̇א בחית לם יבלג פי אלאשתהאר ואל</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Certificates of endowment</objectType>
+      <locus from="80r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>לעדת בני מקרא ארור מחליף קדשתו</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
+      <objectType>Certificates of endowment</objectType>
+      <locus from="99v" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>קדש ליוי׳ לבעלי מק֗ פל..</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.4">
+      <objectType>Certificates of endowment</objectType>
+      <locus from="130r" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>קדש ליי׳ על(?) בעלי מקרא</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.5">
+      <objectType>Colophon</objectType>
+      <locus from="165v" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>בורך ייי לעולם אמן ואמן*<lb/>כמל בעון אללה ……מה עלי ג̇מיע<lb/>הנאמר וכתב(?) אבר[ה]ם בר טהור המלמד<lb/>ת֗נ֗[צ֗ב֗ה֗(?)] ע֗ש֗כ֗ה֗(?) [  ] …֗…֗…֗…֗</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>*Note that other catalogues read (probably erroneously) ברוך ייי לשלם אב[יון] אמן.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
