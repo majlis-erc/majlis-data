@@ -224,12 +224,64 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Note</objectType>
                                     <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote xml:lang=""/>
-                                    <note xml:lang=""/>
+                                    <locus from="1r" to=""/>
+                                    <quote xml:lang="ar" type="transcription">
+                                        <p>אלמקאלה אלד֗ ואלה֗<lb/>מן אלאנואר ופיה<lb/>כלאם אכ̇ר יתעלק<lb/>באלמועדים מא<lb/>אערף למן הו</p>
+                                    </quote>
+                                    <note xml:lang="">
+                                        <p>Title in a secondary hand.</p>
+                                    </note>
                                 </item>
+                                <item xml:id="add-1.1.1.2">
+      <objectType>Ownership statements</objectType>
+      <locus from="1r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>ملك<lb/>ل؟؟؟ع الله<lb/>؟؟؟</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.3">
+      <objectType>Note</objectType>
+      <locus from="1v" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>الرابعة والخامسة</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Short title.</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.4">
+      <objectType>Certificates of endowment</objectType>
+      <locus from="1v" to=""/>
+      <quote type="transcription" xml:lang="he">
+                                        <p>קדש עלי ועל זרעי אחרי ואחריהם<lb/>על כנסת בני מקרא אני שמואל בן מרור<lb/>שלמה בן מרור שמואל בן מרור<lb/>משה כאזרוני ס֗ט֗ ארור מוכרו<lb/>וארור קונהו וגונבו וארור מעביטו<lb/>ומחליף קדושתו והכתיבה אשר<lb/>על גבו אמן</p>
+                                    </quote>
+      <note xml:lang=""/>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
+                                <item xml:id="add-1.1.1.5">
+      <objectType>Colophon</objectType>
+      <locus from="79r" to=""/>
+      <quote type="transcription" xml:lang="ar">
+                                        <p>הד̇א אלכתאב למרי שלמה המלמד בר יוסף<lb/>יחיה ויזכה ויגדל בתורה ובמעשים<lb/>טובים ויזכהו &lt;לראות&gt; בבנין היכלו ובחידוש<lb/>עירו אמן. וכן יהי רצון.<lb/>נשלם זה הספר בחדש כסליו ש֗נ֗ת א֗ל֗ף֗<lb/>ושלש מאות ושמונה עשר ל֗מ֗נ֗י֗י֗ן֗<lb/>ש֗ט֗ר֗ו֗ת֗ בפסטאט מצרים<lb/>נותן ליעף כח<lb/>ולאין אונים עצמה ירבה:</p>
+                                    </quote>
+      <note xml:lang="">
+                                        <p>Date in colophon: Kislev 1318 SE = end October–end November 1006 CE in the Rabbanite calendar (the month in the Qaraite calendar can potentially be +1 or –1).</p>
+                                    </note>
+      <listRelation>
+         <relation name="" ref=""/>
+      </listRelation>
+   </item>
                             </list>
                         </additions>
                         <bindingDesc>
