@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-20T08:44:47.812Z">add page and text layout, script/hand description</change>
             <change who="#mroozen" when="2026-07-20T08:37:28.010Z">update content description </change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -129,15 +130,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page). Previously numbered 48 &amp; 49.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Non-consecutive bifolio of a quinion quire.</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>In fair condition; stained and worm-eaten in places.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -146,21 +151,23 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="19-20 ">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">rare vowel marks</metamark>
+                                <metamark function="diacritics">sparsely dotted; occasional ihmāl-marks</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
@@ -178,7 +185,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Circled dot at the end of chapters, chapter headings, and textual units (e.g. fol 2r, l. 3).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
