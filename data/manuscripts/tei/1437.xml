@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-20T08:19:07.516Z">add additional properties of the manuscript and manuscript join</change>
             <change who="#mroozen" when="2026-07-20T08:14:05.623Z">update content description</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -105,11 +106,12 @@
                         <ab type="codicological-definition">
                             <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
                             <listBibl>
-                                <bibl status="draft">
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1393">
+                                    <idno type="">Arab.-Yevr. 378</idno>
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 378</title>
+                        <ptr target="https://jalit.org/manuscript/1393"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
@@ -125,15 +127,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page). Previously numbered 159 &amp; 160.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Bifolio of a quinion quire.</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>In fair condition; slightly stained; worn off on the outer margin of fol. 2.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
