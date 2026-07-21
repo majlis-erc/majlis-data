@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-07-21T09:09:33.953Z">add additional properties of the manuscript, binding description, page and text layout, script/hand description</change>
             <change who="#mroozen" when="2026-07-21T08:56:01.864Z">add manuscript join and update content description</change>
             <change who="#S.Mattutat" when="2024-12-11T16:20:52.091Z">Heritage Data (Transcription).</change>
             <change who="#S.Mattutat" when="2024-09-18T11:32:21.659Z">Heritage Data (Note, Author, Transcription, Title of Publication).</change>
@@ -142,15 +143,19 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">In good condition; stained in places. Underwent conservation measures.</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Contains 15 folios deriving from two quinion quires; gap of one folio between fols. 9 and 10.</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>In good condition; stained in places. Underwent conservation measures.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
@@ -160,25 +165,27 @@
                                         <lb/>
                                     </p>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="17-19">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="diacritics">sparsely dotted; occasional ihmāl-marks</metamark>
+                                <metamark function="divine-names">اىىا (e.g. fol. 12v, ll. 5, 8)</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="vocalization">rare vowel marks</metamark>
                                 <origDate>1019</origDate>
                                 <note xml:lang=""/>
                             </handNote>
@@ -192,7 +199,9 @@
                             <summary xml:lang=""/>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Circled dot or isolated hāʾ – with or without vertical tail – at the end of chapters, chapter headings, and textual units (e.g. fols. 4r, ll. 6, 11; 4v, l. 2; 6v, ll. 6, 8).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -213,7 +222,9 @@
                                     <origPlace ref=""/>
                                     <origDate/>
                                     <material/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Modern binding</p>
+                                    </note>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
