@@ -57,6 +57,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-07-21T10:16:41.863Z">add additional properties of the manuscript, binding description, text and page layout, script/hand description
+</change>
             <change who="#mroozen" when="2026-07-21T09:56:45.121Z">update content description 
 
 </change>
@@ -140,12 +142,14 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the top left corner of each recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Contains 15 folios deriving from two quinion quires; gap of one folio between fols. 9 and 10.</p>
+                                    </note>
                                 </collation>
                                 <condition>
                                     <note xml:lang=""/>
@@ -158,25 +162,26 @@
                                         <lb/>
                                     </p>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="15-16 ">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
-                                    <metamark function="justification"/>
+                                    <metamark function="justification">Extended letters</metamark>
                                     <ab type="ruling"/>
                                     <ab type="pricking"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">rare vowel marks</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">sparsely dotted; occasional ihmāl-marks</metamark>
                                 <origDate>1017-1019 / 1027</origDate>
                                 <note xml:lang=""/>
                             </handNote>
@@ -187,10 +192,14 @@
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
-                            <summary xml:lang=""/>
+                            <summary xml:lang="">
+                                <p>In good condition; stained in places. Underwent conservation measures.</p>
+                            </summary>
                             <decoNote>
                                 <desc/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Circled dot at the end of chapters, chapter headings, and textual units (e.g. fol. 65r, ll. 4, 13).</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
@@ -211,7 +220,9 @@
                                     <origPlace ref=""/>
                                     <origDate/>
                                     <material/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Modern binding.</p>
+                                    </note>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
