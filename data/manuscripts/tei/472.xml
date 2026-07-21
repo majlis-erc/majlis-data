@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="#mroozen" when="2026-07-21T09:12:03.852Z">update foliation/pagination</change>
             <change who="#mroozen" when="2026-07-21T09:09:33.953Z">add additional properties of the manuscript, binding description, page and text layout, script/hand description</change>
             <change who="#mroozen" when="2026-07-21T08:56:01.864Z">add manuscript join and update content description</change>
             <change who="#S.Mattutat" when="2024-12-11T16:20:52.091Z">Heritage Data (Transcription).</change>
@@ -143,7 +144,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="foliation">In good condition; stained in places. Underwent conservation measures.</foliation>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals (at the top left corner of each recto page).</foliation>
                                 <collation>
                                     <formula/>
                                     <unit/>
