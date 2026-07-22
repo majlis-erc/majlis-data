@@ -77,6 +77,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-22T15:43:19.822Z">add bibliographic reference to attested title</change>
+            <change who="#mroozen" when="2026-07-22T15:42:33.796Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-07-22T15:39:35.693Z">add attested title</change>
             <change who="#mroozen" when="2026-07-22T14:35:16.242Z">update work titles</change>
             <change who="#rboehm" when="2025-03-29T11:42:35.191Z">meta data</change>
@@ -87,7 +89,7 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="attested" xml:lang="ar">تفسير سيفر ويقرا</title>
+                <title xml:id="title-1" source="#jalit-orgmanuscript876" type="attested" xml:lang="ar">تفسير سيفر ويقرا</title>
                 <title xml:id="title-2" source="#" type="authorial" xml:lang="he">פרוש ספר ויקרא</title>
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">تفسير سيفر ويقرا</title>
                 <title xml:id="title-4" xml:lang="en" type="majlis-headword">Commentary on the Book of Leviticus</title>
@@ -100,10 +102,12 @@
                 <quote xml:lang="" type="" source=""/>
                 <date/>
                 <note/>
-                <bibl xml:id="">
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+                <bibl xml:id="jalit-orgmanuscript876">
+                    <citedRange unit="folio">1r</citedRange>
+                        <title>St. Petersburg, National Library of Russia,
+                    Yevr.-Arab. I 3260</title>
+                        <ptr target="https://jalit.org/manuscript/876"/>
+                    </bibl>
             </bibl>
         </body>
     </text>
