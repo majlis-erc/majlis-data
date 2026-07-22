@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "person11",
+      "type": "person",
+      "name": "Yešuʿa ben Yehuda"
+    },
+    {
+      "id": "person10",
+      "type": "person",
+      "name": "Levi ben Yefet ben ʿEli"
+    }
+  ],
+  "links": [
+    {
+      "source": "person11",
+      "target": "person10",
+      "rel": "snap:motherInLawOf",
+      "sources": [
+        "Yešuʿa ben Yehuda",
+        "Levi ben Yefet ben ʿEli"
+      ]
+    }
+  ]
+}

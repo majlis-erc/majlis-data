@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "place14",
+      "type": "place",
+      "name": "Compound of the teacher Yosef b. Baḫtawayh"
+    },
+    {
+      "id": "manuscript459",
+      "type": "manuscript",
+      "name": "Cairo, Karaite Synagogue, Ms. 18"
+    }
+  ],
+  "links": [
+    {
+      "source": "manuscript459",
+      "target": "place14",
+      "rel": "majlis:relationWith",
+      "sources": [
+        "Cairo, Karaite Synagogue, Ms. 18, 542v, Certificates of endowment",
+        "Compound of the teacher Yosef b. Baḫtawayh"
+      ]
+    }
+  ]
+}

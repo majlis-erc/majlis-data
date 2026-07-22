@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": "person34",
+      "type": "person",
+      "name": "Bahīya"
+    },
+    {
+      "id": "person35",
+      "type": "person",
+      "name": "Community of Qaraites"
+    },
+    {
+      "id": "person9",
+      "type": "person",
+      "name": "Yosef ha-Roʾeh"
+    }
+  ],
+  "links": [
+    {
+      "source": "person34",
+      "target": "person35",
+      "rel": "majlis:endowed",
+      "sources": [
+        "Bahīya",
+        "Community of Qaraites"
+      ]
+    },
+    {
+      "source": "person34",
+      "target": "person9",
+      "rel": "snap:daughterOf",
+      "sources": [
+        "Bahīya",
+        "Yosef ha-Roʾeh"
+      ]
+    }
+  ]
+}

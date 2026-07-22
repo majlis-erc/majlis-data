@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": "work13",
+      "type": "work",
+      "name": "Commentary on the Book of Deuteronomy (Yefet ben ʿEli)"
+    },
+    {
+      "id": "place12",
+      "type": "place",
+      "name": "Antioch"
+    },
+    {
+      "id": "person4",
+      "type": "person",
+      "name": "Yefet ben ʿEli"
+    }
+  ],
+  "links": [
+    {
+      "source": "place12",
+      "target": "work13",
+      "rel": "",
+      "sources": [
+        "Antioch",
+        "Commentary on the Book of Deuteronomy (Yefet ben ʿEli)"
+      ]
+    },
+    {
+      "source": "work13",
+      "target": "person4",
+      "rel": "",
+      "sources": [
+        "Commentary on the Book of Deuteronomy (Yefet ben ʿEli)",
+        "Yefet ben ʿEli"
+      ]
+    }
+  ]
+}

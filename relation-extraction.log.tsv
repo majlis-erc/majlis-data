@@ -1,0 +1,54 @@
+source	file_info	xpath	active	passive	mutual	name	ref	status	created_files	created_edges	result
+file	relations/1	.//tei:relation	https://jalit.org/place/12	https://jalit.org/person/4	https://jalit.org/manuscript/992 https://jalit.org/work/13			VALID	manuscripts/rel/992.json|persons/rel/4.json|places/rel/12.json|works/rel/13.json	place/12→person/4|place/12→manuscript/992|place/12→work/13|manuscript/992→person/4|work/13→person/4	Created 5 edge(s)
+file	relations/90001	.//tei:relation						EMPTY			Skipped - no active/passive/mutual
+file	relations/90001	.//tei:relation						EMPTY			Skipped - no active/passive/mutual
+file	relations/90001	.//tei:relation	1	2				INVALID_URI			Skipped - invalid/unparseable URIs
+entity	manuscripts/1529	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1531	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1531	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1531	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1531	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1551	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1551	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1551	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1551	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1557	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/11	https://jalit.org/person/10		snap:motherInLawOf		VALID	persons/rel/10.json|persons/rel/11.json	person/11→person/10	Created 1 edge(s)
+entity	manuscripts/1565	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/309	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/311	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/319	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/319	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/326	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/326	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/326	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/326	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/327	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/328	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/328	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/328	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/328	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/329	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/329	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/329	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/330	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/335	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/343	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/343	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/343	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/353	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/353	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/353	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/353	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/353	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/353	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/354	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/354	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/354	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/354	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/354	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/459	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/manuscript/459	https://jalit.org/place/14		majlis:relationWith		VALID	manuscripts/rel/459.json|places/rel/14.json	manuscript/459→place/14	Created 1 edge(s)
+entity	manuscripts/474	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/34	https://jalit.org/person/35		majlis:endowed		VALID	persons/rel/34.json|persons/rel/35.json	person/34→person/35	Created 1 edge(s)
+entity	manuscripts/474	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/34	https://jalit.org/person/9		snap:daughterOf		VALID	persons/rel/34.json|persons/rel/9.json	person/34→person/9	Created 1 edge(s)
+entity	manuscripts/511	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual

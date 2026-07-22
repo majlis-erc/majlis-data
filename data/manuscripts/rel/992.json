@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": "manuscript992",
+      "type": "manuscript",
+      "name": "St. Petersburg, National Library of Russia, Yevr.-Arab. I 2122"
+    },
+    {
+      "id": "place12",
+      "type": "place",
+      "name": "Antioch"
+    },
+    {
+      "id": "person4",
+      "type": "person",
+      "name": "Yefet ben ʿEli"
+    }
+  ],
+  "links": [
+    {
+      "source": "place12",
+      "target": "manuscript992",
+      "rel": "",
+      "sources": [
+        "Antioch",
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 2122"
+      ]
+    },
+    {
+      "source": "manuscript992",
+      "target": "person4",
+      "rel": "",
+      "sources": [
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 2122",
+        "Yefet ben ʿEli"
+      ]
+    }
+  ]
+}
