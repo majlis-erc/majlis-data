@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-22T15:10:54.008Z">update content description</change>
             <change who="#mroozen" when="2026-07-22T15:02:38.330Z">add manuscript joins</change>
             <change who="#mmoliere" when="2025-11-27T20:05:53.918Z">test</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -82,25 +83,31 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Contains the following sections of the Commentary on the Book of Leviticus: 7:29–7:37 (fols. 1r–20v), including a lengthy disquisition upon 7:37 (זאת התורה); fols. 21–22 belong to the discussion on incest (Lev 18); fols. 23–78 mostly belong to Parashat Ṣavv (Lev 7) followed by a lengthy discussion on the distinction between talqīn (oral instruction by dictation) and tadwīn (committing to writing, codification); fols. 95r–256v cover large sections of Parashot Məṣōrāʿ (Lev 14–15) and ʾAḥărē mōṯ (Lev 16–18) and the beginning of Parashat Qədōšīm (Lev 19).</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="" to=""/>
-                            <title cert="" ref="" xml:lang="">פרוש התורה (ויקרא)</title>
+                            <title ref="https://jalit.org/work/34">Commentary on the Book of Leviticus (David ben Boʿaz)</title>
+                            <locus from="1r" to="256v"/>
+                            
                             <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="1r" to="1r"/>
+                                <locus from="1r" to=""/>
                                 <quote xml:lang="ar">
-                                    <p>والقصّ مختلفي الحكم. فأما القص فإنه ...</p>
+                                    <p>[الساق] والقَصّ مختلفي الحكم. واما القصّ فانه للحاضرين في بيت الله ...</p>
                                 </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
+                                <locus from="256v" to=""/>
                                 <quote xml:lang="ar">
-                                    <p>وقيل انّ الحيرش [חרש] هو الاصمّ والخلاف في ان ليس هو وحده المراد بقوله لو تقليل حيرش [לא תקלל חרש]</p>
+                                    <p>ومن يستمر ويستطال [...] فلا يمكنه ان ينتصف من شاتمه لخوفه منه [...]لضره لو يقطع عنه [...] من</p>
                                 </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>Chapter and section headings:</p>
+                                <p>القول في العول۠ا (9r)<lb/>القول في المنح۠ا (12v)<lb/>فصل جامع للكلام في الص۠ار۟اع۟ث (98v)<lb/>القول في الب۟اهۜارۜث (100r)<lb/>في ص۠ار۟اع۟ث الثوب وص۠ار۟اع۟ث البايت (103r)<lb/>في الاشتباه والاختلاف اللذان بين اقسام الص۠ار۟اع۟ث (106r)<lb/>في علامات التنجيس (108r)<lb/>في علامات التطهير (108v)<lb/>في الاشتباه على وجه والاختلاف على وجه اخر (109r)</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
