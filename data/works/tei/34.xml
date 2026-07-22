@@ -77,6 +77,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-22T14:39:57.213Z">add attested title</change>
             <change who="#mroozen" when="2026-07-22T14:38:15.136Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-07-22T14:35:16.242Z">update work titles</change>
             <change who="#rboehm" when="2025-03-29T11:42:35.191Z">meta data</change>
@@ -87,7 +88,7 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="attested" xml:lang="ar">تفسير سيفر ويقرا </title>
+                <title xml:id="title-1" source="#jalit-orgmanuscript876" type="attested" xml:lang="ar">تفسير سيفر ويقرا </title>
                 <title xml:id="title-2" source="#" type="authorial" xml:lang="he">פרוש ספר ויקרא</title>
                 <title xml:id="title-3" source="#" type="authorial" xml:lang="ar">تفسير سيفر ويقرا</title>
                 <title xml:id="title-4" xml:lang="en" type="majlis-headword">Commentary on the Book of Leviticus</title>
