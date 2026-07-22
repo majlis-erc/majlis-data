@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "person4",
+      "type": "person",
+      "name": "Yefet ben ʿEli"
+    },
+    {
+      "id": "place12",
+      "type": "place",
+      "name": "Antioch"
+    },
+    {
+      "id": "manuscript992",
+      "type": "manuscript",
+      "name": "St. Petersburg, National Library of Russia, Yevr.-Arab. I 2122"
+    },
+    {
+      "id": "work13",
+      "type": "work",
+      "name": "Commentary on the Book of Deuteronomy (Yefet ben ʿEli)"
+    }
+  ],
+  "links": [
+    {
+      "source": "place12",
+      "target": "person4",
+      "rel": "",
+      "sources": [
+        "Antioch",
+        "Yefet ben ʿEli"
+      ]
+    },
+    {
+      "source": "manuscript992",
+      "target": "person4",
+      "rel": "",
+      "sources": [
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 2122",
+        "Yefet ben ʿEli"
+      ]
+    },
+    {
+      "source": "work13",
+      "target": "person4",
+      "rel": "",
+      "sources": [
+        "Commentary on the Book of Deuteronomy (Yefet ben ʿEli)",
+        "Yefet ben ʿEli"
+      ]
+    }
+  ]
+}

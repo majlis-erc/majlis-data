@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "person35",
+      "type": "person",
+      "name": "Community of Qaraites"
+    },
+    {
+      "id": "person34",
+      "type": "person",
+      "name": "Bahīya"
+    }
+  ],
+  "links": [
+    {
+      "source": "person34",
+      "target": "person35",
+      "rel": "majlis:endowed",
+      "sources": [
+        "Bahīya",
+        "Community of Qaraites"
+      ]
+    }
+  ]
+}
