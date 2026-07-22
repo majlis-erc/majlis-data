@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-22T15:35:40.104Z">add foliation, state of conservation, page and text layout, script/hand description</change>
             <change who="#mroozen" when="2026-07-22T15:10:54.008Z">update content description</change>
             <change who="#mroozen" when="2026-07-22T15:02:38.330Z">add manuscript joins</change>
             <change who="#mmoliere" when="2025-11-27T20:05:53.918Z">test</change>
@@ -145,7 +146,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="modern" style="foliation"/>
+                                <foliation style="foliation">Modern pencil foliation in Arabic numerals at the bottom of each recto page.</foliation>
                                 <collation>
                                     <formula>5</formula>
                                     <unit/>
@@ -156,7 +157,7 @@
                                 </collation>
                                 <condition>
                                     <note xml:lang="en">
-                                        <p>most pages are damaged and worm-eaten</p>
+                                        <p>The manuscript has undergone preservation measures that resulted in the loss of its original codicological structure. Partly worm-eaten with some loss of text; edges frayed with occasional loss of script; lower central portion of some folios torn away.</p>
                                     </note>
                                     <ab rend="visible" type="writing"/>
                                 </condition>
@@ -166,7 +167,7 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" columns="" writtenLines="">
+                                <layout xml:id="layout-1.1.1.1" columns="1" writtenLines="8-9 ">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -178,15 +179,19 @@
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
+                        <handDesc hands="1">
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Sporadic.</metamark>
+                                <metamark function="diacritics">Frequent diacritical marking.</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="divine-names">اذون۠اي (e.g. fol. 109v, l. 3)</metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Rare additions and corrections in the outer margins (e.g. fol. 142v).</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -197,6 +202,9 @@
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
+                                <note xml:lang="">
+                                    <p>Open script block; isolated hāʾ with straight tail at the end of lemmata and sense-units.</p>
+                                </note>
                                 <desc>
                                     <p>Paragraph marks and textual dividers</p>
                                 </desc>
