@@ -77,6 +77,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-07-22T15:42:33.796Z">add bibliographic reference</change>
             <change who="#mroozen" when="2026-07-22T15:39:35.693Z">add attested title</change>
             <change who="#mroozen" when="2026-07-22T14:35:16.242Z">update work titles</change>
             <change who="#rboehm" when="2025-03-29T11:42:35.191Z">meta data</change>
@@ -100,10 +101,12 @@
                 <quote xml:lang="" type="" source=""/>
                 <date/>
                 <note/>
-                <bibl xml:id="">
-                    <citedRange unit="p"/>
-                    <ptr target=""/>
-                </bibl>
+                <bibl xml:id="jalit-orgmanuscript876">
+                    <citedRange unit="folio">1r</citedRange>
+                        <title>St. Petersburg, National Library of Russia,
+                    Yevr.-Arab. I 3260</title>
+                        <ptr target="https://jalit.org/manuscript/876"/>
+                    </bibl>
             </bibl>
         </body>
     </text>
