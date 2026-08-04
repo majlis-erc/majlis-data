@@ -4,19 +4,14 @@
     <property name="project.version" value="${package(version)}"/>
     <property name="project.app" value="majlis-data"/>
     <property name="build.dir" value="build"/>
-<<<<<<< HEAD
-    <target name="xar">
-=======
-
     <target name="generate-relations" description="Generate relation JSON files from TEI data">
         <echo message="Generating relation JSON files from XML data..."/>
-        <exec executable="python3">
+        <exec executable="python3" failonerror="true">
             <arg value="generate-relations.py"/>
         </exec>
     </target>
 
     <target name="xar" depends="generate-relations">
->>>>>>> d29f6d7f (set up for generating rel/*.json files for W/MSS/PER/PL on commits that change xml file & gen PR for manual merge)
         <mkdir dir="${build.dir}"/>
         <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/*"/>
     </target>
