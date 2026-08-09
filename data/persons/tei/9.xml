@@ -252,16 +252,16 @@
       <name>Abū Yaʿqūb "al-Ḍarīr"</name>
    </persName>
                     <birth>
-                        <date cert="">961-680</date>
+                        <date cert="" from="0680" to="0961">680-961</date>
                         <placeName ref="https://jalit.org/place/10">Iraq</placeName>
                         <placeName ref="https://jalit.org/place/11" cert="">Persia</placeName>
                     </birth>
                     <death>
-                        <date cert="">1037-1039</date>
+                        <date cert="" from="1037" to="1039">1037-1039</date>
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="">1001-1039</date>
+                        <date cert="" from="1001" to="1039">1001-1039</date>
                         <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>

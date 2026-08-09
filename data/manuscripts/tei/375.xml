@@ -116,7 +116,7 @@
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">שמואל(?) בן נתנאל בן
                                 פרחיהו</persName> <placeName ref=""/> <metamark function=""/>
-                                <origDate>0976 - 1050</origDate> <note xml:lang=""/> </handNote>
+                                <origDate from="0976" to="1050">0976 - 1050</origDate> <note xml:lang=""/> </handNote>
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="" script="" style="" xml:lang=""> <note xml:lang="he"><p/></note> </scriptNote>

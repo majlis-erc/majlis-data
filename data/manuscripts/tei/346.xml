@@ -209,7 +209,7 @@
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Sparsely dotted. A dot above a letter also marks abbreviations.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
-                                <origDate>1034</origDate>
+                                <origDate when="1034">1034</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page, at the end of a line or after a heading. Occasional use of a dotted circle to mark section endings.</p>
                                 </note>

@@ -217,7 +217,7 @@
                                 <persName ref="" role="">מוסי בן עָלֶם</persName>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>1466</origDate>
+                                <origDate when="1466">1466</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

@@ -113,7 +113,7 @@
                         <handDesc hands="">
                             <summary xml:lang=""/>
                             <handNote medium=""> <locus from="" to=""/>
-                                <persName ref="" role=""/> <placeName ref=""/> <metamark function=""/> <origDate>September 988</origDate> <note xml:lang=""/>
+                                <persName ref="" role=""/> <placeName ref=""/> <metamark function=""/> <origDate when="0988-09">September 988</origDate> <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>

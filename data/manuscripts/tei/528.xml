@@ -208,7 +208,7 @@
                                 <metamark function="divine-names">Tetragrammaton: three yods.</metamark>
                                 <metamark function="diacritics"> Sparsely dotted. Abbreviations marked by a dash above the letter; numerals marked by three dots above the letter.</metamark>
                                 <metamark function="vocalization">Rare use of Tiberian vowel signs.</metamark>
-                                <origDate>1000-1100</origDate>
+                                <origDate from="1000" to="1100">1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                             <handNote xml:id="hand-1.1.2" source="#" medium="">

@@ -146,7 +146,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>1050</origDate>
+                                <origDate when="1050">1050</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

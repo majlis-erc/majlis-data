@@ -171,7 +171,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Rare vowel marks (e.g. fol. 3v, l. 6); occasional Tiberian vowel marks for Hebrew in Arabic and Hebrew script (e.g. fol. 1v, ll. 3-5)</metamark>
-                                <origDate>1017 [408]</origDate>
+                                <origDate when="1017">1017 [408]</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

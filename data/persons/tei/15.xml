@@ -128,15 +128,15 @@
                     
                     
                     <birth>
-                        <date cert="medium">1020-1030</date>
+                        <date cert="medium" from="1020" to="1030">1020-1030</date>
                         <placeName ref="" cert=""/>
                     </birth>
                     <death>
-                        <date cert="medium">1097-1100</date>
+                        <date cert="medium" from="1097" to="1100">1097-1100</date>
                         <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </death>
                     <floruit>
-                        <date cert="high">1045-1095</date>
+                        <date cert="high" from="1045" to="1095">1045-1095</date>
                         <placeName ref="https://jalit.org/place/3" cert="high">Jerusalem</placeName>
                         <placeName ref="https://jalit.org/place/1" cert="medium">Cairo</placeName>
                     </floruit>

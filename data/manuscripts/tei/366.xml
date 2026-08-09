@@ -215,7 +215,7 @@
                                 <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
                                 <metamark function="diacritics">Mostly unpointed, Ḍād frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-                                <origDate when="1049"/>
+                                <origDate when="1049">1049</origDate>
                                 <note xml:lang="">
                                     <p>See colophon in Yevr.-Arab. I 832.1.</p>
                                 </note>
@@ -227,7 +227,7 @@
                                 <metamark function="vocalization">Mixed frequency. Palestino-Tiberian and Arabic vocalization. More vowel signs appear on fol. 4r-v, possibly to distinguish between Hebrew and Arabic text.</metamark>
                                 <metamark function="diacritics">Mostly written without diacritics, Ǧīm marked with a dot below the letter Gimel, the letter He for Tāʾ marbūṭa is occasionally written with two diacritical points when the word appears in the construct state, abbreviations are marked with a dot above the letter.</metamark>
                                 <metamark function="divine-names">Tetragrammaton written yod, waw, yod.</metamark>
-                                <origDate>1048</origDate>
+                                <origDate when="1048">1048</origDate>
                                 <note xml:lang="">
                                     <p>Marginal note written vertically on fol. 3v.</p>
                                 </note>

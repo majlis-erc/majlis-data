@@ -144,12 +144,12 @@
                     <state>
                         <label cert="">Author</label>
                     </state>
-                    <birth><placeName cert="" ref="">Dilāṣ</placeName><date cert="">882</date>
+                    <birth><placeName cert="" ref="">Dilāṣ</placeName><date cert="" when="0882">882</date>
                         
                         
                     </birth>
                     <death>
-                        <date when="" notBefore="" notAfter="" cert="">942</date>
+                        <date when="0942" notBefore="" notAfter="" cert="">942</date>
                         <placeName ref="" cert="">Sura</placeName>
                     </death>
                     <floruit from="" to="" notBefore="" notAfter="" cert=""/>

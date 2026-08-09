@@ -191,7 +191,7 @@
                                 <metamark function="divine-names">Tetragrammaton: 2 yods, 3 yods.</metamark>
                                 <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written a diacritic point, a dot or a short line above the letters is used for abbreviations.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vocalization.</metamark>
-                                <origDate>1000-1100</origDate>
+                                <origDate from="1000" to="1100">1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

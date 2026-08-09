@@ -123,11 +123,11 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="">10th century</date>
+                        <date cert="" when="1000">10th century</date>
                         <placeName ref="" cert="medium">Egypt</placeName>
                     </birth>
                     <death>
-                        <date cert="">10th century</date>
+                        <date cert="" when="1000">10th century</date>
                         <date cert=""/>
                         <placeName ref="" cert="low">Jerusalem (?)</placeName>
                     </death>

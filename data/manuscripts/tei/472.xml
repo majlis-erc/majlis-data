@@ -187,7 +187,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">rare vowel marks</metamark>
-                                <origDate>1019</origDate>
+                                <origDate when="1019">1019</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

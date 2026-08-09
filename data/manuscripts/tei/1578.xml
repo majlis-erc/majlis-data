@@ -198,7 +198,7 @@
                                 
                                 
                                 <placeName ref="https://jalit.org/place/13">Baṣra</placeName>
-                                <origDate when="1020"/>
+                                <origDate when="1020">1020</origDate>
                                 <metamark function="vocalization">Sporadic use of Tiberian and Arabic vocalization. </metamark>
                                 <metamark function="diacritics">Mostly unpointed. A dot above a letter is used to mark abbreviations as well as ellisions.</metamark>
                                 <metamark function="divine-names">"Allah" is written with an Aleph-Lamed ligature followed by a horizontal stroke with a dot above and below.</metamark>

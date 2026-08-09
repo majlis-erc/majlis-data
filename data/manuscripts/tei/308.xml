@@ -183,7 +183,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Mostly without diacritics, abbreviations marked by a dot above the letter.</metamark>
-                                <origDate>900-1000?</origDate>
+                                <origDate from="0900" to="1000">900-1000?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

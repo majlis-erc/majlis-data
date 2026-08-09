@@ -178,7 +178,7 @@
                                 <persName ref="https://jalit.org/person/56">David ben Šlomo ben David ben Yiṣḥaq</persName>
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sparse use of Tiberian vocalization.</metamark>
-                                <origDate>1000-1100</origDate>
+                                <origDate from="1000" to="1100">1000-1100</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page or paragraph. A small circle indicates the place of corrections written in the margins possibly by another hand.</p>
                                 </note>

@@ -187,7 +187,7 @@
                                 <metamark function="vocalization">Regular use of Tiberian vocalization.</metamark>
                                 <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-                                <origDate>1000(?)</origDate>
+                                <origDate when="1000">1000(?)</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

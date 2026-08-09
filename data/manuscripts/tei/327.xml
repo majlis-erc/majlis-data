@@ -186,7 +186,7 @@
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: Three yods with one dot above.</metamark>
                                 <metamark function="diacritics">Sparsely dotted. Abbreviations marked with a dot above the letter.</metamark>
-                                <origDate>1026-1095</origDate>
+                                <origDate from="1026" to="1095">1026-1095</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

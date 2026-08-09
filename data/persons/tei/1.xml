@@ -224,11 +224,11 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="" source="#">870</date>
+                        <date cert="" source="#" when="0870">870</date>
                         <placeName ref="https://jalit.org/place/4" cert="" source="#">Damghan</placeName>
                     </birth>
                     <death>
-                        <date cert="" source="#">910</date>
+                        <date cert="" source="#" when="0910">910</date>
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>

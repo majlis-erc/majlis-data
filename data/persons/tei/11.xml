@@ -186,15 +186,15 @@
                         <name source="#isni">Abū ’l-Faraj Furqān ibn al-Asad</name>
                     </persName>
                     <birth>
-                        <date>1001-1010</date>
+                        <date from="1001" to="1010">1001-1010</date>
                         <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </birth>
                     <death>
-                        <date>1070–1099</date>
+                        <date from="1070" to="1099">1070–1099</date>
                         <placeName cert="" ref=""/>
                     </death>
                     <floruit>
-                        <date cert="">1041-1060</date>
+                        <date cert="" from="1041" to="1060">1041-1060</date>
                         <placeName cert="" ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>

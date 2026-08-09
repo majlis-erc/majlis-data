@@ -175,7 +175,7 @@
                                 <persName ref="https://jalit.org/person/51" role="scribe">Ismaʿīl al-Ṣaqallī</persName>
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Sparsely dotted. Dot above a letter also used to mark abbreviations and numbers.</metamark>
-                                <origDate when="1002-1003">1002-1003 [FGP]; 1003 [Ktiv]</origDate>
+                                <origDate from="1002" to="1003">1002-1003 [FGP]; 1003 [Ktiv]</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

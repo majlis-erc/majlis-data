@@ -196,7 +196,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>המחצית השנייה של המאה האחת עשרה?</origDate>
+                                <origDate from="1050" to="1099">המחצית השנייה של המאה האחת עשרה?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

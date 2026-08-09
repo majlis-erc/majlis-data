@@ -151,7 +151,7 @@
                                 <persName ref="" role="scribe">Šlomo ben Buyaʿa</persName>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>930 [ד'תר"צ]</origDate>
+                                <origDate when="0930">930 [ד'תר"צ]</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

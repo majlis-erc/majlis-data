@@ -174,7 +174,7 @@
                                 <metamark function="vocalization">Rare use of Tiberian vowel signs.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics"> Sparsely dotted. Abbreviations and numerals marked by a dot above the letter. </metamark>
-                                <origDate>1000-1100</origDate>
+                                <origDate from="1000" to="1100">1000-1100</origDate>
                                 <note xml:lang="">
                                     <p>It requires further investigation to establish if the manuscript was written by two hands (hand 1: fols. 1, 3; hand 2: fols. 2, 4-12?).</p>
                                 </note>

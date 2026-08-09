@@ -172,7 +172,7 @@
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Tetragrammaton: two yods, three yods.</metamark>
                                 <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter. </metamark>
-                                <origDate>1000-1100</origDate>
+                                <origDate from="1000" to="1100">1000-1100</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

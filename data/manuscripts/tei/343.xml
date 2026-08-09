@@ -181,7 +181,7 @@
                                 <metamark function="vocalization">Occasional use of Arabic and Tiberian vocalization.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Mostly unpointed, dots above the letters are used to mark corrections and abbreviated words.</metamark>
-                                <origDate>1000-1200?</origDate>
+                                <origDate from="1000" to="1200">1000-1200?</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page or section.</p>
                                 </note>

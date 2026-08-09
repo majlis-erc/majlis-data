@@ -202,7 +202,7 @@
                                 <persName ref="" role="scribe">[...] ben Menasseh, the physician</persName>
                                 <metamark function="diacritics">Mostly unpointed.</metamark>
                                 <placeName ref="https://jalit.org/place/13">Baṣra</placeName>
-                                <origDate when="1020"/>
+                                <origDate when="1020">1020</origDate>
                                 <note xml:lang="">
                                     <p>A small horizontal dash above a letter is used to mark abbreviated words. A circle indicates the place of corrections written in the margin possibly by a secondary hand.</p>
                                     <p>Colophon included in Yevr.-Arab. II 3020.</p>

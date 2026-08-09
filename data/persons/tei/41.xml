@@ -143,11 +143,11 @@
                         <label cert=""/>
                     </state>
                     <birth>
-                        <date when="" notBefore="" notAfter="" cert="">906</date>
+                        <date when="0906" notBefore="" notAfter="" cert="">906</date>
                         <placeName ref="" cert=""/>
                     </birth>
                     <death>
-                        <date when="" notBefore="" notAfter="" cert="">1006</date>
+                        <date when="1006" notBefore="" notAfter="" cert="">1006</date>
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit from="" to="" notBefore="" notAfter="" cert=""/>

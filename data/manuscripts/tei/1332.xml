@@ -114,7 +114,7 @@
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">יצחק בר' שלה החמישי</persName>
                                 <placeName ref=""/> <metamark function=""/>
-                                <origDate>1200-1300</origDate> <note xml:lang=""/> </handNote>
+                                <origDate from="1200" to="1300">1200-1300</origDate> <note xml:lang=""/> </handNote>
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="" script="" style="" xml:lang=""> <note xml:lang="he"><p/></note> </scriptNote>

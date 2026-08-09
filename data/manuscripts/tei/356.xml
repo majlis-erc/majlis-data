@@ -179,7 +179,7 @@
                                 <placeName ref=""/>
                                 <metamark function="divine-names">Yuds with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Sparsely dotted.</metamark>
-                                <origDate>1000-1200?</origDate>
+                                <origDate from="1000" to="1200">1000-1200?</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page.</p>
                                 </note>

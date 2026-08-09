@@ -115,7 +115,7 @@
                             <handNote medium=""> <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">אברהם בן משה הלוי, החבר</persName>
-                                <placeName ref=""/> <metamark function=""/> <origDate>916</origDate>
+                                <placeName ref=""/> <metamark function=""/> <origDate when="0916">916</origDate>
                                 <note xml:lang=""/> </handNote>
                         </handDesc>
                         <scriptDesc>

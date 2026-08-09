@@ -211,7 +211,7 @@
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Arabic vowel signs.</metamark>
                                 <metamark function="diacritics">Sparsely dotted, Ḍād is frequently written with a diacritic pointز</metamark>
-                                <origDate when="1049">1048-1049?</origDate>
+                                <origDate from="1048" to="1049">1048-1049?</origDate>
                                 <note xml:lang="">
                                     <p>See colophon in Yevr.-Arab. I 832.1.</p>
                                 </note>

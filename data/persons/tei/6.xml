@@ -127,7 +127,7 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="high">951-1000</date>
+                        <date cert="high" from="0951" to="1000">951-1000</date>
                         <placeName ref="" cert=""/>
                     </floruit>
                     <sex cert=""/>

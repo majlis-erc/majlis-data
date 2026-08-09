@@ -128,11 +128,11 @@
                         <placeName ref="https://jalit.org/place/11" cert="">Persia</placeName>
                     </birth>
                     <death>
-                        <date cert="high">950-960</date>
+                        <date cert="high" from="0950" to="0960">950-960</date>
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="">941-960</date>
+                        <date cert="" from="0941" to="0960">941-960</date>
                         <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>

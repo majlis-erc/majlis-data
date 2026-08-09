@@ -181,7 +181,7 @@
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Sporadic use of Tiberian vocalization</metamark>
                                 <metamark function="diacritics">Mostly without diacritics, abbreviations marked by a dot above the letter.</metamark>
-                                <origDate>900-1100?</origDate>
+                                <origDate from="0900" to="1100">900-1100?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

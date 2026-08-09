@@ -118,7 +118,7 @@
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">יוסף (סופר) בן שמואל בן רגאטוש
                                 קאבסי</persName> <placeName ref=""/> <metamark function=""/>
-                                <origDate>946 [ד'תש"ו]</origDate> <note xml:lang=""/> </handNote>
+                                <origDate when="0946">946 [ד'תש"ו]</origDate> <note xml:lang=""/> </handNote>
                         </handDesc>
                         <scriptDesc>
                             <scriptNote rend="" script="" style="" xml:lang=""> <note xml:lang="he"><p/></note> </scriptNote>

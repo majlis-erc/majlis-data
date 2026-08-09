@@ -206,7 +206,7 @@
                                 <persName ref="" role="">יוסף בן אלעזר אלזהומי</persName>
                                 <placeName ref="https://jalit.org/place/6">"ארץ הקדש" (ארץ ישראל)</placeName>
                                 <metamark function=""/>
-                                <origDate>1457</origDate>
+                                <origDate when="1457">1457</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>
