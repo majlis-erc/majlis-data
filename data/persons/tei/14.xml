@@ -121,7 +121,7 @@
                         <placeName ref="" cert=""/>
                     </birth>
                     <death>
-                        <date cert="">after 486 AH/1093-1094 CE</date>
+                        <date cert="" from="1093">after 486 AH/1093-1094 CE</date>
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>

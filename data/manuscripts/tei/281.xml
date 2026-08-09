@@ -194,8 +194,8 @@
                                 <placeName ref=""/>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>מאה יב-יג</origDate>
-                                <origDate>מאה יב-יג</origDate>
+                                <origDate from="1100" to="1299">מאה יב-יג</origDate>
+                                <origDate from="1100" to="1299">מאה יב-יג</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

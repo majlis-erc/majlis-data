@@ -189,7 +189,7 @@
                                 <placeName ref=""/>
                                 <metamark function="vocalization">Rare use of Tiberian vowel signs.</metamark>
                                 <metamark function="diacritics">Sparsely dotted. Abbreviated words marked by a dot above the letter.</metamark>
-                                <origDate>1100-1300?</origDate>
+                                <origDate from="1100" to="1300">1100-1300?</origDate>
                                 <note xml:lang="">
                                     <p>Some corrections (crossed out words, sometimes also marked by dots above the letters).</p>
                                 </note>

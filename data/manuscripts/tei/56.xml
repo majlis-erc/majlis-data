@@ -192,7 +192,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>מאה יב</origDate>
+                                <origDate from="1100" to="1199">מאה יב</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

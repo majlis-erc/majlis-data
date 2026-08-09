@@ -158,7 +158,7 @@
                                 <persName ref="" role="scribe">אלעזר הלוי בר' יוסף</persName>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>1101-1119</origDate>
+                                <origDate from="1101" to="1119">1101-1119</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

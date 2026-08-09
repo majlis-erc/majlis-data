@@ -199,7 +199,7 @@
                                 <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter.</metamark>
-                                <origDate>1051</origDate>
+                                <origDate when="1051">1051</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                             <handNote xml:id="hand-1.1.2" source="#" medium="">

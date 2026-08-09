@@ -189,7 +189,7 @@
                                 <metamark function="vocalization">Sporadic use of Arabic and Tiberian vocalization.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Mostly unpointed, Ḍād is frequently written with a diacritic point, abbreviations marked by a dot above the letter.</metamark>
-                                <origDate>1048</origDate>
+                                <origDate when="1048">1048</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page or chapter.</p>
                                 </note>

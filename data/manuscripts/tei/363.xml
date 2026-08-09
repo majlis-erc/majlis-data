@@ -177,7 +177,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Mostly unpointed, a dot above a letter marks abbreviations.</metamark>
-                                <origDate>1043</origDate>
+                                <origDate when="1043">1043</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

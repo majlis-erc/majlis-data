@@ -177,7 +177,7 @@
                                 <metamark function="diacritics">Sparsely dotted. Abbreviations marked by a dot above the letter.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
-                                <origDate>1000-1200?</origDate>
+                                <origDate from="1000" to="1200">1000-1200?</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

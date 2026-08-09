@@ -213,7 +213,7 @@
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
                                 <metamark function="diacritics">Mostly unpointed.</metamark>
                                 <placeName ref="https://jalit.org/place/13">Baṣra</placeName>
-                                <origDate when="1020">1000-1100</origDate>
+                                <origDate when="1020" from="1000" to="1100">1000-1100</origDate>
                                 <note xml:lang="">
                                     <p>Colophon included in Yevr.-Arab. II 3020.</p>
                                 </note>

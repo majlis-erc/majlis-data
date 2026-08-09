@@ -174,7 +174,7 @@
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Sparsely dotted.</metamark>
                                 <metamark function="vocalization">Frequent use of Tiberian vowel signs.</metamark>
-                                <origDate>1049</origDate>
+                                <origDate when="1049">1049</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

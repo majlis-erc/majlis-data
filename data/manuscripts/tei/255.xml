@@ -211,7 +211,7 @@
                                 <placeName ref=""/>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>מאה יד-טז</origDate>
+                                <origDate from="1300" to="1599">מאה יד-טז</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

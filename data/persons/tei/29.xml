@@ -136,7 +136,7 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="">11th c.</date>
+                        <date cert="" when="1100">11th c.</date>
                         <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>

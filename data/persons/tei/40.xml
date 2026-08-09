@@ -149,7 +149,7 @@
                         <placeName ref="" cert=""/>
                     </birth>
                     <death>
-                        <date when="" notBefore="" notAfter="" cert="">1013</date>
+                        <date when="1013" notBefore="" notAfter="" cert="">1013</date>
                         <placeName ref="" cert="">Sura</placeName>
                     </death>
                     <floruit from="" to="" notBefore="" notAfter="" cert=""/>

@@ -192,7 +192,7 @@
                                 <metamark function="vocalization"> Sporadic use of Arabic and Tiberian vocalization.</metamark>
                                 <metamark function="diacritics">Mostly unpointed, a dot above the letter is used to mark abbreviations.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-                                <origDate>1000-1200?</origDate>
+                                <origDate from="1000" to="1200">1000-1200?</origDate>
                                 <note xml:lang="">
                                     <p>Descenders of Qof and final Kaf tilted towards the right.</p>
                                 </note>

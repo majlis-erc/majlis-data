@@ -193,7 +193,7 @@
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Sparsely dotted. A dot above a letter is used to mark abbreviations.</metamark>
                                 <metamark function="divine-names">Two yods with one yod added above.</metamark>
-                                <origDate>1091</origDate>
+                                <origDate when="1091">1091</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

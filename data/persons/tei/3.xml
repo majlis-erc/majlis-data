@@ -61,7 +61,7 @@
         <body>
             <listPerson>
                 <person xml:id="person-3"><floruit>
-      <date cert="">ca. 950</date>
+      <date cert="" when="0950">ca. 950</date>
       <placeName cert="" ref=""/>
    </floruit>
                     <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">

@@ -215,7 +215,7 @@
                                 <persName ref="" role="scribe">דניאל בן משה המלמד</persName>
                                 <placeName ref=""/>
                                 <metamark function=""/>
-                                <origDate>1515 </origDate>
+                                <origDate when="1515">1515 </origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

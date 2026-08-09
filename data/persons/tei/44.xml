@@ -150,7 +150,7 @@
                         <date when="" notBefore="" notAfter="" cert=""/>
                         <placeName ref="" cert=""/>
                     </death>
-                    <floruit from="" to="" notBefore="" notAfter="" cert=""><date cert="">9th c.</date></floruit>
+                    <floruit from="" to="" notBefore="" notAfter="" cert=""><date cert="" when="0900">9th c.</date></floruit>
                     <sex cert="" value="">Male</sex>
                     <faith cert="">Karaite</faith>
                     <occupation type="" cert=""/>

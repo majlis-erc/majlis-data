@@ -182,7 +182,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="diacritics">sparsely dotted; occasional ihmāl-marks</metamark>
-                                <origDate>1017-1019 / 1027</origDate>
+                                <origDate from="1017" to="1027">1017-1019 / 1027</origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

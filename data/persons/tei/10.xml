@@ -159,7 +159,7 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="">1001-1040</date>
+                        <date cert="" from="1001" to="1040">1001-1040</date>
                         <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>

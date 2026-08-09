@@ -220,7 +220,7 @@
                                 <metamark function="vocalization">Sporadic use of Tiberian vowel signs.</metamark>
                                 <metamark function="diacritics">Sparsely dotted, abbreviations marked by a dot above the letter.</metamark>
                                 <metamark function="divine-names">Tetragrammaton: Yods with symbols/abbreviation signs.</metamark>
-                                <origDate>1000-1100</origDate>
+                                <origDate from="1000" to="1100">1000-1100</origDate>
                                 <note xml:lang="">
                                     <p>In the first line of each page the letter Lamed is written with an elongated ascender. Aleph-Lamed ligature. Long ascenders and descenders. Descender of final Nun slanting leftwards. Some marginal notes.</p>
                                 </note>

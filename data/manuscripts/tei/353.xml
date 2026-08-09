@@ -206,7 +206,7 @@
                                 <metamark function="vocalization">Rare use of Tiberian vocalization.</metamark>
                                 <metamark function="divine-names">"Allah" written with Aleph-Lamed ligature followed by a horizontal dash with a dot above and below</metamark>
                                 <metamark function="diacritics">Sparsely dotted.</metamark>
-                                <origDate>1000-1100</origDate>
+                                <origDate from="1000" to="1100">1000-1100</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of page, at the end of a line, or after a chapter heading.</p>
                                 </note>

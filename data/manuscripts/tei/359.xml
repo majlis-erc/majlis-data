@@ -194,7 +194,7 @@
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Sparsely dotted. A dot above a letter is used to mark abbreviated words or numbers.</metamark>
                                 <metamark function="divine-names">Yods with symbols/abbreviation signs.</metamark>
-                                <origDate>1023-4</origDate>
+                                <origDate from="1023" to="1024">1023-4</origDate>
                                 <note xml:lang="">
                                     <p>Elongated ascenders of Lamed in the first line of a page.</p>
                                 </note>

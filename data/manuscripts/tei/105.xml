@@ -191,7 +191,7 @@
                                 <persName ref="" role="">אליהו בן שלמה</persName>
                                 <placeName ref="https://jalit.org/place/1">קהיר</placeName>
                                 <metamark function=""/>
-                                <origDate>1580 </origDate>
+                                <origDate when="1580">1580 </origDate>
                                 <note xml:lang=""/>
                             </handNote>
                         </handDesc>

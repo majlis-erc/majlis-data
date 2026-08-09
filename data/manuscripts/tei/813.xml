@@ -116,7 +116,7 @@
                             <handNote medium=""> <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">יוסף בן דניאל בן סעדיה</persName>
-                                <placeName ref=""/> <metamark function=""/> <origDate>951</origDate>
+                                <placeName ref=""/> <metamark function=""/> <origDate when="0951">951</origDate>
                                 <note xml:lang=""/> </handNote>
                         </handDesc>
                         <scriptDesc>

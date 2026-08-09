@@ -117,7 +117,7 @@
                             <handNote medium=""> <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">עזריקם</persName> <placeName ref=""/>
-                                <metamark function=""/> <origDate>926</origDate> <note xml:lang=""/>
+                                <metamark function=""/> <origDate when="0926">926</origDate> <note xml:lang=""/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>

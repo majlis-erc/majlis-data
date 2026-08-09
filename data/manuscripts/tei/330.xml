@@ -221,7 +221,7 @@
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Sparsely dotted.</metamark>
-                                <origDate>1096</origDate>
+                                <origDate when="1096">1096</origDate>
                                 <note xml:lang="">
                                     <p>No visible vowel signs.</p>
                                 </note>

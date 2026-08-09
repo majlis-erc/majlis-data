@@ -232,7 +232,7 @@
                         <persName ref="" role=""/>
                         <placeName ref=""/>
                         <metamark function=""/>
-                        <origDate>מאה יז-יח ?</origDate>
+                        <origDate from="1600" to="1799">מאה יז-יח ?</origDate>
                         <note xml:lang=""/>
                      </handNote>
                   </handDesc>
