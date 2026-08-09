@@ -201,7 +201,7 @@
                                 <placeName ref=""/>
                                 <metamark function="diacritics">Mostly unpointed, Ḍād frequently written a diacritic point, abbreviations marked with a dot above the letter.</metamark>
                                 <metamark function="vocalization">Sporadic use of Arabic vowel signs.</metamark>
-                                <origDate when="1049"/>
+                                <origDate when="1049">1049</origDate>
                                 <note xml:lang="">
                                     <p>See colophon in Yevr.-Arab. I 832.1.</p>
                                 </note>

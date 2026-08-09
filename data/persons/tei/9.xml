@@ -252,7 +252,7 @@
       <name>Abū Yaʿqūb "al-Ḍarīr"</name>
    </persName>
                     <birth>
-                        <date cert="">961-680</date>
+                        <date cert="" from="0680" to="0961">680-961</date>
                         <placeName ref="https://jalit.org/place/10">Iraq</placeName>
                         <placeName ref="https://jalit.org/place/11" cert="">Persia</placeName>
                     </birth>

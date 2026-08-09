@@ -117,7 +117,7 @@
                             <handNote medium=""> <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <persName ref="" role="scribe">נסי בן אהרן בן בכתוי</persName>
-                                <placeName ref=""/> <metamark function=""/> <origDate>900 [FGP];
+                                <placeName ref=""/> <metamark function=""/> <origDate when="0900">900 [FGP];
                                 1016 [Ktiv]</origDate> <note xml:lang=""/> </handNote>
                         </handDesc>
                         <scriptDesc>
