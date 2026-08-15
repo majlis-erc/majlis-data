@@ -117,7 +117,7 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <birth>
-                        <date cert="">before 436 AH/1045 CE</date>
+                        <date cert="" notAfter="1045">before 436 AH/1045 CE</date>
                         <placeName ref="" cert=""/>
                     </birth>
                     <death>
