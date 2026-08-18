@@ -63,9 +63,6 @@
         <body>
             <listPerson>
                 <person xml:id="person-23">
-                    <persName xml:id="name-1" xml:lang="ar-Latn" type="canon">
-                        <name>ʿAzaryā b. Ṣāliḥ</name>
-                    </persName>
                     <persName xml:id="name-2" xml:lang="he-Latn" type="majlis-headword">
                         <name>ʿAzarya ha-Kohen</name>
                     </persName>
