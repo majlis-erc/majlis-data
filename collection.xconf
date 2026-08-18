@@ -1,7 +1,9 @@
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
         <lucene diacritics="no">
-            <module uri="http://srophe.org/srophe/facets" prefix="sf" at="xmldb:exist:////db/apps/srophe/modules/lib/facets.xql"/>
+            <!-- Fixed: this used to point at /db/apps/srophe/..., a path that no longer exists.
+                 The app is deployed at /db/apps/majlis. -->
+            <module uri="http://srophe.org/srophe/facets" prefix="sf" at="xmldb:exist:////db/apps/majlis/modules/lib/facets.xql"/>
             <text qname="tei:body">
                 <field name="title" expression="sf:field(descendant-or-self::tei:body,'title')"/>
                 <field name="titleSyriac" expression="sf:field(descendant-or-self::tei:body, 'titleSyriac')"/>
@@ -16,6 +18,30 @@
             <text qname="tei:placeName" boost="5.0"/>
             <text qname="tei:title" boost="10.5"/>
             <text qname="tei:desc" boost="2.0"/>
+            <!-- Added: one <facet> per facet-definition in manuscripts/facet-def.xml (see the srophe
+                 repo). Without these, the manuscript browse page's facet sidebar renders an empty
+                 box, because ft:facets() has nothing to compute from - there was no facet index
+                 configuration for it to read, in this file's history or otherwise.
+                 dimension names match facet-def.xml's facet-definition/@name exactly, and each
+                 expression is the same XPath as that facet's <sub-path>, so ft:facets() can group
+                 the manuscript hits (tei:TEI elements) by these values. -->
+            <text qname="tei:TEI">
+                <facet dimension="repository" expression="descendant::tei:msIdentifier/tei:repository"/>
+                <facet dimension="collection" expression="descendant::tei:msIdentifier/tei:collection"/>
+                <facet dimension="country" expression="descendant::tei:msIdentifier/tei:country"/>
+                <facet dimension="city" expression="descendant::tei:msIdentifier/tei:settlement"/>
+                <facet dimension="language" expression="descendant::tei:msContents/tei:msItem/tei:textLang"/>
+                <facet dimension="material" expression="descendant::tei:physDesc/tei:objectDesc/tei:supportDesc/tei:support/tei:material"/>
+                <facet dimension="dateOfOrigin" expression="descendant::tei:physDesc/tei:objectDesc/tei:supportDesc/tei:support/tei:origDate"/>
+                <facet dimension="placeOfOrigin" expression="descendant::tei:physDesc/tei:objectDesc/tei:supportDesc/tei:support/tei:origPlace"/>
+                <facet dimension="typeOfManuscript" expression="descendant::tei:physDesc/tei:ab/@subtype"/>
+                <facet dimension="scriptType" expression="descendant::tei:physDesc/tei:scriptDesc/tei:scriptNote/@script"/>
+                <facet dimension="scriptMode" expression="descendant::tei:physDesc/tei:scriptDesc/tei:scriptNote/@rend"/>
+                <facet dimension="scriptQuality" expression="descendant::tei:physDesc/tei:scriptDesc/tei:scriptNote/@style"/>
+                <facet dimension="binding" expression="descendant::tei:physDesc/tei:bindingDesc/tei:binding/tei:decoNote/tei:objectType"/>
+                <facet dimension="incodicatedDocument" expression="descendant::tei:physDesc/tei:additions/tei:list/tei:item/tei:objectType"/>
+                <facet dimension="reproductions" expression="descendant::tei:facsimile/tei:graphic"/>
+            </text>
         </lucene>
         <range>
             <create qname="@syriaca-computed-start" type="xs:date"/>
