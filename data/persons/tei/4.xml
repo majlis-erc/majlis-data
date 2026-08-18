@@ -417,12 +417,6 @@
                     <persName type="alternate" xml:lang="" xml:id="name-120">
                         <name source="#viaf">Japheth ben Ali ha-Levi 10ος αι.</name>
                     </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-121">
-                        <name>Yefet ben ʿEli</name>
-                    </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-122">
-                        <name>Abū ʿAlī al-Ḥasan b. ʿAlī al-Baṣrī</name>
-                    </persName>
                     <persName type="canon" xml:lang="ar" xml:id="name-123">
                         <addName xml:id="sh-ar" type="shuhra">المعلم أبو علي</addName>
                         <addName xml:id="is-ar" type="ism">الحسن</addName>
