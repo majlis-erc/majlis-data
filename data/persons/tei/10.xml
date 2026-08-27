@@ -150,6 +150,9 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
+                    <state>
+                        <label cert="" source=""/>
+                    </state>
                     <birth>
                         <date cert=""/>
                         <placeName ref="" cert=""/>

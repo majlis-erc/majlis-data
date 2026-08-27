@@ -129,6 +129,10 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
+                    <note xml:lang="" resp="" type=""/>
+                    <state>
+                        <label cert="" source=""/>
+                    </state>
                     <birth>
                         <date cert="" source="#"/>
                         <placeName ref="https://jalit.org/place/3"/>
