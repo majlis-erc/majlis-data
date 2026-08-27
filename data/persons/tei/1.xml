@@ -223,6 +223,10 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
+                    <note xml:lang="" resp="" type=""/>
+                    <state>
+                        <label cert="" source=""/>
+                    </state>
                     <birth>
                         <date cert="" source="#" when="0870">870</date>
                         <placeName ref="https://jalit.org/place/4" cert="" source="#">Damghan</placeName>

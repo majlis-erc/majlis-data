@@ -116,6 +116,10 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
+                    <note xml:lang="" resp="" type=""/>
+                    <state>
+                        <label cert="" source=""/>
+                    </state>
                     <birth>
                         <date cert="" notAfter="1045">before 436 AH/1045 CE</date>
                         <placeName ref="" cert=""/>
