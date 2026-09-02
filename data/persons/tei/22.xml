@@ -55,7 +55,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mroozen" when="2026-09-02T10:27:51.600Z">add biographical data</change>
+            <change who="#mroozen" when="2026-09-02T10:41:49.571Z">update biographical data</change>
             <change who="#gschwarb" when="2025-07-01T07:01:10.349Z">Yaʿqov ben Šimʿon, correction Heritage Data</change>
             <change who="#S.Mattutat" when="2024-12-12T12:01:33.082Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-09-02T13:32:52.305Z">Added heritage data.</change>
@@ -123,7 +123,7 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <note xml:lang="en" resp="gschwarb" type="biography">
+                    <note xml:lang="" resp="" type="">
                         <p>Translator of Yešuʿa ben Yehuda’s Ǧawābāt ʿan masāʾil muškila fī l-tarkīb (hebr. Sefer ha-Yašar).</p>
                     </note>
                     <state>
