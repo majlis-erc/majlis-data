@@ -1,33 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Ṭoviya ben Moše</title>
-                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in
-                    Arabic in the Islamicate World</title>
+                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName>(
-                    <orgName xml:lang="de">Ludwig-Maximilians-Universität
-                    München</orgName>)</sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName>(<orgName xml:lang="de">Ludwig-Maximilians-Universität München</orgName>)</sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(
-                    <orgName xml:lang="de">Institut für den Nahen und Mittleren
-                    Osten</orgName>)</sponsor>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName>(<orgName xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>)</sponsor>
                 <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName>(
-                    <orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
+                    <orgName>ERC: European Research Council</orgName>(<orgName xml:lang="de">Europäischer Forschungsrat</orgName>)</funder>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html
-                    http://orcid.org/0000-0002-1702-2981
-                    https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
+                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                     http://orcid.org/0000-0002-1702-2981                     https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
                 <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky"
-                        >Winona Salesky</name>
-                </respStmt>
                 <editor role="entry-editor">Gregor Schwarb</editor>
                 <editor role="contributor">Jonathan Beise</editor>
                 <editor role="contributor">Jasper Bernhofer</editor>
@@ -38,21 +24,19 @@
                 <editor role="contributor">Lea Gzella</editor>
                 <editor role="contributor">Polina Lakteikina</editor>
                 <editor role="contributor">Sara Mattutat</editor>
-                <editor xml:id="mmoliere" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html
-                    https://orcid.org/0000-0002-2168-8655
-                    http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
+                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                     https://orcid.org/0000-0002-2168-8655                     http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
                 <editor role="contributor">Lea Poralla</editor>
                 <editor role="contributor">Maxim Roozen</editor>
-                <editor xml:id="gschwarb" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html
-                    http://orcid.org/0000-0002-9090-1878
-                    https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                     http://orcid.org/0000-0002-9090-1878                     https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor role="contributor">Peter Tarras</editor>
                 <editor role="contributor">Nadine Urbiczek</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -61,25 +45,23 @@
                 <idno type="URI">https://jalit.org/person/12</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p> Distributed under a Creative Commons Attribution 4.0 International (CC
-                            BY 4.0) License. </p>
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p> Born digital. </p>
+                <p>Born digital.</p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-06-30T16:40:25.683Z">Tovia ben Moše, Heritage Data,
-                Poznanski</change>
-            <change who="#S.Mattutat" when="2024-12-12T10:50:21.691Z">Person: Personal
-                Name.</change>
+            <change who="#mroozen" when="2026-09-02T08:18:44.864Z">add person roles</change>
+            <change who="#mroozen" when="2026-09-01T15:13:35.902Z">add biographical data</change>
+            <change who="#gschwarb" when="2025-06-30T16:40:25.683Z">Tovia ben Moše, Heritage Data, Poznanski</change>
+            <change who="#S.Mattutat" when="2024-12-12T10:50:21.691Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-05T10:49:31.785Z">Corrected LOD.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
-            <change who="#mmoliere" when="2024-02-01">Added alternate names and
-                identifiers.</change>
+            <change who="#mmoliere" when="2024-02-01">Added alternate names and identifiers.</change>
             <change who="#mmoliere" when="2024-01-29">Adapted to schema modifications.</change>
         </revisionDesc>
     </teiHeader>
@@ -87,37 +69,37 @@
         <body>
             <listPerson>
                 <person xml:id="person-12">
-                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                    <persName xml:id="name-1" xml:lang="he-Latn" type="majlis-headword">
                         <name>Ṭoviya ben Moše</name>
                     </persName>
-                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                    <persName xml:id="name-2" xml:lang="ar-Latn" type="majlis-headword">
                         <name/>
                     </persName>
-                    <persName type="attested" xml:lang="he" xml:id="name-3">
+                    <persName xml:id="name-3" type="attested" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName type="attested" xml:lang="ar" xml:id="name-4">
+                    <persName xml:id="name-4" type="attested" xml:lang="ar">
                         <name/>
                     </persName>
-                    <persName type="alternate" xml:lang="" xml:id="name-5">
+                    <persName xml:id="name-5" type="alternate" xml:lang="">
                         <name source="#isni">Tobia ben Moses (ha-Abel)</name>
                     </persName>
-                    <persName type="alternate" xml:lang="" xml:id="name-6">
+                    <persName xml:id="name-6" type="alternate" xml:lang="">
                         <name source="#isni">Tobias ben Moses (ha-Avel)</name>
                     </persName>
-                    <persName type="alternate" xml:lang="" xml:id="name-7">
+                    <persName xml:id="name-7" type="alternate" xml:lang="">
                         <name source="#isni">Ṭoviyah ben Mosheh (ha-Avel)</name>
                     </persName>
-                    <persName type="alternate" xml:lang="" xml:id="name-8">
+                    <persName xml:id="name-8" type="alternate" xml:lang="">
                         <name source="#isni">בן משה, טוביה</name>
                     </persName>
-                    <persName type="alternate" xml:lang="" xml:id="name-9">
+                    <persName xml:id="name-9" type="alternate" xml:lang="">
                         <name source="#isni">טוביה בן משה</name>
                     </persName>
-                    <persName type="alternate" xml:lang="" xml:id="name-10">
+                    <persName xml:id="name-10" type="alternate" xml:lang="">
                         <name source="#isni">טוביה בן משה (האבל)</name>
                     </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-11">
+                    <persName xml:id="name-11" type="canon" xml:lang="ar">
                         <addName xml:id="sh-ar" type="shuhra"/>
                         <addName xml:id="is-ar" type="ism"/>
                         <addName xml:id="na-ar" type="nasab"/>
@@ -125,7 +107,7 @@
                         <addName xml:id="ku-ar" type="kunya"/>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-12">
+                    <persName xml:id="name-12" type="canon" xml:lang="ar-Hebr">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
                         <addName ref="#na-ar" type="nasab"/>
@@ -133,7 +115,7 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-13">
+                    <persName xml:id="name-13" corresp="" type="canon" xml:lang="ar-Latn">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
                         <addName ref="#na-ar" type="nasab"/>
@@ -141,14 +123,14 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-14">
+                    <persName xml:id="name-14" type="canon" xml:lang="he">
                         <forename xml:id="fn-he">טוביה</forename>
                         <addName xml:id="pa-he" type="patronym">בן משה</addName>
                         <addName xml:id="ep-he" type="epithet">האבל</addName>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-15">
+                    <persName xml:id="name-15" corresp="" type="canon" xml:lang="he-Latn">
                         <forename ref="#fn-he" xml:lang="he-Latn">Ṭoviya</forename>
                         <addName ref="#pa-he" type="patronym">ben Moše</addName>
                         <addName ref="#ep-he" type="epithet">ha-Avel</addName>
@@ -157,7 +139,10 @@
                     </persName>
                     <note xml:lang="" resp="" type=""/>
                     <state>
-                        <label cert="" source=""/>
+                        <label cert="">Translator</label>
+                        <label cert="">Author</label>
+                        
+                        
                     </state>
                     <birth>
                         <date cert=""/>
@@ -178,171 +163,123 @@
                         <placeName ref="" cert=""/>
                     </residence>
                     <bibl type="bibliography" xml:id="jalit-orgbiblMVC2DJY8">
-                        <title>“Tovia ben Moshe ha-Avel.” Encyclopaedia Judaica, (Jerusalem: Keter,
-                            1971), p. 280.</title>
+                        <title>“Tovia ben Moshe ha-Avel.” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), p. 280.</title>
                         <ptr target="https://jalit.org/bibl/MVC2DJY8"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblST7XKSRA">
-                        <title>Ankori, Zvi. “Some aspects of Karaite–Rabbanite relations in
-                            Byzantium on the eve of the First Crusade.” Proceedings of the American
-                            Academy of Jewish Research 24-25 (1955): pp. 1-38; 25; 157-182.</title>
+                        <title>Ankori, Zvi. “Some aspects of Karaite–Rabbanite relations in Byzantium on the eve of the First Crusade.” Proceedings of the American Academy of Jewish Research 24-25 (1955): pp. 1-38; 25; 157-182.</title>
                         <ptr target="https://jalit.org/bibl/ST7XKSRA"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblKFE5HMFP">
-                        <title>Ankori, Zvi. “Tobias ben Moses ha-Avel (ha-Ma’tik).” Encyclopaedia
-                            Judaica, (Jerusalem: Keter, 1971), pp. 1182–1183.</title>
+                        <title>Ankori, Zvi. “Tobias ben Moses ha-Avel (ha-Ma’tik).” Encyclopaedia Judaica, (Jerusalem: Keter, 1971), pp. 1182–1183.</title>
                         <ptr target="https://jalit.org/bibl/KFE5HMFP"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblIFIVWVGI">
-                        <title>Ankori, Zvi. “Tobias ben Moses ha-Avel (ha-Ma’tik).” Encyclopaedia
-                            Judaica, (Detroit: Gale, 2007), pp. 11-12.</title>
+                        <title>Ankori, Zvi. “Tobias ben Moses ha-Avel (ha-Ma’tik).” Encyclopaedia Judaica, (Detroit: Gale, 2007), pp. 11-12.</title>
                         <ptr target="https://jalit.org/bibl/IFIVWVGI"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblARAE8XMS">
-                        <title>Ankori, Zvi. “The correspondance of Tobias ben Moses, the Karaite of
-                            Constantinople.” In Essays on Jewish Life and Thought: Presented in
-                            Honor of Salo Wittmayer Baron, edited by Joseph L. Blau. (New York:
-                            Columbia University Press, 1959), pp. 1-38.</title>
+                        <title>Ankori, Zvi. “The correspondance of Tobias ben Moses, the Karaite of Constantinople.” In Essays on Jewish Life and Thought: Presented in Honor of Salo Wittmayer Baron, edited by Joseph L. Blau. (New York: Columbia University Press, 1959), pp. 1-38.</title>
                         <ptr target="https://jalit.org/bibl/ARAE8XMS"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblAGSNQZE">
-                        <title>Ankori, Zvi. Karaites in Byzantium: the formative years, 970-1100.
-                            (New York &amp; Jerusalem: Columbia University Press &amp; Weizmann
-                            Science Press of Israel, 1959).</title>
+                        <title>Ankori, Zvi. Karaites in Byzantium: the formative years, 970-1100. (New York &amp; Jerusalem: Columbia University Press &amp; Weizmann Science Press of Israel, 1959).</title>
                         <ptr target="https://jalit.org/bibl/AGSNQZE"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblLWYQH8ZA">
-                        <title>Astren, Fred. “Tovia ben Moshe.” In Karaite Judaism and historical
-                            understanding, (Columbia: University of South Carolina Press, 2004), pp.
-                            125-130.</title>
+                        <title>Astren, Fred. “Tovia ben Moshe.” In Karaite Judaism and historical understanding, (Columbia: University of South Carolina Press, 2004), pp. 125-130.</title>
                         <ptr target="https://jalit.org/bibl/LWYQH8ZA"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblLG2SVRZX">
-                        <title>Attias, Jean-Christophe. “Review: Yūsuf al-Baṣīr, Al-Muḥtawī.” The
-                            Jewish Quarterly Review 84, no. 1 (1993): p. 81. doi:
-                            10.2307/1454701.</title>
+                        <title>Attias, Jean-Christophe. “Review: Yūsuf al-Baṣīr, Al-Muḥtawī.” The Jewish Quarterly Review 84, no. 1 (1993): p. 81. doi: 10.2307/1454701.</title>
                         <ptr target="https://jalit.org/bibl/LG2SVRZX"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblHRP5JM">
-                        <title>Frank, Daniel. “Karaite exegesis.” In Hebrew Bible/Old Testament: The
-                            history of its interpretation, 1, edited by Magne Sæbø. (Göttingen:
-                            Vandenhoeck &amp; Ruprecht, 2000), pp. 110-128.</title>
+                        <title>Frank, Daniel. “Karaite exegesis.” In Hebrew Bible/Old Testament: The history of its interpretation, 1, edited by Magne Sæbø. (Göttingen: Vandenhoeck &amp; Ruprecht, 2000), pp. 110-128.</title>
                         <ptr target="https://jalit.org/bibl/HRP5JM"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFFX37ELA">
-                        <title>Frank, Daniel. “Karaite exegetical and halakhic literature in
-                            Byzantium and Turkey.” In Karaite Judaism: a guide to its history and
-                            literary sources, edited by Meira Polliack. (Leiden &amp; Boston: Brill,
-                            2003), pp. 529-558. https://doi.org/10.1163/9789004294264_024.</title>
+                        <title>Frank, Daniel. “Karaite exegetical and halakhic literature in Byzantium and Turkey.” In Karaite Judaism: a guide to its history and literary sources, edited by Meira Polliack. (Leiden &amp; Boston: Brill, 2003), pp. 529-558. https://doi.org/10.1163/9789004294264_024.</title>
                         <ptr target="https://jalit.org/bibl/FFX37ELA"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblTJ7XVLI7">
-                        <title>Frankl, Pinkus Fritz. “Beiträge zur Literaturgeschichte der Karäer.”
-                            Bericht über die Lehranstalt für die Wissenschaft des Judenthums in
-                            Berlin 5 (1887): pp. 1-20.</title>
+                        <title>Frankl, Pinkus Fritz. “Beiträge zur Literaturgeschichte der Karäer.” Bericht über die Lehranstalt für die Wissenschaft des Judenthums in Berlin 5 (1887): pp. 1-20.</title>
                         <ptr target="https://jalit.org/bibl/TJ7XVLI7"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblNYEQTG73">
-                        <title>Gil, Moshe. “Tovia ben Moshe.” In A History of Palestine, 634–1099,
-                            (Cambridge: Cambridge University Press, 1992), p. index.</title>
+                        <title>Gil, Moshe. “Tovia ben Moshe.” In A History of Palestine, 634–1099, (Cambridge: Cambridge University Press, 1992), p. index.</title>
                         <ptr target="https://jalit.org/bibl/NYEQTG73"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblLTWIRQDI">
-                        <title>Gil, Moshe. “Tovia ben Moshe.” In Jews in Islamic countries in the
-                            Middle Ages, (Leiden: Brill, 2004), pp. 319-320 [194].</title>
+                        <title>Gil, Moshe. “Tovia ben Moshe.” In Jews in Islamic countries in the Middle Ages, (Leiden: Brill, 2004), pp. 319-320 [194].</title>
                         <ptr target="https://jalit.org/bibl/LTWIRQDI"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblEUM3R3FY">
-                        <title>Mann, Jacob. “Tovia ben Moshe.” In Texts and Studies in Jewish
-                            History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish
-                            Publication Society, 1935), p. index.</title>
+                        <title>Mann, Jacob. “Tovia ben Moshe.” In Texts and Studies in Jewish History and Literature Karaitica, 2, (Philadelphia: Hebrew Press; Jewish Publication Society, 1935), p. index.</title>
                         <ptr target="https://jalit.org/bibl/EUM3R3FY"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblNJ72KYS">
-                        <title>Markon, Isaac. “Tobia ben Moses.” Jüdisches Lexicon, (Berlin:
-                            Jüdischer Verlag, 1927), p. 959.</title>
+                        <title>Markon, Isaac. “Tobia ben Moses.” Jüdisches Lexicon, (Berlin: Jüdischer Verlag, 1927), p. 959.</title>
                         <ptr target="https://jalit.org/bibl/NJ72KYS"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblDGQGMWU">
-                        <title>Nemoy, Leon. “Tovia ben Moshe.” In Karaite anthology: excerpts from
-                            the early literature, translated from Arabic, Aramaic, and Hebrew
-                            sources, (New Haven &amp; London: Yale University Press, 1952), pp. 124;
-                            249; 380.</title>
+                        <title>Nemoy, Leon. “Tovia ben Moshe.” In Karaite anthology: excerpts from the early literature, translated from Arabic, Aramaic, and Hebrew sources, (New Haven &amp; London: Yale University Press, 1952), pp. 124; 249; 380.</title>
                         <ptr target="https://jalit.org/bibl/DGQGMWU"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblKRA3GIW">
-                        <title>Nemoy, Leon. “Tobiah ben Moses.” Universal Jewish Encyclopedia, (New
-                            York: Universal Jewish Encyclopedia, 1939), p. 258.</title>
+                        <title>Nemoy, Leon. “Tobiah ben Moses.” Universal Jewish Encyclopedia, (New York: Universal Jewish Encyclopedia, 1939), p. 258.</title>
                         <ptr target="https://jalit.org/bibl/KRA3GIW"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblNPGDCR">
-                        <title>Scheiber, Alexander. “Ein aus arabischer Gefangenschaft befreiter
-                            christlicher Proselyt in Jerusalem.” Hebrew Union College Annual 39
-                            (1968): pp. 163–175.</title>
+                        <title>Scheiber, Alexander. “Ein aus arabischer Gefangenschaft befreiter christlicher Proselyt in Jerusalem.” Hebrew Union College Annual 39 (1968): pp. 163–175.</title>
                         <ptr target="https://jalit.org/bibl/NPGDCR"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblEQHICTW">
-                        <title>Scheiber, Alexander. “New Texts from the Geniza Concerning the
-                            Proselytes.” Hebrew Union College Annual 50 (1979): pp. 277-287.</title>
+                        <title>Scheiber, Alexander. “New Texts from the Geniza Concerning the Proselytes.” Hebrew Union College Annual 50 (1979): pp. 277-287.</title>
                         <ptr target="https://jalit.org/bibl/EQHICTW"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblF7QUXPX">
-                        <title>Seligsohn, Max. “Tobias ben Moses ha-Abel.” The Jewish Encyclopaedia,
-                            (New York: Funk and Wagnalls, 1901), pp. 166-167.</title>
+                        <title>Seligsohn, Max. “Tobias ben Moses ha-Abel.” The Jewish Encyclopaedia, (New York: Funk and Wagnalls, 1901), pp. 166-167.</title>
                         <ptr target="https://jalit.org/bibl/F7QUXPX"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblCACSEAJY">
-                        <title>Sklare, David E. “Toviyyah ben Mosheh (11th c).” The Oxford
-                            Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and
-                            Geoffrey Wigoder (New York: Oxford University Press, 1997), p.
-                            701.</title>
+                        <title>Sklare, David E. “Toviyyah ben Mosheh (11th c).” The Oxford Dictionary of the Jewish Religion, edited by R. J. Zwi Werblowsky, and Geoffrey Wigoder (New York: Oxford University Press, 1997), p. 701.</title>
                         <ptr target="https://jalit.org/bibl/CACSEAJY"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblLU3KNXPS">
-                        <title>Wieder, Naphtali. “Three terms for tradition.” Jewish Quarterly
-                            Review 49 (1958): pp. 108-121.</title>
+                        <title>Wieder, Naphtali. “Three terms for tradition.” Jewish Quarterly Review 49 (1958): pp. 108-121.</title>
                         <ptr target="https://jalit.org/bibl/LU3KNXPS"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblFWBUJLK7">
-                        <title>Wieder, Naphtali. “Three terms for tradition.” In The Judean Scrolls
-                            and Karaism, (Jerusalem: Yad Ben-Zvi Press, 2005), pp. 403-418.</title>
+                        <title>Wieder, Naphtali. “Three terms for tradition.” In The Judean Scrolls and Karaism, (Jerusalem: Yad Ben-Zvi Press, 2005), pp. 403-418.</title>
                         <ptr target="https://jalit.org/bibl/FWBUJLK7"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblDSA5BWM8">
-                        <title>Zawanowska, Marzena. “Tobiah ben Moses ha-Avel.” Encyclopedia of Jews
-                            in the Islamic World, edited by Norman A. Stillman (Brill, 2010)
-                            https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/tobiah-ben-moses-ha-avel-SIM_0021320.</title>
+                        <title>Zawanowska, Marzena. “Tobiah ben Moses ha-Avel.” Encyclopedia of Jews in the Islamic World, edited by Norman A. Stillman (Brill, 2010) https://referenceworks.brillonline.com/entries/encyclopedia-of-jews-in-the-islamic-world/tobiah-ben-moses-ha-avel-SIM_0021320.</title>
                         <ptr target="https://jalit.org/bibl/DSA5BWM8"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblRRTMILRI">
-                        <title>Зелигсон, Макс. “Тобия бен Моисей Га-Абель.” Еврейская энциклопедия,
-                            (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва
-                            Брокгаузъ-Ефронъ, 1908), pp. 885–887.</title>
+                        <title>Зелигсон, Макс. “Тобия бен Моисей Га-Абель.” Еврейская энциклопедия, (С.-Петербургъ: Изд. Общества для научныхъ еврейскіхъ изданій и Изд-ва Брокгаузъ-Ефронъ, 1908), pp. 885–887.</title>
                         <ptr target="https://jalit.org/bibl/RRTMILRI"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblSUN3QAEZ">
-                        <title>אנקורי, צבי. “אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות
-                            בביצנץ.” תרביץ כה, no. א (1955): pp. 44-65.</title>
+                        <title>אנקורי, צבי. “אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביצנץ.” תרביץ כה, no. א (1955): pp. 44-65.</title>
                         <ptr target="https://jalit.org/bibl/SUN3QAEZ"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblULP3FMHU">
-                        <title>אנקורי, צבי. “אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות
-                            בביזנטיון.” תרביץ כה, no. ב (1956): pp. 183-201.</title>
+                        <title>אנקורי, צבי. “אליה בשייצי הקראי: לבדיקת מסורותיו על ראשית הקראות בביזנטיון.” תרביץ כה, no. ב (1956): pp. 183-201.</title>
                         <ptr target="https://jalit.org/bibl/ULP3FMHU"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblR76I2IRK">
-                        <title>אנקורי, צבי. “טוביה בן משה המעתיק.” אנציקלופדיה העברית, (ירושלים),
-                            pp. 351-350.</title>
+                        <title>אנקורי, צבי. “טוביה בן משה המעתיק.” אנציקלופדיה העברית, (ירושלים), pp. 351-350.</title>
                         <ptr target="https://jalit.org/bibl/R76I2IRK"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbibl3A275ST">
-                        <title>ממן, אהרן. “העברית של טוביה בן משה הקראי: הפעל, תצורה, שימוש ומילון
-                            עפ"י 10 פרקים מן ״אלכתאב אלמחתוי״.” (Ph.D, 1979).</title>
+                        <title>ממן, אהרן. “העברית של טוביה בן משה הקראי: הפעל, תצורה, שימוש ומילון עפ"י 10 פרקים מן ״אלכתאב אלמחתוי״.” (Ph.D, 1979).</title>
                         <ptr target="https://jalit.org/bibl/3A275ST"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblJ5QALNDU">
-                        <title>פוזננסקי, שמואל אברהם. “טוביהו בן משה המעתיק.” אוצר ישראל, edited by
-                            יהודה דוד אייזענשטיין (ניו-יורק: אייזענשטיין, 1911), pp. 14-12.</title>
+                        <title>פוזננסקי, שמואל אברהם. “טוביהו בן משה המעתיק.” אוצר ישראל, edited by יהודה דוד אייזענשטיין (ניו-יורק: אייזענשטיין, 1911), pp. 14-12.</title>
                         <ptr target="https://jalit.org/bibl/J5QALNDU"/>
                     </bibl>
                     <bibl type="bibliography" xml:id="jalit-orgbiblK56GF5TE">
@@ -369,153 +306,16 @@
         <list>
             <item>
                 <note xml:lang="en">
-                    <p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent,
-                        renowned for his research on Karaism and the Hebrew calendar. He was a
-                        pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized
-                        authority on contemporary and historic Qaraism. Additionally, he served as a
-                        rabbi at the Great Synagogue in Warsaw. </p>
-                    <p> Poznański harbored a profound aspiration to compile a biographical
-                        dictionary of Qaraite scholars and a historical dictionary of Qaraite
-                        literature, considering them the apex of his scholarly endeavors.
-                        Unfortunately, his sudden demise thwarted the <lb/> realization of these
-                        ambitions, and he only managed to publish a limited number of
-                        bibliographical essays on the subject. The draft of his <emph rend="italic">
-                            Encyclopedia of Qaraites </emph> is today found in the Samuel Poznański
-                        Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the
-                        current condition of the archive, referencing specific pages or files is not
-                        feasible. The entries are primarily organized by first names. </p>
-                    <p> Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU,
-                        Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor) </p>
-                    <p> Literature: <lb/> Miriam Frenkel, “Samuel Abraham Poznański’s Karaite
-                        Mission: From Wissenschaft to Jewish Nationalism,” in <emph rend="italic">
-                            Modern Jewish Scholarship on Islam in Context: Rationality, European
-                            Borders, and the Search for Belonging </emph> , edited by Ottfried
-                        Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134]. </p>
+                    <p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent,<lb/>renowned for his research on Karaism and the Hebrew calendar. He was a<lb/>pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized<lb/>authority on contemporary and historic Qaraism. Additionally, he served as a<lb/>rabbi at the Great Synagogue in Warsaw.</p>
+                    <p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his<emph rend="italic">                            Encyclopedia of Qaraites </emph>is today found in the Samuel Poznański Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p>
+                    <p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU,<lb/>Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)</p>
+                    <p>Literature:<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in*<lb/>Modern Jewish Scholarship on Islam in Context: Rationality, European<lb/>Borders, and the Search for Belonging *, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p>
                 </note>
                 <persName/>
                 <quote xml:lang="he">
-                    <p>טוביהו בן משה המעתיק (או הבקי או העובד): מחבר ומתרגם קראי בארץ יון במחצית
-                        השניה למאה הי״א. הוא היה מקושטא כמו שיאמר זה מפורש הדסי באשכל הכפר (א״ב קפ״ז
-                        אות י׳), ושאל ביחד עם בני עדתו שאלות מלפני חכמי הקראים בירושלם, גם עלה לעיר
-                        הקדש ולמד שם אצל המלמד הגדול של הקראים ישועה בן יהודה, ובחזירתו לעיר הנהיג
-                        שיהיו בני קושטא נמשכים בפסקיהם ובדיני העריות ע״פ ישועה (אגרת גיד הנשה לאליהו
-                        בשייצי). בירושלים למד לנכון שפת ערבית ובשובו לארצו תרגם ביחד עם הרבה מבני
-                        גילו (אשר רק האחד מהם יעקב בן שמערן נודע בשמו) את רוב ספרי בני דתו מערבית
-                        לעברית, והחשוב במתרגמים אלו הוא טוביה שהיה אחד המעתיקים הראשונים (בזמנו היו
-                        בספרד עוד שני מעתיקים והם ר׳ משה הכהן בן גקטילה ר׳ יצחק בן ראובן אלכרגלוני
-                        והראשון מהם קדם לטוביה, ע״י פאזנאנסקי 73). <lb/>סגנון תרגומו (וכן סגנון
-                        חבריו) הוא קשה למאד, והבטוים והשמות המ[ל]אכותים אשר משתמש בהם נפלאים ונבדלים
-                        בתמונתם וצורתם. כן למשל יאמר אפע במובן מקרה (ובניגוד לזה עינות), היותות
-                        במובן יש (מן היה), הקיץ במובן העיר (מהערבי נבה), השחתה במובן בטול. חתיכה
-                        במובן דק (אטום), עברה במובן אפשרות, ומזה נתעבר במובן יתכן (דומה להערבי
-                        יגוז), עשר במובן די למשל ואנו בזה מעושרים, ר״ל אין לנו צורך בו, פרחים במובן
-                        ענינים מסתעפים בנגוד לעקרים שהם שרשים, רחישה והשכנה במובן תנועה ומנוחה
-                        וכדומה הרבה (עי׳ הדוגמאות אצל שטיינשניידר ברשימת כ״י ליידען צד 169 ולקוטי
-                        קדמוניות לפינסקר צד 199). ובשביל זה פעמים הרבה אי אפשר להבין את התרגום אם
-                        אין לפנינו המקור הערבי. כן משתדל הוא לפעמים לתרגם את המלה הערבית במלה עברית
-                        דומה לה בהברתה ועי״ד השחתת הכונה. הרבה מלים ומאמרים שלמים נשארו בתרגומם
-                        בלשון המקור (קורא לה לשון ערב או לשון ישמעאל), ונפלא הדבר שיש בהם גם כאלה
-                        שהיה הנקל לו לתרגמם, וגם כאלה שפעם נתרגמו ופעם נשארו במקורם. עם זה הוסיף
-                        טוביה לתועלת בני ארצו מלים ובטויים בלשון יון (שקראו לה לפעמים גם לשון אדום),
-                        מה שאמנם מציין בכלל את המחברים הקראים בביזאבץ. לפעמים הוא מוסיף דברים להבנת
-                        המקור ומציין אותם במלת יענה (והוא מהערבית יעני) ואף מכנים לדברי הספר שהוא
-                        מעתיק דברי זולתו, ולעומת זה הוא גם מקצר הרבה. חסרונות התרגומים נובעות ממה
-                        שכפי הנראה נעשו בחפזון רב מבלי התבוננות עמוקה, ואף מזה שכנראה היה חסר
-                        לטוביהו וחבריו ידיעת הלשון בשלמותה אבל לא ידיעת הע ין(!). וכן יאמר גם אליהו
-                        בשייצי בהקדמתו לספרו אדרת אליהו על המעתיקים האלו כי ”העתקם בלשון הקדש לא
-                        יעקב מפני קוצר ידיעת המעתיק הראשון בחכמת הלשון". בכ״ז הייתה השפעת ההעתקות
-                        האלה רבה מאד כי המחברים שבאו אחריהם השתמשו רק בהם ולא בהמקורים הערבים, ועל
-                        ידיהם נשתמרו ג״כ ספרים הרבה מתחום הנשיה. <lb/>-2- <lb/>| העתקות טוביה |
-                        הספרים שנודעו בברור כי נעתקו ע״י טוביה הם: א) "ספר נעימות" (באשכל הכפר א"ב
-                        רנ״ח אות ג׳ נקרא גם בשם "זכרון הדתות") והוא תרגום הספר הפילוסופי הנודע של
-                        יוסף הרואה הנקרא בערבית בשם "אלכתאב אלמחתוי". שם טוביה לא נקרא בפירוש על
-                        התרגום, אבל יש ידים מוכיחות כי הוא המתרגם מפני כי נראה שנעתק ממתרגם הספר
-                        שנזכר מיד אחר זה ופה אין כל ספק כי טוביה הוא המעתיק. ועוד כי מובא בהתרגום
-                        ספר אוצר נחמד שמחברו הוא טוביה (עי׳ בסמוך), כמו שלהפך יאמר בעל ספר זה כי באר
-                        כבר את הדבר בס׳ אלמחתוי (עי׳ רשימת ליידן הנ״ל צד 172) היינו בתרגומו. התרגום
-                        מכיל ל״ט שערים לעומת מ׳ שערי המקור הערבי (עי׳ רשימת תוכן השערים בלקוטי
-                        קדמוניות 195 ובהוספה למחברת פראבקל "בייטרעגע״) , וזה מפני כי ד׳ השערים
-                        האחרונים של המקור נתקצרו לסשלשה. ובכלל נתקצרו השערים האחרונים האלה ע״י טוביה
-                        יותר מדי ועשה בהם כאדם העושה בתוך שלו (ועי״ז חשבו פינסקר ושור ואחרים כי
-                        השערים האחרונים האלה אינם מיוסף הרואה). הוא מדבר פה מהמחבר בתמונה נסתרת
-                        וקראו בשם הזקן (אלשיך) או הגדול (אלשיך אלכביר) יוסף בן אברהם ובמקום שהמחבר
-                        מביא את ספריו מציין תחתיהם טוביה את ספרי עצמו. התרגום ימצא בכ״י בליידן,
-                        בפאריס ובפטרבורג. דוגמאות שונות ממנו (משער י״ו כ׳ כ״א ל״ג ול״ז) הדפיס פנחס
-                        פראנקל בסוף מחברתו (וינא 1872), ובזמן האחרון נדפסו ממנו ע״י תלמידי בית מדרש
-                        לרבבים בבודאפעשט (הורוויץ באנדה, גאלדברגר ושווארץ) שערים שונים (ט"ו כ״ג
-                        כ"ח-כ״ט קל״ד, ועוד לקוטים משער י”ט כ”ב וכ״ד) בצרוף המקור הערבי ותרגום בלשון
-                        הגר. <lb/>ב) "מחכימת פתי" והוא תרגום קצור הספר שנזכר לפני זה ושנחחבר ג״כ
-                        מיוסף הרואה בערבית בשם "כתאב אלתמייז" או "אלמנצורי" פה נאמר בפירוש בסוף הספר
-                        כי "הוסיף על דברי הזקן המלמד הגדול רב י׳ (היינו הרואה) טוביה". ובאמת נרשמו
-                        הוספותיו בשם "זו תוספות באור". המלות הערביות מעטות בו, אף כי הסגנון הוא כלו
-                        מופשע (צ״ל מושפע) מהערבי, לעומת זה יש בו מלות יוניות למכביר. הספר כולל מלבד
-                        ההקדמה לג פרקים (עי׳ פינסקר בל״ק 298), ונמצא בכ״י באוקספורד, ליידן, ופטרבורג
-                        וגם אצל דינארד. דוגמאות מעטות ממנו (מפרק ב׳ ג׳ ט״ו וכ״ז) הדפיס פראנקל.
-                        <lb/>ג) "ספר מועדים", והוא תרגום שער מספר המצות של יוסף הרואה הנקרא בערבית
-                        בשם "כתאב אלאסתבצאר" ושם השער בערבית הוא "מקאלה אלמועדים", כפי מה שהובא
-                        במחתוי (אבל גם פה שנה המעתיק טוביה והביא במקומו את ספרו אוצר נחמד, (עי׳
-                        פראנקל "בייטרעגע" צד 7). הספר הזה נחלק לח׳ פרקים ונמצא בכ״י בפטרבורג והוא
-                        עומד הכן לדפוס ע"י פאזנאנסקי). <lb/>בכ״י ליידן 126 ימצא ספר חסר בתחלתו ונקרא
-                        בסופו בשם "פתרון עשרת הדברים" היינו באור רחב פילוסופי לעשרת הדברות (אבל הכ״י
-                        מכיל רק ד׳ הדברות הראשונות). הספר הזה מובא בשם "עשרת הדברים" אצל מחברים
-                        קראים שונים ומיוחס לישועה ומעתיקו מערבית לעברית הוא טוביה לפ״ד פראנקל
-                        ושטיינשניידר. ואין כל ספק כי טוביה העתיק עוד מספרי רבו ישועה (כמו שיאמר זה
-                        מפורש בשייצי באגרת גיד הנשה הנ״ל), אבל איו לנו ע״ז ידיעות ברורות.
-                        <lb/>|חבוריו| מספרי עצמו של טוביה נודעו: 1) אוצר נחמד" ע״ס ויקרא ונמצא תחלתו
-                        (עד סי׳ י׳) בכ״י באוקספורד וגם זאת ההתחלה היא כבר ספר רב חכמות. ונראה שנתחבר
-                        על כל התורה כי מחברו יאמר: "אני טוביה הסופר האבל מאבלי ציון כתבתי זה הספר
-                        שהוא א׳ מספרי אוצר נחמד והוא סדר כהנים". ואולי זה שמובא באשכל הכפר ב׳ פעמים
-                        (א״ב ל״ג אות ח׳ וא״ב קפ״ז אות י׳) ביחד ויקרא הגדול ואוצר נחמד הכונה לחלק
-                        שלנו שהוא חלק אחד מחלקי ספר אוצר נחמד. אבל גם פה טוביה הוא יותר מלקט ומעתיק
-                        דברי זולתו מאשר הוא מחבר, וכפי דבריו בעצמו כלל בו ע״פ הרוב דברי דוד בן בועז
-                        ויפת הלוי אף שהוסיף עליהם גם ממחברים אחרים ומבקש עם זה סליחה אם ימצא שבוש
-                        בלשון, כי "מלשון ישמעאל היה כותב אל לשון עברי" היינו שהעתיק מערבית. וגם פה
-                        ימצאו הרבה מלים ומאמרים בערבית וביונית. הספר איננו באור במלא מובן המלה כ״א
-                        דרישות מתיחסות אל המצות והענינים הנכללים בספר ויקרא. הוא מביא שם הרבה גם את
-                        דברי רז״ל מתורת כהנים ומתוספתא ומשאר ספרי תושבע"פ וכן את פתרון רס״ג על ויקרא
-                        וחולק עליו בדברי נאצה ובוז. אבל לא נודע אם זה דברי עצמו או דברי המקורות שמהם
-                        שאב. הספר הזה נזכר פעמים אחדות בתרגום הפרקים האחרונים של ספר נעימות (עי׳
-                        לעיל), וכן יחסוהו לטוביה אהרן השני, בגן עדן (דף קמ״ה ע״ג) ויש״ר מקנדיא בספרו
-                        נובלות חכמה (נ״ו). ובאדרת אליהו (ענין שבועות פ״ג ופ״ו) ייוחס לישועה בטעות.
-                        דוגמאות שונות מהספר הזה נדפסו ע״י פאזנאנסקי ובהם הכי נכבד הוא מאמר גדול ע"ד
-                        משוי העכברי (181). <lb/>2) "משיבת נפש" מאמר פילוסופי ומוסרי, נמצא בכ״י
-                        בפאריס ופטרבורג. גם הספר הזה מובא בתרגום ג׳ השערים האחרונים הנ״ל באופן שאין
-                        ספק כי חברו טוביה, למרות בעל האדרת (מבוא לסדר מילה) שמיחסו ליוסף הרואה
-                        ואחרים שמיחסים אותו לישועה. וכפי הנראה גם פה מלקט ומעתיק טוביה דברי זולתו.
-                        <lb/>3) "יהי מאורות" נזכר מבשייצי באגרת גיד הנשה הנ״ל ולא נודע מהותו. לפי
-                        דעת פינסקר הוא ספר מצות שלקוטים ממנו נדפס בלקוטי קדמוניות 97-94. אמנם פה צדק
-                        פירקאוויץ כי מחבר הלקוטים האלה חוא הדסי (עי׳ פראנקל, מאנאטסשריפט ל״א 77
-                        והלאה והשחר ח״ז 60). <lb/>4) שירים ופיוטים (ובעל ארח צדיקים דף כ״א ע״ב שררה
-                        כ״א ול״ד חושב בטעות את טוביה בן משה וטוביה המשורר לשני אנשים נפרדים). שני
-                        פיוטים ממנו יצאו בסדור תפלות הקראים האחד לשבת (תחילתו: אלהינו מכל אמה
-                        אהבתנו) הרא ע״פ א״ב ואח״כ ר״ת "טובה בן משה חזקן" (סדור דפוס ווילנא ח״א 232
-                        ועוד בחזניא כ״י, עי׳ ל״ק 139), והפיוט השני (תחלתו: אטאלה מאל הבונה בשמים
-                        מעליותיו) בעל ל״ד בתים אשר ר״ת שלהם הם "אלה הפרקים לטוביה בן משה העובד
-                        בבתוי״א אמן״,והבה פירקאוויץ מיחס לטוביה עוד ספר אחד בשם "זאת התורה" פירוש על
-                        התורה אשר היה נמצא לפי דבריו בבית עקד הספרים של הקראים בגוזלווא ואבד, ואח״כ
-                        חזר בו ואמר שמחבר הפירוש חזה הוא "טוביה הבקי בן משה האבל" אשר חי גם הוא
-                        בקושטא ונמצא אליו בסוף הפירוש חנ״ל מכתב מדוד בן בועז הנשיא משנת 1009 (המכתב
-                        הזה נדפס בספרו בני רשף צד 17-15). אבל טוביה שלנו אשר היה מזרעו ואשר נקרא
-                        בהבדל להראשון בשם "טוביה המעתיק בן משה העובד" חבר ספר "זאת החיה" על הבהמות
-                        והחיות הטמאות והטהורות (עי׳ בקרת לתולדות הקראים צד 169). אולם לכל הדברים
-                        האלה איו כל יסוד והמכתב הנ״ל זיופו נכר מתוכו (עי׳ פראנקל, מאנאטסשריפט כ״ה 56
-                        והלאה). <lb/>|דעותיו| מדעותיו של טוביה המובאות בספרי הקראים יש להזכיר ביחוד
-                        מה שאמר שכל העתקה (קבלה) שהקראים מודים בה יש לה רמז מן הכתוב, ומי שאומר שיש
-                        העתקה שאין לה סיוע מן הכתוב אין זה אלא מקצרין יד שכלו במצוה ההיא (גן עדן ח׳:
-                        אדרת אליהו בהקדמה, ענין קה״ח פס״ו, ענין שבת פיקד, דר מרדכי ן׳: ועי׳ דו״ד ח״ד
-                        78). בנגוד לכל חכמי הקראים הורה טוביה כי העומר נקצר ביום מקרא קדש לפי שגם זה
-                        ממצות השם (מבחר ויקרא מ״א; גן עדן נ״ד ע״ג; אדרת אליהו ענין שבועותפ״ג, ועי׳
-                        ל״ק 93). מי שנולד בין השמשות דוחין את המילה ליום א׳ מפני שאין ספק נעשה בשבת
-                        ואם היה יום ראשון מועד מלין אותו ביום שני, וגם זה בניגוד ממה שהורה רבו ישועת
-                        (גן עדן ל״ג ע״ד וקס״ג ע״ג, אדרת אליהו סדר המילה פ״ב, ועי׳ משנה שבת פי״ט ה׳).
-                        הזווג לא יושלם בזולת שבועה וברית, ומפני זה נאמר בסוטה ומעלה מעל לפי שהפרה
-                        השבועה (גן עדן קמ״ה ע״ג). הבן הבא מן היבום בוטל ירושת המת ואם ילדה היבמה בת
-                        אינה מעכבת את הבכור (שם קס״ח ע״ג) וכדומה (עי׳ אשכל הכפר א״ב רפ״א אות ב׳; גן
-                        עדן ק״א ע״ג, קי״ד ע״א וקס״א ע״ב; כתר תורה לפ׳ שמיני דף כ״ה ע״א).</p>
-                    <p/>
+                    <p>טוביהו בן משה המעתיק (או הבקי או העובד): מחבר ומתרגם קראי בארץ יון במחצית השניה למאה הי״א. הוא היה מקושטא כמו שיאמר זה מפורש הדסי באשכל הכפר (א״ב קפ״ז אות י׳), ושאל ביחד עם בני עדתו שאלות מלפני חכמי הקראים בירושלם, גם עלה לעיר הקדש ולמד שם אצל המלמד הגדול של הקראים ישועה בן יהודה, ובחזירתו לעיר הנהיג שיהיו בני קושטא נמשכים בפסקיהם ובדיני העריות ע״פ ישועה (אגרת גיד הנשה לאליהו בשייצי). בירושלים למד לנכון שפת ערבית ובשובו לארצו תרגם ביחד עם הרבה מבני גילו (אשר רק האחד מהם יעקב בן שמערן נודע בשמו) את רוב ספרי בני דתו מערבית לעברית, והחשוב במתרגמים אלו הוא טוביה שהיה אחד המעתיקים הראשונים (בזמנו היו בספרד עוד שני מעתיקים והם ר׳ משה הכהן בן גקטילה ר׳ יצחק בן ראובן אלכרגלוני והראשון מהם קדם לטוביה, ע״י פאזנאנסקי 73).<lb/>סגנון תרגומו (וכן סגנון חבריו) הוא קשה למאד, והבטוים והשמות המ[ל]אכותים אשר משתמש בהם נפלאים ונבדלים בתמונתם וצורתם. כן למשל יאמר אפע במובן מקרה (ובניגוד לזה עינות), היותות במובן יש (מן היה), הקיץ במובן העיר (מהערבי נבה), השחתה במובן בטול. חתיכה במובן דק (אטום), עברה במובן אפשרות, ומזה נתעבר במובן יתכן (דומה להערבי יגוז), עשר במובן די למשל ואנו בזה מעושרים, ר״ל אין לנו צורך בו, פרחים במובן ענינים מסתעפים בנגוד לעקרים שהם שרשים, רחישה והשכנה במובן תנועה ומנוחה וכדומה הרבה (עי׳ הדוגמאות אצל שטיינשניידר ברשימת כ״י ליידען צד 169 ולקוטי קדמוניות לפינסקר צד 199). ובשביל זה פעמים הרבה אי אפשר להבין את התרגום אם אין לפנינו המקור הערבי. כן משתדל הוא לפעמים לתרגם את המלה הערבית במלה עברית דומה לה בהברתה ועי״ד השחתת הכונה. הרבה מלים ומאמרים שלמים נשארו בתרגומם בלשון המקור (קורא לה לשון ערב או לשון ישמעאל), ונפלא הדבר שיש בהם גם כאלה שהיה הנקל לו לתרגמם, וגם כאלה שפעם נתרגמו ופעם נשארו במקורם. עם זה הוסיף טוביה לתועלת בני ארצו מלים ובטויים בלשון יון (שקראו לה לפעמים גם לשון אדום), מה שאמנם מציין בכלל את המחברים הקראים בביזאבץ. לפעמים הוא מוסיף דברים להבנת המקור ומציין אותם במלת יענה (והוא מהערבית יעני) ואף מכנים לדברי הספר שהוא מעתיק דברי זולתו, ולעומת זה הוא גם מקצר הרבה. חסרונות התרגומים נובעות ממה שכפי הנראה נעשו בחפזון רב מבלי התבוננות עמוקה, ואף מזה שכנראה היה חסר לטוביהו וחבריו ידיעת הלשון בשלמותה אבל לא ידיעת הע ין(!). וכן יאמר גם אליהו בשייצי בהקדמתו לספרו אדרת אליהו על המעתיקים האלו כי ”העתקם בלשון הקדש לא יעקב מפני קוצר ידיעת המעתיק הראשון בחכמת הלשון". בכ״ז הייתה השפעת ההעתקות האלה רבה מאד כי המחברים שבאו אחריהם השתמשו רק בהם ולא בהמקורים הערבים, ועל ידיהם נשתמרו ג״כ ספרים הרבה מתחום הנשיה.<lb/>-2-<lb/>| העתקות טוביה | הספרים שנודעו בברור כי נעתקו ע״י טוביה הם: א) "ספר נעימות" (באשכל הכפר א"ב רנ״ח אות ג׳ נקרא גם בשם "זכרון הדתות") והוא תרגום הספר הפילוסופי הנודע של יוסף הרואה הנקרא בערבית בשם "אלכתאב אלמחתוי". שם טוביה לא נקרא בפירוש על התרגום, אבל יש ידים מוכיחות כי הוא המתרגם מפני כי נראה שנעתק ממתרגם הספר שנזכר מיד אחר זה ופה אין כל ספק כי טוביה הוא המעתיק. ועוד כי מובא בהתרגום ספר אוצר נחמד שמחברו הוא טוביה (עי׳ בסמוך), כמו שלהפך יאמר בעל ספר זה כי באר כבר את הדבר בס׳ אלמחתוי (עי׳ רשימת ליידן הנ״ל צד 172) היינו בתרגומו. התרגום מכיל ל״ט שערים לעומת מ׳ שערי המקור הערבי (עי׳ רשימת תוכן השערים בלקוטי קדמוניות 195 ובהוספה למחברת פראבקל "בייטרעגע״) , וזה מפני כי ד׳ השערים האחרונים של המקור נתקצרו לסשלשה. ובכלל נתקצרו השערים האחרונים האלה ע״י טוביה יותר מדי ועשה בהם כאדם העושה בתוך שלו (ועי״ז חשבו פינסקר ושור ואחרים כי השערים האחרונים האלה אינם מיוסף הרואה). הוא מדבר פה מהמחבר בתמונה נסתרת וקראו בשם הזקן (אלשיך) או הגדול (אלשיך אלכביר) יוסף בן אברהם ובמקום שהמחבר מביא את ספריו מציין תחתיהם טוביה את ספרי עצמו. התרגום ימצא בכ״י בליידן, בפאריס ובפטרבורג. דוגמאות שונות ממנו (משער י״ו כ׳ כ״א ל״ג ול״ז) הדפיס פנחס פראנקל בסוף מחברתו (וינא 1872), ובזמן האחרון נדפסו ממנו ע״י תלמידי בית מדרש לרבבים בבודאפעשט (הורוויץ באנדה, גאלדברגר ושווארץ) שערים שונים (ט"ו כ״ג כ"ח-כ״ט קל״ד, ועוד לקוטים משער י”ט כ”ב וכ״ד) בצרוף המקור הערבי ותרגום בלשון הגר.<lb/>ב) "מחכימת פתי" והוא תרגום קצור הספר שנזכר לפני זה ושנחחבר ג״כ מיוסף הרואה בערבית בשם "כתאב אלתמייז" או "אלמנצורי" פה נאמר בפירוש בסוף הספר כי "הוסיף על דברי הזקן המלמד הגדול רב י׳ (היינו הרואה) טוביה". ובאמת נרשמו הוספותיו בשם "זו תוספות באור". המלות הערביות מעטות בו, אף כי הסגנון הוא כלו מופשע (צ״ל מושפע) מהערבי, לעומת זה יש בו מלות יוניות למכביר. הספר כולל מלבד ההקדמה לג פרקים (עי׳ פינסקר בל״ק 298), ונמצא בכ״י באוקספורד, ליידן, ופטרבורג וגם אצל דינארד. דוגמאות מעטות ממנו (מפרק ב׳ ג׳ ט״ו וכ״ז) הדפיס פראנקל.<lb/>ג) "ספר מועדים", והוא תרגום שער מספר המצות של יוסף הרואה הנקרא בערבית בשם "כתאב אלאסתבצאר" ושם השער בערבית הוא "מקאלה אלמועדים", כפי מה שהובא במחתוי (אבל גם פה שנה המעתיק טוביה והביא במקומו את ספרו אוצר נחמד, (עי׳ פראנקל "בייטרעגע" צד 7). הספר הזה נחלק לח׳ פרקים ונמצא בכ״י בפטרבורג והוא עומד הכן לדפוס ע"י פאזנאנסקי).<lb/>בכ״י ליידן 126 ימצא ספר חסר בתחלתו ונקרא בסופו בשם "פתרון עשרת הדברים" היינו באור רחב פילוסופי לעשרת הדברות (אבל הכ״י מכיל רק ד׳ הדברות הראשונות). הספר הזה מובא בשם "עשרת הדברים" אצל מחברים קראים שונים ומיוחס לישועה ומעתיקו מערבית לעברית הוא טוביה לפ״ד פראנקל ושטיינשניידר. ואין כל ספק כי טוביה העתיק עוד מספרי רבו ישועה (כמו שיאמר זה מפורש בשייצי באגרת גיד הנשה הנ״ל), אבל איו לנו ע״ז ידיעות ברורות.<lb/>|חבוריו| מספרי עצמו של טוביה נודעו: 1) אוצר נחמד" ע״ס ויקרא ונמצא תחלתו (עד סי׳ י׳) בכ״י באוקספורד וגם זאת ההתחלה היא כבר ספר רב חכמות. ונראה שנתחבר על כל התורה כי מחברו יאמר: "אני טוביה הסופר האבל מאבלי ציון כתבתי זה הספר שהוא א׳ מספרי אוצר נחמד והוא סדר כהנים". ואולי זה שמובא באשכל הכפר ב׳ פעמים (א״ב ל״ג אות ח׳ וא״ב קפ״ז אות י׳) ביחד ויקרא הגדול ואוצר נחמד הכונה לחלק שלנו שהוא חלק אחד מחלקי ספר אוצר נחמד. אבל גם פה טוביה הוא יותר מלקט ומעתיק דברי זולתו מאשר הוא מחבר, וכפי דבריו בעצמו כלל בו ע״פ הרוב דברי דוד בן בועז ויפת הלוי אף שהוסיף עליהם גם ממחברים אחרים ומבקש עם זה סליחה אם ימצא שבוש בלשון, כי "מלשון ישמעאל היה כותב אל לשון עברי" היינו שהעתיק מערבית. וגם פה ימצאו הרבה מלים ומאמרים בערבית וביונית. הספר איננו באור במלא מובן המלה כ״א דרישות מתיחסות אל המצות והענינים הנכללים בספר ויקרא. הוא מביא שם הרבה גם את דברי רז״ל מתורת כהנים ומתוספתא ומשאר ספרי תושבע"פ וכן את פתרון רס״ג על ויקרא וחולק עליו בדברי נאצה ובוז. אבל לא נודע אם זה דברי עצמו או דברי המקורות שמהם שאב. הספר הזה נזכר פעמים אחדות בתרגום הפרקים האחרונים של ספר נעימות (עי׳ לעיל), וכן יחסוהו לטוביה אהרן השני, בגן עדן (דף קמ״ה ע״ג) ויש״ר מקנדיא בספרו נובלות חכמה (נ״ו). ובאדרת אליהו (ענין שבועות פ״ג ופ״ו) ייוחס לישועה בטעות. דוגמאות שונות מהספר הזה נדפסו ע״י פאזנאנסקי ובהם הכי נכבד הוא מאמר גדול ע"ד משוי העכברי (181).<lb/>2) "משיבת נפש" מאמר פילוסופי ומוסרי, נמצא בכ״י בפאריס ופטרבורג. גם הספר הזה מובא בתרגום ג׳ השערים האחרונים הנ״ל באופן שאין ספק כי חברו טוביה, למרות בעל האדרת (מבוא לסדר מילה) שמיחסו ליוסף הרואה ואחרים שמיחסים אותו לישועה. וכפי הנראה גם פה מלקט ומעתיק טוביה דברי זולתו.<lb/>3) "יהי מאורות" נזכר מבשייצי באגרת גיד הנשה הנ״ל ולא נודע מהותו. לפי דעת פינסקר הוא ספר מצות שלקוטים ממנו נדפס בלקוטי קדמוניות 97-94. אמנם פה צדק פירקאוויץ כי מחבר הלקוטים האלה חוא הדסי (עי׳ פראנקל, מאנאטסשריפט ל״א 77 והלאה והשחר ח״ז 60).<lb/>4) שירים ופיוטים (ובעל ארח צדיקים דף כ״א ע״ב שררה כ״א ול״ד חושב בטעות את טוביה בן משה וטוביה המשורר לשני אנשים נפרדים). שני פיוטים ממנו יצאו בסדור תפלות הקראים האחד לשבת (תחילתו: אלהינו מכל אמה אהבתנו) הרא ע״פ א״ב ואח״כ ר״ת "טובה בן משה חזקן" (סדור דפוס ווילנא ח״א 232 ועוד בחזניא כ״י, עי׳ ל״ק 139), והפיוט השני (תחלתו: אטאלה מאל הבונה בשמים מעליותיו) בעל ל״ד בתים אשר ר״ת שלהם הם "אלה הפרקים לטוביה בן משה העובד בבתוי״א אמן״,והבה פירקאוויץ מיחס לטוביה עוד ספר אחד בשם "זאת התורה" פירוש על התורה אשר היה נמצא לפי דבריו בבית עקד הספרים של הקראים בגוזלווא ואבד, ואח״כ חזר בו ואמר שמחבר הפירוש חזה הוא "טוביה הבקי בן משה האבל" אשר חי גם הוא בקושטא ונמצא אליו בסוף הפירוש חנ״ל מכתב מדוד בן בועז הנשיא משנת 1009 (המכתב הזה נדפס בספרו בני רשף צד 17-15). אבל טוביה שלנו אשר היה מזרעו ואשר נקרא בהבדל להראשון בשם "טוביה המעתיק בן משה העובד" חבר ספר "זאת החיה" על הבהמות והחיות הטמאות והטהורות (עי׳ בקרת לתולדות הקראים צד 169). אולם לכל הדברים האלה איו כל יסוד והמכתב הנ״ל זיופו נכר מתוכו (עי׳ פראנקל, מאנאטסשריפט כ״ה 56 והלאה).<lb/>|דעותיו| מדעותיו של טוביה המובאות בספרי הקראים יש להזכיר ביחוד<lb/>מה שאמר שכל העתקה (קבלה) שהקראים מודים בה יש לה רמז מן הכתוב, ומי שאומר שיש<lb/>העתקה שאין לה סיוע מן הכתוב אין זה אלא מקצרין יד שכלו במצוה ההיא (גן עדן ח׳:<lb/>אדרת אליהו בהקדמה, ענין קה״ח פס״ו, ענין שבת פיקד, דר מרדכי ן׳: ועי׳ דו״ד ח״ד<lb/>78). בנגוד לכל חכמי הקראים הורה טוביה כי העומר נקצר ביום מקרא קדש לפי שגם זה<lb/>ממצות השם (מבחר ויקרא מ״א; גן עדן נ״ד ע״ג; אדרת אליהו ענין שבועותפ״ג, ועי׳<lb/>ל״ק 93). מי שנולד בין השמשות דוחין את המילה ליום א׳ מפני שאין ספק נעשה בשבת<lb/>ואם היה יום ראשון מועד מלין אותו ביום שני, וגם זה בניגוד ממה שהורה רבו ישועת<lb/>(גן עדן ל״ג ע״ד וקס״ג ע״ג, אדרת אליהו סדר המילה פ״ב, ועי׳ משנה שבת פי״ט ה׳).<lb/>הזווג לא יושלם בזולת שבועה וברית, ומפני זה נאמר בסוטה ומעלה מעל לפי שהפרה<lb/>השבועה (גן עדן קמ״ה ע״ג). הבן הבא מן היבום בוטל ירושת המת ואם ילדה היבמה בת<lb/>אינה מעכבת את הבכור (שם קס״ח ע״ג) וכדומה (עי׳ אשכל הכפר א״ב רפ״א אות ב׳; גן<lb/>עדן ק״א ע״ג, קי״ד ע״א וקס״א ע״ב; כתר תורה לפ׳ שמיני דף כ״ה ע״א).</p>
                 </quote>
                 <bibl>
-                    <title/>
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
