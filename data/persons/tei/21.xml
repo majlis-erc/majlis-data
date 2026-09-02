@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14,16 +14,9 @@
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
                 <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="creator" ref=""/>
-                <editor role="entry-editor"/>
                 <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor">Maurizio Boehm</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor">Maurizio Boehm</editor>
                 <editor role="contributor">Lukas Froschmeier</editor>
                 <editor role="contributor">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -32,12 +25,17 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
                 <editor role="contributor">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor role="contributor">Peter Tarras</editor>
                 <editor role="contributor">Nadine Urbiczek</editor>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>
@@ -46,21 +44,19 @@
                 <idno type="URI">https://jalit.org/person/21</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>
-                            Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
-                        </p>
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
                     </licence>
                 </availability>
                 <date>2021-10-23</date>
             </publicationStmt>
             <sourceDesc>
-                <p>
-                    Born digital.
-                </p>
+                <p>Born digital.</p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#gschwarb" when="2025-07-01T06:39:59.254Z">Heritage Data for Abū l-Ṭayyib al-Ǧabalī</change><change who="#gschwarb" when="2025-03-24T12:11:23.378Z">Arabic name</change>
+            <change who="#mroozen" when="2026-09-02T13:14:59.054Z">add role</change>
+            <change who="#gschwarb" when="2025-07-01T06:39:59.254Z">Heritage Data for Abū l-Ṭayyib al-Ǧabalī</change>
+            <change who="#gschwarb" when="2025-03-24T12:11:23.378Z">Arabic name</change>
             <change who="#S.Mattutat" when="2024-12-13T14:50:03.786Z">Person: Personal Name</change>
             <change who="#mmoliere" when="2024-07-01T16:53:10.627Z">Updated heritage data.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -72,19 +68,19 @@
         <body>
             <listPerson>
                 <person xml:id="person-21">
-                    <persName xml:lang="he-Latn" type="majlis-headword" xml:id="name-1">
+                    <persName xml:id="name-1" xml:lang="he-Latn" type="majlis-headword">
                         <name>Samuʾel ben Ašer b. Manṣūr</name>
                     </persName>
-                    <persName xml:lang="ar-Latn" type="majlis-headword" xml:id="name-2">
+                    <persName xml:id="name-2" xml:lang="ar-Latn" type="majlis-headword">
                         <name>Abū l-Ṭayyib Šmuʾel b. Bišr b. Manṣūr</name>
                     </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-3">
+                    <persName xml:id="name-3" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName type="alternate" xml:lang="he" xml:id="name-4">
+                    <persName xml:id="name-4" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName type="canon" xml:lang="ar" xml:id="name-5">
+                    <persName xml:id="name-5" type="canon" xml:lang="ar">
                         <addName xml:id="sh-ar" type="shuhra">أبو الطيب الجبلي</addName>
                         <addName xml:id="is-ar" type="ism">شموال</addName>
                         <addName xml:id="na-ar" type="nasab">ابن بشر بن منصور</addName>
@@ -92,7 +88,7 @@
                         <addName xml:id="ku-ar" type="kunya">أبو الطيب</addName>
                         <addName xml:id="la-ar" type="laqab">الشيخ</addName>
                     </persName>
-                    <persName type="canon" xml:lang="ar-Hebr" xml:id="name-6">
+                    <persName xml:id="name-6" type="canon" xml:lang="ar-Hebr">
                         <addName ref="#sh-ar" type="shuhra">אבו אלטייב אלג̇בלי</addName>
                         <addName ref="#is-ar" type="ism">שמואל</addName>
                         <addName ref="#na-ar" type="nasab">אבן בשר אבן מצור</addName>
@@ -100,7 +96,7 @@
                         <addName ref="#ku-ar" type="kunya">אבו אלטייב</addName>
                         <addName ref="#la-ar" type="laqab">אלשיך̇</addName>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="ar-Latn" xml:id="name-7">
+                    <persName xml:id="name-7" corresp="" type="canon" xml:lang="ar-Latn">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism"/>
                         <addName ref="#na-ar" type="nasab"/>
@@ -108,14 +104,14 @@
                         <addName ref="#ku-ar" type="kunya">Abū l-Ṭayyib</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName type="canon" xml:lang="he" xml:id="name-8">
+                    <persName xml:id="name-8" type="canon" xml:lang="he">
                         <forename xml:id="fn-he"/>
                         <addName xml:id="pa-he" type="patronym"/>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName corresp="" type="canon" xml:lang="he-Latn" xml:id="name-9">
+                    <persName xml:id="name-9" corresp="" type="canon" xml:lang="he-Latn">
                         <forename ref="#fn-he" xml:lang="he-Latn"/>
                         <addName ref="#pa-he" type="patronym"/>
                         <addName ref="#ep-he" type="epithet"/>
@@ -124,7 +120,7 @@
                     </persName>
                     <note xml:lang="" resp="" type=""/>
                     <state>
-                        <label cert="" source=""/>
+                        <label cert="">Author</label>
                     </state>
                     <birth>
                         <date cert=""/>
@@ -192,29 +188,38 @@
         <list>
             <item>
                 <persName>Moritz Steinschneider</persName>
-                <note><p>While Moritz Steinschneider (1816–1907) is primarily known for having laid the modern foundations of Jewish bibliography, he also devoted himself to a systematic survey of Jewish literature. In Steinschneider’s work the investigation of Jewish writings in Arabic takes a central place. In 1845, he proposed to the Verein für Kultur und Wissenschaft der Juden his <emph rend="italic"> magnum opus </emph> , a “Jüdisch-Arabische Bibliothek” (Steinschneider, <emph rend="italic"> Die arabische Literatur </emph> , xlvii). It was well received, and he obtained modest funding for it. It seems that the first part, the <emph rend="italic"> Bibliotheca Judaeo-Arabica </emph> , which consisted of a chronological survey of Judeo-Arabic literature, had already been completed in 1845. It contained a short biographical sketch of each author known to Steinschneider, arranged chronologically, and an account of their works, including details of available manuscripts and translations, mainly taken from unpublished sources. However, it only reached publication some sixty years later with the appearance of his seminal series of articles “An Introduction to the Arabic Literature of the Jews,” which appeared in 1897–1901 in the <emph rend="italic"> Jewish Quarterly Review </emph> , and also his <emph rend="italic"> Arabische Literatur der Juden </emph> (1902), which Steinschneider rightly calls in its foreword his “Lebensarbeit” (p. viii). The former, in which he describes his arduous search for manuscripts throughout Europe, serves as a voluminous introduction to the latter. The <emph rend="italic"> Arabische Literatur der Juden </emph> is divided into seven sections: (1) Jewish authors in Ancient Arabia; (2) Jewish authors in the East until the end of the Geonic period (1040); (3) Jewish authors in the Muslim West; (4) Jewish in the East, 1041–1500; (5) later Jewish authors (1500–1894); (6) Jewish authors of uncertain date; and (7) anonymous Jewish authors according to subject. </p><p> Literature: 
-<lb/> Paul Fenton, “Moritz Steinschneider’s Contribution to Judaeo-Arabic Studies,” in <emph rend="italic"> Studies on Steinschneider: Moritz Steinschneider and the Emergence of the Science of Judaism in Nineteenth-Century Germany </emph> , edited by Reimund Leicht and Gad Freudenthal (Leiden: Brill, 2012), pp. 363–383. 
-<lb/> Moritz Steinschneider, “An Introduction to the Arabic Literature of the Jews,” <emph rend="italic"> Jewish Quarterly Review </emph> 9–13 (1897–1901). 
-<lb/> Moritz Steinschneider, Die arabische Literatur der Juden (Frankfurt am Main: Kauffmann, 1902).</p></note>
+                <note>
+                    <p>While Moritz Steinschneider (1816–1907) is primarily known for having laid the modern foundations of Jewish bibliography, he also devoted himself to a systematic survey of Jewish literature. In Steinschneider’s work the investigation of Jewish writings in Arabic takes a central place. In 1845, he proposed to the Verein für Kultur und Wissenschaft der Juden his <emph rend="italic"> magnum opus </emph> , a “Jüdisch-Arabische Bibliothek” (Steinschneider, <emph rend="italic"> Die arabische Literatur </emph> , xlvii). It was well received, and he obtained modest funding for it. It seems that the first part, the <emph rend="italic"> Bibliotheca Judaeo-Arabica </emph> , which consisted of a chronological survey of Judeo-Arabic literature, had already been completed in 1845. It contained a short biographical sketch of each author known to Steinschneider, arranged chronologically, and an account of their works, including details of available manuscripts and translations, mainly taken from unpublished sources. However, it only reached publication some sixty years later with the appearance of his seminal series of articles “An Introduction to the Arabic Literature of the Jews,” which appeared in 1897–1901 in the <emph rend="italic"> Jewish Quarterly Review </emph> , and also his <emph rend="italic"> Arabische Literatur der Juden </emph> (1902), which Steinschneider rightly calls in its foreword his “Lebensarbeit” (p. viii). The former, in which he describes his arduous search for manuscripts throughout Europe, serves as a voluminous introduction to the latter. The <emph rend="italic"> Arabische Literatur der Juden </emph> is divided into seven sections: (1) Jewish authors in Ancient Arabia; (2) Jewish authors in the East until the end of the Geonic period (1040); (3) Jewish authors in the Muslim West; (4) Jewish in the East, 1041–1500; (5) later Jewish authors (1500–1894); (6) Jewish authors of uncertain date; and (7) anonymous Jewish authors according to subject.</p>
+                    <p>Literature:<lb/>Paul Fenton, “Moritz Steinschneider’s Contribution to Judaeo-Arabic Studies,” in<emph rend="italic"> Studies on Steinschneider: Moritz Steinschneider and the Emergence of the Science of Judaism in Nineteenth-Century Germany </emph>, edited by Reimund Leicht and Gad Freudenthal (Leiden: Brill, 2012), pp. 363–383.<lb/>Moritz Steinschneider, “An Introduction to the Arabic Literature of the Jews,”<emph rend="italic"> Jewish Quarterly Review </emph>9–13 (1897–1901).<lb/>Moritz Steinschneider, Die arabische Literatur der Juden (Frankfurt am Main: Kauffmann, 1902).</p>
+                </note>
                 <persName/>
-                <quote xml:lang="ge"><p>§ 42. </p><p> Abu’l Tajjih al-Djabali, hebr. Samuel b. Ascher b. Man’sur, Karäer (um 940-50), vf. eine Widerlegung Saadia Gaon’s nach dessen Tode (?), wahrscheinlich in arab. Sprache. </p><p> Quellen: Sahl, s. CL. 408; Pi. A. S. 34; Gttl. 145 (so lies Jew. Qu. XI 118 n. 240); Fst. II, A. S. 14; Hiti p. 435, 442. – Verschieden ist Samuel b. Man’sur, s. §196</p></quote>
+                <quote xml:lang="ge">
+                    <p>§ 42.</p>
+                    <p>Abu’l Tajjih al-Djabali, hebr. Samuel b. Ascher b. Man’sur, Karäer (um 940-50), vf. eine Widerlegung Saadia Gaon’s nach dessen Tode (?), wahrscheinlich in arab. Sprache.</p>
+                    <p>Quellen: Sahl, s. CL. 408; Pi. A. S. 34; Gttl. 145 (so lies Jew. Qu. XI 118 n. 240); Fst. II, A. S. 14; Hiti p. 435, 442. – Verschieden ist Samuel b. Man’sur, s. §196</p>
+                </quote>
                 <bibl xml:id="jalit-orgbiblL7WYDPC9">
                     <title>Die arabische Literatur der Juden Moritz Steinschneider, Die Arabische Literatur Der Juden (Frankfurt am Main: Kauffmann, 1902).</title>
                     <citedRange unit="page">79</citedRange>
                     <ptr target="https://jalit.org/bibl/L7WYDPC9"/>
                 </bibl>
-            </item><item>
-      <note resp="" type="" xml:lang=""><p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw. </p><p> Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the 
-<lb/> realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his <emph rend="italic"> Encyclopedia of Qaraites </emph> is today found in the Samuel Poznański Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names. </p><p> Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor) </p><p> Literature: 
-<lb/> Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in <emph rend="italic"> Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging </emph> , edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134]. </p></note><quote xml:lang=""><p>אבו אלטייב אלג'בלי
-<lb/>מוזכר על ידי סהל בן מצליח (אגרת תוכחת, פנסקר עמ' 36) כמשיב לכתבי רס"ג נגד הקראים.</p></quote>
-      
-      <bibl type="" xml:id="">
-         <title/>
-         <ptr target=""/>
-         <citedRange unit=""/>
-      </bibl>
-   </item>
+            </item>
+            <item>
+                <note resp="" type="" xml:lang="">
+                    <p>Samuel Abraham Poznański (1864–1921) was a scholar of Polish-Jewish descent, renowned for his research on Karaism and the Hebrew calendar. He was a pioneer in Judeo-Arabic studies, a Hebrew bibliographer, and a recognized authority on contemporary and historic Qaraism. Additionally, he served as a rabbi at the Great Synagogue in Warsaw.</p>
+                    <p>Poznański harbored a profound aspiration to compile a biographical dictionary of Qaraite scholars and a historical dictionary of Qaraite literature, considering them the apex of his scholarly endeavors. Unfortunately, his sudden demise thwarted the<lb/>realization of these ambitions, and he only managed to publish a limited number of bibliographical essays on the subject. The draft of his<emph rend="italic"> Encyclopedia of Qaraites </emph>is today found in the Samuel Poznański Archive at the National Library of Israel (ARC 4﹡ 1180, Series 5). Given the current condition of the archive, referencing specific pages or files is not feasible. The entries are primarily organized by first names.</p>
+                    <p>Provided by a cooperation between the Ben Zvi Institute, Jerusalem, and LMU, Munich, used according to CC BY NC 4.0 (Associate researcher: Amir Mazor)</p>
+                    <p>Literature:<lb/>Miriam Frenkel, “Samuel Abraham Poznański’s Karaite Mission: From Wissenschaft to Jewish Nationalism,” in<emph rend="italic"> Modern Jewish Scholarship on Islam in Context: Rationality, European Borders, and the Search for Belonging </emph>, edited by Ottfried Fraisse (Berlin: De Gruyter, 2019), pp. 121–144 [134].</p>
+                </note>
+                <quote xml:lang="">
+                    <p>אבו אלטייב אלג'בלי<lb/>מוזכר על ידי סהל בן מצליח (אגרת תוכחת, פנסקר עמ' 36) כמשיב לכתבי רס"ג נגד הקראים.</p>
+                </quote>
+                <bibl type="" xml:id="">
+                    
+                    <ptr target=""/>
+                    <citedRange unit=""/>
+                </bibl>
+            </item>
         </list>
     </standOff>
 </TEI>
