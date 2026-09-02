@@ -74,6 +74,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-02T14:18:15.706Z">add English title</change>
             <change who="#mroozen" when="2026-09-02T14:14:33.593Z">add titles</change>
             <change who="#mroozen" when="2026-09-02T14:05:33.354Z">create work entry</change>
         </revisionDesc>
@@ -81,10 +82,11 @@
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar">تفسير سيفر بريشيث</title>
-                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">תפסיר בראשית</title>
-                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Latn">Tafsīr sifr Berešit</title>
-                <title xml:id="title-4" source="#" type="majlis-headword" xml:lang="en">Commentary on the Book of Genesis</title>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="en">Commentary on the Book of Genesis</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar">تفسير سيفر بريشيث</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Hebr">תפסיר בראשית</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="ar-Latn">Tafsīr sifr Berešit</title>
+                <title xml:id="title-5" source="#" type="majlis-headword" xml:lang="en">Commentary on the Book of Genesis</title>
                 <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
