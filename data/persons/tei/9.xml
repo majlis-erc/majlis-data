@@ -55,6 +55,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-02T08:34:50.570Z">update date of birth</change>
             <change who="#mroozen" when="2026-09-02T08:12:35.147Z">add author role</change>
             <change who="#mroozen" when="2026-09-01T16:05:01.928Z">update birth years</change>
             <change who="#mroozen" when="2026-09-01T13:59:12.095Z">add author role</change>
@@ -277,10 +278,10 @@
                     </persName>
                     <state>
                         <label cert="high">Author</label>
-                        
                     </state>
                     <birth>
-                        <date cert="" from="960" to="970">960-970</date>
+                        <date cert="" from="960" to="970" when="">960-970</date>
+                        
                         <placeName ref="https://jalit.org/place/10">Iraq</placeName>
                         <placeName ref="https://jalit.org/place/11" cert="">Persia</placeName>
                     </birth>
