@@ -66,6 +66,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-03T15:00:07.427Z">add place name</change>
             <change who="#mroozen" when="2026-09-03T14:56:45.203Z">create place entry</change>
         </revisionDesc>
     </teiHeader>
@@ -73,7 +74,7 @@
         <body>
             <listPlace>
                 <place xml:id="place-16">
-                    <placeName xml:id="name-1" source="#" xml:lang="en" type="majlis-headword"/>
+                    <placeName xml:id="name-1" source="#" xml:lang="en" type="majlis-headword">Castile</placeName>
                     <placeName xml:id="name-2" source="#" xml:lang="ar"/>
                     <placeName xml:id="name-3" source="#" xml:lang="he"/>
                     <desc>
@@ -87,7 +88,6 @@
                     <idno type="URI"/>
                     <idno type="URI"/>
                     <bibl>
-                        
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
