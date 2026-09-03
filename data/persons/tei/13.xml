@@ -55,6 +55,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-03T14:52:01.979Z">add biographical data</change>
             <change who="#mroozen" when="2026-09-03T14:43:23.527Z">add biography</change>
             <change who="#mroozen" when="2026-09-03T14:33:29.537Z">add alternative name forms</change>
             <change who="#S.Mattutat" when="2024-12-12T10:54:43.572Z">Person: Personal Name.</change>
@@ -154,7 +155,7 @@
                         <label cert=""/>
                     </state>
                     <birth>
-                        <date cert=""/>
+                        <date cert="medium" from="1030s" to="1040s"/>
                         <placeName ref="" cert=""/>
                     </birth>
                     <death>
@@ -163,10 +164,10 @@
                     </death>
                     <floruit>
                         <date cert=""/>
-                        <placeName ref="" cert=""/>
+                        <placeName ref="https://jalit.org/place/6">Holy Land</placeName>
                     </floruit>
-                    <sex cert=""/>
-                    <faith cert=""/>
+                    <sex cert="">Male</sex>
+                    <faith cert="">Karaite</faith>
                     <occupation type="" cert=""/>
                     <residence>
                         <placeName ref="" cert=""/>
