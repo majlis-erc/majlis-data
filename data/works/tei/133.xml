@@ -74,16 +74,18 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-03T09:01:03.671Z">add work titles</change>
             <change who="#mroozen" when="2026-09-03T08:51:25.879Z">create work entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                
-                
-                
-                <author ref="" cert=""/>
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar">تفسير قوهيليث</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">תפסיר קהלת</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Latn">Tafsīr Qohelet</title>
+                <title xml:id="title-4" source="#" type="authorial" xml:lang="en">Commentary on the Book of Qohelet </title>
+                <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
@@ -93,7 +95,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
