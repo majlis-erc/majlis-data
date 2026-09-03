@@ -73,14 +73,18 @@
                 </keywords>
             </textClass>
         </profileDesc>
-        <revisionDesc status="draft"/>
+        <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-03T08:26:00.855Z">add work titles</change>
+            <change who="#mroozen" when="2026-09-03T07:51:15.981Z">add work title</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" xml:lang="en" type="majlis-headword">Commentary on the Book of Exodus (David ben Boʿaz)</title>
-                
-                
+                <title xml:id="title-1" source="#" type="authorial" xml:lang="ar">تفسير سيفر شموث</title>
+                <title xml:id="title-2" source="#" type="authorial" xml:lang="ar-Hebr">תפסיר שמות</title>
+                <title xml:id="title-3" source="#" type="authorial" xml:lang="ar-Latn">Tafsīr sifr Šemot</title>
+                <title xml:id="title-4" source="#" xml:lang="en" type="majlis-headword">Commentary on the Book of Exodus (David ben Boʿaz)</title>
                 <author ref="https://jalit.org/person/6">David ben Boʿaz</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
@@ -91,7 +95,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
