@@ -55,6 +55,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-03T15:20:22.724Z">Add bibliographic reference</change>
             <change who="#mroozen" when="2026-09-03T15:02:15.711Z">add place of birth</change>
             <change who="#mroozen" when="2026-09-03T14:52:01.979Z">add biographical data</change>
             <change who="#mroozen" when="2026-09-03T14:43:23.527Z">add biography</change>
@@ -173,9 +174,11 @@
                     <residence>
                         <placeName ref="" cert=""/>
                     </residence>
-                    <bibl xml:id="">
-                        <citedRange unit="p"/>
-                        <ptr target=""/>
+                    <bibl xml:id="majlis-netbibl5BESP5DB">
+                        <citedRange unit="page">818f.</citedRange>
+                        <idno/>
+                        <title>Moshe Gil, A History of Palestine, 634-1099 (Cambridge: University Press, 1991).</title>
+                        <ptr target="https://majlis.net/bibl/5BESP5DB"/>
                     </bibl>
                     <idno type="URI" subtype="isni"/>
                     <idno type="URI" subtype="other">https://onomasticon.irht.cnrs.fr/en/entry/id/4116</idno>
