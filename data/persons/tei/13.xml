@@ -55,6 +55,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-03T14:43:23.527Z">add biography</change>
             <change who="#mroozen" when="2026-09-03T14:33:29.537Z">add alternative name forms</change>
             <change who="#S.Mattutat" when="2024-12-12T10:54:43.572Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-09-02T11:40:01.236Z">Added heritage data.</change>
@@ -122,31 +123,33 @@
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
                     <persName xml:id="name-12" source="#" type="" xml:lang="ar-Hebr">
-      <forename/>
-      <addName ref="" type="kunya" xml:id="">אבו אלאטראס</addName>
-      <name/>
-   </persName>
+                        <forename/>
+                        <addName ref="" type="kunya" xml:id="">אבו אלאטראס</addName>
+                        <name/>
+                    </persName>
                     <persName xml:id="name-13" source="#" type="" xml:lang="ar-Hebr">
-      <forename/>
-      <addName ref="" type="nasab" xml:id="">אבן אלתראס</addName>
-      <name/>
-   </persName>
+                        <forename/>
+                        <addName ref="" type="nasab" xml:id="">אבן אלתראס</addName>
+                        <name/>
+                    </persName>
                     <persName xml:id="name-14" source="#" type="" xml:lang="ar-Hebr">
-      <forename/>
-      <addName ref="" type="nasab" xml:id="">בן אל תראס</addName>
-      <name/>
-   </persName>
+                        <forename/>
+                        <addName ref="" type="nasab" xml:id="">בן אל תראס</addName>
+                        <name/>
+                    </persName>
                     <persName xml:id="name-15" source="#" type="" xml:lang="">
-      <forename/>
-      <addName ref="" type="nasab" xml:id="">בן אל תרס</addName>
-      <name/>
-   </persName>
+                        <forename/>
+                        <addName ref="" type="nasab" xml:id="">בן אל תרס</addName>
+                        <name/>
+                    </persName>
                     <persName xml:id="name-16" source="#" type="" xml:lang="">
-      <forename/>
-      <addName ref="" type="kunya" xml:id="">אבו אלטראס</addName>
-      <name/>
-   </persName>
-                    <note xml:lang="" resp="" type=""/>
+                        <forename/>
+                        <addName ref="" type="kunya" xml:id="">אבו אלטראס</addName>
+                        <name/>
+                    </persName>
+                    <note xml:lang="en" resp="gschwarb" type="biography">
+                        <p>Ibn al-Ṭaras (ed. “Abū l-Ṭaras”) was a Castilian Jew who, according to Abraham ibn Daud’s <emph rend="italic">Sefer ha-Qabbalah</emph> (ed. Gerson D. Cohen, <emph rend="italic">The Book of Tradition (Sefer ha-Qabbalah) by Abraham ibn Daud</emph> [London: Routledge &amp; Kegan Paul, 1967], text p. 69, ll. 355–361, and introduction pp. XLVI–XLIX), travelled to Palestine, where he studied under a certain Abū l-Faraǧ (Furqān b. Asad) (= Yešuʿa ben Yehuda) and was won over by him to Qaraism. He returned to Castile bringing his teacher’s writings with him (וכתב זה אבו אלאטראס ספר מן אלשיך אבו אלפראג הוא הספר המסית והמדיח) , and there drew many into the Karaite fold.<lb/>Upon his death, his widow, known by the sobriquet <emph rend="italic">al-muʿallima</emph> (“the teacher”), assumed the leadership of the Qaraite community. She soon commanded considerable authority, and in every doubtful matter of religious law people would turn to her and abide by her rulings.<lb/>His dates are unknown, but on the little evidence available he was born in the 1030s or 1040s and died in the last quarter of the eleventh century or the early years of the twelfth.</p>
+                    </note>
                     <state>
                         <label cert=""/>
                     </state>
@@ -169,7 +172,6 @@
                         <placeName ref="" cert=""/>
                     </residence>
                     <bibl xml:id="">
-                        
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
