@@ -117,7 +117,7 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <note xml:lang="en" resp="rvollandt" type="">
+                    <note xml:lang="en" resp="rvollandt" type="biography">
                         <p>Several endowment notes, as for example MS Cairo, Qaraite Synagogue 3 (Gottheil 18), fol. 542v, or MS RNL, Yevr.-Arab. I 19, fol. 1r, indicate that he is the son of Sahl ben Maṣliaḥ.</p>
                     </note>
                     <state>
