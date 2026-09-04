@@ -54,7 +54,7 @@
                     <persName xml:id="name-1" source="#" xml:lang="he-Latn" type="majlis-headword">
                         <name>Moše ben Yiftaḥ ha-Kohen al-Raḥabī</name>
                     </persName>
-                    <persName xml:id="name-2" source="#" xml:lang="he" type="majlis-headword">
+                    <persName xml:id="name-2" source="#" xml:lang="he" type="canon">
                         <name>משה בן יפתח הכהן אלרחבי</name>
                     </persName>
                     <persName xml:id="name-3" source="#" type="attested" xml:lang="he">
@@ -107,11 +107,9 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <note xml:lang="en" resp="rvollandt" type="biography">
-                        <p>In MS RNL, Yevr.-Arab. I 86.1, fol. 1r Moše ben Yiftaḥ ha-Kohen al-Raḥabī is mentioned to have endowed the book to the community of Qaraites.</p>
-                    </note>
+                    <note xml:lang="" resp="" type=""/>
                     <state>
-                        <label cert="high">Endower</label>
+                        <label cert=""/>
                     </state>
                     <birth>
                         <date when="" notBefore="" notAfter="" cert=""/>
