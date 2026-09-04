@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "person30",
+      "type": "person",
+      "name": "Abū Yaʿqūb b. Baḫtawayh"
+    },
+    {
+      "id": "manuscript1569",
+      "type": "manuscript",
+      "name": "St. Petersburg, National Library of Russia, Yevr.-Arab. I 95.2"
+    }
+  ],
+  "links": [
+    {
+      "source": "person30",
+      "target": "manuscript1569",
+      "rel": "majlis:endowed",
+      "sources": [
+        "Abū Yaʿqūb b. Baḫtawayh",
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 95.2, 87r, Ownership statements"
+      ]
+    }
+  ]
+}

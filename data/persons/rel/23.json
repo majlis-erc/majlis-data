@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "person23",
+      "type": "person",
+      "name": "ʿAzarya ha-Kohen"
+    },
+    {
+      "id": "person46",
+      "type": "person",
+      "name": "Maṣliaḥ ben Sahl"
+    }
+  ],
+  "links": [
+    {
+      "source": "person46",
+      "target": "person23",
+      "rel": "snap:fatherOf",
+      "sources": [
+        "Maṣliaḥ ben Sahl",
+        "ʿAzarya ha-Kohen"
+      ]
+    }
+  ]
+}

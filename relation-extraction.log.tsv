@@ -16,6 +16,7 @@ entity	manuscripts/1557	.//tei:additions/tei:list/tei:item//tei:relation	https:/
 entity	manuscripts/1565	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
 entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
 entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1569	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/30	https://jalit.org/manuscript/1569		majlis:endowed		VALID	manuscripts/rel/1569.json|persons/rel/30.json	person/30→manuscript/1569	Created 1 edge(s)
 entity	manuscripts/309	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
 entity	manuscripts/311	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
 entity	manuscripts/319	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
@@ -52,3 +53,5 @@ entity	manuscripts/459	.//tei:additions/tei:list/tei:item//tei:relation	https://
 entity	manuscripts/474	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/34	https://jalit.org/person/35		majlis:endowed		VALID	persons/rel/34.json|persons/rel/35.json	person/34→person/35	Created 1 edge(s)
 entity	manuscripts/474	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/34	https://jalit.org/person/9		snap:daughterOf		VALID	persons/rel/34.json|persons/rel/9.json	person/34→person/9	Created 1 edge(s)
 entity	manuscripts/511	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/514	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/46	https://jalit.org/person/23		snap:fatherOf		VALID	persons/rel/23.json|persons/rel/46.json	person/46→person/23	Created 1 edge(s)
+entity	manuscripts/514	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/3	https://jalit.org/person/46		snap:fatherOf		VALID	persons/rel/3.json|persons/rel/46.json	person/3→person/46	Created 1 edge(s)

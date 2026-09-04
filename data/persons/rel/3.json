@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "person3",
+      "type": "person",
+      "name": "Sahl ben Maṣliaḥ"
+    },
+    {
+      "id": "person46",
+      "type": "person",
+      "name": "Maṣliaḥ ben Sahl"
+    }
+  ],
+  "links": [
+    {
+      "source": "person3",
+      "target": "person46",
+      "rel": "snap:fatherOf",
+      "sources": [
+        "Sahl ben Maṣliaḥ",
+        "Maṣliaḥ ben Sahl"
+      ]
+    }
+  ]
+}
