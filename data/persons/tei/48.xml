@@ -107,9 +107,11 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <note xml:lang="" resp="" type=""/>
+                    <note xml:lang="en" resp="rvollandt" type="">
+                        <p>In MS RNL, Yevr.-Arab. I 86.1, fol. 1r Moše ben Yiftaḥ ha-Kohen al-Raḥabī is mentioned to have endowed the book to the community of Qaraites.</p>
+                    </note>
                     <state>
-                        <label cert=""/>
+                        <label cert="high">Endower</label>
                     </state>
                     <birth>
                         <date when="" notBefore="" notAfter="" cert=""/>
