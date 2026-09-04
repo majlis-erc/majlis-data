@@ -225,6 +225,9 @@
                                     </note>
                                 </item>
                                 <item xml:id="add-1.1.1.2">
+                                    <listRelation>
+      <relation name="majlis:endowed" ref="" active="https://jalit.org/person/30" passive="https://jalit.org/manuscript/1569"/>
+   </listRelation>
                                     <objectType>Certificates of endowment</objectType>
                                     <locus from="87r"/>
                                     <persName ref="https://jalit.org/person/30" role="mentioned">Abū Yaʿqūb b. Baḫtawayh</persName>
@@ -234,7 +237,7 @@
                                         <p>קדש לאל[הי י]שראל בחצר יוסף בן בכתויה<lb/>ברוך שומרו אמן</p>
                                     </quote>
                                     <quote type="translation" xml:lang="en">
-                                        <p>An endowment to the God of Israel, at the compound of Yosef b. Baḫtawayh,blessed is he who keeps it, Amen.</p>
+                                        <p>An endowment to the God of Israel, at the compound of Yosef b. Baḫtawayh, blessed is he who keeps it, Amen.</p>
                                     </quote>
                                     <note xml:lang=""/>
                                 </item>
