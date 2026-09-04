@@ -234,7 +234,6 @@
                         <decoDesc>
                             <summary xml:lang=""/>
                             <decoNote>
-                                
                                 <note xml:lang="">
                                     <p>Division between Introduction and Commentary (fol. 8v). Section headings written center aligned in a separate line, indentation of the first line of a new paragraph, sense dividers, verse dividers (dot, followed by blank space).</p>
                                 </note>
@@ -244,13 +243,13 @@
                             <list>
                                 <item xml:id="add-1.1.1.1">
                                     <listRelation>
-                                        <active ref="" name="snap:fatherOf">Sahl ben Maṣliaḥ</active>
-                                        <passive ref="" name="snap:fatherOf">Maṣliaḥ ben Sahl</passive>
-                                    </listRelation>
+      <relation name="snap:fatherOf" ref="" active="https://jalit.org/person/46" passive="https://jalit.org/person/23"/>
+   </listRelation>
                                     <listRelation>
-                                        <active ref="" name="snap:fatherOf">Maṣliaḥ ben Sahl</active>
-                                        <passive ref="" name="snap:fatherOf">ʿAzarya ha-Kohen</passive>
-                                    </listRelation>
+      <relation name="snap:fatherOf" ref="" active="https://jalit.org/person/3" passive="https://jalit.org/person/46"/>
+   </listRelation>
+                                    
+                                    
                                     <objectType>Certificates of endowment</objectType>
                                     <locus from="1r"/>
                                     <quote xml:lang="he">
