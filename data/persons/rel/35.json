@@ -6,12 +6,26 @@
       "name": "Community of Qaraites"
     },
     {
+      "id": "manuscript1568",
+      "type": "manuscript",
+      "name": "St. Petersburg, National Library of Russia, Yevr.-Arab. I 86.1"
+    },
+    {
       "id": "person34",
       "type": "person",
       "name": "Bahīya"
     }
   ],
   "links": [
+    {
+      "source": "person35",
+      "target": "manuscript1568",
+      "rel": "majlis:relationWith",
+      "sources": [
+        "Community of Qaraites",
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 86.1, 1r, Certificates of endowment"
+      ]
+    },
     {
       "source": "person34",
       "target": "person35",

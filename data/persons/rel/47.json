@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "person47",
+      "type": "person",
+      "name": "Sarah bat Reʾuven"
+    },
+    {
+      "id": "manuscript1568",
+      "type": "manuscript",
+      "name": "St. Petersburg, National Library of Russia, Yevr.-Arab. I 86.1"
+    }
+  ],
+  "links": [
+    {
+      "source": "person47",
+      "target": "manuscript1568",
+      "rel": "majlis:endowed",
+      "sources": [
+        "Sarah bat Reʾuven",
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 86.1, 1r, Certificates of endowment"
+      ]
+    }
+  ]
+}
