@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "person51",
+      "type": "person",
+      "name": "Ismaʿīl al-Ṣaqallī"
+    },
+    {
+      "id": "person4",
+      "type": "person",
+      "name": "Yefet ben ʿEli"
+    }
+  ],
+  "links": [
+    {
+      "source": "person51",
+      "target": "person4",
+      "rel": "majlis:relationWith",
+      "sources": [
+        "TEMPORARY TEST DATA - added 2026-09-07 to re-check the git-sync webhook sync path; safe to delete once confirmed"
+      ]
+    }
+  ]
+}
