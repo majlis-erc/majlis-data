@@ -1,0 +1,38 @@
+xquery version "3.1";
+
+(:~
+ : Real config for the git-sync webhook (modules/git-sync.xql). This is a TEMPLATE - copy
+ : it to modules/git-sync-config.xql (no ".template" suffix) directly on the live server and
+ : fill in the 5 real values below. Do not commit that copy to git - see the .gitignore entry
+ : for modules/git-sync-config.xql and modules/git-sync.xql's file-level comment (2026-09-07)
+ : for why: this webhook syncs its own source files on every push to main, so a committed
+ : version of the real config would get silently overwritten with placeholder text the next
+ : time anything in this repository is merged.
+ :
+ : This file (the .template one) is safe to commit and safe to let the webhook sync, since
+ : it never holds a real secret - only instructions and placeholder text.
+ :)
+module namespace git-sync-config = "http://majlis-erc.github.io/majlis-data/git-sync-config";
+
+(:~ Path to the eXist-db application data collection this webhook writes into. :)
+declare variable $git-sync-config:db-application-path := "/db/apps/majlis-data";
+
+(:~ GitHub repository this webhook watches. :)
+declare variable $git-sync-config:git-repo := "https://github.com/majlis-erc/majlis-data";
+
+(:~ Branch this webhook accepts pushes from. :)
+declare variable $git-sync-config:git-branch := "main";
+
+(:~
+ : Webhook secret, used to verify the X-Hub-Signature header on incoming requests. See:
+ : https://developer.github.com/webhooks/securing/
+ : Must match the secret configured on the GitHub webhook itself (repo Settings > Webhooks).
+ :)
+declare variable $git-sync-config:github-private-key := "REPLACE-WITH-REAL-WEBHOOK-SECRET";
+
+(:~
+ : Optional GitHub token used to raise the rate limit on requests to
+ : raw.githubusercontent.com when fetching file content. Leave empty if not needed. See:
+ : https://developer.github.com/v3/#rate-limiting
+ :)
+declare variable $git-sync-config:github-rate-limit-token := "";
