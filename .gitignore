@@ -105,3 +105,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Local rollback snapshot of the live staging deploy (large; contains server secrets) - do not commit
+/LIVE-BACKUP_manuforma-staging_majlis-data_2026-09-02/
+
+# Real git-sync webhook config (repo URL, branch, HMAC secret) - lives ONLY on the live
+# server, created once by hand from modules/git-sync-config.xql.template. Never commit this
+# file: see modules/git-sync.xql's file-level comment (2026-09-07) for why - this repo's
+# webhook syncs its own source files on every push to main, so any committed version of
+# this file would get overwritten onto the live server the next time anything in this repo
+# merges, silently replacing the real secret with whatever placeholder is in git.
+modules/git-sync-config.xql
