@@ -90,7 +90,7 @@
             <listPerson>
                 <person xml:id="person-41">
                     <persName xml:id="name-1" xml:lang="he-Latn" type="majlis-headword">
-                        <name/>
+                        <name>Šerira Gaʾon</name>
                     </persName>
                     <persName xml:id="name-2" xml:lang="ar-Latn" type="majlis-headword">
                         <name/>
@@ -132,18 +132,18 @@
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:id="name-10" type="canon" xml:lang="he">
-                        <forename xml:id="fn-he"/>
-                        <addName xml:id="pa-he" type="patronym"/>
-                        <addName xml:id="ep-he" type="epithet"/>
-                        <addName xml:id="ac-he" type="acronym"/>
-                        <addName xml:id="sh-he" type="shuhra"/>
+                        <forename xml:id="fn-he">שרירא</forename>
+                        
+                        <addName xml:id="ep-he" type="epithet">גאון</addName>
+                        
+                        
                     </persName>
                     <persName xml:id="name-11" corresp="" type="canon" xml:lang="he-Latn">
-                        <forename ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName ref="#pa-he" type="patronym"/>
-                        <addName ref="#ep-he" type="epithet"/>
-                        <addName ref="#ac-he" type="acronym"/>
-                        <addName ref="#sh-he" type="shuhra"/>
+                        <forename ref="#fn-he" xml:lang="he-Latn">Šerira</forename>
+                        
+                        <addName ref="#ep-he" type="epithet">Gaʾon</addName>
+                        
+                        
                     </persName>
                     <note xml:lang="" resp=""/>
                     <state>
@@ -165,7 +165,6 @@
                         <placeName ref="" cert="">Pumbedita</placeName>
                     </residence>
                     <bibl xml:id="" type="">
-                        
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
@@ -189,7 +188,6 @@
                 <persName/>
                 <quote xml:lang=""/>
                 <bibl xml:id="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
