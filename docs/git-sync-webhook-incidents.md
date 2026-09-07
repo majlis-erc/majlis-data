@@ -104,10 +104,61 @@ its structure). Create the real file once, by hand, directly on the server, from
 template. Because it is never in git, no future merge - to `git-sync.xql` or anything else in
 the repository - can ever cause the webhook to sync over it and reset it again.
 
+## Follow-up (2026-09-07): why person 47/48's files needed manual intervention
+
+Two relation files, `data/persons/rel/47.json` and `48.json`, were added to this repository's
+`main` branch on 2026-09-07 at 10:32:48 UTC (12:32:48 in the server's local time zone). Their
+network diagrams did not appear on the corresponding person pages afterward. Investigation
+confirmed the files existed on the server - retrievable directly via the database's REST path
+and via a cache-busted URL - but the application's normal URL for each file kept returning 404,
+including after roughly two hours had passed (ruling out a short-lived cache as the sole
+explanation) and after both files were manually re-stored via a `xmldb:store()` query run by
+hand (ruling out a difference between that and the raw REST `PUT` used for the first manual
+attempt). Both files eventually became retrievable through the normal application URL; the
+mechanism responsible for that delay was not identified at the time.
+
+Checking the timing afterward against Incident 2 above narrows this down considerably: the fix
+for Incident 2 (moving the webhook secret into `modules/git-sync-config.xql`, so no future merge
+could reset it) was not merged until 2026-09-07 16:30:45 +0200 - about 4 hours *after* the
+47/48 files were pushed. This means that at 10:32:48 UTC, the live `git-sync.xql` could already
+have had its committed secret reset back to placeholder text by an earlier, unrelated merge (the
+exact failure mode Incident 2 describes). If so, GitHub's real webhook signature on that push
+would not have matched the server's placeholder secret, and `githubxq:execute-webhook()` would
+have rejected the request before ever attempting to store either file - meaning the webhook most
+likely never processed `47.json` or `48.json` at all, rather than processing them and then
+hitting some slow-to-clear cache. This would also explain why no GitHub webhook delivery could
+be found afterward that showed a successful sync of these two specific files: there may not have
+been one.
+
+This was checked directly, once Incident 2's fix was confirmed live: a temporary file,
+`data/persons/rel/50.json` (for a person record that had no relation file at all, so the test
+would not disturb any existing data; deleted immediately after the test and never intended to
+remain in this repository), was committed and pushed to `main` at 2026-09-07 18:46:36 +0200.
+Polling the same application URL pattern that had returned 404 for 47/48 showed it returning 200
+by 18:47:26 +0200 - under a minute later - and it stayed 200 on a second check a minute after
+that. This is consistent with the webhook, now correctly authenticating on every push, working
+reliably and quickly for a file added the normal way.
+
+**What this does and does not settle:** the timing evidence above is a plausible, checkable
+explanation for why 47/48 were never picked up automatically and needed manual intervention in
+the first place. It does not explain why the manually-stored copies of those two files - first
+written via a raw REST `PUT`, later re-written via a hand-run `xmldb:store()` query - continued
+to return 404 through the application's normal URL for a period of hours after being written,
+when both operations reported success immediately. Neither of the two specific mechanisms tested
+for that (a short cache TTL of roughly two hours; a difference between `xmldb:store()` and a raw
+REST `PUT` as the write method) held up. Whether some form of caching - `controller.xql`'s
+`cache="yes"` catch-all dispatch rule, or something outside the application entirely - is
+actually responsible remains unconfirmed either way. Given the 2026-09-07 test above, this delay
+is not expected to recur for files that reach the server through the webhook normally; it is
+specifically a risk for content pushed to `main` during a window when the webhook's secret is
+broken, or for anything stored on the server by a manual, non-webhook write. Prefer waiting for
+an authenticated webhook sync over manual intervention when there is a choice.
+
 ## Resuming this work
 
 Start by re-reading this file, then `modules/git-sync.xql`'s own (now short) file-level
 comment, `modules/git-sync-config.xql.template`, and the `.gitignore` entry for
 `modules/git-sync-config.xql`. The open, not-yet-fixed items are the "known limitation" in
-Incident 1 (new-collection case) and the broader CI-automation design work (a separate,
-not-yet-merged draft as of this writing).
+Incident 1 (new-collection case), the unconfirmed caching mechanism noted in the 2026-09-07
+follow-up above (relevant only to content stored by a manual, non-webhook write), and the
+broader CI-automation design work (a separate, not-yet-merged draft as of this writing).
