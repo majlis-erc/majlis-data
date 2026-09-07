@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "manuscript1568",
+      "type": "manuscript",
+      "name": "St. Petersburg, National Library of Russia, Yevr.-Arab. I 86.1"
+    },
+    {
+      "id": "person35",
+      "type": "person",
+      "name": "Community of Qaraites"
+    },
+    {
+      "id": "person47",
+      "type": "person",
+      "name": "Sarah bat Reʾuven"
+    },
+    {
+      "id": "person48",
+      "type": "person",
+      "name": "Moše ben Yiftaḥ ha-Kohen al-Raḥabī"
+    }
+  ],
+  "links": [
+    {
+      "source": "person35",
+      "target": "manuscript1568",
+      "rel": "majlis:relationWith",
+      "sources": [
+        "Community of Qaraites",
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 86.1, 1r, Certificates of endowment"
+      ]
+    },
+    {
+      "source": "person47",
+      "target": "manuscript1568",
+      "rel": "majlis:endowed",
+      "sources": [
+        "Sarah bat Reʾuven",
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 86.1, 1r, Certificates of endowment"
+      ]
+    },
+    {
+      "source": "person48",
+      "target": "manuscript1568",
+      "rel": "majlis:endowed",
+      "sources": [
+        "Moše ben Yiftaḥ ha-Kohen al-Raḥabī",
+        "St. Petersburg, National Library of Russia, Yevr.-Arab. I 86.1, 1r, Certificates of endowment"
+      ]
+    }
+  ]
+}

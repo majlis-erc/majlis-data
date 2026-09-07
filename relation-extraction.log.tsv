@@ -14,6 +14,9 @@ entity	manuscripts/1551	.//tei:additions/tei:list/tei:item//tei:relation						EM
 entity	manuscripts/1551	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
 entity	manuscripts/1557	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/11	https://jalit.org/person/10		snap:motherInLawOf		VALID	persons/rel/10.json|persons/rel/11.json	person/11→person/10	Created 1 edge(s)
 entity	manuscripts/1565	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
+entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/35	https://jalit.org/manuscript/1568		majlis:relationWith		VALID	manuscripts/rel/1568.json|persons/rel/35.json	person/35→manuscript/1568	Created 1 edge(s)
+entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/47	https://jalit.org/manuscript/1568		majlis:endowed		VALID	manuscripts/rel/1568.json|persons/rel/47.json	person/47→manuscript/1568	Created 1 edge(s)
+entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/48	https://jalit.org/manuscript/1568		majlis:endowed		VALID	manuscripts/rel/1568.json|persons/rel/48.json	person/48→manuscript/1568	Created 1 edge(s)
 entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
 entity	manuscripts/1568	.//tei:additions/tei:list/tei:item//tei:relation						EMPTY			Skipped - no active/passive/mutual
 entity	manuscripts/1569	.//tei:additions/tei:list/tei:item//tei:relation	https://jalit.org/person/30	https://jalit.org/manuscript/1569		majlis:endowed		VALID	manuscripts/rel/1569.json|persons/rel/30.json	person/30→manuscript/1569	Created 1 edge(s)
