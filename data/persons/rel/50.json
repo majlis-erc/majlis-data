@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "person50",
+      "type": "person",
+      "name": "Avraham ben Šabtay"
+    },
+    {
+      "id": "person3",
+      "type": "person",
+      "name": "Sahl ben Maṣliaḥ"
+    }
+  ],
+  "links": [
+    {
+      "source": "person50",
+      "target": "person3",
+      "rel": "majlis:relationWith",
+      "sources": [
+        "TEMPORARY TEST DATA - added 2026-09-07 to time the git-sync webhook cache delay; safe to delete once confirmed"
+      ]
+    }
+  ]
+}
