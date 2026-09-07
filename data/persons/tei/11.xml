@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -15,12 +15,9 @@
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349" role="general" xml:id="rvollandt">Ronny Vollandt</editor>
                 <editor ref="#mmoliere" role="creator">Maximilian de Molière</editor>
                 <editor role="entry-editor">Gregor Schwarb</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor">Maurizio Boehm</editor>
                 <editor role="contributor">Lukas Froschmeier</editor>
                 <editor role="contributor">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -29,13 +26,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393" role="contributor" xml:id="mmoliere">Maximilian de Molière</editor>
                 <editor role="contributor">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472" role="contributor" xml:id="gschwarb">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor role="contributor">Peter Tarras</editor>
                 <editor role="contributor">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name ref="http://syriaca.org/documentation/editors.xml#wsalesky" type="person">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org</ref>
@@ -148,13 +150,13 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="name-8" type="attested" xml:lang="ar-Latn">
+                    <persName xml:id="name-8" source="#" type="attested" xml:lang="ar-Latn">
                         <name>al-Šayḫ Abū l-Faraǧ Furqān b. Asad</name>
                     </persName>
-                    <persName xml:id="name-9" type="attested" xml:lang="ar">
+                    <persName xml:id="name-9" source="#jalit-orgbiblH2RX9HN1" type="attested" xml:lang="ar">
                         <name source="#">الشيخ أبو الفرج فرقان بن أسد</name>
                     </persName>
-                    <persName xml:id="name-10" type="attested" xml:lang="ar-Hebr">
+                    <persName xml:id="name-10" source="#jalit-orgbiblH2RX9HN3" type="attested" xml:lang="ar-Hebr">
                         <name source="#">אלשיך אבו אלפרג̇ פרקאן אבן אסד</name>
                     </persName><!--The full canonical names. The Arabic name is subdivided into shuhra etc. and the Hebrew name gives epithets acronyms etc. 
                     Both names are given in the original scripts and then supplemented with transliterations.-->
@@ -209,10 +211,9 @@
                         <citedRange unit="folio">40v, l. 20</citedRange>
                     </bibl>
                     <bibl type="" xml:id="">
-      
-      <ptr target=""/>
-      <citedRange unit=""/>
-   </bibl>
+                        <ptr target=""/>
+                        <citedRange unit=""/>
+                    </bibl>
                     <bibl type="manuscript" xml:id="jalit-orgbiblH2RX9HN1">
                         <title>St. Petersburg, Russian National Library, Yevr.-Arab. I 1125</title>
                         <ptr target="https://jalit.org/bibl/H2RX9HN1"/>
