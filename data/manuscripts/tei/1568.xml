@@ -204,6 +204,8 @@
                                     <objectType>Certificates of endowment</objectType>
                                     <listRelation>
       <relation name="majlis:relationWith" ref="" active="https://jalit.org/person/35" passive="https://jalit.org/manuscript/1568"/>
+   </listRelation><listRelation>
+      <relation name="majlis:endowed" ref="" active="https://jalit.org/person/47" passive="https://jalit.org/manuscript/1568"/>
    </listRelation>
                                     <listRelation>
       <relation name="majlis:endowed" ref="" active="https://jalit.org/person/48" passive="https://jalit.org/manuscript/1568"/>
