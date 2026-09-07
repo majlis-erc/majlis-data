@@ -94,18 +94,18 @@
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:id="name-10" source="#" type="canon" xml:lang="he">
-                        <forename xml:id="fn-he"/>
-                        <addName xml:id="pa-he" type="patronym"/>
-                        <addName xml:id="ep-he" type="epithet"/>
-                        <addName xml:id="ac-he" type="acronym"/>
-                        <addName xml:id="sh-he" type="shuhra"/>
+                        <forename xml:id="fn-he">שרה</forename>
+                        <addName xml:id="pa-he" type="patronym">בת ראובן</addName>
+                        
+                        
+                        
                     </persName>
                     <persName xml:id="name-11" corresp="" type="canon" xml:lang="he-Latn">
-                        <forename ref="#fn-he" xml:lang="he-Latn"/>
-                        <addName ref="#pa-he" type="patronym"/>
-                        <addName ref="#ep-he" type="epithet"/>
-                        <addName ref="#ac-he" type="acronym"/>
-                        <addName ref="#sh-he" type="shuhra"/>
+                        <forename ref="#fn-he" xml:lang="he-Latn">Sarah</forename>
+                        <addName ref="#pa-he" type="patronym">bat Reʾuven</addName>
+                        
+                        
+                        
                     </persName>
                     <note xml:lang="en" resp="rvollandt" type="biography">
                         <p>In MS RNL, Yevr.-Arab. I 86.1, fol. 1r Sarah bat Reʾuven is mentioned to have endowed the book to the community of Qaraites.</p>
