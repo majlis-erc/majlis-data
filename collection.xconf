@@ -48,7 +48,12 @@
                 <facet dimension="scriptQuality" expression="descendant::tei:physDesc/tei:scriptDesc/tei:scriptNote/@style"/>
                 <facet dimension="binding" expression="descendant::tei:physDesc/tei:bindingDesc/tei:binding/tei:decoNote/tei:objectType"/>
                 <facet dimension="incodicatedDocument" expression="descendant::tei:physDesc/tei:additions/tei:list/tei:item/tei:objectType"/>
-                <facet dimension="reproductions" expression="descendant::tei:facsimile/tei:graphic"/>
+                <!-- reproductions also has function="reproductions" in facet-def.xml, implemented by
+                     sf:facet-reproductions() as a YES/NO existence check, not a plain text value -
+                     wrapped the same way here (found by scripts/check-facet-index-drift.py,
+                     2026-09-08, the same category of bug as the repository fix above: an
+                     unwrapped raw sub-path where a dedicated function is meant to be used). -->
+                <facet dimension="reproductions" expression="if(descendant::tei:facsimile/tei:graphic) then 'YES' else 'NO'"/>
             </text>
         </lucene>
         <range>

@@ -104,9 +104,117 @@ run_query 'doc-available("/db/system/config/db/apps/majlis-data/collection.xconf
 
 **Do not** call `srophe`'s `sf:update-index()` to "refresh" this unless you specifically intend to
 regenerate it *dynamically from srophe's code* — that overwrites this repo's static file, and is
-exactly what caused the 2026-09-02/03 incident. If you need to reapply this repo's static file
-without a full package rebuild+redeploy, that's a manual store of this exact file's content to
-the path above — ask before improvising here; getting the target path wrong risks another outage.
+exactly what caused the 2026-09-02/03 incident.
+
+### Which deploy path does a given change actually need?
+
+This repo reaches the live server through three different mechanisms, each covering different
+ground — knowing which one a change needs avoids reaching for a full reinstall (and its
+version-bump requirement, below) when it isn't necessary, or missing that it *is*:
+
+- **git-sync webhook** (automatic, fires on every push to `main`): stores whatever files a push
+  touches into `/db/apps/majlis-data` and below, via `xmldb:store()`. Covers ordinary data and
+  code file changes on their own, with no manual step. Does **not** reach `collection.xconf`'s
+  real, effective location (`/db/system/config/db/apps/majlis-data/collection.xconf`) — that
+  path is outside `/db/apps/majlis-data` entirely. The webhook does still sync a copy of
+  `collection.xconf` to `/db/apps/majlis-data/collection.xconf` (it's a file in the repo like
+  any other), but nothing reads *that* copy for indexing — it's inert.
+- **Direct store / `PUT`** (manual, one specific path — Option A below): the same effect as the
+  webhook, run by hand for whatever path actually needs it, including the real
+  `collection.xconf` location, as done 2026-09-08. Version-independent — no package-level
+  machinery involved, just "put this exact content at this exact path."
+- **Full package reinstall** (manual, requires a version bump — Option B below): the **only**
+  path that re-executes `pre-install.xql`/`post-install.xql`, or picks up a change to
+  `expath-pkg.xml` itself (dependencies, metadata). Required whenever a change needs
+  install-time logic to actually *run* again — not just a file to exist somewhere. There is no
+  direct-store equivalent for that; a `PUT` can place a file, but it can't re-run a script that
+  only executes during install.
+
+For `collection.xconf` specifically, direct store (Option A) is enough on its own — Lucene reads
+it from its live location directly, with no install-time step in between. Reach for Option B
+only when a change elsewhere in the package genuinely depends on install-time logic running.
+
+### Option A: direct store (tested working 2026-09-08, no package rebuild needed)
+
+For a `collection.xconf`-only change, this is the simplest path and doesn't need a rebuild at
+all — just `PUT` the file straight to its live config path:
+
+```bash
+curl --http1.1 -u admin:$REMOTE_EDB_SERVER_PASSWORD -T collection.xconf \
+  "$REMOTE_EDB_SERVER_URL/exist/rest/db/system/config/db/apps/majlis-data/collection.xconf"
+```
+
+Run from this repo's root, so `collection.xconf` resolves to the file there. Getting the target
+path wrong risks another outage like 2026-09-02/03 — double check it against the `doc-available()`
+check above before typing it from memory. Verify it landed:
+
+```bash
+curl -s "$REMOTE_EDB_SERVER_URL/exist/rest/db/system/config/db/apps/majlis-data/collection.xconf" \
+  | grep 'dimension="repository"'   # or whatever line you just changed
+```
+
+An empty/no-output response from the `PUT` itself is normal on success — eXist's REST endpoint
+returns an empty body; check the *effect* (the line above), not the absence of an error.
+
+### Option B: full package rebuild + reinstall (needed for anything beyond collection.xconf)
+
+Use this if the change also touches something only `pre-install.xql` applies (not just
+`collection.xconf`). Tested end-to-end 2026-09-08:
+
+```bash
+# 1. Rebuild the .xar (temporarily move out the local backup folder so it isn't bundled in -
+#    see "Possible improvements" in facet-index-design-notes.md re: build.xml's lack of excludes)
+mv LIVE-BACKUP_manuforma-staging_majlis-data_2026-09-02 /tmp/LIVE-BACKUP-temp-hold
+ant xar
+mv /tmp/LIVE-BACKUP-temp-hold LIVE-BACKUP_manuforma-staging_majlis-data_2026-09-02
+
+# 2. Before uploading anything, confirm the LOCAL build actually has your change -
+#    cheap to check, saves discovering an install "succeeded" on stale content later
+unzip -p build/majlis-data-0.01.xar collection.xconf | grep 'dimension="repository"'
+
+# 3. Upload it, overwriting whatever was there before (including any stale .xar left from an
+#    earlier, abandoned attempt - this is the same target path every time)
+curl --http1.1 -u admin:$REMOTE_EDB_SERVER_PASSWORD -T build/majlis-data-0.01.xar \
+  "$REMOTE_EDB_SERVER_URL/exist/rest/db/system/repo/majlis-data-0.01.xar"
+
+# 4. Confirm the uploaded copy in the DB actually has the change too, before installing it
+curl -s --http1.1 -u admin:$REMOTE_EDB_SERVER_PASSWORD \
+  "$REMOTE_EDB_SERVER_URL/exist/rest/db/system/repo/majlis-data-0.01.xar" -o /tmp/uploaded-check.xar
+unzip -p /tmp/uploaded-check.xar collection.xconf | grep 'dimension="repository"'
+
+# 5. Install it
+cat > /tmp/reinstall-majlis-data.xml <<'EOF'
+<query xmlns="http://exist.sourceforge.net/NS/exist" cache="no" enclose="no" start="1" max="-1">
+  <text><![CDATA[
+import module namespace repo="http://exist-db.org/xquery/repo";
+repo:install-and-deploy-from-db("/db/system/repo/majlis-data-0.01.xar")
+  ]]></text>
+</query>
+EOF
+curl -s -o /dev/null -w "install HTTP status: %{http_code}\n" \
+  --http1.1 -u admin:$REMOTE_EDB_SERVER_PASSWORD -X POST -H "Content-Type: application/xml" \
+  --data-binary @/tmp/reinstall-majlis-data.xml \
+  "$REMOTE_EDB_SERVER_URL/exist/rest/db"
+
+# 6. Verify the LIVE config actually changed - a 200 in step 5 is not proof by itself, see below
+curl -s "$REMOTE_EDB_SERVER_URL/exist/rest/db/system/config/db/apps/majlis-data/collection.xconf" \
+  | grep 'dimension="repository"'
+```
+
+**Gotcha hit twice on 2026-09-08, easy to lose an hour to**: `expath-pkg.xml`'s version number
+has never been bumped (still `"0.01"` since the file was created). eXist's package installer
+silently no-ops a reinstall at the *same* version - step 5 returns `200` as if it worked, but
+step 6 still shows the old content, because nothing was actually redeployed. If step 6 doesn't
+show your change after a genuine `200` in step 5, this is the first thing to check - bump the
+version in `expath-pkg.xml` (e.g. `"0.01"` → `"0.02"`) and repeat steps 1-6. A version bump is
+**only** needed for this full-reinstall path - Option A (direct store) is unaffected by it.
+
+### Either way: reindex after
+
+Neither option retroactively recomputes facets for documents already indexed under the old
+config - see section 5 below ("Reindexing a collection") for that, and
+`scripts/check-facet-index-drift.py` (this repo's `scripts/` folder) for a pre-merge check that
+would have caught the two specific mistakes this whole section exists because of.
 
 ## 5. Reindexing a collection (route around the proxy timeout)
 
@@ -125,6 +233,31 @@ scripts/reindex-collection.sh /db/apps/majlis-data/data/manuscripts 5      # tes
 Run it once per affected collection (`manuscripts`, `places`, `persons`, `works`, `relations`,
 `texts`, `bibl`, ...). It can take a while for a large collection (tens of minutes) — that's
 expected; let it finish rather than interrupting it.
+
+**Found 2026-09-08: this per-document approach did not actually fix a facet-grouping problem**
+(the `repository` facet-duplication bug — see `facet-index-design-notes.md` and
+`scripts/check-facet-index-drift.md`), even run across every affected collection. The browse
+page still showed the old, split facet counts afterward. What did work was a single
+collection-level `xmldb:reindex()` call — the exact thing this section exists to route around,
+because it hits the same proxy timeout below:
+
+```bash
+run_query 'xmldb:reindex("/db/apps/majlis-data/data/manuscripts")'
+```
+
+Expect a client-side timeout or connection error after roughly a minute — that is just the
+reverse proxy giving up on the response, not the server stopping. The reindex keeps running
+server-side regardless of whether the client is still connected to see it finish. Fire it, then
+wait (roughly 10-15 minutes for the manuscripts collection at current volumes) before checking
+results — don't mistake the client-side timeout for a failure and retry repeatedly.
+
+Net effect: **for a facet-related fix, use the collection-level call above, accepting the
+timeout, rather than the per-document script.** The per-document script's value (documented
+above) is avoiding the timeout entirely — but if it doesn't actually recompute what needs fixing
+per-document, that trade isn't worth it for facets specifically. The per-document script may
+still be the right tool for other reindex needs (e.g. recovering a broken text index, its
+original 2026-09-02/03 use case) - this distinction wasn't tested either way and is worth
+confirming before assuming.
 
 ## 6. Verify
 
