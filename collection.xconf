@@ -24,9 +24,17 @@
                  configuration for it to read, in this file's history or otherwise.
                  dimension names match facet-def.xml's facet-definition/@name exactly, and each
                  expression is the same XPath as that facet's <sub-path>, so ft:facets() can group
-                 the manuscript hits (tei:TEI elements) by these values. -->
+                 the manuscript hits (tei:TEI elements) by these values.
+                 repository is the one exception: its facet-definition has function="repository",
+                 which srophe's sf:facet-repository() implements as
+                 normalize-space(descendant::tei:msIdentifier/tei:repository) - wrapped the same
+                 way here, so this file's grouping key matches that function exactly. Found
+                 2026-09-08: without this, some tei:repository values whose source XML happens to
+                 wrap across lines (embedded newline/indentation in the element's text content)
+                 grouped separately from otherwise-identical values, e.g. two distinct "National
+                 Library of Russia" facet entries. -->
             <text qname="tei:TEI">
-                <facet dimension="repository" expression="descendant::tei:msIdentifier/tei:repository"/>
+                <facet dimension="repository" expression="normalize-space(descendant::tei:msIdentifier/tei:repository)"/>
                 <facet dimension="collection" expression="descendant::tei:msIdentifier/tei:collection"/>
                 <facet dimension="country" expression="descendant::tei:msIdentifier/tei:country"/>
                 <facet dimension="city" expression="descendant::tei:msIdentifier/tei:settlement"/>
