@@ -162,11 +162,11 @@ Use this if the change also touches something only `pre-install.xql` applies (no
 `collection.xconf`). Tested end-to-end 2026-09-08:
 
 ```bash
-# 1. Rebuild the .xar (temporarily move out the local backup folder so it isn't bundled in -
-#    see "Possible improvements" in facet-index-design-notes.md re: build.xml's lack of excludes)
-mv LIVE-BACKUP_manuforma-staging_majlis-data_2026-09-02 /tmp/LIVE-BACKUP-temp-hold
+# 1. Rebuild the .xar. build.xml now excludes .git, LIVE-BACKUP_*, maintenance, __pycache__,
+#    and .DS_Store on its own (fixed 2026-09-09 - see build.xml's own comment on the xar
+#    target) - no manual move-out step needed before this, unlike earlier in this document's
+#    history.
 ant xar
-mv /tmp/LIVE-BACKUP-temp-hold LIVE-BACKUP_manuforma-staging_majlis-data_2026-09-02
 
 # 2. Before uploading anything, confirm the LOCAL build actually has your change -
 #    cheap to check, saves discovering an install "succeeded" on stale content later

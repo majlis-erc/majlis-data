@@ -13,6 +13,13 @@
 
     <target name="xar" depends="generate-relations">
         <mkdir dir="${build.dir}"/>
-        <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/*"/>
+        <!-- Found 2026-09-09: this only excluded ${build.dir}/* (one level deep, and only the
+             build output itself), so every other exclude below had to be added by hand before
+             building until now - most notably .git (91MB) and LIVE-BACKUP_* (67MB), which were
+             both being bundled into every .xar with no exclusion at all. LIVE-BACKUP_* uses a
+             wildcard rather than the exact 2026-09-02 folder name so a future backup folder
+             (any date) is still excluded without editing this file again. -->
+        <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar"
+             excludes="${build.dir}/**, .git/**, .git, LIVE-BACKUP_*/**, LIVE-BACKUP_*, maintenance/**, maintenance, **/.DS_Store, **/__pycache__/**"/>
     </target>
 </project>
