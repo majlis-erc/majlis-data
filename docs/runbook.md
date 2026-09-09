@@ -259,6 +259,33 @@ still be the right tool for other reindex needs (e.g. recovering a broken text i
 original 2026-09-02/03 use case) - this distinction wasn't tested either way and is worth
 confirming before assuming.
 
+**Found 2026-09-08, deploying the `reproductions` fix: a fast return from the collection-level
+call is not proof it finished.** After firing the same `xmldb:reindex(...)` call above, it
+returned in about a minute - consistent with the timeout above, but mistaken at the time for a
+genuine, fast completion (a plausible mistake, since an earlier reindex for the `repository` fix
+had also returned quickly and *had* genuinely completed - see the "possibly unwrapped" narrative
+in `scripts/check-facet-index-drift.md`). Checking the live counts afterward showed otherwise:
+`repository`'s "National Library of Russia" bucket, previously confirmed at `1392`, had dropped
+to `1193`; `reproductions`' `NO` bucket covered only `1334` of the collection's `1533` total
+manuscripts. Both were short by exactly the same number - `199` - even though the two facets
+share no code or expression, which is what confirmed this was a collection-wide reindex gap, not
+something wrong with the `reproductions` fix itself. Re-running the identical `xmldb:reindex(...)`
+call a second time, and this time waiting roughly 15 minutes before checking (rather than
+checking immediately, since it had returned within a minute again), gave the correct, stable
+result: `repository` back to `1392`, `reproductions` `NO` at the full `1533`, confirmed unchanged
+across several checks a couple of minutes apart. What made the difference between the two
+attempts was never confirmed - most likely explanation is that the request happened to complete
+in one case and got cut short (client and server both stopping together, rather than the server
+surviving past the client's timeout as assumed above) in the other, but this was not verified
+against server-side logs, which were not available.
+
+**Practical rule going forward: never treat how quickly this call returns as evidence of whether
+it finished, in either direction.** A fast return does not mean it failed (it may have completed
+that quickly, as happened once) and does not mean it succeeded (it may have been cut short, as
+happened once). The only real confirmation is checking actual facet counts against a known-correct
+total afterward - ideally more than once a few minutes apart, since a single reading can still
+catch it mid-update.
+
 ## 6. Verify
 
 After reindexing, re-check the document count query from step 2, then load the actual browse
