@@ -54,13 +54,17 @@ it means these two specific, previously-hit mistakes aren't currently present.
 ## Exact steps to run it
 
 ```bash
-cd /path/to/majlis-data
-python3 scripts/check-facet-index-drift.py /path/to/srophe
+python3 /path/to/majlis-data/scripts/check-facet-index-drift.py /path/to/srophe
 ```
 
-- The second argument is the path to a local `srophe` checkout. If omitted, it defaults to
-  `../srophe` relative to this repo (i.e. the two repos checked out as siblings, the layout
-  used everywhere else in this project).
+- The second argument is the path to a local `srophe` checkout. **If omitted**, it resolves to
+  `../srophe` relative to the *script's own location on disk* (i.e. the two repos checked out
+  as siblings, the layout used everywhere else in this project) - not relative to your current
+  directory, so this works correctly run from anywhere, with no need to `cd` into `majlis-data`
+  first. **If given explicitly**, treat it like any normal shell path argument - relative to
+  wherever you're currently standing when you run the command, same as `cd` or `ls` would.
+  Confirmed by testing (2026-09-09) both from `majlis-data`'s own root and from an unrelated
+  directory.
 - No dependencies beyond Python 3's standard library - nothing to install.
 - **Exit code `0`**: clean (possibly with known, accepted gaps listed - that's expected,
   not a failure). **Exit code `1`**: something to review, printed by facet name and source
