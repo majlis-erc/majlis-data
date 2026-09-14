@@ -54,7 +54,7 @@
                     <persName xml:id="name-1" source="#" xml:lang="he-Latn" type="majlis-headword">
                         <name>Moše ben Yiftaḥ ha-Kohen al-Raḥabī</name>
                     </persName>
-                    <persName xml:id="name-2" source="#" xml:lang="he" type="majlis-headword">
+                    <persName xml:id="name-2" source="#" xml:lang="he" type="canon">
                         <name>משה בן יפתח הכהן אלרחבי</name>
                     </persName>
                     <persName xml:id="name-3" source="#" type="attested" xml:lang="he">
@@ -111,7 +111,7 @@
                         <p>In MS RNL, Yevr.-Arab. I 86.1, fol. 1r Moše ben Yiftaḥ ha-Kohen al-Raḥabī is mentioned to have endowed the book to the community of Qaraites.</p>
                     </note>
                     <state>
-                        <label cert="high">Endower</label>
+                        <label cert="">Endower</label>
                     </state>
                     <birth>
                         <date when="" notBefore="" notAfter="" cert=""/>
@@ -122,11 +122,11 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit from="" to="" notBefore="" notAfter="" cert=""/>
-                    <sex cert="" value=""/>
-                    <faith cert=""/>
+                    <sex cert="" value="">Male</sex>
+                    <faith cert="">Karaite</faith>
                     <occupation type="" cert=""/>
                     <residence>
-                        <placeName ref="" cert=""/>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </residence>
                     <bibl xml:id="" type="">
                         <citedRange unit="p"/>
