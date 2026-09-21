@@ -84,6 +84,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-21T08:48:30.864Z">add author role</change>
             <change who="#mroozen" when="2026-09-21T08:46:11.520Z">add biographical note</change>
         </revisionDesc>
     </teiHeader>
@@ -151,7 +152,7 @@
                         <p>Little biographical information survives about Ibn Sāqawayh, a Qaraite contemporary of Saʿadya Gaon who probably lived in Iraq in the early tenth century. Writing in the fifteenth century, the chronicler Ibn al-Hītī attributes to him a polemic targeting Saʿadya and the Rabbanites.<lb/>Ibn Sāqawayh’s Kitāb al-Faḍāʾiḥ (Book of Shameful Things) is known principally through Saʿadya’s rebuttal, the Kitāb al-Radd ʿalā al-Mutaḥāmil ʿalā al-Mishna wa-l-Talmūd (Book of Response to the Challenger of the Mishnah and the Talmud). Divided into ten sections, Ibn Sāqawayh’s treatise opened with an attack on the Mishnah. Drawing on passages from the Talmud, it sought to expose what he regarded as errors and departures from correct teaching in rabbinic approaches to law and calendar calculation.</p>
                     </note>
                     <state>
-                        <label cert=""/>
+                        <label cert="">Author</label>
                     </state>
                     <birth>
                         <date when="" notBefore="" notAfter="" cert=""/>
