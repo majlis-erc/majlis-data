@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-21T09:10:15.835Z">update biographical data</change>
             <change who="#mroozen" when="2026-09-21T09:03:07.027Z">add biographical note</change>
             <change who="#mmoliere" when="2025-05-21T11:09:08.347Z">Updated biography.</change>
             <change who="#gschwarb" when="2025-03-24T11:12:18.353Z">Added Hamza (أ) to kunya</change>
@@ -142,7 +143,7 @@
                     </persName>
                     <note xml:lang="" resp="" type=""/>
                     <state>
-                        <label cert=""/>
+                        <label cert="">Author</label>
                     </state>
                     <birth>
                         <date cert="" source="#"/>
@@ -153,8 +154,8 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert=""/>
-                        <placeName ref="" cert=""/>
+                        <date cert="">950</date>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
                     <sex cert="">Male</sex>
                     <faith cert="">Karaite</faith>
