@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-23T16:44:05.807Z">add content description</change>
             <change who="#mroozen" when="2026-09-23T15:44:30.923Z">add manuscript joins</change>
             <change who="#mroozen" when="2026-09-23T15:34:12.118Z">add identification</change>
             <change who="#mroozen" when="2026-09-23T15:23:55.951Z">create manuscript entry</change>
@@ -70,22 +71,27 @@
                         <altIdentifier type="IMHM">
                             <idno>F 63558</idno>
                         </altIdentifier>
-                        
-                        
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
-                        <msItem xml:id="item-1.1" class="">
-                            <locus from="" to=""/>
-                            <author ref="" cert=""/>
+                        <summary xml:lang="en">
+                            <p>Two fragments of Abū l Faraǧ Furqān b. Asad’s Torah commentary: 1) Parashat Noaḥ (fols. 1 2) and 2) parashat Vayera (fols. 3 9): transcription and translation of Gen 10:24 32 and beginning of commentary on Genesis 10:1; transcription and translation of Gen 18:2 32.</p>
+                        </summary>
+                        <msItem xml:id="item-1.1" class="bibleCommentary">
+                            <title ref="https://jalit.org/work/80">Commentary on the Torah (Yešuʿa ben Yehuda)</title>
+                            <locus from="1r" to="9v"/>
+                            <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang="">
+                                    <p>[شالح وشالح يالذ اث عيبر] وارفحشاذ اولد شالح وشالح اولد عيبر [Ex 10:24]</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="9v" to=""/>
+                                <quote xml:lang="">
+                                    <p>فلعل ان يُوْجَدَ ثم عشرون فقال لست اُهلُك بسبب العشرين [Ex 18:31]</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
@@ -96,27 +102,25 @@
                             <objectType rend="" style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl xml:id="jalit-orgmanuscript692">
-                        <title>London, British Library, Oriental 2545.3</title>
-                        <ptr target="https://jalit.org/manuscript/692"/>
-                    </bibl>
+                                    <title>London, British Library, Oriental 2545.3</title>
+                                    <ptr target="https://jalit.org/manuscript/692"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript693">
-                        <title>London, British Library, Oriental 2545.2</title>
-                        <ptr target="https://jalit.org/manuscript/693"/>
-                    </bibl>
+                                    <title>London, British Library, Oriental 2545.2</title>
+                                    <ptr target="https://jalit.org/manuscript/693"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript694">
-                        <title>London, British Library, Oriental 2545.1</title>
-                        <ptr target="https://jalit.org/manuscript/694"/>
-                    </bibl>
+                                    <title>London, British Library, Oriental 2545.1</title>
+                                    <ptr target="https://jalit.org/manuscript/694"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1382">
-                        <title>St. Petersburg, National Library of Russia,
-                    Arab.-Yevr. 340</title>
-                        <ptr target="https://jalit.org/manuscript/1382"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Arab.-Yevr. 340</title>
+                                    <ptr target="https://jalit.org/manuscript/1382"/>
+                                </bibl>
                                 <bibl xml:id="jalit-orgmanuscript1299">
-                        <title>St. Petersburg, National Library of Russia,
-                    Arab.-Yevr. 268</title>
-                        <ptr target="https://jalit.org/manuscript/1299"/>
-                    </bibl>
+                                    <title>St. Petersburg, National Library of Russia, Arab.-Yevr. 268</title>
+                                    <ptr target="https://jalit.org/manuscript/1299"/>
+                                </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
