@@ -45,7 +45,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#mroozen" when="2026-09-23T15:23:55.951Z">create manuscript entry </change>
+            <change who="#mroozen" when="2026-09-23T15:34:12.118Z">add identification</change>
+            <change who="#mroozen" when="2026-09-23T15:23:55.951Z">create manuscript entry</change>
             <change who="#" when=""/>
         </revisionDesc>
     </teiHeader>
@@ -54,30 +55,27 @@
             <listBibl>
                 <msDesc>
                     <msIdentifier>
-                        <country/>
-                        <settlement/>
-                        <repository/>
-                        <collection/>
-                        <idno/>
+                        <country>Russia</country>
+                        <settlement>St. Petersburg</settlement>
+                        <repository>National Library of Russia</repository>
+                        <collection>Arab.-Yevr.</collection>
+                        <idno>2</idno>
                         <altIdentifier type="SfarData">
                             <idno/>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
-                            <idno/>
+                            <idno>PNX_MANUSCRIPTS990001517890205171</idno>
                         </altIdentifier>
-                        <altIdentifier type="FGP">
-                            <idno/>
+                        <altIdentifier type="IMHM">
+                            <idno>F 63558</idno>
                         </altIdentifier>
-                        <altIdentifier type="old">
-                            <idno/>
-                        </altIdentifier>
-                        <msName/>
+                        
+                        
                     </msIdentifier>
                     <msContents>
                         <summary xml:lang=""/>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
-                            
                             <author ref="" cert=""/>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
@@ -204,7 +202,6 @@
                                     <persName/>
                                     <quote xml:lang=""/>
                                     <bibl>
-                                        
                                         <citedRange unit="p"/>
                                         <ptr target=""/>
                                     </bibl>
@@ -237,7 +234,6 @@
                         <surrogates>
                             <listBibl>
                                 <bibl>
-                                    
                                     <publisher/>
                                     <ptr target=""/>
                                 </bibl>
@@ -245,7 +241,6 @@
                         </surrogates>
                         <listBibl>
                             <bibl xml:id="">
-                                
                                 <citedRange unit="p"/>
                                 <ptr target=""/>
                             </bibl>
