@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-23T16:49:23.943Z">add physical description</change>
             <change who="#mroozen" when="2026-09-23T16:44:05.807Z">add content description</change>
             <change who="#mroozen" when="2026-09-23T15:44:30.923Z">add manuscript joins</change>
             <change who="#mroozen" when="2026-09-23T15:34:12.118Z">add identification</change>
@@ -126,25 +127,29 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material/>
+                                    <material>Paper</material>
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio"/>
+                                    <measure unit="folio">9</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style="foliation" rendition="modern"/>
                                 <collation>
-                                    <formula/>
+                                    <formula>5</formula>
                                     <unit/>
                                     <catchwords/>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Leaves torn at the margins, slightly damp-stained; worm-eaten in places. Underwent conservation treatment that obliterated evidence of the original codicological structure.</p>
+                                    </note>
                                     <ab type="writing" rend=""/>
                                 </condition>
                             </supportDesc>
