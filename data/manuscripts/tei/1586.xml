@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-23T15:44:30.923Z">add manuscript joins</change>
             <change who="#mroozen" when="2026-09-23T15:34:12.118Z">add identification</change>
             <change who="#mroozen" when="2026-09-23T15:23:55.951Z">create manuscript entry</change>
             <change who="#" when=""/>
@@ -94,11 +95,28 @@
                             <note xml:lang=""/>
                             <objectType rend="" style="codex">Single manuscript</objectType>
                             <listBibl>
-                                <bibl>
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript692">
+                        <title>London, British Library, Oriental 2545.3</title>
+                        <ptr target="https://jalit.org/manuscript/692"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript693">
+                        <title>London, British Library, Oriental 2545.2</title>
+                        <ptr target="https://jalit.org/manuscript/693"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript694">
+                        <title>London, British Library, Oriental 2545.1</title>
+                        <ptr target="https://jalit.org/manuscript/694"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1382">
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 340</title>
+                        <ptr target="https://jalit.org/manuscript/1382"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1299">
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 268</title>
+                        <ptr target="https://jalit.org/manuscript/1299"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
