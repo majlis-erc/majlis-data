@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-24T16:54:43.671Z">add content description </change>
             <change who="#mroozen" when="2026-09-24T16:45:27.316Z">add manuscript joins </change>
             <change who="#mroozen" when="2026-09-24T16:35:46.556Z">add identification</change>
             <change who="#mroozen" when="2026-09-24T16:32:13.816Z">create work entry</change>
@@ -74,20 +75,29 @@
                         <msName/>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Fragment of Abū l Faraǧ Furqān b. Asad’s Torah commentary. Contains the title page and the introduction (<emph rend="italic">muqaddima</emph>) to <emph rend="italic">Parashat Behaʿalotekha</emph>; Arabic-script transcription and translation of of Num 8:1 17; commentary on Num 8:1 4.</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
                             <locus from="" to=""/>
-                            <author ref="" cert=""/>
+                            <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="1v" to=""/>
+                                <quote xml:lang="">
+                                    <p>بشيم ىىا ايل عولام</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="8v" to=""/>
+                                <quote xml:lang="">
+                                    <p>مصرايم هقداشتي اوثام لي [Num 8:17]</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>Parashah heading (fol. 1v):<lb/>فراشه	<lb/>مقدمه</p>
+                                <p>Title page (fol. 1r):<lb/>الجُزءُ الثاني من تفسير سَيفر ويذبّير<lb/>نصنيفُ الشيخ الفاضل الجليل<lb/>ابي الفرج فرقان بن اسد بن فرقان<lb/>اطال اللهُ بقآهُ<lb/>Basmala heading (fol. 1v):<lb/>بشيم ىىا ايل عولام<lb/>باروخ هو لعولام</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
