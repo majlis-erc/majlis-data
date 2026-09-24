@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-24T16:45:27.316Z">add manuscript joins </change>
             <change who="#mroozen" when="2026-09-24T16:35:46.556Z">add identification</change>
             <change who="#mroozen" when="2026-09-24T16:32:13.816Z">create work entry</change>
             <change who="#" when=""/>
@@ -94,11 +95,36 @@
                             <note xml:lang=""/>
                             <objectType rend="" style="codex">Single manuscript</objectType>
                             <listBibl>
-                                <bibl>
-                                    <idno type="manuscript-join"/>
-                                    <citedRange unit="folios"/>
-                                    <ptr target=""/>
-                                </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1381">
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 341</title>
+                        <ptr target="https://jalit.org/manuscript/1381"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1254">
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 329</title>
+                        <ptr target="https://jalit.org/manuscript/1254"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript1300">
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 267</title>
+                        <ptr target="https://jalit.org/manuscript/1300"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript414">
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 11</title>
+                        <ptr target="https://jalit.org/manuscript/414"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript413">
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 12</title>
+                        <ptr target="https://jalit.org/manuscript/413"/>
+                    </bibl>
+                                <bibl xml:id="jalit-orgmanuscript417">
+                        <title>St. Petersburg, National Library of Russia,
+                    Arab.-Yevr. 8</title>
+                        <ptr target="https://jalit.org/manuscript/417"/>
+                    </bibl>
                             </listBibl>
                         </ab>
                         <objectDesc>
