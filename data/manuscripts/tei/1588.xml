@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-25T10:51:11.041Z">add binding description</change>
             <change who="#mroozen" when="2026-09-25T10:40:12.241Z">add script/hand description</change>
             <change who="#mroozen" when="2026-09-25T10:23:06.466Z">add page and text layout</change>
             <change who="#mroozen" when="2026-09-25T10:14:39.091Z">add physical description: writing material</change>
@@ -242,7 +243,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and thread (fols. 5v–6r; 15v–16r; 25v–26r; 35v–36r; 45v–46r; 55v–56r).</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
