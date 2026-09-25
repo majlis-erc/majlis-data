@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-25T10:23:06.466Z">add page and text layout</change>
             <change who="#mroozen" when="2026-09-25T10:14:39.091Z">add physical description: writing material</change>
             <change who="#mroozen" when="2026-09-25T09:54:06.964Z">add content description </change>
             <change who="#mroozen" when="2026-09-25T09:41:41.670Z">add identification and manuscript joins </change>
@@ -169,7 +170,7 @@
                                     <desc/>
                                     <note xml:lang=""/>
                                 </summary>
-                                <layout xml:id="layout-1.1.1.1" writtenLines="" columns="">
+                                <layout xml:id="layout-1.1.1.1" writtenLines="16–17 " columns="1">
                                     <locus from="" to=""/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
@@ -198,10 +199,14 @@
                             </scriptNote>
                         </scriptDesc>
                         <decoDesc>
-                            <summary xml:lang=""/>
+                            <summary xml:lang="">
+                                <p>Different script sizes are used to distinguish the text layers: larger script for the Hebrew verses in Arabic-script transcription and smaller script for the Arabic translation. The Hebrew verse at the beginning of the commentary (e.g. fol. 35r) is formatted as a centered block with increased left and right margins.</p>
+                            </summary>
                             <decoNote>
-                                <desc/>
-                                <note xml:lang=""/>
+                                <desc>Paragraph marks and textual dividers</desc>
+                                <note xml:lang="">
+                                    <p>Colon and circle at the end of Arabic-script transcription of Hebrew verses. Circled dot at the end of Arabic translation.</p>
+                                </note>
                             </decoNote>
                         </decoDesc>
                         <additions>
