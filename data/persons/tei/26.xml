@@ -53,7 +53,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#nurbiczek" when="2026-09-24T22:47:44.915Z">biography </change>
+            <change who="#nurbiczek" when="2026-09-25T00:28:06.415Z"/>
+            <change who="#nurbiczek" when="2026-09-24T22:47:44.915Z">biography</change>
             <change who="#S.Mattutat" when="2024-12-12T13:46:00.911Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-12-06T18:16:10.969Z">Added place ID.</change>
             <change who="#mmoliere" when="2024-05-08">Added bibliography from Zotero DB.</change>
@@ -120,7 +121,7 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <note xml:lang="" resp="nurbiczek" type="">
+                    <note xml:lang="en" resp="nurbiczek" type="biography">
                         <p>Abū al-Ṭayyib Šalom is a Qaraite figure, attested in RNL Yevr.-Arab. I 1151. This calendar chronicle documents the Qaraite practice of determining the calendar empirically. Abū al-Ṭayyib Šalom is mentioned as conducting field inspections of barley crops in Palestine, both alone as well as together with another Qaraite authority, <emph rend="italic">al-muʿallim</emph> Abū Saʿīd (possibly Abū Saʿīd Levi b. Yefet). The aim was to determine whether the barley had reached the stage of <emph rend="italic">aviv</emph>, a prerequisite for declaring the first month of the year and celebrating Passover, or whether the year should be intercalated by adding an extra month. Contrary to other Qaraites, Abū al-Ṭayyib Šalom applied a stricter criterion and decided to intercalate in 415 AH / 1024 CE, aligning with a stricter faction (<emph rend="italic">kabbāsūn</emph>). This illustrates the coexistence of divergent Qaraite calendrical practices and how members (<emph rend="italic">aṣḥābunā</emph>) of the Qaraite academy in Jerusalem were involved in the process of intercalation during the first half of the eleventh century.</p>
                     </note>
                     <state>
@@ -167,7 +168,6 @@
                 <persName/>
                 <quote xml:lang=""/>
                 <bibl>
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
