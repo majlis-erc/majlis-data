@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-25T07:56:19.502Z">add script/hand description</change>
             <change who="#mroozen" when="2026-09-25T07:42:14.318Z">add page and text layout</change>
             <change who="#mroozen" when="2026-09-25T07:27:17.905Z">add physical description</change>
             <change who="#mroozen" when="2026-09-24T16:54:43.671Z">add content description</change>
@@ -177,12 +178,16 @@
                         <handDesc>
                             <summary xml:lang=""/>
                             <handNote xml:id="hand-1.1.1" source="#" medium="">
+                                <metamark function="vocalization">Sporadic vocalisation of the Arabic text; full Tiberian vocalisation in red ink of the Hebrew verses in Arabic-script transcription.</metamark>
+                                <metamark function="divine-names">ىىا (e.g. fol. 1v, l. 1)</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="diacritics">Sporadic dotting.</metamark>
                                 <origDate when="" from="" to=""/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Conspicuous graphic habits: Horizontally stretched letters (dilatation), e.g. fol. 7v, l. 14.</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
