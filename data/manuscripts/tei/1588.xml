@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-25T10:14:39.091Z">add physical description: writing material</change>
             <change who="#mroozen" when="2026-09-25T09:54:06.964Z">add content description </change>
             <change who="#mroozen" when="2026-09-25T09:41:41.670Z">add identification and manuscript joins </change>
             <change who="#mroozen" when="2026-09-25T09:26:10.469Z">create work entry</change>
@@ -136,25 +137,30 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material/>
+                                    <material>Paper</material>
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio"/>
+                                    <measure unit="folio">63</measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style="foliation" rendition="modern">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
-                                    <formula/>
+                                    <formula>5</formula>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Third <emph rend="italic">juzʾ</emph> of the commentary on the Book of Numbers (الجزء الثالث من تفسير سيفر ويذبّير).</p>
+                                        <p>Quire signatures: ثانية  (fol. 1r), ثالثة  (fol. 11r), رابعة  (fol. 21r), خامسة  (fol. 31r), سادسة  (fol. 41r), سابعة  (fol. 51r), ثامنة  (fol. 61r) … من الجزء الثالث من تفسير سيفر ويذبّير</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Slightly worm-eaten without loss of text.</p>
+                                    </note>
                                     <ab type="writing" rend=""/>
                                 </condition>
                             </supportDesc>
