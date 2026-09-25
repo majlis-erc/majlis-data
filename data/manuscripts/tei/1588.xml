@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-25T09:54:06.964Z">add content description </change>
             <change who="#mroozen" when="2026-09-25T09:41:41.670Z">add identification and manuscript joins </change>
             <change who="#mroozen" when="2026-09-25T09:26:10.469Z">create work entry</change>
             <change who="#" when=""/>
@@ -75,18 +76,24 @@
                         <msName/>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>A large fragment of Abū l Faraǧ Furqān b. Asad’s Torah commentary on <emph rend="italic">Parashat Maṭṭot</emph>. Contains the commentary on Num 30:3–17 (fols. 1r–31r), the Arabic-script transcription and translation of Num 31:1–24 (fols. 31r–35r), the commentary on Num 31:1–24 (fols. 35r–52v), the Arabic-script transcription and translation of Num 31:25–54 (fols. 52v–56v), and the commentary on Num 31:25–30. The commentary on Num 30:3 comprises a lengthy discussion on vows.</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
-                            <locus from="" to=""/>
-                            <author ref="" cert=""/>
+                            <locus from="1r" to="63v"/>
+                            <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang="">
+                                    <p>ولاجل هذه التفرقة قال المعلم ابو السَريّ ان لا بد للناذر من ان يقول ناذر لاىىا كما يقول في القربان زا قربان لاىىا</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang=""/>
+                                <locus from="63v" to=""/>
+                                <quote xml:lang="">
+                                    <p>ولما طال القول اعاد ويانياو اث ليب بني يسراايل ليلحق به ما تولد من الضرر عليهم</p>
+                                </quote>
                             </explicit>
                             <note xml:lang=""/>
                         </msItem>
