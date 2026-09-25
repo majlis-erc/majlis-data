@@ -53,7 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#nurbiczek" when="2026-09-25T00:06:26.951Z"/>
+            <change who="#nurbiczek" when="2026-09-25T00:11:14.772Z">biography</change>
             <change who="#nurbiczek" when="2026-09-25T00:02:56.048Z">biography</change>
             <change who="#S.Mattutat" when="2025-02-03T08:09:45.944Z">Person: Header.</change>
             <change who="#S.Mattutat" when="2024-12-12T14:21:21.991Z">Person: Personal Name.</change>
@@ -101,9 +101,9 @@
                     <persName xml:id="name-9" type="canon" xml:lang="ar-Latn">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism">Šmuʾel</addName>
-                        <addName ref="#na-ar" type="nasab"> b. Saynāʾī</addName>
+                        <addName ref="#na-ar" type="nasab">b. Saynāʾī</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya">Abū ʿAlī </addName>
+                        <addName ref="#ku-ar" type="kunya">Abū ʿAlī</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:id="name-10" xml:lang="he">
@@ -135,7 +135,7 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert="">10th c.</date>
+                        <date cert="">11th c.</date>
                         <placeName ref="" cert=""/>
                     </floruit>
                     <sex cert="">Male</sex>
@@ -145,7 +145,6 @@
                         <placeName ref="" cert=""/>
                     </residence>
                     <bibl xml:id="">
-                        
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
@@ -168,7 +167,6 @@
                 <persName/>
                 <quote xml:lang=""/>
                 <bibl>
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
