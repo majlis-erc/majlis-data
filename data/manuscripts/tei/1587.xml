@@ -45,6 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#mroozen" when="2026-09-25T08:04:20.374Z">add endowment note and binding description </change>
             <change who="#mroozen" when="2026-09-25T07:56:19.502Z">add script/hand description</change>
             <change who="#mroozen" when="2026-09-25T07:42:14.318Z">add page and text layout</change>
             <change who="#mroozen" when="2026-09-25T07:27:17.905Z">add physical description</change>
@@ -187,6 +188,7 @@
                                 <origDate when="" from="" to=""/>
                                 <note xml:lang="">
                                     <p>Conspicuous graphic habits: Horizontally stretched letters (dilatation), e.g. fol. 7v, l. 14.</p>
+                                    <p>Occasional corrections and insertions in both the inner and outer margins (e.g. fol. 5v).</p>
                                 </note>
                             </handNote>
                         </handDesc>
@@ -209,9 +211,11 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
-                                    <locus from="" to=""/>
-                                    <quote type="transcription" xml:lang=""/>
+                                    <objectType>Certificates of endowment</objectType>
+                                    <locus from="1r" to=""/>
+                                    <quote type="transcription" xml:lang="">
+                                        <p>קדש עלי المبارك بن ابو هيثم(؟) الاسرايلي ועל זרעי אחרי ואחריהם על כנסת בני מקרא ...</p>
+                                    </quote>
                                     <quote type="translation" xml:lang=""/>
                                     <note xml:lang=""/>
                                     <listRelation/>
@@ -232,7 +236,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding holes and thread (fols. 4v–5r)</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
