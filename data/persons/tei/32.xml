@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-09-25T02:00:44.390Z"/>
             <change who="#nurbiczek" when="2026-09-25T00:51:00.812Z"/>
             <change who="#nurbiczek" when="2026-09-25T00:48:58.824Z"/>
             <change who="#nurbiczek" when="2026-09-25T00:44:30.892Z">biography</change>
@@ -148,7 +149,6 @@
                         <placeName ref="" cert="">Jerusalem</placeName>
                     </residence>
                     <bibl xml:id="">
-                        
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
@@ -171,7 +171,6 @@
                 <persName/>
                 <quote xml:lang=""/>
                 <bibl>
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
