@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-09-25T00:06:26.951Z"/>
             <change who="#nurbiczek" when="2026-09-25T00:02:56.048Z">biography</change>
             <change who="#S.Mattutat" when="2025-02-03T08:09:45.944Z">Person: Header.</change>
             <change who="#S.Mattutat" when="2024-12-12T14:21:21.991Z">Person: Personal Name.</change>
@@ -119,7 +120,7 @@
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <note xml:lang="" resp="" type="">
+                    <note xml:lang="en" resp="nurbiczek" type="biography">
                         <p>Abū ʿAlī Šmuʾel b. Saynāʾī is only attested as a questioner in a responsum by Yūsuf al-Baṣīr (<emph rend="italic">Ǧawābāt masāʾil Abī ʿAlī Šmuʾel Saynāʾī</emph>; BL Or. 2571). No further information about his life or activities is known, so it remains unclear how or whether he was associated with the Qaraite academy in Jerusalem.</p>
                     </note>
                     <state>
