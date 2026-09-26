@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-09-26T00:38:01.052Z"/>
             <change who="#nurbiczek" when="2026-09-26T00:33:11.920Z">biography</change>
             <change who="#nurbiczek" when="2025-06-27T12:51:49.854Z"/>
             <change who="#mmoliere" when="2025-06-26T18:24:31.777Z">Corrected note type.</change>
@@ -78,7 +79,7 @@
                 <person xml:id="person-29">
                     <occupation cert=""/>
                     <note resp="nurbiczek" type="biography" xml:lang="en">
-                        <p>Mišaʾel ben ʿUzziʾel was a Qaraite scholar active in Jerusalem in the early 11th century. Little reliable information on his life is preserved. He is best known as the author of the <emph rend="italic">Kitāb al-ḫilaf</emph> (Book of Differences, hebr.: <emph rend="italic">Sefer ha-ḥilūfīm</emph>), a systematic account of the differences between the Masoretic traditions of Ben Ašer and Ben Naftali. Mišaʾel ben ʿUzziʾel also corrected the Torah codex, known as Cairo 3 (alternatively C3/Q3/Gottheil 18), as he informs us in its colophon, also noting that he undertook this work at the request of Maṣliaḥ b. Sahl. He corrected the codex original vocalisation and accentuation systematically towards the tradition of Ben Ašer. His annotations within the manuscript are marked with אמ  (amar Mišaʾel, i.e. Mišaʾel says). Because of similar annotations and other similarities within NLR Yevr. II B 20 has Vincent Beiler recently suggested that this manuscript was corrected by Mišaʾel ben ʿUzziʾel as well (Beiler 2023). The corrected codices together with the treatise offer a rare opportunity to examine both a scholar’s theoretical work and his own application of that knowledge in practice.</p>
+                        <p>Mišaʾel ben ʿUzziʾel was a Qaraite scholar active in Jerusalem in the early 11th century. Little reliable information on his life is preserved. He is best known as the author of the <emph rend="italic">Kitāb al-ḫilaf</emph> (Book of Differences, hebr.: <emph rend="italic">Sefer ha-ḥilūfīm</emph>), a systematic account of the differences between the Masoretic traditions of Ben Ašer and Ben Naftali. Mišaʾel ben ʿUzziʾel also corrected the Torah codex, known as Cairo 3 (alternatively C3/Q3/Gottheil 18), as he informs us in its colophon, also noting that he undertook this work at the request of Maṣliaḥ b. Sahl. He corrected the codex original vocalisation and accentuation systematically towards the tradition of Ben Ašer. His annotations within the manuscript are marked with אמ  (amar Mišaʾel, i.e. Mišaʾel says). Because of similar annotations and other parallels within NLR Yevr. II B 20+ has Vincent Beiler recently suggested that this manuscript was corrected by Mišaʾel ben ʿUzziʾel as well (Beiler 2023). The corrected codices together with the treatise offer a rare opportunity to examine both a scholar’s theoretical work and his own application of that knowledge in practice.</p>
                         <p>The curious case of a 12th century Geniza letter written by a Mišaʾel b. ʿUzziʾel, might be explained as being the work of a descendant bearing the same name.</p>
                     </note>
                     <persName xml:id="name-1" xml:lang="he-Latn" type="majlis-headword">
