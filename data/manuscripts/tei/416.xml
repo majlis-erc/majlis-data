@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-28T08:29:36.477Z">add content summary and canonical title</change>
             <change who="#mroozen" when="2026-09-28T08:26:27.985Z">add manuscript joins</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -78,10 +79,13 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Two large fragments of Abū l Faraǧ Furqān b. Asad’s Torah commentary on <emph rend="italic">Parashat Qedušim</emph> and <emph rend="italic">Parashat Emor</emph>. Contains the Arabic-script transcription and translation of Lev 19:1–37 (fols. 1v–7v), the commentary on Lev 19:1,22–23 (fols. 8r–18v), the commentary on Lev 23:1–22 (fols. 19r–29v, 36r–46r), the Arabic-script transcription and translation of Lev 23:23–25 (fol. 46r-v), the commentary on Lev 23:23–25 (fols. 46v–49v), the Arabic-script transcription and translation of Lev 23:26–32 (fols. 49v–50v), the commentary on Lev 23:26–32 (fols. 50v–54v), the Arabic-script transcription and translation of Lev 23:33–44 (fols. 54v–56v), the commentary on Lev 23:33–44 (fols. 56v–63v), the Arabic-script transcription and translation of Lev 24:1–4 (fol. 63v–64r), the commentary on Lev 24:1–4 (fols. 64v–65r), the Arabic-script transcription and translation of Lev 24:5–9 (fols. 65r–66r), the commentary on Lev 24:5–9 (fols. 66r–68r), the Arabic-script transcription and translation of Lev 24:10–23 (fols. 68r–70r), the commentary on Lev 24:10–23 (fols. 70r–73r; 73v–74v are empty). Fols. 30–35 are in a different hand and contain the commentary on Deut 1:12–18 by the same author.</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
+                            <title ref="https://jalit.org/work/80">Commentary on the Torah (Yešuʿa ben Yehuda)</title>
                             <locus from="" to=""/>
-                            <title cert="" ref="" xml:lang="">פרוש על התורה (ויקרא)</title>
+                            
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
