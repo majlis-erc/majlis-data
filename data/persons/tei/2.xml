@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-09-28T03:36:15.215Z"/>
             <change who="#nurbiczek" when="2026-09-28T03:28:39.530Z"/>
             <change who="#nurbiczek" when="2026-09-28T00:24:11.494Z"/>
             <change who="#nurbiczek" when="2026-09-26T01:47:41.574Z">biography</change>
@@ -281,9 +282,9 @@
                         <name>Salmon ben Yeruḥīm</name>
                     </persName>
                     <persName xml:id="name-71" source="#" type="canon" xml:lang="he">
-      <forename>סלמון</forename>
-      <addName ref="" type="" xml:id="">בן ירוחם</addName>
-      <name/>
+      <forename/>
+      <addName ref="" type="" xml:id=""/>
+      <name>סלמון בן ירוחם</name>
    </persName>
                     <persName xml:id="name-72" type="alternate" xml:lang="he">
                         <name/>
