@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-09-28T00:05:48.244Z"/>
             <change who="#nurbiczek" when="2026-09-25T00:28:06.415Z"/>
             <change who="#nurbiczek" when="2026-09-24T22:47:44.915Z">biography</change>
             <change who="#S.Mattutat" when="2024-12-12T13:46:00.911Z">Person: Personal Name.</change>
@@ -104,7 +105,7 @@
                         <addName ref="#is-ar" type="ism">Šalom</addName>
                         <addName ref="#na-ar" type="nasab"/>
                         <addName ref="#ni-ar" type="nisbah"/>
-                        <addName ref="#ku-ar" type="kunya">Abū al-Ṭayyib</addName>
+                        <addName ref="#ku-ar" type="kunya">Abū l-Ṭayyib</addName>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:id="name-10" xml:lang="he">
