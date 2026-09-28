@@ -73,15 +73,15 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#nurbiczek" when="2026-09-28T00:53:20.657Z"/>
             <change who="#nurbiczek" when="2026-09-28T00:39:59.886Z">title</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <bibl xml:id="">
-                <title xml:id="title-1" source="#" xml:lang="en" type="majlis-headword">Commentary on the Book of Daniel</title>
-                <title xml:id="title-2" source="#" xml:lang="en" type="majlis-headword">Commentary on the Book of Daniel</title>
-                
+                <title xml:id="title-1" source="#" xml:lang="en" type="majlis-headword">Commentary on the Book of Qohelet</title>
+                <title xml:id="title-2" source="#" xml:lang="en" type="authorial">Commentary on the Book of Qohelet</title>
                 <author ref="https://jalit.org/person/2">Salmon ben Yerūḥam</author>
                 <persName role="" ref="" cert=""/>
                 <textLang mainLang="" otherLangs=""/>
@@ -92,7 +92,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
