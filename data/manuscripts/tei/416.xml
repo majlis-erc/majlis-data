@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-28T09:18:41.729Z">add hand description, incodicated documents and binding description </change>
             <change who="#mroozen" when="2026-09-28T09:02:31.003Z">add page and text layout</change>
             <change who="#mroozen" when="2026-09-28T08:46:47.289Z">add physical description: writing material</change>
             <change who="#mroozen" when="2026-09-28T08:35:55.259Z">add incipit, explicit, chapter and section headings</change>
@@ -191,15 +192,22 @@
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc hands="">
-                            <summary xml:lang=""/>
+                        <handDesc hands="2">
+                            <summary xml:lang="">
+                                <p>Fols. 30–35 are in different hand.</p>
+                            </summary>
                             <handNote xml:id="hand-1.1.1" medium="">
+                                <metamark function="vocalization">Sporadic vocalisation of the Arabic text; full Tiberian vocalisation in red ink of the Hebrew verses in Arabic-script transcription.</metamark>
+                                <metamark function="diacritics">Sporadic dotting.</metamark>
                                 <locus from="" to=""/>
                                 <persName ref="" role=""/>
                                 <placeName ref=""/>
-                                <metamark function=""/>
+                                <metamark function="divine-names">ىىا (e.g. fol. 8r, l. 1)</metamark>
                                 <origDate/>
-                                <note xml:lang=""/>
+                                <note xml:lang="">
+                                    <p>Conspicuous graphic habits: Elongation of the horizontal connectors between letters (e.g. fol. 69r, l. 9). Horizontally stretched letters (dilatation) at line ends (e.g. fol. 25r, ll. 3, 9, 14).</p>
+                                    <p>Occasional corrections and insertions in both the inner and outer margins (e.g. fols. 15r, 35v, 60v, 72r).</p>
+                                </note>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
@@ -221,10 +229,13 @@
                         <additions>
                             <list>
                                 <item xml:id="add-1.1.1.1">
-                                    <objectType/>
+                                    <objectType>Certificates of endowment</objectType>
                                     <persName ref="" role="mentioned"/>
                                     <locus from="" to=""/>
-                                    <quote xml:lang=""/>
+                                    <quote xml:lang="">
+                                        <p>Endowment note on fol. 1r (// Yevr.-Arab. II 1150, fol. 100r):</p>
+                                        <p>קדש עלי ועל זרעי אחרי ואחריהם על כנסת בני מקרא אני שמואל בן מר' ור' שלמה בן מר' ור' שמואל בן מר' ור' משה כאזרוני ס' ט' ארור מוכרו וארור קונהו ומחליפו ומעביטו וגונבו וארור מחליף קדושתו והכתיבה אשר על גבו</p>
+                                    </quote>
                                     <note xml:lang=""/>
                                 </item>
                             </list>
@@ -243,7 +254,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition key="">Binding thread and holes (e.g. fols. 4v–5r).</condition>
                             </binding>
                         </bindingDesc>
                         <accMat>
