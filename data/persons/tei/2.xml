@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-09-28T00:24:11.494Z"/>
             <change who="#nurbiczek" when="2026-09-26T01:47:41.574Z">biography</change>
             <change who="#S.Mattutat" when="2024-12-11T14:47:20.822Z">Person: Personal name</change>
             <change who="#mmoliere" when="2024-09-02T13:07:35.240Z">Revised heritage data.</change>
@@ -275,8 +276,8 @@
                     <persName xml:id="name-69" type="attested" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName xml:id="name-70" type="attested" xml:lang="ar">
-                        <name/>
+                    <persName xml:id="name-70" type="attested" xml:lang="he">
+                        <name>Salmon ben Yeruḥīm</name>
                     </persName>
                     <persName xml:id="name-71" type="alternate" xml:lang="he">
                         <name/>
@@ -294,16 +295,16 @@
                     </persName>
                     <persName xml:id="name-74" type="canon" xml:lang="ar-Hebr">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#is-ar" type="ism">Sulaym / Sulaymān </addName>
+                        <addName ref="#na-ar" type="nasab">b. Ruḥaym</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
                     <persName xml:id="name-75" type="canon" xml:lang="ar-Latn">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism"/>
-                        <addName ref="#na-ar" type="nasab"/>
+                        <addName ref="#is-ar" type="ism">سليم / سليمان </addName>
+                        <addName ref="#na-ar" type="nasab"> بن رحيم</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
