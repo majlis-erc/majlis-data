@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-28T08:35:55.259Z">add incipit, explicit, chapter and section headings</change>
             <change who="#mroozen" when="2026-09-28T08:29:36.477Z">add content summary and canonical title</change>
             <change who="#mroozen" when="2026-09-28T08:26:27.985Z">add manuscript joins</change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
@@ -89,14 +90,21 @@
                             <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1v" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>بشيم ىىا ايل عولام<lb/>باروخ هو لعولام<lb/>فراشه<lb/>مقدمه<lb/>كو اامار ىىا جوايل يسراايل قدوشو [Is 49:7]</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="73r" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>وهايا صادق ايزور متناو وهاامونا ايزور حلاصاو :ﮦ [והיה צדק אזור מתניו והאמונה אזור חלציו, Is 11:5] ىراحماو</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>Parashah heading (fol. 1v):<lb/>فراشه	<lb/>مقدمه<lb/>Fol. 19v<lb/>القول في الباب الثاني<lb/>Fol. 20r<lb/>القول في الباب الثالث<lb/>Fol. 23r<lb/>القول في الباب الرابع<lb/>Fol. 25v<lb/>الكلام في الاحتجاجات ... كل منه الى يوم</p>
+                                <p>Title page (fol. 1r):<lb/>قراشة قدوشيم<lb/>פראש׳ קדושים ואמר</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
