@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-28T08:46:47.289Z">add physical description: writing material</change>
             <change who="#mroozen" when="2026-09-28T08:35:55.259Z">add incipit, explicit, chapter and section headings</change>
             <change who="#mroozen" when="2026-09-28T08:29:36.477Z">add content summary and canonical title</change>
             <change who="#mroozen" when="2026-09-28T08:26:27.985Z">add manuscript joins</change>
@@ -109,7 +110,7 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="vertical-rectangle" style="codex">Single manuscript</objectType>
+                            <objectType rend="vertical-rectangle" style="codex">Composite manuscript</objectType>
                             <listBibl>
                                 <bibl>
       <ptr target=""/>
@@ -145,21 +146,27 @@
                                     <note xml:lang=""/>
                                 </support>
                                 <extent>
-                                    <measure unit="folio">31</measure>
+                                    <measure unit="folio">74 </measure>
                                     <dimensions>
                                         <height unit="mm"/>
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
-                                    <formula/>
+                                    <formula>5</formula>
                                     <unit/>
-                                    <catchwords/>
-                                    <note xml:lang=""/>
+                                    <catchwords>Signatures at the beginning of quires</catchwords>
+                                    <note xml:lang="">
+                                        <p>Quire signatures: يز (fol. 36r); يح (fol. 46r); يط (fol. 56r); ک (fol. 65r)</p>
+                                        <p>Position of signature: Upper left corner of the first recto of each quire.</p>
+                                        <p>Type of signature: Alphanumeric Abjad system in Arabic letters</p>
+                                    </note>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Mostly legible; some leaves torn along the upper edge (e.g. fols. 19–29).</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
