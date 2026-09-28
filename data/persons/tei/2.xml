@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-09-28T03:15:56.157Z"/>
             <change who="#nurbiczek" when="2026-09-28T00:24:11.494Z"/>
             <change who="#nurbiczek" when="2026-09-26T01:47:41.574Z">biography</change>
             <change who="#S.Mattutat" when="2024-12-11T14:47:20.822Z">Person: Personal name</change>
@@ -276,16 +277,14 @@
                     <persName xml:id="name-69" type="attested" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName xml:id="name-70" type="attested" xml:lang="he">
-                        <name>Salmon ben Yeruḥīm</name>
+                    
+                    <persName xml:id="name-70" type="alternate" xml:lang="he">
+                        <name/>
                     </persName>
                     <persName xml:id="name-71" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName xml:id="name-72" type="alternate" xml:lang="he">
-                        <name/>
-                    </persName>
-                    <persName xml:id="name-73" type="canon" xml:lang="ar">
+                    <persName xml:id="name-72" type="canon" xml:lang="ar">
                         <addName xml:id="sh-ar" type="shuhra"/>
                         <addName xml:id="is-ar" type="ism"/>
                         <addName xml:id="na-ar" type="nasab"/>
@@ -293,30 +292,30 @@
                         <addName xml:id="ku-ar" type="kunya"/>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-74" type="canon" xml:lang="ar-Hebr">
+                    <persName xml:id="name-73" type="canon" xml:lang="ar-Hebr">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism">Sulaym / Sulaymān </addName>
+                        <addName ref="#is-ar" type="ism">Sulaym / Sulaymān</addName>
                         <addName ref="#na-ar" type="nasab">b. Ruḥaym</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-75" type="canon" xml:lang="ar-Latn">
+                    <persName xml:id="name-74" type="canon" xml:lang="ar-Latn">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism">سليم / سليمان </addName>
-                        <addName ref="#na-ar" type="nasab"> بن رحيم</addName>
+                        <addName ref="#is-ar" type="ism">سليم / سليمان</addName>
+                        <addName ref="#na-ar" type="nasab">بن رحيم</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-76" xml:lang="he">
+                    <persName xml:id="name-75" xml:lang="he">
                         <forename xml:id="fn-he">סלמון</forename>
                         <addName xml:id="pa-he" type="patronym">בן ירוחם</addName>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="name-77" type="canon" xml:lang="he-Latn">
+                    <persName xml:id="name-76" type="canon" xml:lang="he-Latn">
                         <forename ref="#fn-he" xml:lang="he-Latn">Salmon</forename>
                         <addName ref="#pa-he" type="patronym">ben Yeruḥam</addName>
                         <addName ref="#ep-he" type="epithet"/>
