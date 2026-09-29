@@ -73,6 +73,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="#nurbiczek" when="2026-09-29T01:19:53.470Z"/>
             <change who="#nurbiczek" when="2026-09-28T03:06:59.933Z"/>
             <change who="#nurbiczek" when="2026-09-28T02:55:17.258Z"/>
         </revisionDesc>
@@ -83,11 +84,9 @@
                 <title xml:id="title-1" source="#" type="authorial" xml:lang="he-Latn">Sefer Milḥamot Adonai</title>
                 <title xml:id="title-2" source="#" xml:lang="en" type="majlis-headword">The Book of the Wars of the Lord</title>
                 <title xml:id="title-3" source="#" xml:lang="en" type="authorial">The Book of the Wars of the Lord</title>
-                <title xml:id="title-4" source="#" xml:lang="he">ספר מלחמות ה׳ </title>
-                <author ref="" cert=""/>
-                <persName ref="https://jalit.org/person/2">
-                    <persName xmlns="" ref="https://jalit.org/person/2">Salmon ben Yerūḥam</persName>
-                </persName>
+                <title xml:id="title-4" source="#" xml:lang="he">ספר מלחמות ה׳</title>
+                <author ref="https://jalit.org/person/2">Salmon ben Yerūḥam</author>
+                
                 <textLang mainLang="" otherLangs=""/>
                 <term type="script"/>
                 <date when="" from="" to=""/>
@@ -96,7 +95,6 @@
                 <quote xml:lang="" type="" source=""/>
                 <note xml:lang="" type=""/>
                 <bibl xml:id="" type="">
-                    
                     <citedRange unit="p"/>
                     <ptr target=""/>
                 </bibl>
