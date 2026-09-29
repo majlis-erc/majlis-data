@@ -53,6 +53,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="draft">
+            <change who="#mroozen" when="2026-09-29T08:31:42.531Z">add content description and additional properties of page</change>
             <change who="#mroozen" when="2026-09-29T08:18:25.035Z">add identification and manuscript joins </change>
             <change when="2024-07-02" who="#mmoliere" status="draft">Updated heritage data introductions and quotations, and provenance descriptions to extended tag set.</change>
             <change when="2024-05-14" who="#mmoliere" status="draft">Converted Zotero data into TEI-File.</change>
@@ -78,21 +79,30 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary xml:lang=""/>
+                        <summary xml:lang="">
+                            <p>Fragment of Abū l-Faraǧ Furqān b. Asad’s Torah commentary containing the commentary on the final verse of <emph rend="italic">Parshat Pequdei</emph> (Ex 40:38) followed by the scribal colophon, which cites the colophon of the Vorlage and the completion date of the original.</p>
+                        </summary>
                         <msItem xml:id="item-1.1" class="">
+                            <title ref="https://jalit.org/work/80">Commentary on the Torah (Yešuʿa ben Yehuda)</title>
                             <locus from="" to=""/>
-                            <title cert="" ref="" xml:lang="">קטע על המולד</title>
-                            <author ref=""/>
+                            
+                            <author ref="https://jalit.org/person/11">Yešuʿa ben Yehuda</author>
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar-Hebr"/>
+                                <locus from="1r" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>[...]لايلا بعمود ايش لهائير لا[هم]</p>
+                                </quote>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
-                                <quote xml:lang="ar"/>
+                                <locus from="1v" to=""/>
+                                <quote xml:lang="ar">
+                                    <p>اﯨﯩﺎ بشوروثاو لعمو يسراايل<lb/>[امين] وامين<lb/>باروخ اﯨﯩﺎ لعولام<lb/>امين وامين</p>
+                                </quote>
                             </explicit>
-                            <note xml:lang=""/>
+                            <note xml:lang="">
+                                <p>Fol. 2r (end of colophon):<lb/>السابع من شهر رجب سنة ثمان وخمس ماية</p>
+                            </note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -149,15 +159,17 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation rendition="" style=""/>
+                                <foliation rendition="modern" style="foliation">Modern pencil foliation in Arabic numerals (at the bottom of each recto page).</foliation>
                                 <collation>
-                                    <formula/>
+                                    <formula>5</formula>
                                     <unit/>
                                     <catchwords/>
                                     <note xml:lang=""/>
                                 </collation>
                                 <condition>
-                                    <note xml:lang=""/>
+                                    <note xml:lang="">
+                                        <p>Upper and outer margins torn away with some loss of text.</p>
+                                    </note>
                                     <ab rend="" type="writing"/>
                                 </condition>
                             </supportDesc>
