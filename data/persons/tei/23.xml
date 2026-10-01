@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14,12 +14,9 @@
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
                 <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">Ronny Vollandt</editor>
                 <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt>
-            <editor role="contributor">Jonathan Beise</editor>
-                <editor role="contributor">Jasper Bernhofer</editor><editor role="contributor">Maurizio Boehm</editor>
+                <editor role="contributor">Jonathan Beise</editor>
+                <editor role="contributor">Jasper Bernhofer</editor>
+                <editor role="contributor">Maurizio Boehm</editor>
                 <editor role="contributor">Lukas Froschmeier</editor>
                 <editor role="contributor">Annabelle Fuchs</editor>
                 <editor role="contributor">Nathan P. Gibson</editor>
@@ -28,13 +25,18 @@
                 <editor role="contributor">Sara Mattutat</editor>
                 <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">Maximilian de Molière</editor>
                 <editor role="contributor">Lea Poralla</editor>
-                <editor role="contributor">Maxim Roozen</editor><editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
+                <editor role="contributor">Maxim Roozen</editor>
+                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">Gregor Schwarb</editor>
                 <editor role="contributor">Masoumeh Seydi</editor>
                 <editor role="contributor">Jakob Shub-Oseledchik</editor>
                 <editor role="contributor">Ezra Stadler</editor>
                 <editor role="contributor">Peter Tarras</editor>
                 <editor role="contributor">Nadine Urbiczek</editor>
-                </titleStmt>
+                <respStmt>
+                    <resp>Srophé app design and development by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>
                     <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
@@ -52,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-10-01T00:38:19.300Z">biography</change>
             <change who="#mmoliere" when="2026-05-29T08:38:32.101Z">Updated record.</change>
             <change who="#S.Mattutat" when="2024-12-12T12:20:13.202Z">Person: Personal Name.</change>
             <change who="#mmoliere" when="2024-09-02T11:27:18.811Z">Revised heritage data.</change>
@@ -63,22 +66,22 @@
         <body>
             <listPerson>
                 <person xml:id="person-23">
-                    <persName xml:id="name-2" xml:lang="he-Latn" type="majlis-headword">
+                    <persName xml:id="name-1" xml:lang="he-Latn" type="majlis-headword">
                         <name>ʿAzarya ha-Kohen</name>
                     </persName>
-                    <persName xml:id="name-3" type="attested" xml:lang="he">
+                    <persName xml:id="name-2" type="attested" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName xml:id="name-4" type="attested" xml:lang="ar">
+                    <persName xml:id="name-3" type="attested" xml:lang="ar">
+                        <name/>
+                    </persName>
+                    <persName xml:id="name-4" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
                     <persName xml:id="name-5" type="alternate" xml:lang="he">
                         <name/>
                     </persName>
-                    <persName xml:id="name-6" type="alternate" xml:lang="he">
-                        <name/>
-                    </persName>
-                    <persName xml:id="name-7" type="canon" xml:lang="ar">
+                    <persName xml:id="name-6" type="canon" xml:lang="ar">
                         <addName xml:id="sh-ar" type="shuhra"/>
                         <addName xml:id="is-ar" type="ism">عزريا</addName>
                         <addName xml:id="na-ar" type="nasab">ابن صالح</addName>
@@ -86,7 +89,7 @@
                         <addName xml:id="ku-ar" type="kunya"/>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-8" type="canon" xml:lang="ar-Hebr">
+                    <persName xml:id="name-7" type="canon" xml:lang="ar-Hebr">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism">עזריא</addName>
                         <addName ref="#na-ar" type="nasab">אבן צאלח</addName>
@@ -94,7 +97,7 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-9" corresp="" type="canon" xml:lang="ar-Latn">
+                    <persName xml:id="name-8" corresp="" type="canon" xml:lang="ar-Latn">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism">ʿAzaryā</addName>
                         <addName ref="#na-ar" type="nasab">b. Ṣāliḥ</addName>
@@ -102,23 +105,26 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-10" type="canon" xml:lang="he">
+                    <persName xml:id="name-9" type="canon" xml:lang="he">
                         <forename xml:id="fn-he"/>
                         <addName xml:id="pa-he" type="patronym"/>
                         <addName xml:id="ep-he" type="epithet"/>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
-                    <persName xml:id="name-11" corresp="" type="canon" xml:lang="he-Latn">
+                    <persName xml:id="name-10" corresp="" type="canon" xml:lang="he-Latn">
                         <forename ref="#fn-he" xml:lang="he-Latn"/>
                         <addName ref="#pa-he" type="patronym"/>
                         <addName ref="#ep-he" type="epithet"/>
                         <addName ref="#ac-he" type="acronym"/>
                         <addName ref="#sh-he" type="shuhra"/>
                     </persName>
-                    <note xml:lang="" resp="" type=""/>
+                    <note xml:lang="en" resp="nurbiczek" type="biography">
+                        <p>ʿAzaryā b. Ṣalḥ ha-Kohen was a Qaraite active in Jerusalem in the early eleventh century. Haggai Ben Shammai has plausibly identified him with ʿAzaryā b. Maṣliaḥ b. Sahl, the grandson of the prominent tenth century Qaraite scholar Sahl ben Maṣliaḥ (Ben Shammai 2009). This identification is supported by the occurrence of the name Ṣalḥ as the Arabic form of Maṣliaḥ in another manuscript connected with the same family (Cairo MS 18). Two colophons further inform us about ʿAzaryā’s position within the Jerusalem Qaraite Community as a teacher (<emph rend="italic">ha-melammed</emph>, RNL Yevr.-Arab. I 19, fol. 1), a learned man or scholar (<emph rend="italic">ha-maskil</emph>, RNL Yevr.-Arab. I 86, fol. 1), and a man of priestly lineage (<emph rend="italic">ha-kohen</emph>, RNL Yevr.-Arab. I 19, fol. 1 and RNL Yevr.-Arab. I 86, fol. 1). The colophons further state that these manuscripts were dedicated to the Qaraite community of Jerusalem in the <emph rend="italic">ḥaṣer</emph> of Ibn Baḫtawayh under ʿAzaryā’s supervision, suggesting that he was a custodian of communal books there, like his father before him. Azaryā’s connection with the Qaraite scholar Yūsuf al-Baṣīr is attested by a theological <emph rend="italic">masʾala</emph> (BL Or. 2570) which was dictated by Yūsuf al-Baṣīr specifically to ʿAzaryā b. Ṣalḥ, and therefore indicating a teacher-student relationship between them. No work by ʿAzaryā b. Ṣalḥ has so far been identified.</p>
+                        <p>A Geniza document dated March 1052 (T-S 12.147), drawn up by a delegation of twelve Qaraites from Gaza and Jerusalem concerning the state of the barley fields, includes among its witnesses a certain Ṣalḥ b. ʿAzaryā. Given the Qaraite, chronological and geographical context, as well as the occurrence of Ṣalḥ as a form of Maṣliaḥ within ʿAzaryā’s family, the author suggests here that this may have been a son of ʿAzaryā.</p>
+                    </note>
                     <state>
-                        <label cert="" source=""/>
+                        <label cert=""/>
                     </state>
                     <birth>
                         <date cert=""/>
@@ -129,17 +135,16 @@
                         <placeName ref="" cert=""/>
                     </death>
                     <floruit>
-                        <date cert=""/>
-                        <placeName ref="" cert=""/>
+                        <date cert="">11th c.</date>
+                        <placeName ref="https://jalit.org/place/3">Jerusalem</placeName>
                     </floruit>
-                    <sex cert=""/>
-                    <faith cert=""/>
+                    <sex cert="">Male</sex>
+                    <faith cert="">Karaite</faith>
                     <occupation type="" cert=""/>
                     <residence>
                         <placeName ref="" cert=""/>
                     </residence>
                     <bibl xml:id="">
-                        
                         <citedRange unit="p"/>
                         <ptr target=""/>
                     </bibl>
