@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-10-01T00:47:53.486Z">biography, name</change>
             <change who="#nurbiczek" when="2026-10-01T00:38:19.300Z">biography</change>
             <change who="#mmoliere" when="2026-05-29T08:38:32.101Z">Updated record.</change>
             <change who="#S.Mattutat" when="2024-12-12T12:20:13.202Z">Person: Personal Name.</change>
@@ -69,8 +70,8 @@
                     <persName xml:id="name-1" xml:lang="he-Latn" type="majlis-headword">
                         <name>ʿAzarya ha-Kohen</name>
                     </persName>
-                    <persName xml:id="name-2" type="attested" xml:lang="he">
-                        <name/>
+                    <persName xml:id="name-2" type="attested" xml:lang="he-Latn">
+                        <name>ʿAzaryā b. Maṣliaḥ b. Sahl</name>
                     </persName>
                     <persName xml:id="name-3" type="attested" xml:lang="ar">
                         <name/>
@@ -84,15 +85,15 @@
                     <persName xml:id="name-6" type="canon" xml:lang="ar">
                         <addName xml:id="sh-ar" type="shuhra"/>
                         <addName xml:id="is-ar" type="ism">عزريا</addName>
-                        <addName xml:id="na-ar" type="nasab">ابن صالح</addName>
+                        <addName xml:id="na-ar" type="nasab">بن صلح</addName>
                         <addName xml:id="ni-ar" type="nisbah"/>
                         <addName xml:id="ku-ar" type="kunya"/>
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName xml:id="name-7" type="canon" xml:lang="ar-Hebr">
                         <addName ref="#sh-ar" type="shuhra"/>
-                        <addName ref="#is-ar" type="ism">עזריא</addName>
-                        <addName ref="#na-ar" type="nasab">אבן צאלח</addName>
+                        <addName ref="#is-ar" type="ism"/>
+                        <addName ref="#na-ar" type="nasab"/>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
@@ -100,7 +101,7 @@
                     <persName xml:id="name-8" corresp="" type="canon" xml:lang="ar-Latn">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism">ʿAzaryā</addName>
-                        <addName ref="#na-ar" type="nasab">b. Ṣāliḥ</addName>
+                        <addName ref="#na-ar" type="nasab">b. Ṣalḥ</addName>
                         <addName ref="#ni-ar" type="nisbah"/>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
