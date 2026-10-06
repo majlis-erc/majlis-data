@@ -203,10 +203,10 @@
                         <addName xml:id="la-ar" type="laqab"/>
                     </persName>
                     <persName xml:id="name-44" type="canon" xml:lang="ar-Hebr">
-                        <addName ref="#sh-ar" type="shuhra">אלקומיסי</addName>
+                        <addName ref="#sh-ar" type="shuhra">אלקומסי</addName>
                         <addName ref="#is-ar" type="ism">דניאל</addName>
                         <addName ref="#na-ar" type="nasab"/>
-                        <addName ref="#ni-ar" type="nisbah">אלקומיסי אלדאמֹֹגאני</addName>
+                        <addName ref="#ni-ar" type="nisbah">אלקומסי אלדאמֹֹגאני</addName>
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
@@ -221,7 +221,7 @@
                     <persName xml:id="name-46" xml:lang="he">
                         <forename xml:id="fn-he">דניאל</forename>
                         <addName xml:id="pa-he" type="patronym"/>
-                        <addName xml:id="ep-he" type="epithet">אלקומיסי</addName>
+                        <addName xml:id="ep-he" type="epithet">אלקומסי</addName>
                         <addName xml:id="ac-he" type="acronym"/>
                         <addName xml:id="sh-he" type="shuhra"/>
                     </persName>
