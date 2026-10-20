@@ -54,6 +54,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
+            <change who="#nurbiczek" when="2026-10-20T01:26:45.080Z"/>
             <change who="#nurbiczek" when="2026-10-20T00:49:45.618Z"/>
             <change who="#nurbiczek" when="2026-10-20T00:48:22.016Z"/>
             <change who="#nurbiczek" when="2026-09-29T01:11:39.487Z"/>
@@ -81,7 +82,6 @@
                     <persName xml:id="name-2" xml:lang="ar-Latn" type="majlis-headword">
                         <name/>
                     </persName>
-                    
                     <persName xml:id="name-3" type="alternate" xml:lang="">
                         <name source="#viaf">Salmon ben Yeroḥam, active 10th century</name>
                     </persName>
@@ -300,7 +300,7 @@
                         <addName ref="#ku-ar" type="kunya"/>
                         <addName ref="#la-ar" type="laqab"/>
                     </persName>
-                    <persName xml:id="name-74" type="canon" xml:lang="ar-Latn">
+                    <persName xml:id="name-74" type="canon" xml:lang="ar">
                         <addName ref="#sh-ar" type="shuhra"/>
                         <addName ref="#is-ar" type="ism">سليم / سليمان</addName>
                         <addName ref="#na-ar" type="nasab">بن رحيم</addName>
